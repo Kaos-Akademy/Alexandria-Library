@@ -1,5 +1,5 @@
 import './App.css'
-import { getGenresWithBooks } from './flow/actions'
+import { getGenresWithBooks, fetchBookChapters as getBookChapters, type BookChaptersResponse, type BookChapterEntry } from './flow/actions'
 import { useEffect, useMemo, useState } from 'react'
 
 function App() {
@@ -9,6 +9,11 @@ function App() {
   const [suggestions, setSuggestions] = useState<string[]>([])
   const [isOpen, setIsOpen] = useState(false)
   const [highlightedIndex, setHighlightedIndex] = useState<number>(-1)
+  const [selectedBook, setSelectedBook] = useState<string | null>(null)
+  const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] }>>([])
+  const [loadingChapters, setLoadingChapters] = useState(false)
+  const [chaptersError, setChaptersError] = useState<string | null>(null)
+  const [selectedChapterIdx, setSelectedChapterIdx] = useState<number | null>(null)
 
   useEffect(() => {
     let cancelled = false
@@ -143,6 +148,31 @@ function App() {
                   e.preventDefault()
                   setQuery(s)
                   setIsOpen(false)
+                  setSelectedBook(s)
+                  setLoadingChapters(true)
+                  setChaptersError(null)
+                  setSelectedChapterIdx(null)
+                  ;(async () => {
+                    try {
+                      const res: BookChaptersResponse = await getBookChapters(s)
+                      const entries: BookChapterEntry[] = Object.values(res.Chapters)
+                      const normalized = entries
+                        .map((c) => ({
+                          title: c.chapterTitle,
+                          paragraphs: c.paragraphs,
+                          index: typeof c.index === 'string' ? parseInt(c.index, 10) : c.index,
+                        }))
+                        .filter((c) => c.title && Array.isArray(c.paragraphs))
+                        .sort((a, b) => (a.index ?? 0) - (b.index ?? 0))
+                        .map(({ title, paragraphs }) => ({ title, paragraphs }))
+                      setChapters(normalized)
+                    } catch (err) {
+                      setChapters([])
+                      setChaptersError(err instanceof Error ? err.message : 'Failed to load chapters')
+                    } finally {
+                      setLoadingChapters(false)
+                    }
+                  })()
                 }}
                 onMouseEnter={() => setHighlightedIndex(i)}
               >
@@ -152,6 +182,54 @@ function App() {
           </ul>
         )}
       </div>
+
+      {selectedBook && (
+        <div className="space-y-3">
+          <h2 className="text-xl font-semibold">Chapters for {selectedBook}</h2>
+          {loadingChapters ? (
+            <div className="text-gray-600">Loading chapters...</div>
+          ) : chaptersError ? (
+            <div className="text-red-600">{chaptersError}</div>
+          ) : chapters.length === 0 ? (
+            <div className="text-gray-500">No chapters found.</div>
+          ) : (
+            <div className="space-y-4">
+              {selectedChapterIdx === null ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+                  {chapters.map((chapter, idx) => (
+                    <button
+                      key={idx + '-' + chapter.title}
+                      type="button"
+                      className="text-left px-4 py-2 border rounded hover:bg-gray-50"
+                      onClick={() => setSelectedChapterIdx(idx)}
+                    >
+                      {chapter.title}
+                    </button>
+                  ))}
+                </div>
+              ) : (
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold">{chapters[selectedChapterIdx].title}</h3>
+                    <button
+                      type="button"
+                      className="text-sm text-blue-600 hover:underline"
+                      onClick={() => setSelectedChapterIdx(null)}
+                    >
+                      Back to chapters
+                    </button>
+                  </div>
+                  <div className="space-y-4">
+                    {chapters[selectedChapterIdx].paragraphs.map((p, i) => (
+                      <p key={i} className="leading-relaxed">{p}</p>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+      )}
     </div>
   )
 }
