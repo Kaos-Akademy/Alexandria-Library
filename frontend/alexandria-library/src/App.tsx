@@ -6,7 +6,7 @@ import ChaptersView from '@/components/ChaptersView'
 
 function App() {
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
-  const [commandOpen, setCommandOpen] = useState(false)
+  // Inline search; no dialog state
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
   const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] }>>([])
   const [loadingChapters, setLoadingChapters] = useState(false)
@@ -37,31 +37,15 @@ function App() {
 
   // Per-genre filtering is achieved via activeGenre + filteredBooks; no grouped map needed.
 
-  useEffect(() => {
-    const down = (e: KeyboardEvent) => {
-      if (e.key === 'j' && (e.metaKey || e.ctrlKey)) {
-        e.preventDefault()
-        setCommandOpen((open) => !open)
-      }
-    }
-    document.addEventListener('keydown', down)
-    return () => document.removeEventListener('keydown', down)
-  }, [])
+  // Removed keyboard shortcut for dialog
 
   return (
     <div className="container mx-auto p-4">
       <h1 className="text-3xl font-bold mb-6">Alexandria Library</h1>
 
-      <div className="mb-4">
-        <p className="text-sm text-gray-500">
-          Press <kbd className="bg-gray-100 inline-flex h-5 items-center gap-1 rounded border px-1.5 font-mono text-[10px] font-medium"><span className="text-xs">⌘</span>J</kbd> to search books
-        </p>
-      </div>
-
       <BookCommandPalette
         data={data}
-        open={commandOpen}
-        onOpenChange={setCommandOpen}
+        inline
         onSelectBook={(value) => {
           setSelectedBook(value)
           setLoadingChapters(true)

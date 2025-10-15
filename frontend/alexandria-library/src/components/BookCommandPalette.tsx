@@ -1,5 +1,6 @@
-import { useMemo, useState } from 'react'
+import { useMemo, useRef, useState } from 'react'
 import {
+  Command,
   CommandDialog,
   CommandEmpty,
   CommandGroup,
@@ -13,14 +14,17 @@ type GenreWithBooks = { genre: string; books: string[] | null }
 
 type Props = {
   data: GenreWithBooks[]
-  open: boolean
-  onOpenChange: (open: boolean) => void
+  open?: boolean
+  onOpenChange?: (open: boolean) => void
   onSelectBook: (title: string) => void
+  inline?: boolean
 }
 
-export default function BookCommandPalette({ data, open, onOpenChange, onSelectBook }: Props) {
+export default function BookCommandPalette({ data, open = false, onOpenChange, onSelectBook, inline = false }: Props) {
   const [cmdQuery, setCmdQuery] = useState('')
   const [activeGenre, setActiveGenre] = useState<string | null>(null)
+  const [expanded, setExpanded] = useState(false)
+  const blurTimerRef = useRef<number | null>(null)
 
   const allBooks = useMemo(() => {
     const titles: string[] = []
@@ -67,9 +71,18 @@ export default function BookCommandPalette({ data, open, onOpenChange, onSelectB
     return [...prefix, ...substr]
   }, [cmdQuery, data])
 
-  return (
-    <CommandDialog open={open} onOpenChange={onOpenChange}>
-      <CommandInput placeholder="Type a command or search..." onValueChange={setCmdQuery} />
+  const content = (
+    <>
+      <CommandInput
+        placeholder="Type a command or search..."
+        onValueChange={setCmdQuery}
+        onFocus={() => setExpanded(true)}
+        onBlur={() => {
+          if (blurTimerRef.current) window.clearTimeout(blurTimerRef.current)
+          blurTimerRef.current = window.setTimeout(() => setExpanded(false), 120)
+        }}
+      />
+      {expanded && (
       <CommandList>
         <CommandEmpty>No results found.</CommandEmpty>
         <CommandGroup heading={activeGenre ? `Books in ${activeGenre}` : 'Books'}>
@@ -78,8 +91,11 @@ export default function BookCommandPalette({ data, open, onOpenChange, onSelectB
               key={title}
               value={title}
               onSelect={(value) => {
-                onOpenChange(false)
+                if (onOpenChange) {
+                  onOpenChange(false)
+                }
                 onSelectBook(value)
+                setExpanded(false)
               }}
             >
               {title}
@@ -106,6 +122,36 @@ export default function BookCommandPalette({ data, open, onOpenChange, onSelectB
           ))}
         </CommandGroup>
       </CommandList>
+      )}
+    </>
+  )
+
+  if (inline) {
+    if (!expanded) {
+      return (
+        <div className="mb-6">
+          <button
+            type="button"
+            className="w-full max-w-[680px] mx-auto flex items-center gap-2 rounded-lg border px-3 py-2 text-left text-sm text-gray-500 bg-white shadow-sm"
+            onClick={() => setExpanded(true)}
+          >
+            <span className="opacity-70">Search books…</span>
+          </button>
+        </div>
+      )
+    }
+    return (
+      <div className="mb-6">
+        <Command className="rounded-lg border shadow-md md:min-w-[450px]">
+          {content}
+        </Command>
+      </div>
+    )
+  }
+
+  return (
+    <CommandDialog open={open} onOpenChange={onOpenChange}>
+      {content}
     </CommandDialog>
   )
 }
