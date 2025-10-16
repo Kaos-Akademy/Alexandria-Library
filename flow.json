@@ -3,7 +3,7 @@
 		"Alexandria": {
 			"source": "contracts/Alexandria.cdc",
 			"aliases": {
-				"mainnet": "0xfed1adffd14ea9d0"
+				"mainnet": "fed1adffd14ea9d0"
 			}
 		}
 	},
@@ -106,19 +106,26 @@
 		"testnet": "access.devnet.nodes.onflow.org:9000"
 	},
 	"accounts": {
-		"mainnet-Prime-librarian": {
-			"address": "fed1adffd14ea9d0",
-			"key": {
-				"type": "file",
-				"location": "Prime-librarian.pkey"
-			}
-		},
 		"emulator-account": {
 			"address": "f8d6e0586b0a20c7",
 			"key": {
 				"type": "file",
 				"location": "emulator-account.pkey"
 			}
+		},
+		"mainnet-Prime-librarian": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey"
+			}
+		}
+	},
+	"deployments": {
+		"mainnet": {
+			"mainnet-Prime-librarian": [
+				"Alexandria"
+			]
 		}
 	}
 }

@@ -1,4 +1,4 @@
-import { useState } from 'react'
+// useState removed as it's no longer needed
 import Reader from '@/components/reader/Reader'
 
 type Chapter = { title: string; paragraphs: string[] }
@@ -13,46 +13,10 @@ type Props = {
 }
 
 export default function ChaptersView({ selectedBook, chapters, loading, error, selectedChapterIdx, onSelectChapter }: Props) {
-  const [size, setSize] = useState<'sm' | 'md' | 'lg'>('md')
-  // Size handled by Reader controls; retained for potential future inline rendering
+  console.log('ChaptersView render:', { selectedBook, chapters: chapters.length, loading, error, selectedChapterIdx })
   return (
-    <div className="space-y-3">
-      <h2 className="text-lg sm:text-xl font-semibold">Chapters for {selectedBook}</h2>
-      <div className="flex items-center gap-2">
-        <span className="text-xs text-gray-500">Reading size</span>
-        <div className="inline-flex rounded-md border overflow-hidden">
-          <button
-            type="button"
-            className={
-              `px-2 py-1 text-xs sm:text-sm ${size === 'sm' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50'}`
-            }
-            onClick={() => setSize('sm')}
-            aria-pressed={size === 'sm'}
-          >
-            A-
-          </button>
-          <button
-            type="button"
-            className={
-              `px-2 py-1 text-xs sm:text-sm border-l ${size === 'md' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50'}`
-            }
-            onClick={() => setSize('md')}
-            aria-pressed={size === 'md'}
-          >
-            A
-          </button>
-          <button
-            type="button"
-            className={
-              `px-2 py-1 text-xs sm:text-sm border-l ${size === 'lg' ? 'bg-gray-100 text-gray-900' : 'text-gray-600 hover:bg-gray-50'}`
-            }
-            onClick={() => setSize('lg')}
-            aria-pressed={size === 'lg'}
-          >
-            A+
-          </button>
-        </div>
-      </div>
+    <div className="w-full">
+      <h2 className="text-lg sm:text-xl font-semibold mb-4 text-center">Chapters for {selectedBook}</h2>
       {loading ? (
         <div className="text-gray-600">Loading chapters...</div>
       ) : error ? (
@@ -62,12 +26,12 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
       ) : (
         <div className="space-y-4">
           {selectedChapterIdx === null ? (
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 sm:gap-3">
+            <div className="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
               {chapters.map((chapter, idx) => (
                 <button
                   key={idx + '-' + chapter.title}
                   type="button"
-                  className="text-left px-3 py-2 border rounded-md hover:bg-gray-50 text-sm sm:text-base"
+                  className="inline-block px-3 py-2 border rounded-lg hover:bg-gray-50 text-sm font-medium shadow-sm transition-colors whitespace-nowrap"
                   onClick={() => onSelectChapter(idx)}
                 >
                   {chapter.title}
@@ -86,7 +50,7 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
                   Back to chapters
                 </button>
               </div>
-              <div className="space-y-4">
+              <div className="w-full">
                 {
                   (() => {
                     const chapter = chapters[selectedChapterIdx]

@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import ReaderControls from './ReaderControls'
 import { useReaderSettings } from './useReaderSettings'
 import { paginateParagraphs } from './paginate'
-import type { ReaderMode } from './types'
+// ReaderMode type is used in the component logic
 import './styles.css'
 
 type Props = {
@@ -134,7 +134,7 @@ export default function Reader({ content, initialOpenControls, onProgressChange,
           {settings.mode === 'page' ? (
             <div className="reader-page" dangerouslySetInnerHTML={{ __html: pages?.[pageIdx] ?? '' }} />
           ) : (
-            <article className="reader-article" dangerouslySetInnerHTML={{ __html: paragraphs.slice(0, renderCount).join('') }} />
+            <div className="mx-auto text-left" style={{maxWidth: '42rem'}} dangerouslySetInnerHTML={{ __html: paragraphs.slice(0, renderCount).join('') }} />
           )}
         </div>
 

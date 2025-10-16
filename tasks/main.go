@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/manifesto.txt")
+	paragraphs1, err := ReadFile("books/flow.content.5.txt")
 	if err != nil {
-		fmt.Printf("Error reading manifesto file: %v\n", err)
+		fmt.Printf("Error reading flow whitepaper file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from manifesto.txt\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from flow whitepaper\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -63,8 +63,8 @@ func main() {
 	)
 
 	fmt.Println("Testing Contract")
-	fmt.Println("Press any key to continue")
-	fmt.Scanln()
+	/* 	fmt.Println("Press any key to continue")
+	   	fmt.Scanln() */
 
 	color.Red("Alexandria Contract testing")
 
@@ -73,47 +73,47 @@ func main() {
 	// o.Script("get_book_titles")
 
 	// Add a book
-	o.Tx("Admin/add_book",
+	/* 	o.Tx("Admin/add_book",
 		WithSigner("Prime-librarian"),
-		WithArg("title", "The Cypherpunk Manifesto"),
-		WithArg("author", "Eric Hughes"),
+		WithArg("title", "Flow: Separating Consensus and Compute"),
+		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
 		WithArg("genre", "Cryptography"),
 		WithArg("edition", "First Edition"),
-		WithArg("summary", "The Cypherpunk Manifesto remains one of the most influential texts in the history of digital privacy and cryptocurrency. Written in 1993 by Eric Hughes, it became a rallying cry for developers, activists, and technologists who believed in the transformative power of cryptography. Today, as Bitcoin and blockchain technology shape the financial and digital landscapes, the manifesto’s themes of privacy, autonomy, and freedom are more relevant than ever."),
-	).Print()
-	o.Script("get_book",
-		WithArg("bookTitle", "The Cypherpunk Manifesto"),
-	).Print()
-	o.Script("get_books_by_genre",
-		WithArg("genre", "Cryptography"),
-	).Print()
-	o.Script("get_genres").Print()
-	o.Script("get_books_by_author",
-		WithArg("author", "Eric Hughes"),
-	).Print()
+		WithArg("summary", "In this paper, we refine the architecture such that result verification is distributed and parallelized across many Verification Nodes. The full architecture significantly increases throughputand delegates the computation work to the specialized Execution Nodes and the onus of checking it to a variety of less powerful Verification Nodes."),
+	).Print() */
+	/* 	o.Script("get_book",
+	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+	   	).Print()
+	   	o.Script("get_books_by_genre",
+	   		WithArg("genre", "Cryptography"),
+	   	).Print()
+	   	o.Script("get_genres").Print()
+	   	o.Script("get_books_by_author",
+	   		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
+	   	).Print() */
 	// Add a chapter title to a book
 	o.Tx("Admin/add_chapter_name",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "The Cypherpunk Manifesto"),
-		WithArg("chapterTitle", "I"),
+		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+		WithArg("chapterTitle", "Acknowledgments"),
 	).Print()
 	// Add a chapter to a book
 	o.Tx("Admin/add_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "The Cypherpunk Manifesto"),
-		WithArg("chapterTitle", "I"),
-		WithArg("index", 1),
+		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+		WithArg("chapterTitle", "Acknowledgments"),
+		WithArg("index", 5),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
 	o.Script("get_books_by_author",
-		WithArg("author", "Eric Hughes"),
+		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
 	).Print()
-	o.Script("get_book",
-		WithArg("bookTitle", "The Cypherpunk Manifesto"),
-	).Print()
-	o.Script("get_book_chapter",
-		WithArg("bookTitle", "The Cypherpunk Manifesto"),
-		WithArg("chapterTitle", "I"),
-	).Print()
+	/* 	o.Script("get_book",
+	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+	   	).Print()
+	   	o.Script("get_book_chapter",
+	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+	   		WithArg("chapterTitle", "Flow Architecture"),
+	   	).Print() */
 
 }

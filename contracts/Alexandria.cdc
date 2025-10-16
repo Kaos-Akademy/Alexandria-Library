@@ -33,6 +33,7 @@ contract Alexandria {
     access(all) event BookAdded(title: String, author: String, genre: String)
     access(all) event ChapterNameAdded(bookTitle: String, chapterTitle: String)
     access(all) event ChapterAdded(bookTitle: String, chapterTitle: String)
+    access(all) event ChapterRemoved(bookTitle: String, chapterTitle: String)
     access(all) event ChapterSubmitted(bookTitle: String, chapterTitle: String, librarian: Address)
     // -----------------------------------------------------------------------
 	// Alexandria Book Resource
@@ -129,12 +130,14 @@ contract Alexandria {
         fun getChapter(chapterTitle: String): Chapter? {
             return self.Chapters[chapterTitle]!
         }
-/*      access(all)
-        fun removeLastChapter(): Int {
-            let chapter = self.Chapters.removeLast()
+     access(all)
+        fun removeLastChapter(): String {
+            let chapterTitle = self.Chapters.keys.removeLast()
+            let chapter = self.Chapters.remove(key: chapterTitle) as! Chapter
+            
 
-            return self.Chapters.length
-        } */
+            return chapterTitle
+        }
     }
 
     access(all)
@@ -307,6 +310,21 @@ contract Alexandria {
             // add chapter name to book
             let newChapterTitle = book.addChapterName(chapterName: chapterName)        
             // return newChapterTitle
+        }
+        // Remove the last chapter from a book
+        access(all)
+        fun removeLastChapter(bookTitle: String) {
+            pre {
+                Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
+            }
+            // create book path identifier based on title
+            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+            // fetch book
+            let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+            // remove last chapter from book
+            let chapterTitle = book.removeLastChapter()
+            // Emit event
+            emit ChapterRemoved(bookTitle: bookTitle, chapterTitle: chapterTitle)
         }
         // create a new Admin resource
 		access(all)

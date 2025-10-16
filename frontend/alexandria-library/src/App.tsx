@@ -40,8 +40,9 @@ function App() {
   // Removed keyboard shortcut for dialog
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">Alexandria Library</h1>
+    <div className="min-h-screen bg-white">
+      <div className="max-w-4xl mx-auto px-4 py-8">
+        <h1 className="text-3xl font-bold mb-6 text-center">Alexandria Library</h1>
 
       <BookCommandPalette
         data={data}
@@ -85,6 +86,7 @@ function App() {
           onSelectChapter={setSelectedChapterIdx}
         />
       )}
+      </div>
     </div>
   )
 }

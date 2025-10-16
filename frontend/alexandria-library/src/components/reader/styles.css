@@ -1,10 +1,11 @@
 .reader-root{background:var(--reader-bg);color:var(--reader-fg);min-height:100dvh;display:grid;grid-template-rows:1fr}
 .reader-content-wrap{padding:calc(0.5rem + var(--safe-top)) 0 calc(0.5rem + var(--safe-bottom))}
-.reader-content{position:relative;margin:0 auto;width:100%;max-width:var(--reader-max-width);padding:0 1rem;font-family:var(--reader-font-family);font-size:var(--reader-font-size);line-height:var(--reader-line-height)}
+.reader-content{position:relative;margin:0 auto;width:100%;padding:0;font-family:var(--reader-font-family);font-size:var(--reader-font-size);line-height:var(--reader-line-height)}
 .reader-content--scroll{max-height:calc(100dvh - 6rem);overflow-y:auto;-webkit-overflow-scrolling:touch}
 .reader-content--page{height:calc(100dvh - 8rem);overflow:hidden}
-.reader-article p{margin:0 0 1em 0}
 .reader-page{height:100%}
+div h1{text-align:center;font-size:1.5rem;font-weight:bold;margin-bottom:1rem}
+div p{margin-bottom:1rem;line-height:1.6}
 .reader-probe{position:absolute;inset:0;visibility:hidden;pointer-events:none}
 .reader-dim{position:absolute;inset:0;background:rgba(0,0,0,var(--reader-dim));pointer-events:none}
 .reader-progress{display:grid;align-items:center;gap:.25rem;grid-template-columns:1fr auto;max-width:min(680px,92vw);margin:.75rem auto 0;padding:0 .75rem}
