@@ -2,6 +2,7 @@ import "Alexandria"
 
 transaction(
     bookTitle: String,
+    chapterTitle: String,
     ) {
     /// Reference to the withdrawer's collection
     let AdminRef: &Alexandria.Admin
@@ -15,6 +16,6 @@ transaction(
     }
 
   execute {
-        self.AdminRef.removeLastChapter(bookTitle: bookTitle)
+        self.AdminRef.removeChapter(bookTitle: bookTitle, chapterTitle: chapterTitle)
   }
 }

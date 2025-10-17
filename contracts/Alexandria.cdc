@@ -131,11 +131,11 @@ contract Alexandria {
             return self.Chapters[chapterTitle]!
         }
      access(all)
-        fun removeLastChapter(): String {
-            let chapterTitle = self.Chapters.keys.removeLast()
-            let chapter = self.Chapters.remove(key: chapterTitle) as! Chapter
-            
-
+        fun removeChapter(chapterTitle: String): String {
+            pre {
+                self.Chapters[chapterTitle] != nil: "This chapter doesn't exists"
+            }
+            let chapter = self.Chapters.remove(key: chapterTitle)!
             return chapterTitle
         }
     }
@@ -313,7 +313,7 @@ contract Alexandria {
         }
         // Remove the last chapter from a book
         access(all)
-        fun removeLastChapter(bookTitle: String) {
+        fun removeChapter(bookTitle: String, chapterTitle: String) {
             pre {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
@@ -322,7 +322,7 @@ contract Alexandria {
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // remove last chapter from book
-            let chapterTitle = book.removeLastChapter()
+            let chapterTitle = book.removeChapter(chapterTitle: chapterTitle)
             // Emit event
             emit ChapterRemoved(bookTitle: bookTitle, chapterTitle: chapterTitle)
         }

@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/flow.content.5.txt")
+	paragraphs1, err := ReadFile("books/1984_PART_TWO_Chapter_4.txt")
 	if err != nil {
-		fmt.Printf("Error reading flow whitepaper file: %v\n", err)
+		fmt.Printf("Error reading 1984 chapter 9 file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from flow whitepaper\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from 1984 chapter 9\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -74,46 +74,53 @@ func main() {
 
 	// Add a book
 	/* 	o.Tx("Admin/add_book",
-		WithSigner("Prime-librarian"),
-		WithArg("title", "Flow: Separating Consensus and Compute"),
-		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
-		WithArg("genre", "Cryptography"),
-		WithArg("edition", "First Edition"),
-		WithArg("summary", "In this paper, we refine the architecture such that result verification is distributed and parallelized across many Verification Nodes. The full architecture significantly increases throughputand delegates the computation work to the specialized Execution Nodes and the onus of checking it to a variety of less powerful Verification Nodes."),
-	).Print() */
-	/* 	o.Script("get_book",
-	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+	   		WithSigner("Prime-librarian"),
+	   		WithArg("title", "Nineteen eighty-four"),
+	   		WithArg("author", "George Orwell"),
+	   		WithArg("genre", "Dystopian"),
+	   		WithArg("edition", "First Edition"),
+	   		WithArg("summary", "1984 by George Orwell is a dystopian novel set in a totalitarian state called Oceania, where the government—led by the mysterious Big Brother—controls every aspect of citizens’ lives. The story follows Winston Smith, a low-ranking worker at the Ministry of Truth, whose job is to rewrite historical records to fit the Party’s propaganda. Disillusioned with constant surveillance, censorship, and manipulation of truth, Winston begins secretly rebelling by keeping a diary and falling in love with Julia, another dissenter. At its core, 1984 is a chilling warning about surveillance, truth control, and the loss of individuality under absolute power."),
+	   	).Print()
+	   	o.Script("get_book",
+	   		WithArg("bookTitle", "Nineteen eighty-four"),
 	   	).Print()
 	   	o.Script("get_books_by_genre",
-	   		WithArg("genre", "Cryptography"),
+	   		WithArg("genre", "Dystopian"),
 	   	).Print()
 	   	o.Script("get_genres").Print()
 	   	o.Script("get_books_by_author",
-	   		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
+	   		WithArg("author", "George Orwell"),
 	   	).Print() */
 	// Add a chapter title to a book
 	o.Tx("Admin/add_chapter_name",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
-		WithArg("chapterTitle", "Acknowledgments"),
+		WithArg("bookTitle", "Nineteen eighty-four"),
+		WithArg("chapterTitle", "Chapter 12"),
 	).Print()
+
 	// Add a chapter to a book
 	o.Tx("Admin/add_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
-		WithArg("chapterTitle", "Acknowledgments"),
-		WithArg("index", 5),
+		WithArg("bookTitle", "Nineteen eighty-four"),
+		WithArg("chapterTitle", "Chapter 12"),
+		WithArg("index", 12),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
-	o.Script("get_books_by_author",
-		WithArg("author", "Alexander Hentschel, Maor Zamski, Dieter Shirley, Layne Lafrance"),
-	).Print()
-	/* 	o.Script("get_book",
-	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
+	/* 	o.Script("get_books_by_author",
+	   		WithArg("author", "George Orwell"),
+	   	).Print()
+	   	o.Script("get_book",
+	   		WithArg("bookTitle", "Nineteen eighty-four"),
 	   	).Print()
 	   	o.Script("get_book_chapter",
-	   		WithArg("bookTitle", "Flow: Separating Consensus and Compute"),
-	   		WithArg("chapterTitle", "Flow Architecture"),
+	   		WithArg("bookTitle", "Nineteen eighty-four"),
+	   		WithArg("chapterTitle", "Chapter 5"),
 	   	).Print() */
 
+	/// REMOVE CHAPTER
+	/* 	o.Tx("Admin/remove_chapter",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "Nineteen eighty-four"),
+		WithArg("chapterTitle", "Chapter 9"),
+	).Print() */
 }
