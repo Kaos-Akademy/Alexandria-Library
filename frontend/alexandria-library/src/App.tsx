@@ -1,4 +1,5 @@
 import './App.css'
+import '@/components/ui/title-animation.css'
 import { getGenresWithBooks, fetchBookChapters as getBookChapters, type BookChaptersResponse, type BookChapterEntry } from './flow/actions'
 import { useEffect, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
@@ -42,7 +43,10 @@ function App() {
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold mb-6 text-center">Alexandria Library</h1>
+        <div className="text-center mb-4">
+          <h1 className="text-8xl font-bold alexandria-title">Alexandria Library</h1>
+          <p className="text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600">Knowledge belongs to everyone, forever.</p>
+        </div>
 
       <BookCommandPalette
         data={data}
