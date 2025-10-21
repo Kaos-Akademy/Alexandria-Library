@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/1984_PART_TWO_Chapter_4.txt")
+	paragraphs1, err := ReadFile("books/Brave_New_World_Chapter_VII.txt")
 	if err != nil {
-		fmt.Printf("Error reading 1984 chapter 9 file: %v\n", err)
+		fmt.Printf("Error reading Brave New World chapter 5 file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from 1984 chapter 9\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from Brave New World chapter 5\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -74,36 +74,36 @@ func main() {
 
 	// Add a book
 	/* 	o.Tx("Admin/add_book",
-	   		WithSigner("Prime-librarian"),
-	   		WithArg("title", "Nineteen eighty-four"),
-	   		WithArg("author", "George Orwell"),
-	   		WithArg("genre", "Dystopian"),
-	   		WithArg("edition", "First Edition"),
-	   		WithArg("summary", "1984 by George Orwell is a dystopian novel set in a totalitarian state called Oceania, where the government—led by the mysterious Big Brother—controls every aspect of citizens’ lives. The story follows Winston Smith, a low-ranking worker at the Ministry of Truth, whose job is to rewrite historical records to fit the Party’s propaganda. Disillusioned with constant surveillance, censorship, and manipulation of truth, Winston begins secretly rebelling by keeping a diary and falling in love with Julia, another dissenter. At its core, 1984 is a chilling warning about surveillance, truth control, and the loss of individuality under absolute power."),
-	   	).Print()
-	   	o.Script("get_book",
-	   		WithArg("bookTitle", "Nineteen eighty-four"),
+		WithSigner("Prime-librarian"),
+		WithArg("title", "Brave New World"),
+		WithArg("author", "Aldous Leonard Huxley"),
+		WithArg("genre", "Dystopian"),
+		WithArg("edition", "First Edition"),
+		WithArg("summary", "Brave New World by Aldous Huxley (1932) imagines a future where humanity has traded freedom for comfort and control. In this “perfect” society, people are genetically engineered, conditioned from birth, and kept docile through pleasure, consumerism, and a drug called soma. Pain, individuality, and genuine emotion are eliminated — but so is meaning. When an outsider raised in the natural world is brought into this engineered utopia, he exposes the emptiness beneath its happiness. It’s a haunting vision of a world where humanity’s greatest danger isn’t oppression by force, but enslavement by satisfaction."),
+	).Print() */
+	/* 	o.Script("get_book",
+	   		WithArg("bookTitle", "Brave New World"),
 	   	).Print()
 	   	o.Script("get_books_by_genre",
 	   		WithArg("genre", "Dystopian"),
 	   	).Print()
 	   	o.Script("get_genres").Print()
 	   	o.Script("get_books_by_author",
-	   		WithArg("author", "George Orwell"),
+	   		WithArg("author", "Aldous Leonard Huxley"),
 	   	).Print() */
 	// Add a chapter title to a book
 	o.Tx("Admin/add_chapter_name",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Nineteen eighty-four"),
-		WithArg("chapterTitle", "Chapter 12"),
+		WithArg("bookTitle", "Brave New World"),
+		WithArg("chapterTitle", "Chapter VII"),
 	).Print()
 
 	// Add a chapter to a book
 	o.Tx("Admin/add_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Nineteen eighty-four"),
-		WithArg("chapterTitle", "Chapter 12"),
-		WithArg("index", 12),
+		WithArg("bookTitle", "Brave New World"),
+		WithArg("chapterTitle", "Chapter VII"),
+		WithArg("index", 7),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
 	/* 	o.Script("get_books_by_author",
