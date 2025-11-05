@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/Brave_New_World_Chapter_VII.txt")
+	paragraphs1, err := ReadFile("books/Animal_Farm_Chapter_X.txt")
 	if err != nil {
-		fmt.Printf("Error reading Brave New World chapter 5 file: %v\n", err)
+		fmt.Printf("Error reading Animal Farm chapter X file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from Brave New World chapter 5\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from Animal Farm chapter X\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -75,11 +75,11 @@ func main() {
 	// Add a book
 	/* 	o.Tx("Admin/add_book",
 		WithSigner("Prime-librarian"),
-		WithArg("title", "Brave New World"),
-		WithArg("author", "Aldous Leonard Huxley"),
+		WithArg("title", "Animal Farm"),
+		WithArg("author", "George Orwell"),
 		WithArg("genre", "Dystopian"),
 		WithArg("edition", "First Edition"),
-		WithArg("summary", "Brave New World by Aldous Huxley (1932) imagines a future where humanity has traded freedom for comfort and control. In this “perfect” society, people are genetically engineered, conditioned from birth, and kept docile through pleasure, consumerism, and a drug called soma. Pain, individuality, and genuine emotion are eliminated — but so is meaning. When an outsider raised in the natural world is brought into this engineered utopia, he exposes the emptiness beneath its happiness. It’s a haunting vision of a world where humanity’s greatest danger isn’t oppression by force, but enslavement by satisfaction."),
+		WithArg("summary", "Animal Farm by George Orwell (1945) is a satirical fable about the corrupting influence of power and the betrayal of idealism. Set on a farm where animals rebel against human oppression, the story explores themes of revolution, leadership, and the eventual return to tyranny. Through vivid characters and allegorical storytelling, it critiques totalitarianism and questions the motives of those who seek power."),
 	).Print() */
 	/* 	o.Script("get_book",
 	   		WithArg("bookTitle", "Brave New World"),
@@ -94,16 +94,16 @@ func main() {
 	// Add a chapter title to a book
 	o.Tx("Admin/add_chapter_name",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Brave New World"),
-		WithArg("chapterTitle", "Chapter VII"),
+		WithArg("bookTitle", "Animal Farm"),
+		WithArg("chapterTitle", "Chapter X"),
 	).Print()
 
 	// Add a chapter to a book
 	o.Tx("Admin/add_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Brave New World"),
-		WithArg("chapterTitle", "Chapter VII"),
-		WithArg("index", 7),
+		WithArg("bookTitle", "Animal Farm"),
+		WithArg("chapterTitle", "Chapter X"),
+		WithArg("index", 10),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
 	/* 	o.Script("get_books_by_author",
