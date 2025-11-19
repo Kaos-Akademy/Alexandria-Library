@@ -70,6 +70,11 @@ func main() {
 
 	color.Red("")
 
+	// test FlowStakingCollection contract
+	o.Script("/imports/8d0e87b65159ae63/FlowStakingCollection",
+		WithSigner("Prime-librarian"),
+	).Print()
+
 	// o.Script("get_book_titles")
 
 	// Add a book
@@ -92,20 +97,20 @@ func main() {
 	   		WithArg("author", "Aldous Leonard Huxley"),
 	   	).Print() */
 	// Add a chapter title to a book
-	o.Tx("Admin/add_chapter_name",
-		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Animal Farm"),
-		WithArg("chapterTitle", "Chapter X"),
-	).Print()
+	/* 	o.Tx("Admin/add_chapter_name",
+	   		WithSigner("Prime-librarian"),
+	   		WithArg("bookTitle", "Animal Farm"),
+	   		WithArg("chapterTitle", "Chapter X"),
+	   	).Print()
 
-	// Add a chapter to a book
-	o.Tx("Admin/add_chapter",
-		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Animal Farm"),
-		WithArg("chapterTitle", "Chapter X"),
-		WithArg("index", 10),
-		WithArg("paragraphs", paragraphs1),
-	).Print()
+	   	// Add a chapter to a book
+	   	o.Tx("Admin/add_chapter",
+	   		WithSigner("Prime-librarian"),
+	   		WithArg("bookTitle", "Animal Farm"),
+	   		WithArg("chapterTitle", "Chapter X"),
+	   		WithArg("index", 10),
+	   		WithArg("paragraphs", paragraphs1),
+	   	).Print() */
 	/* 	o.Script("get_books_by_author",
 	   		WithArg("author", "George Orwell"),
 	   	).Print()

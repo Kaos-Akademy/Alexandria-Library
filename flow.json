@@ -17,6 +17,33 @@
 				"testnet": "9a0766d93b6608b7"
 			}
 		},
+		"FlowClusterQC": {
+			"source": "mainnet://8624b52f9ddcd04a.FlowClusterQC",
+			"hash": "5fd45018af7e3b7606caf437dd0b6be72f698556313754c12308b8d5b174051d",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7",
+				"mainnet": "8624b52f9ddcd04a",
+				"testnet": "9eca2b38b18b5dfe"
+			}
+		},
+		"FlowDKG": {
+			"source": "mainnet://8624b52f9ddcd04a.FlowDKG",
+			"hash": "90b4397f0dba0b3d3ef9935b59aeef19790cfd8a6c9d96c42121ce723b2d5c2b",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7",
+				"mainnet": "8624b52f9ddcd04a",
+				"testnet": "9eca2b38b18b5dfe"
+			}
+		},
+		"FlowEpoch": {
+			"source": "mainnet://8624b52f9ddcd04a.FlowEpoch",
+			"hash": "9184449afbfb33e85e3e445b16e05f40cbb6e16c11a91db9515f82759977b867",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7",
+				"mainnet": "8624b52f9ddcd04a",
+				"testnet": "9eca2b38b18b5dfe"
+			}
+		},
 		"FlowFees": {
 			"source": "testnet://912d5440f7e3769e.FlowFees",
 			"hash": "5638303da553647a3ae8af974392d802ab7ab43989759a56f071ed684f75623c",
@@ -24,6 +51,22 @@
 				"emulator": "e5a8b7f23e8b548f",
 				"mainnet": "f919ee77447b7497",
 				"testnet": "912d5440f7e3769e"
+			}
+		},
+		"FlowIDTableStaking": {
+			"source": "mainnet://8624b52f9ddcd04a.FlowIDTableStaking",
+			"hash": "c7db781612dfb53de294da564814b3b57dd0a7b7f23fec54ab3b80125cfd3635",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7",
+				"mainnet": "8624b52f9ddcd04a",
+				"testnet": "9eca2b38b18b5dfe"
+			}
+		},
+		"FlowStakingCollection": {
+			"source": "mainnet://8d0e87b65159ae63.FlowStakingCollection",
+			"hash": "872bd73ef9fd255affae3a16630adf90f89e81d30233dcf7fb8f97a1717a9eab",
+			"aliases": {
+				"mainnet": "8d0e87b65159ae63"
 			}
 		},
 		"FlowStorageFees": {
@@ -71,6 +114,13 @@
 				"testnet": "9a0766d93b6608b7"
 			}
 		},
+		"LockedTokens": {
+			"source": "mainnet://8d0e87b65159ae63.LockedTokens",
+			"hash": "ff0277ec27e3be6d873d38675763e2e56c895b1456b1ebf0b454ddac19b6cb10",
+			"aliases": {
+				"mainnet": "8d0e87b65159ae63"
+			}
+		},
 		"MetadataViews": {
 			"source": "testnet://631e88ae7f1d7c20.MetadataViews",
 			"hash": "0b746cabba668c39de9dc47b94fc458f4119cbabb6883616e4a8750518310ccb",
@@ -87,6 +137,13 @@
 				"emulator": "f8d6e0586b0a20c7",
 				"mainnet": "1d7e57aa55817448",
 				"testnet": "631e88ae7f1d7c20"
+			}
+		},
+		"StakingProxy": {
+			"source": "mainnet://62430cf28c26d095.StakingProxy",
+			"hash": "ee5473ab9c05aeb10f39e875b0ff740a83deeea3c1a267b5cc1245295f521689",
+			"aliases": {
+				"mainnet": "62430cf28c26d095"
 			}
 		},
 		"ViewResolver": {
