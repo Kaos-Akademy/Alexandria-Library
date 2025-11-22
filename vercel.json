@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd frontend/alexandria-library && npm run build",
-  "outputDirectory": "frontend/alexandria-library/dist"
+  "buildCommand": "cd frontend/alexandria-library && npm install && npm run build",
+  "outputDirectory": "frontend/alexandria-library/dist",
+  "installCommand": "cd frontend/alexandria-library && npm install"
 }
-
