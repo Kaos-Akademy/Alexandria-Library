@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/Animal_Farm_Chapter_X.txt")
+	paragraphs1, err := ReadFile("books/Gatsby_Chapter_IX.txt")
 	if err != nil {
-		fmt.Printf("Error reading Animal Farm chapter X file: %v\n", err)
+		fmt.Printf("Error reading Gatsby chapter IX file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from Animal Farm chapter X\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from Gatsby chapter IX\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -70,47 +70,33 @@ func main() {
 
 	color.Red("")
 
-	// test FlowStakingCollection contract
-	o.Script("/imports/8d0e87b65159ae63/FlowStakingCollection",
-		WithSigner("Prime-librarian"),
-	).Print()
-
 	// o.Script("get_book_titles")
 
 	// Add a book
 	/* 	o.Tx("Admin/add_book",
 		WithSigner("Prime-librarian"),
-		WithArg("title", "Animal Farm"),
-		WithArg("author", "George Orwell"),
-		WithArg("genre", "Dystopian"),
+		WithArg("title", "The Great Gatsby"),
+		WithArg("author", "F. Scott Fitzgerald"),
+		WithArg("genre", "Literature"),
 		WithArg("edition", "First Edition"),
-		WithArg("summary", "Animal Farm by George Orwell (1945) is a satirical fable about the corrupting influence of power and the betrayal of idealism. Set on a farm where animals rebel against human oppression, the story explores themes of revolution, leadership, and the eventual return to tyranny. Through vivid characters and allegorical storytelling, it critiques totalitarianism and questions the motives of those who seek power."),
+		WithArg("summary", "The Great Gatsby by F. Scott Fitzgerald (1925) is a story of love, loss, and the American Dream. Set in the 1920s, it follows the life of Jay Gatsby, a mysterious and wealthy man who throws lavish parties in an attempt to win back his lost love, Daisy Buchanan."),
 	).Print() */
-	/* 	o.Script("get_book",
-	   		WithArg("bookTitle", "Brave New World"),
-	   	).Print()
-	   	o.Script("get_books_by_genre",
-	   		WithArg("genre", "Dystopian"),
-	   	).Print()
-	   	o.Script("get_genres").Print()
-	   	o.Script("get_books_by_author",
-	   		WithArg("author", "Aldous Leonard Huxley"),
-	   	).Print() */
-	// Add a chapter title to a book
-	/* 	o.Tx("Admin/add_chapter_name",
-	   		WithSigner("Prime-librarian"),
-	   		WithArg("bookTitle", "Animal Farm"),
-	   		WithArg("chapterTitle", "Chapter X"),
-	   	).Print()
 
-	   	// Add a chapter to a book
-	   	o.Tx("Admin/add_chapter",
-	   		WithSigner("Prime-librarian"),
-	   		WithArg("bookTitle", "Animal Farm"),
-	   		WithArg("chapterTitle", "Chapter X"),
-	   		WithArg("index", 10),
-	   		WithArg("paragraphs", paragraphs1),
-	   	).Print() */
+	// Add a chapter title to a book
+	o.Tx("Admin/add_chapter_name",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "The Great Gatsby"),
+		WithArg("chapterTitle", "Chapter IX"),
+	).Print()
+
+	// Add a chapter to a book
+	o.Tx("Admin/add_chapter",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "The Great Gatsby"),
+		WithArg("chapterTitle", "Chapter IX"),
+		WithArg("index", 9),
+		WithArg("paragraphs", paragraphs1),
+	).Print()
 	/* 	o.Script("get_books_by_author",
 	   		WithArg("author", "George Orwell"),
 	   	).Print()
