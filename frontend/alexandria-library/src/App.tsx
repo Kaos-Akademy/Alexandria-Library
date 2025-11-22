@@ -38,7 +38,7 @@ function App() {
 
   // Per-genre filtering is achieved via activeGenre + filteredBooks; no grouped map needed.
 
-  // Removed keyboard shortcut for dialog
+  // Removed keyboard shortcut for dialog ss
 
   return (
     <div className="min-h-screen bg-white">
