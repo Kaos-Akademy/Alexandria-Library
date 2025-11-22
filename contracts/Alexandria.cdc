@@ -326,6 +326,14 @@ contract Alexandria {
             // Emit event
             emit ChapterRemoved(bookTitle: bookTitle, chapterTitle: chapterTitle)
         }
+        // Add a genre to the library
+        access(all)
+        fun addGenre(genre: String) {
+            pre {
+                Alexandria.genres[genre] == nil: "This genre already exists"
+            }
+            Alexandria.genres[genre] = []
+        }
         // create a new Admin resource
 		access(all)
         fun createAdmin(): @Admin {
@@ -336,6 +344,8 @@ contract Alexandria {
         fun changeField(key: String, value: AnyStruct) {
 			Alexandria.libraryInfo[key] = value
 		}
+
+
     }
     // -----------------------------------------------------------------------
 	// Alexandria Librarian Resource
@@ -376,6 +386,14 @@ contract Alexandria {
             emit ChapterSubmitted(bookTitle: bookTitle, chapterTitle: chapter.chapterTitle, librarian: self.owner!.address)
             // return the current number of chapters in this book 
             book.submitChapter(chapterName: chapter.chapterTitle, chapter: chapter, librarian: self.owner!.address)
+        }
+
+        access(all)
+        fun addGenre(genre: String) {
+            pre {
+                Alexandria.genres[genre] == nil: "This genre already exists"
+            }
+            Alexandria.genres[genre] = []
         }
     } 
 

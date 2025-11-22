@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"encoding/base64"
 	"fmt"
 	"os"
 	"strings"
@@ -46,16 +47,33 @@ func ReadFile(filename string) ([]string, error) {
 	return paragraphs, nil
 }
 
+// EncodeImageToBase64 reads an image file and encodes it to base64 string
+func EncodeImageToBase64(imagePath string) (string, error) {
+	// Read the image file
+	imageData, err := os.ReadFile(imagePath)
+	if err != nil {
+		return "", fmt.Errorf("failed to read image file: %w", err)
+	}
+
+	// Encode to base64
+	base64String := base64.StdEncoding.EncodeToString(imageData)
+
+	return base64String, nil
+}
+
 func main() {
 
-	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/Gatsby_Chapter_IX.txt")
+	// Encode image to base64
+	imageBase64, err := EncodeImageToBase64("images/Berserk v01 (2003) (Digital) (Cyborgzx-repack)/Berserk - 001 (v01) - p000.jpg")
 	if err != nil {
-		fmt.Printf("Error reading Gatsby chapter IX file: %v\n", err)
+		fmt.Printf("Error encoding image: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from Gatsby chapter IX\n", len(paragraphs1))
+	// Create paragraphs array with the base64 image string
+	paragraphs1 := []string{imageBase64}
+
+	fmt.Printf("Successfully encoded image. Base64 length: %d characters\n", len(imageBase64))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -73,28 +91,28 @@ func main() {
 	// o.Script("get_book_titles")
 
 	// Add a book
-	/* 	o.Tx("Admin/add_book",
-		WithSigner("Prime-librarian"),
-		WithArg("title", "The Great Gatsby"),
-		WithArg("author", "F. Scott Fitzgerald"),
-		WithArg("genre", "Literature"),
-		WithArg("edition", "First Edition"),
-		WithArg("summary", "The Great Gatsby by F. Scott Fitzgerald (1925) is a story of love, loss, and the American Dream. Set in the 1920s, it follows the life of Jay Gatsby, a mysterious and wealthy man who throws lavish parties in an attempt to win back his lost love, Daisy Buchanan."),
-	).Print() */
+	/* 	o.Tx("Librerian/add_book",
+	   		WithSigner("Prime-librarian"),
+	   		WithArg("title", "Berserk"),
+	   		WithArg("author", "Kentaro Miura"),
+	   		WithArg("genre", "Manga"),
+	   		WithArg("edition", "First Edition"),
+	   		WithArg("summary", "Berserk is a Japanese manga series written and illustrated by Kentaro Miura. It was serialized in Weekly Shōnen Magazine from 1989 to 2002, with the chapters collected into 38 tankobon volumes by Hakusensha. The story follows the life of Guts, a skilled swordsman who becomes known as the Black Swordsman after severing the arm of a demon lord. He is then adopted by the bandit Griffith and joins his band of mercenaries, the Band of the Hawk, as they seek to fulfill Griffith's dream of creating a kingdom."),
+	   	).Print()
 
-	// Add a chapter title to a book
-	o.Tx("Admin/add_chapter_name",
-		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "The Great Gatsby"),
-		WithArg("chapterTitle", "Chapter IX"),
-	).Print()
-
+	   	// Add a chapter title to a book
+	   	o.Tx("Librerian/add_chapter_name",
+	   		WithSigner("Prime-librarian"),
+	   		WithArg("bookTitle", "Berserk"),
+	   		WithArg("chapterTitle", "Chapter I"),
+	   	).Print()
+	*/
 	// Add a chapter to a book
-	o.Tx("Admin/add_chapter",
+	o.Tx("Librerian/add_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "The Great Gatsby"),
-		WithArg("chapterTitle", "Chapter IX"),
-		WithArg("index", 9),
+		WithArg("bookTitle", "Berserk"),
+		WithArg("chapterTitle", "Chapter I"),
+		WithArg("index", 1),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
 	/* 	o.Script("get_books_by_author",
@@ -109,9 +127,9 @@ func main() {
 	   	).Print() */
 
 	/// REMOVE CHAPTER
-	/* 	o.Tx("Admin/remove_chapter",
+	/* 	o.Tx("Librerian/remove_chapter",
 		WithSigner("Prime-librarian"),
-		WithArg("bookTitle", "Nineteen eighty-four"),
-		WithArg("chapterTitle", "Chapter 9"),
+		WithArg("bookTitle", "Berserk"),
+		WithArg("chapterTitle", "Chapter I"),
 	).Print() */
 }
