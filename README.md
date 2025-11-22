@@ -1,6 +1,18 @@
+## 📚 Alexandria's Library
+
+### Mission
+
+Alexandria's Library is a decentralized, immutable library on the Flow blockchain that preserves humanity's literary heritage forever. Inspired by the ancient Library of Alexandria—one of the greatest repositories of knowledge in history—this project ensures that books, chapters, and cultural works can never be lost, censored, or destroyed.
+
+By leveraging blockchain technology, Alexandria's Library:
+- **Preserves knowledge permanently** - Once added to the blockchain, content is immutable and cannot be altered or removed
+- **Enables decentralized curation** - Librarians can submit chapters for review, creating a community-driven library
+- **Provides free access** - All content is publicly accessible to anyone on the Flow network
+- **Supports user preferences** - Readers can bookmark favorites and track their reading progress
+
 ## 👋 Welcome Flow Developer!
 
-This project is a starting point for you to develop smart contracts on the Flow Blockchain. It comes with example contracts, scripts, transactions, and tests to help you get started.
+This project demonstrates how to build a decentralized library system on the Flow Blockchain using Cadence smart contracts. It includes contracts, scripts, transactions, and a governance DAO system.
 
 ## 🔨 Getting Started
 
@@ -17,34 +29,182 @@ Here are some essential resources to help you hit the ground running:
 Your project has been set up with the following structure:
 
 - `flow.json` - This is the configuration file for your project (analogous to a `package.json` file for NPM).  It has been initialized with a basic configuration to get started.
-- `/cadence` - This is where your Cadence smart contracts code lives
-
-Inside the `cadence` folder you will find:
 - `/contracts` - This folder contains your Cadence contracts (these are deployed to the network and contain the business logic for your application)
-  - `Counter.cdc`
+  - `Alexandria.cdc` - Main library contract managing books, chapters, and user preferences
+  - `DAO.cdc` - Governance contract for decentralized decision-making
+  - `AlexandriaToken.cdc` - Token contract for the library ecosystem
 - `/scripts` - This folder contains your Cadence scripts (read-only operations)
-  - `GetCounter.cdc`
+  - `get_book.cdc` - Retrieve a book by title
+  - `get_book_chapter.cdc` - Get a specific chapter from a book
+  - `get_books_by_author.cdc` - List all books by an author
+  - `get_books_by_genre.cdc` - List all books in a genre
+  - `get_genres.cdc` - Get all available genres
+  - `get_authors.cdc` - Get all registered authors
 - `/transactions` - This folder contains your Cadence transactions (state-changing operations)
-  - `IncrementCounter.cdc`
-- `/tests` - This folder contains your Cadence tests (integration tests for your contracts, scripts, and transactions to verify they behave as expected)
-  - `Counter_test.cdc`
+  - `/Admin` - Admin-only transactions
+    - `add_book.cdc` - Add a new book to the library
+    - `add_chapter.cdc` - Add a chapter to a book
+    - `add_chapter_name.cdc` - Add a chapter name (for Librarians to submit content)
+    - `remove_chapter.cdc` - Remove a chapter from a book
+  - `/Librerian` - Librarian transactions
+    - `submit_chapter.cdc` - Submit a chapter for review
+  - User transactions
+    - `add_favorite.cdc` - Add a book to favorites
+    - `remove_favorite.cdc` - Remove a book from favorites
+    - `add_bookmark.cdc` - Bookmark a book
+    - `remove_bookmark.cdc` - Remove a bookmark
+
+## 📖 Documentation
+
+### Contracts
+
+#### Alexandria.cdc
+
+The main library contract that manages the entire library system. It contains several key resources:
+
+**Book Resource**
+- Stores book metadata (title, author, genre, summary, edition)
+- Manages chapters in a dictionary mapping chapter names to Chapter structs
+- Tracks pending chapter submissions from Librarians
+- Provides functions to add/remove chapters and manage chapter names
+
+**Chapter Struct**
+- Contains chapter metadata (book title, chapter title, index)
+- Stores paragraphs as an array of strings
+- Each paragraph is stored on a single line for efficient storage
+
+**UserPreferences Resource**
+- Manages user-specific data (favorites and bookmarks)
+- Allows users to save their reading preferences on-chain
+- Provides public interface for reading preferences
+
+**Admin Resource**
+- Exclusive access to library management functions
+- Can add books, chapters, and approve Librarian submissions
+- Manages the library catalog (titles, authors, genres)
+
+**Librarian Resource**
+- Allows users to submit chapters for review
+- Tracks karma (reputation) and approved/pending chapters
+- Chapters submitted by Librarians go through an approval process
+
+**Public Functions**
+- `getBook(bookTitle: String)` - Retrieve a book reference
+- `getBookChapter(bookTitle: String, chapterTitle: String)` - Get a specific chapter
+- `getAuthors()` - Get all registered authors
+- `getAllGenres()` - Get all available genres
+- `getGenre(genre: String)` - Get all books in a genre
+- `getAuthor(author: String)` - Get all books by an author
+
+#### DAO.cdc
+
+The governance contract for decentralized decision-making:
+
+**Topic Struct**
+- Represents a voting topic with options and vote counts
+- Supports global and regional voting
+- Tracks voters to prevent double-voting
+- Has a time-based expiration (default: 3 days)
+
+**Administrator Resource**
+- Creates new voting topics
+- Manages governance proposals
+
+**NFT Resource**
+- Soul-bound NFTs representing Librarian status
+- Cannot be transferred (soul-bound)
+- Implements Flow's MetadataViews standard
+
+### Transactions
+
+Transactions modify the state of the blockchain. All transactions follow a standard pattern with `prepare` and `execute` phases.
+
+**Admin Transactions** (`/transactions/Admin/`)
+- Require Admin resource access
+- Used for library management operations
+- Examples:
+  - `add_book.cdc` - Creates a new book in the library
+  - `add_chapter.cdc` - Adds a chapter directly to a book (bypasses review)
+  - `add_chapter_name.cdc` - Adds a chapter name, allowing Librarians to submit content
+  - `remove_chapter.cdc` - Removes a chapter from a book
+
+**Librarian Transactions** (`/transactions/Librerian/`)
+- Require Librarian resource access
+- Used for community contributions
+- `submit_chapter.cdc` - Submits a chapter for Admin review and approval
+
+**User Transactions**
+- Available to all users
+- Manage personal preferences
+- Examples:
+  - `add_favorite.cdc` - Adds a book to user's favorites
+  - `add_bookmark.cdc` - Bookmarks a book for later reading
+  - `remove_favorite.cdc` / `remove_bookmark.cdc` - Removes preferences
+
+**Transaction Flow:**
+1. **Prepare Phase**: Accesses account storage, borrows resources, sets up references
+2. **Execute Phase**: Performs the actual state changes using borrowed references
+
+### Scripts
+
+Scripts are read-only operations that query data from the blockchain without modifying state. They don't require any authorization and can be executed by anyone.
+
+**Available Scripts:**
+- `get_book.cdc` - Returns a book reference by title
+- `get_book_chapter.cdc` - Returns a specific chapter from a book
+- `get_books_by_author.cdc` - Returns all books written by an author
+- `get_books_by_genre.cdc` - Returns all books in a specific genre
+- `get_genres.cdc` - Returns all available genres in the library
+- `get_authors.cdc` - Returns all registered authors
+
+**Script Execution:**
+Scripts are executed using the Flow CLI:
+```shell
+flow scripts execute scripts/get_book.cdc --args-json '{"bookTitle": "The Great Gatsby"}'
+```
 
 ## Running the Existing Project
 
-### Executing the `GetCounter` Script
+### Executing Scripts
 
-To run the `GetCounter` script, use the following command:
+To query data from the library, use scripts. For example, to get a book:
 
 ```shell
-flow scripts execute cadence/scripts/GetCounter.cdc
+flow scripts execute scripts/get_book.cdc --args-json '{"bookTitle": "The Great Gatsby"}'
 ```
 
-### Sending the `IncrementCounter` Transaction
-
-To run the `IncrementCounter` transaction, use the following command:
+To get all genres:
 
 ```shell
-flow transactions send cadence/transactions/IncrementCounter.cdc
+flow scripts execute scripts/get_genres.cdc
+```
+
+To get all books by an author:
+
+```shell
+flow scripts execute scripts/get_books_by_author.cdc --args-json '{"author": "F. Scott Fitzgerald"}'
+```
+
+### Sending Transactions
+
+To add a book to your favorites (requires user account):
+
+```shell
+flow transactions send transactions/add_favorite.cdc --args-json '{"title": "The Great Gatsby"}' --signer user
+```
+
+To add a new book to the library (requires Admin access):
+
+```shell
+flow transactions send transactions/Admin/add_book.cdc \
+  --args-json '{
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "edition": "First Edition",
+    "summary": "A dystopian novel about totalitarian surveillance"
+  }' \
+  --signer admin
 ```
 
 To learn more about using the CLI, check out the [Flow CLI Documentation](https://developers.flow.com/tools/flow-cli).
