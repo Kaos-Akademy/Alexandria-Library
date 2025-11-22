@@ -1,8 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "framework": "vite",
-  "rootDirectory": "frontend/alexandria-library"
+  "buildCommand": "cd frontend/alexandria-library && npm run build",
+  "outputDirectory": "frontend/alexandria-library/dist"
 }
 
