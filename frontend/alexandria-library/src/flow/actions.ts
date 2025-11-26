@@ -1,6 +1,8 @@
 import { getGenres } from "./scripts/getGenres"
 import { getBooksByGenre } from "./scripts/getBooksByGenre"
 import { getBookChapters } from "./scripts/getBookChapters"
+import { getChapterParagraph } from "./scripts/getChapterParagraph"
+import { getChapterTitles } from "./scripts/getChapterTitles"
 import * as fcl from '@onflow/fcl';
 
 fcl.config({
@@ -13,7 +15,6 @@ export const fetchGenres = async () => {
         cadence: getGenres(),
         args: () => [],
     });
-    console.log(response)
     return response;
 };
 
@@ -22,10 +23,16 @@ export const fetchBooksByGenre = async (genre: string) => {
         cadence: getBooksByGenre(),
         args: (arg, t) => [arg(genre, t.String)],
     });
-    console.log(response)
     return response;
 };
 
+export const fetchChapterTitles = async (bookTitle: string) => {
+    const response = await fcl.query({
+        cadence: getChapterTitles(),
+        args: (arg, t) => [arg(bookTitle, t.String)],
+    });
+    return response;
+};
 export const getGenresWithBooks = async (): Promise<Array<{ genre: string; books: string[] | null }>> => {
     const genres: unknown = await fetchGenres();
     if (!Array.isArray(genres)) return [];
@@ -46,6 +53,14 @@ export const getGenresWithBooks = async (): Promise<Array<{ genre: string; books
     return results;
 };
 
+export const fetchChapterParagraph = async (bookTitle: string, chapterTitle: string, paragraphIndex: number) => {
+    const response = await fcl.query({
+        cadence: getChapterParagraph(),
+        args: (arg, t) => [arg(bookTitle, t.String), arg(chapterTitle, t.String), arg(paragraphIndex, t.Int)],
+    });
+    return response;
+};
+
 export interface BookChapterEntry {
     bookTitle: string;
     chapterTitle: string;
@@ -64,6 +79,5 @@ export const fetchBookChapters = async (bookTitle: string): Promise<BookChapters
         cadence: getBookChapters(),
         args: (arg, t) => [arg(bookTitle, t.String)],
     });
-    console.log(response)
     return response as BookChaptersResponse;
 };

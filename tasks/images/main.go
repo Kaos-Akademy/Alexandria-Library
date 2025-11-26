@@ -247,7 +247,17 @@ func main() {
 	color.Red("Alexandria Contract - Batch Image Upload")
 	color.Red("")
 
-	o.Script("get_chapter_titles",
-		WithArg("bookTitle", "Berserk"),
-	).Print()
+	// Configuration
+	directoryPath := "/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/images/Berserk v01 (2003) (Digital) (Cyborgzx-repack)"
+	startPage := "p011" // Start from page 11
+	bookTitle := "Berserk"
+	chapterTitle := "Chapter I"
+	signer := "Prime-librarian"
+
+	// Upload all images starting from p011
+	err := UploadImagesFromDirectory(o, directoryPath, startPage, bookTitle, chapterTitle, signer)
+	if err != nil {
+		color.Red("Error: %v", err)
+		os.Exit(1)
+	}
 }

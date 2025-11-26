@@ -5,7 +5,8 @@ go 1.25.0
 require (
 	github.com/bjartek/overflow/v2 v2.9.2
 	github.com/fatih/color v1.17.0
-	github.com/ledongthuc/pdf v0.0.0-20250511090121-5959a4027728
+	github.com/stretchr/testify v1.11.1
+	golang.org/x/image v0.25.0
 )
 
 require (
@@ -204,7 +205,6 @@ require (
 	github.com/spf13/viper v1.15.0 // indirect
 	github.com/stoewer/go-strcase v1.3.0 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
-	github.com/stretchr/testify v1.11.1 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/supranational/blst v0.3.14 // indirect
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7 // indirect

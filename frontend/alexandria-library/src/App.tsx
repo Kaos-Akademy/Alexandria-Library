@@ -1,6 +1,6 @@
 import './App.css'
 import '@/components/ui/title-animation.css'
-import { getGenresWithBooks, fetchBookChapters as getBookChapters, type BookChaptersResponse, type BookChapterEntry } from './flow/actions'
+import { getGenresWithBooks, fetchChapterTitles } from './flow/actions'
 import { useEffect, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
 import ChaptersView from '@/components/ChaptersView'
@@ -9,7 +9,7 @@ function App() {
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
   // Inline search; no dialog state
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
-  const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] }>>([])
+  const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] | null }>>([])
   const [loadingChapters, setLoadingChapters] = useState(false)
   const [chaptersError, setChaptersError] = useState<string | null>(null)
   const [selectedChapterIdx, setSelectedChapterIdx] = useState<number | null>(null)
@@ -58,17 +58,15 @@ function App() {
           setSelectedChapterIdx(null)
           ;(async () => {
             try {
-              const res: BookChaptersResponse = await getBookChapters(value)
-              const entries: BookChapterEntry[] = Object.values(res.Chapters)
-              const normalized = entries
-                .map((c) => ({
-                  title: c.chapterTitle,
-                  paragraphs: c.paragraphs,
-                  index: typeof c.index === 'string' ? parseInt(c.index, 10) : c.index,
-                }))
-                .filter((c) => c.title && Array.isArray(c.paragraphs))
-                .sort((a, b) => (a.index ?? 0) - (b.index ?? 0))
-                .map(({ title, paragraphs }) => ({ title, paragraphs }))
+              // Fetch only chapter titles (lightweight, no content)
+              const chapterTitles: unknown = await fetchChapterTitles(value)
+              if (!Array.isArray(chapterTitles)) {
+                throw new Error('Invalid response: expected array of chapter titles')
+              }
+              // Initialize chapters with titles only, paragraphs will be loaded on-demand
+              const normalized = chapterTitles
+                .filter((title): title is string => typeof title === 'string' && title.length > 0)
+                .map((title) => ({ title, paragraphs: null as string[] | null }))
               setChapters(normalized)
             } catch (err) {
               setChapters([])
@@ -88,6 +86,7 @@ function App() {
           error={chaptersError}
           selectedChapterIdx={selectedChapterIdx}
           onSelectChapter={setSelectedChapterIdx}
+          onChaptersUpdate={setChapters}
         />
       )}
       </div>

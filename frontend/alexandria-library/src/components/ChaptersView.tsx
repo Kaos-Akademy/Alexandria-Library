@@ -1,7 +1,8 @@
-// useState removed as it's no longer needed
+import { useState, useEffect, useRef } from 'react'
 import Reader from '@/components/reader/Reader'
+import { fetchChapterParagraph } from '@/flow/actions'
 
-type Chapter = { title: string; paragraphs: string[] }
+type Chapter = { title: string; paragraphs: string[] | null }
 
 // Helper function to check if a string is a base64 encoded image
 function isBase64Image(str: string): boolean {
@@ -39,10 +40,171 @@ type Props = {
   error: string | null
   selectedChapterIdx: number | null
   onSelectChapter: (idx: number | null) => void
+  onChaptersUpdate: (chapters: Chapter[]) => void
 }
 
-export default function ChaptersView({ selectedBook, chapters, loading, error, selectedChapterIdx, onSelectChapter }: Props) {
-  console.log('ChaptersView render:', { selectedBook, chapters: chapters.length, loading, error, selectedChapterIdx })
+export default function ChaptersView({ selectedBook, chapters, loading, error, selectedChapterIdx, onSelectChapter, onChaptersUpdate }: Props) {
+  const [loadingChapterContent, setLoadingChapterContent] = useState(false)
+  const [chapterContentError, setChapterContentError] = useState<string | null>(null)
+  const [loadingProgress, setLoadingProgress] = useState<string>('')
+  const cancelledRef = useRef(false)
+  const chaptersRef = useRef(chapters)
+  
+  // Keep chaptersRef in sync with chapters prop
+  chaptersRef.current = chapters
+
+  // Fetch chapter content on-demand when a chapter is selected
+  useEffect(() => {
+    if (selectedChapterIdx === null) return
+    
+    const chapter = chapters[selectedChapterIdx]
+    if (!chapter) return
+    
+    // If paragraphs are already loaded (not null and has content), skip fetching
+    if (chapter.paragraphs !== null && chapter.paragraphs.length > 0) return
+
+    // Reset cancellation flag
+    cancelledRef.current = false
+    
+    // Fetch chapter content on-demand
+    setLoadingChapterContent(true)
+    setChapterContentError(null)
+    setLoadingProgress('Starting...')
+
+    const fetchChapterContent = async () => {
+      try {
+        const paragraphs: string[] = []
+        const BATCH_SIZE = 1 // Load 1 image at a time for fastest initial display
+        let currentIndex = 0
+        let consecutiveEmptyBatches = 0
+        let hasShownContent = false
+
+        const updateUI = (newParagraphs: string[]) => {
+          if (cancelledRef.current) return
+          const updatedChapters = [...chaptersRef.current]
+          if (updatedChapters[selectedChapterIdx]) {
+            updatedChapters[selectedChapterIdx] = {
+              ...updatedChapters[selectedChapterIdx],
+              paragraphs: [...newParagraphs]
+            }
+            onChaptersUpdate(updatedChapters)
+          }
+        }
+
+        // Continuous loading: fetch 1 image at a time, show immediately, repeat
+        // This gives the fastest initial display - first image appears ASAP
+        while (!cancelledRef.current && consecutiveEmptyBatches < 3) {
+          // Fetch single image
+          let imageResult: { index: number; value: string | null }
+          
+          try {
+            const value = await fetchChapterParagraph(selectedBook, chapter.title, currentIndex)
+            imageResult = { index: currentIndex, value }
+          } catch {
+            imageResult = { index: currentIndex, value: null }
+          }
+          
+          // Check if cancelled during fetch
+          if (cancelledRef.current) break
+          
+          // Process the result
+          const batchResults = [imageResult]
+          
+          // Check if cancelled during fetch
+          if (cancelledRef.current) break
+          
+          // Extract successful result
+          const { value } = batchResults[0]
+          const hasImage = value && typeof value === 'string' && value.length > 0
+          const newImages = hasImage ? [value] : []
+          
+          if (newImages.length > 0) {
+            // We got images! Add them and update UI immediately
+            consecutiveEmptyBatches = 0
+            paragraphs.push(...newImages)
+            
+            // Show content immediately on first batch
+            if (!hasShownContent && !cancelledRef.current) {
+              updateUI(paragraphs)
+              setLoadingChapterContent(false) // Hide loading state - user sees content!
+              setLoadingProgress('')
+              hasShownContent = true
+            } else if (!cancelledRef.current) {
+              // Update UI progressively as more images load
+              updateUI(paragraphs)
+            }
+            
+            // Move to next batch - continue the loop
+            currentIndex += BATCH_SIZE
+            // Explicitly continue - don't let the loop exit
+            // The while condition will check again
+          } else {
+            // No images in this batch - increment empty counter
+            consecutiveEmptyBatches++
+            
+            // If we haven't shown any content yet, try next index
+            if (!hasShownContent) {
+              currentIndex += BATCH_SIZE
+              // After trying a few empty batches, give up
+              if (consecutiveEmptyBatches >= 3) {
+                // No content found at all
+                if (!cancelledRef.current) {
+                  updateUI([])
+                  setLoadingChapterContent(false)
+                  setLoadingProgress('')
+                }
+                break
+              }
+              // Continue trying
+              continue
+            } else {
+              // We've shown content before, so empty batch means we're done
+              break
+            }
+          }
+        }
+
+        // Final update to ensure all paragraphs are included
+        if (!cancelledRef.current && paragraphs.length > 0) {
+          updateUI(paragraphs)
+        } else if (!cancelledRef.current && !hasShownContent) {
+          // No content was ever found
+          updateUI([])
+          setLoadingChapterContent(false)
+          setLoadingProgress('')
+        }
+      } catch (err) {
+        if (cancelledRef.current) return
+        
+        const errorMessage = err instanceof Error ? err.message : 'Failed to load chapter content'
+        setChapterContentError(errorMessage)
+        console.error('Error loading chapter content:', err)
+        
+        // Update chapter with empty array to prevent retry loops
+        if (!cancelledRef.current) {
+          const updatedChapters = [...chapters]
+          updatedChapters[selectedChapterIdx] = {
+            ...chapter,
+            paragraphs: []
+          }
+          onChaptersUpdate(updatedChapters)
+        }
+      } finally {
+        if (!cancelledRef.current) {
+          setLoadingChapterContent(false)
+        }
+      }
+    }
+
+    fetchChapterContent()
+    
+    return () => {
+      cancelledRef.current = true
+    }
+    // Only depend on selectedChapterIdx and selectedBook - not chapters to avoid re-triggering
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedChapterIdx, selectedBook])
+
   return (
     <div className="w-full">
       <h2 className="text-lg sm:text-xl font-semibold mb-4 text-center">Chapters for {selectedBook}</h2>
@@ -80,9 +242,28 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
                 </button>
               </div>
               <div className="w-full">
-                {
-                  (() => {
+                {loadingChapterContent ? (
+                  <div className="text-gray-600 text-center py-8">
+                    <div>Loading chapter content...</div>
+                    {loadingProgress && (
+                      <div className="text-sm text-gray-500 mt-2">{loadingProgress}</div>
+                    )}
+                  </div>
+                ) : chapterContentError ? (
+                  <div className="text-red-600 text-center py-8">{chapterContentError}</div>
+                ) : (() => {
                     const chapter = chapters[selectedChapterIdx]
+                    
+                    // If paragraphs haven't been loaded yet, show loading state
+                    if (chapter.paragraphs === null) {
+                      return <div className="text-gray-600 text-center py-8">Preparing to load chapter...</div>
+                    }
+                    
+                    // If no paragraphs, show empty state
+                    if (chapter.paragraphs.length === 0) {
+                      return <div className="text-gray-500 text-center py-8">No content found for this chapter.</div>
+                    }
+                    
                     // Check if paragraphs are base64 images
                     const isImageChapter = chapter.paragraphs.length > 0 && isBase64Image(chapter.paragraphs[0])
                     

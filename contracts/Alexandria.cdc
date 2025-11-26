@@ -35,6 +35,7 @@ contract Alexandria {
     access(all) event ChapterAdded(bookTitle: String, chapterTitle: String)
     access(all) event ChapterRemoved(bookTitle: String, chapterTitle: String)
     access(all) event ChapterSubmitted(bookTitle: String, chapterTitle: String, librarian: Address)
+    access(all) event ParagraphAdded(bookTitle: String, chapterTitle: String)
     // -----------------------------------------------------------------------
 	// Alexandria Book Resource
 	// -----------------------------------------------------------------------
@@ -138,6 +139,28 @@ contract Alexandria {
             let chapter = self.Chapters.remove(key: chapterTitle)!
             return chapterTitle
         }
+
+        // Function to add a paragraph to a chapter
+        access(all)
+        fun addParagraph(chapterTitle: String, paragraph: String) {
+            pre {
+                self.Chapters[chapterTitle] != nil: "This chapter doesn't exists"
+            }
+            post {
+                self.Chapters[chapterTitle]!!.paragraphs.length > 1: "The chapter doesn't have any paragraphs"
+            }
+            let chap = self.Chapters[chapterTitle]!!.paragraphs.append(paragraph)
+            emit ParagraphAdded(bookTitle: self.Title, chapterTitle: chapterTitle)
+        }
+
+        // Function to get a paragraph from a chapter
+        access(all) view fun getParagraph(chapterTitle: String, paragraphIndex: Int): String {
+            return self.Chapters[chapterTitle]!!.getParagraph(paragraphIndex: paragraphIndex)
+        }
+        // Function to get all chapter titles
+        access(all) view fun getChapterTitles(): [String] {
+            return self.chapterNames.keys 
+        }
     }
 
     access(all)
@@ -159,6 +182,22 @@ contract Alexandria {
             self.index = index
             self.paragraphs = paragraphs
             self.extra = {}
+        }
+
+        // Function to add to a chapter's paragraphs
+        access(all)
+        fun addParagraph(paragraph: String) {
+            self.paragraphs.append(paragraph)
+        }
+
+        access(all)
+        fun removeLastParagraph(): String {
+            let paragraph = self.paragraphs.removeLast()
+            return paragraph
+        }
+
+        access(all) view fun getParagraph(paragraphIndex: Int): String {
+            return self.paragraphs[paragraphIndex]
         }
     }
     // -----------------------------------------------------------------------
@@ -416,12 +455,27 @@ contract Alexandria {
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book
     }
+    // Fetch a book's chapter titles
+    access(all)
+    fun getBookChapterTitles(bookTitle: String): [String] {
+        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+        let chapterTitles = book.getChapterTitles()
+        return chapterTitles
+    }   
     // Fetch a book's chapter
     access(all)
     fun getBookChapter(bookTitle: String, chapterTitle: String): Chapter? {
         let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book.getChapter(chapterTitle: chapterTitle)
+    }
+    // Fetch a book's paragraph
+    access(all)
+    fun getBookParagraph(bookTitle: String, chapterTitle: String, paragraphIndex: Int): String {
+        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+        return book.getParagraph(chapterTitle: chapterTitle, paragraphIndex: paragraphIndex)
     }
     // Fetch all registered authors
     access(all)
