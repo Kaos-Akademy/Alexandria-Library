@@ -2,22 +2,13 @@ package main
 
 import (
 	"bufio"
-	"bytes"
-	"encoding/base64"
 	"fmt"
-	"image"
-	"image/jpeg"
-	_ "image/png" // Register PNG decoder
 	"os"
-	"path/filepath"
-	"regexp"
-	"sort"
 	"strings"
 
 	//if you imports this with .  you do not have to repeat overflow everywhere
 	. "github.com/bjartek/overflow/v2"
 	"github.com/fatih/color"
-	"golang.org/x/image/draw"
 )
 
 // ReadFile reads a text file and returns an array of paragraphs
@@ -55,199 +46,72 @@ func ReadFile(filename string) ([]string, error) {
 	return paragraphs, nil
 }
 
-// EncodeImageToBase64 reads an image file, resizes if needed, converts PNG to JPG if needed, and encodes it to base64 string
-func EncodeImageToBase64(imagePath string) (string, error) {
-	// Read the image file
-	imageData, err := os.ReadFile(imagePath)
-	if err != nil {
-		return "", fmt.Errorf("failed to read image file: %w", err)
-	}
-
-	originalSize := len(imageData)
-
-	// Decode the image
-	img, format, err := image.Decode(bytes.NewReader(imageData))
-	if err != nil {
-		return "", fmt.Errorf("failed to decode image: %w", err)
-	}
-
-	// Get image bounds
-	bounds := img.Bounds()
-	width := bounds.Dx()
-	height := bounds.Dy()
-	maxWidth := 2000 // Maximum width to keep under transaction limit
-
-	// Resize if image is too large
-	var processedImg image.Image = img
-	if width > maxWidth {
-		// Calculate new height maintaining aspect ratio
-		newHeight := height * maxWidth / width
-
-		// Create new image with target size
-		resized := image.NewRGBA(image.Rect(0, 0, maxWidth, newHeight))
-		draw.BiLinear.Scale(resized, resized.Bounds(), img, bounds, draw.Over, nil)
-		processedImg = resized
-
-		color.Yellow("Resized image from %dx%d to %dx%d", width, height, maxWidth, newHeight)
-	}
-
-	// Convert to JPEG (always convert to ensure consistent compression)
-	var buf bytes.Buffer
-	// Use quality 70 for better compression (still good quality for manga/comics)
-	err = jpeg.Encode(&buf, processedImg, &jpeg.Options{Quality: 70})
-	if err != nil {
-		return "", fmt.Errorf("failed to encode image as JPEG: %w", err)
-	}
-	jpegData := buf.Bytes()
-
-	// Log the conversion
-	if format != "jpeg" && format != "jpg" {
-		color.Yellow("Converted %s image (%d bytes) to JPEG (%d bytes) - %.1f%% size reduction",
-			format, originalSize, len(jpegData),
-			float64(originalSize-len(jpegData))/float64(originalSize)*100)
-	} else {
-		color.Yellow("Compressed JPEG image (%d bytes) to (%d bytes) - %.1f%% size reduction",
-			originalSize, len(jpegData),
-			float64(originalSize-len(jpegData))/float64(originalSize)*100)
-	}
-
-	// Check if still too large (base64 will be ~33% larger)
-	base64Size := len(jpegData) * 4 / 3
-	if base64Size > 1400000 { // Leave some margin under 1.5MB
-		color.Red("Warning: Base64 size will be ~%d bytes, may still exceed transaction limit", base64Size)
-	}
-
-	// Encode to base64
-	base64String := base64.StdEncoding.EncodeToString(jpegData)
-
-	return base64String, nil
-}
-
-// UploadImagesFromDirectory uploads all images starting from a given page number
-func UploadImagesFromDirectory(
-	o *OverflowState,
-	directoryPath string,
-	startPage string, // e.g., "p011"
-	bookTitle string,
-	chapterTitle string,
-	signer string,
-) error {
-	// Read directory
-	entries, err := os.ReadDir(directoryPath)
-	if err != nil {
-		return fmt.Errorf("failed to read directory: %w", err)
-	}
-
-	// Filter and collect image files
-	imageExts := map[string]bool{".png": true, ".jpg": true, ".jpeg": true}
-	pageRegex := regexp.MustCompile(`p(\d+)`)
-	startPageNum := -1
-
-	// Extract starting page number
-	if matches := pageRegex.FindStringSubmatch(startPage); len(matches) > 1 {
-		fmt.Sscanf(matches[1], "%d", &startPageNum)
-	}
-
-	if startPageNum == -1 {
-		return fmt.Errorf("invalid start page format: %s (expected format like 'p011')", startPage)
-	}
-
-	color.Cyan("Looking for images starting from page %s (page number %d)", startPage, startPageNum)
-
-	// Collect all image files with their page numbers
-	type fileWithPage struct {
-		path     string
-		pageNum  int
-		filename string
-	}
-	var filesWithPages []fileWithPage
-
-	for _, entry := range entries {
-		if entry.IsDir() {
-			continue
-		}
-
-		ext := strings.ToLower(filepath.Ext(entry.Name()))
-		if !imageExts[ext] {
-			continue
-		}
-
-		// Extract page number from filename
-		matches := pageRegex.FindStringSubmatch(entry.Name())
-		if len(matches) < 2 {
-			continue
-		}
-
-		var pageNum int
-		if _, err := fmt.Sscanf(matches[1], "%d", &pageNum); err != nil {
-			continue
-		}
-
-		// Only include files from startPage onwards
-		if pageNum >= startPageNum {
-			fullPath := filepath.Join(directoryPath, entry.Name())
-			filesWithPages = append(filesWithPages, fileWithPage{
-				path:     fullPath,
-				pageNum:  pageNum,
-				filename: entry.Name(),
-			})
-		}
-	}
-
-	// Sort by page number
-	sort.Slice(filesWithPages, func(i, j int) bool {
-		return filesWithPages[i].pageNum < filesWithPages[j].pageNum
-	})
-
-	if len(filesWithPages) == 0 {
-		return fmt.Errorf("no image files found starting from page %s", startPage)
-	}
-
-	color.Green("Found %d images to upload, starting from page %d", len(filesWithPages), startPageNum)
-
-	// Upload each image
-	for i, fileInfo := range filesWithPages {
-		color.Cyan("\n[%d/%d] Processing: %s (page %d)", i+1, len(filesWithPages), fileInfo.filename, fileInfo.pageNum)
-
-		// Encode image
-		imageBase64, err := EncodeImageToBase64(fileInfo.path)
-		if err != nil {
-			color.Red("Failed to encode %s: %v", fileInfo.filename, err)
-			return fmt.Errorf("failed to encode %s: %w", fileInfo.filename, err)
-		}
-
-		// Upload to blockchain
-		color.Yellow("Uploading to blockchain...")
-		result := o.Tx("Librerian/add_paragraph_to_chapter",
-			WithSigner(signer),
-			WithArg("bookTitle", bookTitle),
-			WithArg("chapterTitle", chapterTitle),
-			WithArg("paragraph", imageBase64),
-		)
-
-		if result.Err != nil {
-			color.Red("Failed to upload %s: %v", fileInfo.filename, result.Err)
-			return fmt.Errorf("failed to upload %s: %w", fileInfo.filename, result.Err)
-		}
-
-		color.Green("✓ Successfully uploaded %s (page %d)", fileInfo.filename, fileInfo.pageNum)
-		result.Print()
-	}
-
-	color.Green("\n✓ All %d images uploaded successfully!", len(filesWithPages))
-	return nil
-}
-
 func main() {
+
+	// Read the manifesto text file and parse into paragraphs
+	paragraphs1, err := ReadFile("books/Huck_Chapter_I.txt")
+	if err != nil {
+		fmt.Printf("Error reading Huck_Chapter_I file: %v\n", err)
+		os.Exit(1)
+	}
+
+	fmt.Printf("Successfully loaded %d paragraphs from Huck_Chapter_I\n", len(paragraphs1))
+
 	o := Overflow(
 		WithGlobalPrintOptions(),
 		WithNetwork("mainnet"),
 	)
 
-	color.Red("Alexandria Contract - Batch Image Upload")
+	fmt.Println("Testing Contract")
+	/* 	fmt.Println("Press any key to continue")
+	   	fmt.Scanln() */
+
+	color.Red("Alexandria Contract testing")
+
 	color.Red("")
 
-	o.Script("get_chapter_titles",
-		WithArg("bookTitle", "Berserk"),
+	// o.Script("get_book_titles")
+
+	// Add a book
+	o.Tx("Admin/add_book",
+		WithSigner("Prime-librarian"),
+		WithArg("title", "The adventures of Huckleberry Finn"),
+		WithArg("author", "Mark Twain"),
+		WithArg("genre", "Literature"),
+		WithArg("edition", "First Edition"),
+		WithArg("summary", "The adventures of Huckleberry Finn by Mark Twain (1884) is a story of the adventures of Huckleberry Finn, a young boy who goes on a journey down the Mississippi River with his friend Jim, a runaway slave."),
 	).Print()
+
+	// Add a chapter title to a book
+	o.Tx("Admin/add_chapter_name",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "The adventures of Huckleberry Finn"),
+		WithArg("chapterTitle", "Chapter I"),
+	).Print()
+
+	// Add a chapter to a book
+	o.Tx("Admin/add_chapter",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "The adventures of Huckleberry Finn"),
+		WithArg("chapterTitle", "Chapter I"),
+		WithArg("index", 1),
+		WithArg("paragraphs", paragraphs1),
+	).Print()
+	/* 	o.Script("get_books_by_author",
+	   		WithArg("author", "George Orwell"),
+	   	).Print()
+	   	o.Script("get_book",
+	   		WithArg("bookTitle", "Nineteen eighty-four"),
+	   	).Print()
+	   	o.Script("get_book_chapter",
+	   		WithArg("bookTitle", "Nineteen eighty-four"),
+	   		WithArg("chapterTitle", "Chapter 5"),
+	   	).Print() */
+
+	/// REMOVE CHAPTER
+	/* 	o.Tx("Admin/remove_chapter",
+		WithSigner("Prime-librarian"),
+		WithArg("bookTitle", "Nineteen eighty-four"),
+		WithArg("chapterTitle", "Chapter 9"),
+	).Print() */
 }

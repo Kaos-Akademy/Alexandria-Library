@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import Reader from '@/components/reader/Reader'
-import { fetchChapterParagraph } from '@/flow/actions'
+import { fetchChapterParagraph, fetchBookChapters } from '@/flow/actions'
 
 type Chapter = { title: string; paragraphs: string[] | null }
 
@@ -35,6 +35,7 @@ function detectImageFormat(base64: string): 'jpeg' | 'png' | 'unknown' {
 
 type Props = {
   selectedBook: string
+  selectedGenre: string | null
   chapters: Chapter[]
   loading: boolean
   error: string | null
@@ -43,7 +44,7 @@ type Props = {
   onChaptersUpdate: (chapters: Chapter[]) => void
 }
 
-export default function ChaptersView({ selectedBook, chapters, loading, error, selectedChapterIdx, onSelectChapter, onChaptersUpdate }: Props) {
+export default function ChaptersView({ selectedBook, selectedGenre, chapters, loading, error, selectedChapterIdx, onSelectChapter, onChaptersUpdate }: Props) {
   const [loadingChapterContent, setLoadingChapterContent] = useState(false)
   const [chapterContentError, setChapterContentError] = useState<string | null>(null)
   const [loadingProgress, setLoadingProgress] = useState<string>('')
@@ -56,7 +57,7 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
   // Fetch chapter content on-demand when a chapter is selected
   useEffect(() => {
     if (selectedChapterIdx === null) return
-    
+
     const chapter = chapters[selectedChapterIdx]
     if (!chapter) return
     
@@ -73,119 +74,109 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
 
     const fetchChapterContent = async () => {
       try {
-        const paragraphs: string[] = []
-        const BATCH_SIZE = 1 // Load 1 image at a time for fastest initial display
-        let currentIndex = 0
-        let consecutiveEmptyBatches = 0
-        let hasShownContent = false
-
         const updateUI = (newParagraphs: string[]) => {
           if (cancelledRef.current) return
           const updatedChapters = [...chaptersRef.current]
           if (updatedChapters[selectedChapterIdx]) {
             updatedChapters[selectedChapterIdx] = {
               ...updatedChapters[selectedChapterIdx],
-              paragraphs: [...newParagraphs]
+              paragraphs: [...newParagraphs],
             }
             onChaptersUpdate(updatedChapters)
           }
         }
 
-        // Continuous loading: fetch 1 image at a time, show immediately, repeat
-        // This gives the fastest initial display - first image appears ASAP
-        while (!cancelledRef.current && consecutiveEmptyBatches < 3) {
-          // Fetch single image
-          let imageResult: { index: number; value: string | null }
-          
-          try {
-            const value = await fetchChapterParagraph(selectedBook, chapter.title, currentIndex)
-            imageResult = { index: currentIndex, value }
-          } catch {
-            imageResult = { index: currentIndex, value: null }
-          }
-          
-          // Check if cancelled during fetch
-          if (cancelledRef.current) break
-          
-          // Process the result
-          const batchResults = [imageResult]
-          
-          // Check if cancelled during fetch
-          if (cancelledRef.current) break
-          
-          // Extract successful result
-          const { value } = batchResults[0]
-          const hasImage = value && typeof value === 'string' && value.length > 0
-          const newImages = hasImage ? [value] : []
-          
-          if (newImages.length > 0) {
-            // We got images! Add them and update UI immediately
-            consecutiveEmptyBatches = 0
-            paragraphs.push(...newImages)
-            
-            // Show content immediately on first batch
-            if (!hasShownContent && !cancelledRef.current) {
-              updateUI(paragraphs)
-              setLoadingChapterContent(false) // Hide loading state - user sees content!
-              setLoadingProgress('')
-              hasShownContent = true
-            } else if (!cancelledRef.current) {
-              // Update UI progressively as more images load
-              updateUI(paragraphs)
+        // Manga: load paragraph-by-paragraph (images)
+        if (selectedGenre === 'Manga') {
+          const paragraphs: string[] = []
+          const BATCH_SIZE = 1 // Load 1 image at a time for fastest initial display
+          let currentIndex = 0
+          let consecutiveEmptyBatches = 0
+          let hasShownContent = false
+
+          while (!cancelledRef.current && consecutiveEmptyBatches < 3) {
+            let imageResult: { index: number; value: string | null }
+
+            try {
+              const value = await fetchChapterParagraph(selectedBook, chapter.title, currentIndex)
+              imageResult = { index: currentIndex, value }
+            } catch {
+              imageResult = { index: currentIndex, value: null }
             }
-            
-            // Move to next batch - continue the loop
-            currentIndex += BATCH_SIZE
-            // Explicitly continue - don't let the loop exit
-            // The while condition will check again
-          } else {
-            // No images in this batch - increment empty counter
-            consecutiveEmptyBatches++
-            
-            // If we haven't shown any content yet, try next index
-            if (!hasShownContent) {
+
+            if (cancelledRef.current) break
+
+            const { value } = imageResult
+            const hasImage = value && typeof value === 'string' && value.length > 0
+            const newImages = hasImage ? [value] : []
+
+            if (newImages.length > 0) {
+              consecutiveEmptyBatches = 0
+              paragraphs.push(...newImages)
+
+              if (!hasShownContent && !cancelledRef.current) {
+                updateUI(paragraphs)
+                setLoadingChapterContent(false)
+                setLoadingProgress('')
+                hasShownContent = true
+              } else if (!cancelledRef.current) {
+                updateUI(paragraphs)
+              }
+
               currentIndex += BATCH_SIZE
-              // After trying a few empty batches, give up
-              if (consecutiveEmptyBatches >= 3) {
-                // No content found at all
-                if (!cancelledRef.current) {
-                  updateUI([])
-                  setLoadingChapterContent(false)
-                  setLoadingProgress('')
+            } else {
+              consecutiveEmptyBatches++
+
+              if (!hasShownContent) {
+                currentIndex += BATCH_SIZE
+                if (consecutiveEmptyBatches >= 3) {
+                  if (!cancelledRef.current) {
+                    updateUI([])
+                    setLoadingChapterContent(false)
+                    setLoadingProgress('')
+                  }
+                  break
                 }
+                continue
+              } else {
                 break
               }
-              // Continue trying
-              continue
-            } else {
-              // We've shown content before, so empty batch means we're done
-              break
             }
           }
+
+          if (!cancelledRef.current && paragraphs.length > 0) {
+            updateUI(paragraphs)
+          } else if (!cancelledRef.current && !hasShownContent) {
+            updateUI([])
+            setLoadingChapterContent(false)
+            setLoadingProgress('')
+          }
+          return
         }
 
-        // Final update to ensure all paragraphs are included
-        if (!cancelledRef.current && paragraphs.length > 0) {
-          updateUI(paragraphs)
-        } else if (!cancelledRef.current && !hasShownContent) {
-          // No content was ever found
-          updateUI([])
+        // Non-manga: load all paragraphs at once for the selected chapter
+        const bookData = await fetchBookChapters(selectedBook)
+        const chaptersMap = bookData?.Chapters ?? {}
+        const entry = chaptersMap[chapter.title]
+        const allParagraphs = Array.isArray(entry?.paragraphs) ? entry.paragraphs : []
+
+        updateUI(allParagraphs)
+        if (!cancelledRef.current) {
           setLoadingChapterContent(false)
           setLoadingProgress('')
         }
       } catch (err) {
         if (cancelledRef.current) return
-        
+
         const errorMessage = err instanceof Error ? err.message : 'Failed to load chapter content'
         setChapterContentError(errorMessage)
         console.error('Error loading chapter content:', err)
-        
-        // Update chapter with empty array to prevent retry loops
+
         if (!cancelledRef.current) {
           const updatedChapters = [...chapters]
           updatedChapters[selectedChapterIdx] = {
             ...chapter,
-            paragraphs: []
+            paragraphs: [],
           }
           onChaptersUpdate(updatedChapters)
         }
@@ -201,9 +192,9 @@ export default function ChaptersView({ selectedBook, chapters, loading, error, s
     return () => {
       cancelledRef.current = true
     }
-    // Only depend on selectedChapterIdx and selectedBook - not chapters to avoid re-triggering
+    // Only depend on selectedChapterIdx, selectedBook and selectedGenre - not chapters to avoid re-triggering
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selectedChapterIdx, selectedBook])
+  }, [selectedChapterIdx, selectedBook, selectedGenre])
 
   return (
     <div className="w-full">

@@ -9,6 +9,7 @@ function App() {
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
   // Inline search; no dialog state
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
+  const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
   const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] | null }>>([])
   const [loadingChapters, setLoadingChapters] = useState(false)
   const [chaptersError, setChaptersError] = useState<string | null>(null)
@@ -53,6 +54,9 @@ function App() {
         inline
         onSelectBook={(value) => {
           setSelectedBook(value)
+          // Derive the genre for the selected book
+          const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
+          setSelectedGenre(genreEntry?.genre ?? null)
           setLoadingChapters(true)
           setChaptersError(null)
           setSelectedChapterIdx(null)
@@ -81,6 +85,7 @@ function App() {
       {selectedBook && (
         <ChaptersView
           selectedBook={selectedBook}
+          selectedGenre={selectedGenre}
           chapters={chapters}
           loading={loadingChapters}
           error={chaptersError}

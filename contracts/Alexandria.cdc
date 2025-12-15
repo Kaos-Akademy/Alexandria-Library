@@ -36,6 +36,7 @@ contract Alexandria {
     access(all) event ChapterRemoved(bookTitle: String, chapterTitle: String)
     access(all) event ChapterSubmitted(bookTitle: String, chapterTitle: String, librarian: Address)
     access(all) event ParagraphAdded(bookTitle: String, chapterTitle: String)
+    access(all) event ParagraphRemoved(bookTitle: String, chapterTitle: String)
     // -----------------------------------------------------------------------
 	// Alexandria Book Resource
 	// -----------------------------------------------------------------------
@@ -151,6 +152,18 @@ contract Alexandria {
             }
             let chap = self.Chapters[chapterTitle]!!.paragraphs.append(paragraph)
             emit ParagraphAdded(bookTitle: self.Title, chapterTitle: chapterTitle)
+        }
+        // Function to remove the last paragraph from a chapter
+        access(all)
+        fun removeLastParagraph(chapterTitle: String) {
+            pre {
+                self.Chapters[chapterTitle] != nil: "This chapter doesn't exists"
+            }
+            post {
+                self.Chapters[chapterTitle]!!.paragraphs.length > 1: "The chapter doesn't have any paragraphs"
+            }
+            let chapter = self.Chapters[chapterTitle]!!.removeLastParagraph()
+            emit ParagraphRemoved(bookTitle: self.Title, chapterTitle: chapterTitle)
         }
 
         // Function to get a paragraph from a chapter
