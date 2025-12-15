@@ -49,13 +49,13 @@ func ReadFile(filename string) ([]string, error) {
 func main() {
 
 	// Read the manifesto text file and parse into paragraphs
-	paragraphs1, err := ReadFile("books/Huck_Chapter_I.txt")
+	paragraphs1, err := ReadFile("books/Huck_Chapter_II.txt")
 	if err != nil {
-		fmt.Printf("Error reading Huck_Chapter_I file: %v\n", err)
+		fmt.Printf("Error reading Huck_Chapter_II file: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Successfully loaded %d paragraphs from Huck_Chapter_I\n", len(paragraphs1))
+	fmt.Printf("Successfully loaded %d paragraphs from Huck_Chapter_II\n", len(paragraphs1))
 
 	o := Overflow(
 		WithGlobalPrintOptions(),
@@ -86,15 +86,15 @@ func main() {
 	o.Tx("Admin/add_chapter_name",
 		WithSigner("Prime-librarian"),
 		WithArg("bookTitle", "The adventures of Huckleberry Finn"),
-		WithArg("chapterTitle", "Chapter I"),
+		WithArg("chapterTitle", "Chapter II"),
 	).Print()
 
 	// Add a chapter to a book
 	o.Tx("Admin/add_chapter",
 		WithSigner("Prime-librarian"),
 		WithArg("bookTitle", "The adventures of Huckleberry Finn"),
-		WithArg("chapterTitle", "Chapter I"),
-		WithArg("index", 1),
+		WithArg("chapterTitle", "Chapter II"),
+		WithArg("index", 2),
 		WithArg("paragraphs", paragraphs1),
 	).Print()
 	/* 	o.Script("get_books_by_author",
