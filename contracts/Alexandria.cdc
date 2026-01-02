@@ -37,6 +37,10 @@ contract Alexandria {
     access(all) event ChapterSubmitted(bookTitle: String, chapterTitle: String, librarian: Address)
     access(all) event ParagraphAdded(bookTitle: String, chapterTitle: String)
     access(all) event ParagraphRemoved(bookTitle: String, chapterTitle: String)
+
+    // Entitlements
+    access(all) entitlement LibrarianActions
+    access(all) entitlement AdminActions
     // -----------------------------------------------------------------------
 	// Alexandria Book Resource
 	// -----------------------------------------------------------------------
@@ -293,7 +297,7 @@ contract Alexandria {
     access(all)
     resource Admin {
         // Function to add a book to the library
-        access(all)
+        access(AdminActions)
         fun addBook(
             title: String,
             author: String,
@@ -335,7 +339,7 @@ contract Alexandria {
 
         }
         // Add a chapter to a book
-        access(all)
+        access(AdminActions)
         fun addChapter(bookTitle: String, chapter: Chapter): [String] { 
             pre {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
@@ -351,7 +355,7 @@ contract Alexandria {
             return book.addChapter(chapterName: chapter.chapterTitle, chapter: chapter)
         }
         // Add a chapter title to a book
-        access(all)
+        access(AdminActions)
         fun addChapterName(bookTitle: String, chapterName: String) {
             // create book path identifier based on title
             let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
@@ -364,7 +368,7 @@ contract Alexandria {
             // return newChapterTitle
         }
         // Remove the last chapter from a book
-        access(all)
+        access(AdminActions)
         fun removeChapter(bookTitle: String, chapterTitle: String) {
             pre {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
@@ -379,7 +383,7 @@ contract Alexandria {
             emit ChapterRemoved(bookTitle: bookTitle, chapterTitle: chapterTitle)
         }
         // Add a genre to the library
-        access(all)
+        access(AdminActions)
         fun addGenre(genre: String) {
             pre {
                 Alexandria.genres[genre] == nil: "This genre already exists"
@@ -387,12 +391,12 @@ contract Alexandria {
             Alexandria.genres[genre] = []
         }
         // create a new Admin resource
-		access(all)
+		access(AdminActions)
         fun createAdmin(): @Admin {
 			return <- create Admin()
 		}
 		// change Alexandria of library info
-		access(all)
+		access(AdminActions)
         fun changeField(key: String, value: AnyStruct) {
 			Alexandria.libraryInfo[key] = value
 		}
@@ -425,7 +429,7 @@ contract Alexandria {
             self.extra = {}
         }
         // Function used to submit a Chapter to a book
-        access(all)
+        access(LibrarianActions)
         fun submitChapter(bookTitle: String, chapter: Chapter) {
             pre {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
@@ -440,7 +444,7 @@ contract Alexandria {
             book.submitChapter(chapterName: chapter.chapterTitle, chapter: chapter, librarian: self.owner!.address)
         }
 
-        access(all)
+        access(LibrarianActions)
         fun addGenre(genre: String) {
             pre {
                 Alexandria.genres[genre] == nil: "This genre already exists"
