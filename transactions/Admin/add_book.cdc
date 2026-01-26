@@ -8,17 +8,18 @@ transaction(
     summary: String
     ) {
     /// Reference to the withdrawer's collection
-    let AdminRef: &Alexandria.Admin 
+    let AdminRef: auth(Alexandria.AdminActions) &Alexandria.Admin
 
     prepare (deployer: auth(BorrowValue) &Account) {
         // borrow a reference to the signer's NFT collection
-        self.AdminRef = deployer.storage.borrow<&Alexandria.Admin>(
-                from: Alexandria.AdminStoragePath
-        ) ?? panic("Account does not store an object at the specified path")
+        self.AdminRef = deployer.storage.borrow<auth(Alexandria.AdminActions) &Alexandria.Admin>(
+                from: /storage/Alexandria_Library_0xfed1adffd14ea9d0Admin
+        )!
+        //?? panic("Account does not store an object at the specified path")
 
     }
 
   execute {
-        self.AdminRef.addBook(title: title, author: author, genre: genre, edition: edition, summary: summary)
+    self.AdminRef.addBook(title: title, author: author, genre: genre, edition: edition, summary: summary)
   }
 }
