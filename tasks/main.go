@@ -383,16 +383,273 @@ func formatSherlockAdventureTitle(label string) string {
 	return "Adventure " + label
 }
 
+// frankensteinSection holds info about a Frankenstein section (Letter or Chapter)
+type frankensteinSection struct {
+	Path      string
+	Type      string // "Letter" or "Chapter"
+	Number    string // "1", "2", etc.
+	SortIndex int    // For sorting: Letters 1-4 = 1-4, Chapters 1-24 = 5-28
+}
+
+// findFrankensteinSections finds all Frankenstein_Letter_*.txt and Frankenstein_Chapter_*.txt files,
+// and returns them sorted (Letters first, then Chapters).
+func findFrankensteinSections(baseDir string) ([]frankensteinSection, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	letterRe := regexp.MustCompile(`^Frankenstein_Letter_(\d+)\.txt$`)
+	chapterRe := regexp.MustCompile(`^Frankenstein_Chapter_(\d+)\.txt$`)
+
+	var sections []frankensteinSection
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		
+		if m := letterRe.FindStringSubmatch(e.Name()); len(m) == 2 {
+			num := 0
+			fmt.Sscanf(m[1], "%d", &num)
+			sections = append(sections, frankensteinSection{
+				Path:      filepath.Join(baseDir, e.Name()),
+				Type:      "Letter",
+				Number:    m[1],
+				SortIndex: num, // Letters 1-4
+			})
+		} else if m := chapterRe.FindStringSubmatch(e.Name()); len(m) == 2 {
+			num := 0
+			fmt.Sscanf(m[1], "%d", &num)
+			sections = append(sections, frankensteinSection{
+				Path:      filepath.Join(baseDir, e.Name()),
+				Type:      "Chapter",
+				Number:    m[1],
+				SortIndex: 100 + num, // Chapters come after Letters
+			})
+		}
+	}
+
+	// Sort by SortIndex (Letters first, then Chapters)
+	sort.Slice(sections, func(i, j int) bool {
+		return sections[i].SortIndex < sections[j].SortIndex
+	})
+
+	return sections, nil
+}
+
+// formatFrankensteinSectionTitle creates the on-chain chapterTitle from the section.
+// e.g. "Letter 1", "Chapter 24"
+func formatFrankensteinSectionTitle(secType, secNum string) string {
+	return secType + " " + secNum
+}
+
+// findCountChapters finds all Count_V1_Chapter_*.txt files (Volume One), parses their chapter index,
+// and returns them sorted by index.
+func findCountChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^Count_V1_Chapter_(\d+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "1", "2", ..., "36"
+
+		index := 0
+		fmt.Sscanf(label, "%d", &index)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatCountChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "1" -> "Volume One - Chapter 1", "36" -> "Volume One - Chapter 36"
+func formatCountChapterTitle(label string) string {
+	return "Volume One - Chapter " + label
+}
+
+// findAwakeningChapters finds all Awakening_Chapter_*.txt files, parses their chapter index,
+// and returns them sorted by index.
+func findAwakeningChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^Awakening_Chapter_([IVXLCDM]+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "XXXIX"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatAwakeningChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Chapter I", "XXXIX" -> "Chapter XXXIX"
+func formatAwakeningChapterTitle(label string) string {
+	return "Chapter " + label
+}
+
+// findAliceChapters finds all Alice_Chapter_*.txt files, parses their chapter index,
+// and returns them sorted by index.
+func findAliceChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^Alice_Chapter_([IVXLCDM]+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "XII"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatAliceChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Chapter I", "XII" -> "Chapter XII"
+func formatAliceChapterTitle(label string) string {
+	return "Chapter " + label
+}
+
+// findUncleTomChapters finds all UncleTom_Chapter_*.txt files, parses their chapter index,
+// and returns them sorted by index.
+func findUncleTomChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^UncleTom_Chapter_([IVXLCDM]+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "XLV"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatUncleTomChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Chapter I", "XLV" -> "Chapter XLV"
+func formatUncleTomChapterTitle(label string) string {
+	return "Chapter " + label
+}
+
 func main() {
 
 	// Config
 	const (
-		bookTitle   = "The Adventures of Sherlock Holmes"
-		author      = "Arthur Conan Doyle"
-		genre       = "Mistery"
-		edition     = "Project Gutenberg eBook #1661"
-		summary     = "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published in 1892. It contains the earliest short stories featuring the consulting detective Sherlock Holmes, including iconic tales like A Scandal in Bohemia, The Red-Headed League, and The Adventure of the Speckled Band."
-		startIndex  = 1       // Start from Adventure I (1)
+		bookTitle   = "Uncle Tom's Cabin"
+		author      = "Harriet Beecher Stowe"
+		genre       = "Fiction"
+		edition     = "Project Gutenberg eBook #203"
+		summary     = "Uncle Tom's Cabin; or, Life Among the Lowly is an anti-slavery novel by Harriet Beecher Stowe, published in 1852. The novel had a profound effect on attitudes toward African Americans and slavery in the U.S., and is said to have helped lay the groundwork for the American Civil War."
+		startIndex  = 1       // Start from Chapter I (1)
 		booksFolder = "books" // Relative to repo root when running `go run ./tasks/main.go`
 		signer      = "Prime-librarian"
 	)
@@ -403,7 +660,7 @@ func main() {
 		WithNetwork("mainnet"),
 	)
 
-	color.Red("Alexandria Contract - The Adventures of Sherlock Holmes Upload")
+	color.Red("Alexandria Contract - Uncle Tom's Cabin Upload")
 	color.Red("")
 
 	// Check if book already exists by trying to get it
@@ -443,26 +700,26 @@ func main() {
 		color.Green("Book already exists. Skipping book creation.")
 	}
 
-	// Discover all Sherlock adventure files from I onward
-	chapterFiles, err := findSherlockAdventures(booksFolder, startIndex)
+	// Discover all Uncle Tom chapter files from I onward
+	chapterFiles, err := findUncleTomChapters(booksFolder, startIndex)
 	if err != nil {
-		fmt.Printf("Error discovering Sherlock adventure files: %v\n", err)
+		fmt.Printf("Error discovering Uncle Tom chapter files: %v\n", err)
 		os.Exit(1)
 	}
 
 	if len(chapterFiles) == 0 {
-		fmt.Println("No Sherlock_Adventure_*.txt files found from Adventure I onward")
+		fmt.Println("No UncleTom_Chapter_*.txt files found from Chapter I onward")
 		return
 	}
 
-	fmt.Printf("\nFound %d Sherlock adventure files from Adventure I onward:\n", len(chapterFiles))
+	fmt.Printf("\nFound %d Uncle Tom's Cabin chapter files from Chapter I onward:\n", len(chapterFiles))
 	for _, ch := range chapterFiles {
 		fmt.Printf("  - %s (index %d, label %s)\n", ch.Path, ch.Index, ch.Label)
 	}
 
-	// Loop over all adventures from I to the last and upload them
+	// Loop over all chapters from I to the last and upload them
 	for _, ch := range chapterFiles {
-		chapterTitle := formatSherlockAdventureTitle(ch.Label)
+		chapterTitle := formatUncleTomChapterTitle(ch.Label)
 
 		color.Cyan("\nProcessing %s (index %d)", chapterTitle, ch.Index)
 
@@ -474,16 +731,16 @@ func main() {
 
 		fmt.Printf("Successfully loaded %d paragraphs from %s\n", len(paragraphs), ch.Path)
 
-		// Add adventure title (name) if needed
-		color.Yellow("Adding adventure name on-chain: %s", chapterTitle)
+		// Add chapter title (name) if needed
+		color.Yellow("Adding chapter name on-chain: %s", chapterTitle)
 		o.Tx("Admin/add_chapter_name",
 			WithSigner(signer),
 			WithArg("bookTitle", bookTitle),
 			WithArg("chapterTitle", chapterTitle),
 		).Print()
 
-		// Add the full adventure content
-		color.Yellow("Adding adventure content on-chain: %s (index %d)", chapterTitle, ch.Index)
+		// Add the full chapter content
+		color.Yellow("Adding chapter content on-chain: %s (index %d)", chapterTitle, ch.Index)
 		o.Tx("Admin/add_chapter",
 			WithSigner(signer),
 			WithArg("bookTitle", bookTitle),
@@ -493,5 +750,5 @@ func main() {
 		).Print()
 	}
 
-	color.Green("\nFinished uploading The Adventures of Sherlock Holmes from Adventure I to Adventure XII.")
+	color.Green("\nFinished uploading Uncle Tom's Cabin chapters from Chapter I to Chapter XLV.")
 }

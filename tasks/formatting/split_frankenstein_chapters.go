@@ -32,12 +32,16 @@ func main() {
 	// Letter 1, Letter 2, Letter 3, Letter 4
 	// Chapter 1, Chapter 2, ..., Chapter 24
 	// Pattern: "Letter N" or "Chapter N" on its own line
+	// Note: Skip the table of contents - actual sections start around line 68
 	sectionRegex := regexp.MustCompile(`^\s*(Letter|Chapter)\s+(\d+)\s*$`)
 	var sectionStarts []int
 	var sectionTypes []string  // "Letter" or "Chapter"
 	var sectionNumbers []string
 
-	for i, line := range lines {
+	startSearchLine := 65 // Skip TOC
+
+	for i := startSearchLine; i < len(lines); i++ {
+		line := lines[i]
 		trimmed := strings.TrimSpace(line)
 		if sectionRegex.MatchString(trimmed) {
 			match := sectionRegex.FindStringSubmatch(trimmed)

@@ -4,6 +4,62 @@ import { fetchChapterParagraph, fetchBookChapters } from '@/flow/actions'
 
 type Chapter = { title: string; paragraphs: string[] | null }
 
+// Roman numeral to number conversion
+const romanToNumber: Record<string, number> = {
+  I: 1, II: 2, III: 3, IV: 4, V: 5, VI: 6, VII: 7, VIII: 8, IX: 9, X: 10,
+  XI: 11, XII: 12, XIII: 13, XIV: 14, XV: 15, XVI: 16, XVII: 17, XVIII: 18, XIX: 19, XX: 20,
+  XXI: 21, XXII: 22, XXIII: 23, XXIV: 24, XXV: 25, XXVI: 26, XXVII: 27, XXVIII: 28, XXIX: 29, XXX: 30,
+  XXXI: 31, XXXII: 32, XXXIII: 33, XXXIV: 34, XXXV: 35, XXXVI: 36, XXXVII: 37, XXXVIII: 38, XXXIX: 39, XL: 40,
+  XLI: 41, XLII: 42, XLIII: 43, XLIV: 44, XLV: 45, XLVI: 46, XLVII: 47, XLVIII: 48, XLIX: 49, L: 50,
+}
+
+// Extract sorting key from chapter title
+function getChapterSortKey(title: string): { type: string; number: number } {
+  // Try to match patterns like "Chapter I", "Chapter 1", "Letter 4", etc.
+  const match = title.match(/^(.*?)\s+([IVXLCDM]+|\d+)$/i)
+  
+  if (match) {
+    const type = match[1].toLowerCase()
+    const numPart = match[2].toUpperCase()
+    
+    // Check if it's a Roman numeral
+    if (romanToNumber[numPart] !== undefined) {
+      return { type, number: romanToNumber[numPart] }
+    }
+    
+    // Try parsing as Arabic numeral
+    const arabicNum = parseInt(numPart, 10)
+    if (!isNaN(arabicNum)) {
+      return { type, number: arabicNum }
+    }
+  }
+  
+  // Fallback: try to extract any number from the title
+  const numMatch = title.match(/(\d+)/)
+  if (numMatch) {
+    return { type: '', number: parseInt(numMatch[1], 10) }
+  }
+  
+  // No number found, sort alphabetically at the end
+  return { type: title.toLowerCase(), number: 9999 }
+}
+
+// Sort chapters by type (e.g., Letter before Chapter) and then by number
+function sortChapters<T extends { title: string }>(chapters: T[]): T[] {
+  return [...chapters].sort((a, b) => {
+    const keyA = getChapterSortKey(a.title)
+    const keyB = getChapterSortKey(b.title)
+    
+    // Sort by type first (alphabetically)
+    if (keyA.type !== keyB.type) {
+      return keyA.type.localeCompare(keyB.type)
+    }
+    
+    // Then by number
+    return keyA.number - keyB.number
+  })
+}
+
 // Helper function to check if a string is a base64 encoded image
 function isBase64Image(str: string): boolean {
   // Base64 images are typically very long and contain only base64 characters
@@ -209,16 +265,20 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
         <div className="space-y-4">
           {selectedChapterIdx === null ? (
             <div className="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
-              {chapters.map((chapter, idx) => (
-                <button
-                  key={idx + '-' + chapter.title}
-                  type="button"
-                  className="inline-block px-3 py-2 border rounded-lg hover:bg-gray-50 text-sm font-medium shadow-sm transition-colors whitespace-nowrap"
-                  onClick={() => onSelectChapter(idx)}
-                >
-                  {chapter.title}
-                </button>
-              ))}
+              {sortChapters(chapters).map((chapter) => {
+                // Find the original index to maintain correct selection
+                const originalIdx = chapters.findIndex(c => c.title === chapter.title)
+                return (
+                  <button
+                    key={originalIdx + '-' + chapter.title}
+                    type="button"
+                    className="inline-block px-3 py-2 border rounded-lg hover:bg-gray-50 text-sm font-medium shadow-sm transition-colors whitespace-nowrap"
+                    onClick={() => onSelectChapter(originalIdx)}
+                  >
+                    {chapter.title}
+                  </button>
+                )
+              })}
             </div>
           ) : (
             <div className="space-y-3">
