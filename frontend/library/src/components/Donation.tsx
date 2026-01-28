@@ -191,6 +191,61 @@ export default function Donation() {
             )}
           </div>
 
+          <div className="p-4 rounded-lg border border-emerald-400/30 bg-emerald-500/5 backdrop-blur-sm">
+            <div className="flex items-start gap-3">
+              <div className="flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden border border-emerald-400/20 bg-black/40">
+                <img 
+                  src="/image.png" 
+                  alt="Zenodotus NFT" 
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <div className="flex-1 text-left space-y-1">
+                <h3 className="text-sm font-semibold text-emerald-400">
+                  Exclusive: Zenodotus NFT
+                </h3>
+                <p className="text-[10px] sm:text-xs text-white/70 leading-relaxed mb-2">
+                  The first donors who help us reach the 135k FLOW goal will receive a{' '}
+                  <span className="font-semibold text-emerald-300">Zenodotus NFT</span> — named after the first 
+                  superintendent of the Library of Alexandria and the first critical editor. This exclusive soulbound NFT will{' '}
+                  <span className="font-semibold">only be minted to those who helped launch the node</span>, and it&apos;s a{' '}
+                  <span className="font-semibold text-purple-300">dynamic NFT that evolves</span> with your ongoing 
+                  involvement in the Library, reflecting your contributions and stewardship over time.
+                </p>
+                <div className="mt-3 pt-3 border-t border-emerald-400/20 space-y-2">
+                  <p className="text-[10px] sm:text-xs text-white/60 font-mono">
+                    <span className="text-emerald-300 font-semibold">Donation Tiers:</span> Your cumulative donation amount determines your NFT tier and frame color:
+                  </p>
+                  <div className="grid grid-cols-2 gap-2 text-[9px] sm:text-[10px] font-mono">
+                    <div className="flex items-center gap-1.5">
+                      <span className="w-2 h-2 rounded-full bg-gray-400"></span>
+                      <span className="text-white/70">Scribe:</span>
+                      <span className="text-emerald-300">10 FLOW</span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <span className="w-2 h-2 rounded-full bg-blue-400"></span>
+                      <span className="text-white/70">Archivist:</span>
+                      <span className="text-emerald-300">100 FLOW</span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <span className="w-2 h-2 rounded-full bg-purple-400"></span>
+                      <span className="text-white/70">Steward:</span>
+                      <span className="text-emerald-300">1,000 FLOW</span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <span className="w-2 h-2 rounded-full bg-gradient-to-r from-emerald-400 to-purple-400"></span>
+                      <span className="text-white/70">Keeper:</span>
+                      <span className="text-emerald-300">10,000 FLOW</span>
+                    </div>
+                  </div>
+                  <p className="text-[9px] sm:text-[10px] text-white/50 font-mono italic">
+                    Donations accumulate across multiple transactions — make multiple donations to reach higher tiers!
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <div className="space-y-1">
             <p className="text-[11px] sm:text-xs text-white/50 font-mono">
               Donations are sent in FLOW to the on-chain `Donations_Alexandria` contract on Flow mainnet.
