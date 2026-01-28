@@ -103,5 +103,39 @@ func TestFullFlow(t *testing.T) {
 	color.Green("")
 
 	fmt.Println("artist id ")
+}
 
+// Basic flow test for the standalone Donations_Alexandria contract
+func TestDonationsFlow(t *testing.T) {
+	o, err := OverflowTesting()
+	require.NoError(t, err)
+	require.NotNil(t, o)
+	assert.NoError(t, err)
+
+	color.White("STARTING Donations FLOW TEST")
+	color.Green("GREEN transactions are meant to SUCCEED")
+
+	// Bob makes a donation to the Donations_Alexandria contract
+	color.Green("Bob makes a donation to Donations_Alexandria")
+	o.Tx("donations/donate",
+		WithSigner("bob"),
+		WithArg("amount", "3.0"),
+	).AssertSuccess(t).Print()
+	color.Green("")
+
+	// Bob donates a second time
+	color.Green("Bob donates a second time to Donations_Alexandria")
+	o.Tx("donations/donate",
+		WithSigner("bob"),
+		WithArg("amount", "5.0"),
+	).AssertSuccess(t).Print()
+	color.Green("")
+
+	// Alice makes a donation
+	color.Green("Alice makes a donation to Donations_Alexandria")
+	o.Tx("donations/donate",
+		WithSigner("alice"),
+		WithArg("amount", "7.0"),
+	).AssertSuccess(t).Print()
+	color.Green("")
 }

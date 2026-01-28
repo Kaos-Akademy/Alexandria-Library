@@ -5,6 +5,12 @@
 			"aliases": {
 				"mainnet": "fed1adffd14ea9d0"
 			}
+		},
+		"Donations_Alexandria": {
+			"source": "contracts/donations.cdc",
+			"aliases": {
+				"mainnet": "fed1adffd14ea9d0"
+			}
 		}
 	},
 	"dependencies": {
@@ -170,6 +176,14 @@
 				"location": "emulator-account.pkey"
 			}
 		},
+		"emulator-alice": {
+			"address": "179b6b1cb6755e31",
+			"key": "7d83b4ce78fe1366e9a39001020450f348669355dfbebb94b23fc1578122d78d"
+		},
+		"emulator-bob": {
+			"address": "f3fcd2c1a78f5eee",
+			"key": "3b90c6ed0051a32a9bbbd8d584d04f9db4948a63974e0a4ac70d637193d7e4c7"
+		},
 		"mainnet-Prime-librarian": {
 			"address": "fed1adffd14ea9d0",
 			"key": {
@@ -179,6 +193,13 @@
 		}
 	},
 	"deployments": {
+		"emulator": {
+			"emulator-account": [
+				"Donations_Alexandria"
+			],
+			"emulator-bob": [],
+			"emulator-alice": []
+		},
 		"mainnet": {
 			"mainnet-Prime-librarian": [
 				"Alexandria"

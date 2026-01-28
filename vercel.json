@@ -1,5 +1,11 @@
 {
   "buildCommand": "cd frontend/library && npm install && npm run build",
   "outputDirectory": "frontend/library/dist",
-  "installCommand": "cd frontend/library && npm install"
+  "installCommand": "cd frontend/library && npm install",
+  "rewrites": [
+    {
+      "source": "/((?!assets/).*)",
+      "destination": "/index.html"
+    }
+  ]
 }

@@ -29,56 +29,71 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white">
-      <div className="max-w-4xl mx-auto px-4 py-4 sm:py-6 md:py-8">
-        <div className="text-center mb-4">
+      <div className="max-w-4xl mx-auto px-4 py-4 sm:py-6 md:py-8 flex flex-col min-h-screen">
+        <div className="text-center mb-4 space-y-2">
           <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title">Alexandria Library</h1>
           <Link to="/mission" className="block text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600 border-b border-purple-600 pb-0.5 hover:opacity-80 transition-opacity inline-block">
             Knowledge belongs to everyone, forever.
           </Link>
         </div>
 
-        <BookCommandPalette
-          data={data}
-          inline
-          onSelectBook={(value) => {
-            setSelectedBook(value)
-            const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
-            setSelectedGenre(genreEntry?.genre ?? null)
-            setLoadingChapters(true)
-            setChaptersError(null)
-            setSelectedChapterIdx(null)
-            ;(async () => {
-              try {
-                const chapterTitles: unknown = await fetchChapterTitles(value)
-                if (!Array.isArray(chapterTitles)) {
-                  throw new Error('Invalid response: expected array of chapter titles')
+        <div className="flex-1 flex flex-col gap-4">
+          <BookCommandPalette
+            data={data}
+            inline
+            onSelectBook={(value) => {
+              setSelectedBook(value)
+              const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
+              setSelectedGenre(genreEntry?.genre ?? null)
+              setLoadingChapters(true)
+              setChaptersError(null)
+              setSelectedChapterIdx(null)
+              ;(async () => {
+                try {
+                  const chapterTitles: unknown = await fetchChapterTitles(value)
+                  if (!Array.isArray(chapterTitles)) {
+                    throw new Error('Invalid response: expected array of chapter titles')
+                  }
+                  const normalized = chapterTitles
+                    .filter((title): title is string => typeof title === 'string' && title.length > 0)
+                    .map((title) => ({ title, paragraphs: null as string[] | null }))
+                  setChapters(normalized)
+                } catch (err) {
+                  setChapters([])
+                  setChaptersError(err instanceof Error ? err.message : 'Failed to load chapters')
+                } finally {
+                  setLoadingChapters(false)
                 }
-                const normalized = chapterTitles
-                  .filter((title): title is string => typeof title === 'string' && title.length > 0)
-                  .map((title) => ({ title, paragraphs: null as string[] | null }))
-                setChapters(normalized)
-              } catch (err) {
-                setChapters([])
-                setChaptersError(err instanceof Error ? err.message : 'Failed to load chapters')
-              } finally {
-                setLoadingChapters(false)
-              }
-            })()
-          }}
-        />
-
-        {selectedBook && (
-          <ChaptersView
-            selectedBook={selectedBook}
-            selectedGenre={selectedGenre}
-            chapters={chapters}
-            loading={loadingChapters}
-            error={chaptersError}
-            selectedChapterIdx={selectedChapterIdx}
-            onSelectChapter={setSelectedChapterIdx}
-            onChaptersUpdate={setChapters}
+              })()
+            }}
           />
-        )}
+
+          {selectedBook && (
+            <ChaptersView
+              selectedBook={selectedBook}
+              selectedGenre={selectedGenre}
+              chapters={chapters}
+              loading={loadingChapters}
+              error={chaptersError}
+              selectedChapterIdx={selectedChapterIdx}
+              onSelectChapter={setSelectedChapterIdx}
+              onChaptersUpdate={setChapters}
+            />
+          )}
+        </div>
+
+        <div className="mt-6 pt-4 border-t border-black/5 flex justify-center">
+          <Link
+            to="/donate"
+            className="inline-flex items-center justify-center rounded-full px-4 py-1.5 text-xs font-semibold
+                       bg-gradient-to-r from-emerald-400 via-cyan-400 to-purple-400 text-black
+                       shadow-md shadow-emerald-500/30 hover:shadow-lg hover:shadow-emerald-500/40
+                       hover:from-emerald-300 hover:via-cyan-300 hover:to-purple-300
+                       transition-all duration-200"
+          >
+            Donate to the Library
+          </Link>
+        </div>
       </div>
     </div>
   )

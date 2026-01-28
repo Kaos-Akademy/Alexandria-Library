@@ -1,0 +1,39 @@
+export const donateTx = () => `
+import Donations_Alexandria from 0xfed1adffd14ea9d0
+import FungibleToken from 0xf233dcee88fe0abe
+import FlowToken from 0x1654653399040a61
+
+transaction(amount: UFix64) {
+
+    // The FlowToken vault being sent to the donations contract
+    let sentVault: @{FungibleToken.Vault}
+
+    // The address of the donor
+    let donor: Address
+
+    prepare(signer: auth(BorrowValue) &Account) {
+
+        self.donor = signer.address
+
+        // Get a reference to the signer's stored FlowToken vault
+        let vaultRef = signer.storage.borrow<
+            auth(FungibleToken.Withdraw) &FlowToken.Vault
+        >(from: /storage/flowTokenVault)
+        ?? panic(
+            "The signer does not store a FlowToken.Vault object at the path /storage/flowTokenVault"
+        )
+
+        // Withdraw tokens from the signer's stored vault
+        self.sentVault <- vaultRef.withdraw(amount: amount)
+    }
+
+    execute {
+        // Call the donations contract function directly
+        Donations_Alexandria.donate(
+            from: <- self.sentVault as! @FlowToken.Vault,
+            donor: self.donor
+        )
+    }
+}
+`
+

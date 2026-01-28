@@ -640,16 +640,163 @@ func formatUncleTomChapterTitle(label string) string {
 	return "Chapter " + label
 }
 
+// findScarletChapters finds all Scarlet_Chapter_*.txt files, parses their chapter index,
+// and returns them sorted by index.
+func findScarletChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^Scarlet_Chapter_([IVXLCDM]+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "XXIV"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatScarletChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Chapter I", "XXIV" -> "Chapter XXIV"
+func formatScarletChapterTitle(label string) string {
+	return "Chapter " + label
+}
+
+// findFarewellChapters finds all Farewell_Chapter_*.txt files, parses their chapter index,
+// and returns them sorted by index.
+func findFarewellChapters(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^Farewell_Chapter_([IVXLCDM]+)\.txt$`)
+
+	var chapters []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "XLI"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip chapters before the requested starting point
+			continue
+		}
+
+		chapters = append(chapters, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(chapters, func(i, j int) bool {
+		return chapters[i].Index < chapters[j].Index
+	})
+
+	return chapters, nil
+}
+
+// formatFarewellChapterTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Chapter I", "XLI" -> "Chapter XLI"
+func formatFarewellChapterTitle(label string) string {
+	return "Chapter " + label
+}
+
+// findHistoryLessons finds all History_Lesson_*.txt files, parses their lesson index,
+// and returns them sorted by index.
+func findHistoryLessons(baseDir string, minIndex int) ([]chapterFile, error) {
+	entries, err := os.ReadDir(baseDir)
+	if err != nil {
+		return nil, err
+	}
+
+	re := regexp.MustCompile(`^History_Lesson_([IVXLCDM]+)\.txt$`)
+
+	var lessons []chapterFile
+	for _, e := range entries {
+		if e.IsDir() {
+			continue
+		}
+		m := re.FindStringSubmatch(e.Name())
+		if len(m) != 2 {
+			continue
+		}
+		label := m[1] // e.g. "I", "II", ..., "LX"
+
+		index := romanToInt(label)
+
+		if index < minIndex {
+			// Skip lessons before the requested starting point
+			continue
+		}
+
+		lessons = append(lessons, chapterFile{
+			Path:  filepath.Join(baseDir, e.Name()),
+			Label: label,
+			Index: index,
+		})
+	}
+
+	// Sort by numeric index
+	sort.Slice(lessons, func(i, j int) bool {
+		return lessons[i].Index < lessons[j].Index
+	})
+
+	return lessons, nil
+}
+
+// formatHistoryLessonTitle creates the on-chain chapterTitle from the file label.
+// e.g. "I" -> "Lesson I", "LX" -> "Lesson LX"
+func formatHistoryLessonTitle(label string) string {
+	return "Lesson " + label
+}
+
 func main() {
 
 	// Config
 	const (
-		bookTitle   = "Uncle Tom's Cabin"
-		author      = "Harriet Beecher Stowe"
-		genre       = "Fiction"
-		edition     = "Project Gutenberg eBook #203"
-		summary     = "Uncle Tom's Cabin; or, Life Among the Lowly is an anti-slavery novel by Harriet Beecher Stowe, published in 1852. The novel had a profound effect on attitudes toward African Americans and slavery in the U.S., and is said to have helped lay the groundwork for the American Civil War."
-		startIndex  = 1       // Start from Chapter I (1)
+		bookTitle   = "A Complete History of Music"
+		author      = "W. J. Baltzell"
+		genre       = "History"
+		edition     = "Project Gutenberg eBook #54392"
+		summary     = "A Complete History of Music for Schools, Clubs, and Private Reading by W. J. Baltzell, with contributions by H. A. Clarke, Arthur Elson, and others. This comprehensive work traces the development of music from ancient times through the early 20th century, covering various musical periods, composers, and the evolution of musical forms and instruments."
+		startIndex  = 1       // Start from Lesson I (1)
 		booksFolder = "books" // Relative to repo root when running `go run ./tasks/main.go`
 		signer      = "Prime-librarian"
 	)
@@ -660,7 +807,7 @@ func main() {
 		WithNetwork("mainnet"),
 	)
 
-	color.Red("Alexandria Contract - Uncle Tom's Cabin Upload")
+	color.Red("Alexandria Contract - A Complete History of Music Upload")
 	color.Red("")
 
 	// Check if book already exists by trying to get it
@@ -700,55 +847,55 @@ func main() {
 		color.Green("Book already exists. Skipping book creation.")
 	}
 
-	// Discover all Uncle Tom chapter files from I onward
-	chapterFiles, err := findUncleTomChapters(booksFolder, startIndex)
+	// Discover all History lesson files from I onward
+	lessonFiles, err := findHistoryLessons(booksFolder, startIndex)
 	if err != nil {
-		fmt.Printf("Error discovering Uncle Tom chapter files: %v\n", err)
+		fmt.Printf("Error discovering History lesson files: %v\n", err)
 		os.Exit(1)
 	}
 
-	if len(chapterFiles) == 0 {
-		fmt.Println("No UncleTom_Chapter_*.txt files found from Chapter I onward")
+	if len(lessonFiles) == 0 {
+		fmt.Println("No History_Lesson_*.txt files found from Lesson I onward")
 		return
 	}
 
-	fmt.Printf("\nFound %d Uncle Tom's Cabin chapter files from Chapter I onward:\n", len(chapterFiles))
-	for _, ch := range chapterFiles {
-		fmt.Printf("  - %s (index %d, label %s)\n", ch.Path, ch.Index, ch.Label)
+	fmt.Printf("\nFound %d A Complete History of Music lesson files from Lesson I onward:\n", len(lessonFiles))
+	for _, lesson := range lessonFiles {
+		fmt.Printf("  - %s (index %d, label %s)\n", lesson.Path, lesson.Index, lesson.Label)
 	}
 
-	// Loop over all chapters from I to the last and upload them
-	for _, ch := range chapterFiles {
-		chapterTitle := formatUncleTomChapterTitle(ch.Label)
+	// Loop over all lessons from I to the last and upload them
+	for _, lesson := range lessonFiles {
+		lessonTitle := formatHistoryLessonTitle(lesson.Label)
 
-		color.Cyan("\nProcessing %s (index %d)", chapterTitle, ch.Index)
+		color.Cyan("\nProcessing %s (index %d)", lessonTitle, lesson.Index)
 
-		paragraphs, err := ReadFile(ch.Path)
+		paragraphs, err := ReadFile(lesson.Path)
 		if err != nil {
-			fmt.Printf("Error reading %s: %v\n", ch.Path, err)
+			fmt.Printf("Error reading %s: %v\n", lesson.Path, err)
 			os.Exit(1)
 		}
 
-		fmt.Printf("Successfully loaded %d paragraphs from %s\n", len(paragraphs), ch.Path)
+		fmt.Printf("Successfully loaded %d paragraphs from %s\n", len(paragraphs), lesson.Path)
 
-		// Add chapter title (name) if needed
-		color.Yellow("Adding chapter name on-chain: %s", chapterTitle)
+		// Add lesson title (name) if needed
+		color.Yellow("Adding lesson name on-chain: %s", lessonTitle)
 		o.Tx("Admin/add_chapter_name",
 			WithSigner(signer),
 			WithArg("bookTitle", bookTitle),
-			WithArg("chapterTitle", chapterTitle),
+			WithArg("chapterTitle", lessonTitle),
 		).Print()
 
-		// Add the full chapter content
-		color.Yellow("Adding chapter content on-chain: %s (index %d)", chapterTitle, ch.Index)
+		// Add the full lesson content
+		color.Yellow("Adding lesson content on-chain: %s (index %d)", lessonTitle, lesson.Index)
 		o.Tx("Admin/add_chapter",
 			WithSigner(signer),
 			WithArg("bookTitle", bookTitle),
-			WithArg("chapterTitle", chapterTitle),
-			WithArg("index", ch.Index),
+			WithArg("chapterTitle", lessonTitle),
+			WithArg("index", lesson.Index),
 			WithArg("paragraphs", paragraphs),
 		).Print()
 	}
 
-	color.Green("\nFinished uploading Uncle Tom's Cabin chapters from Chapter I to Chapter XLV.")
+	color.Green("\nFinished uploading A Complete History of Music lessons from Lesson I to Lesson LX.")
 }
