@@ -3,11 +3,13 @@ import { getGenresWithBooks, fetchChapterTitles } from '../flow/actions'
 import { useEffect, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
 import ChaptersView from '@/components/ChaptersView'
+import GenrePanels from '@/components/GenrePanels'
 
 export default function Home() {
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
+  const [genreFilter, setGenreFilter] = useState<string>('')
   const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] | null }>>([])
   const [loadingChapters, setLoadingChapters] = useState(false)
   const [chaptersError, setChaptersError] = useState<string | null>(null)
@@ -27,46 +29,64 @@ export default function Home() {
     return () => { cancelled = true }
   }, [])
 
+  const handleSelectBook = (value: string) => {
+    setSelectedBook(value)
+    const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
+    setSelectedGenre(genreEntry?.genre ?? null)
+    setLoadingChapters(true)
+    setChaptersError(null)
+    setSelectedChapterIdx(null)
+    ;(async () => {
+      try {
+        const chapterTitles: unknown = await fetchChapterTitles(value)
+        if (!Array.isArray(chapterTitles)) {
+          throw new Error('Invalid response: expected array of chapter titles')
+        }
+        const normalized = chapterTitles
+          .filter((title): title is string => typeof title === 'string' && title.length > 0)
+          .map((title) => ({ title, paragraphs: null as string[] | null }))
+        setChapters(normalized)
+      } catch (err) {
+        setChapters([])
+        setChaptersError(err instanceof Error ? err.message : 'Failed to load chapters')
+      } finally {
+        setLoadingChapters(false)
+      }
+    })()
+  }
+
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto px-4 py-4 sm:py-6 md:py-8 flex flex-col min-h-screen">
         <div className="text-center mb-4 space-y-2">
-          <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title">Alexandria Library</h1>
+          <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title">
+            <Link
+              to="/"
+              onClick={() => {
+                setSelectedBook(null)
+                setSelectedChapterIdx(null)
+              }}
+              className="text-inherit no-underline hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-emerald-500/30 focus:ring-offset-2 rounded"
+            >
+              Alexandria Library
+            </Link>
+          </h1>
           <Link to="/mission" className="block text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600 border-b border-purple-600 pb-0.5 hover:opacity-80 transition-opacity inline-block">
             Knowledge belongs to everyone, forever.
           </Link>
         </div>
 
         <div className="flex-1 flex flex-col gap-4">
-          <BookCommandPalette
-            data={data}
-            inline
-            onSelectBook={(value) => {
-              setSelectedBook(value)
-              const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
-              setSelectedGenre(genreEntry?.genre ?? null)
-              setLoadingChapters(true)
-              setChaptersError(null)
-              setSelectedChapterIdx(null)
-              ;(async () => {
-                try {
-                  const chapterTitles: unknown = await fetchChapterTitles(value)
-                  if (!Array.isArray(chapterTitles)) {
-                    throw new Error('Invalid response: expected array of chapter titles')
-                  }
-                  const normalized = chapterTitles
-                    .filter((title): title is string => typeof title === 'string' && title.length > 0)
-                    .map((title) => ({ title, paragraphs: null as string[] | null }))
-                  setChapters(normalized)
-                } catch (err) {
-                  setChapters([])
-                  setChaptersError(err instanceof Error ? err.message : 'Failed to load chapters')
-                } finally {
-                  setLoadingChapters(false)
-                }
-              })()
-            }}
-          />
+          <BookCommandPalette data={data} inline onSelectBook={handleSelectBook} />
+
+          {!selectedBook && (
+            <GenrePanels
+              data={data}
+              genreFilter={genreFilter}
+              onGenreFilterChange={setGenreFilter}
+              onSelectBook={handleSelectBook}
+            />
+          )}
 
           {selectedBook && (
             <ChaptersView

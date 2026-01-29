@@ -202,7 +202,8 @@
 		},
 		"mainnet": {
 			"mainnet-Prime-librarian": [
-				"Alexandria"
+				"Alexandria",
+				"Donations_Alexandria"
 			]
 		}
 	}

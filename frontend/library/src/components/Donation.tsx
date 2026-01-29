@@ -1,65 +1,128 @@
-import { useEffect, useState } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import * as fcl from '@onflow/fcl'
-import { sendDonation, fetchDonationBalance } from '@/flow/donations'
-
-type FclUser = {
-  addr?: string | null
-}
+import { useFlowCurrentUser, useFlowMutate, useFlowQuery } from '@onflow/react-sdk'
+import { logger } from '@/utils/logger'
 
 export default function Donation() {
-  const [currentUser, setCurrentUser] = useState<FclUser | null>(null)
+  const { user, authenticate, unauthenticate } = useFlowCurrentUser()
   const [amount, setAmount] = useState('1.0')
-  const [status, setStatus] = useState<'idle' | 'pending' | 'success' | 'error'>('idle')
   const [error, setError] = useState<string | null>(null)
-  const [raised, setRaised] = useState<number>(0)
-  const [loadingBalance, setLoadingBalance] = useState(true)
 
-  const target = 135000 // Target amount in FLOW (or FLOW-equivalent)
+  const target = 135000 // Target amount in FLOW
 
-  useEffect(() => {
-    const unsubscribe = fcl.currentUser().subscribe((user) => {
-      setCurrentUser(user as FclUser)
-    })
-    return () => {
-      unsubscribe()
-    }
-  }, [])
+  // Fetch donation balance
+  const { 
+    data: raised, 
+    isLoading: loadingBalance, 
+    error: queryError,
+    refetch: refetchBalance 
+  } = useFlowQuery({
+    cadence: `
+      import FlowToken from 0x1654653399040a61
 
-  useEffect(() => {
-    let cancelled = false
-    const run = async () => {
-      try {
-        setLoadingBalance(true)
-        const balance = await fetchDonationBalance()
-        if (!cancelled) {
-          setRaised(balance)
-          setLoadingBalance(false)
-        }
-      } catch (e) {
-        console.error('Failed to fetch donation balance:', e)
-        if (!cancelled) {
-          setRaised(0)
-          setLoadingBalance(false)
-        }
+      access(all) fun main(address: Address): UFix64 {
+        let account = getAccount(address)
+        let vaultRef = account.capabilities
+          .get<&FlowToken.Vault>(/public/flowTokenBalance)
+          .borrow()
+          ?? panic("Could not borrow Balance reference")
+        return vaultRef.balance
       }
+    `,
+    args: (arg, t) => [arg('0xfed1adffd14ea9d0', t.Address)],
+    query: {
+      refetchInterval: 10000, // Auto-refresh every 10 seconds
+      retry: 3, // Retry failed queries
+      retryDelay: 1000, // Wait 1 second between retries
+    },
+  })
+
+  // Log query errors to console
+  useEffect(() => {
+    if (queryError) {
+      console.error('Balance query error:', queryError)
+      logger.error('Donation', 'Failed to fetch balance', queryError)
     }
-    run()
-    return () => {
-      cancelled = true
-    }
-  }, [])
+  }, [queryError])
+
+  // Fetch donations leaderboard
+  const { 
+    data: donationsData, 
+    isLoading: loadingDonations,
+    error: donationsError 
+  } = useFlowQuery({
+    cadence: `
+      import Donations_Alexandria from 0xfed1adffd14ea9d0
+
+      access(all) fun main(): {Address: UFix64} {
+        return Donations_Alexandria.getDonations()
+      }
+    `,
+    args: () => [],
+    query: {
+      refetchInterval: 30000, // Auto-refresh every 30 seconds
+      retry: 2,
+    },
+  })
+
+  // Process donations data to get top 5 donors
+  const topDonors = useMemo(() => {
+    if (!donationsData || typeof donationsData !== 'object') return []
+    
+    const donorsArray = Object.entries(donationsData as Record<string, string>).map(([address, amount]) => ({
+      address,
+      amount: Number(amount),
+    }))
+    
+    return donorsArray
+      .sort((a, b) => b.amount - a.amount)
+      .slice(0, 5)
+  }, [donationsData])
+
+  // Donation transaction mutation
+  const { mutate: donate, isPending, isSuccess, isError } = useFlowMutate({
+    mutation: {
+      onSuccess: (txId: string) => {
+        logger.log('Donation', 'Donation successful', { txId })
+        // Refresh balance after successful donation
+        setTimeout(() => {
+          refetchBalance()
+        }, 3000)
+      },
+      onError: (txError: Error) => {
+        logger.error('Donation', 'Donation failed', txError)
+        
+        // Provide user-friendly error messages
+        const errorMessage = txError.message || String(txError)
+        
+        if (errorMessage.includes('timed out') || errorMessage.includes('timeout')) {
+          setError('Connection to wallet timed out. Please ensure your wallet is open and try again.')
+        } else if (errorMessage.includes('rejected') || errorMessage.includes('declined')) {
+          setError('Transaction was rejected. Please try again and approve the transaction in your wallet.')
+        } else if (errorMessage.includes('balance') || errorMessage.includes('insufficient')) {
+          setError('Insufficient FLOW balance. Please ensure you have enough FLOW to complete the donation.')
+        } else if (errorMessage.includes('wallet') || errorMessage.includes('initialized')) {
+          setError('Wallet needs to be properly initialized. Please make sure your wallet has been properly set up.')
+        } else {
+          setError(errorMessage || 'Donation failed. Please try again.')
+        }
+      },
+    },
+  })
 
   const handleConnect = async () => {
+    logger.log('Donation', 'Showing wallet connection options')
     try {
-      await fcl.authenticate()
+      await authenticate()
+      logger.log('Donation', 'User authenticated successfully')
     } catch (e) {
-      console.error(e)
+      logger.error('Donation', 'Authentication failed', e)
+      setError(e instanceof Error ? e.message : 'Failed to connect wallet')
     }
   }
 
   const handleDonate = async () => {
-    if (!currentUser?.addr) {
+    if (!user?.addr) {
       await handleConnect()
       return
     }
@@ -71,29 +134,49 @@ export default function Donation() {
       return
     }
 
-    // Convert to UFix64 with 2 decimal places
-    const ufix = numeric.toFixed(2)
+    // Convert to UFix64 with 8 decimal places (Flow standard)
+    const ufix = numeric.toFixed(8)
 
-    setStatus('pending')
+    logger.log('Donation', 'Starting donation', { amount: ufix, user: user.addr })
     setError(null)
-    try {
-      await sendDonation(ufix)
-      setStatus('success')
-      // Refresh balance after successful donation
-      setTimeout(async () => {
-        try {
-          const balance = await fetchDonationBalance()
-          setRaised(balance)
-        } catch (e) {
-          console.error('Failed to refresh balance:', e)
+    
+    // Execute the donation mutation
+    donate({
+      cadence: `
+        import Donations_Alexandria from 0xfed1adffd14ea9d0
+        import FungibleToken from 0xf233dcee88fe0abe
+        import FlowToken from 0x1654653399040a61
+
+        transaction(amount: UFix64) {
+          let sentVault: @{FungibleToken.Vault}
+          let donor: Address
+
+          prepare(signer: auth(BorrowValue) &Account) {
+            self.donor = signer.address
+
+            let vaultRef = signer.storage.borrow<
+              auth(FungibleToken.Withdraw) &FlowToken.Vault
+            >(from: /storage/flowTokenVault)
+            ?? panic("The signer does not store a FlowToken.Vault object at /storage/flowTokenVault")
+
+            self.sentVault <- vaultRef.withdraw(amount: amount)
+          }
+
+          execute {
+            Donations_Alexandria.donate(
+              from: <- self.sentVault as! @FlowToken.Vault,
+              donor: self.donor
+            )
+          }
         }
-      }, 2000)
-    } catch (e) {
-      console.error(e)
-      setStatus('error')
-      setError(e instanceof Error ? e.message : 'Donation failed.')
-    }
+      `,
+      args: (arg: any, t: any) => [arg(ufix, t.UFix64)],
+      limit: 9999,
+    })
   }
+
+  const raisedAmount = raised ? Number(raised) : 0
+  const status = isPending ? 'pending' : isSuccess ? 'success' : isError ? 'error' : 'idle'
 
   return (
     <div className="min-h-screen bg-black text-white flex flex-col">
@@ -103,55 +186,120 @@ export default function Donation() {
             ← Back to Library
           </Link>
           <button
-            onClick={currentUser?.addr ? () => fcl.unauthenticate() : handleConnect}
+            onClick={user?.loggedIn ? unauthenticate : handleConnect}
             className="text-xs px-3 py-1 rounded-full border border-emerald-400/60 bg-emerald-500/10 hover:bg-emerald-500/20 transition-colors"
           >
-            {currentUser?.addr ? `Connected: ${currentUser.addr.slice(0, 6)}…` : 'Connect Wallet'}
+            {user?.loggedIn ? `Connected: ${user.addr?.slice(0, 6)}…` : 'Connect Wallet'}
           </button>
         </div>
       </header>
 
-      <main className="flex-1 flex items-center justify-center px-4 py-10">
-        <div className="max-w-xl w-full text-center space-y-8">
-          <div className="space-y-3">
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold">
+      <main className="flex-1 flex items-start justify-center px-4 md:px-10 py-10 md:py-16">
+        <div className="max-w-5xl w-full mx-auto text-center md:text-left space-y-8 md:space-y-10">
+          <div className="space-y-3 md:space-y-4">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
               Support the{' '}
               <span className="bg-gradient-to-r from-emerald-400 via-cyan-400 to-purple-400 bg-clip-text text-transparent">
                 Alexandria Library
               </span>
             </h1>
-            <p className="text-sm sm:text-base text-white/70">
-              Your donation helps us reach our goal of running an independent Flow Verification Node so that
-              humanity&apos;s knowledge can stay open, uncensorable, and preserved on-chain forever.
+            <p className="text-sm sm:text-base md:text-lg text-white/70 max-w-4xl mx-auto md:mx-0">
+              Humanity's memory shouldn't depend on platforms that can disappear.
             </p>
-            <p className="text-[11px] sm:text-xs text-white/60 leading-relaxed max-w-xl mx-auto">
-              We are raising <span className="font-semibold text-emerald-400">$135,000</span> in FLOW to bootstrap the
-              Alexandria Verification Node. Once the node is live, all donors will receive a soulbound-style NFT that
-              represents their contribution. This NFT is your membership pass to the Alexandria DAO and encodes your
-              donation amount on-chain, so your stake in the Library is transparently recorded and can be used for
-              governance, reputation and future contributor rewards.
-            </p>
+            <div className="space-y-2 text-[11px] sm:text-xs md:text-sm text-white/60 leading-relaxed max-w-4xl mx-auto md:mx-0">
+              <p>
+                Your donation runs a Flow Verification Node — infrastructure that no one can turn off.
+              </p>
+              <p>
+                We need <span className="font-semibold text-emerald-400">135,000 FLOW</span>. Contributors get a soulbound NFT: proof you protected humanity's memory.
+              </p>
+              <p>
+                That NFT makes you a founding member of the Alexandria DAO. You help decide what gets preserved.
+              </p>
+              <p>
+                Every donation keeps ideas safe from takedowns and political cycles.
+              </p>
+              <p>
+                Someone decades from now will still find the book that changed you.
+              </p>
+            </div>
             <div className="space-y-2 pt-2">
               <p className="text-[11px] sm:text-xs text-white/60 font-mono">
                 {loadingBalance ? (
                   'Loading progress...'
+                ) : queryError ? (
+                  <span className="text-amber-400">
+                    Unable to fetch balance. Please check{' '}
+                    <a
+                      href="https://www.flowscan.io/account/0xfed1adffd14ea9d0"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="underline hover:text-amber-300"
+                    >
+                      Flowscan
+                    </a>{' '}
+                    for current donations.
+                  </span>
                 ) : (
                   <>
                     Currently raised:{' '}
                     <span className="text-emerald-400">
-                      {raised.toLocaleString(undefined, { maximumFractionDigits: 2 })} FLOW
+                      {raisedAmount.toLocaleString(undefined, { maximumFractionDigits: 2 })} FLOW
                     </span>{' '}
                     of a <span className="text-emerald-400">{target.toLocaleString()} FLOW</span> target (
-                    {Math.min(100, (raised / target) * 100).toFixed(2)}%)
+                    {Math.min(100, (raisedAmount / target) * 100).toFixed(2)}%)
                   </>
                 )}
               </p>
               <div className="h-2 w-full rounded-full bg-white/10 overflow-hidden">
                 <div
                   className="h-full rounded-full bg-gradient-to-r from-emerald-400 via-cyan-400 to-purple-400 transition-all duration-500"
-                  style={{ width: `${Math.min(100, (raised / target) * 100)}%` }}
+                  style={{ width: `${queryError ? 0 : Math.min(100, (raisedAmount / target) * 100)}%` }}
                 />
               </div>
+
+              {/* Top Donors Leaderboard */}
+              {!loadingDonations && !donationsError && topDonors.length > 0 && (
+                <div className="pt-4">
+                  <h3 className="text-xs md:text-sm lg:text-base font-semibold text-emerald-400 mb-3 text-center font-mono">
+                    🏆 Top Contributors
+                  </h3>
+                  <div className="space-y-1.5">
+                    {topDonors.map((donor, index) => (
+                      <div
+                        key={donor.address}
+                        className="flex items-center justify-between px-3 py-2 rounded-md bg-white/5 border border-white/10 hover:border-emerald-400/30 transition-colors"
+                      >
+                        <div className="flex items-center gap-2">
+                          <span className="text-[10px] md:text-xs lg:text-sm font-bold text-emerald-400 w-5">
+                            #{index + 1}
+                          </span>
+                          <a
+                            href={`https://www.flowscan.io/account/${donor.address}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-[10px] sm:text-xs md:text-sm font-mono text-white/70 hover:text-emerald-300 transition-colors"
+                            title={donor.address}
+                          >
+                            {donor.address.slice(0, 6)}...{donor.address.slice(-4)}
+                          </a>
+                        </div>
+                        <span className="text-[10px] sm:text-xs md:text-sm font-semibold text-emerald-400 font-mono">
+                          {donor.amount.toLocaleString(undefined, { maximumFractionDigits: 2 })} FLOW
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {loadingDonations && (
+                <div className="pt-4 text-center">
+                  <p className="text-[10px] md:text-xs lg:text-sm text-white/50 font-mono">
+                    Loading contributors...
+                  </p>
+                </div>
+              )}
             </div>
           </div>
 
@@ -220,7 +368,7 @@ export default function Donation() {
                     <div className="flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-gray-400"></span>
                       <span className="text-white/70">Scribe:</span>
-                      <span className="text-emerald-300">10 FLOW</span>
+                      <span className="text-emerald-300">1 FLOW</span>
                     </div>
                     <div className="flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-blue-400"></span>
@@ -246,7 +394,21 @@ export default function Donation() {
             </div>
           </div>
 
-          <div className="space-y-1">
+          <div className="space-y-3">
+            <div className="p-3 rounded-lg border border-emerald-400/20 bg-emerald-500/5">
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-2 text-xs text-white/70 font-mono">
+                <span className="font-semibold text-emerald-400">Library Address:</span>
+                <a
+                  href="https://www.flowscan.io/account/0xfed1adffd14ea9d0"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-emerald-300 hover:text-emerald-200 transition-colors underline decoration-emerald-400/50 hover:decoration-emerald-300 font-semibold"
+                  title="View on Flowscan"
+                >
+                  0xfed1adffd14ea9d0 →
+                </a>
+              </div>
+            </div>
             <p className="text-[11px] sm:text-xs text-white/50 font-mono">
               Donations are sent in FLOW to the on-chain `Donations_Alexandria` contract on Flow mainnet.
             </p>

@@ -3,12 +3,16 @@ import { getBooksByGenre } from "./scripts/getBooksByGenre"
 import { getBookChapters } from "./scripts/getBookChapters"
 import { getChapterParagraph } from "./scripts/getChapterParagraph"
 import { getChapterTitles } from "./scripts/getChapterTitles"
-import * as fcl from '@onflow/fcl';
 
+// Note: These functions use the low-level FCL for backwards compatibility
+// The Flow React SDK hooks should be used in components instead
+import * as fcl from '@onflow/fcl'
+
+// Configure FCL for direct queries (used by legacy actions)
 fcl.config({
-  'discovery.wallet': 'https://fcl-discovery.onflow.org/authn', // Endpoint set to Mainnet
-  'accessNode.api': 'https://mainnet.onflow.org',
-});
+    'accessNode.api': 'https://rest-mainnet.onflow.org',
+    'flow.network': 'mainnet',
+})
 
 export const fetchGenres = async () => {
     const response = await fcl.query({
