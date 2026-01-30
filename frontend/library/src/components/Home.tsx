@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { getGenresWithBooks, fetchChapterTitles } from '../flow/actions'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
 import ChaptersView from '@/components/ChaptersView'
 import GenrePanels from '@/components/GenrePanels'
@@ -28,6 +28,16 @@ export default function Home() {
     run()
     return () => { cancelled = true }
   }, [])
+
+  const bookCount = useMemo(() => {
+    const seen = new Set<string>()
+    for (const { books } of data) {
+      if (Array.isArray(books)) {
+        for (const t of books) if (t) seen.add(t)
+      }
+    }
+    return seen.size
+  }, [data])
 
   const handleSelectBook = (value: string) => {
     setSelectedBook(value)
@@ -71,9 +81,26 @@ export default function Home() {
               Alexandria Library
             </Link>
           </h1>
-          <Link to="/mission" className="block text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600 border-b border-purple-600 pb-0.5 hover:opacity-80 transition-opacity inline-block">
-            Knowledge belongs to everyone, forever.
-          </Link>
+          <div className="flex flex-col items-center gap-3">
+            <Link to="/mission" className="text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600 border-b border-purple-600 pb-0.5 hover:opacity-80 transition-opacity inline-block">
+              Knowledge belongs to everyone, forever.
+            </Link>
+            <Link
+              to="/roadmap"
+              className="flex flex-col gap-1 w-full max-w-[240px]"
+              aria-label="Progress toward 1,000 books — view roadmap"
+            >
+              <span className="text-xs text-gray-500 font-medium">
+                {bookCount.toLocaleString()} / 1,000 books
+              </span>
+              <div className="h-1.5 w-full rounded-full bg-gray-200 overflow-hidden">
+                <div
+                  className="h-full rounded-full bg-gradient-to-r from-emerald-500 to-purple-500 transition-all duration-500"
+                  style={{ width: `${Math.min(100, (bookCount / 1000) * 100)}%` }}
+                />
+              </div>
+            </Link>
+          </div>
         </div>
 
         <div className="flex-1 flex flex-col gap-4">

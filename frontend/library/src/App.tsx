@@ -5,6 +5,7 @@ import { FlowProvider } from '@onflow/react-sdk'
 import Home from '@/components/Home'
 import Mission from '@/components/Mission'
 import Donation from '@/components/Donation'
+import Roadmap from '@/components/Roadmap'
 
 const appUrl = typeof window !== 'undefined' 
   ? window.location.origin 
@@ -29,6 +30,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/mission" element={<Mission />} />
+          <Route path="/roadmap" element={<Roadmap />} />
           <Route path="/donate" element={<Donation />} />
         </Routes>
       </BrowserRouter>
