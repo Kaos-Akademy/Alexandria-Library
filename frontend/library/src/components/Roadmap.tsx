@@ -28,7 +28,7 @@ export default function Roadmap() {
             </p>
 
             <p>
-              Progress is driven by uploads from librarians and by reinvestment of node rewards into curating and adding new works. You can track progress on the main page and support the goal by <Link to="/donate" className="text-emerald-600 hover:text-emerald-700 underline font-medium">donating</Link> or by contributing to the library directly.
+              Progress is driven by uploads from librarians and by reinvestment of node rewards into curating and adding new works. You can track progress on the main page and support the goal by <Link to="/contribute" className="text-emerald-600 hover:text-emerald-700 underline font-medium">contributing to keep knowledge alive</Link> or by contributing to the library directly.
             </p>
 
             <p className="font-semibold text-base sm:text-lg text-gray-900">

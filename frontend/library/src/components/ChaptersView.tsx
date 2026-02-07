@@ -1,8 +1,55 @@
-import { useState, useEffect, useRef } from 'react'
-import Reader from '@/components/reader/Reader'
+import { useState, useEffect, useRef, lazy, Suspense } from 'react'
 import { fetchChapterParagraph, fetchBookChapters } from '@/flow/actions'
 
+// Lazy load Reader component - only loads when user opens a chapter
+const Reader = lazy(() => import('@/components/reader/Reader'))
+
 type Chapter = { title: string; paragraphs: string[] | null }
+
+// Project Gutenberg ebook IDs. Titles must match library UI exactly. Books not on gutenberg.org are omitted.
+const GUTENBERG_BOOKS: Record<string, { id: number }> = {
+  'The Picture of Dorian Gray': { id: 174 },
+  'Crime and Punishment': { id: 2554 },
+  'Pride and Prejudice': { id: 1342 },
+  'Short Stories': { id: 40745 },
+  'Uncle Tom\'s Cabin': { id: 203 },
+  'The Scarlet Letter': { id: 33 },
+  'A Farewell to Arms': { id: 75201 },
+  'The Count of Monte Cristo': { id: 1184 },
+  'The Wonderful Wizard of Oz': { id: 55 },
+  'Alice\'s Adventures in Wonderland': { id: 11 },
+  'The Awakening': { id: 23724 },
+  'A Complete History of Music': { id: 54392 },
+  'Dracula': { id: 345 },
+  'Frankenstein': { id: 84 },
+  'The Great Gatsby': { id: 64317 },
+  'The adventures of Huckleberry Finn': { id: 76 },
+  'The Odyssey': { id: 1727 },
+  'Moby Dick': { id: 15 },
+  'The Adventures of Sherlock Holmes': { id: 1661 },
+  'The Epic of Gilgamesh': { id: 11000 },
+  'The psychology of Jung': { id: 77864 },
+}
+
+function getGutenbergDownloads(title: string) {
+  const exact = GUTENBERG_BOOKS[title]
+  const entry = exact ?? (() => {
+    const lower = title.trim().toLowerCase()
+    const key = Object.keys(GUTENBERG_BOOKS).find((k) => k.trim().toLowerCase() === lower)
+    return key ? GUTENBERG_BOOKS[key] : undefined
+  })()
+  if (!entry) return null
+  const id = entry.id
+  const base = 'https://www.gutenberg.org'
+  return [
+    { label: 'Read online (HTML)', href: `${base}/ebooks/${id}.html.images` },
+    { label: 'EPUB (modern)', href: `${base}/ebooks/${id}.epub3.images` },
+    { label: 'EPUB (legacy)', href: `${base}/ebooks/${id}.epub.images` },
+    { label: 'Kindle', href: `${base}/ebooks/${id}.kf8.images` },
+    { label: 'Plain text (UTF-8)', href: `${base}/ebooks/${id}.txt.utf-8` },
+    { label: 'HTML (zip)', href: `${base}/cache/epub/${id}/pg${id}-h.zip` },
+  ]
+}
 
 // Roman numeral to number conversion
 const romanToNumber: Record<string, number> = {
@@ -106,6 +153,8 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
   const [loadingProgress, setLoadingProgress] = useState<string>('')
   const cancelledRef = useRef(false)
   const chaptersRef = useRef(chapters)
+  const [showDownloads, setShowDownloads] = useState(false)
+  const downloads = getGutenbergDownloads(selectedBook)
   
   // Keep chaptersRef in sync with chapters prop
   chaptersRef.current = chapters
@@ -255,6 +304,37 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
   return (
     <div className="w-full">
       <h2 className="text-lg sm:text-xl font-semibold mb-4 text-center">Chapters for {selectedBook}</h2>
+      {downloads && selectedChapterIdx === null && (
+        <div className="mb-4 flex flex-col items-center gap-2">
+          <button
+            type="button"
+            onClick={() => setShowDownloads((v) => !v)}
+            className="inline-flex items-center px-4 py-2 rounded-full border border-emerald-200 bg-emerald-50 text-emerald-700 text-sm font-semibold hover:bg-emerald-100 transition-colors"
+          >
+            Download
+          </button>
+          {showDownloads && (
+            <div className="w-full max-w-md rounded-lg border border-emerald-100 bg-white shadow-sm p-3">
+              <div className="text-xs font-medium text-gray-700 mb-2 text-center">
+                Download from Project Gutenberg
+              </div>
+              <div className="flex flex-wrap justify-center gap-2">
+                {downloads.map((d) => (
+                  <a
+                    key={d.href}
+                    href={d.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-2.5 py-1.5 rounded-full border border-emerald-100 bg-emerald-50 text-emerald-700 text-xs font-semibold hover:bg-emerald-100 transition-colors"
+                  >
+                    {d.label}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
       {loading ? (
         <div className="text-gray-600">Loading chapters...</div>
       ) : error ? (
@@ -348,7 +428,9 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
                         ...chapter.paragraphs.map((p) => `<p>${p}</p>`),
                       ].join('')
                       return (
-                        <Reader content={html} />
+                        <Suspense fallback={<div className="text-gray-600 text-center py-8">Loading reader...</div>}>
+                          <Reader content={html} />
+                        </Suspense>
                       )
                     }
                   })()

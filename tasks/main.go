@@ -110,19 +110,27 @@ func findSections(baseDir, sectionFileRegex string, minIndex int) ([]chapterFile
 func main() {
 	// --- Hardcoded book config: change these when switching to another book ---
 	const (
-		bookTitle        = "Crime and Punishment"
-		author           = "Fyodor Dostoyevsky"
-		genre            = "Fiction"
-		edition          = "Project Gutenberg eBook #2554"
-		summary          = "Crime and Punishment is Fyodor Dostoyevsky's psychological novel about Raskolnikov, a destitute former student who plans and commits a murder, then grapples with guilt, alienation, and redemption in 1860s St. Petersburg. Translated by Constance Garnett."
-		sectionFileRegex = `^Crime_Section_(\d+)\.txt$`
+		bookTitle        = "The Psychology of Jung"
+		author           = "James Oppenheim"
+		genre            = "Non-Fiction"
+		edition          = "Project Gutenberg eBook #77864"
+		summary          = "James Oppenheim's Little Blue Book on Jung's psychology: the psychology of the future, Freud vs. Jung, introvert vs. extravert, and the conflict and its solution. Section 1 includes the Project Gutenberg intro, CONTENTS, and Chapter I."
+		sectionFileRegex = `^Jung_Section_(\d+)\.txt$`
 		booksFolder      = "books"
 		signer           = "Prime-librarian"
 		startIndex       = 1
 	)
-	// Optional: custom chapter titles by index (e.g. Gilgamesh: 1->"Introduction", 2->"Column I - Dreams of Gilgamesh").
-	// Leave nil to use "Chapter 1", "Chapter 2", ...
-	var chapterTitles map[int]string = nil
+	// Optional chapter titles (from CONTENTS)
+	var chapterTitles map[int]string = map[int]string{
+		1: "The Psychology of the Future",
+		2: "The Sexual Theory",
+		3: "Will-To-Power",
+		4: "The Break Between Freud and Jung",
+		5: "The Introvert vs. the Extravert",
+		6: "Types",
+		7: "The Conflict and Its Solution",
+		8: "Note",
+	}
 	// ---------------------------------------------------------------------------
 
 	o := Overflow(

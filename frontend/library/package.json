@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@moonpay/moonpay-js": "^0.7.6",
+    "@moonpay/moonpay-react": "^1.10.6",
     "@onflow/fcl": "^1.1.0",
     "@onflow/react-sdk": "^0.20.0",
     "@radix-ui/react-dialog": "^1.1.15",

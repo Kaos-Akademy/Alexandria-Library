@@ -2,4 +2,6 @@
 emulator-account.pkey
 imports
 .env
+.env.local
 Prime-librarian.pkey
+.vercel

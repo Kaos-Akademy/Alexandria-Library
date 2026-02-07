@@ -1,0 +1,132 @@
+---
+description: How to add a new book from a .txt file to the Alexandria on-chain library. Use when the user wants to upload a new book or asks "how do we add a book" or "same for [book name]".
+globs: tasks/**/*.go, books/**/*.txt
+---
+
+# Alexandria: Book to Blockchain Upload Process
+
+This repo uploads books to the Alexandria contract on Flow. The pipeline is **agnostic**: one flow in `tasks/main.go` with **hardcoded config** per book. When switching books, you only change the hardcoded values in `main()`; you do **not** add new upload functions or CLI flags.
+
+## Pipeline Overview
+
+1. **Source**: One full book as a `.txt` file in `books/` (e.g. Project Gutenberg).
+2. **Split**: A formatting script splits the txt by chapter markers and writes `Book_Section_1.txt`, `Book_Section_2.txt`, … in `books/`.
+3. **Upload**: `tasks/main.go` reads those section files and sends them on-chain (create book if needed, then add chapter names and chapter content).
+
+`main.go` never reads the original `.txt`; it only looks for section files matching a regex you hardcode (e.g. `^Crime_Section_(\d+)\.txt$`).
+
+---
+
+## Step 1: Add the Book File
+
+- Put the full book in `books/<name>.txt` (e.g. `books/crime.txt`, `books/Pride.txt`).
+- Ensure the file has clear **chapter/section markers** in the body (e.g. `CHAPTER I`, `Chapter 1`, `PART I` then `CHAPTER I`). Use `grep` to find them:
+  - `grep -n "^CHAPTER \|^Chapter \|^PART " books/<name>.txt`
+
+---
+
+## Step 2: Create a Splitter Script
+
+- Add a new script under `tasks/formatting/`, e.g. `split_<book>_chapters.go`.
+- **Input**: Path to the book txt (e.g. `books/crime.txt`).
+- **Output**: One file per section in `books/`, named `Book_Section_1.txt`, `Book_Section_2.txt`, … (use a **consistent prefix** for the book, e.g. `Crime_Section_`, `Pride_Section_`).
+
+**Logic:**
+
+1. Read the file line by line into `[]string`.
+2. Detect **section start lines** with a regex (e.g. `^CHAPTER [IVXLCDM]+$` for Crime and Punishment, or `^(Chapter|CHAPTER) [IVXLCDM]+\.?\]?$` for Pride). Only match lines that are *standalone* headers (not TOC lines like "Heading to Chapter I").
+3. Build a list of start line indices (0-based).
+4. For each index `i`: section content is from `start[i]` to `start[i+1]-1` (or end of file for the last).
+5. Write each range to `books/<Prefix>_Section_<i+1>.txt`. Write every line (including blanks) so structure is preserved; one line per paragraph for `ReadFile` in main.
+
+**Important:**
+
+- Section files must be named so the **numeric index** is the only varying part and can be captured by a single regex group, e.g. `^Crime_Section_(\d+)\.txt$`. That is what `findSections` in main uses.
+- Use the **same** prefix when you later set `sectionFileRegex` in main (e.g. `Crime_Section_` → regex `^Crime_Section_(\d+)\.txt$`).
+
+**Examples:**
+
+- **Crime and Punishment**: Markers are `CHAPTER I`, `CHAPTER II`, … (skip `PART I`, `PART II` as section boundaries; use only CHAPTER). 39 sections.
+- **Pride and Prejudice**: Markers like `Chapter I.]`, `CHAPTER II.`, `CHAPTER XIII` (no period). 61 sections. Regex: `^(Chapter|CHAPTER) [IVXLCDM]+\.?\]?$`.
+- **Gilgamesh**: Custom structure (Introduction, then "COL. I", "REVERSE I", etc.); splitter is in `split_gilgamesh_chapters.go`.
+
+---
+
+## Step 3: Run the Splitter
+
+From repo root:
+
+```bash
+go run ./tasks/formatting/split_<book>_chapters.go
+```
+
+- This creates `books/<Prefix>_Section_1.txt` … `books/<Prefix>_Section_N.txt`.
+- Verify a few files; ensure no chapter is missing and boundaries make sense.
+
+---
+
+## Step 4: Configure main.go for This Book
+
+`tasks/main.go` has a single upload flow and one **hardcoded config** block at the top of `main()`. No per-book functions or CLI args.
+
+**Update these in `main()`:**
+
+| What | Example (Crime and Punishment) |
+|------|---------------------------------|
+| `bookTitle` | `"Crime and Punishment"` |
+| `author` | `"Fyodor Dostoyevsky"` |
+| `genre` | `"Fiction"` |
+| `edition` | `"Project Gutenberg eBook #2554"` |
+| `summary` | One short description. |
+| **`sectionFileRegex`** | `` `^Crime_Section_(\d+)\.txt$` `` — must match the section filenames and have **one** submatch for the numeric index. |
+| `booksFolder` | `"books"` |
+| `signer` | `"Prime-librarian"` (or the account that can call Admin) |
+| `startIndex` | `1` |
+
+**Optional – custom chapter titles:**
+
+- By default, sections are uploaded as `"Chapter 1"`, `"Chapter 2"`, ….
+- For books where sections have **specific names** (e.g. Gilgamesh: "Introduction", "Column I - Dreams of Gilgamesh"), set `chapterTitles` in main:
+
+  ```go
+  var chapterTitles map[int]string = map[int]string{
+      1: "Introduction",
+      2: "Column I - Dreams of Gilgamesh",
+      3: "Column II - The Harlot and Enkidu",
+      // ...
+  }
+  ```
+
+- If `chapterTitles` is `nil`, or an index is missing from the map, that section uses `"Chapter <index>"`.
+
+Do **not** add new functions (e.g. `runCrimeUpload`) or switch on `os.Args` for book selection. One flow; change only the hardcoded config when switching books.
+
+---
+
+## Step 5: Upload to the Blockchain
+
+From repo root:
+
+```bash
+go run ./tasks/main.go
+```
+
+- Main uses `findSections(booksFolder, sectionFileRegex, startIndex)` to discover section files, then:
+  1. Ensures the book exists on-chain (`get_book`; if not, `Admin/add_book`).
+  2. For each section: `Admin/add_chapter_name`, then `Admin/add_chapter` with the section’s paragraphs.
+
+**Paragraphs and Cadence:**
+
+- `ReadFile` in main reads a section file, splits on newlines, trims, and **escapes** each non-empty line for Cadence (`"` → `\"`, `\` → `\\`) so on-chain strings are valid. Each such line is one “paragraph” sent in the `paragraphs` array.
+
+---
+
+## Summary Checklist
+
+- [ ] Book `.txt` in `books/`, with identifiable chapter/section markers.
+- [ ] Splitter script in `tasks/formatting/split_<book>_chapters.go` that writes `books/<Prefix>_Section_<N>.txt`.
+- [ ] Run splitter; confirm section files exist and look correct.
+- [ ] In `tasks/main.go`, set hardcoded config (title, author, `sectionFileRegex`, etc.) and optional `chapterTitles`.
+- [ ] Run `go run ./tasks/main.go` to upload.
+
+No extra upload paths or per-book branches—only the one main flow and the hardcoded config block.
