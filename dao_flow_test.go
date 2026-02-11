@@ -114,6 +114,39 @@ func TestDonationsFlow(t *testing.T) {
 
 	color.White("STARTING Donations FLOW TEST")
 	color.Green("GREEN transactions are meant to SUCCEED")
+	// Add a book to the Library
+	color.Green("Add a book to the Library")
+	o.Tx("Admin/add_book",
+		WithSigner("account"),
+		WithArg("title", "Test Book"),
+		WithArg("author", "Test Author"),
+		WithArg("genre", "Test Genre"),
+		WithArg("edition", "Test Edition"),
+		WithArg("summary", "Test Summary"),
+	).AssertSuccess(t).Print()
+	color.Green("")
+	// Add a chapter name to the book
+	color.Green("Add a chapter name to the book")
+	o.Tx("Admin/add_chapter_name",
+		WithSigner("account"),
+		WithArg("bookTitle", "Test Book"),
+		WithArg("chapterTitle", "Test Chapter"),
+	).AssertSuccess(t).Print()
+	color.Green("")
+	// Add a chapter to the book
+	color.Green("Add a chapter to the book")
+	o.Tx("Admin/add_chapter",
+		WithSigner("account"),
+		WithArg("bookTitle", "Test Book"),
+		WithArg("chapterTitle", "Test Chapter"),
+		WithArg("index", 0),
+		WithArg("paragraphs", `["Test Paragraph", "Test Paragraph 2"]`),
+	).AssertSuccess(t).Print()
+	color.Green("")
+	// Get all the books in the Library
+	color.Green("Get all the books in the Library")
+	o.Script("get_books").Print()
+	color.Green("")
 
 	// Bob makes a donation to the Donations_Alexandria contract
 	color.Green("Bob makes a donation to Donations_Alexandria")
@@ -137,5 +170,19 @@ func TestDonationsFlow(t *testing.T) {
 		WithSigner("alice"),
 		WithArg("amount", "7.0"),
 	).AssertSuccess(t).Print()
+	color.Green("")
+	// Add a keeper to the book
+	color.Green("Add a keeper to the book")
+	o.Tx("account/add_keeper",
+		WithSigner("account"),
+		WithArg("bookTitle", "Test Book"),
+		WithArg("keeper", "bob"),
+	).AssertSuccess(t).Print()
+	color.Green("")
+	// Get the keeper of the book
+	color.Green("Get the keeper of the book")
+	o.Script("get_book_keeper",
+		WithArg("bookTitle", "Test Book"),
+	).Print()
 	color.Green("")
 }

@@ -41,6 +41,43 @@ contract Alexandria {
     // Entitlements
     access(all) entitlement LibrarianActions
     access(all) entitlement AdminActions
+        // -----------------------------------------------------------------------
+	// Alexandria Book Attachments
+	// -----------------------------------------------------------------------
+    access(all) attachment Keeper for Book {
+        access(all) var keeper: Address
+        init(keeper: Address) {
+            self.keeper = keeper
+        }
+
+        access(all) fun updateKeeper(keeper: Address) {
+            self.keeper = keeper
+        }
+    }
+    // Add a keeper to a book
+    access(account) fun addKeeper(bookTitle: String, keeper: Address) {
+        pre {
+            Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
+        }
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
+        let book <- Alexandria.account.storage.load<@Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+        // create new keeper attachment
+        let entitledBook <- attach Keeper(keeper: keeper) to <- book
+        // save entitled book to storage
+        Alexandria.account.storage.save(<- entitledBook, to: StoragePath(identifier: identifier)!)
+    }
+    // Get a book's keepers
+     access(all) fun getKeeper(bookTitle: String): Address? {
+        pre {
+            Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
+        }
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
+        let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+        let keeperAttachment = book[Alexandria.Keeper]
+    ?? panic("No keeper set for this book")
+
+        return keeperAttachment.keeper
+    } 
     // -----------------------------------------------------------------------
 	// Alexandria Book Resource
 	// -----------------------------------------------------------------------
@@ -515,12 +552,12 @@ contract Alexandria {
         return self.authors[author]
     }
     init() {
-        let identifier = "Alexandria_Library_".concat(self.account.address.toString())
+        let identifier = "Alexandria_Library_\(self.account.address)_"
 
-        self.AdminStoragePath = StoragePath(identifier: identifier.concat("Admin"))!
-        self.LibrarianStoragePath = StoragePath(identifier: identifier.concat("Librarian"))!
-        self.UserPreferenceStorage = StoragePath(identifier: identifier.concat("User_Preferences"))!
-        self.UserPreferencePublic = PublicPath(identifier: identifier.concat("User_Preferences_Public"))!
+        self.AdminStoragePath = StoragePath(identifier: "\(identifier)Admin")!
+        self.LibrarianStoragePath = StoragePath(identifier: "\(identifier)Librarian")!
+        self.UserPreferenceStorage = StoragePath(identifier: "\(identifier)User_Preferences")!
+        self.UserPreferencePublic = PublicPath(identifier: "\(identifier)User_Preferences_Public")!
 
         self.libraryInfo = {}
         self.titles = {}
