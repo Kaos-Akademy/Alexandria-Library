@@ -14,6 +14,10 @@
 // 
 // License: MIT
 
+import "FlowTransactionScheduler"
+import "FlowToken"
+import "FlowStakingCollection"
+
 access(all)
 contract Alexandria {
     // -----------------------------------------------------------------------
@@ -41,7 +45,64 @@ contract Alexandria {
     // Entitlements
     access(all) entitlement LibrarianActions
     access(all) entitlement AdminActions
-        // -----------------------------------------------------------------------
+
+    // -----------------------------------------------------------------------
+    // "##  ##      ##      ##  ##    ##  ##    ##      ##      ####  "
+    // "##  ##     ####     ## ##     ##  ##    ##      ##      ##  ##"
+    // "##  ##    ##  ##    ####      ##  ##    ##      ##      ##  ##"
+    // "######    ######    ## ##     ##  ##    ##      ##      ####  "
+    // "##  ##    ##  ##    ##  ##    ##  ##    ##      ##      ## ## "
+    // "##  ##    ##  ##    ##  ##    ######    ######  ######  ##  ##"
+    // "##  ##    ##  ##    ##  ##    ##  ##    ##      ##      ##  ##"
+    // -----------------------------------------------------------------------
+    /// Handler resource that implements the Scheduled Transaction interface for the Auto Compound Service.
+    /// Holds a capability to a StakingCollection and delegator identity; when executed, compounds
+    /// available rewards by re-staking them. Optional donation (donationBps) can be added later
+    /// with vault capabilities.
+    // -----------------------------------------------------------------------
+    access(all) resource Handler: FlowTransactionScheduler.TransactionHandler {
+        access(all) let stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>
+        access(all) let nodeID: String
+        access(all) let delegatorID: UInt32
+        /// Basis points of rewards to donate to the Library (0 = no donation, 100 = 1%). Donation path requires vault caps.
+        access(all) let donationBps: UInt16
+
+        init(
+            stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>,
+            nodeID: String,
+            delegatorID: UInt32,
+            donationBps: UInt16
+        ) {
+            self.stakingCollectionCap = stakingCollectionCap
+            self.nodeID = nodeID
+            self.delegatorID = delegatorID
+            self.donationBps = donationBps
+        }
+
+        access(FlowTransactionScheduler.Execute) fun executeTransaction(id: UInt64, data: AnyStruct?) {
+            let collectionRef = self.stakingCollectionCap.borrow()
+                ?? panic("AutoCompound Handler: invalid StakingCollection capability")
+            let infos = collectionRef.getAllDelegatorInfo()
+            var tokensRewarded = 0.0
+            for info in infos {
+                if info.nodeID == self.nodeID && info.id == self.delegatorID {
+                    tokensRewarded = info.tokensRewarded
+                    break
+                }
+            }
+            if tokensRewarded <= 0.0 {
+                return
+            }
+            if self.donationBps > 0 {
+                // Donation path: withdraw donation slice, send to Library, then compound the rest.
+                // Requires user vault with draw cap and Library receiver cap; not yet wired.
+                panic("AutoCompound Handler: donation (donationBps > 0) not yet implemented")
+            }
+            collectionRef.stakeRewardedTokens(nodeID: self.nodeID, delegatorID: self.delegatorID, amount: tokensRewarded)
+        }
+
+        // Loop 
+    }
 	// Alexandria Book Attachments
 	// -----------------------------------------------------------------------
     access(all) attachment Keeper for Book {
@@ -159,7 +220,7 @@ contract Alexandria {
         fun approveChapter(chapterName: String, librarian: Address) {
             pre {
                 self.Chapters[chapterName] != nil: "This chapter doesn't exists"
-                self.pendingReview[chapterName]![librarian] != nil: "There are no Chapters submitted by this Librarian: ".concat(librarian.toString())
+                self.pendingReview[chapterName]![librarian] != nil: "There are no Chapters submitted by this Librarian: \(librarian.toString())"
             }
             // Remove chapter from the Pending list
             let chapter = self.pendingReview[chapterName]!.remove(key: librarian)!
@@ -348,7 +409,7 @@ contract Alexandria {
             // create new book resource
             let newBook <- create Book(title, author, genre, edition, summary)
             // create new path identifier for book
-            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(title))
+            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(title)"
             // Add the book's details to the library's catalog
             Alexandria.titles[title] = newBook.Title
             // Check if this Author already exists
@@ -382,7 +443,7 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // Emit event
@@ -395,7 +456,7 @@ contract Alexandria {
         access(AdminActions)
         fun addChapterName(bookTitle: String, chapterName: String) {
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!    
             // Emit event
@@ -411,7 +472,7 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // remove last chapter from book
@@ -472,7 +533,7 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // Emit event
@@ -498,6 +559,23 @@ contract Alexandria {
     fun createEmptyPreferences(): @Alexandria.UserPreferences {
         return <- create UserPreferences()
     }
+
+    /// Creates a Handler for the Auto Compound service. The signer should store it and
+    /// pass a capability to FlowTransactionScheduler.schedule() to run compounding at a chosen timestamp.
+    access(all)
+    fun createAutoCompoundHandler(
+        stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>,
+        nodeID: String,
+        delegatorID: UInt32,
+        donationBps: UInt16
+    ): @Handler {
+        return <- create Handler(
+            stakingCollectionCap: stakingCollectionCap,
+            nodeID: nodeID,
+            delegatorID: delegatorID,
+            donationBps: donationBps
+        )
+    }
     // Fetch one book
     access(all)
     fun getBook(bookTitle: String): &Book {
@@ -505,14 +583,14 @@ contract Alexandria {
             Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
         }
         // create book path identifier based on title
-        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book
     }
     // Fetch a book's chapter titles
     access(all)
     fun getBookChapterTitles(bookTitle: String): [String] {
-        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         let chapterTitles = book.getChapterTitles()
         return chapterTitles
@@ -520,14 +598,14 @@ contract Alexandria {
     // Fetch a book's chapter
     access(all)
     fun getBookChapter(bookTitle: String, chapterTitle: String): Chapter? {
-        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book.getChapter(chapterTitle: chapterTitle)
     }
     // Fetch a book's paragraph
     access(all)
     fun getBookParagraph(bookTitle: String, chapterTitle: String, paragraphIndex: Int): String {
-        let identifier = "Alexandria_Library_".concat(Alexandria.account.address.toString()).concat("_".concat(bookTitle))
+        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book.getParagraph(chapterTitle: chapterTitle, paragraphIndex: paragraphIndex)
     }

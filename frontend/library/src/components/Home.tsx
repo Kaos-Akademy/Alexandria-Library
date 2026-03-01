@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { getGenresWithBooks, fetchChapterTitles } from '../flow/actions'
+import { getGenresWithBooks, fetchChapterTitles, fetchAuthors, fetchBooksByAuthor } from '../flow/actions'
 import { useEffect, useMemo, useState } from 'react'
 import { useFlowQuery } from '@onflow/react-sdk'
 import BookCommandPalette from '@/components/BookCommandPalette'
@@ -13,6 +13,9 @@ export default function Home() {
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
   const [genreFilter, setGenreFilter] = useState<string>('')
+  const [authors, setAuthors] = useState<string[]>([])
+  const [selectedAuthor, setSelectedAuthor] = useState<string | null>(null)
+  const [authorBooks, setAuthorBooks] = useState<string[] | null>(null)
   const [chapters, setChapters] = useState<Array<{ title: string; paragraphs: string[] | null }>>([])
   const [loadingChapters, setLoadingChapters] = useState(false)
   const [chaptersError, setChaptersError] = useState<string | null>(null)
@@ -22,8 +25,14 @@ export default function Home() {
     let cancelled = false
     const run = async () => {
       try {
-        const res = await getGenresWithBooks()
-        if (!cancelled) setData(res)
+        const [genresWithBooks, authorsResponse] = await Promise.all([
+          getGenresWithBooks(),
+          fetchAuthors(),
+        ])
+        if (!cancelled) {
+          setData(genresWithBooks)
+          setAuthors(authorsResponse)
+        }
       } catch (e) {
         console.error(e)
       }
@@ -59,7 +68,26 @@ export default function Home() {
   })
   const raisedFlow = raisedBalance != null ? Number(raisedBalance) : 0
 
+  const handleSelectAuthor = async (author: string) => {
+    setSelectedAuthor(author)
+    setSelectedBook(null)
+    setSelectedGenre(null)
+    setSelectedChapterIdx(null)
+    setChapters([])
+    setChaptersError(null)
+    setLoadingChapters(false)
+    try {
+      const books = await fetchBooksByAuthor(author)
+      setAuthorBooks(books ?? [])
+    } catch (e) {
+      console.error(e)
+      setAuthorBooks([])
+    }
+  }
+
   const handleSelectBook = (value: string) => {
+    setSelectedAuthor(null)
+    setAuthorBooks(null)
     setSelectedBook(value)
     const genreEntry = data.find((d) => Array.isArray(d.books) && d.books.includes(value))
     setSelectedGenre(genreEntry?.genre ?? null)
@@ -153,7 +181,51 @@ export default function Home() {
         </div>
 
         <div className="flex-1 flex flex-col gap-4">
-          <BookCommandPalette data={data} inline onSelectBook={handleSelectBook} />
+          <BookCommandPalette
+            data={data}
+            authors={authors}
+            inline
+            onSelectBook={handleSelectBook}
+            onSelectAuthor={handleSelectAuthor}
+          />
+
+          {selectedAuthor && !selectedBook && (
+            <section className="w-full">
+              <div className="flex items-center justify-between mb-3">
+                <h2 className="text-base sm:text-lg font-semibold text-gray-800">
+                  Books by {selectedAuthor}
+                </h2>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setSelectedAuthor(null)
+                    setAuthorBooks(null)
+                  }}
+                  className="text-xs text-gray-500 hover:text-gray-700 underline"
+                >
+                  Clear author
+                </button>
+              </div>
+              {authorBooks && authorBooks.length > 0 ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  {authorBooks.map((title) => (
+                    <button
+                      key={title}
+                      type="button"
+                      onClick={() => handleSelectBook(title)}
+                      className="w-full text-left px-3 py-2 rounded-md border border-gray-200 bg-white text-sm sm:text-base hover:bg-emerald-50 hover:border-emerald-200 hover:text-emerald-800 transition-colors"
+                    >
+                      {title}
+                    </button>
+                  ))}
+                </div>
+              ) : (
+                <p className="text-sm text-gray-500">
+                  No books found for this author.
+                </p>
+              )}
+            </section>
+          )}
 
           {!selectedBook && (
             <GenrePanels
@@ -190,6 +262,9 @@ export default function Home() {
             Keep Knowledge Alive
           </Link>
           <div className="flex flex-wrap gap-4 text-xs text-gray-500 justify-center">
+            <Link to="/docs" className="hover:text-gray-700 transition-colors underline">
+              Docs
+            </Link>
             <Link
               to="/privacy-policy"
               className="hover:text-gray-700 transition-colors underline"

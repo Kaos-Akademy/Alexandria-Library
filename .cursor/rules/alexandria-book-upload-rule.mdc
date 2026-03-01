@@ -36,8 +36,9 @@ This repo uploads books to the Alexandria contract on Flow. The pipeline is **ag
 1. Read the file line by line into `[]string`.
 2. Detect **section start lines** with a regex (e.g. `^CHAPTER [IVXLCDM]+$` for Crime and Punishment, or `^(Chapter|CHAPTER) [IVXLCDM]+\.?\]?$` for Pride). Only match lines that are *standalone* headers (not TOC lines like "Heading to Chapter I").
 3. Build a list of start line indices (0-based).
-4. For each index `i`: section content is from `start[i]` to `start[i+1]-1` (or end of file for the last).
-5. Write each range to `books/<Prefix>_Section_<i+1>.txt`. Write every line (including blanks) so structure is preserved; one line per paragraph for `ReadFile` in main.
+4. **Always include the front matter in Section 1.** Section 1 must start at the very beginning of the file (index `0`) and run through the *end of Chapter 1* (i.e. up to the line before the Chapter 2 marker). This guarantees that copyright, production notes, and any introduction are stored on-chain as part of Chapter 1.
+5. For all later sections `i > 1`, section content is from `start[i]` (the chapter marker line) to `start[i+1]-1` (or end of file for the last).
+6. Write each range to `books/<Prefix>_Section_<i+1>.txt`. Write every line (including blanks) so structure is preserved; one line per paragraph for `ReadFile` in main.
 
 **Important:**
 

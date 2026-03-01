@@ -14,13 +14,23 @@ type GenreWithBooks = { genre: string; books: string[] | null }
 
 type Props = {
   data: GenreWithBooks[]
+  authors?: string[]
   open?: boolean
   onOpenChange?: (open: boolean) => void
   onSelectBook: (title: string) => void
+  onSelectAuthor?: (author: string) => void
   inline?: boolean
 }
 
-export default function BookCommandPalette({ data, open = false, onOpenChange, onSelectBook, inline = false }: Props) {
+export default function BookCommandPalette({
+  data,
+  authors = [],
+  open = false,
+  onOpenChange,
+  onSelectBook,
+  onSelectAuthor,
+  inline = false,
+}: Props) {
   const [cmdQuery, setCmdQuery] = useState('')
   const [activeGenre, setActiveGenre] = useState<string | null>(null)
   const [expanded, setExpanded] = useState(false)
@@ -57,6 +67,19 @@ export default function BookCommandPalette({ data, open = false, onOpenChange, o
     return [...prefixMatches, ...substringMatches]
   }, [cmdQuery, allBooks, activeGenre, data])
 
+  const filteredAuthors = useMemo(() => {
+    const q = cmdQuery.trim().toLowerCase()
+    if (!q) return authors
+    const prefix: string[] = []
+    const substr: string[] = []
+    for (const a of authors) {
+      const lc = (a || '').toLowerCase()
+      if (lc.startsWith(q)) prefix.push(a)
+      else if (lc.includes(q)) substr.push(a)
+    }
+    return [...prefix, ...substr]
+  }, [authors, cmdQuery])
+
   const filteredGenres = useMemo(() => {
     const q = cmdQuery.trim().toLowerCase()
     const genres = data.map((d) => d.genre)
@@ -74,7 +97,7 @@ export default function BookCommandPalette({ data, open = false, onOpenChange, o
   const content = (
     <>
       <CommandInput
-        placeholder="Type a command or search..."
+        placeholder="Search books or authors..."
         onValueChange={setCmdQuery}
         onFocus={() => setExpanded(true)}
         onBlur={() => {
@@ -103,6 +126,30 @@ export default function BookCommandPalette({ data, open = false, onOpenChange, o
           ))}
         </CommandGroup>
         <CommandSeparator />
+        {filteredAuthors.length > 0 && (
+          <>
+            <CommandGroup heading="Authors">
+              {filteredAuthors.map((author) => (
+                <CommandItem
+                  key={author}
+                  value={author}
+                  onSelect={(value) => {
+                    if (onOpenChange) {
+                      onOpenChange(false)
+                    }
+                    if (onSelectAuthor) {
+                      onSelectAuthor(value)
+                    }
+                    setExpanded(false)
+                  }}
+                >
+                  {author}
+                </CommandItem>
+              ))}
+            </CommandGroup>
+            <CommandSeparator />
+          </>
+        )}
         <CommandGroup heading="Genres">
           {activeGenre && (
             <CommandItem value="All genres" onSelect={() => setActiveGenre(null)}>
@@ -135,7 +182,7 @@ export default function BookCommandPalette({ data, open = false, onOpenChange, o
             className="w-full max-w-[680px] mx-auto flex items-center gap-2 rounded-lg border px-3 py-2 text-left text-sm text-gray-500 bg-white shadow-sm"
             onClick={() => setExpanded(true)}
           >
-            <span className="opacity-70">Search books…</span>
+            <span className="opacity-70">Search books or authors…</span>
           </button>
         </div>
       )

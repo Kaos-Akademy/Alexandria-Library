@@ -1,19 +1,20 @@
 import { useState, useEffect, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useFlowCurrentUser, useFlowMutate, useFlowQuery } from '@onflow/react-sdk'
-import { MoonPayBuyWidget } from '@moonpay/moonpay-react'
 import { logger } from '@/utils/logger'
 
 const TARGET_FLOW = 135000
 
 const LIBRARY_ADDRESS = '0xfed1adffd14ea9d0'
+/** EVM address for sending FLOW (e.g. from exchanges or EVM wallets). Sender is manually recorded for Library Card NFT claims. */
+const LIBRARY_EVM_ADDRESS = '0xF3ddaC9b93De7A57D0d913f18334476402dA0689'
 
 export default function Donation() {
   const { user, authenticate, unauthenticate } = useFlowCurrentUser()
   const [amount, setAmount] = useState('1.0')
   const [error, setError] = useState<string | null>(null)
-  const [moonPayVisible, setMoonPayVisible] = useState(false)
-  const [moonPayUsdAmount, setMoonPayUsdAmount] = useState('')
+  const [sendFlowTabVisible, setSendFlowTabVisible] = useState(false)
+  const [copiedEvm, setCopiedEvm] = useState(false)
 
   // Fetch raised balance (library node account)
   const {
@@ -34,7 +35,7 @@ export default function Donation() {
         return vaultRef.balance
       }
     `,
-    args: (arg, t) => [arg('0xfed1adffd14ea9d0', t.Address)],
+    args: (arg, t) => [arg(LIBRARY_ADDRESS, t.Address)],
     query: {
       refetchInterval: 10000,
       retry: 3,
@@ -48,19 +49,6 @@ export default function Donation() {
     }
   }, [queryError])
 
-  // Handle MoonPay redirect
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search)
-    const moonpayStatus = params.get('moonpay')
-    if (moonpayStatus === 'success') {
-      logger.log('MoonPay', 'Transaction completed via redirect')
-      // Clean up URL
-      window.history.replaceState({}, '', '/contribute')
-      // Refetch balance
-      setTimeout(() => refetchBalance(), 3000)
-    }
-  }, [refetchBalance])
-
   // Fetch contributors leaderboard (on-chain)
   const {
     data: contributorsData,
@@ -68,7 +56,7 @@ export default function Donation() {
     error: contributorsError,
   } = useFlowQuery({
     cadence: `
-      import Donations_Alexandria from 0xfed1adffd14ea9d0
+      import Donations_Alexandria from ${LIBRARY_ADDRESS}
 
       access(all) fun main(): {Address: UFix64} {
         return Donations_Alexandria.getDonations()
@@ -140,7 +128,7 @@ export default function Donation() {
     setError(null)
     contribute({
       cadence: `
-        import Donations_Alexandria from 0xfed1adffd14ea9d0
+        import Donations_Alexandria from ${LIBRARY_ADDRESS}
         import FungibleToken from 0xf233dcee88fe0abe
         import FlowToken from 0x1654653399040a61
 
@@ -175,94 +163,13 @@ export default function Donation() {
   const raisedAmount = raised ? Number(raised) : 0
   const status = isPending ? 'pending' : isSuccess ? 'success' : isError ? 'error' : 'idle'
 
-  // MoonPay URL signing handler
-  const handleUrlSignatureRequested = async (url: string): Promise<string> => {
-    const apiUrl = '/api/moonpay/sign-url'
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:179',message:'Requesting URL signature',data:{apiUrl,currentOrigin:window.location.origin,urlLength:url.length},timestamp:Date.now(),runId:'production-debug',hypothesisId:'A'})}).catch(()=>{});
-    // #endregion agent log
-    logger.log('MoonPay', 'Requesting URL signature', { apiUrl, currentOrigin: window.location.origin })
-    
+  const copyEvmAddress = async () => {
     try {
-      // #region agent log
-      fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:184',message:'About to make fetch request',data:{method:'POST',apiUrl,hasUrl:!!url},timestamp:Date.now(),runId:'production-debug',hypothesisId:'B'})}).catch(()=>{});
-      // #endregion agent log
-      const response = await fetch(apiUrl, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ url }),
-      })
-
-      // #region agent log
-      fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:192',message:'Fetch response received',data:{status:response.status,ok:response.ok,statusText:response.statusText,headers:Object.fromEntries(response.headers.entries())},timestamp:Date.now(),runId:'production-debug',hypothesisId:'C'})}).catch(()=>{});
-      // #endregion agent log
-      logger.log('MoonPay', 'Sign URL response', { 
-        status: response.status, 
-        ok: response.ok,
-        statusText: response.statusText 
-      })
-
-      if (!response.ok) {
-        // #region agent log
-        fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:198',message:'Response not OK',data:{status:response.status,statusText:response.statusText},timestamp:Date.now(),runId:'production-debug',hypothesisId:'D'})}).catch(()=>{});
-        // #endregion agent log
-        if (response.status === 404) {
-          const errorMsg = `API endpoint not found at ${apiUrl}. Make sure you're accessing the site through "vercel dev" (port 3000), not "npm run dev" (port 5173). Current origin: ${window.location.origin}`
-          logger.error('MoonPay', errorMsg, { 
-            status: response.status,
-            currentOrigin: window.location.origin,
-            expectedPort: 3000
-          })
-          throw new Error(errorMsg)
-        }
-        const errorText = await response.text()
-        // #region agent log
-        fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:208',message:'Error response text received',data:{status:response.status,errorText,apiUrl,currentOrigin:window.location.origin},timestamp:Date.now(),runId:'production-debug',hypothesisId:'E'})}).catch(()=>{});
-        // #endregion agent log
-        logger.error('MoonPay', 'Failed to sign URL', { 
-          status: response.status, 
-          error: errorText,
-          apiUrl,
-          currentOrigin: window.location.origin
-        })
-        throw new Error(`Failed to sign URL: ${response.status} ${errorText}`)
-      }
-
-      const data = await response.json()
-      // #region agent log
-      fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:218',message:'Success - signature received',data:{hasSignature:!!data.signature},timestamp:Date.now(),runId:'production-debug',hypothesisId:'F'})}).catch(()=>{});
-      // #endregion agent log
-      logger.log('MoonPay', 'URL signature received successfully')
-      return data.signature
-    } catch (error) {
-      // #region agent log
-      fetch('http://127.0.0.1:7242/ingest/e6280a01-bea5-4da5-9293-389b04d29926',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'Donation.tsx:221',message:'Exception caught',data:{errorMessage:error instanceof Error ? error.message : String(error),errorName:error instanceof Error ? error.name : undefined,apiUrl,currentOrigin:window.location.origin},timestamp:Date.now(),runId:'production-debug',hypothesisId:'G'})}).catch(()=>{});
-      // #endregion agent log
-      logger.error('MoonPay', 'Failed to sign URL', { 
-        error,
-        apiUrl,
-        currentOrigin: window.location.origin,
-        errorMessage: error instanceof Error ? error.message : String(error)
-      })
-      throw error
-    }
-  }
-
-  // Handle MoonPay transaction completion
-  const handleMoonPayTransactionCompleted = async (props: {
-    id: string
-    status: 'completed' | 'failed' | 'pending' | 'waitingAuthorization' | 'waitingPayment'
-    walletAddress: string
-    baseCurrencyAmount: number
-    quoteCurrencyAmount: number
-  }): Promise<void> => {
-    logger.log('MoonPay', 'Transaction completed', props)
-    if (props.status === 'completed') {
-      setMoonPayVisible(false)
-      // Refetch balance after a short delay to allow blockchain to update
-      setTimeout(() => refetchBalance(), 5000)
+      await navigator.clipboard.writeText(LIBRARY_EVM_ADDRESS)
+      setCopiedEvm(true)
+      setTimeout(() => setCopiedEvm(false), 2000)
+    } catch {
+      setError('Could not copy address')
     }
   }
 
@@ -328,7 +235,7 @@ export default function Donation() {
                   <span className="text-amber-400">
                     Unable to fetch balance. Check{' '}
                     <a
-                      href="https://www.flowscan.io/account/0xfed1adffd14ea9d0"
+                      href={`https://www.flowscan.io/account/${LIBRARY_ADDRESS}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="underline hover:text-amber-300"
@@ -402,9 +309,9 @@ export default function Donation() {
             {/* Donation Options Tabs */}
             <div className="flex gap-2 border-b border-white/10">
               <button
-                onClick={() => setMoonPayVisible(false)}
+                onClick={() => setSendFlowTabVisible(false)}
                 className={`px-4 py-2 text-xs font-mono transition-colors ${
-                  !moonPayVisible
+                  !sendFlowTabVisible
                     ? 'text-emerald-400 border-b-2 border-emerald-400'
                     : 'text-white/60 hover:text-white/80'
                 }`}
@@ -412,19 +319,19 @@ export default function Donation() {
                 Donate with FLOW
               </button>
               <button
-                onClick={() => setMoonPayVisible(true)}
+                onClick={() => setSendFlowTabVisible(true)}
                 className={`px-4 py-2 text-xs font-mono transition-colors ${
-                  moonPayVisible
+                  sendFlowTabVisible
                     ? 'text-emerald-400 border-b-2 border-emerald-400'
                     : 'text-white/60 hover:text-white/80'
                 }`}
               >
-                Buy FLOW with Card
+                Send FLOW to EVM address
               </button>
             </div>
 
             {/* Wallet Donation Flow */}
-            {!moonPayVisible && (
+            {!sendFlowTabVisible && (
               <div className="space-y-4">
                 <label className="block text-xs font-mono text-white/60">
                   Amount (FLOW)
@@ -459,61 +366,30 @@ export default function Donation() {
               </div>
             )}
 
-            {/* MoonPay Card Purchase Flow */}
-            {moonPayVisible && (
-              <div className="space-y-4">
-                <div className="p-4 rounded-lg border border-emerald-400/30 bg-emerald-500/5 backdrop-blur-sm">
-                  <p className="text-xs text-white/70 leading-relaxed mb-3">
-                    Purchase FLOW tokens directly with a credit or debit card. Your FLOW will be sent automatically to the library address.
-                  </p>
-                  <label className="block text-xs font-mono text-white/60 mb-2">
-                    Amount (USD) - Optional
-                    <input
-                      type="number"
-                      min="20"
-                      step="1"
-                      value={moonPayUsdAmount}
-                      onChange={(e) => setMoonPayUsdAmount(e.target.value)}
-                      className="mt-2 w-full rounded-md border border-white/15 bg-black/60 px-3 py-2 text-sm outline-none focus:border-emerald-400 focus:ring-1 focus:ring-emerald-400"
-                      placeholder="Enter USD amount (min $20)"
-                    />
-                  </label>
-                  <p className="text-[10px] text-white/50 font-mono mt-2">
-                    Minimum purchase: $20. FLOW tokens will be sent to: <span className="text-emerald-300">{LIBRARY_ADDRESS}</span>
-                  </p>
-                  <div className="flex gap-3 text-[10px] text-white/50 font-mono mt-3">
-                    <Link
-                      to="/privacy-policy"
-                      className="hover:text-emerald-300 transition-colors underline"
-                    >
-                      Privacy Policy
-                    </Link>
-                    <Link
-                      to="/terms-of-service"
-                      className="hover:text-emerald-300 transition-colors underline"
-                    >
-                      Terms of Service
-                    </Link>
-                  </div>
+            {/* Send FLOW to EVM address */}
+            {sendFlowTabVisible && (
+              <div className="space-y-4 p-4 rounded-lg border border-emerald-400/30 bg-emerald-500/5 backdrop-blur-sm">
+                <p className="text-xs text-white/70 leading-relaxed">
+                  Send FLOW to the library&apos;s EVM address (e.g. from an exchange or EVM-compatible wallet). Use the address below.
+                </p>
+                <p className="text-[10px] sm:text-xs text-white/60 leading-relaxed">
+                  You can also move FLOW from EVM to Cadence using the &quot;Send&quot; function inside your Flow Wallet.
+                </p>
+                <div className="flex flex-wrap items-center gap-2">
+                  <code className="text-[10px] sm:text-xs font-mono text-emerald-300 break-all bg-black/40 px-3 py-2 rounded border border-white/10">
+                    {LIBRARY_EVM_ADDRESS}
+                  </code>
+                  <button
+                    type="button"
+                    onClick={copyEvmAddress}
+                    className="shrink-0 px-3 py-2 text-xs font-mono rounded border border-emerald-400/60 bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-300 transition-colors"
+                  >
+                    {copiedEvm ? 'Copied' : 'Copy'}
+                  </button>
                 </div>
-                <MoonPayBuyWidget
-                  variant="overlay"
-                  visible={moonPayVisible}
-                  currencyCode="flow"
-                  walletAddress={LIBRARY_ADDRESS}
-                  baseCurrencyCode="usd"
-                  baseCurrencyAmount={moonPayUsdAmount || undefined}
-                  theme="dark"
-                  onUrlSignatureRequested={handleUrlSignatureRequested}
-                  onTransactionCompleted={handleMoonPayTransactionCompleted}
-                  redirectURL={`${window.location.origin}/contribute?moonpay=success`}
-                  style={{
-                    margin: 0,
-                    border: 'none',
-                    width: '100%',
-                    minHeight: '500px',
-                  }}
-                />
+                <p className="text-[10px] sm:text-xs text-white/60 font-mono italic">
+                  Your sender address will be manually saved for when you claim your Library Card NFT.
+                </p>
               </div>
             )}
           </div>
@@ -578,13 +454,13 @@ export default function Donation() {
               <div className="flex flex-col sm:flex-row items-center justify-center gap-2 text-xs text-white/70 font-mono">
                 <span className="font-semibold text-emerald-400">Library Address:</span>
                 <a
-                  href="https://www.flowscan.io/account/0xfed1adffd14ea9d0"
+                  href={`https://www.flowscan.io/account/${LIBRARY_ADDRESS}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-emerald-300 hover:text-emerald-200 transition-colors underline decoration-emerald-400/50 hover:decoration-emerald-300 font-semibold"
                   title="View on Flowscan"
                 >
-                  0xfed1adffd14ea9d0 →
+                  {LIBRARY_ADDRESS} →
                 </a>
               </div>
             </div>

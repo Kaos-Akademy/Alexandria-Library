@@ -3,6 +3,8 @@ import { getBooksByGenre } from "./scripts/getBooksByGenre"
 import { getBookChapters } from "./scripts/getBookChapters"
 import { getChapterParagraph } from "./scripts/getChapterParagraph"
 import { getChapterTitles } from "./scripts/getChapterTitles"
+import { getAuthors } from "./scripts/getAuthors"
+import { getBooksByAuthor } from "./scripts/getBooksByAuthor"
 
 // Note: These functions use the low-level FCL for backwards compatibility
 // The Flow React SDK hooks should be used in components instead
@@ -36,6 +38,24 @@ export const fetchChapterTitles = async (bookTitle: string) => {
         args: (arg, t) => [arg(bookTitle, t.String)],
     });
     return response;
+};
+
+export const fetchAuthors = async (): Promise<string[]> => {
+    const response = await fcl.query({
+        cadence: getAuthors(),
+        args: () => [],
+    });
+    if (!Array.isArray(response)) return []
+    return response.filter((a): a is string => typeof a === 'string' && a.length > 0)
+};
+
+export const fetchBooksByAuthor = async (author: string): Promise<string[] | null> => {
+    const response = await fcl.query({
+        cadence: getBooksByAuthor(),
+        args: (arg, t) => [arg(author, t.String)],
+    });
+    if (!Array.isArray(response)) return null
+    return response.filter((t): t is string => typeof t === 'string' && t.length > 0)
 };
 export const getGenresWithBooks = async (): Promise<Array<{ genre: string; books: string[] | null }>> => {
     const genres: unknown = await fetchGenres();

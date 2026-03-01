@@ -110,27 +110,18 @@ func findSections(baseDir, sectionFileRegex string, minIndex int) ([]chapterFile
 func main() {
 	// --- Hardcoded book config: change these when switching to another book ---
 	const (
-		bookTitle        = "The Psychology of Jung"
-		author           = "James Oppenheim"
-		genre            = "Non-Fiction"
-		edition          = "Project Gutenberg eBook #77864"
-		summary          = "James Oppenheim's Little Blue Book on Jung's psychology: the psychology of the future, Freud vs. Jung, introvert vs. extravert, and the conflict and its solution. Section 1 includes the Project Gutenberg intro, CONTENTS, and Chapter I."
-		sectionFileRegex = `^Jung_Section_(\d+)\.txt$`
+		bookTitle        = "The Last Battle"
+		author           = "C. S. Lewis"
+		genre            = "Fantasy"
+		edition          = "Faded Page eBook #201410A7"
+		summary          = "C. S. Lewis's 1956 Narnia novel: the final battle and the end of Narnia. Section 1 includes the Faded Page front matter, contents, and Chapter I (By Caldron Pool)."
+		sectionFileRegex = `^Narnia7_Section_(\d+)\.txt$`
 		booksFolder      = "books"
 		signer           = "Prime-librarian"
 		startIndex       = 1
 	)
-	// Optional chapter titles (from CONTENTS)
-	var chapterTitles map[int]string = map[int]string{
-		1: "The Psychology of the Future",
-		2: "The Sexual Theory",
-		3: "Will-To-Power",
-		4: "The Break Between Freud and Jung",
-		5: "The Introvert vs. the Extravert",
-		6: "Types",
-		7: "The Conflict and Its Solution",
-		8: "Note",
-	}
+	// Optional chapter titles; nil means use default "Chapter <index>" titles.
+	var chapterTitles map[int]string = nil
 	// ---------------------------------------------------------------------------
 
 	o := Overflow(
