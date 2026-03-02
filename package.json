@@ -1,4 +1,11 @@
 {
+  "scripts": {
+    "dev": "cd frontend/library && npm run dev"
+  },
+  "dependencies": {
+    "ai": "^6.0.105",
+    "@ai-sdk/google": "^3.0.34"
+  },
   "devDependencies": {
     "@types/node": "^25.2.1",
     "@vercel/node": "^5.5.30"

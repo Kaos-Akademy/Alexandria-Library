@@ -76,7 +76,7 @@ go run ./tasks/formatting/split_<book>_chapters.go
 |------|---------------------------------|
 | `bookTitle` | `"Crime and Punishment"` |
 | `author` | `"Fyodor Dostoyevsky"` |
-| `genre` | `"Fiction"` |
+| `genre` | See **Genre** below. |
 | `edition` | `"Project Gutenberg eBook #2554"` |
 | `summary` | One short description. |
 | **`sectionFileRegex`** | `` `^Crime_Section_(\d+)\.txt$` `` — must match the section filenames and have **one** submatch for the numeric index. |
@@ -99,6 +99,8 @@ go run ./tasks/formatting/split_<book>_chapters.go
   ```
 
 - If `chapterTitles` is `nil`, or an index is missing from the map, that section uses `"Chapter <index>"`.
+
+**Genre:** Before setting `genre`, do brief research on the book (title + author). Use a category that accurately reflects the work (e.g. `"Fiction"`, `"Philosophy"`, `"Psychiatry/Psychology"`, `"Nonfiction"`, `"Fantasy"`). Do not guess; look up the work if unsure.
 
 Do **not** add new functions (e.g. `runCrimeUpload`) or switch on `os.Args` for book selection. One flow; change only the hardcoded config when switching books.
 

@@ -1,3 +1,4 @@
+'use client'
 import { useMemo } from 'react'
 
 type GenreWithBooks = { genre: string; books: string[] | null }

@@ -1,5 +1,6 @@
+'use client'
 import { useState, useEffect, useMemo } from 'react'
-import { Link } from 'react-router-dom'
+import Link from 'next/link'
 import { useFlowCurrentUser, useFlowMutate, useFlowQuery } from '@onflow/react-sdk'
 import { logger } from '@/utils/logger'
 
@@ -177,7 +178,7 @@ export default function Donation() {
     <div className="min-h-screen bg-black text-white flex flex-col">
       <header className="border-b border-white/10">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between gap-4">
-          <Link to="/" className="text-sm font-mono text-white/70 hover:text-white transition-colors">
+          <Link href="/" className="text-sm font-mono text-white/70 hover:text-white transition-colors">
             ← Back to Library
           </Link>
           <button

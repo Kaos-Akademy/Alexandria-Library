@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import Link from 'next/link'
 import { docsScripts, LIBRARY_ADDRESS, ACCESS_NODE } from '@/docsScripts'
 
 export default function Docs() {
@@ -6,7 +6,7 @@ export default function Docs() {
     <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto px-4 py-4 sm:py-6 md:py-8">
         <div className="text-center mb-6 sm:mb-8">
-          <Link to="/" className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title block mb-2 sm:mb-4">
+          <Link href="/" className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title block mb-2 sm:mb-4">
             Alexandria Library
           </Link>
           <p className="text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600">
@@ -66,7 +66,7 @@ export default function Docs() {
           </div>
 
           <div className="mt-8 sm:mt-10 md:mt-12 pt-6 sm:pt-8 border-t border-gray-200">
-            <Link to="/" className="text-sm sm:text-base text-emerald-600 hover:text-emerald-700 underline font-medium">
+            <Link href="/" className="text-sm sm:text-base text-emerald-600 hover:text-emerald-700 underline font-medium">
               ← Back to Library
             </Link>
           </div>

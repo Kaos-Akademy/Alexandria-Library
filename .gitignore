@@ -1,7 +1,44 @@
-# flow
-emulator-account.pkey
-imports
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# Environment
 .env
 .env.local
+.env.*.local
+
+# Flow
+emulator-account.pkey
+imports
 Prime-librarian.pkey
+
+# Vercel
 .vercel
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Debug
+.cursor/debug-*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

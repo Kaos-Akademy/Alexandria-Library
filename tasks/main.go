@@ -110,12 +110,12 @@ func findSections(baseDir, sectionFileRegex string, minIndex int) ([]chapterFile
 func main() {
 	// --- Hardcoded book config: change these when switching to another book ---
 	const (
-		bookTitle        = "The Last Battle"
-		author           = "C. S. Lewis"
-		genre            = "Fantasy"
-		edition          = "Faded Page eBook #201410A7"
-		summary          = "C. S. Lewis's 1956 Narnia novel: the final battle and the end of Narnia. Section 1 includes the Faded Page front matter, contents, and Chapter I (By Caldron Pool)."
-		sectionFileRegex = `^Narnia7_Section_(\d+)\.txt$`
+		bookTitle        = "Ecce Homo"
+		author           = "Friedrich Nietzsche"
+		genre            = "Philosophy"
+		edition          = "Project Gutenberg eBook #52190"
+		summary          = "Ecce Homo by Friedrich Wilhelm Nietzsche is a philosophical autobiography written in 1888. In this provocative final work, Nietzsche offers his own interpretation of his life, philosophy, and significance through boldly titled chapters like \"Why I Am So Wise\" and \"Why I Write Such Good Books.\" He reviews his major works, presents a new image of the Dionysian philosopher, and challenges Christianity's morality. Written with characteristic hyperbole and self-conscious irony, the book puts Nietzsche himself on trial while declaring his vision for humanity's future. (This is an automatically generated summary.)"
+		sectionFileRegex = `^EcceHomo_Section_(\d+)\.txt$`
 		booksFolder      = "books"
 		signer           = "Prime-librarian"
 		startIndex       = 1
@@ -146,7 +146,7 @@ func main() {
 			WithArg("author", author),
 			WithArg("genre", genre),
 			WithArg("edition", edition),
-			WithArg("summary", summary),
+			WithArg("summary", escapeForCadence(summary)),
 		)
 		if result.Err != nil && strings.Contains(result.Err.Error(), "already in the Library") {
 			color.Green("Book already exists (detected during creation). Skipping.")

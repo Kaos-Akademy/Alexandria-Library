@@ -1,3 +1,4 @@
+'use client'
 import { useState, useEffect, useRef, lazy, Suspense } from 'react'
 import { fetchChapterParagraph, fetchBookChapters } from '@/flow/actions'
 
