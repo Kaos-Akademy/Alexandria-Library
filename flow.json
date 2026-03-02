@@ -1,5 +1,8 @@
 {
 	"contracts": {
+		"Librarian": {
+			"source": "contracts/Librarian.cdc"
+		},
 		"Alexandria": {
 			"source": "contracts/Alexandria.cdc",
 			"aliases": {
@@ -207,6 +210,13 @@
 				"type": "file",
 				"location": "Prime-librarian.pkey"
 			}
+		}, 
+		"mainnet-Librarian": {
+			"address": "6d96bf7d95a8b595",
+			"key": {
+				"type": "file",
+				"location": "librarian.pkey"
+			}
 		}
 	},
 	"deployments": {
@@ -220,8 +230,10 @@
 		},
 		"mainnet": {
 			"mainnet-Prime-librarian": [
-				"Alexandria",
-				"Donations_Alexandria"
+
+			],
+			"mainnet-Librarian": [
+				"Librarian"
 			]
 		}
 	}

@@ -1,6 +1,6 @@
 // One-time self-naming. Executable ONLY by the Librarian account (owner of LibrarianIdentity).
 // Replace LIBRARIAN_ADDRESS with the Librarian contract account address.
-import Librarian from 0x0000000000000001
+import "Librarian" 
 
 transaction(newName: String) {
     prepare(signer: auth(BorrowValue) &Account) {
