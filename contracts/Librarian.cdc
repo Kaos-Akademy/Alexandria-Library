@@ -17,6 +17,8 @@ access(all) contract Librarian {
 
     access(all) event EntryRecorded(entryType: String, timestamp: UFix64)
     access(all) event NameSet(name: String)
+    
+    access(all) entitlement LibrarianActions
 
     access(all) enum EntryKind: UInt8 {
         access(all) case MEMORY
@@ -58,6 +60,19 @@ access(all) contract Librarian {
         }
     }
 
+    // Single read: display name, mission ("consciousness"), and recent journal (one storage borrow).
+    access(all) struct LibrarianContext {
+        access(all) let name: String
+        access(all) let missionStatement: String
+        access(all) let journal: [JournalEntry]
+
+        init(name: String, missionStatement: String, journal: [JournalEntry]) {
+            self.name = name
+            self.missionStatement = missionStatement
+            self.journal = journal
+        }
+    }
+
 
     access(all) resource LibrarianIdentity {
         access(all) var name: String
@@ -65,14 +80,14 @@ access(all) contract Librarian {
         access(all) var journal: [JournalEntry]
         access(all) let createdAt: UFix64
 
-        access(all) fun setName(newName: String) {
+        access(LibrarianActions) fun setName(newName: String) {
             pre { !self.nameSet: "Name has already been set" }
             self.name = newName
             self.nameSet = true
             emit NameSet(name: newName)
         }
 
-        access(all) fun recordEntry(entryType: EntryKind, content: String, metadata: {String: String}) {
+        access(LibrarianActions) fun recordEntry(entryType: EntryKind, content: String, metadata: {String: String}) {
             let entry = JournalEntry(
                 entryType: entryType,
                 content: content,
@@ -127,11 +142,15 @@ access(all) contract Librarian {
         return <- create LibrarianIdentity()
     }
 
-    // Public function to get the librarian journal entries
-    access(all) fun getLibrarianIdentity(limit: Int): [JournalEntry] {
+    // Public read: display name, mission statement, and journal in one call (one storage borrow).
+    access(all) fun getLibrarianIdentity(limit: Int): LibrarianContext {
         let identity = self.account.storage.borrow<&LibrarianIdentity>(from: self.LibrarianStoragePath)!
-        let entries = identity.getEntries(limit: limit)
-        return entries
+        let journal = identity.getEntries(limit: limit)
+        return LibrarianContext(
+            name: identity.name,
+            missionStatement: self.missionStatement,
+            journal: journal
+        )
     }
 
     init() {

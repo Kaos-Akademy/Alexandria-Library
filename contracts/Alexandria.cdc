@@ -14,9 +14,9 @@
 // 
 // License: MIT
 
-import "FlowTransactionScheduler"
-import "FlowToken"
-import "FlowStakingCollection"
+ import "FlowTransactionScheduler" 
+ import "FlowToken"
+ import "FlowStakingCollection"
 
 access(all)
 contract Alexandria {
@@ -45,6 +45,7 @@ contract Alexandria {
     // Entitlements
     access(all) entitlement LibrarianActions
     access(all) entitlement AdminActions
+    access(all) entitlement UserActions
 
     // -----------------------------------------------------------------------
     // "##  ##      ##      ##  ##    ##  ##    ##      ##      ####  "
@@ -60,27 +61,22 @@ contract Alexandria {
     /// available rewards by re-staking them. Optional donation (donationBps) can be added later
     /// with vault capabilities.
     // -----------------------------------------------------------------------
-    access(all) resource Handler: FlowTransactionScheduler.TransactionHandler {
-        access(all) let stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>
+     access(all) resource Handler: FlowTransactionScheduler.TransactionHandler {
+
+/*         access(all) let stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>
         access(all) let nodeID: String
         access(all) let delegatorID: UInt32
         /// Basis points of rewards to donate to the Library (0 = no donation, 100 = 1%). Donation path requires vault caps.
-        access(all) let donationBps: UInt16
+        access(all) let donationBps: UInt16 */
 
         init(
-            stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>,
-            nodeID: String,
-            delegatorID: UInt32,
-            donationBps: UInt16
+
         ) {
-            self.stakingCollectionCap = stakingCollectionCap
-            self.nodeID = nodeID
-            self.delegatorID = delegatorID
-            self.donationBps = donationBps
+
         }
 
-        access(FlowTransactionScheduler.Execute) fun executeTransaction(id: UInt64, data: AnyStruct?) {
-            let collectionRef = self.stakingCollectionCap.borrow()
+        access(FlowTransactionScheduler.Execute) fun executeTransaction(id: UInt64, data: AnyStruct?) {}
+/*             let collectionRef = self.stakingCollectionCap.borrow()
                 ?? panic("AutoCompound Handler: invalid StakingCollection capability")
             let infos = collectionRef.getAllDelegatorInfo()
             var tokensRewarded = 0.0
@@ -99,10 +95,10 @@ contract Alexandria {
                 panic("AutoCompound Handler: donation (donationBps > 0) not yet implemented")
             }
             collectionRef.stakeRewardedTokens(nodeID: self.nodeID, delegatorID: self.delegatorID, amount: tokensRewarded)
-        }
+        } */
 
         // Loop 
-    }
+    } 
 	// Alexandria Book Attachments
 	// -----------------------------------------------------------------------
     access(all) attachment Keeper for Book {
@@ -111,7 +107,7 @@ contract Alexandria {
             self.keeper = keeper
         }
 
-        access(all) fun updateKeeper(keeper: Address) {
+        access(AdminActions) fun updateKeeper(keeper: Address) {
             self.keeper = keeper
         }
     }
@@ -181,7 +177,7 @@ contract Alexandria {
         // Add a chapter name to the list of chapters
         // this will be helpful to guide Librarians on what has been submitted
         // or is still missing
-        access(all)
+        access(LibrarianActions)
         fun addChapterName(chapterName: String): [String] {
             pre {
                 self.chapterNames[chapterName] == nil: "This chapter already exists"
@@ -192,9 +188,18 @@ contract Alexandria {
 
             return self.Chapters.keys
         }
+        // Remove a chapter name in case of error
+        access(LibrarianActions)
+        fun removeChapterName(chapterName: String): Bool? {
+            pre {
+                self.chapterNames[chapterName] != nil: "This chapter doesn't exists"
+            }
+            let chapterName = self.chapterNames.remove(key: chapterName)
+            return chapterName
+        }
         // Add a Chapter directly into the book
         // this function is used only by the Admin
-        access(all)
+        access(LibrarianActions)
         fun addChapter(chapterName: String, chapter: Chapter): [String] {
             pre {
                 // Check that the 
@@ -206,7 +211,7 @@ contract Alexandria {
         }
         // This is the function that a Librarian uses
         // in order to submit a Chapter for review
-        access(all)
+        access(LibrarianActions)
         fun submitChapter(chapterName: String, chapter: Chapter, librarian: Address) {
             pre {
                 self.chapterNames[chapterName] != nil: "This chapter doesn't exists"
@@ -216,7 +221,7 @@ contract Alexandria {
         }
         // This function is used by the Admin to
         // approve Chapter submissions
-        access(all)
+        access(AdminActions)
         fun approveChapter(chapterName: String, librarian: Address) {
             pre {
                 self.Chapters[chapterName] != nil: "This chapter doesn't exists"
@@ -244,7 +249,7 @@ contract Alexandria {
         }
 
         // Function to add a paragraph to a chapter
-        access(all)
+        access(LibrarianActions)
         fun addParagraph(chapterTitle: String, paragraph: String) {
             pre {
                 self.Chapters[chapterTitle] != nil: "This chapter doesn't exists"
@@ -256,7 +261,7 @@ contract Alexandria {
             emit ParagraphAdded(bookTitle: self.Title, chapterTitle: chapterTitle)
         }
         // Function to remove the last paragraph from a chapter
-        access(all)
+        access(LibrarianActions)
         fun removeLastParagraph(chapterTitle: String) {
             pre {
                 self.Chapters[chapterTitle] != nil: "This chapter doesn't exists"
@@ -318,8 +323,8 @@ contract Alexandria {
     // -----------------------------------------------------------------------
 	// User Preferences Resource
 	// -----------------------------------------------------------------------
-    
     // Public interface to get a user's favorites and bookmarks
+    
     access(all) resource interface UserPreferencesPublic {
         access(all) fun getFavorites(): [String]
         access(all) fun getBookmarks(): [String]
@@ -337,7 +342,7 @@ contract Alexandria {
             self.extra = {}
         }
         // Add a favorite book
-        access(all)
+        access(UserActions)
         fun addFavorite(bookName: String) {
             pre {
                 self.favorites[bookName] == nil: "This book is already in your favorites"
@@ -347,17 +352,17 @@ contract Alexandria {
             self.favorites[bookName] = true       
         }
         // Remove a favorite book
-        access(all)
+        access(UserActions)
         fun removeFavorite(bookName: String) {
             pre {
-                self.favorites[bookName] == nil: "This book is not in your favorites"
+                self.favorites[bookName] != nil: "This book is not in your favorites"
                 Alexandria.titles[bookName] != nil: "This book is not part of the library"
             }
 
             let bookName = self.favorites.remove(key: bookName)
         }
         // Bookmark a book
-        access(all)
+        access(UserActions)
         fun addBookmark(bookName: String) {
             pre {
                 self.bookmarks[bookName] == nil: "This book is already in your bookmarks"
@@ -367,10 +372,10 @@ contract Alexandria {
             self.bookmarks[bookName] = true       
         }
         // Remove a bookmark
-        access(all)
+        access(UserActions)
         fun removeBookmark(bookName: String) {
             pre {
-                self.bookmarks[bookName] == nil: "This book is not in your bookmarks"
+                self.bookmarks[bookName] != nil: "This book is not in your bookmarks"
                 Alexandria.titles[bookName] != nil: "This book is not part of the library"
             }
 
@@ -409,7 +414,7 @@ contract Alexandria {
             // create new book resource
             let newBook <- create Book(title, author, genre, edition, summary)
             // create new path identifier for book
-            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(title)"
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(title)"
             // Add the book's details to the library's catalog
             Alexandria.titles[title] = newBook.Title
             // Check if this Author already exists
@@ -443,9 +448,9 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
             // fetch book
-            let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+            let book = Alexandria.account.storage.borrow<auth (Alexandria.LibrarianActions) &Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // Emit event
             emit ChapterAdded(bookTitle: bookTitle, chapterTitle: chapter.chapterTitle)
             // add chapter to book and
@@ -456,9 +461,9 @@ contract Alexandria {
         access(AdminActions)
         fun addChapterName(bookTitle: String, chapterName: String) {
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
             // fetch book
-            let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!    
+            let book = Alexandria.account.storage.borrow<auth (Alexandria.LibrarianActions) &Alexandria.Book>(from: StoragePath(identifier: identifier)!)!    
             // Emit event
             // emit ChapterAdded(bookTitle: bookTitle, chapterTitle: chapter.chapterTitle)
             // add chapter name to book
@@ -472,13 +477,23 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
             // fetch book
             let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // remove last chapter from book
             let chapterTitle = book.removeChapter(chapterTitle: chapterTitle)
             // Emit event
             emit ChapterRemoved(bookTitle: bookTitle, chapterTitle: chapterTitle)
+        }
+        // Remove a chapter name from a book (used in repair flows)
+        access(AdminActions)
+        fun removeChapterName(bookTitle: String, chapterName: String) {
+            pre {
+                Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
+            }
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
+            let book = Alexandria.account.storage.borrow<auth (Alexandria.LibrarianActions) &Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+            book.removeChapterName(chapterName: chapterName)
         }
         // Add a genre to the library
         access(AdminActions)
@@ -533,9 +548,9 @@ contract Alexandria {
                 Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
             }
             // create book path identifier based on title
-            let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+            let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
             // fetch book
-            let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
+            let book = Alexandria.account.storage.borrow<auth (Alexandria.LibrarianActions) &Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
             // Emit event
             emit ChapterSubmitted(bookTitle: bookTitle, chapterTitle: chapter.chapterTitle, librarian: self.owner!.address)
             // return the current number of chapters in this book 
@@ -562,7 +577,7 @@ contract Alexandria {
 
     /// Creates a Handler for the Auto Compound service. The signer should store it and
     /// pass a capability to FlowTransactionScheduler.schedule() to run compounding at a chosen timestamp.
-    access(all)
+/*     access(all)
     fun createAutoCompoundHandler(
         stakingCollectionCap: Capability<auth(FlowStakingCollection.CollectionOwner) &FlowStakingCollection.StakingCollection>,
         nodeID: String,
@@ -575,7 +590,7 @@ contract Alexandria {
             delegatorID: delegatorID,
             donationBps: donationBps
         )
-    }
+    } */
     // Fetch one book
     access(all)
     fun getBook(bookTitle: String): &Book {
@@ -583,14 +598,14 @@ contract Alexandria {
             Alexandria.titles[bookTitle] != nil: "This book doesn't exist in the Library."
         }
         // create book path identifier based on title
-        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book
     }
     // Fetch a book's chapter titles
     access(all)
     fun getBookChapterTitles(bookTitle: String): [String] {
-        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         let chapterTitles = book.getChapterTitles()
         return chapterTitles
@@ -598,14 +613,14 @@ contract Alexandria {
     // Fetch a book's chapter
     access(all)
     fun getBookChapter(bookTitle: String, chapterTitle: String): Chapter? {
-        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book.getChapter(chapterTitle: chapterTitle)
     }
     // Fetch a book's paragraph
     access(all)
     fun getBookParagraph(bookTitle: String, chapterTitle: String, paragraphIndex: Int): String {
-        let identifier = "Alexandria_Library_\(Alexandria.account.address.toString())_\(bookTitle)"
+        let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(bookTitle)"
         let book = Alexandria.account.storage.borrow<&Alexandria.Book>(from: StoragePath(identifier: identifier)!)!
         return book.getParagraph(chapterTitle: chapterTitle, paragraphIndex: paragraphIndex)
     }

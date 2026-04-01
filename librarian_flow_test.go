@@ -27,7 +27,7 @@ func TestLibrarianFlow(t *testing.T) {
 	color.Green("GREEN transactions are meant to SUCCEED")
 	color.Red("Red transactions are meant to FAIL")
 
-	// Contract init creates identity; setup_identity publishes capability for get_librarian_journal
+	// Contract init creates identity; setup_identity publishes capability for scripts
 	// (init saves to storage but does not publish; setup_identity overwrites and publishes)
 
 	// Set the Librarian's name (one-time, must succeed)
@@ -80,8 +80,8 @@ func TestLibrarianFlow(t *testing.T) {
 
 	// Get journal entries (script - needs librarian account address)
 	// Pass account name; overflow resolves to Address when in flow.json accounts
-	color.Green("Get Librarian journal (last 5 entries)")
-	o.Script("get_librarian_journal",
+	color.Green("Get Librarian context (name, mission, last 5 journal entries)")
+	o.Script("get_librarian_context",
 		WithArg("limit", 5),
 	).Print()
 	color.Green("")

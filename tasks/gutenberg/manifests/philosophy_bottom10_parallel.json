@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 77777,
+      "title": "The Stoics, Epicureans and Sceptics",
+      "author": "Zeller, Eduard, 1814-1908; Reichel, Oswald J. (Oswald Joseph), 1840-1923 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Stoics; Philosophy, Ancient; Epicurus, 341 B.C.-270 B.C.; Skeptics (Greek philosophy); Epicureans (Greek philosophy)",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78000,
+      "title": "Plutarch's essays and miscellanies, Vol. 5 (of 5)",
+      "author": "Plutarch, 46-120?; Goodwin, William Watson, 1831-1912 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Classical literature; Essays; Philosophy; Ethics",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78025,
+      "title": "Main currents in American thought",
+      "author": "Parrington, Vernon Louis, 1871-1929",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "United States -- Politics and government; United States -- Civilization; American literature -- History and criticism; Philosophy, American; United States -- Religion; United States -- Intellectual life",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78050,
+      "title": "Principia mathematica, vol. 1 (of 3)",
+      "author": "Whitehead, Alfred North, 1861-1947; Russell, Bertrand, 1872-1970",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Mathematics; Logic, Symbolic and mathematical; Mathematics -- Philosophy",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78119,
+      "title": "Humanism and America",
+      "author": "Foerster, Norman, 1887-1972 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy, Modern; Literature -- Philosophy; Humanism; United States -- Civilization -- 20th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78134,
+      "title": "Plutarch's essays and miscellanies, Vol. 1 (of 5)",
+      "author": "Plutarch, 46-120?; Goodwin, William Watson, 1831-1912 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Classical literature; Essays; Philosophy; Ethics",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78147,
+      "title": "Plutarch's essays and miscellanies, Vol. 2 (of 5)",
+      "author": "Plutarch, 46-120?; Goodwin, William Watson, 1831-1912 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Classical literature; Essays; Philosophy; Ethics",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78218,
+      "title": "The great betrayal (La trahison des clercs)",
+      "author": "Benda, Julien, 1867-1956; Aldington, Richard, 1892-1962 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Nationalism; Philosophy, Modern; Intellectuals",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78230,
+      "title": "Accepting the universe",
+      "author": "Burroughs, John, 1837-1921",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Science; Philosophy; Natural history; Natural history -- Philosophy",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 78255,
+      "title": "Principia mathematica, vol. 2 (of 3)",
+      "author": "Whitehead, Alfred North, 1861-1947; Russell, Bertrand, 1872-1970",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Mathematics; Logic, Symbolic and mathematical; Mathematics -- Philosophy",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

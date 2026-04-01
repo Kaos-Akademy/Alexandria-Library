@@ -1,0 +1,13 @@
+---
+description: Gutenberg manifest split policy — minimum lines per section and needs_review.
+globs: tasks/gutenberg/**/*.go, cmd/gutenberg/**/*.go
+---
+
+# Gutenberg split: minimum section size
+
+- **TOC indented outlines:** Under “Contents”, PG often indents `BOOK …`, `CHAPTER …`, `PART …` (leading space/tab). Those must **not** be split marks; only **column-0** headings start sections (`isTocStyleIndentedHeading` in `split.go`). Otherwise you get 1–2 line fake “chapters” (e.g. Ethics PG 8438, Pirke Avot PG 8547).
+- Every **section file** (`PG{n}_Section_k.txt`) must have **at least 100 lines** (counted as lines in the file, including blanks). This applies to **Section 1** as well: it includes Project Gutenberg boilerplate before `*** START ***`, license/title block, TOC, and the start of the body through the first split — so the “first chapter” is never valid if Section 1 is shorter than 100 lines.
+- **`mergeRangesUntilMinLines`** (in `split.go`) runs after structural merges: any span still under 100 lines is merged with the **next** section (or the **previous** if it is the last), repeatedly, until every section meets the minimum or only one section remains. This removes bogus 5–8 line “chapters” from unindented TOC lists (e.g. Initiation into Philosophy PG 9304).
+- If **any** section is shorter than 100 lines, the manifest entry is flagged **`needs_review`** (`tasks/gutenberg/split.go`: `MinSectionLineCount`, `SectionLengthsNeedReview`, `SplitHeuristicResult.NeedsReview`). `pipeline-manifest` persists `status` + `split_confidence` to the manifest JSON.
+- Re-split a flagged book with `pipeline-manifest -only-id <gutenberg_id>` even when status is `needs_review` (single-ID exception). Restore `status` to `split` manually after fixing splits if you want bulk upload again.
+- Find cache dirs with very short sections: `bash tasks/gutenberg/scripts/list_pg_cache_stub_sections.sh [max_lines]` (default `max_lines=8`), then re-split those ids.

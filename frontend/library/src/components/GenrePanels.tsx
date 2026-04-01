@@ -7,6 +7,8 @@ type Props = {
   data: GenreWithBooks[]
   genreFilter: string
   onGenreFilterChange: (genre: string) => void
+  searchQuery: string
+  onSearchChange: (query: string) => void
   onSelectBook: (title: string) => void
 }
 
@@ -14,6 +16,8 @@ export default function GenrePanels({
   data,
   genreFilter,
   onGenreFilterChange,
+  searchQuery,
+  onSearchChange,
   onSelectBook,
 }: Props) {
   const sortedGenres = useMemo(() => {
@@ -24,36 +28,69 @@ export default function GenrePanels({
     return list
   }, [data])
 
-  const panelsToShow = useMemo(() => {
-    if (!genreFilter) return sortedGenres
-    return sortedGenres.includes(genreFilter) ? [genreFilter] : []
-  }, [sortedGenres, genreFilter])
+  const q = searchQuery.trim().toLowerCase()
 
-  const getBooks = (genre: string) =>
-    data.find((d) => d.genre === genre)?.books ?? []
+  const panelsToShow = useMemo(() => {
+    let list = sortedGenres
+    if (genreFilter && sortedGenres.includes(genreFilter)) list = [genreFilter]
+    if (!q) return list
+    const getBooksForGenre = (genre: string) => {
+      const books = data.find((d) => d.genre === genre)?.books ?? []
+      return books.filter((t) => t.toLowerCase().includes(q))
+    }
+    return list.filter((genre) => {
+      const genreMatches = genre.toLowerCase().includes(q)
+      const books = getBooksForGenre(genre)
+      return genreMatches || books.length > 0
+    })
+  }, [sortedGenres, genreFilter, data, q])
+
+  const getBooks = (genre: string) => {
+    const books = data.find((d) => d.genre === genre)?.books ?? []
+    if (!q) return books
+    return books.filter((t) => t.toLowerCase().includes(q))
+  }
 
   return (
     <section className="w-full">
-      {/* Genre filter: full width on mobile, inline on larger screens */}
-      <div className="flex flex-col gap-2 mb-5 sm:mb-4 sm:flex-row sm:items-center sm:gap-3">
-        <label htmlFor="genre-filter" className="text-sm font-medium text-gray-500">
-          Genre
-        </label>
-        <select
-          id="genre-filter"
-          value={genreFilter}
-          onChange={(e) => onGenreFilterChange(e.target.value)}
-          className="w-full min-h-[44px] rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-base text-gray-800
-            focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20
-            sm:min-h-0 sm:w-auto sm:max-w-[260px] sm:py-2 sm:text-sm"
-        >
-          <option value="">All genres</option>
-          {sortedGenres.map((g) => (
-            <option key={g} value={g}>
-              {g}
-            </option>
-          ))}
-        </select>
+      {/* Search and genre: stacked on mobile, inline on larger screens */}
+      <div className="flex flex-col gap-3 mb-5 sm:mb-4">
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
+          <label htmlFor="book-search" className="text-sm font-medium text-gray-500 shrink-0">
+            Search
+          </label>
+          <input
+            id="book-search"
+            type="search"
+            value={searchQuery}
+            onChange={(e) => onSearchChange(e.target.value)}
+            placeholder="By name, genre, or author..."
+            aria-label="Search books by name, genre, or author"
+            className="w-full min-h-[44px] rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-base text-gray-800 placeholder:text-gray-400
+              focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20
+              sm:min-h-0 sm:flex-1 sm:max-w-[320px] sm:py-2 sm:text-sm"
+          />
+        </div>
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
+          <label htmlFor="genre-filter" className="text-sm font-medium text-gray-500 shrink-0">
+            Genre
+          </label>
+          <select
+            id="genre-filter"
+            value={genreFilter}
+            onChange={(e) => onGenreFilterChange(e.target.value)}
+            className="w-full min-h-[44px] rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-base text-gray-800
+              focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20
+              sm:min-h-0 sm:w-auto sm:max-w-[260px] sm:py-2 sm:text-sm"
+          >
+            <option value="">All genres</option>
+            {sortedGenres.map((g) => (
+              <option key={g} value={g}>
+                {g}
+              </option>
+            ))}
+          </select>
+        </div>
       </div>
 
       {/* Panels: 1 col mobile, 2 sm, 3 lg */}

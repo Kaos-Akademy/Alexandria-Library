@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1,
+      "title": "The Declaration of Independence of the United States of America",
+      "author": "Jefferson, Thomas, 1743-1826",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "United States -- History -- Revolution, 1775-1783 -- Sources; United States. Declaration of Independence",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.25
+    },
+    {
+      "gutenberg_id": 59,
+      "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+      "author": "Descartes, René, 1596-1650; Veitch, John, 1829-1894 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Science -- Methodology; Methodology",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.85
+    },
+    {
+      "gutenberg_id": 61,
+      "title": "The Communist Manifesto",
+      "author": "Marx, Karl, 1818-1883; Engels, Friedrich, 1820-1895",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Socialism; Communism",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.25
+    },
+    {
+      "gutenberg_id": 70,
+      "title": "What Is Man? and Other Essays",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "American essays",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.4
+    },
+    {
+      "gutenberg_id": 71,
+      "title": "On the Duty of Civil Disobedience",
+      "author": "Thoreau, Henry David, 1817-1862",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Civil disobedience; Government, Resistance to",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.25
+    },
+    {
+      "gutenberg_id": 130,
+      "title": "Orthodoxy",
+      "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Apologetics; Chesterton, G. K. (Gilbert Keith), 1874-1936; Christianity -- Essence, genius, nature",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.25
+    },
+    {
+      "gutenberg_id": 150,
+      "title": "The Republic",
+      "author": "Plato, 428? BCE-348? BCE; Jowett, Benjamin, 1817-1893 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Political science -- Early works to 1800; Utopias -- Early works to 1800; Justice -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 174,
+      "title": "The Picture of Dorian Gray",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Didactic fiction; Supernatural -- Fiction; Conduct of life -- Fiction; Portraits -- Fiction; Great Britain -- History -- Victoria, 1837-1901 -- Fiction; London (England) -- History -- 1800-1950 -- Fiction; Appearance (Philosophy) -- Fiction; Paranormal fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 205,
+      "title": "Walden, and On The Duty Of Civil Disobedience",
+      "author": "Thoreau, Henry David, 1817-1862",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Civil disobedience; Authors, American -- 19th century -- Biography; Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods; Wilderness areas -- Massachusetts -- Walden Woods; Natural history -- Massachusetts -- Walden Woods; Solitude; Government, Resistance to; Walden Woods (Mass.) -- Social life and customs",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 216,
+      "title": "The Tao Teh King, or the Tao and its Characteristics",
+      "author": "Laozi; Legge, James, 1815-1897 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy, Chinese; Taoism -- Sacred books",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.4
+    }
+  ]
+}

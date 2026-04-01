@@ -1,16 +1,47 @@
 'use client'
 import Link from 'next/link'
 import { getGenresWithBooks, fetchChapterTitles, fetchAuthors, fetchBooksByAuthor } from '../flow/actions'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
 import ChaptersView from '@/components/ChaptersView'
 import GenrePanels from '@/components/GenrePanels'
+
+function MatchingAuthors({
+  authors,
+  searchQuery,
+  onSelectAuthor,
+}: { authors: string[]; searchQuery: string; onSelectAuthor: (a: string) => void }) {
+  const q = searchQuery.trim().toLowerCase()
+  const matching = useMemo(
+    () => (q ? authors.filter((a) => (a || '').toLowerCase().includes(q)) : []),
+    [authors, q]
+  )
+  if (matching.length === 0) return null
+  return (
+    <section className="w-full mb-3">
+      <h2 className="text-sm font-semibold text-gray-500 mb-2">Matching authors</h2>
+      <div className="flex flex-wrap gap-2">
+        {matching.map((author) => (
+          <button
+            key={author}
+            type="button"
+            onClick={() => onSelectAuthor(author)}
+            className="px-3 py-1.5 rounded-md border border-gray-200 bg-white text-sm text-gray-800 hover:bg-emerald-50 hover:border-emerald-200 hover:text-emerald-800 transition-colors"
+          >
+            {author}
+          </button>
+        ))}
+      </div>
+    </section>
+  )
+}
 
 export default function Books() {
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
   const [genreFilter, setGenreFilter] = useState<string>('')
+  const [searchQuery, setSearchQuery] = useState<string>('')
   const [authors, setAuthors] = useState<string[]>([])
   const [selectedAuthor, setSelectedAuthor] = useState<string | null>(null)
   const [authorBooks, setAuthorBooks] = useState<string[] | null>(null)
@@ -142,11 +173,21 @@ export default function Books() {
             </section>
           )}
 
+          {searchQuery.trim() && (
+            <MatchingAuthors
+              authors={authors}
+              searchQuery={searchQuery}
+              onSelectAuthor={handleSelectAuthor}
+            />
+          )}
+
           {!selectedBook && (
             <GenrePanels
               data={data}
               genreFilter={genreFilter}
               onGenreFilterChange={setGenreFilter}
+              searchQuery={searchQuery}
+              onSearchChange={setSearchQuery}
               onSelectBook={handleSelectBook}
             />
           )}
@@ -166,9 +207,22 @@ export default function Books() {
         </div>
 
         <div className="mt-8 pt-6 border-t border-gray-200">
-          <Link href="/" className="text-sm text-emerald-600 hover:text-emerald-700 underline font-medium">
-            ← Back to Library
-          </Link>
+          {selectedBook ? (
+            <button
+              type="button"
+              onClick={() => {
+                setSelectedBook(null)
+                setSelectedChapterIdx(null)
+              }}
+              className="text-sm text-emerald-600 hover:text-emerald-700 underline font-medium"
+            >
+              ← Back to Book Search
+            </button>
+          ) : (
+            <Link href="/" className="text-sm text-emerald-600 hover:text-emerald-700 underline font-medium">
+              ← Back to Library
+            </Link>
+          )}
         </div>
       </div>
     </div>

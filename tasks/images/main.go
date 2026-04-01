@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/base64"
+	"flag"
 	"fmt"
 	"image"
 	"image/jpeg"
@@ -19,6 +20,18 @@ import (
 	"github.com/fatih/color"
 	"golang.org/x/image/draw"
 )
+
+type imageUploadOptions struct {
+	Proposers       []string
+	AllowOutOfOrder bool
+	MaxImages       int
+}
+
+type imageFileWithPage struct {
+	path     string
+	pageNum  int
+	filename string
+}
 
 // ReadFile reads a text file and returns an array of paragraphs
 func ReadFile(filename string) ([]string, error) {
@@ -131,6 +144,7 @@ func UploadImagesFromDirectory(
 	bookTitle string,
 	chapterTitle string,
 	signer string,
+	opts imageUploadOptions,
 ) error {
 	// Read directory
 	entries, err := os.ReadDir(directoryPath)
@@ -155,12 +169,7 @@ func UploadImagesFromDirectory(
 	color.Cyan("Looking for images starting from page %s (page number %d)", startPage, startPageNum)
 
 	// Collect all image files with their page numbers
-	type fileWithPage struct {
-		path     string
-		pageNum  int
-		filename string
-	}
-	var filesWithPages []fileWithPage
+	var filesWithPages []imageFileWithPage
 
 	for _, entry := range entries {
 		if entry.IsDir() {
@@ -186,7 +195,7 @@ func UploadImagesFromDirectory(
 		// Only include files from startPage onwards
 		if pageNum >= startPageNum {
 			fullPath := filepath.Join(directoryPath, entry.Name())
-			filesWithPages = append(filesWithPages, fileWithPage{
+			filesWithPages = append(filesWithPages, imageFileWithPage{
 				path:     fullPath,
 				pageNum:  pageNum,
 				filename: entry.Name(),
@@ -202,8 +211,16 @@ func UploadImagesFromDirectory(
 	if len(filesWithPages) == 0 {
 		return fmt.Errorf("no image files found starting from page %s", startPage)
 	}
+	if opts.MaxImages > 0 && len(filesWithPages) > opts.MaxImages {
+		filesWithPages = filesWithPages[:opts.MaxImages]
+	}
 
 	color.Green("Found %d images to upload, starting from page %d", len(filesWithPages), startPageNum)
+
+	if opts.AllowOutOfOrder && len(opts.Proposers) > 0 {
+		color.Yellow("Concurrent mode enabled with %d proposers (ordering is not guaranteed)", len(opts.Proposers))
+		return uploadImagesConcurrent(o, filesWithPages, bookTitle, chapterTitle, signer, opts.Proposers)
+	}
 
 	// Upload each image
 	for i, fileInfo := range filesWithPages {
@@ -239,25 +256,57 @@ func UploadImagesFromDirectory(
 }
 
 func main() {
+	fs := flag.NewFlagSet("images-upload", flag.ExitOnError)
+	network := fs.String("network", "mainnet", "Flow network")
+	directoryPath := fs.String("directory", "/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/images/Berserk v01 (2003) (Digital) (Cyborgzx-repack)", "image directory")
+	startPage := fs.String("start-page", "p011", "start page marker (e.g. p011)")
+	bookTitle := fs.String("book-title", "Berserk", "book title")
+	chapterTitle := fs.String("chapter-title", "Chapter I", "chapter title")
+	signer := fs.String("signer", "Prime-librarian", "Overflow signer account name")
+	proposers := fs.String("proposers", "", "comma-separated proposer aliases from flow.json")
+	allowOutOfOrder := fs.Bool("allow-out-of-order", false, "allow concurrent submission for higher throughput (paragraph ordering may change)")
+	maxImages := fs.Int("max-images", 0, "optional max image tx count to submit")
+	fs.Parse(os.Args[1:])
+
 	o := Overflow(
 		WithGlobalPrintOptions(),
-		WithNetwork("mainnet"),
+		WithNetwork(*network),
 	)
 
 	color.Red("Alexandria Contract - Batch Image Upload")
 	color.Red("")
 
-	// Configuration
-	directoryPath := "/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/images/Berserk v01 (2003) (Digital) (Cyborgzx-repack)"
-	startPage := "p011" // Start from page 11
-	bookTitle := "Berserk"
-	chapterTitle := "Chapter I"
-	signer := "Prime-librarian"
-
 	// Upload all images starting from p011
-	err := UploadImagesFromDirectory(o, directoryPath, startPage, bookTitle, chapterTitle, signer)
+	err := UploadImagesFromDirectory(
+		o,
+		*directoryPath,
+		*startPage,
+		*bookTitle,
+		*chapterTitle,
+		*signer,
+		imageUploadOptions{
+			Proposers:       parseCSV(*proposers),
+			AllowOutOfOrder: *allowOutOfOrder,
+			MaxImages:       *maxImages,
+		},
+	)
 	if err != nil {
 		color.Red("Error: %v", err)
 		os.Exit(1)
 	}
+}
+
+func parseCSV(value string) []string {
+	if strings.TrimSpace(value) == "" {
+		return nil
+	}
+	parts := strings.Split(value, ",")
+	out := make([]string, 0, len(parts))
+	for _, p := range parts {
+		t := strings.TrimSpace(p)
+		if t != "" {
+			out = append(out, t)
+		}
+	}
+	return out
 }

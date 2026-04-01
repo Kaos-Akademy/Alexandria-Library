@@ -1,0 +1,125 @@
+﻿The Project Gutenberg eBook of Principia mathematica, vol. 1 (of 3)
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Principia mathematica, vol. 1 (of 3)
+
+Author: Alfred North Whitehead
+        Bertrand Russell
+
+
+        
+Release date: February 26, 2026 [eBook #78050]
+
+Language: English
+
+Original publication: Cambridge: University Press, 1910
+
+Other information and formats: www.gutenberg.org/ebooks/78050
+
+Credits: Richard Tonsing, Laura Natal, Michael Roe and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)  In memoriam of Greg Newby.
+
+
+MathJax HTML source file instructions
+==================================
+This project is a math heavy eBook. The source is a preliminary HTML file that
+uses MathJax to define mathematical expressions, which is processed to generate
+a final HTML file with SVG images.
+
+This source file is kept for the purpose of applying errata fixes. Although the
+MathJax takes some learning, it is clearer than the generated final. This also
+allows the SVG images to be regenerated with changes.
+
+
+Tools
+=====
+See the ppmath GitHub repository:
+    https://github.com/DistributedProofreaders/ppmath.
+Follow the instructions to install m2svg.
+
+Command line:
+    m2svg -i input.htm -o output.htm
+
+- The SVG files will be placed in a subdirectory of the working directory
+  called "images".
+
+- In the converted file, the maths expressions, delimited by the tags `\[`
+  and `\]` for *display* expressions or `\(` and `\)` for *inline*
+  expressions, are replaced by `<img>` links.
+
+- The "data-tex" attribute will contain the original maths expression.
+
+
+Inline code example
+===================
+For the expression \(\mathrm{AB}^{2} = \mathrm{AG} \times \mathrm{BD}\), the
+input `\(\mathrm{AB}^{2} = \mathrm{AG} \times \mathrm{BD}\)`
+
+becomes
+    `<span class="nowrap"><img style="vertical-align: -0.186ex; width: 16.872ex;
+    height: 2.253ex;" src="images/4.svg" alt="" data-tex="\mathrm{AB}^{2}
+    = \mathrm{AG} \times \mathrm{BD}">,</span>`
+
+The file images/4.svg displays the desired expression.
+
+
+Source files structure
+======================
+(eBook 75107 is used as an example)
+
+- 75107/
+  - README-math.txt  (this file)
+  - 75107-h/
+    - 75107-h.htm  (final HTML file)
+    - images/
+  - 75107-src/
+    - 75107-src.htm  (source HTML file with MathJax)
+
+
+SVG fixup for ebookmaker
+========================
+Now, the SVG files contain a "data-variant" attribute that causes errors.
+It needs to be removed by downloading and running this utility:
+https://github.com/user-attachments/files/25548572/remove_data_variant_attribute.py
+
+Command line:
+    python remove_data_variant_attribute.py images
+    
+Hopefully, this step will be removed in the future.
+
+
+Submission process
+==================
+- Generated final HTML and images should be submitted as normal.
+- In addition, the source HTML will be included, and needs to be renamed
+  to #####-src.htm by the whitewasher or the Workflow app.
+- This readme will need to be added by the whitewasher or the Workflow app.
+  - Having it with the eBook makes it obvious, and avoids issues with
+    procedures changing in the future.
+
+
+Errata process
+==============
+(eBook 75107 is used as an example)
+
+1. Download the project files using Errata Workbench, and unzip.
+2. Install m2svg if not already done.
+3. Make desired changes to 75107-src.htm.
+4. Execute command line `m2svg -i 75107-src.htm -o 75107-h.htm`
+   - The image files will be placed in a subdirectory of the working directory
+     called images.
+5. Move 75107-h.htm to the 75107-h directory.
+6. Move the contents of the images directory to the 75107-h/images directory.
+   - Rename the existing 75107-h/images directory to images-old.
+   - Move the new images directory to 75107-h.
+   - Check images-old, move any non-generated images (JPG, PNG, etc.). to
+     images.
+   - Remove images-old and any other temporary files.
+7. Zip the project directory and upload to Errata Workbench.
+

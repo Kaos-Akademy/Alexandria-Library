@@ -1,8 +1,5 @@
 {
 	"contracts": {
-		"Librarian": {
-			"source": "contracts/Librarian.cdc"
-		},
 		"Alexandria": {
 			"source": "contracts/Alexandria.cdc",
 			"aliases": {
@@ -14,7 +11,14 @@
 			"aliases": {
 				"mainnet": "fed1adffd14ea9d0"
 			}
-		}
+		},
+		"EchoNoah": {
+			"source": "contracts/EchoNoah.cdc",
+			"aliases": {
+				"mainnet": "6d96bf7d95a8b595"
+			}
+		},
+		"Librarian": "contracts/Librarian.cdc"
 	},
 	"dependencies": {
 		"Burner": {
@@ -204,18 +208,91 @@
 			"address": "f3fcd2c1a78f5eee",
 			"key": "3b90c6ed0051a32a9bbbd8d584d04f9db4948a63974e0a4ac70d637193d7e4c7"
 		},
-		"mainnet-Prime-librarian": {
-			"address": "fed1adffd14ea9d0",
-			"key": {
-				"type": "file",
-				"location": "Prime-librarian.pkey"
-			}
-		}, 
 		"mainnet-Librarian": {
 			"address": "6d96bf7d95a8b595",
 			"key": {
 				"type": "file",
 				"location": "librarian.pkey"
+			}
+		},
+		"mainnet-Prime-librarian": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 0
+			}
+		},
+		"mainnet-Prime-librarian-p1": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 1
+			}
+		},
+		"mainnet-Prime-librarian-p2": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 2
+			}
+		},
+		"mainnet-Prime-librarian-p3": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 3
+			}
+		},
+		"mainnet-Prime-librarian-p4": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 4
+			}
+		},
+		"mainnet-Prime-librarian-p5": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 5
+			}
+		},
+		"mainnet-Prime-librarian-p6": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 6
+			}
+		},
+		"mainnet-Prime-librarian-p7": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 7
+			}
+		},
+		"mainnet-Prime-librarian-p8": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 8
+			}
+		},
+		"mainnet-Prime-librarian-p9": {
+			"address": "fed1adffd14ea9d0",
+			"key": {
+				"type": "file",
+				"location": "Prime-librarian.pkey",
+				"index": 9
 			}
 		}
 	},
@@ -229,11 +306,12 @@
 			"emulator-bob": []
 		},
 		"mainnet": {
-			"mainnet-Prime-librarian": [
-
-			],
 			"mainnet-Librarian": [
-				"Librarian"
+				"Librarian",
+				"EchoNoah"
+			],
+			"mainnet-Prime-librarian": [
+				"Alexandria"
 			]
 		}
 	}

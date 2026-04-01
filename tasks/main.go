@@ -1,127 +1,34 @@
 package main
 
 import (
-	"bufio"
-	"fmt"
 	"os"
-	"path/filepath"
-	"regexp"
-	"sort"
-	"strings"
 
-	//if you imports this with .  you do not have to repeat overflow everywhere
 	. "github.com/bjartek/overflow/v2"
 	"github.com/fatih/color"
+
+	"alexandria/overflow/tasks/gutenberg"
 )
-
-// escapeForCadence escapes a string so it is valid inside a Cadence string literal.
-// Cadence uses "..." for strings; inner " must be \" and \ must be \\.
-func escapeForCadence(s string) string {
-	var b strings.Builder
-	for _, r := range s {
-		switch r {
-		case '\\':
-			b.WriteString(`\\`)
-		case '"':
-			b.WriteString(`\"`)
-		default:
-			b.WriteRune(r)
-		}
-	}
-	return b.String()
-}
-
-// ReadFile reads a text file and returns an array of paragraphs, each escaped for Cadence.
-func ReadFile(filename string) ([]string, error) {
-	file, err := os.Open(filename)
-	if err != nil {
-		return nil, err
-	}
-	defer file.Close()
-
-	var content string
-	scanner := bufio.NewScanner(file)
-
-	// Read file content line by line
-	for scanner.Scan() {
-		content += scanner.Text() + "\n"
-	}
-
-	if err := scanner.Err(); err != nil {
-		return nil, err
-	}
-
-	// Split the content into paragraphs
-	// Assuming paragraphs are separated by one or more newlines
-	rawParagraphs := strings.Split(content, "\n")
-	paragraphs := make([]string, 0, len(rawParagraphs))
-
-	for _, paragraph := range rawParagraphs {
-		trimmed := strings.TrimSpace(paragraph)
-		if trimmed != "" {
-			paragraphs = append(paragraphs, escapeForCadence(trimmed)) // Escaped for Cadence [String]
-		}
-	}
-
-	return paragraphs, nil
-}
-
-type chapterFile struct {
-	Path  string
-	Label string
-	Index int
-}
-
-// findSections finds all section files in baseDir whose name matches sectionFileRegex
-// (regex must have one submatch for the numeric index, e.g. `^Crime_Section_(\d+)\.txt$`).
-// Returns sections sorted by index.
-func findSections(baseDir, sectionFileRegex string, minIndex int) ([]chapterFile, error) {
-	entries, err := os.ReadDir(baseDir)
-	if err != nil {
-		return nil, err
-	}
-	re := regexp.MustCompile(sectionFileRegex)
-	var sections []chapterFile
-	for _, e := range entries {
-		if e.IsDir() {
-			continue
-		}
-		m := re.FindStringSubmatch(e.Name())
-		if len(m) != 2 {
-			continue
-		}
-		var index int
-		fmt.Sscanf(m[1], "%d", &index)
-		if index < minIndex {
-			continue
-		}
-		sections = append(sections, chapterFile{
-			Path:  filepath.Join(baseDir, e.Name()),
-			Label: m[1],
-			Index: index,
-		})
-	}
-	sort.Slice(sections, func(i, j int) bool {
-		return sections[i].Index < sections[j].Index
-	})
-	return sections, nil
-}
 
 func main() {
 	// --- Hardcoded book config: change these when switching to another book ---
 	const (
-		bookTitle        = "Ecce Homo"
-		author           = "Friedrich Nietzsche"
+		bookTitle        = "Ethics"
+		author           = "Benedictus de Spinoza"
 		genre            = "Philosophy"
-		edition          = "Project Gutenberg eBook #52190"
-		summary          = "Ecce Homo by Friedrich Wilhelm Nietzsche is a philosophical autobiography written in 1888. In this provocative final work, Nietzsche offers his own interpretation of his life, philosophy, and significance through boldly titled chapters like \"Why I Am So Wise\" and \"Why I Write Such Good Books.\" He reviews his major works, presents a new image of the Dionysian philosopher, and challenges Christianity's morality. Written with characteristic hyperbole and self-conscious irony, the book puts Nietzsche himself on trial while declaring his vision for humanity's future. (This is an automatically generated summary.)"
-		sectionFileRegex = `^EcceHomo_Section_(\d+)\.txt$`
+		edition          = "Project Gutenberg eBook #3800"
+		summary          = "\"Ethics\" by Benedictus de Spinoza is a philosophical treatise written between 1661 and 1675. Using Euclid's geometric method, Spinoza constructs a radical philosophical system from definitions and axioms, deriving propositions about God, nature, mind, and human emotion. He argues that God and the universe are one, that mind and body are unified, and that human beings lack free will. Through logical demonstration, Spinoza presents a deterministic vision where everything follows necessarily from the nature of existence itself."
+		sectionFileRegex = `^Ethics_Section_(\d+)\.txt$`
 		booksFolder      = "books"
 		signer           = "Prime-librarian"
 		startIndex       = 1
 	)
-	// Optional chapter titles; nil means use default "Chapter <index>" titles.
-	var chapterTitles map[int]string = nil
+	var chapterTitles map[int]string = map[int]string{
+		1: "Part I — Concerning God",
+		2: "Part II — On the Nature and Origin of the Mind",
+		3: "Part III — On the Origin and Nature of the Emotions",
+		4: "Part IV — Of Human Bondage, or the Strength of the Emotions",
+		5: "Part V — Of the Power of the Understanding, or of Human Freedom",
+	}
 	// ---------------------------------------------------------------------------
 
 	o := Overflow(
@@ -129,77 +36,20 @@ func main() {
 		WithNetwork("mainnet"),
 	)
 
-	color.Red("Alexandria Contract - %s Upload", bookTitle)
-	color.Red("")
-
-	color.Cyan("Checking if book already exists...")
-	bookExists := false
-	bookResult := o.Script("get_book", WithArg("bookTitle", bookTitle))
-	if bookResult != nil && bookResult.Err == nil {
-		bookExists = true
+	cfg := gutenberg.UploadConfig{
+		BookTitle:        bookTitle,
+		Author:           author,
+		Genre:            genre,
+		Edition:          edition,
+		Summary:          summary,
+		SectionFileRegex: sectionFileRegex,
+		BooksFolder:      booksFolder,
+		Signer:           signer,
+		StartIndex:       startIndex,
+		ChapterTitles:    chapterTitles,
 	}
-	if !bookExists {
-		color.Yellow("Book does not exist. Creating book: %s", bookTitle)
-		result := o.Tx("Admin/add_book",
-			WithSigner(signer),
-			WithArg("title", bookTitle),
-			WithArg("author", author),
-			WithArg("genre", genre),
-			WithArg("edition", edition),
-			WithArg("summary", escapeForCadence(summary)),
-		)
-		if result.Err != nil && strings.Contains(result.Err.Error(), "already in the Library") {
-			color.Green("Book already exists (detected during creation). Skipping.")
-		} else {
-			result.Print()
-			color.Green("Book created successfully!")
-		}
-	} else {
-		color.Green("Book already exists. Skipping book creation.")
-	}
-
-	sectionFiles, err := findSections(booksFolder, sectionFileRegex, startIndex)
-	if err != nil {
-		fmt.Printf("Error discovering section files: %v\n", err)
+	if err := gutenberg.UploadBook(o, cfg); err != nil {
+		color.Red("Upload failed: %v", err)
 		os.Exit(1)
 	}
-	if len(sectionFiles) == 0 {
-		fmt.Printf("No section files found in %s matching %s\n", booksFolder, sectionFileRegex)
-		return
-	}
-	fmt.Printf("\nFound %d section files:\n", len(sectionFiles))
-	for _, section := range sectionFiles {
-		fmt.Printf("  - %s (index %d)\n", section.Path, section.Index)
-	}
-
-	for _, section := range sectionFiles {
-		sectionTitle := fmt.Sprintf("Chapter %d", section.Index)
-		if chapterTitles != nil {
-			if t, ok := chapterTitles[section.Index]; ok {
-				sectionTitle = t
-			}
-		}
-		color.Cyan("\nProcessing %s (index %d)", sectionTitle, section.Index)
-		paragraphs, err := ReadFile(section.Path)
-		if err != nil {
-			fmt.Printf("Error reading %s: %v\n", section.Path, err)
-			os.Exit(1)
-		}
-		fmt.Printf("Successfully loaded %d paragraphs from %s\n", len(paragraphs), section.Path)
-		color.Yellow("Adding section name on-chain: %s", sectionTitle)
-		o.Tx("Admin/add_chapter_name",
-			WithSigner(signer),
-			WithArg("bookTitle", bookTitle),
-			WithArg("chapterTitle", sectionTitle),
-		).Print()
-		color.Yellow("Adding section content on-chain: %s (index %d)", sectionTitle, section.Index)
-		o.Tx("Admin/add_chapter",
-			WithSigner(signer),
-			WithArg("bookTitle", bookTitle),
-			WithArg("chapterTitle", sectionTitle),
-			WithArg("index", section.Index),
-			WithArg("paragraphs", paragraphs),
-		).Print()
-	}
-	color.Green("\nFinished uploading %s sections.", bookTitle)
 }
