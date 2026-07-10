@@ -1,0 +1,968 @@
+The Project Gutenberg eBook of Kant's Theory of Knowledge
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Kant's Theory of Knowledge
+
+Author: H. A. Prichard
+
+
+        
+Release date: June 5, 2010 [eBook #32701]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/32701
+
+Credits: E-text prepared by Meredith Bach, lizardcry, and the Project Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net) from page images generously made available by Internet Archive/Canadian Libraries (http://www.archive.org/details/toronto)
+
+
+
+
+E-text prepared by Meredith Bach, lizardcry, and the Project Gutenberg
+Online Distributed Proofreading Team (http://www.pgdp.net) from page
+images generously made available by Internet Archive/Canadian Libraries
+(http://www.archive.org/details/toronto)
+
+
+
+Note: Images of the original pages are available through
+      Internet Archive/Canadian Libraries. See
+      http://www.archive.org/details/kantknowledge00pricuoft
+
+
+Transcriber's note:
+
+   1. Text in italics is enclosed by underscores (_italics_).
+
+   2. The original text includes Greek characters. For this text
+   version these letters have been replaced with transliterations
+   represented within square brackets [Greek: ]. Also greek
+   letters alpha and beta are represented as [alpha] and [beta]
+   in this text.
+
+   3. A subscript is indicated by an underscore followed by the
+   subscript in curly braces. For example, a_{2} indicates a with
+   subscript 2.
+
+   4. Footnotes have been moved to the end of the paragraph
+   wherein they have been referred to.
+
+   5. Other than the corrections listed above, printer's
+   inconsistencies in spelling, punctuation and hyphenation have
+   been retained.
+
+
+
+
+
+KANT'S THEORY OF KNOWLEDGE
+
+by
+
+H. A. PRICHARD
+
+Fellow of Trinity College, Oxford
+
+
+
+
+
+
+
+Oxford
+At the Clarendon Press
+1909
+
+Henry Frowde, M.A.
+Publisher to the University of Oxford
+London, Edinburgh, New York
+Toronto and Melbourne
+
+
+
+
+PREFACE
+
+
+This book is an attempt to think out the nature and tenability of
+Kant's Transcendental Idealism, an attempt animated by the conviction
+that even the elucidation of Kant's meaning, apart from any criticism,
+is impossible without a discussion on their own merits of the main
+issues which he raises.
+
+My obligations are many and great: to Caird's _Critical Philosophy of
+Kant_ and to the translations of Meiklejohn, Max Müller, and Professor
+Mahaffy; to Mr. J. A. Smith, Fellow of Balliol College, and to Mr. H.
+W. B. Joseph, Fellow of New College, for what I have learned from them
+in discussion; to Mr. A. J. Jenkinson, Fellow of Brasenose College,
+for reading and commenting on the first half of the MS.; to Mr. H. H.
+Joachim, Fellow of Merton College, for making many important
+suggestions, especially with regard to matters of translation; to Mr.
+Joseph, for reading the whole of the proofs and for making many
+valuable corrections; and, above all, to my wife for constant and
+unfailing help throughout, and to Professor Cook Wilson, to have been
+whose pupil I count the greatest of philosophical good fortunes. Some
+years ago it was my privilege to be a member of a class with which
+Professor Cook Wilson read a portion of Kant's _Critique of Pure
+Reason_, and subsequently I have had the advantage of discussing with
+him several of the more important passages. I am especially indebted
+to him in my discussion of the following topics: the distinction
+between the Sensibility and the Understanding (pp. 27-31, 146-9,
+162-6), the term 'form of perception' (pp. 37, 40, 133 fin.-135), the
+_Metaphysical Exposition of Space_ (pp. 41-8), Inner Sense (Ch. V,
+and pp. 138-9), the _Metaphysical Deduction of the Categories_ (pp.
+149-53), Kant's account of 'the reference of representations to an
+object' (pp. 178-86), an implication of perspective (p. 90), the
+impossibility of a 'theory' of knowledge (p. 245), and the points
+considered, pp. 200 med.-202 med., 214 med.-215 med., and 218. The
+views expressed in the pages referred to originated from Professor
+Cook Wilson, though it must not be assumed that he would accept them
+in the form in which they are there stated.
+
+
+
+
+CONTENTS
+
+
+  CHAPTER I                                                     PAGE
+  THE PROBLEM OF THE _Critique_                                    1
+
+  CHAPTER II
+  THE SENSIBILITY AND THE UNDERSTANDING                           27
+
+  CHAPTER III
+  SPACE                                                           36
+
+  CHAPTER IV
+  PHENOMENA AND THINGS IN THEMSELVES                              71
+
+  NOTE
+  THE FIRST ANTINOMY                                             101
+
+  CHAPTER V
+  TIME AND INNER SENSE                                           103
+
+  CHAPTER VI
+  KNOWLEDGE AND REALITY                                          115
+
+  CHAPTER VII
+  THE METAPHYSICAL DEDUCTION OF THE CATEGORIES                   140
+
+  CHAPTER VIII
+  THE TRANSCENDENTAL DEDUCTION OF THE CATEGORIES                 161
+
+  CHAPTER IX
+  GENERAL CRITICISM OF THE TRANSCENDENTAL DEDUCTION OF THE
+  CATEGORIES                                                     214
+
+  CHAPTER X
+  THE SCHEMATISM OF THE CATEGORIES                               246
+
+  CHAPTER XI
+  THE MATHEMATICAL PRINCIPLES                                    260
+
+  CHAPTER XII
+  THE ANALOGIES OF EXPERIENCE                                    268
+
+  CHAPTER XIII
+  THE POSTULATES OF EMPIRICAL THOUGHT                            308
+
+  NOTE
+  THE REFUTATION OF IDEALISM                                     319
+
+
+
+
+REFERENCES
+
+
+  A     = First edition of the _Critique of Pure Reason_.
+  B     = Second edition of the _Critique of Pure Reason_.
+  Prol. = Kant's _Prolegomena to any future Metaphysic_.
+  M     = Meiklejohn's Translation of the _Critique of Pure Reason_.
+  Mah.  = Mahaffy. Translation of Kant's _Prolegomena to any future
+          Metaphysic_. (The pages referred to are those of the first
+          edition; these are also to be found in the text of the
+          second edition.)
+  Caird = Caird's _Critical Philosophy of Kant_.
+
+
+
+
+CHAPTER I
+
+THE PROBLEM OF THE _CRITIQUE_
+
+
+The problem of the _Critique_ may be stated in outline and
+approximately in Kant's own words as follows.
+
+Human reason is called upon to consider certain questions, which it
+cannot decline, as they are presented by its own nature, but which it
+cannot answer. These questions relate to God, freedom of the will, and
+immortality. And the name for the subject which has to deal with these
+questions is metaphysics. At one time metaphysics was regarded as the
+queen of all the sciences, and the importance of its aim justified the
+title. At first the subject, propounding as it did a dogmatic system,
+exercised a despotic sway. But its subsequent failure brought it into
+disrepute. It has constantly been compelled to retrace its steps;
+there has been fundamental disagreement among philosophers, and no
+philosopher has successfully refuted his critics. Consequently the
+current attitude to the subject is one of weariness and indifference.
+Yet humanity cannot really be indifferent to such problems; even those
+who profess indifference inevitably make metaphysical assertions; and
+the current attitude is a sign not of levity but of a refusal to put
+up with the illusory knowledge offered by contemporary philosophy. Now
+the objects of metaphysics, God, freedom, and immortality, are not
+objects of experience in the sense in which a tree or a stone is an
+object of experience. Hence our views about them cannot be due to
+experience; they must somehow be apprehended by pure reason, i. e. by
+thinking and without appeal to experience. Moreover, it is in fact by
+thinking that men have always tried to solve the problems concerning
+God, freedom, and immortality. What, then, is the cause of the
+unsatisfactory treatment of these problems and men's consequent
+indifference? It must, in some way, lie in a failure to attain the
+sure scientific method, and really consists in the neglect of an
+inquiry which should be a preliminary to all others in metaphysics.
+Men ought to have begun with a critical investigation of pure reason
+itself. Reason should have examined its own nature, to ascertain in
+general the extent to which it is capable of attaining knowledge
+without the aid of experience. This examination will decide whether
+reason is able to deal with the problems of God, freedom, and
+immortality at all; and without it no discussion of these problems
+will have a solid foundation. It is this preliminary investigation
+which the _Critique of Pure Reason_ proposes to undertake. Its aim is
+to answer the question, 'How far can reason go, without the material
+presented and the aid furnished by experience?' and the result
+furnishes the solution, or at least the key to the solution, of all
+metaphysical problems.
+
+Kant's problem, then, is similar to Locke's. Locke states[1] that his
+purpose is to inquire into the original, certainty, and extent of
+human knowledge; and he says, "If, by this inquiry into the nature of
+the understanding I can discover the powers thereof; how far they
+reach, to what things they are in any degree proportionate, and where
+they fail us; I suppose it may be of use to prevail with the busy mind
+of man, to be more cautious in meddling with things exceeding its
+comprehension; to stop when it is at the utmost extent of its tether;
+and to sit down in a quiet ignorance of those things, which, upon
+examination, are found to be beyond the reach of our capacities."
+Thus, to use Dr. Caird's analogy,[2] the task which both Locke and
+Kant set themselves resembled that of investigating a telescope,
+before turning it upon the stars, to determine its competence for the
+work.
+
+    [1] Locke's _Essay_, i, 1, §§ 2, 4.
+
+    [2] Caird, i, 10.
+
+The above outline of Kant's problem is of course only an outline. Its
+definite formulation is expressed in the well-known question, 'How are
+_a priori_ synthetic judgements possible?'[3] To determine the meaning
+of this question it is necessary to begin with some consideration of
+the terms '_a priori_' and 'synthetic'.
+
+    [3] B. 19, M. 12.
+
+While there is no difficulty in determining what Kant would have
+recognized as an _a priori_ judgement, there is difficulty in
+determining what he meant by calling such a judgement _a priori_. The
+general account is given in the first two sections of the
+Introduction. An _a priori_ judgement is introduced as something
+opposed to an _a posteriori_ judgement, or a judgement which has its
+source in experience. Instances of the latter would be 'This body is
+heavy', and 'This body is hot'. The point of the word 'experience' is
+that there is direct apprehension of some individual, e. g. an
+individual body. To say that a judgement has its source in experience
+is of course to imply a distinction between the judgement and
+experience, and the word 'source' may be taken to mean that the
+judgement depends for its validity upon the experience of the
+individual thing to which the judgement relates. An _a priori_
+judgement, then, as first described, is simply a judgement which is
+not _a posteriori_. It is independent of all experience; in other
+words, its validity does not depend on the experience of individual
+things. It might be illustrated by the judgement that all three-sided
+figures must have three angles. So far, then, no positive meaning has
+been given to _a priori_.[4]
+
+    [4] Kant is careful to exclude from the class of _a priori_
+    judgements proper what may be called relatively _a priori_
+    judgements, viz. judgements which, though not independent of
+    all experience, are independent of experience of the facts to
+    which they relate. "Thus one would say of a man who
+    undermined the foundations of his house that he might have
+    known _a priori_ that it would fall down, i. e. that he did
+    not need to wait for the experience of its actual falling
+    down. But still he could not know this wholly _a priori_, for
+    he had first to learn through experience that bodies are
+    heavy and consequently fall, if their supports are taken
+    away." (B. 2, M. 2.)
+
+Kant then proceeds, not as we should expect, to state the positive
+meaning of _a priori_; but to give tests for what is _a priori_. Since
+a test implies a distinction between itself and what is tested, it is
+implied that the meaning of _a priori_ is already known.[5]
+
+    [5] It may be noted that in this passage (Introduction, §§ 1
+    and 2) Kant is inconsistent in his use of the term 'pure'.
+    Pure knowledge is introduced as a species of _a priori_
+    knowledge: "_A priori_ knowledge, if nothing empirical is
+    mixed with it, is called pure". (B. 3, M. 2, 17.) And in
+    accordance with this, the proposition 'every change has a
+    cause' is said to be _a priori_ but impure, because the
+    conception of change can only be derived from experience. Yet
+    immediately afterwards, pure, being opposed in general to
+    empirical, can only mean _a priori_. Again, in the phrase
+    'pure _a priori_' (B. 4 fin., M. 3 med.), the context shows
+    that 'pure' adds nothing to '_a priori_', and the proposition
+    'every change must have a cause' is expressly given as an
+    instance of pure _a priori_ knowledge. The inconsistency of
+    this treatment of the causal rule is explained by the fact
+    that in the former passage he is thinking of the conception
+    of change as empirical, while in the latter he is thinking of
+    the judgement as not empirical. At bottom in this passage
+    'pure' simply means _a priori_.
+
+The tests given are necessity and strict universality.[6] Since
+judgements which are necessary and strictly universal cannot be based
+on experience, their existence is said to indicate another source of
+knowledge. And Kant gives as illustrations, (1) any proposition in
+mathematics, and (2) the proposition 'Every change must have a cause'.
+
+    [6] In reality, these tests come to the same thing, for
+    necessity means the necessity of connexion between the
+    subject and predicate of a judgement, and since empirical
+    universality, to which strict universality is opposed, means
+    numerical universality, as illustrated by the proposition
+    'All bodies are heavy', the only meaning left for strict
+    universality is that of a universality reached not through an
+    enumeration of instances, but through the apprehension of a
+    necessity of connexion.
+
+So far Kant has said nothing which determines the positive meaning of
+_a priori_. A clue is, however, to be found in two subsequent phrases.
+He says that we may content ourselves with having established as a
+fact the pure use of our faculty of knowledge.[7] And he adds that not
+only in judgements, but even in conceptions, is an _a priori_ origin
+manifest.[8] The second statement seems to make the _a priori_
+character of a judgement consist in its origin. As this origin cannot
+be experience, it must, as the first statement implies, lie in our
+faculty of knowledge. Kant's point is that the existence of universal
+and necessary judgements shows that we must possess a faculty of
+knowledge capable of yielding knowledge without appeal to experience.
+The term _a priori_, then, has some reference to the existence of this
+faculty; in other words, it gives expression to a doctrine of 'innate
+ideas'. Perhaps, however, it is hardly fair to press the phrase
+'_test_ of _a priori_ judgements'. If so, it may be said that on the
+whole, by _a priori_ judgements Kant really means judgements which are
+universal and necessary, and that he regards them as implying a
+faculty which gives us knowledge without appeal to experience.
+
+    [7] B. 5, M. 4.
+
+    [8] Ibid.
+
+We may now turn to the term 'synthetic judgement'. Kant distinguishes
+analytic and synthetic judgements thus. In any judgement the predicate
+B either belongs to the subject A, as something contained (though
+covertly) in the conception A, or lies completely outside the
+conception A, although it stands in relation to it. In the former case
+the judgement is called analytic, in the latter synthetic.[9] 'All
+bodies are extended' is an analytic judgement; 'All bodies are heavy'
+is synthetic. It immediately follows that only synthetic judgements
+extend our knowledge; for in making an analytic judgement we are only
+clearing up our conception of the subject. This process yields no new
+knowledge, for it only gives us a clearer view of what we know
+already. Further, all judgements based on experience are synthetic,
+for it would be absurd to base an analytical judgement on experience,
+when to make the judgement we need not go beyond our own conceptions.
+On the other hand, _a priori_ judgements are sometimes analytic and
+sometimes synthetic. For, besides analytical judgements, all
+judgements in mathematics and certain judgements which underlie
+physics are asserted independently of experience, and they are
+synthetic.
+
+    [9] B. 10, M. 7.
+
+Here Kant is obviously right in vindicating the synthetic character of
+mathematical judgements. In the arithmetical judgement 7 + 5 = 12, the
+thought of certain units as a group of twelve is no mere repetition of
+the thought of them as a group of five added to a group of seven.
+Though the same units are referred to, they are regarded differently.
+Thus the thought of them as twelve means either that we think of them
+as formed by adding one unit to a group of eleven, or that we think of
+them as formed by adding two units to a group of ten, and so on. And
+the assertion is that the same units, which can be grouped in one way,
+can also be grouped in another. Similarly, Kant is right in pointing
+out that the geometrical judgement, 'A straight line between two
+points is the shortest,' is synthetic, on the ground that the
+conception of straightness is purely qualitative,[10] while the
+conception of shortest distance implies the thought of quantity.
+
+    [10] Straightness means identity of direction.
+
+It should now be an easy matter to understand the problem expressed
+by the question, 'How are _a priori_ synthetic judgements possible?'
+Its substance may be stated thus. The existence of _a posteriori_
+synthetic judgements presents no difficulty. For experience is
+equivalent to perception, and, as we suppose, in perception we are
+confronted with reality, and apprehend it as it is. If I am asked,
+'How do I know that my pen is black or my chair hard?' I answer that
+it is because I see or feel it to be so. In such cases, then, when my
+assertion is challenged, I appeal to my experience or perception of
+the reality to which the assertion relates. My appeal raises no
+difficulty because it conforms to the universal belief that if
+judgements are to rank as knowledge, they must be made to conform to
+the nature of things, and that the conformity is established by appeal
+to actual experience of the things. But do _a priori_ synthetic
+judgements satisfy this condition? Apparently not. For when I assert
+that every straight line is the shortest way between its extremities,
+I have not had, and never can have, experience of all possible
+straight lines. How then can I be sure that all cases will conform to
+my judgement? In fact, how can I anticipate my experience at all? How
+can I make an assertion about any individual until I have had actual
+experience of it? In an _a priori_ synthetic judgement the mind in
+some way, in virtue of its own powers and independently of experience,
+makes an assertion to which it claims that reality must conform. Yet
+why should reality conform? _A priori_ judgements of the other
+kind, viz. analytic judgements, offer no difficulty, since they
+are at bottom tautologies, and consequently denial of them is
+self-contradictory and meaningless. But there is difficulty where a
+judgement asserts that a term B is connected with another term A, B
+being neither identical with nor a part of A. In this case there is no
+contradiction in asserting that A is not B, and it would seem that
+only experience can determine whether all A is or is not B. Otherwise
+we are presupposing that things must conform to our ideas about them.
+Now metaphysics claims to make _a priori_ synthetic judgements, for it
+does not base its results on any appeal to experience. Hence, before
+we enter upon metaphysics, we really ought to investigate our right to
+make _a priori_ synthetic judgements at all. Therein, in fact, lies
+the importance to metaphysics of the existence of such judgements in
+mathematics and physics. For it shows that the difficulty is not
+peculiar to metaphysics, but is a general one shared by other
+subjects; and the existence of such judgements in mathematics is
+specially important because there their validity or certainty has
+never been questioned.[11] The success of mathematics shows that at any
+rate under certain conditions _a priori_ synthetic judgements are
+valid, and if we can determine these conditions, we shall be able to
+decide whether such judgements are possible in metaphysics. In this
+way we shall be able to settle a disputed case of their validity by
+examination of an undisputed case. The general problem, however, is
+simply to show what it is which makes _a priori_ synthetic judgements
+as such possible; and there will be three cases, those of mathematics,
+of physics, and of metaphysics.
+
+    [11] Kant points out that this certainty has usually been
+    attributed to the analytic character of mathematical
+    judgements, and it is of course vital to his argument that
+    he should be successful in showing that they are really
+    synthetic.
+
+The outline of the solution of this problem is contained in the
+Preface to the Second Edition. There Kant urges that the key is to be
+found by consideration of mathematics and physics. If the question be
+raised as to what it is that has enabled these subjects to advance, in
+both cases the answer will be found to lie in a change of method.
+"Since the earliest times to which the history of human reason
+reaches, mathematics has, among that wonderful nation the Greeks,
+followed the safe road of a science. Still it is not to be supposed
+that it was as easy for this science to strike into, or rather to
+construct for itself, that royal road, as it was for logic, in which
+reason has only to do with itself. On the contrary, I believe that it
+must have remained long in the stage of groping (chiefly among the
+Egyptians), and that this change is to be ascribed to a _revolution_,
+due to the happy thought of one man, through whose experiment the path
+to be followed was rendered unmistakable for future generations, and
+the certain way of a science was entered upon and sketched out once
+for all.... A new light shone upon the first man (Thales, or whatever
+may have been his name) who demonstrated the properties of the
+isosceles triangle; for he found that he ought not to investigate
+that which he saw in the figure or even the mere conception of the
+same, and learn its properties from this, but that he ought to produce
+the figure by virtue of that which he himself had thought into it _a
+priori_ in accordance with conceptions and had represented (by means
+of a construction), and that in order to know something with certainty
+_a priori_ he must not attribute to the figure any property other than
+that which necessarily follows from that which he has himself
+introduced into the figure, in accordance with his conception."[12]
+
+    [12] B. x-xii, M. xxvi.
+
+Here Kant's point is as follows. Geometry remained barren so long as
+men confined themselves either to the empirical study of individual
+figures, of which the properties were to be discovered by observation,
+or to the consideration of the mere conception of various kinds of
+figure, e. g. of an isosceles triangle. In order to advance, men had
+in some sense to produce the figure through their own activity, and in
+the act of constructing it to recognize that certain features were
+necessitated by those features which they had given to the figure in
+constructing it. Thus men had to make a triangle by drawing three
+straight lines so as to enclose a space, and then to recognize that
+three angles must have been made by the same process. In this way the
+mind discovered a general rule, which must apply to all cases, because
+the mind itself had determined the nature of the cases. A property B
+follows from a nature A; all instances of A must possess the property
+B, because they have solely that nature A which the mind has given
+them and whatever is involved in A. The mind's own rule holds good in
+all cases, because the mind has itself determined the nature of the
+cases.
+
+Kant's statements about physics, though not the same, are analogous.
+Experiment, he holds, is only fruitful when reason does not follow
+nature in a passive spirit, but compels nature to answer its own
+questions. Thus, when Torricelli made an experiment to ascertain
+whether a certain column of air would sustain a given weight, he had
+previously calculated that the quantity of air was just sufficient to
+balance the weight, and the significance of the experiment lay in his
+expectation that nature would conform to his calculations and in the
+vindication of this expectation. Reason, Kant says, must approach
+nature not as a pupil but as a judge, and this attitude forms the
+condition of progress in physics.
+
+The examples of mathematics and physics suggest, according to Kant,
+that metaphysics may require a similar revolution of standpoint, the
+lack of which will account for its past failure. An attempt should
+therefore be made to introduce such a change into metaphysics. The
+change is this. Hitherto it has been assumed that our knowledge must
+conform to objects. This assumption is the real cause of the failure
+to extend our knowledge _a priori_, for it limits thought to the
+analysis of conceptions, which can only yield tautological judgements.
+Let us therefore try the effect of assuming that objects must conform
+to our knowledge. Herein lies the Copernican revolution. We find that
+this reversal of the ordinary view of the relation of objects to the
+mind enables us for the first time to understand the possibility of _a
+priori_ synthetic judgements, and even to demonstrate certain laws
+which lie at the basis of nature, e. g. the law of causality. It is
+true that the reversal also involves the surprising consequence that
+our faculty of knowledge is incapable of dealing with the objects of
+metaphysics proper, viz. God, freedom, and immortality, for the
+assumption limits our knowledge to objects of possible experience. But
+this very consequence, viz. the impossibility of metaphysics, serves
+to test and vindicate the assumption. For the view that our knowledge
+conforms to objects as things in themselves leads us into an insoluble
+contradiction when we go on, as we must, to seek for the
+unconditioned; while the assumption that objects must, as phenomena,
+conform to our way of representing them, removes the contradiction[13].
+Further, though the assumption leads to the denial of speculative
+knowledge in the sphere of metaphysics, it is still possible that
+reason in its practical aspect may step in to fill the gap. And the
+negative result of the assumption may even have a positive value. For
+if, as is the case, the moral reason, or reason in its practical
+aspect, involves certain postulates concerning God, freedom, and
+immortality, which are rejected by the speculative reason, it is
+important to be able to show that these objects fall beyond the scope
+of the speculative reason. And if we call reliance on these
+postulates, as being presuppositions of morality, faith, we may say
+that knowledge must be abolished to make room for faith.
+
+    [13] Cf. pp. 101-2.
+
+This answer to the main problem, given in outline in the Preface, is
+undeniably plausible. Yet examination of it suggests two criticisms
+which affect Kant's general position.
+
+In the first place, the parallel of mathematics which suggests the
+'Copernican' revolution does not really lead to the results which Kant
+supposes. Advance in mathematics is due to the adoption not of any
+conscious assumption but of a certain procedure, viz. that by which we
+draw a figure and thereby see the necessity of certain relations
+within it. To preserve the parallel, the revolution in metaphysics
+should have consisted in the adoption of a similar procedure, and
+advance should have been made dependent on the application of an at
+least quasi-mathematical method to the objects of metaphysics.
+Moreover, since these objects are God, freedom, and immortality, the
+conclusion should have been that we ought to study God, freedom, and
+immortality by somehow constructing them in perception and thereby
+gaining insight into the necessity of certain relations. Success or
+failure in metaphysics would therefore consist simply in success or
+failure to see the necessity of the relations involved. Kant, however,
+makes the condition of advance in metaphysics consist in the adoption
+not of a method of procedure but of an assumption, viz. that objects
+conform to the mind. And it is impossible to see how this assumption
+can assist what, on Kant's theory, it ought to have assisted, viz. the
+study of God, freedom, and immortality, or indeed the study of
+anything. In geometry we presuppose that individual objects conform to
+the universal rules of relation which we discover. Now suppose we
+describe a geometrical judgement, e. g. that two straight lines cannot
+enclose a space, as a mental law, because we are bound to think it
+true. Then we may state the presupposition by saying that objects,
+e. g. individual pairs of straight lines, must conform to such a mental
+law. But the explicit recognition of this presupposition and the
+conscious assertion of it in no way assist the solution of particular
+geometrical problems. The presupposition is really a condition of
+geometrical thinking at all. Without it there is no geometrical
+thinking, and the recognition of it places us in no better position
+for the study of geometrical problems. Similarly, if we wish to think
+out the nature of God, freedom, and immortality, we are not assisted
+by assuming that these objects must conform to the laws of our
+thinking. We must presuppose this conformity if we are to think at
+all, and consciousness of the presupposition puts us in no better
+position. What is needed is an insight similar to that which we have
+in geometry, i. e. an insight into the necessity of the relations
+under consideration such as would enable us to see, for example, that
+being a man, as such, involves living for ever.
+
+Kant has been led into the mistake by a momentary change in the
+meaning given to 'metaphysics'. For the moment he is thinking of
+metaphysics, not as the inquiry concerned with God, freedom, and
+immortality, but as the inquiry which has to deal with the problem as
+to how we can know _a priori_. This problem is assisted, at any rate
+prima facie, by the assumption that things must conform to the mind.
+And this assumption can be said to be suggested by mathematics,
+inasmuch as the mathematician presupposes that particular objects must
+correspond to the general rules discovered by the mind. From this
+point of view Kant's only mistake, if the parallelism is to be
+maintained, is that he takes for an assumption which enables the
+mathematician to advance a metaphysical presupposition of the advance,
+on which the mathematician never reflects, and awareness of which
+would in no way assist his mathematics.
+
+In the second place the 'Copernican' revolution is not strictly the
+revolution which Kant supposes it to be. He speaks as though his aim
+is precisely to reverse the ordinary view of the relation of the mind
+to objects. Instead of the mind being conceived as having to conform
+to objects, objects are to be conceived as having to conform to the
+mind. But if we consider Kant's real position, we see that these views
+are only verbally contrary, since the word object refers to something
+different in each case. On the ordinary view objects are something
+outside the mind, in the sense of independent of it, and the ideas,
+which must conform to objects, are something within the mind, in the
+sense of dependent upon it. The conformity then is of something within
+the mind to something outside it. Again, the conformity means that one
+of the terms, viz. the object, exists first and that then the other
+term, the idea, is fitted to or made to correspond to it. Hence the
+real contrary of this view is that ideas, within the mind, exist first
+and that objects outside the mind, coming into existence afterwards,
+must adapt themselves to the ideas. This of course strikes us as
+absurd, because we always think of the existence of the object as the
+presupposition of the existence of the knowledge of it; we do not
+think the existence of the knowledge as the presupposition of the
+existence of the object. Hence Kant only succeeds in stating the
+contrary of the ordinary view with any plausibility, because in doing
+so he makes the term object refer to something which like 'knowledge'
+is within the mind. His position is that objects within the mind must
+conform to our general ways of knowing. For Kant, therefore, the
+conformity is not between something within and something without the
+mind, but between two realities within the mind, viz. the individual
+object, as object of perception, i. e. a phenomenon, and our general
+ways of perceiving and thinking. But this view is only verbally the
+contrary of the ordinary view, and consequently Kant does not succeed
+in reversing the ordinary view that we know objects independent of or
+outside the mind, by bringing our ideas into conformity with them. In
+fact, his conclusion is that we do not know this object, i. e. the
+thing in itself, at all. Hence his real position should be stated by
+saying not that the ordinary view puts the conformity between mind and
+things in the wrong way, but that we ought not to speak of conformity
+at all. For the thing in itself being unknowable, our ideas can never
+be made to conform to it. Kant then only reaches a conclusion which is
+apparently the reverse of the ordinary view by substituting another
+object for the thing in itself, viz. the phenomenon or appearance of
+the thing in itself to us.
+
+Further, this second line of criticism, if followed out, will be found
+to affect his statement of the problem as well as that of its
+solution. It will be seen that the problem is mis-stated, and that the
+solution offered presupposes it to be mis-stated. His statement of the
+problem takes the form of raising a difficulty which the existence of
+_a priori_ knowledge presents to the ordinary view, according to which
+objects are independent of the mind, and ideas must be brought into
+conformity with them. In a synthetic _a priori_ judgement we claim to
+discover the nature of certain objects by an act of our thinking, and
+independently of actual experience of them. Hence if a supporter of
+the ordinary view is asked to justify the conformity of this judgement
+or idea with the objects to which it relates, he can give no answer.
+The judgement having _ex hypothesi_ been made without reference to the
+objects, the belief that the objects must conform to it is the merely
+arbitrary supposition that a reality independent of the mind must
+conform to the mind's ideas. But Kant, in thus confining the
+difficulty to _a priori_ judgements, implies that empirical judgements
+present no difficulty to the ordinary view; since they rest upon
+actual experience of the objects concerned, they are conformed to the
+objects by the very process through which they arise. He thereby fails
+to notice that empirical judgements present a precisely parallel
+difficulty. It can only be supposed that the conformity of empirical
+judgements to their objects is guaranteed by the experience upon which
+they rest, if it be assumed that in experience we apprehend objects as
+they are. But our experience or perception of individual objects is
+just as much mental as the thinking which originates _a priori_
+judgements. If we can question the truth of our thinking, we can
+likewise question the truth of our perception. If we can ask whether
+our ideas must correspond to their objects, we can likewise ask
+whether our perceptions must correspond to them. The problem relates
+solely to the correspondence between something within the mind and
+something outside it; it applies equally to perceiving and thinking,
+and concerns all judgements alike, empirical as well as _a priori_.
+Kant, therefore, has no right to imply that empirical judgements raise
+no problem, if he finds difficulty in _a priori_ judgements. He is
+only able to draw a distinction between them, because, without being
+aware that he is doing so, he takes account of the relation of the
+object to the subject in the case of an _a priori_ judgement, while in
+the case of an empirical judgement he ignores it. In other words, in
+dealing with the general connexion between the qualities of an
+object, he takes into account the fact that we are thinking it, but,
+in dealing with the perception of the coexistence of particular
+qualities of an object, he ignores the fact that we are perceiving it.
+Further, that the real problem concerns all synthetic judgements alike
+is shown by the solution which he eventually reaches. His conclusion
+turns out to be that while both empirical and _a priori_ judgements
+are valid of phenomena, they are not valid of things in themselves;
+i. e. that of things in themselves we know nothing at all, not even
+their particular qualities. Since, then, his conclusion is that even
+empirical judgements are not valid of things in themselves, it shows
+that the problem cannot be confined to _a priori_ judgements, and
+therefore constitutes an implicit criticism of his statement of the
+problem.
+
+Must there not, however, be some problem peculiar to _a priori_
+judgements? Otherwise why should Kant have been led to suppose that
+his problem concerned them only? Further consideration will show that
+there is such a problem, and that it was only owing to the mistake
+indicated that Kant treated this problem as identical with that of
+which he actually offered a solution. In the universal judgements of
+mathematics we apprehend, as we think, general rules of connexion
+which must apply to all possible cases. Such judgements, then,
+presuppose a conformity between the connexions which we discover and
+all possible instances. Now Kant's treatment of this conformity as a
+conformity between our ideas and things has two implications. In the
+first place, it implies, as has been pointed out, that relation to the
+subject, as thinking, is taken into account in the case of the
+universal connexion, and that relation to the subject, as perceiving,
+is ignored in the case of the individual thing. In the second place,
+it implies that what is related to the subject as the object of its
+thought must be subjective or mental; that because we have to think
+the general connexion, the connexion is only our own idea, the
+conformity of things to which may be questioned. But the treatment, to
+be consistent, should take account of relation to the subject in both
+cases or in neither. If the former alternative be accepted, then the
+subjective character attributed by Kant in virtue of this relation to
+what is object of thought, and equally attributable to what is object
+of perception, reduces the problem to that of the conformity in
+general of all ideas, including perceptions, within the mind to things
+outside it; and this problem does not relate specially to _a priori_
+judgements. To discover the problem which relates specially to them,
+the other alternative must be accepted, that of ignoring relation to
+the subject in both cases. The problem then becomes 'What renders
+possible or is presupposed by the conformity of individual things to
+certain laws of connexion?' And, inasmuch as to deny the conformity is
+really to deny that there are laws of connexion,[14] the problem
+reduces itself to the question, 'What is the presupposition of the
+existence of definite laws of connexion in the world?' And the only
+answer possible is that reality is a system or a whole of connected
+parts, in other words, that nature is uniform. Thus it turns out that
+the problem relates to the uniformity of nature, and that the
+question 'How are _a priori_ synthetic judgements possible?' has in
+reality nothing to do with the problem of the relation of reality to
+the knowing subject, but is concerned solely with the nature of
+reality.
+
+    [14] To object that the laws in question, being laws which we
+    have thought, may not be the true laws, and that therefore
+    there may still be other laws to which reality conforms, is
+    of course to reintroduce relation to the thinking subject.
+
+Further, it is important to see that the alternative of ignoring
+relation to the subject is the right one, not only from the point of
+view of the problem peculiar to _a priori_ judgements, but also from
+the point of view of the nature of knowledge in general. Perceiving
+and thinking alike presuppose that reality is immediately object of
+the mind, and that the act of apprehension in no way affects or enters
+into the nature of what we apprehend about reality. If, for instance,
+I assert on the strength of perception that this table is round, I
+imply that I see the table, and that the shape which I judge it to
+have is not affected by the fact that I am perceiving it; for I mean
+that the table really is round. If some one then convinces me that I
+have made a mistake owing to an effect of foreshortening, and that the
+table is really oval, I amend my assertion, not by saying that the
+table is round but only to my apprehension, but by saying that it
+looks round. Thereby I cease to predicate roundness of the table
+altogether; for I mean that while it still looks round, it is not
+really so. The case of universal judgements is similar. The statement
+that a straight line is the shortest distance between its extremities
+means that it really is so. The fact is presupposed to be in no way
+altered by our having apprehended it. Moreover, reality is here just
+as much implied to be directly object of the mind as it is in the case
+of the singular judgement. Making the judgement consists, as we say,
+in _seeing_ the connexion between the direction between two points
+and the shortest distance between them. The connexion of real
+characteristics is implied to be directly object of thought.[16] Thus
+both perceiving and thinking presuppose that the reality to which they
+relate is directly object of the mind, and that the character of it
+which we apprehend in the resulting judgement is not affected or
+altered by the fact that we have had to perceive or conceive the
+reality.[17]
+
+    [15] Cf. Bosanquet, _Logic_, vol. ii, p. 2.
+
+    [16] In saying that a universal judgement is an immediate
+    apprehension of fact, it is of course not meant that it can
+    be actualized by itself or, so to say, _in vacuo_. Its
+    actualization obviously presupposes the presentation of
+    individuals in perception or imagination. Perception or
+    imagination thus forms the necessary occasion of a universal
+    judgement, and in that sense mediates it. Moreover, the
+    universal judgement implies an act of abstraction by which
+    we specially attend to those universal characters of the
+    individuals perceived or imagined, which enter into the
+    judgement. But, though our apprehension of a universal
+    connexion thus implies a process, and is therefore mediated,
+    yet the connexion, when we apprehend it, is immediately our
+    object. There is nothing between it and us.
+
+    [17] For a fuller discussion of the subject see Chh. IV and
+    VI.
+
+Kant in the formulation of his problem implicitly admits this
+presupposition in the case of perception. He implies that empirical
+judgements involve no difficulty, because they rest upon the
+perception or experience of the objects to which they relate. On the
+other hand, he does not admit the presupposition in the case of
+conception, for he implies that in _a priori_ judgements we are not
+confronted with reality but are confined to our own ideas. Hence we
+ought to ask why Kant is led to adopt an attitude in the latter case
+which he does not adopt in the former. The answer appears to be
+twofold. In the first place, there is an inveterate tendency to think
+of universals, and therefore of the connexions between them, as being
+not objective realities[18] but mere ideas. In other words, we tend to
+adopt the conceptualist attitude, which regards individuals as the
+only reality, and universals as mental fictions. In consequence, we
+are apt to think that while in perception, which is of the individual,
+we are confronted by reality, in universal judgements, in which we
+apprehend connexions between universals, we have before us mere ideas.
+Kant may fairly be supposed to have been unconsciously under the
+influence of this tendency. In the second place, we apprehend a
+universal connexion by the operation of thinking. Thinking is
+essentially an activity; and since activity in the ordinary sense in
+which we oppose action to knowledge originates something, we tend to
+think of the activity of thinking as also originating something, viz.
+that which is our object when we think. Hence, since we think of what
+is real as independent of us and therefore as something which we may
+discover but can in no sense make, we tend to think of the object of
+thought as only an idea. On the other hand, what is ordinarily called
+perception, though it involves the activity of thinking, also involves
+an element in respect of which we are passive. This is the fact
+pointed to by Kant's phrase 'objects are _given_ in perception'. In
+virtue of this passive element we are inclined to think that in
+perception we simply stand before the reality in a passive attitude.
+The reality perceived is thought to be, so to say, there, existing
+independently of us; relation to the subject is unnoticed because of
+our apparently wholly passive attitude. At times, and especially when
+he is thinking of the understanding as a faculty of spontaneity, Kant
+seems to have been under the influence of this second tendency.
+
+    [18] i. e. as not having a place in the reality which, as we
+    think, exists independently of the mind.
+
+The preceding summary of the problem of the _Critique_ represents the
+account given in the two Prefaces and the Introduction. According to
+this account, the problem arises from the unquestioned existence of _a
+priori_ knowledge in mathematics and physics and the problematic
+existence of such knowledge in metaphysics, and Kant's aim is to
+determine the range within which _a priori_ knowledge is possible.
+Thus the problem is introduced as relating to _a priori_ knowledge as
+such, no distinction being drawn between its character in different
+cases. Nevertheless the actual discussion of the problem in the body
+of the _Critique_ implies a fundamental distinction between the nature
+of _a priori_ knowledge in mathematics and its nature in physics, and
+in order that a complete view of the problem may be given, this
+distinction must be stated.
+
+The 'Copernican' revolution was brought about by consideration of the
+facts of mathematics. Kant accepted as an absolute starting-point the
+existence in mathematics of true universal and necessary judgements.
+He then asked, 'What follows as to the nature of the objects known in
+mathematics from the fact that we really know them?' Further, in his
+answer he accepted a distinction which he never examined or even
+questioned, viz. the distinction between things in themselves and
+phenomena.[19] This distinction assumed, Kant inferred from the truth
+of mathematics that things in space and time are only phenomena.
+According to him mathematicians are able to make the true judgements
+that they do make only because they deal with phenomena. Thus Kant in
+no way sought to _prove_ the truth of mathematics. On the contrary, he
+argued from the truth of mathematics to the nature of the world which
+we thereby know. The phenomenal character of the world being thus
+established, he was able to reverse the argument and to regard the
+phenomenal character of the world as _explaining_ the validity of
+mathematical judgements. They are valid, because they relate to
+phenomena. And the consideration which led Kant to take mathematics
+as his starting-point seems to have been the self-evidence of
+mathematical judgements. As we directly apprehend their necessity,
+they admit of no reasonable doubt.
+
+    [19] Cf. Ch. IV. This distinction should of course have been
+    examined by one whose aim it was to determine how far our
+    knowledge can reach.
+
+    [20] For the self-evidence of mathematics to Kant compare B.
+    120, M. 73 and B. 200, M. 121.
+
+On the other hand, the general principles underlying physics, e. g.
+that every change must have a cause, or that in all change the quantum
+of matter is constant, appeared to Kant in a different light. Though
+certainly not based on experience, they did not seem to him
+self-evident.[21] Hence,[22] in the case of these principles, he
+sought to give what he did not seek to give in the case of
+mathematical judgements, viz. a proof of their truth.[23] The nerve of
+the proof lies in the contention that these principles are involved
+not merely in any general judgement in physics, e. g. 'All bodies are
+heavy,' but even in any singular judgement, e. g. 'This body is
+heavy,' and that the validity of singular judgements is universally
+conceded. Thus here the fact upon which he takes his stand is not the
+admitted truth of the universal judgements under consideration, but
+the admitted truth of any singular judgement in physics. His
+treatment, then, of the universal judgements of mathematics and that
+of the principles underlying physics are distinguished by the fact
+that, while he accepts the former as needing no proof, he seeks to
+prove the latter from the admitted validity of singular judgements in
+physics. At the same time the acceptance of mathematical judgements
+and the proof of the _a priori_ principles of physics have for Kant a
+common presupposition which distinguishes mathematics and physics from
+metaphysics. Like universal judgements in mathematics, singular
+judgements in physics, and therefore the principles which they
+presuppose, are true only if the objects to which they relate are
+phenomena. Both in mathematics and physics, therefore, it is a
+condition of _a priori_ knowledge that it relates to phenomena and not
+to things in themselves. But, just for this reason, metaphysics is in
+a different position; since God, freedom, and immortality can never be
+objects of experience, _a priori_ knowledge in metaphysics, and
+therefore metaphysics itself, is impossible. Thus for Kant the very
+condition, the realization of which justifies the acceptance of
+mathematical judgements and enables us to prove the principles of
+physics, involves the impossibility of metaphysics.
+
+    [21] This is stated B. 200, M. 121. It is also implied B.
+    122, M. 75, B. 263-4, M. 160, and by the argument of the
+    _Analytic_ generally.
+
+    [22] This appears to be the real cause of the difference of
+    treatment, though it is not the reason assigned by Kant
+    himself, cf. B. 120, M. 73-4.
+
+    [23] His remarks about pure natural science in B. 20, M. 13
+    and Prol. § 4 sub fin., do not represent the normal attitude
+    of the _Critique_.
+
+Further, the distinction drawn between _a priori_ judgements in
+mathematics and in physics is largely responsible for the difficulty
+of understanding what Kant means by _a priori_. His unfortunate
+tendency to explain the term negatively could be remedied if it could
+be held either that the term refers solely to mathematical judgements
+or that he considers the truth of the law of causality to be
+apprehended in the same way that we see that two and two are four. For
+an _a priori_ judgement could then be defined as one in which the
+mind, on the presentation of an individual in perception or
+imagination, and in virtue of its capacity of thinking, apprehends the
+necessity of a specific relation. But this definition is precluded by
+Kant's view that the law of causality and similar principles, though
+_a priori_, are not self-evident.
+
+
+
+

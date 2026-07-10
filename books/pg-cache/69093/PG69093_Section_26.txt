@@ -1,0 +1,1086 @@
+CHAPTER VII.
+
+OF THE ESTABLISHMENT OF THE PRINCIPLES OF DYNAMICS.
+
+
+1. IN the History of Mechanics, I have traced the steps by
+which the three Laws of Motion and the other principles of
+mechanics were discovered, established, and extended to the
+widest generality of form and application. We have, in these
+laws, examples of principles which were, historically
+speaking, obtained by reference to experience. Bearing in
+mind the object and the result of the preceding discussions,
+we cannot but turn with much interest to examine these
+portions of science; to inquire whether there be any real
+difference in the grounds and nature between the knowledge
+thus obtained, and those truths which we have already
+contemplated; and which, as we have seen, contain their own
+evidence, and do not require proof from experiment.
+
+2. _The First Law of Motion._--The first law of motion is,
+that _When a body moves not acted upon by any force, it will
+go on perpetually in a straight line, and with a uniform
+velocity._ Now what is the real ground of our assent to this
+proposition? That it is not at first sight a self-evident
+truth, appears to be clear; since from the time of Aristotle
+to that of Galileo the opposite assertion was held to be
+true; and it was believed that all bodies in motion had, by
+their own nature, a constant tendency to move more and more
+slowly, so as to stop at last. This belief, indeed, is
+probably even now entertained by most persons, till their
+attention is fixed upon the arguments by which the first law
+of motion is established. It is, however, not difficult to
+lead any person of a speculative habit {236} of thought to
+see that the retardation which constantly takes place in the
+motion of all bodies when left to themselves, is, in
+reality, the effect of extraneous forces which destroy the
+velocity. A top ceases to spin because the friction against
+the ground and the resistance of the air gradually diminish
+its motion, and not because its motion has any internal
+principle of decay or fatigue. This may be shown, and was,
+in fact, shown by Hooke before the Royal Society, at the
+time when the laws of motion were still under discussion, by
+means of experiments in which the weight of the top is
+increased, and the resistance to motion offered by its
+support, is diminished; for by such contrivances its motion
+is made to continue much longer than it would otherwise do.
+And by experiments of this nature, although we can never
+remove the whole of the external impediments to continued
+motion, and although, consequently, there will always be
+some retardation; and an end of the motion of a body left to
+itself, however long it may be delayed, must at last come;
+yet we can establish a conviction that if all resistance
+could be removed, there would be no diminution of velocity,
+and thus the motion would go on for ever.
+
+If we call to mind the axioms which we formerly stated, as
+containing the most important conditions involved in the
+idea of Cause, it will be seen that our conviction in this
+case depends upon the first axiom of Causation, that nothing
+can happen without a cause. Every change in the velocity of
+the moving body must have a cause; and if the change can, in
+any manner, be referred to the presence of other bodies,
+these are said to exert _force_ upon the moving body: and
+the conception of force is thus evolved from the general
+idea of cause. _Force is any cause which has motion, or
+change of motion, for its effect_; and thus, all the change
+of velocity of a body which can be referred to extraneous
+bodies,--as the air which surrounds it, or the support on
+which it rests,--is considered as the effect of forces; and
+this consideration is looked upon as explaining the
+difference between the motion which really takes places in
+the experiment, and that motion {237} which, as the law
+asserts, would take place if the body were not acted on by
+any forces.
+
+Thus the truth of the first law of motion depends upon the
+axiom that no change can take place without a cause; and
+follows from the definition of force, if we suppose that
+there can be none but an _external_ cause of change. But in
+order to establish the law, it was necessary further to be
+assured that there is no _internal_ cause of change of
+velocity belonging to all matter whatever, and operating in
+such a manner that the mere progress of time is sufficient
+to produce a diminution of velocity in all moving bodies. It
+appears from the history of mechanical science, that this
+latter step required a reference to observation and
+experiment; and that the first law of motion is so far,
+historically at least, dependent upon our experience.
+
+But notwithstanding this historical evidence of the need
+which we have of a reference to observed facts, in order to
+place this first law of motion out of doubt, it has been
+maintained by very eminent mathematicians and philosophers,
+that the law is, in truth, evident of itself, and does not
+really rest upon experimental proof. Such, for example, is
+the opinion of d'Alembert[20\3], who offers what is called
+an _à priori_ proof of this law; that is, a demonstration
+derived from our ideas alone. When a body is put in motion,
+either, he says, the cause which puts it in motion at first,
+suffices to make it move one foot, or the continued action
+of the cause during this foot is requisite for the motion.
+In the first case, the same reason which made the body
+proceed to the end of the first foot will hold for its going
+on through a second, a third, a fourth foot, and so on for
+any number. In the second case, the same reason which made
+the force continue to act during the first foot, will hold
+for its acting, and therefore for the body moving during
+each succeeding foot. And thus the body, once beginning to
+move, must go on moving for ever.
+
+[Note 20\3: _Dynamique._]
+
+{238} It is obvious that we might reply to this argument,
+that the reasons for the body proceeding during each
+succeeding foot may not necessarily be all the same; for
+among these reasons may be the time which has elapsed; and
+thus the velocity may undergo a change as the time proceeds:
+and we require observation to inform us that it does not do so.
+
+Professor Playfair has presented nearly the same argument,
+although in a different and more mathematical form[21\3]. If
+the velocity change, says he, it must change according to
+some expression of calculation depending upon the time, or,
+in mathematical language, must be a _function_ of the time.
+If the velocity diminish as the time increases, this may be
+expressed by stating the velocity in each case as a certain
+number, from which another quantity, or _term_, increasing
+as the time increases, is subtracted. But, Playfair adds,
+there is no condition involved in the nature of the case, by
+which the _coefficients_, or numbers which are to be
+employed, along with the number representing the time, in
+calculating this second term, can be determined to be of one
+magnitude rather than of any other. Therefore he infers
+there can be no such coefficients, and that the velocity is
+in each case equal to some constant number, independent of
+the time; and is therefore the same for all times.
+
+[Note 21\3: _Outlines of Natural Philosophy_, p. 26.]
+
+In reply to this we may observe, that the circumstance of
+_our not seeing_ in the nature of the case anything which
+determines for us the coefficients above spoken of, cannot
+prove that they have not some certain value _in nature_. We
+do not see in the nature of the case anything which should
+determine a body to fall sixteen feet in a second of time,
+rather than one foot or one hundred feet: yet in fact the
+space thus run through by falling bodies is determined to a
+certain magnitude. It would be easy to assign a mathematical
+expression for the velocity of a body, implying that
+one-hundredth of the velocity, or any other {239} fraction,
+is lost in each second[22\3]: and where is the absurdity of
+supposing such an expression really to represent the
+velocity?
+
+[Note 22\3:  This would be the case, if, _t_ being the
+number of seconds elapsed, and _C_ some constant quantity,
+the velocity were expressed by this mathematical formula,
+_C_(99/100)^_t_.]
+
+Most modern writers on mechanics have embraced the opposite
+opinion, and have ascribed our knowledge of this first law
+of motion to experience. Thus M. Poisson, one of the most
+eminent of the mathematicians who have written on this
+subject, says[23\3], "We cannot affirm _à priori_ that the
+velocity communicated to a body will not become slower and
+slower of itself, and end by being entirely extinguished. It
+is only by experience and induction that this question can
+be decided."
+
+[Note 23\3: Poisson, _Dynamique_, ed. 2, art. 113.]
+
+Yet it cannot be denied that there is much force in those
+arguments by which it is attempted to show that the First
+Law of Motion, such as we find it, is more consonant to our
+conceptions than any other would be. The Law, as it exists,
+is the most simple that we can conceive. Instead of having
+to determine by experiments what is the law of the natural
+change of velocity, we find the Law to be that it does not
+change at all. To a certain extent, the Law depends upon the
+evident axiom, that no change can take place without a
+cause. But the question further occurs, whether the mere
+lapse of time may not be a cause of change of velocity. In
+order to ensure this, we have recourse to experiment; and
+the result is that time alone does not produce any such
+change. In addition to the conditions of change which we
+collect from our own Ideas, we ask of Experience what other
+conditions and circumstances she has to offer; and the
+answer is, that she can point out none; When we have removed
+the alterations which external causes, in our very
+conception of them, occasion, there are no longer any
+alterations. Instead of having to guide ourselves {240} by
+experience, we learn that on this subject she has nothing to
+tell us. Instead of having to take into account a number of
+circumstances, we find that we have only to reject all
+circumstances. The velocity of a body remains unaltered by
+time alone, of whatever kind the body itself be.
+
+But the doctrine that time alone is not a cause of change of
+velocity in any body is further recommended to us by this
+consideration;--that time is conceived by us not as a cause,
+but only as a condition of other causes producing their
+effects. Causes operate in time; but it is only when the
+cause exists, that the lapse of time can give rise to
+alterations. When therefore all external causes of change of
+velocity are supposed to be removed, the velocity must
+continue identical with itself, whatever the time which
+elapses. An eternity of negation can produce no positive
+result.
+
+Thus, though the discovery of the First Law of Motion was
+made, historically speaking, by means of experiment, we have
+now attained a point of view in which we see that it might
+have been certainly known to be true independently of
+experience. This law in its ultimate form, when completely
+simplified and steadily contemplated, assumes the character
+of a self-evident truth. We shall find the same process to
+take place in other instances. And this feature in the
+progress of science will hereafter be found to suggest very
+important views with regard both to the nature and prospects
+of our knowledge.
+
+3. _Gravity is a Uniform Force._--We shall find observations
+of the same kind offering themselves in a manner more or
+less obvious, with regard to the other principles of
+Dynamics. The determination of the laws according to which
+bodies fall downwards by the common action of gravity, has
+already been noticed in the History of Mechanics[24\3], as
+one of the earliest positive advances in the doctrine of
+motion. These laws were first rightly stated by Galileo, and
+{241} established by reasoning and by experiment, not
+without dissent and controversy. The amount of these
+doctrines is this: That gravity is a uniform accelerating
+force; such a _uniform force_ having this for its character,
+that it _makes the velocity increase in exact proportion to
+the time of motion_. The relation which the spaces described
+by the body bear to the times in which they are described,
+is obtained by mathematical deduction from this definition
+of the force.
+
+[Note 24\3: _Hist. Ind. Sc._ b. vi. c. ii. sect. 2.]
+
+The clear Definition of a uniform accelerating force, and
+the Proposition that gravity is such a force, were
+co-ordinate and contemporary steps in this discovery. In
+defining accelerating force, reference, tacit or express,
+was necessarily made to the second of the general axioms
+respecting causation,--That causes are measured by their
+effects. Force, in the cases now under our notice, is
+conceived to be, as we have already stated, (p. 236,) any
+cause which, acting from without, changes the motion of a
+body. It must, therefore, in this acceptation, be measured
+by the magnitude of the changes which are produced. But in
+what manner the changes of motion are to be employed as the
+measures of force, is learnt from observation of the facts
+which we see taking place in the world. Experience
+_interprets_ the axiom of causation, from which otherwise we
+could not deduce any real knowledge. We may assume, in
+virtue of our general conceptions of force, that under the
+same circumstances, a greater change of motion implies a
+greater force producing it; but what are we to expect when
+the circumstances change? The weight of a body makes it fall
+from rest at first, and causes it to move more quickly as it
+descends lower. We may express this by saying, that gravity,
+the universal force which makes all terrestrial bodies fall
+when not supported, by its continuous action first _gives_
+velocity to the body when it has none, and afterwards _adds_
+velocity to that which the body already has. But how is the
+velocity added proportioned to the velocity which already
+exists? Force acting on a body at rest, and on a body in
+motion, appears under very different {242} conditions;--how
+are the effects related? Let the force be conceived to be in
+both cases the same, since force is conceived to depend upon
+the extraneous bodies, and not upon the condition of the
+moving mass itself. But the force being the same, the
+effects may still be different. It is at first sight
+conceivable that the body, acted upon by the same gravity,
+may receive a less addition of velocity when it is already
+moving in the direction in which this gravity impels it; for
+if we ourselves push a body forwards, we can produce little
+additional effect upon it when it is already moving rapidly
+away from us. May it not be true, in like manner, that
+although gravity be always the same force, its effect
+depends upon the velocity which the body under its influence
+already possesses?
+
+Observation and reasoning combined, as we have said, enabled
+Galileo to answer these questions. He asserted and proved
+that we may consistently and properly measure a force by the
+velocity which is by it generated in a body, in some certain
+time, as one second; and further, that if we adopt this
+measure, gravity will be a force of the same value under all
+circumstances of the body which it affects; since it
+appeared that, in fact, a falling body does receive equal
+increments of velocity in equal times from first to last.
+
+If it be asked whether we could have known, anterior to, or
+independent of, experiment, that gravity is a uniform force
+in the sense thus imposed upon the term; it appears clear
+that we must reply, that we could not have attained to such
+knowledge, since other laws of the motion of bodies
+downwards are easily conceivable, and nothing but
+observation could inform us that one of these laws does not
+prevail in fact. Indeed, we may add, that the assertion that
+the force of gravity is uniform, is so far from being
+self-evident, that it is not even true; for gravity varies
+according to the distance from the center of the earth; and
+although this variation is so small as to be, in the case of
+falling bodies, imperceptible, it negatives the rigorous
+uniformity of the force as completely, though {243} not to
+the same extent, as if the weight of a body diminished in a
+marked degree, when it was carried from the lower to the
+upper room of a house. It cannot, then, be a truth
+independent of experience, that gravity is uniform.
+
+Yet, in fact, the assertion that gravity is uniform was
+assented to, not only before it was proved, but even before
+it was clearly understood. It was readily granted by all,
+that bodies which fall freely are _uniformly_ accelerated;
+but while some held the opinion just stated, that uniformly
+accelerated motion is that in which the velocity increases
+in proportion to the _time_, others maintained, that _that_
+is uniformly accelerated motion, in which the velocity
+increases in proportion to the _space_; so that, for
+example, a body in falling vertically through twenty feet
+should acquire twice as great a velocity as one which falls
+through ten feet.
+
+These two opinions are both put forward by the interlocutors
+of Galileo's Dialogue on this subject[25\3]. And the latter
+supposition is rejected, the author showing, not that it is
+inconsistent with experience, but that it is impossible in
+itself: inasmuch as it would inevitably lead to the
+conclusion, that the fall through a large and a small
+vertical space would occupy exactly the same time.
+
+[Note 25\3: _Dialogo_, iii. p. 95.]
+
+Indeed, Galileo assumes his definition of uniformly
+accelerated motion as one which is sufficiently recommended
+by its own simplicity. 'If we attend carefully,' he says,
+'we shall find that no mode of increase of velocity is more
+simple than that which adds equal increments in equal times.
+Which we may easily understand if we consider the close
+affinity of time and motion: for as the uniformity of motion
+is defined by the equality of spaces described in equal
+times, so we may conceive the uniformity of acceleration to
+exist when equal velocities are added in equal times.'
+
+Galileo's mode of supporting his opinion, that bodies
+falling by the action of gravity are thus uniformly {244}
+accelerated, consists, in the first place, in adducing the
+maxim that nature always employs the most simple
+means[26\3]. But he is far from considering this a decisive
+argument. 'I,' says one of his speakers, 'as it would be
+very unreasonable in me to gainsay this or any other
+definition which any author may please to make, since they
+are all arbitrary, may still, without offence, doubt whether
+such a definition, conceived and admitted in the abstract,
+fits, agrees, and is verified in that kind of accelerated
+motion which bodies have when they descend naturally.'
+
+[Note 26\3: _Dialogo_, iii. p. 91.]
+
+The experimental proof that bodies, when they fall
+downwards, are uniformly accelerated, is (by Galileo)
+derived from the inclined plane; and therefore assumes the
+proposition, that if such uniform acceleration prevail in
+vertical motion, it will also hold when a body is compelled
+to describe an oblique rectilinear path. This proposition
+may be shown to be true, if (assuming by anticipation the
+Third Law of Motion, of which we shall shortly have to
+speak,) we introduce the conception of a uniform statical
+force as the cause of uniform acceleration. For the force on
+the inclined plane bears a constant proportion to the
+vertical force, and this proportion is known from statical
+considerations. But in the work of which we are speaking,
+Galileo does not introduce this abstract conception of force
+as the foundation of his doctrines. Instead of this, he
+proposes, as a postulate sufficiently evident to be made the
+basis of his reasonings, That bodies which descend down
+inclined planes of different inclinations, but of the same
+vertical height, all acquire the same velocity[27\3]. But
+when this postulate has been propounded by one of the
+persons of the dialogue, another interlocutor says, 'You
+discourse very probably; but besides this likelihood, I wish
+to augment the probability so far, that it shall be almost
+as complete as a necessary demonstration.' He then proceeds
+to describe a very ingenious and simple experiment, which
+shows that when a body is made to swing upwards at the end
+of {245} a string, it attains to the same height, whatever
+is the path it follows, so long as it starts from the lowest
+point with the same velocity. And thus Galileo's postulate
+is experimentally confirmed, so far as the force of gravity
+can be taken as an example of the forces which the postulate
+contemplates: and conversely, gravity is proved to be a
+uniform force, so far as it can be considered clear that the
+postulate is true of uniform forces.
+
+[Note 276\3: _Dialogo_, iii. p. 36.]
+
+When we have introduced the conception and definition of
+accelerating force, Galileo's postulate, that bodies
+descending down inclined planes of the same vertical height,
+acquire the same velocity, may, by a few steps of reasoning,
+be demonstrated to be true of uniform forces: and thus the
+proof that gravity, either in vertical or oblique motion, is
+a uniform force, is confirmed by the experiment above
+mentioned; as it also is, on like grounds, by many other
+experiments, made upon inclined planes and pendulums.
+
+Thus the propriety of Galileo's conception of a uniform
+force, and the doctrine that gravity is a uniform force,
+were confirmed by the same reasonings and experiments. We
+may make here two remarks; _First_, that the conception,
+when established and rightly stated, appears so simple as
+hardly to require experimental proof; a remark which we have
+already made with regard to the First Law of Motion: and
+_Second_, that the discovery of the real law of nature was
+made by assuming propositions which, without further proof,
+we should consider as very precarious, and as far less
+obvious, as well as less evident, than the law of nature in
+its simple form.
+
+4. _The Second Law of Motion._--When a body, instead of
+falling downwards from rest, is thrown in any direction, it
+describes a curve line, till its motion is stopped. In this,
+and in all other cases in which a body describes a curved
+path in free space, its motion is determined by the Second
+Law of Motion. The law, in its general form, is as
+follows:--When a body is thus cast forth and acted upon by a
+force in a direction {246} transverse to its motion, the
+result is, That _there is combined with the motion with
+which the body is thrown, another motion, exactly the same
+as that which the same force would have communicated to a
+body at rest_.
+
+It will readily be understood that the basis of this law is
+the axiom already stated, that effects are measured by their
+causes. In virtue of this axiom, the effect of gravity
+acting upon a body in a direction transverse to its motion,
+must measure the accelerative or deflective force of gravity
+under those circumstances. If this effect vary with the
+varying velocity and direction of the body thus acted upon,
+the deflective force of gravity also will vary with those
+circumstances. The more simple supposition is, that the
+deflective force of gravity is the same, whatever be the
+velocity and direction of the body which is subjected to its
+influence: and this is the supposition which we find to be
+verified by facts. For example, a ball let fall from the top
+of a ship's upright mast, when she is sailing steadily
+forward, will fall at the foot of the mast, just as if it
+were let fall while the ship were at rest; thus showing that
+the motion which gravity gives to the ball is compounded
+with the horizontal motion which the ball shares with the
+ship from the first. This general and simple conception of
+motions as _compounded_ with one another, represents, it is
+proved, the manner in which the motion produced by gravity
+modifies any other motion which the body may previously have had.
+
+The discussions which terminated in the general reception of
+this Second Law of Motion among mechanical writers, were
+much mixed up with the arguments for and against the
+Copernican system, which system represented the earth as
+revolving upon its axis. For the obvious argument against
+this system was, that if each point of the earth's surface
+were thus in motion from west to east, a stone dropt from
+the top of a tower would be left behind, the tower moving
+away from it: and the answer was, that by this law of
+motion, the stone would have the earth's motion impressed
+upon it, as well as that motion which would {247} arise from
+its gravity to the earth; and that the motion of the stone
+relative to the tower would thus be the same as if both
+earth and tower were at rest. Galileo further urged, as a
+presumption in favour of the opinion that the two
+motions,--the circular motion arising from the rotation of
+the earth, and the downward motion arising from the gravity
+of the stone, would be compounded in the way we have
+described, (neither of them disturbing or diminishing the
+other,)--that the first motion was in its own nature not
+liable to any change or diminution[28\3], as we learn from
+the First Law of Motion. Nor was the subject lightly
+dismissed. The experiment of the stone let fall from the top
+of the mast was made in various forms by Gassendi; and in
+his Epistle, _De Motu impresso a Motore translato_, the rule
+now in question is supported by reference to these
+experiments. In this manner, the general truth, the Second
+Law of Motion, was established completely and beyond
+dispute.
+
+[Note 28\3: _Dialogo_, ii. p. 114.]
+
+But when this law had been proved to be true in a general
+sense, with such accuracy as rude experiments, like those of
+Galileo and Gassendi, would admit, it still remained to be
+ascertained (supposing our knowledge of the law to be the
+result of experience alone,) whether it were true with that
+precise and rigorous exactness which more refined modes of
+experimenting could test. We so willingly believe in the
+simplicity of laws of nature, that the rigorous accuracy of
+such a law, known to be at least approximately true, was
+taken for granted, till some ground for suspecting the
+contrary should appear. Yet calculations have not been
+wanting which might confirm the law as true to the last
+degree of accuracy. Laplace relates (_Syst. du Monde_, livre
+iv. chap. 16,) that at one time he had conceived it possible
+that the effect of gravity upon the moon might be slightly
+modified by the moon's direction and velocity; and that in
+this way an explanation might be found for the moon's
+_acceleration_ (a deviation of her observed from her
+calculated place, which long {248} perplexed
+mathematicians). But it was after some time discovered that
+this feature in the moon's motion arose from another cause;
+and the second law of motion was confirmed as true in the
+most rigorous sense.
+
+Thus we see that although there were arguments which might
+be urged in favour of this law, founded upon the necessary
+relations of ideas, men became convinced of its truth only
+when it was verified and confirmed by actual experiment. But
+yet in this case again, as in the former ones, when the law
+had been established beyond doubt or question, men were very
+ready to believe that it was not a mere result of
+observation,--that the truth which it contained was not
+derived from experience,--that it might have been assumed as
+true in virtue of reasonings anterior to experience,--and
+that experiments served only to make the law more plain and
+intelligible, as visible diagrams in geometry serve to
+illustrate geometrical truths; our knowledge not being (they
+deemed) in mechanics, any more than in geometry, borrowed
+from the senses. It was thought by many to be self-evident,
+that the effect of a force in any direction cannot be
+increased or diminished by any motion transverse to the
+direction of the force which the body may have at the same
+time: or, to express it otherwise, that if the motion of the
+body be compounded of a horizontal and vertical motion, the
+vertical motion alone will be affected by the vertical
+force. This principle, indeed, not only has appeared evident
+to many persons, but even at the present day is assumed as
+an axiom by many of the most eminent mathematicians. It is,
+for example, so employed in the _Mécanique Céleste_ of
+Laplace, which may be looked upon as the standard of
+mathematical mechanics in our time; and in the _Mécanique
+Analytique_ of Lagrange, the most consummate example which
+has appeared of subtilty of thought on such subjects, as
+well as of power of mathematical generalization[29\3]. And
+{249} thus we have here another example of that circumstance
+which we have already noticed in speaking of the First Law
+of Motion, (Art. 2 of this chapter,) and of the Law that
+Gravity is a uniform Force, (Art. 3); namely, that the law,
+though historically established by experiments, appears,
+when once discovered and reduced to its most simple and
+general form, to be self-evident. I am the more desirous of
+drawing attention to this feature in various portions of the
+history of science, inasmuch as it will be found to lead to
+some very extensive and important views, hereafter to be
+considered.
+
+[Note 29\3: I may observe that the rule that we may
+_compound_ motions, as the Law supposes, is involved in the
+step of _resolving_ them; which is done in the passage to
+which I refer. (_Méc. Analyt._ ptie. i. sect. i. art. 3. p.
+225.) 'Si on conçoit que le mouvement d'un corps et les
+forces qui le sollicitent soient _decomposées_ suivant trois
+lignes droites perpendiculaires entre elles, on pourra
+considérer séparément les mouvemens et les forces relatives
+à chacun de ces trois directions. Car à cause de la
+perpendicularité des directions il est visible que chacun de
+ces mouvemens partiels peut être regardé comme indépendant
+des deux autres, et qu'il ne peut recevoir d'altération que
+de la part de la force qui agit dans la direction de ce
+mouvement; l'on peut conclure que ces trois mouvemens
+doivent suivre, chacun en particulier, les lois des
+mouvemens rectilignes accélérés ou retardés par les forces
+données.' Laplace makes the same assumption in effect,
+(_Méc. Cél._ p. i. liv. i. art. 7), by resolving the forces
+which act upon a point in three rectangular directions, and
+reasoning separately concerning each direction. But in his
+mode of treating the subject is involved a principle which
+belongs to the Third Law of Motion, namely, the doctrine
+that the velocity is as the force, of which we shall have to
+speak elsewhere.]
+
+5. _The Third Law of Motion._--We have, in the definition of
+Accelerating Force, a measure of Forces, so far as they are
+concerned in producing motion. We had before, in speaking of
+the principles of statics, defined the measure of Forces or
+Pressures, so far as they are employed in producing
+equilibrium. But these two aspects of Force are closely
+connected; and we require a law which shall lay down the
+rule of their connexion. By the same kind of muscular
+exertion by which we can support a heavy stone, we can also
+put it in motion. The question then occurs, how is the rate
+and manner of its motion determined? The answer to this
+question is contained in the Third Law {250} of Motion, and
+it is to this effect: that the _Momentum_ which any pressure
+produces in the mass in a given time is proportional to the
+pressure. By _Momentum_ is meant the product of the numbers
+which express the velocity and the mass of the body: and
+hence, if the mass of the body be the same in the instances
+which we compare, the rule is,--That _the velocity is as the
+force which produces it_; and this is one of the simplest
+ways of expressing the Third Law of Motion.
+
+In agreement with our general plan, we have to ask, What is
+the ground of this rule? What is the simplest and most
+satisfactory form to which we can reduce the proof of it?
+Or, to take an instance; if a double pressure be exerted
+against a given mass, so disposed as to be capable of
+motion, why must it produce twice the velocity in the same time?
+
+To answer this question, suppose the double pressure to be
+resolved into two single pressures: one of these will
+produce a certain velocity; and the question is, why an
+equal pressure, acting upon the same mass, will produce an
+equal velocity _in addition_ to the former? Or, stating the
+matter otherwise, the question is, why each of the two
+forces will produce its separate effect, unaltered by the
+simultaneous action of the other force?
+
+This statement of the case makes it seem to approach very
+near to such cases as are included in the Second Law of
+Motion, and therefore it might appear that this Third Law
+has no grounds distinct from the Second. But it must be
+recollected that the word _force_ has a different meaning in
+this case and in that; in this place it signifies
+_pressure_; in the statement of the Second Law its import
+was _accelerative_ or _deflective force_, measured by the
+velocity or deflexion generated. And thus the Third Law of
+Motion, so far as our reasonings yet go, appears to rest on
+a foundation different from the Second.
+
+Accordingly, that part of the Third Law of Motion which we
+are now considering, that the velocity generated is as the
+force, was obtained, in fact, by a separate train of
+research. The first exemplification of this {251} law which
+was studied by mathematicians, was the motion of bodies upon
+inclined planes: for the force which urges a body down an
+inclined plane is known by statics, and hence the velocity
+of its descent was to be determined. Galileo
+originally[30\3] in his attempts to solve this problem of
+the descent of a body down an inclined plane, did not
+proceed from the principle which we have stated, (the
+determination of the force which acts down the inclined
+plane from statical considerations,) obvious as it may seem;
+but assumed, as we have already seen, a proposition
+apparently far more precarious;--namely, that a body sliding
+down a smooth inclined plane acquires always the same
+velocity, so long as the _vertical_ height fallen through is
+the same. And this conjecture (for at first it was nothing
+more than a conjecture) he confirmed by an ingenious
+experiment; in which bodies acquired or lost the same
+velocity by descending or ascending through the same height,
+although their paths were different in other respects.
+
+[Note 30\3: _Dial. della Sc. Nuov._ iii. p. 96. See _Hist.
+Ind. Sci._ b. vi. c. ii. sect. 5.]
+
+This was the form in which the doctrine of the motion of
+bodies down inclined planes was at first presented in
+Galileo's _Dialogues_ on the Science of Motion. But his
+disciple Viviani was dissatisfied with the assumption thus
+introduced; and in succeeding editions of the _Dialogues_,
+the apparent chasm in the reasoning was much narrowed, by
+making the proof depend upon a principle nearly identical
+with the third law of motion as we have just stated it. In
+the proof thus added, 'We are agreed,' says the
+interlocutor[31\3], 'that in a moving body the impetus,
+energy, momentum, or propension to motion, is as great as is
+the force or least resistance which suffices to sustain it;'
+and the impetus or momentum, in the course of the proof,
+being taken to be as the velocity produced in a given time,
+it is manifest that the principle so stated amounts to this;
+that the velocity produced is as the statical force. And
+thus this law of motion appears, {252} in the school of
+Galileo, to have been suggested and established at first by
+experiment, but afterwards confirmed and demonstrated by _à
+priori_ considerations.
+
+[Note 31\3: _Dialogo_, p. 104.]
+
+We see, in the above reasoning, a number of abstract terms
+introduced which are not, at first at least, very distinctly
+defined, as _impetus_, _momentum_, &c. Of these, _momentum_
+has been selected, to express that quantity which, in a
+moving body, measures the statical force impressed upon the
+body. This quantity is, as we have just seen, proportional
+to the velocity in a given body. It is also, in different
+bodies, proportional to the mass of the body. This part of
+the third law of motion follows from our conception of
+matter in general as consisting of parts capable of
+addition. A double pressure must be required to produce the
+same velocity in a double mass; for if the mass be halved,
+each half will require an equal pressure; and the addition,
+both of the pressures and of the masses, will take place
+without disturbing the effects.
+
+The measure of the quantity of matter of a body considered
+as affecting the velocity which pressure produces in the
+body, is termed its _inertia_, as we have already stated (c.
+v.). Inertia is the property by which a large mass of matter
+requires a greater force than a small mass, to give it an
+equal velocity. It belongs to each portion of matter; and
+portions of inertia are added whenever portions of matter
+are added. Hence _inertia is as the quantity of matter_;
+which is only another way of expressing this third law of
+motion, so far as quantity of matter is concerned.
+
+But how do we know the quantity of matter of a body? We may
+reply, that we take the weight as the measure of the
+quantity of matter: but we may then be again asked, how it
+appears that the weight is proportional to the inertia;
+which it must be, in order that the quantity of matter may
+be proportional to both one and the other. We answer, that
+this appears to be true experimentally, because all bodies
+fall with equal velocities by gravity, when the known causes
+of difference are removed. The observations of falling {253}
+bodies, indeed, are not susceptible of much exactness: but
+experiments leading to the same result, and capable of great
+precision, were made upon pendulums by Newton; as he relates
+in his _Principia_, Book III. prop. 6. They all agreed, he
+says, with perfect accuracy: and thus the weight and the
+inertia are proportional in all cases, and therefore each
+proportional to the quantity of matter as measured by the other.
+
+The conception of inertia, as we have already seen in
+chapter V., involves the notion of action and reaction; and
+thus the laws which involve inertia depend upon the idea of
+mutual causation. The rule, that the velocity is as the
+force, depends upon the principle of causation, that the
+effect is proportional to the cause; the effect being here
+so estimated as to be consistent both with the other laws of
+motion and with experiment.
+
+But here, as in other cases, the question occurs again; Is
+experiment really requisite for the proof of this law? If we
+look to authorities, we shall be not a little embarrassed to
+decide. D'Alembert is against the necessity of experimental
+proof. 'Why,' says he[32\3], 'should we have recourse to
+this principle employed, at the present day, by everybody,
+that the force is proportional to the velocity? ... a
+principle resting solely upon this vague and obscure axiom,
+that the effect is proportional to the cause. We shall not
+examine here,' he adds, 'if this principle is necessarily
+true; we shall only avow that the proofs which have hitherto
+been adduced do not appear to us unexceptionable: nor shall
+we, with some geometers, adopt it as a purely contingent
+truth; which would be to ruin the certainty of mechanics,
+and to reduce it to be nothing more than an experimental
+science. We shall content ourselves with observing,' he
+proceeds, 'that certain or doubtful, clear or obscure, it is
+useless in mechanics, and consequently ought to be banished
+from the science.' Though D'Alembert rejects the third law
+of motion in this form, he accepts one of {254} equivalent
+import, which appears to him to possess axiomatic certainty;
+and this procedure is in consistence with the course which
+he takes, of claiming for the science of mechanics more than
+mere experimental truth. On the contrary, Laplace considers
+this third law as established by experiment. 'Is the force,'
+he says'[33\3], 'proportioned to the velocity? This,' he
+replies, 'we cannot know _à priori_, seeing that we are in
+ignorance of the nature of moving force: we must therefore,
+for this purpose, recur to experience; for all which is not
+a necessary consequence of the few data we have respecting
+the nature of things, is, for us, only a result of
+observation.' And again he says[34\3], 'Here, then, we have
+two laws of motion,--the law of inertia [the first law of
+motion], and the law of the force proportional to the
+velocity,--which are given by observation. They are the most
+natural and the most simple laws which we can imagine, and
+without doubt they flow from the very nature of matter; but
+this nature being unknown, they are, for us, only observed
+facts: the only ones, however, which Mechanics borrows from
+experience.'
+
+[Note 32\3: _Dynamique_, Pref. p. x.]
+
+[Note 33\3: _Méc. Cél._ p. 15.]
+
+[Note 34\3: p. 18.]
+
+It will appear, I think, from the views given in this and
+several other parts of the present work, that we cannot with
+justice say that we have very 'few data respecting the
+nature of things,' in speculating concerning the laws of the
+universe; since all the consequences which flow from the
+relations of our fundamental ideas, necessarily regulate our
+knowledge of things, so far as we have any such knowledge.
+Nor can we say that the nature of matter is unknown to us,
+in any sense in which we can conceive knowledge as possible.
+The nature of matter is no more unknown than the nature of
+space or of number. In our conception of matter, as of space
+and of number, are involved certain relations, which are the
+necessary groundwork of our knowledge; and anything which is
+independent of these relations, is not unknown, but
+inconceivable. {255}
+
+It must be already clear to the reader, from the phraseology
+employed by these two eminent mathematicians, that the
+question respecting the formation of the third law of motion
+can only be solved by a careful consideration of what we
+mean by observation and experience, nature and matter. But
+it will probably be generally allowed, that, taking into
+account the explanations already offered of the necessary
+conditions of experience and of the conception of inertia,
+this law of motion, that the inertia is as the quantity of
+matter, is almost or altogether self-evident.
+
+6. _Action and Reaction are Equal in Moving Bodies._--When
+we have to consider bodies as acting upon one another, and
+influencing each other's motions, the third law of motion is
+still applied; but along with this, we also employ the
+general principle that action and reaction are equal and
+opposite. Action and reaction are here to be understood as
+momentum produced and destroyed, according to the measure of
+action established by the Third Law of Motion: and the cases
+in which this principle is thus employed form so large a
+portion of those in which the third law of motion is used,
+that some writers (Newton at the head of them) have
+stated the equality of action and reaction as the third law
+of motion.
+
+The third law of motion being once established, the equality
+of action and reaction, in the sense of momentum gained and
+lost, necessarily follows. Thus, if a weight hanging by a
+string over the edge of a smooth level table draw another
+weight along the table, the hanging weight moves more slowly
+than it would do if not so connected, and thus loses
+velocity by the connexion; while the other weight gains by
+the connexion all the velocity which it has, for if left to
+itself it would rest. And the pressures which restrain the
+descent of the first body and accelerate the motion of the
+second, are equal at all instants of time, for each of these
+pressures is the tension of the string: and hence, by the
+third law of motion, the momentum gained by the one body,
+and the momentum lost by the other in virtue of the action
+of this string, are equal. And similar {256} reasoning may
+be employed in any other case where bodies are connected.
+
+The case where one body does not push or draw, but _strikes_
+another, appeared at first to mechanical reasoners to be of
+a different nature from the others; but a little
+consideration was sufficient to show that a blow is, in
+fact, only a short and violent pressure; and that,
+therefore, the general rule of the equality of momentum lost
+and gained applies to this as well as to the other cases.
+
+Thus, in order to determine the case of the direct action of
+bodies upon one another, we require no new law of motion.
+The equality of action and reaction, which enters
+necessarily into every conception of mechanical operation,
+combined with the measure of action as given by the third
+law of motion, enables us to trace the consequences of every
+case, whether of pressure or of impact.
+
+7. _D'Alembert's Principle._--But what will be the result
+when bodies do not act directly upon each other, but are
+_indirectly_ connected in any way by levers, strings,
+pulleys, or in any other manner, so that one part of the
+system has a mechanical advantage over another? The result
+must still be determined by the principle that action and
+reaction balance each other. The action and reaction, being
+pressures in one sense, must balance each other by the laws
+of statics, for these laws determine the equilibrium of
+pressure. Now action and reaction, according to their
+measures in the Third Law of Motion, are momentum gained and
+lost, when the action is direct; and except the indirect
+action introduce some modification of the law, they must
+have the same measure still. But, in fact, we cannot well
+conceive any modification of the law to take place in this
+case; for direct action is only one (the ultimate) case of
+indirect action. Thus if two heavy bodies act at different
+points of a lever, the action of each on the other is
+indirect; but if the two points come together, the action
+becomes direct. Hence the rule must be that which we have
+already stated; for if the rule were false for indirect
+action, it would {257} also be false for direct action, for
+which case we have shown it to be true. And thus we obtain
+the general principle, that in any system of bodies which
+act on each other, action and reaction, estimated by
+momentum gained and lost, balance each other according to
+the laws of equilibrium. This principle, which is so general
+as to supply a key to the solution of all possible
+mechanical problems, is commonly called _D'Alembert's
+Principle_. The experimental proofs which convinced men of
+the truth of the Third Law of Motion were, many or most of
+them, proofs of the law in this extended sense. And thus the
+proof of D'Alembert's Principle, both from the idea of
+mechanical action and from experience, is included in the
+proof of the law already stated.
+
+8. _Connexion of Dynamical and Statical Principles._--The
+principle of equilibrium of D'Alembert just stated, is the
+law which he would substitute for the Third Law of Motion;
+and he would thus remove the necessity for an independent
+proof of that law. In like manner, the Second Law of Motion
+is by some writers derived from the principle of the
+composition of statical forces; and they would thus
+supersede the necessity of a reference to experiment in that
+case. Laplace takes this course, and thus, as we have seen,
+rests only the First and Third Law of Motion upon
+experience. Newton, on the other hand, recognizes the same
+connexion of propositions, but for a different purpose; for
+he derives the composition of statical forces from the
+Second Law of Motion.
+
+The close connexion of these three principles, the
+composition of (statical) forces, the composition of
+(accelerating) forces with velocities, and the measure of
+(moving) forces by velocities, cannot be denied; yet it
+appears to be by no means easy to supersede the necessity of
+independent proofs of the last two of these principles. Both
+may be proved or illustrated by experiment: and the
+experiments which prove the one are different from those
+which establish the other. For example, it appears by easy
+calculations, that when we apply our principles to the
+oscillations of a pendulum, {258} the Second Law is proved
+by the fact, that the oscillations take place at the same
+rate in an east and west, and in a north and south
+direction: under the same circumstances, the Third Law is
+proved by our finding that the time of a small oscillation
+is proportional to the square root of the length of a
+pendulum; and similar differences might be pointed out in
+other experiments, as to their bearing upon the one law or
+the other.
+
+9. _Mechanical Principles become gradually more simple and
+more evident._--I will again point out in general two
+circumstances which I have already noticed in particular
+cases of the laws of motion.--Truths are often at first
+assumed in a form which is far from being the most obvious
+or simple;--and truths once discovered are gradually
+simplified, so as to assume the appearance of self-evident
+truths.
+
+The former circumstance is exemplified in several of the
+instances which we have had to consider. The assumption,
+that a perpetual motion is impossible, preceded the
+knowledge of the first law of motion. The assumed equality
+of the velocities acquired down two inclined planes of the
+same height, was afterwards reduced to the third law of
+motion by Galileo himself. In the History[35\3], we have
+noted Huyghens's assumption of the equality of the actual
+descent and potential ascent of the center of gravity: this
+was afterwards reduced by Herman and the Bernoullis, to the
+statical equivalence of the solicitations of gravity and the
+vicarious solicitations of the effective forces which act on
+each point; and finally to the principle of D'Alembert,
+which asserts that the motions gained and lost balance each
+other.
+
+[Note 35\3: B. vi. c. v. sect. 2.]
+
+This early assertion of principles which now appear neither
+obvious nor self-evident, is not to be considered as a
+groundless assumption on the part of the discoverers by whom
+it was made. On the contrary, it is evidence of the deep
+sagacity and clear thought which were {259} requisite in
+order to make such discoveries. For these results are really
+rigorous consequences of the laws of motion in their
+simplest form: and the evidence of them was probably
+present, though undeveloped, in the minds of the
+discoverers. We are told of geometrical students, who, by a
+peculiar aptitude of mind, perceived the evidence of some of
+the more advanced propositions of geometry without going
+through the introductory steps. We must suppose a similar
+aptitude for mechanical reasonings, which, existing in the
+minds of Stevinus, Galileo, Newton, and Huyghens, led them
+to make those assumptions which finally resolved themselves
+into the laws of motion.
+
+We may observe further, that the simplicity and evidence
+which the laws of mechanics have at length assumed, are much
+favoured by the usage of words among the best writers on
+such subjects. Terms which originally, and before the laws
+of motion were fully known, were used in a very vague and
+fluctuating sense, were afterwards limited and rendered
+precise, so that assertions which at first appear identical
+propositions become distinct and important principles. Thus
+_force_, _motion_, _momentum_, are terms which were
+employed, though in a loose manner, from the very outset of
+mechanical speculation. And so long as these words retained
+the vagueness of common language, it would have been a
+useless and barren truism to say that 'the momentum is
+proportional to the force,' or that 'a body loses as much
+motion as it communicates to another.' But when 'momentum'
+and 'quantity of motion' are defined to mean the product of
+mass and velocity, these two propositions immediately become
+distinct statements of the third law of motion and its
+consequences. In like manner, the assertion that 'gravity is
+a uniform force' was assented to, before it was settled what
+a uniform force was; but this assertion only became
+significant and useful when that point had been properly
+determined. The statement that 'when different motions are
+communicated to the same body their effects are {260}
+compounded,' becomes the second law of motion, when we
+define what composition of motions is. And the same process
+may be observed in other cases.
+
+And thus we see how well the form which science ultimately
+assumes is adapted to simplify knowledge. The definitions
+which are adopted, and the terms which become current in
+precise senses, produce a complete harmony between the
+matter and the form of our knowledge; so that truths which
+were at first unexpected and recondite, became familiar
+phrases, and after a few generations sound, even to common
+ears, like identical propositions.
+
+10. _Controversy of the Measure of Force._--In the History
+of Mechanics[36\3], we have given an account of the
+controversy which, for some time, occupied the
+mathematicians of Europe, whether the forces of bodies in
+motion should be reckoned proportional to the velocity, or
+to the square of the velocity. We need not here recall the
+events of this dispute; but we may remark, that its history,
+as a metaphysical controversy, is remarkable in this
+respect, that it has been finally and completely settled;
+for it is now agreed among mathematicians that both sides
+were right, and that the results of mechanical action may be
+expressed with equal correctness by means of _momentum_ and
+of _vis viva_. It is, in one sense, as D'Alembert has
+said[37\3], a dispute about words; but we are not to infer
+that, on that account, it was frivolous or useless; for such
+disputes are one principal means of reducing the principles
+of our {261} knowledge to their utmost simplicity and
+clearness. The terms which are employed in the science of
+mechanics are now liberated for ever, in the minds of
+mathematicians, from that ambiguity which was the
+battleground in the war of the _vis viva_.
+
+[Note 36\3: B. vi. c. v. sect. 2.]
+
+[Note 37\3: D'Alembert has also remarked (_Dynamique_, Pref.
+xxi.) that this controversy 'shows how little justice and
+precision there is in the pretended axiom that causes are
+proportional to their effects.' But this reflection is by no
+means well founded. For since both measures are true, it
+appears that causes may be _justly_ measured by their
+effects, even when very different kinds of effects are
+taken. That the axiom does not point out one _precise_
+measure, till illustrated by experience or by other
+considerations, we grant: but the same thing occurs in the
+application of other axioms also.]
+
+But we may observe that the real reason of this controversy
+was exactly that tendency which we have been noticing;--the
+disposition of man to assume in his speculations certain
+general propositions as true, and to fix the sense of terms
+so that they shall fall in with this truth. It was agreed,
+on all hands, that in the mutual action of bodies the same
+quantity of force is always preserved; and the question was,
+by which of the two measures this rule could best be
+verified. We see, therefore, that the dispute was not
+concerning a definition merely, but concerning a definition
+combined with a general proposition. Such a question may be
+readily conceived to have been by no means unimportant; and
+we may remark, in passing, that such controversies, although
+they are commonly afterwards stigmatized as quarrels about
+words and definitions, are, in reality, events of
+considerable consequence in the history of science; since
+they dissipate all ambiguity and vagueness in the use of
+terms, and bring into view the conditions under which the
+fundamental principles of our knowledge can be most clearly
+and simply presented.
+
+It is worth our while to pause for a moment on the prospect
+that we have thus obtained, of the advance of knowledge, as
+exemplified in the history of Mechanics. The general
+transformation of our views from vague to definite, from
+complex to simple, from unexpected discoveries to
+self-evident truths, from seeming contradictions to
+identical propositions, is very remarkable, but it is by no
+means peculiar to our subject. The same circumstances, more
+or less prominent, more or less developed, appear in the
+history of other sciences, according to the point of advance
+which each has reached. They bear upon very important
+doctrines respecting the prospects, the {262} limits, and
+the very nature of our knowledge. And though these doctrines
+require to be considered with reference to the whole body of
+science, yet the peculiar manner in which they are
+illustrated by the survey of the history of Mechanics, on
+which we have just been engaged, appears to make this a
+convenient place for introducing them to the reader.
+
+
+
+{{263}}

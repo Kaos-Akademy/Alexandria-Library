@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 58585,
+      "title": "The Prophet",
+      "author": "Gibran, Kahlil, 1883-1931",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Mysticism -- Poetry; Prose poems, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58606,
+      "title": "An Essay on Laughter: Its Forms, Its Causes, Its Development and Its Value",
+      "author": "Sully, James, 1842-1923",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Laughter",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58646,
+      "title": "Index of the Project Gutenberg Works of Edmund Burke",
+      "author": "Burke, Edmund, 1729-1797; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58676,
+      "title": "Index of the Project Gutenberg Works of Benjamin Franklin",
+      "author": "Franklin, Benjamin, 1706-1790; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58682,
+      "title": "Infinity's Child",
+      "author": "De Vet, Charles V., 1911-1997",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Science fiction; War stories; Psychological fiction; Philosophy -- Fiction; Free will and determinism -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58685,
+      "title": "The privilege of pain",
+      "author": "Everett, Leo, Mrs., -1921; Wiggin, Kate Douglas Smith, 1856-1923 [Author of introduction, etc.]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Suffering",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58700,
+      "title": "Crimes and Punishments\nIncluding a New Translation of Beccaria's 'Dei Delitti e delle Pene'",
+      "author": "Farrer, James Anson, 1849-1925",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Crime; Punishment; Torture; Criminal law; Beccaria, Cesare, marchese di, 1738-1794. Dei delitti e delle pene; Capital punishment; Law reform",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58766,
+      "title": "Suicide: Its History, Literature, Jurisprudence, Causation, and Prevention",
+      "author": "Westcott, W. Wynn (William Wynn), 1848-1925",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Suicide",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58808,
+      "title": "The Dances of Death\nThrough the Various Stages of Human Life: Wherein the Capriciousness of that Tyrant is Exhibited",
+      "author": "Holbein, Hans, 1497-1543 [Illustrator]; Deuchar, David, 1743-1808 [Engraver]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Dance of death; Dance of death in art",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58881,
+      "title": "A Philosophical Essay on Probabilities",
+      "author": "Laplace, Pierre Simon, marquis de, 1749-1827; Emory, Frederick Lincoln, 1867- [Translator]; Truscott, Frederick Wilson, 1870- [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Probabilities",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58925,
+      "title": "Index of the Project Gutenberg Works of John Fiske",
+      "author": "Fiske, John, 1842-1901; Widger, David, 1932-2021? [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58977,
+      "title": "The Confessions of Al Ghazzali",
+      "author": "Ghazzali, 1058-1111; Cranmer-Byng, L. (Launcelot), 1872-1945 [Editor]; Kapadia, S. A. (Shaporji Aspaniarji), 1857-1941 [Editor]; Field, Claud, 1863-1941 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Islamic philosophy -- Early works to 1800; Sufism -- Early works to 1800; Ghazzali, 1058-1111",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58981,
+      "title": "History of Sculpture, Painting, and Architecture",
+      "author": "Memes, J. S. (John Smythe)",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Art -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 58994,
+      "title": "Index of the Project Gutenberg Works of Ralph Waldo Emerson",
+      "author": "Emerson, Ralph Waldo, 1803-1882; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59006,
+      "title": "Pogonologia; Or, A Philosophical and Historical Essay on Beards",
+      "author": "Dulaure, J.-A. (Jacques-Antoine), 1755-1835",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Beards",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59019,
+      "title": "The Road Away from Revolution",
+      "author": "Wilson, Woodrow, 1856-1924",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Revolutions; Political science",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59023,
+      "title": "Index of the Project Gutenberg Works of Immanuel Kant",
+      "author": "Kant, Immanuel, 1724-1804; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59031,
+      "title": "Journal 02, 1850-September 15, 1851\nThe Writings of Henry David Thoreau, Volume 08 (of 20)",
+      "author": "Thoreau, Henry David, 1817-1862; Torrey, Bradford, 1843-1912 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Thoreau, Henry David, 1817-1862 -- Diaries; Authors, American -- 19th century -- Diaries",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59091,
+      "title": "The Sixth Sense: Its Cultivation and Use",
+      "author": "Brent, Charles Henry, 1862-1929; Griggs, Edward Howard, 1868-1951 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "New Thought",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59132,
+      "title": "What Have the Greeks Done for Modern Civilisation?",
+      "author": "Mahaffy, J. P. (John Pentland), 1839-1919",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Civilization; Greece -- Civilization; Greece -- Intellectual life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59163,
+      "title": "Index of the Project Gutenberg Works of Francis Bacon",
+      "author": "Bacon, Francis, 1561-1626; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59257,
+      "title": "The Threefold Commonwealth",
+      "author": "Steiner, Rudolf, 1861-1925; Bowen-Wedgwood, Ethel Kate, 1869-1952 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Social sciences -- Miscellanea",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59391,
+      "title": "Index of the Project Gutenberg Works of Bertrand Russell",
+      "author": "Russell, Bertrand, 1872-1970; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59393,
+      "title": "Index of the Project Gutenberg Works of Herbert Spencer",
+      "author": "Spencer, Herbert, 1820-1903; Widger, David, 1932-2021? [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Indexes",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 59399,
+      "title": "The Ayenbite of Inwyt (Remorse of Conscience)\nA Translation of Parts into Modern English",
+      "author": "Michel, Dan, active 14th century; Laurent, d'Orl\u00e9ans, active 1279; Wyatt, A. J. (Alfred John), 1858-1935 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Devotional literature; Christian life -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

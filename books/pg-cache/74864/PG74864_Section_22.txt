@@ -1,0 +1,760 @@
+CHAPTER XXII.
+
+QUANTITATIVE INDUCTION.
+
+
+We have not yet formally considered any processes of reasoning
+which have for their object to disclose laws of nature expressed in
+quantitative equations. We have been inquiring into the modes by which
+a phenomenon may be measured, and, if it be a composite phenomenon, may
+be resolved, by the aid of several measurements, into its component
+parts. We have also considered the precautions to be taken in the
+performance of observations and experiments in order that we may know
+what phenomena we really do measure, but we must remember that, no
+number of facts and observations can by themselves constitute science.
+Numerical facts, like other facts, are but the raw materials of
+knowledge, upon which our reasoning faculties must be exerted in order
+to draw forth the principles of nature. It is by an inverse process of
+reasoning that we can alone discover the mathematical laws to which
+varying quantities conform. By well-conducted experiments we gain a
+series of values of a variable, and a corresponding series of values
+of a variant, and we now want to know what mathematical function the
+variant is as regards the variable. In the usual progress of a science
+three questions will have to be answered as regards every important
+quantitative phenomenon:--
+
+(1) Is there any constant relation between a variable and a variant?
+
+(2) What is the empirical formula expressing this relation?
+
+(3) What is the rational formula expressing the law of nature involved?
+
+
+*Probable Connection of Varying Quantities.*
+
+We find it stated by Mill,[398] that “Whatever phenomenon varies in any
+manner whenever another phenomenon varies in some particular manner, is
+either a cause or an effect of that phenomenon, or is connected with
+it through some fact of causation.” This assertion may be considered
+true when it is interpreted with sufficient caution; but it might
+otherwise lead us into error. There is nothing whatever in the nature
+of things to prevent the existence of two variations which should
+apparently follow the same law, and yet have no connection with each
+other. One binary star might be going through a revolution which, so
+far as we could tell, was of equal period with that of another binary
+star, and according to the above rule the motion of one would be the
+cause of the motion of the other, which would not be really the case.
+Two astronomical clocks might conceivably be made so nearly perfect
+that, for several years, no difference could be detected, and we might
+then infer that the motion of one clock was the cause or effect of the
+motion of the other. This matter requires careful discrimination. We
+must bear in mind that the continuous quantities of space, time, force,
+&c., which we measure, are made up of an infinite number of infinitely
+small units. We may then meet with two variable phenomena which follow
+laws so nearly the same, that in no part of the variations open to
+our observation can any discrepancy be discovered. I grant that if
+two clocks could be shown to have kept *exactly* the same time during
+any finite interval, the probability would become infinitely high
+that there was a connection between their motions. But we can never
+absolutely prove such coincidences to exist. Allow that we may observe
+a difference of one-tenth of a second in their time, yet it is possible
+that they were independently regulated so as to go together within
+less than that quantity of time. In short, it would require either an
+infinitely long time of observation, or infinitely acute powers of
+measuring discrepancy, to decide positively whether two clocks were or
+were not in relation with each other.
+
+  [398] *System of Logic*, bk. iii. chap. viii § 6.
+
+A similar question actually occurs in the case of the moon’s motion. We
+have no record that any other portion of the moon was ever visible to
+men than such as we now see. This fact sufficiently proves that within
+the historical period the rotation of the moon on its own axis has
+coincided with its revolutions round the earth. Does this coincidence
+prove a relation of cause and effect to exist? The answer must be in
+the negative, because there might have been so slight a discrepancy
+between the motions that there has not yet been time to produce any
+appreciable effect. There may nevertheless be a high probability of
+connection.
+
+The whole question of the relation of quantities thus resolves itself
+into one of probability. When we can only rudely measure a quantitative
+result, we can assign but slight importance to any correspondence.
+Because the brightness of two stars seems to vary in the same manner,
+there is no considerable probability that they have any relation with
+each other. Could it be shown that their periods of variation were
+the same to infinitely small quantities it would be certain, that
+is infinitely probable, that they were connected, however unlikely
+this might be on other grounds. The general mode of estimating such
+probabilities is identical with that applied to other inductive
+problems. That any two periods of variation should by chance become
+*absolutely equal* is infinitely improbable; hence if, in the case of
+the moon or other moving bodies, we could prove absolute coincidence
+we should have certainty of connection.[399] With approximate
+measurements, which alone are within our power, we must hope for
+approximate certainty at the most.
+
+  [399] Laplace, *System of the World*, translated by Harte, vol. ii.
+  p. 366.
+
+The principles of inference and probability, according to which we
+treat causes and effects varying in amount, are exactly the same as
+those by which we treated simple experiments. Continuous quantity,
+however, affords us an infinitely more extensive sphere of observation,
+because every different amount of cause, however little different,
+ought to be followed by a different amount of effect. If we can measure
+temperature to the one-hundredth part of a degree centigrade, then
+between 0° and 100° we have 10,000 possible trials. If the precision
+of our measurements is increased, so that the one-thousandth part of
+a degree can be appreciated, our trials may be increased tenfold. The
+probability of connection will be proportional to the accuracy of our
+measurements.
+
+When we can vary the quantity of a cause at will it is easy to discover
+whether a certain effect is due to that cause or not. We can then
+make as many irregular changes as we like, and it is quite incredible
+that the supposed effect should by chance go through exactly the
+corresponding series of changes except by dependence. If we have a
+bell ringing *in vacuo*, the sound increases as we let in the air, and
+it decreases again as we exhaust the air. Tyndall’s singing flames
+evidently obeyed the directions of his own voice; and Faraday when he
+discovered the relation of magnetism and light found that, by making
+or breaking or reversing the current of the electro-magnet, he had
+complete command over a ray of light, proving beyond all reasonable
+doubt the dependence of cause and effect. In such cases it is the
+perfect coincidence in time between the change in the effect and that
+in the cause which raises a high improbability of casual coincidence.
+
+It is by a simple case of variation that we infer the existence of
+a material connection between two bodies moving with exactly equal
+velocity, such as the locomotive engine and the train which follows
+it. Elaborate observations were requisite before astronomers could all
+be convinced that the red hydrogen flames seen during solar eclipses
+belonged to the sun, and not to the moon’s atmosphere as Flamsteed
+assumed. As early as 1706, Stannyan noticed a blood-red streak in
+an eclipse which he witnessed at Berne, and he asserted that it
+belonged to the sun; but his opinion was not finally established until
+photographs of the eclipse in 1860, taken by Mr. De la Rue, showed that
+the moon’s dark body gradually covered the red prominences on one side,
+and uncovered those on the other; in short, that these prominences
+moved precisely as the sun moved, and not as the moon moved.
+
+Even when we have no means of accurately measuring the variable
+quantities we may yet be convinced of their connection, if one always
+varies perceptibly at the same time as the other. Fatigue increases
+with exertion; hunger with abstinence from food; desire and degree of
+utility decrease with the quantity of commodity consumed. We know that
+the sun’s heating power depends upon his height of the sky; that the
+temperature of the air falls in ascending a mountain; that the earth’s
+crust is found to be perceptibly warmer as we sink mines into it; we
+infer the direction in which a sound comes from the change of loudness
+as we approach or recede. The facility with which we can time after
+time observe the increase or decrease of one quantity with another
+sufficiently shows the connection, although we may be unable to assign
+any precise law of relation. The probability in such cases depends upon
+frequent coincidence in time.
+
+
+*Empirical Mathematical Laws.*
+
+It is important to acquire a clear comprehension of the part which
+is played in scientific investigation by empirical formulæ and laws.
+If we have a table containing certain values of a variable and the
+corresponding values of the variant, there are mathematical processes
+by which we can infallibly discover a mathematical formula yielding
+numbers in more or less exact agreement with the table. We may
+generally assume that the quantities will approximately conform to a
+law of the form
+
+  *y* = A + B*x* + C*x*^{2},
+
+in which *x* is the variable and *y* the variant. We can then select
+from the table three values of *y*, and the corresponding values of
+*x*; inserting them in the equation, we obtain three equations by the
+solution of which we gain the values of A, B, and C. It will be found
+as a general rule that the formula thus obtained yields the other
+numbers of the table to a considerable degree of approximation.
+
+In many cases even the second power of the variable will be
+unnecessary; Regnault found that the results of his elaborate inquiry
+into the latent heat of steam at different pressures were represented
+with sufficient accuracy by the empirical formula
+
+  λ = 606·5 + 0·305 *t*,
+
+in which λ is the total heat of the steam, and *t* the
+temperature.[400] In other cases it may be requisite to include the
+third power of the variable. Thus physicists assume the law of the
+dilatation of liquids to be of the form
+
+  δ_{t} = *at* + *bt*^{2} + *ct*^{3},
+
+  [400] *Chemical Reports and Memoirs*, Cavendish Society, p. 294.
+
+and they calculate from results of observation the values of the
+three constants *a*, *b*, *c*, which are usually small quantities
+not exceeding one-hundredth part of a unit, but requiring to be
+determined with great accuracy.[401] Theoretically speaking, this
+process of empirical representation might be applied with any degree of
+accuracy; we might include still higher powers in the formula, and with
+sufficient labour obtain the values of the constants, by using an equal
+number of experimental results. The method of least squares may also be
+employed to obtain the most probable values of the constants.
+
+  [401] Jamin, *Cours de Physique*, vol. ii. p. 38.
+
+In a similar manner all periodic variations may be represented with any
+required degree of accuracy by formulæ involving the sines and cosines
+of angles and their multiples. The form of any tidal or other wave may
+thus be expressed, as Sir G. B. Airy has explained.[402] Almost all
+the phenomena registered by meteorologists are periodic in character,
+and when freed from disturbing causes may be embodied in empirical
+formulæ. Bessel has given a rule by which from any regular series of
+observations we may, on the principle of the method of least squares,
+calculate out with a moderate amount of labour a formula expressing the
+variation of the quantity observed, in the most probable manner. In
+meteorology three or four terms are usually sufficient for representing
+any periodic phenomenon, but the calculation might be carried to any
+higher degree of accuracy. As the details of the process have been
+described by Herschel in his treatise on Meteorology,[403] I need not
+further enter into them.
+
+  [402] *On Tides and Waves*, Encyclopædia Metropolitana, p. 366*.
+
+  [403] *Encyclopædia Britannica*, art. *Meteorology*. Reprint, §§
+  152–156.
+
+The reader might be tempted to think that in these processes of
+calculation we have an infallible method of discovering inductive
+laws, and that my previous statements (Chap. VII.) as to the purely
+tentative and inverse character of the inductive process are negatived.
+Were there indeed any general method of inferring laws from facts it
+would overturn my statement, but it must be carefully observed that
+these empirical formulæ do not coincide with natural laws. They are
+only approximations to the results of natural laws founded upon the
+general principles of approximation. It has already been pointed out
+that however complicated be the nature of a curve, we may examine so
+small a portion of it, or we may examine it with such rude means of
+measurement, that its divergence from an elliptic curve will not be
+apparent. As a still ruder approximation a portion of a straight line
+will always serve our purpose; but if we need higher precision a curve
+of the third or fourth degree will almost certainly be sufficient. Now
+empirical formulæ really represent these approximate curves, but they
+give us no information as to the precise nature of the curve itself to
+which we are approximating. We do not learn what function the variant
+is of the variable, but we obtain another function which, within the
+bounds of observation, gives nearly the same values.
+
+
+*Discovery of Rational Formulæ.*
+
+Let us now proceed to consider the modes in which from numerical
+results we can establish the actual relation between the quantity of
+the cause and that of the effect. What we want is a *rational* formula
+or function, which will exhibit the *reason* or exact nature and
+origin of the law in question. There is no word more frequently used
+by mathematicians than the word *function*, and yet it is difficult
+to define its meaning with perfect accuracy. Originally it meant
+performance or execution, being equivalent to the Greek λειτουργία
+or τέλεσμα. Mathematicians at first used it to mean *any power of a
+quantity*, but afterwards generalised it so as to include “any quantity
+formed in any manner whatsoever from another quantity.”[404] Any
+quantity, then, which depends upon and varies with another quantity may
+be called a function of it, and either may be considered a function of
+the other.
+
+  [404] Lagrange, *Leçons sur le Calcul des Fonctions*, 1806, p. 4.
+
+Given the quantities, we want the function of which they are the
+values. Simple inspection of the numbers cannot as a general rule
+disclose the function. In an earlier chapter (p. 124) I put before the
+reader certain numbers, and requested him to point out the law which
+they obey, and the same question will have to be asked in every case of
+quantitative induction. There are perhaps three methods, more or less
+distinct, by which we may hope to obtain an answer:
+
+(1) By purely haphazard trial.
+
+(2) By noting the general character of the variation of the quantities,
+and trying by preference functions which give a similar form of
+variation.
+
+(3) By deducing from previous knowledge the form of the function which
+is most likely to suit.
+
+Having numerical results we are always at liberty to invent any kind
+of mathematical formula we like, and then try whether, by the suitable
+selection of values for the unknown constant quantities, we can make it
+give the required results. If ever we fall upon a formula which does
+so, to a fair degree of approximation, there is a presumption in favour
+of its being the true function, although there is no certainty whatever
+in the matter. In this way I discovered a simple mathematical law which
+closely agreed with the results of my experiments on muscular exertion.
+This law was afterwards shown by Professor Haughton to be the true
+rational law according to his theory of muscular action.[405]
+
+  [405] Haughton, *Principles of Animal Mechanics*, 1873, pp. 444–450.
+  Jevons, *Nature*, 30th of June, 1870, vol. ii. p. 158. See also the
+  experiments of Professor Nipher, of Washington University, St. Louis,
+  in *American Journal of Science*, vol. ix. p. 130, vol. x. p. 1;
+  *Nature*, vol. xi. pp. 256, 276.
+
+But the chance of succeeding in this manner is small. The number of
+possible functions is infinite, and even the number of comparatively
+simple functions is so large that the probability of falling upon the
+correct one by mere chance is very slight. Even when we obtain the law
+it is by a deductive process, not by showing that the numbers give the
+law, but that the law gives the numbers.
+
+In the second way, we may, by a survey of the numbers, gain a general
+notion of the kind of law they are likely to obey, and we may be much
+assisted in this process by drawing them out in the form of a curve.
+We can in this way ascertain with some probability whether the curve
+is likely to return into itself, or whether it has infinite branches;
+whether such branches are asymptotic, that is, approach infinitely
+towards straight lines; whether it is logarithmic in character, or
+trigonometric. This indeed we can only do if we remember the results of
+previous investigations. The process is still inversely deductive, and
+consists in noting what laws give particular curves, and then inferring
+inversely that such curves belong to such laws. If we can in this way
+discover the class of functions to which the required law belongs,
+our chances of success are much increased, because our haphazard
+trials are now reduced within a narrower sphere. But, unless we have
+almost the whole curve before us, the identification of its character
+must be a matter of great uncertainty; and if, as in most physical
+investigations, we have a mere fragment of the curve, the assistance
+given would be quite illusory. Curves of almost any character can be
+made to approximate to each other for a limited extent, so that it is
+only by a kind of *divination* that we fall upon the actual function,
+unless we have theoretical knowledge of the kind of function applicable
+to the case.
+
+When we have once obtained what we believe to be the correct form of
+function, the remainder of the work is mere mathematical computation to
+be performed infallibly according to fixed rules,[406] which include
+those employed in the determination of empirical formulæ (p. 487).
+The function will involve two or three or more unknown constants, the
+values of which we need to determine by our experimental results.
+Selecting some of our results widely apart and nearly equidistant,
+we form by means of them as many equations as there are constant
+quantities to be determined. The solution of these equations will then
+give us the constants required, and having now the actual function we
+can try whether it gives with sufficient accuracy the remainder of
+our experimental results. If not, we must either make a new selection
+of results to give a new set of equations, and thus obtain a new set
+of values for the constants, or we must acknowledge that our form
+of function has been wrongly chosen. If it appears that the form of
+function has been correctly ascertained, we may regard the constants
+as only approximately accurate and may proceed by the Method of Least
+Squares (p. 393) to determine the most probable values as given by the
+whole of the experimental results.
+
+  [406] Jamin, *Cours de Physique*, vol. ii. p. 50.
+
+In most cases we shall find ourselves obliged to fall back upon the
+third mode, that is, anticipation of the form of the law to be expected
+on the ground of previous knowledge. Theory and analogical reasoning
+must be our guides. The general nature of the phenomenon will often
+indicate the kind of law to be looked for. If one form of energy or one
+kind of substance is being converted into another, we may expect the
+law of direct simple proportion. In one distinct class of cases the
+effect already produced influences the amount of the ensuing effect,
+as for instance in the cooling of a heated body, when the law will be
+of an exponential form. When the direction of a force influences its
+action, trigonometrical functions enter. Any influence which spreads
+freely through tridimensional space will be subject to the law of
+the inverse square of the distance. From such considerations we may
+sometimes arrive deductively and analogically at the general nature of
+the mathematical law required.
+
+
+*The Graphical Method.*
+
+In endeavouring to discover the mathematical law obeyed by
+experimental results it is often desirable to call in the aid of
+space-representations. Every equation involving two variable quantities
+corresponds to some kind of plane curve, and every plane curve may
+be represented symbolically in an equation containing two unknown
+quantities. Now in an experimental research we obtain a number of
+values of the variant corresponding to an equal number of values of the
+variable; but all the numbers are affected by more or less error, and
+the values of the variable will often be irregularly disposed. Even if
+the numbers were absolutely correct and disposed at regular intervals,
+there is, as we have seen, no direct mode of discovering the law, but
+the difficulty of discovery is much increased by the uncertainty and
+irregularity of the results.
+
+Under such circumstances, the best mode of proceeding is to prepare a
+paper divided into equal rectangular spaces, a convenient size for the
+spaces being one-tenth of an inch square. The values of the variable
+being marked off on the lowest horizontal line, a point is marked for
+each corresponding value of the variant perpendicularly above that of
+the variable, and at such a height as corresponds to the value of the
+variant.
+
+The exact scale of the drawing is not of much importance, but it may
+require to be adjusted according to circumstances, and different values
+must often be attributed to the upright and horizontal divisions, so
+as to make the variations conspicuous but not excessive. If a curved
+line be drawn through all the points or ends of the ordinates, it will
+probably exhibit irregular inflections, owing to the errors which
+affect the numbers. But, when the results are numerous, it becomes
+apparent which results are more divergent than others, and guided by a
+so-called *sense of continuity*, it is possible to trace a line among
+the points which will approximate to the true law more nearly than the
+points themselves. The accompanying figure sufficiently explains itself.
+
+[Illustration]
+
+Perkins employed this graphical method with much care in exhibiting
+the results of his experiments on the compression of water.[407] The
+numerical results were marked upon a sheet of paper very exactly ruled
+at intervals of one-tenth of an inch, and the original marks were left
+in order that the reader might judge of the correctness of the curve
+drawn, or choose another for himself. Regnault carried the method to
+perfection by laying off the points with a screw dividing engine;[408]
+and he then formed a table of results by drawing a continuous curve,
+and measuring its height for equidistant values of the variable. Not
+only does a curve drawn in this manner enable us to infer numerical
+results more free from accidental errors than any of the numbers
+obtained directly from experiment, but the form of the curve sometimes
+indicates the class of functions to which our results belong.
+
+  [407] *Philosophical Transactions*, 1826, p. 544.
+
+  [408] Jamin, *Cours de Physique*, vol. ii. p. 24, &c.
+
+Engraved sheets of paper prepared for the drawing of curves may be
+obtained from Mr. Stanford at Charing Cross, Messrs. W. and A. K.
+Johnston, of London and Edinburgh, Waterlow and Sons, Letts and Co.,
+and probably other publishers. When we do not require great accuracy,
+paper ruled by the common machine-ruler into equal squares of about
+one-fifth or one-sixth of an inch square will serve well enough. I
+have met with engineers’ and surveyors’ memorandum books ruled with
+one-twelfth inch squares. When a number of curves have to be drawn, I
+have found it best to rule a good sheet of drawing paper with lines
+carefully adjusted at the most convenient distances, and then to
+prick the points of the curve through it upon another sheet fixed
+underneath. In this way we obtain an accurate curve upon a blank sheet,
+and need only introduce such division lines as are requisite to the
+understanding of the curve.
+
+In some cases our numerical results will correspond, not to the
+height of single ordinates, but to the area of the curve between two
+ordinates, or the average height of ordinates between certain limits.
+If we measure, for instance, the quantities of heat absorbed by water
+when raised in temperature from 0° to 5°, from 5° to 10°, and so on,
+these quantities will really be represented by *areas* of the curve
+denoting the specific heat of water; and since the specific heat varies
+continuously between every two points of temperature, we shall not get
+the correct curve by simply laying off the quantities of heat at the
+mean temperatures, namely 2-1/2°, and 7-1/2°, and so on. Lord Rayleigh
+has shown that if we have drawn such an incorrect curve, we can with
+little trouble correct it by a simple geometrical process, and obtain
+to a close approximation the true ordinates instead of those denoting
+areas.[409]
+
+  [409] J. W. Strutt, *On a correction sometimes required in curves
+  professing to represent the connexion between two physical
+  magnitudes*. Philosophical Magazine, 4th Series, vol. xlii. p. 441.
+
+
+*Interpolation and Extrapolation.*
+
+When we have by experiment obtained two or more numerical results,
+and endeavour, without further experiment, to calculate intermediate
+results, we are said to *interpolate*. If we wish to assign by
+reasoning results lying beyond the limits of experiment, we may be
+said, using an expression of Sir George Airy, to *extrapolate*. These
+two operations are the same in principle, but differ in practicability.
+It is a matter of great scientific importance to apprehend precisely
+how far we can practise interpolation or extrapolation, and on what
+grounds we proceed.
+
+In the first place, if the interpolation is to be more than empirical,
+we must have not only the experimental results, but the laws which they
+obey--we must in fact go through the complete process of scientific
+investigation. Having discovered the laws of nature applying to the
+case, and verified them by showing that they agree with the experiments
+in question, we are then in a position to anticipate the results of
+similar experiments. Our knowledge even now is not certain, because we
+cannot completely prove the truth of any assumed law, and we cannot
+possibly exhaust all the circumstances which may affect the result. At
+the best then our interpolations will partake of the want of certainty
+and precision attaching to all our knowledge of nature. Yet, having the
+supposed laws, our results will be as sure and accurate as any we can
+attain to. But such a complete procedure is more than we commonly mean
+by interpolation, which usually denotes some method of estimating in a
+merely approximate manner the results which might have been expected
+independently of a theoretical investigation.
+
+Regarded in this light, interpolation is in reality an indeterminate
+problem. From given values of a function it is impossible to determine
+that function; for we can invent an infinite number of functions which
+will give those values if we are not restricted by any conditions, just
+as through a given series of points we can draw an infinite number of
+curves, if we may diverge between or beyond the points into bends and
+cusps as we think fit.[410] In interpolation we must in fact be guided
+more or less by *à priori* considerations; we must know, for instance,
+whether or not periodical fluctuations are to be expected. Supposing
+that the phenomenon is non-periodic, we proceed to assume that the
+function can be expressed in a limited series of the powers of the
+variable. The number of powers which can be included depends upon the
+number of experimental results available, and must be at least one less
+than this number. By processes of calculation, which have been already
+alluded to in the section on empirical formulæ, we then calculate the
+coefficients of the powers, and obtain an empirical formula which will
+give the required intermediate results. In reality, then, we return
+to the methods treated under the head of approximation and empirical
+formulæ; and interpolation, as commonly understood, consists in
+assuming that a curve of simple character is to pass through certain
+determined points. If we have, for instance, two experimental results,
+and only two, we assume that the curve is a straight line; for the
+parabolas which can be passed through two points are infinitely various
+in magnitude, and quite indeterminate. One straight line alone can
+pass through two points, and it will have an equation of the form,
+*y* = *mx* + *n*, the constant quantities of which can be determined
+from two results. Thus, if the two values for *x*, 7 and 11, give
+the values for *y*, 35 and 53, the solution of two equations gives
+*y* = 4·5 × *x* + 3·5 as the equation, and for any other value of *x*,
+for instance 10, we get a value of *y*, that is 48·5. When we take a
+mean value of *x*, namely 9, this process yields a simple mean result,
+namely 44. Three experimental results being given, we assume that they
+fall upon a portion of a parabola and algebraic calculation gives the
+position of any intermediate point upon the parabola. Concerning the
+process of interpolation as practised in the science of meteorology
+the reader will find some directions in the French edition of Kaëmtz’s
+Meteorology.[411]
+
+  [410] Herschel: Lacroix’ *Differential Calculus*, p. 551.
+
+  [411] *Cours complet de Météorologie*, Note A, p. 449.
+
+When we have, either by direct experiment or by the use of a curve,
+a series of values of the variant for equidistant values of the
+variable, it is instructive to take the differences between each
+value of the variant and the next, and then the differences between
+those differences, and so on. If any series of differences approaches
+closely to zero it is an indication that the numbers may be correctly
+represented by a finite empirical formula; if the *n*th differences
+are zero, then the formula will contain only the first *n* - 1 powers
+of the variable. Indeed we may sometimes obtain by the calculus of
+differences a correct empirical formula; for if *p* be the first term
+of the series of values, and Δ*p*, Δ^{2}*p*, Δ^{3}*p*, be the first
+number in each column of differences, then the *m*th term of the series
+of values will be
+
+  *p* + *m*Δ*p* + *m*[(*m* - 1)/2]Δ^{2}*p* +
+  *m*[(*m* - 1)/2][(*m* - 2)/3]Δ^{3}*p* + &c.
+
+A closely equivalent but more practicable formula for interpolation
+by differences, as devised by Lagrange, will be found in Thomson and
+Tait’s *Elements of Natural Philosophy*, p. 115.
+
+If no column of differences shows any tendency to become zero
+throughout, it is an indication that the law is of a more complicated,
+for instance of an exponential character, so that it requires different
+treatment. Dr. J. Hopkinson has suggested a method of arithmetical
+interpolation,[412] which is intended to avoid much that is arbitrary
+in the graphical method. His process will yield the same results in all
+hands.
+
+  [412] *On the Calculation of Empirical Formulæ. The Messenger of
+  Mathematics*, New Series, No. 17, 1872.
+
+So far as we can infer the results likely to be obtained by variations
+beyond the limits of experiment, we must proceed upon the same
+principles. If possible we must detect the exact laws in action,
+and then trust to them as a guide when we have no experience. If
+not, an empirical formula of the same character as those employed in
+interpolation is our only resource. But to extend our inference far
+beyond the limits of experience is exceedingly unsafe. Our knowledge is
+at the best only approximate, and takes no account of small tendencies.
+Now it usually happens that tendencies small within our limits of
+observation become perceptible or great under extreme circumstances.
+When the variable in our empirical formula is small, we are justified
+in overlooking the higher powers, and taking only two or three lower
+powers. But as the variable increases, the higher powers gain in
+importance, and in time yield the principal part of the value of the
+function.
+
+This is no mere theoretical inference. Excepting the few primary
+laws of nature, such as the law of gravity, of the conservation of
+energy, &c., there is hardly any natural law which we can trust in
+circumstances widely different from those with which we are practically
+acquainted. From the expansion or contraction, fusion or vaporisation
+of substances by heat at the surface of the earth, we can form a most
+imperfect notion of what would happen near the centre of the earth,
+where the pressure almost infinitely exceeds anything possible in our
+experiments. The physics of the earth give us a feeble, and probably a
+misleading, notion of a body like the sun, in which an inconceivably
+high temperature is united with an inconceivably high pressure. If
+there are in the realms of space nebulæ consisting of incandescent
+and unoxidised vapours of metals and other elements, so highly heated
+perhaps that chemical composition is out of the question, we are
+hardly able to treat them as subjects of scientific inference. Hence
+arises the great importance of experiments in which we investigate the
+properties of substances under extreme circumstances of cold or heat,
+density or rarity, intense electric excitation, &c. This insecurity
+in extending our inferences arises from the approximate character
+of our measurements. Had we the power of appreciating infinitely
+small quantities, we should by the principle of continuity discover
+some trace of every change which a substance could undergo under
+unattainable circumstances. By observing, for instance, the tension of
+aqueous vapour between 0° and 100° C., we ought theoretically to be
+able to infer its tension at every other temperature; but this is out
+of the question practically because we cannot really ascertain the law
+precisely between those temperatures.
+
+Many instances might be given to show that laws which appear to
+represent correctly the results of experiments within certain limits
+altogether fail beyond those limits. The experiments of Roscoe and
+Dittmar, on the absorption of gases in water[413] afford interesting
+illustrations, especially in the case of hydrochloric acid, the
+quantity of which dissolved in water under different pressures
+follows very closely a linear law of variation, from which however it
+diverges widely at low pressures.[414] Herschel, having deduced from
+observations of the double star γ Virginis an elliptic orbit for the
+motion of one component round the centre of gravity of both, found that
+for a time the motion of the star agreed very well with this orbit.
+Nevertheless divergence began to appear and after a time became so
+great that an entirely new orbit, of more than double the dimensions of
+the old one, had ultimately to be adopted.[415]
+
+  [413] Watts’ *Dictionary of Chemistry*, vol. ii. p. 790.
+
+  [414] *Quarterly Journal of the Chemical Society*, vol. viii. p. 15.
+
+  [415] *Results of Observations at the Cape of Good Hope*, p. 293.
+
+
+*Illustrations of Empirical Quantitative Laws.*
+
+Although our object in quantitative inquiry is to discover the exact or
+rational formulæ, expressing the laws which apply to the subject, it
+is instructive to observe in how many important branches of science,
+no precise laws have yet been detected. The tension of aqueous vapour
+at different temperatures has been determined by a succession of
+eminent experimentalists--Dalton, Kaëmtz, Dulong, Arago, Magnus, and
+Regnault--and by the last mentioned the measurements were conducted
+with extraordinary care. Yet no incontestable general law has been
+established. Several functions have been proposed to express the
+elastic force of the vapour as depending on the temperature. The first
+form is that of Young, namely F = (*a* + *b t*)^{m}, in which *a*,
+*b*, and *m* are unknown quantities to be determined by observation.
+Roche proposed, on theoretical grounds, a complicated formula of an
+exponential form, and a third form of function is that of Biot,[416] as
+follows--log F = *a* + *b*α^{t} + *c*β^{t}. I mention these formulæ,
+because they well illustrate the feeble powers of empirical inquiry.
+None of the formulæ can be made to correspond closely with experimental
+results, and the two last forms correspond almost equally well. There
+is very little probability that the real law has been reached, and
+it is unlikely that it will be discovered except by deduction from
+mechanical theory.
+
+  [416] Jamin, *Cours de Physique*, vol. ii. p. 138.
+
+Much ingenious labour has been spent upon the discovery of some general
+law of atmospheric refraction. Tycho Brahe and Kepler commenced the
+inquiry: Cassini first formed a table of refractions, calculated on
+theoretical grounds: Newton entered into some profound investigations
+upon the subject: Brooke Taylor, Bouguer, Simpson, Bradley, Mayer,
+and Kramp successively attacked the question, which is of the highest
+practical importance as regards the correction of astronomical
+observations. Laplace next laboured on the subject without exhausting
+it, and Brinkley and Ivory have also treated it. The true law is
+yet undiscovered. A closely connected problem, that regarding the
+relation between the pressure and elevation in different strata of
+the atmosphere, has received the attention of a long succession of
+physicists and was most carefully investigated by Laplace. Yet no
+invariable and general law has been detected. The same may be said
+concerning the law of human mortality; abundant statistics on this
+subject are available, and many hypotheses more or less satisfactory
+have been put forward as to the form of the curve of mortality, but it
+seems to be impossible to discover more than an approximate law.
+
+It may perhaps be urged that in such subjects no single invariable
+law can be expected. The atmosphere may be divided into several
+variable strata which by their unconnected changes frustrate the exact
+calculations of astronomers. Human life may be subject at different
+ages to a succession of different influences incapable of reduction
+under any one law. The results observed may in fact be aggregates of an
+immense number of separate results each governed by its own separate
+laws, so that the subjects may be complicated beyond the possibility of
+complete resolution by empirical methods. This is certainly true of the
+mathematical functions which must some time or other be introduced into
+the science of political economy.
+
+
+*Simple Proportional Variation.*
+
+When we first treat numerical results in any novel kind of
+investigation, our impression will probably be that one quantity
+varies in *simple proportion* to another, so as to obey the law
+*y* = *mx* + *n*. We must learn to distinguish carefully between the
+cases where this proportionality is really, and where it is only
+apparently true. In considering the principles of approximation we
+found that a small portion of any curve will appear to be a straight
+line. When our modes of measurement are comparatively rude, we must
+expect to be unable to detect the curvature. Kepler made meritorious
+attempts to discover the law of refraction, and he approximated to it
+when he observed that the angles of incidence and refraction *if small*
+bear a constant ratio to each other. Angles when small are nearly as
+their sines, so that he reached an approximate result of the true law.
+Cardan assumed, probably as a mere guess, that the force required to
+sustain a body on an inclined plane was simply proportional to the
+angle of elevation of the plane. This is approximately the case when
+the angle is small, but in reality the law is much more complicated,
+the power required being proportional to the sine of the angle. The
+early thermometer-makers were unaware whether the expansion of mercury
+was proportional or not to the heat communicated to it, and it is only
+in the present century that we have learnt it to be not so. We now
+know that even gases obey the law of uniform expansion by heat only
+in an approximate manner. Until reason to the contrary is shown, we
+should do well to look upon every law of simple proportion as only
+provisionally true.
+
+Nevertheless many important laws of nature are in the form of simple
+proportions. Wherever a cause acts in independence of its previous
+effects, we may expect this relation. An accelerating force acts
+equally upon a moving and a motionless body. Hence the velocity
+produced is in simple proportion to the force, and to the duration of
+its uniform action. As gravitating bodies never interfere with each
+other’s gravity, this force is in direct simple proportion to the
+mass of each of the attracting bodies, the mass being measured by, or
+proportional to inertia. Similarly, in all cases of “direct unimpeded
+action,” as Herschel has remarked,[417] we may expect simple proportion
+to manifest itself. In such cases the equation expressing the relation
+may have the simple form *y* = *mx*.
+
+  [417] *Preliminary Discourse*, &c., p. 152.
+
+A similar relation holds true when there is conversion of one substance
+or form of energy into another. The quantity of a compound is equal
+to the quantity of the elements which combine. The heat produced in
+friction is exactly proportional to the mechanical energy absorbed.
+It was experimentally proved by Faraday that “the chemical power of
+the current of electricity is in direct proportion to the quantity of
+electricity which passes.” When an electric current is produced, the
+quantity of electric energy is simply proportional to the weight of
+metal dissolved. If electricity is turned into heat, there is again
+simple proportion. Wherever, in fact, one thing is but another thing
+with a new aspect, we may expect to find the law of simple proportion.
+But it is only in the most elementary cases that this simple relation
+will hold true. Simple conditions do not, generally speaking, produce
+simple results. The planets move in approximate circles round the sun,
+but the apparent motions, as seen from the earth, are very various. All
+those motions, again, are summed up in the law of gravity, of no great
+complexity; yet men never have been, and never will be, able to exhaust
+the complications of action and reaction arising from that law, even
+among a small number of planets. We should be on our guard against a
+tendency to assume that the connection of cause and effect is one of
+direct proportion. Bacon reminds us of the woman in Æsop’s fable, who
+expected that her hen, with a double measure of barley, would lay two
+eggs a day instead of one, whereas it grew fat, and ceased to lay any
+eggs at all. It is a wise maxim that the half is often better than the
+whole.
+
+
+
+

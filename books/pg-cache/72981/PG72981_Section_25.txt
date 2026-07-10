@@ -1,0 +1,342 @@
+CHAPTER XXV
+
+THE VALIDITY OF INFERENCE
+
+
+It is customary in science to regard certain facts as “data”, from
+which laws and also other facts are “inferred”. We saw in Chapter VII
+that the _practice_ of inference is much wider than the theories of any
+logician would justify, and that it is nothing other than the law of
+association or of “learned reactions”. In the present chapter, I wish
+to consider what the logicians have evolved from this primitive form of
+inference, and what grounds we have, as rational beings, for continuing
+to infer. But let us first get as clear a notion as we can of what
+should be meant by a “datum”.
+
+The conception of a “datum” cannot be made absolute. Theoretically,
+it should mean something that we know without inference. But before
+this has any definite meaning, we must define both “knowledge” and
+“inference”. Both these terms have been considered in earlier chapters.
+For our present purpose it will simplify matters to take account only
+of such knowledge as is expressed in words. We considered in Chapter
+XXIV the conditions required in order that a form of words may be
+“true”; for present purposes, therefore, we may say that “knowledge”
+means “the assertion of a true form of words”. This definition is not
+quite adequate, since a man may be right by chance; but we may ignore
+this complication. We may then define a “datum” as follows: A “datum”
+is a form of words which a man utters as the result of a stimulus, with
+no intermediary of any learned reaction beyond what is involved in
+knowing how to speak. We must, however, permit such learned reactions
+as consist in adjustments of the sense-organs or in mere increase of
+sensitivity. These merely improve the receptivity to data, and do not
+involve anything that can be called inference.
+
+If the above definition is accepted, all our data for knowledge of
+the external world must be of the nature of percepts. The belief in
+external objects is a learned reaction acquired in the first months of
+life, and it is the duty of the philosopher to treat it as an inference
+whose validity must be tested. A very little consideration shows that,
+logically, the inference cannot be demonstrative, but must be at best
+probable. It is not logically _impossible_ that my life may be one
+long dream, in which I merely imagine all the objects that I believe
+to be external to me. If we are to reject this view, we must do so on
+the basis of an inductive or analogical argument, which cannot give
+complete certainty. We perceive other people behaving in a manner
+analogous to that in which we behave, and we assume that they have had
+similar stimuli. We may hear a whole crowd say “oh” at the moment when
+we see a rocket burst, and it is natural to suppose that the crowd
+saw it too. Nor are such arguments confined to living organisms. We
+can talk to a dictaphone and have it afterwards repeat what we said;
+this is most easily explained by the hypothesis that at the surface
+of the dictaphone events happened, while I was speaking, which were
+closely analogous to those that were happening just outside my ears.
+It remains _possible_ that there is no dictaphone and I have no ears
+and there is no crowd watching the rocket; my percepts _may_ be all
+that is happening in such cases. But, if so, it is difficult to arrive
+at any causal laws, and arguments from analogy are more misleading
+than we are inclined to think them. As a matter of fact, the whole
+structure of science, as well as the world of common sense, demands
+the use of induction and analogy if it is to be believed. These forms
+of inference, therefore, rather than deduction, are those that must be
+examined if we are to accept the world of science or any world outside
+of our own dreams.
+
+Let us take a simple example of an induction which we have all
+performed in practice. If we are hungry, we eat certain things we see
+and not others--it may be said that we infer edibility inductively
+from a certain visual and olfactory appearance. The history of this
+process is that children a few months old put everything into their
+mouths unless they are stopped; sometimes the result is pleasant,
+sometimes unpleasant; they repeat the former rather than the latter.
+That is to say: given that an object having a certain visual and
+olfactory appearance has been found pleasant to eat, an object having
+a very similar appearance will be eaten; but when a certain appearance
+has been found connected with unpleasant consequences when eaten, a
+similar appearance does not lead to eating next time. The question is:
+what logical justification is there for our behaviour? Given all our
+past experience, are we more likely to be nourished by bread than by a
+stone? It is easy to see why we think so, but can we, as philosophers
+justify this way of thinking?
+
+It is, of course, obvious that unless one thing can be a sign of
+another both science and daily life would be impossible. More
+particularly, reading involves this principle. One accepts printed
+words as signs, but this is only justifiable by means of induction.
+I do not mean that induction is necessary to establish the existence
+of other people, though that also, as we have seen, is true. I mean
+something simpler. Suppose you want your hair cut, and as you walk
+along the street you see a notice “hair-cutting, first floor”. It
+is only by means of induction that you can _establish_ that this
+_notice_ makes it in some degree probable that there is a hair-cutter’s
+establishment on the first floor. I do not mean that you employ the
+principle of induction; I mean that you act in accordance with it,
+and that you would have to appeal to it if you were accompanied by a
+long-haired sceptical philosopher who refused to go upstairs till he
+was persuaded there was some point in doing so.
+
+The principle of induction, _prima facie_, is as follows: Let there
+be two kinds of events, A and B (_e.g._ lightning and thunder), and
+let many instances be known in which an event of the kind A has
+been quickly followed by one of the kind B, and no instances of the
+contrary. Then either a sufficient number of instances of this
+sequence, or instances of suitable kinds will make it increasingly
+probable that A is always followed by B, and in time the probability
+can be made to approach certainty without limit provided the right
+kind and number of instances can be found. This is the principle we
+have to examine. Scientific theories of induction generally try to
+substitute well-chosen instances for numerous instances, and represent
+number of instances as belonging to crude popular induction. But in
+fact popular induction depends upon the emotional interest of the
+instances, not upon their number. A child who has burnt its hand
+_once_ in a candle-flame establishes an induction, but words take
+longer, because at first they are not emotionally interesting. The
+principle used in primitive practice is: Whatever, on a given occasion,
+immediately precedes something very painful or pleasant, is a sign
+of that interesting event. Number plays a secondary part as compared
+with emotional interest. That is one reason why rational thought is so
+difficult.
+
+The logical problem of induction is to show that the proposition “A
+is always accompanied (or followed) by B” can be rendered probable by
+knowledge of instances in which this happens, provided the instances
+are suitably chosen or very numerous. Far the best examination of
+induction is contained in Mr. J. M. Keynes’s _Treatise on Probability_.
+There is a valuable doctor’s thesis by the late Jean Nicod, _Le
+Problème logique de l’induction_, which is very ably reviewed by R. B.
+Braithwaite in _Mind_, October 1925. A man who reads these three will
+know most of what is known about induction. The subject is technical
+and difficult, involving a good deal of mathematics, but I will attempt
+to give the gist of the results.
+
+We will begin with the condition in which the problem had been left by
+J. S. Mill. He had four canons of induction, by means of which, given
+suitable examples, it could be demonstrated that A and B were causally
+connected, if the law of causation could be assumed. That is to say,
+given the law of causation, the scientific use of induction could
+be reduced to deduction. Roughly the method is this: We know that B
+must have a cause; the cause cannot be C or D or E, etc., because we
+find by experiment or observation that these may be present without
+producing B. On the other hand, we never succeed in finding A without
+its being accompanied (or followed) by B. If A and B are both capable
+of quantity, we may find further that the more there is of A the more
+there is of B. By such methods we eliminate all possible causes except
+A; therefore, since B must have a cause, that cause must be A. All
+this is not really induction at all; true induction only comes in in
+proving the law of causation. This law Mill regards as proved by mere
+enumeration of instances: we know vast numbers of events which have
+causes, and no events which can be shown to be uncaused; therefore, it
+is highly probable that all events have causes. Leaving out of account
+the fact that the law of causality cannot have quite the form that Mill
+supposed, we are left with the problem: Does mere number of instances
+afford a basis for induction? If not, is there any other basis? This is
+the problem to which Mr. Keynes addresses himself.
+
+Mr. Keynes holds that an induction may be rendered more probable by
+number of instances, not because of their mere number, but because of
+the probability, if the instances are very numerous, that they will
+have nothing in common except the characteristics in question. We want,
+let us suppose, to find out whether some quality A is always associated
+with some quality B. We find instances in which this is the case; but
+it may happen that in all our instances some quality C is also present,
+and that it is C that is associated with B. If we can so choose our
+instances that they have nothing in common except the qualities A and
+B, then we have better grounds for holding that A is always associated
+with B. If our instances are very numerous, then, even if we do not
+_know_ that they have no other common quality, it may become quite
+likely that this is the case. This, according to Mr. Keynes, is the
+sole value of many instances.
+
+A few technical terms are useful. Suppose we want to establish
+inductively that there is some probability in favour of the
+generalisation: “Everything that has the property _F_ also has the
+property _f_”. We will call this generalisation _g_. Suppose we have
+observed a number of instances in which _F_ and _f_ go together, and
+no instances to the contrary. These instances may have other common
+properties as well; the sum-total of their common properties is called
+the _total positive analogy_, and the sum-total of their _known_ common
+qualities is called the _known positive analogy_. The properties
+belonging to some but not to all of the instances in question are
+called the _negative analogy_: all of them constitute the _total
+negative analogy_, all those that are _known_ constitute the _known
+negative analogy_. To strengthen an induction, we want to diminish the
+positive analogy to the utmost possible extent; this, according to Mr.
+Keynes, is why numerous instances are useful.
+
+On “pure” induction, where we rely solely upon number of instances,
+without _knowing_ how they affect the analogy, Mr. Keynes concludes
+(_Treatise in Probability_, p. 236):
+
+“We have shown that if each of the instances necessarily follows
+from the generalisation, then each additional instance increases the
+probability of the generalisation, so long as the new instance could
+not have been predicted with certainty from a knowledge of the former
+instances.... The common notion, that each successive verification of
+a doubtful principle strengthens it, is formally proved, therefore
+without any appeal to conceptions of law or of causality. _But we have
+not proved_ that this probability approaches certainty as a limit, or
+even that our conclusion becomes more likely than not, as the number of
+verifications or instances is indefinitely increased.”
+
+It is obvious that induction is not much use unless, with suitable
+care, its conclusions can be rendered more likely to be true than
+false. This problem therefore necessarily occupies Mr. Keynes.
+
+It is found that an induction will approach certainty as a limit if two
+conditions are fulfilled:
+
+(1) If the generalisation is false, the probability of its being true
+in a new instance when it has been found to be true in a certain
+number of instances, however great that number may be, falls short of
+certainty by a finite amount.
+
+(2) There is a finite _a priori_ probability in favour of our
+generalisation.
+
+Mr. Keynes uses “finite” here in a special sense. He holds that not all
+probabilities are numerically measurable; a “finite” probability is one
+which exceeds some numerically measurable probability however small.
+_E.g._ our generalisation has a finite _a priori_ probability if it is
+less unlikely than throwing heads a billion times running.
+
+The difficulty is, however, that there is no easily discoverable way of
+estimating the _a priori_ probability of a generalisation. In examining
+this question, Mr. Keynes is led to a very interesting postulate
+which, if true, will, he thinks, give the required finite _a priori_
+probability. His postulate as he gives it is not quite correct, but I
+shall give his form first, and then the necessary modification.
+
+Mr. Keynes supposes that the qualities of objects cohere in groups,
+so that the number of _independent_ qualities is much less than the
+total number of qualities. We may conceive this after the analogy
+of biological species: a cat has a number of distinctive qualities
+which are found in all cats, a dog has a number of other distinctive
+qualities which are found in all dogs. The method of induction can, he
+says, be justified if we assume “that the objects in the field, over
+which our generalisations extend, do not have an infinite number of
+independent qualities; that, in other words, their characteristics,
+however numerous, cohere together in groups of invariable connection,
+which are finite in number” (p. 256). Again (p. 258): “As a biological
+foundation for Analogy, therefore, we seem to need some such assumption
+as that the amount of variety in the universe is limited in such a way
+that there is no one object so complex that its qualities fall into an
+infinite number of independent groups ... or rather that none of the
+objects about which we generalise are as complex as this; or at least
+that, though some objects may be infinitely complex, we sometimes have
+a finite probability that an object about which we seek to generalise
+is not infinitely complex.”
+
+This postulate is called the “principle of limitation of variety”. Mr.
+Keynes again finds that it is needed in attempts to establish laws
+by statistics; if he is right, it is needed for all our scientific
+knowledge outside pure mathematics. Jean Nicod pointed out that it is
+not quite sufficiently stringent. We need, according to Mr. Keynes,
+a finite probability that the object in question has only a finite
+number of independent qualities; but what we really need is a finite
+probability that the number of its independent qualities is less than
+some assigned finite number. This is a very different thing, as may be
+seen by the following illustration. Suppose there is some number of
+which we know only that it is finite; it is infinitely improbable that
+it will be less than a million, or a billion, or any other assigned
+finite number, because, whatever such number we take, the number
+of smaller numbers is finite and the number of greater numbers is
+infinite. Nicod requires us to assume that there is a finite number _n_
+such that there is a finite probability that the number of independent
+qualities of our object is less than _n_. This is a much stronger
+assumption than Mr. Keynes’s, which is merely that the number of
+independent qualities is finite. It is the stronger assumption which is
+needed to justify induction.
+
+This result is very interesting and very important. It is remarkable
+that it is in line with the trend of modern science. Eddington has
+pointed out that there is a certain finite number which is fundamental
+in the universe, namely the number of electrons. According to the
+quantum theory, it would seem that the number of possible arrangements
+of electrons may well also be finite, since they cannot move in all
+possible orbits, but only in such as make the action in one complete
+revolution conform to the quantum principle. If all this is true, the
+principle of limitation of variety may well also be true. We cannot,
+however, arrive at a proof of our principle in this way, because
+physics uses induction, and is therefore presumably invalid unless
+the principle is true. What we can say, in a general way, is that
+the principle does not refute itself, but, on the contrary, leads to
+results which confirm it. To this extent, the trend of modern science
+may be regarded as increasing the plausibility of the principle.
+
+It is important to realise the fundamental position of probability in
+science. At the very best, induction and analogy only give probability.
+Every inference worthy of the name is inductive, therefore all inferred
+knowledge is at best probable. As to what is meant by probability,
+opinions differ. Mr. Keynes takes it as a fundamental logical category:
+certain premisses may make a conclusion more or less probable, without
+making it certain. For him, probability is a relation between a premiss
+and a conclusion. A proposition does not have a definite probability
+on its own account; in itself, it is merely true or false. But it has
+probabilities of different amounts in regard to different premisses.
+When we speak, elliptically, of _the_ probability of a proposition,
+we mean its probability in relation to all our relevant knowledge.
+A proposition in probability cannot be refuted by mere observation:
+improbable things may happen and probable things may fail to happen.
+Nor is an estimate of probability relevant to given evidence proved
+wrong when further evidence alters the probability.
+
+For this reason the inductive principle cannot be proved or disproved
+by experience. We might prove validly that such and such a conclusion
+was enormously probable, and yet it might not happen. We might
+prove invalidly that it was probable, and yet it might happen.
+What happens affects the probability of a proposition, since it is
+relevant evidence; but it never alters the probability relative to
+the previously available evidence. The whole subject of probability,
+therefore, on Mr. Keynes’s theory, is strictly _a priori_ and
+independent of experience.
+
+There is however another theory, called the “frequency theory”, which
+would make probability not indefinable, and would allow empirical
+evidence to affect our estimates of probability relative to given
+premisses. According to this theory in its crude form, the probability
+that an object having the property _F_ will have the property _f_ is
+simply the proportion of the objects having both properties to all
+those having the property _F_. For example, in a monogamous country
+the probability of a married person being male is exactly a half. Mr.
+Keynes advances strong arguments against all forms of this theory that
+existed when his book was written. There is however an article by R. H.
+Nisbet on “The Foundations of Probability” in _Mind_ for January 1926,
+which undertakes to rehabilitate the frequency theory. His arguments
+are interesting, and suffice to show that the controversy is still an
+open one, but they do not, in my opinion, amount to decisive proof.
+It is to be observed, however, that the frequency theory, if it could
+be maintained, would be preferable to Mr. Keynes’s, because it would
+get rid of the necessity for treating probability as indefinable, and
+would bring probability into much closer touch with what actually
+occurs. Mr. Keynes leaves an uncomfortable gap between probability and
+fact, so that it is far from clear why a rational man will act upon a
+probability. Nevertheless, the difficulties of the frequency theory
+are so considerable that I cannot venture to advocate it definitely.
+Meanwhile, the details of the discussion are unaffected by the view
+we may take on this fundamental philosophical question. And on either
+view the principle of limitation of variety will be equally necessary
+to give validity to the inferences by induction and analogy upon which
+science and daily life depend.
+
+
+
+

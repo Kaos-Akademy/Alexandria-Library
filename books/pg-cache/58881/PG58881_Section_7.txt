@@ -1,0 +1,335 @@
+CHAPTER VIII.
+
+_CONCERNING THE LAWS OF PROBABILITY WHICH RESULT FROM THE INDEFINITE
+MULTIPLICATION OF EVENTS._
+
+
+Amid the variable and unknown causes which we comprehend under the name
+of _chance_, and which render uncertain and irregular the march of
+events, we see appearing, in the measure that they multiply, a striking
+regularity which seems to hold to a design and which has been considered
+as a proof of Providence. But in reflecting upon this we soon recognize
+that this regularity is only the development of the respective
+possibilities of simple events which ought to present themselves more
+often when they are more probable. Let us imagine, for example, an urn
+which contains white balls and black balls; and let us suppose that each
+time a ball is drawn it is put back into the urn before proceeding to a
+new draw. The ratio of the number of the white balls drawn to the number
+of black balls drawn will be most often very irregular in the first
+drawings; but the variable causes of this irregularity produce effects
+alternately favorable and unfavorable to the regular march of events
+which destroy each other mutually in the totality of a great number of
+draws, allowing us to perceive more and more the ratio of white balls to
+the black balls contained in the urn, or the respective possibilities of
+drawing a white ball or black ball at each draw. From this results the
+following theorem.
+
+The probability that the ratio of the number of white balls drawn to the
+total number of balls drawn does not deviate beyond a given interval
+from the ratio of the number of white balls to the total number of balls
+contained in the urn, approaches indefinitely to certainty by the
+indefinite multiplication of events, however small this interval.
+
+This theorem indicated by common sense was difficult to demonstrate by
+analysis. Accordingly the illustrious geometrician Jacques Bernoulli,
+who first has occupied himself with it, attaches great importance to the
+demonstrations he has given. The calculus of discriminant functions
+applied to this matter not only demonstrates with facility this theorem,
+but still more it gives the probability that the ratio of the events
+observed deviates only in certain limits from the true ratio of their
+respective possibilities.
+
+One may draw from the preceding theorem this consequence which ought to
+be regarded as a general law, namely, that the ratios of the acts of
+nature are very nearly constant when these acts are considered in great
+number. Thus in spite of the variety of years the sum of the productions
+during a considerable number of years is sensibly the same; so that man
+by useful foresight is able to provide against the irregularity of the
+seasons by spreading out equally over all the seasons the goods which
+nature distributes in an unequal manner. I do not except from the above
+law results due to moral causes. The ratio of annual births to the
+population, and that of marriages to births, show only small variations;
+at Paris the number of annual births is almost the same, and I have
+heard it said at the post-office in ordinary seasons the number of
+letters thrown aside on account of defective addresses changes little
+each year; this has likewise been observed at London.
+
+It follows again from this theorem that in a series of events
+indefinitely prolonged the action of regular and constant causes ought
+to prevail in the long run over that of irregular causes. It is this
+which renders the gains of the lotteries just as certain as the products
+of agriculture; the chances which they reserve assure them a benefit in
+the totality of a great number of throws. Thus favorable and numerous
+chances being constantly attached to the observation of the eternal
+principles of reason, of justice, and of humanity which establish and
+maintain societies, there is a great advantage in conforming to these
+principles and of grave inconvenience in departing from them. If one
+consult histories and his own experience, one will see all the facts
+come to the aid of this result of calculus. Consider the happy effects
+of institutions founded upon reason and the natural rights of man among
+the peoples who have known how to establish and preserve them. Consider
+again the advantages which good faith has procured for the governments
+who have made it the basis of their conduct and how they have been
+indemnified for the sacrifices which a scrupulous exactitude in keeping
+their engagements has cost them. What immense credit at home! What
+preponderance abroad! On the contrary, look into what an abyss of
+misfortunes nations have often been precipitated by the ambition and the
+perfidy of their chiefs. Every time that a great power intoxicated by
+the love of conquest aspires to universal domination the sentiment of
+independence produces among the menaced nations a coalition of which it
+becomes almost always the victim. Similarly in the midst of the variable
+causes which extend or restrain the divers states, the natural limits
+acting as constant causes ought to end by prevailing. It is important
+then to the stability as well as to the happiness of empires not to
+extend them beyond those limits into which they are led again without
+cessation by the action of the causes; just as the waters of the seas
+raised by violent tempests fall again into their basins by the force of
+gravity. It is again a result of the calculus of probabilities confirmed
+by numerous and melancholy experiences. History treated from the point
+of view of the influence of constant causes would unite to the interest
+of curiosity that of offering to man most useful lessons. Sometimes we
+attribute the inevitable results of these causes to the accidental
+circumstances which have produced their action. It is, for example,
+against the nature of things that one people should ever be governed by
+another when a vast sea or a great distance separates them. It may be
+affirmed that in the long run this constant cause, joining itself
+without ceasing to the variable causes which act in the same way and
+which the course of time develops, will end by finding them sufficiently
+strong to give to a subjugated people its natural independence or to
+unite it to a powerful state which may be contiguous.
+
+In a great number of cases, and these are the most important of the
+analysis of hazards, the possibilities of simple events are unknown and
+we are forced to search in past events for the indices which can guide
+us in our conjectures about the causes upon which they depend. In
+applying the analysis of discriminant functions to the principle
+elucidated above on the probability of the causes drawn from the events
+observed, we are led to the following theorem.
+
+When a simple event or one composed of several simple events, as, for
+instance, in a game, has been repeated a great number of times the
+possibilities of the simple events which render most probable that which
+has been observed are those that observation indicates with the greatest
+probability; in the measure that the observed event is repeated this
+probability increases and would end by amounting to certainty if the
+numbers of repetitions should become infinite.
+
+There are two kinds of approximations: the one is relative to the limits
+taken on all sides of the possibilities which give to the past the
+greatest probability; the other approximation is related to the
+probability that these possibilities fall within these limits. The
+repetition of the compound event increases more and more this
+probability, the limits remaining the same; it reduces more and more the
+interval of these limits, the probability remaining the same; in
+infinity this interval becomes zero and the probability changes to
+certainty.
+
+If we apply this theorem to the ratio of the births of boys to that of
+girls observed in the different countries of Europe, we find that this
+ratio, which is everywhere about equal to that of 22 to 21, indicates
+with an extreme probability a greater facility in the birth of boys.
+Considering further that it is the same at Naples and at St. Petersburg,
+we shall see that in this regard the influence of climate is without
+effect. We might then suspect, contrary to the common belief, that this
+predominance of masculine births exists even in the Orient. I have
+consequently invited the French scholars sent to Egypt to occupy
+themselves with this interesting question; but the difficulty in
+obtaining exact information about the births has not permitted them to
+solve it. Happily, M. de Humboldt has not neglected this matter among
+the innumerable new things which he has observed and collected in
+America with so much sagacity, constancy, and courage. He has found in
+the tropics the same ratio of the births as we observe in Paris; this
+ought to make us regard the greater number of masculine births as a
+general law of the human race. The laws which the different kinds of
+animals follow in this regard seem to me worthy of the attention of
+naturalists.
+
+The fact that the ratio of births of boys to that of girls differs very
+little from unity even in the great number of the births observed in a
+place would offer in this regard a result contrary to the general law,
+without which we should be right in concluding that this law did not
+exist. In order to arrive at this result it is necessary to employ great
+numbers and to be sure that it is indicated by great probability. Buffon
+cites, for example, in his _Political Arithmetic_ several communities of
+Bourgogne where the births of girls have surpassed those of boys. Among
+these communities that of Carcelle-le-Grignon presents in 2009 births
+during five years 1026 girls and 983 boys. Although these numbers are
+considerable, they indicate, however, only a greater possibility in the
+births of girls with a probability of 9/10, and this probability,
+smaller than that of not throwing heads four times in succession in the
+game of heads and tails, is not sufficient to investigate the cause for
+this anomaly, which, according to all probability, would disappear if
+one should follow during a century the births in this community.
+
+The registers of births, which are kept with care in order to assure the
+condition of the citizens, may serve in determining the population of a
+great empire without recurring to the enumeration of its inhabitants—a
+laborious operation and one difficult to make with exactitude. But for
+this it is necessary to know the ratio of the population to the annual
+births. The most precise means of obtaining it consists, first, in
+choosing in the empire districts distributed in an almost equal manner
+over its whole surface, so as to render the general result independent
+of local circumstances; second, in enumerating with care for a given
+epoch the inhabitants of several communities in each of these districts;
+third, by determining from the statement of the births during several
+years which precede and follow this epoch the mean number corresponding
+to the annual births. This number, divided by that of the inhabitants,
+will give the ratio of the annual births to the population in a manner
+more and more accurate as the enumeration becomes more considerable. The
+government, convinced of the utility of a similar enumeration, has
+decided at my request to order its execution. In thirty districts spread
+out equally over the whole of France, communities have been chosen which
+would be able to furnish the most exact information. Their enumerations
+have given 2037615 individuals as the total number of their inhabitants
+on the 23d of September, 1802. The statement of the births in these
+communities during the years 1800, 1801, and 1802 have given:
+
+   Births.      Marriages.        Deaths.
+ 110312 boys      46037         103659 men
+ 105287 girls                    99443 women
+
+The ratio of the population to annual births is then 28 + (352845/1000000);
+it is greater than had been estimated up to this time. Multiplying the
+number of annual births in France by this ratio, we shall have the
+population of this kingdom. But what is the probability that the
+population thus determined will not deviate from the true population
+beyond a given limit? Resolving this problem and applying to its
+solution the preceding data, I have found that, the number of annual
+births in France being supposed to be 1000000, which brings the
+population to 28352845 inhabitants, it is a bet of almost 300000 against
+1 that the error of this result is not half a million.
+
+The ratio of the births of boys to that of girls which the preceding
+statement offers is that of 22 to 21; and the marriages are to the
+births as 3 is to 4.
+
+At Paris the baptisms of children of both sexes vary a little from the
+ratio of 22 to 21. Since 1745, the epoch in which one has commenced to
+distinguish the sexes upon the birth-registers, up to the end of 1784,
+there have been baptized in this capital 393386 boys and 377555 girls.
+The ratio of the two numbers is almost that of 25 to 24; it appears then
+at Paris that a particular cause approximates an equality of baptisms of
+the two sexes. If we apply to this matter the calculus of probabilities,
+we find that it is a bet of 238 to 1 in favor of the existence of this
+cause, which is sufficient to authorize the investigation. Upon
+reflection it has appeared to me that the difference observed holds to
+this, that the parents in the country and the provinces, finding some
+advantage in keeping the boys at home, have sent to the Hospital for
+Foundlings in Paris fewer of them relative to the number of girls
+according to the ratio of births of the two sexes. This is proved by the
+statement of the registers of this hospital. From the beginning of 1745
+to the end of 1809 there were entered 163499 boys and 159405 girls. The
+first of these numbers exceeds only by 1/38 the second, which it ought
+to have surpassed at least by 1/24. This confirms the existence of the
+assigned cause, namely, that the ratio of births of boys to those of
+girls is at Paris that of 22 to 21, no attention having been paid to
+foundlings.
+
+The preceding results suppose that we may compare the births to the
+drawings of balls from an urn which contains an infinite number of white
+balls and black balls so mixed that at each draw the chances of drawing
+ought to be the same for each ball; but it is possible that the
+variations of the same seasons in different years may have some
+influence upon the annual ratio of the births of boys to those of girls.
+The Bureau of Longitudes of France publishes each year in its annual the
+tables of the annual movement of the population of the kingdom. The
+tables already published commence in 1817; in that year and in the five
+following years there were born 2962361 boys and 2781997 girls, which
+gives about 16/15 for the ratio of the births of boys to that of girls.
+The ratios of each year vary little from this mean result; the smallest
+ratio is that of 1822, where it was only 17/16; the greatest is of the
+year 1817, when it was 15/14. These ratios vary appreciably from the
+ratio of 22/21 found above. Applying to this deviation the analysis of
+probabilities in the hypothesis of the comparison of births to the
+drawings of balls from an urn, we find that it would be scarcely
+probable. It appears, then, to indicate that this hypothesis, although
+closely approximated, is not rigorously exact. In the number of births
+which we have just stated there are of natural children 200494 boys and
+190698 girls. The ratio of masculine and feminine births was then in
+this regard 20/19, smaller than the mean ratio of 16/15. This result is
+in the same sense as that of the births of foundlings; and it seems to
+prove that in the class of natural children the births of the two sexes
+approach more nearly equality than in the class of legitimate children.
+The difference of the climates from the north to the south of France
+does not appear to influence appreciably the ratio of the births of boys
+and girls. The thirty most southern districts have given 16/15 for this
+ratio, the same as that of entire France.
+
+The constancy of the superiority of the births of boys over girls at
+Paris and at London since they have been observed has appeared to some
+scholars to be a proof of Providence, without which they have thought
+that the irregular causes which disturb without ceasing the course of
+events ought several times to have rendered the annual births of girls
+superior to those of boys.
+
+But this proof is a new example of the abuse which has been so often
+made of final causes which always disappear on a searching examination
+of the questions when we have the necessary data to solve them. The
+constancy in question is a result of regular causes which give the
+superiority to the births of boys and which extend it to the anomalies
+due to hazard when the number of annual births is considerable. The
+investigation of the probability that this constancy will maintain
+itself for a long time belongs to that branch of the analysis of hazards
+which passes from past events to the probability of future events; and
+taking as a basis the births observed from 1745 to 1784, it is a bet of
+almost 4 against 1 that at Paris the annual births of boys will
+constantly surpass for a century the births of girls; there is then no
+reason to be astonished that this has taken place for a half-century.
+
+Let us take another example of the development of constant ratios which
+events present in the measure that they are multiplied. Let us imagine a
+series of urns arranged circularly, and each containing a very great
+number of white balls and black balls; the ratio of white balls to the
+black in the urns being originally very different and such, for example,
+that one of these urns contains only white balls, while another contains
+only black balls. If one draws a ball from the first urn in order to put
+it into the second, and, after having shaken the second urn in order to
+mix well the new ball with the others, one draws a ball to put it into
+the third urn, and so on to the last urn, from which is drawn a ball to
+put into the first, and if this series is recommenced continually, the
+analysis of probability shows us that the ratios of the white balls to
+the black in these urns will end by being the same and equal to the
+ratio of the sum of all the white balls to the sum of all the black
+balls contained in the urns. Thus by this regular mode of change the
+primitive irregularity of these ratios disappears eventually in order to
+make room for the most simple order. Now if among these urns one
+intercalate new ones in which the ratio of the sum of the white balls to
+the sum of the black balls which they contain differs from the
+preceding, continuing indefinitely in the totality of the urns the
+drawings which we have just indicated, the simple order established in
+the old urns will be at first disturbed, and the ratios of the white
+balls to the black balls will become irregular; but little by little
+this irregularity will disappear in order to make room for a new order,
+which will finally be that of the equality of the ratios of the white
+balls to the black balls contained in the urns. We may apply these
+results to all the combinations of nature in which the constant forces
+by which their elements are animated establish regular modes of action,
+suited to bring about in the very heart of chaos systems governed by
+admirable laws.
+
+The phenomena which seem the most dependent upon hazard present, then,
+when multiplied a tendency to approach without ceasing fixed ratios, in
+such a manner that if we conceive on all sides of each of these ratios
+an interval as small as desired, the probability that the mean result of
+the observations falls within this interval will end by differing from
+certainty only by a quantity greater than an assignable magnitude. Thus
+by the calculations of probabilities applied to a great number of
+observations we may recognize the existence of these ratios. But before
+seeking the causes it is necessary, in order not to be led into vain
+speculations, to assure ourselves that they are indicated by a
+probability which does not permit us to regard them as anomalies due to
+hazard. The theory of discriminant functions gives a very simple
+expression for this probability, which is obtained by integrating the
+product of the differential of the quantity of which the result deduced
+from a great number of observations varies from the truth by a constant
+less than unity, dependent upon the nature of the problem, and raised to
+a power whose exponent is the ratio of the square of this variation to
+the number of observations. The integral taken between the limits given
+and divided by the same integral, applied to a positive and negative
+infinity, will express the probability that the variation from the truth
+is comprised between these limits. Such is the general law of the
+probability of results indicated by a great number of observations.
+
+
+
+

@@ -1,0 +1,432 @@
+CHAPTER VIII.
+
+
+_THE RULE OF SUCCESSION._[1]
+
+1. A word of apology may be offered here for the introduction of a new
+  name. The only other alternative would have been to entitle the rule
+  one of _Induction_. But such a title I cannot admit, for reasons
+  which will be almost immediately explained.
+
+
+1. In the last chapter we discussed at some length the
+nature of the kinds of inference in Probability which correspond
+to those termed, in Logic, immediate and mediate inferences.
+We ascertained what was the meaning of saying, for
+example, that the chance of any given man A. B. dying
+in a year is 1/3, when concluded from the general proposition
+that one man out of three in his circumstances dies. We
+also discussed the nature and evidence of rules of a more
+completely inferential character. But to stop at this point
+would be to take a very imperfect view of the subject. If
+Probability is a science of real inference about things, it
+must surely lead up to something more than such merely
+formal conclusions; we must be able, if not by means of it, at
+any rate by some means, to step beyond the limits of what
+has been actually observed, and to draw conclusions about
+what is as yet unobserved. This leads at once to the question,
+What is the connection of Probability with Induction?
+This is a question into which it will be necessary to enter
+now with some minuteness.
+
+That there is a close connection between Probability and
+Induction, must have been observed by almost every one
+who has treated of either subject; I have not however seen
+any account of this connection that seemed to me to be
+satisfactory. An explicit description of it should rather be
+sought in treatises upon the narrower subject, Probability;
+but it is precisely here that the most confusion is to be
+found. The province of Probability being somewhat narrow,
+incursions have been constantly made from it into the adjacent
+territory of Induction. In this way, amongst the
+arithmetical rules discussed in the last chapter, others have
+been frequently introduced which ought not in strictness to
+be classed with them, as they rest on an entirely different
+basis.
+
+2. The origin of such confusion is easy of explanation;
+it arises, doubtless, from the habit of laying undue
+stress upon the _subjective_ side of Probability, upon that
+which treats of the quantity of our belief upon different
+subjects and the variations of which that quantity is susceptible.
+It has been already urged that this variation of
+belief is at most but a constant accompaniment of what is
+really essential to Probability, and is moreover common to
+other subjects as well. By defining the science therefore
+from this side these other subjects would claim admittance
+into it; some of these, as Induction, have been accepted, but
+others have been somewhat arbitrarily rejected. Our belief
+in a wider proposition gained by Induction is, prior to verification,
+not so strong as that of the narrower generalization
+from which it is inferred. This being observed, a so-called
+rule of probability has been given by which it is supposed
+that this diminution of assent could in many instances be
+calculated.
+
+But _time_ also works changes in our conviction; our belief
+in the happening of almost every event, if we recur to it long
+afterwards, when the evidence has faded from the mind, is
+less strong than it was at the time. Why are not rules of
+oblivion inserted in treatises upon Probability? If a man is
+told how firmly he ought to expect the tide to rise again,
+because it has already risen ten times, might he not also ask
+for a rule which should tell him how firm should be his belief
+of an event which rests upon a ten years' recollection?[1] The
+infractions of a rule of this latter kind could scarcely be more
+numerous and extensive, as we shall see presently, than those
+of the former confessedly are. The fact is that the agencies,
+by which the strength of our conviction is modified, are so
+indefinitely numerous that they cannot all be assembled into
+one science; for purposes of definition therefore the quantity
+of belief had better be omitted from consideration, or at any
+rate regarded as a mere appendage, and the science, defined
+from the other or statistical side of the subject, in which,
+as has been shown, a tolerably clear boundary-line can be
+traced.
+
+3. Induction, however, from its importance does merit
+a separate discussion; a single example will show its bearing
+upon this part of our subject. We are considering the prospect
+of a given man, A. B. living another year, and we find
+that nine out of ten men of his age do survive. In forming
+an opinion about his surviving, however, we shall find that
+there are in reality two very distinct causes which aid in
+determining the strength of our conviction; distinct, but in
+practice so intimately connected that we are very apt to
+overlook one, and attribute the effect entirely to the other.
+
+(I.) There is that which strictly belongs to Probability;
+that which (as was explained in Chap VI.) measures our
+belief of the individual case as deduced from the general
+proposition. Granted that nine men out of ten of the kind
+to which A. B. belongs do live another year, it obviously
+does not follow at all necessarily that _he_ will. We describe
+this state of things by saying, that our belief of his surviving
+is diminished from certainty in the ratio of 10 to 9, or, in
+other words, is measured by the fraction 9/10.
+
+(II.) But are we certain that nine men out of ten like
+him _will_ live another year? we know that they have so survived
+in time past, but will they continue to do so? Since
+A. B. is still alive it is plain that this proposition is to a
+certain extent assumed, or rather obtained by Induction.
+We cannot however be as certain of the inductive inference
+as we are of the data from which it was inferred. Here,
+therefore, is a second cause which tends to diminish our
+belief; in practice these two causes always accompany each
+other, but in thought they can be separated.
+
+The two distinct causes described above are very liable
+to be confused together, and the class of cases from which
+examples are necessarily for the most part drawn increases
+this liability. The step from the statement 'all men have
+died in a certain proportion' to the inference 'they will continue
+to die in that proportion' is so slight a step that it is
+unnoticed, and the diminution of conviction that should
+accompany it is unsuspected. In what are called _à priori_
+examples the step is still slighter. We feel so certain about
+the permanence of the laws of mechanics, that few people
+would think of regarding it as an inference when they
+believe that a die will in the long run turn up all its faces
+equally often, because other dice have done so in time
+past.
+
+4. It has been already pointed out (in Chapter VI.)
+that, so far as concerns that definition of Probability which
+regards it as the science which discusses the degree and
+modifications of our belief, the question at issue seems to be
+simply this:--Are the causes alluded to above in (II.) capable
+of being reduced to one simple coherent scheme, so that any
+universal rules for the modification of assent can be obtained
+from them? If they are, strong grounds will have been
+shown for classing them with (I.), in other words, for considering
+them as rules of probability. Even then they
+would be rules practically of a very different kind, contingent
+instead of necessary (if one may use these terms without
+committing oneself to any philosophical system), but this
+objection might perhaps be overruled by the greater simplicity
+secured by classing them together. This view is, with
+various modifications, generally adopted by writers on Probability,
+or at least, as I understand the matter, implied by
+their methods of definition and treatment. Or, on the other
+hand, must these causes be regarded as a vast system, one
+might almost say a chaos, of perfectly distinct agencies;
+which may indeed be classified and arranged to some extent,
+but from which we can never hope to obtain any rules of
+perfect generality which shall not be subject to constant
+exception? If so, but one course is left; to exclude them
+all alike from Probability. In other words, we must assume
+the general proposition, viz. that which has been described
+throughout as our starting-point, to be given to us; it may
+be obtained by any of the numerous rules furnished by
+Induction, or it may be inferred deductively, or given by our
+own observation; its value may be diminished by its depending
+upon the testimony of witnesses, or its being recalled by
+our own memory. Its real value may be influenced by
+these causes or any combinations of them; but all these are
+preliminary questions with which we have nothing directly
+to do. We assume our statistical proposition to be true,
+neglecting the diminution of its value by the process of
+attainment; we take it up first at this point and then apply
+our rules to it. We receive it in fact, if one may use the
+expression, _ready-made_, and ask no questions about the process
+or completeness of its manufacture.
+
+5. It is not to be supposed, of course, that any writers
+have seriously attempted to reduce to one system of calculation
+all the causes mentioned above, and to embrace in one
+formula the diminution of certainty to which the inclusion of
+them subjects us. But on the other hand, they have been
+unwilling to restrain themselves from all appeal to them.
+From an early period in the study of the science attempts
+have been made to proceed, by the Calculus of Probability,
+from the observed cases to adjacent and similar cases. In
+practice, as has been already said, it is not possible to avoid
+some extension of this kind. But it should be observed,
+that in these instances the divergence from the strict ground
+of experience is not in reality recognized, at least not as a
+part of our logical procedure. We have, it is true, wandered
+somewhat beyond it, and so obtained a wider proposition
+than our data strictly necessitated, and therefore one of less
+certainty. Still we assume the conclusion given by induction
+to be equally certain with the data, or rather omit all
+notice of the divergence from consideration. It is assumed
+that the unexamined instances will resemble the examined,
+an assumption for which abundant warrant may exist; the
+theory of the calculation rests upon the supposition that
+there will be no difference between them, and the practical
+error is insignificant simply because this difference is small.
+
+6. But the rule we are now about to discuss, and
+which may be called the Rule of Succession, is of a very
+different kind. It not only recognizes the fact that we are
+leaving the ground of past experience, but takes the consequences
+of this divergence as the express subject of its calculation.
+It professes to give a general rule for the measure of
+expectation that we should have of the reappearance of a
+phenomenon that has been already observed any number of
+times. This rule is generally stated somewhat as follows:
+"To find the chance of the recurrence of an event already
+observed, divide the number of times the event has been
+observed, increased by one, by the same number increased
+by two."
+
+7. It will be instructive to point out the origin of
+this rule; if only to remind the reader of the necessity of
+keeping mathematical formulæ to their proper province,
+and to show what astonishing conclusions are apt to
+be accepted on the supposed warrant of mathematics.
+Revert then to the example of Inverse Probability on p. 182.
+We saw that under certain assumptions, it would
+follow that when a single white ball had been drawn
+from a bag known to contain 10 balls which were white
+or black, the chance could be determined that there was
+only one white ball in it. Having done this we readily
+calculate 'directly' the chance that this white ball will
+be drawn next time. Similarly we can reckon the chances
+of there being two, three, &c. up to ten white balls in it,
+and determine on each of these suppositions the chance
+of a white ball being drawn next time. Adding these
+together we have the answer to the question:--a white
+ball has been drawn once from a bag known to contain
+ten balls, white or black; what is the chance of a second
+time drawing a white ball?
+
+So far only arithmetic is required. For the next step we
+need higher mathematics, and by its aid we solve this
+problem:--A white ball has been drawn m times from a
+bag which contains any number, we know not what, of
+balls each of which is white or black, find the chance of
+the next drawing also yielding a white ball. The answer is
+(m + 1)/(m + 2).
+
+Thus far mathematics. Then comes in the physical
+assumption that the universe may be likened to such a bag
+as the above, in the sense that the above rule may be
+applied to solve this question:--an event has been observed
+to happen m times in a certain way, find the chance that
+it will happen in that way next time. Laplace, for instance,
+has pointed out that at the date of the writing of his _Essai
+Philosophique_, the odds in favour of the sun's rising again
+(on the old assumption as to the age of the world) were
+1,826,214 to 1. De Morgan says that a man who standing
+on the bank of a river has seen ten ships pass by with flags
+should judge it to be 11 to 1 that the next ship will also
+carry a flag.
+
+8. It is hard to take such a rule as this seriously, for
+there does not seem to be even that moderate confirmation
+of it which we shall find to hold good in the case of the
+application of abstract formulæ to the estimation of the
+evidence of witnesses. If however its validity is to be discussed
+there appear to be two very distinct lines of enquiry
+along which we may be led.
+
+(1) In the first place we may take it for what it professes
+to be, and for what it is commonly understood to
+be, viz. a rule which assigns the measure of expectation
+we ought to entertain of the recurrence of the event under
+the circumstances in question. Of course, on the view
+adopted in this work, we insist on enquiring whether it is
+really true that on the average events do thus repeat their
+performance in accordance with this law. Thus tested, no
+one surely would attempt to defend such a formula. So
+far from past occurrence being a ground for belief in future
+recurrence, there are (as will be more fully pointed out
+in the Chapter on Fallacies) plenty of cases in which the
+direct contrary holds good. Then again a rule of this kind
+is subject to the very serious perplexity to be explained
+in our next chapter, arising out of the necessary arbitrariness
+of such inverse reference. That is, when an event has
+happened but a few times, we have no certain guide; and
+when it has happened but once,[2] we have no guide whatever,
+as to the class of cases to which it is to be referred. In
+the example above, about the flags, why did we stop short at
+this notion simply, instead of specifying the size, shape, &c.
+of the flags?
+
+De Morgan, it must be remembered, only accepts this rule
+in a qualified sense. He regards it as furnishing a
+_minimum_ value for the amount of our expectation. He
+terms it "the rule of probability of a _pure induction_," and
+says of it, "The probabilities shown by the above rules
+are merely _minima_ which may be augmented by other
+sources of knowledge." That is, he recognizes only those
+instances in which our belief in the Uniformity of Nature
+and in the existence of special laws of causation comes in
+to supplement that which arises from the mere frequency
+of past occurrence. This however does not meet those cases
+in which past occurrence is a positive ground of disbelief in
+future recurrence.
+
+9. (2) There is however another and very different
+view which might be taken of such a rule. It is one, an
+obscure recognition of which has very likely had much to
+do with the acceptance which the rule has received.
+
+What we might suppose ourselves to be thus expressing
+is,--not the measure of rational expectation which might be
+held by minds sufficiently advanced to be able to classify
+and to draw conscious inferences, but,--the law according to
+which the primitive elements of belief were started and
+developed. Of course such an interpretation as this would
+be equivalent to quitting the province of Logic altogether
+and crossing over into that of Psychology; but it would be a
+perfectly valid line of enquiry. We should be attempting
+nothing more than a development of the researches of
+Fechner and his followers in psychophysical measurement.
+Only then we ought, like them, not to start with any analogy
+of a ballot box and its contents, but to base our enquiry
+on careful determination of the actual mental phenomena
+experienced. We know how the law has been determined
+in accordance with which the intensity of the feeling of
+_light_ varies with that of its objective source. We see how it
+is possible to measure the growth of _memory_ according to
+the number of repetitions of a sentence or a succession
+of mere syllables. In this latter case, for instance, we just
+try experiments, and determine how much better a man can
+remember any utterances after eight hearings than after
+seven.[3]
+
+Now this case furnishes a very close parallel to our
+supposed attempt to measure the increase of intensity of
+belief after repeated recurrence. That is, if it were possible
+to experiment in this order of mental phenomena, we ought
+simply to repeat a phenomenon a certain number of times
+and then ascertain by actual introspection or by some simple
+test, how fast the belief was increasing. Thus viewed the
+problem seems to me a hopeless one. The difficulties are
+serious enough, when we are trying to measure our simple
+sensations, of laying aside the effects of past training, and of
+attempting, as it were, to leave the mind open and passive
+to mere reception of stimuli. But if we were to attempt
+in this way to measure our belief these difficulties would
+become quite insuperable. We can no more divest ourselves
+of past training here than we can of intelligence or
+thought. I do not see how any one could possibly avoid
+classing the observed recurrences with others which he had
+experienced, and of being thus guided by special analogies
+and inductions instead of trusting solely to De Morgan's
+'pure induction'. The same considerations tend to rebut
+another form of defence for the rule in question. It is
+urged, for instance, that we may at least resort to it in
+those cases in which we are in entire ignorance as to the
+number and nature of the antecedents. This is a position to
+which I can hardly conceive it possible that we should ever
+be reduced. However remote or exceptional may be the
+phenomenon selected we may yet bring it into relation with
+some accepted generalizations and thus draw our conclusions
+from these rather than from purely _à priori_ considerations.
+
+10. Since then past acquisitions cannot be laid aside
+or allowed for, the only remaining resource would be to
+experiment upon the infant mind. One would not like
+to pronounce that any line of enquiry is impossible; but
+the difficulties would certainly be enormous. And interesting
+as the facts would be, supposing that we had succeeded
+in securing them, they would not be of the slightest importance
+in Logic. However the question were settled:--whether,
+for instance, we proved that the sentiment or
+emotion of belief grew up slowly and gradually from a sort
+of zero point under the impress of repetition of experience;
+or whether we proved that a single occurrence produced
+complete belief in the repetition of the event, so that
+experience gradually untaught us and weakened our convictions;--in
+no case would the mature mind gain any aid
+as to what it ought to believe.
+
+I cannot but think that some such view as this must
+occasionally underlie the acceptance which this rule has received.
+For instance, Laplace, though unhesitatingly adopting
+it as a real, that is, objective rule of inference, has gone
+into so much physiological and psychological matter towards
+the end of his discussion (_Essai philosophique_) as to suggest
+that what he had in view was the natural history of belief
+rather than its subsequent justification.
+
+Again, the curious doctrine adopted by Jevons, that the
+principles of Induction rest entirely upon the theory of
+Probability,--a very different doctrine from that which is
+conveyed by saying that all knowledge of facts is _probable_
+only, i.e. not necessary,--seems unintelligible except on some
+such interpretation. We shall have more to say on this
+subject in our next chapter. It will be enough here to
+remark that in our present reflective and rational stage
+we find that every inference in Probability involves some
+appeal to, or support from, Induction, but that it is impossible
+to base either upon the other. However far back
+we try to push our way, and however disposed we might be
+to account for our ultimate beliefs by Association, it seems
+to me that so long as we consider ourselves to be dealing
+with rules of inference we must still distinguish between
+Induction and Probability.
+
+
+1. John Craig, in his often named work, _Theologiæ Christianæ
+  Principia Mathematica_ (Lond. 1699) attempted something in this
+  direction when he proposed to solve such problems as:--Quando
+  evanescet probabilitas cujusvis Historiæ, cujus subjectum est
+  transiens, vivâ tantum voce transmissæ, determinare.
+
+2. When m = 1 the fraction becomes 2/3; i.e. the odds are 2 to 1 in
+  favour of recurrence. And there are writers who accept this
+  result. For instance, Jevons (_Principles of Science_ p. 258) says
+  "Thus on the first occasion on which a person sees a shark, and
+  notices that it is accompanied by a little pilot fish, the odds are
+  2 to 1 that the next shark will be so accompanied."  To say nothing
+  of the fact that recognizing and naming the fish implies that they
+  have often been seen before, how many of the observed
+  characteristics of that single 'event' are to be considered
+  essential?  Must the pilot precede; and at the same distance? Must
+  we consider the latitude, the ocean, the season, the species of
+  shark, as matter also of repetition on the next occasion?  and so
+  on. I cannot see how the Inductive problem can be even intelligibly
+  stated, for quantitative purposes, on the first occurrence of any
+  event.
+
+3. See in _Mind_ (x. 454) Mr Jacob's account of the researches of Herr
+  Ebbinghaus as described in his work _Ueber das Gedächtniss_.
+
+
+
+

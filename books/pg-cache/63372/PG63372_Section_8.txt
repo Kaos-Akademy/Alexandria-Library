@@ -1,0 +1,340 @@
+X
+
+SPACE, TIME AND GRAVITATION
+
+An Outline of Einstein's Theory of General Relativity
+
+BY W. DE SITTER
+PROFESSOR OF ASTRONOMY IN THE UNIVERSITY OF LEYDEN
+
+"Henceforth space by itself and time by itself shall sink to mere
+shadows, and only a union of the two shall preserve reality."
+
+
+The prophecy contained in the above-quoted words, spoken by Minkowski
+at the meeting of German "Naturforscher und Aerzte" at Cologne in 1908,
+has, however, only been completely fulfilled by Einstein's "Allgemeine
+Relativitäts-theorie" of 1915, which incorporated gravitation into
+the union. In the following pages an attempt is made to set forth,
+without using any technical language, the leading ideas of that theory:
+I will confine myself to the theory as published by Einstein in
+November, 1915, which forms a consistent whole, complete in itself;
+and I will not refer to later developments, which are still more
+or less tentative, and not necessary for the understanding of the
+theory. The mathematics used by Einstein is the so-called Absolute
+Differential Calculus. It is not more difficult or recondite than that
+used in other branches of theoretical physics, but it is somewhat
+unfamiliar to most of us, because it is not generally taught in the
+regular university courses. I will, however, in this essay abstain
+from using any mathematics at all, at least, I will not be using it
+openly. It is of course unavoidable to use at least the results of
+the mathematical reasoning, if not the reasoning itself; but so long
+as they are not put into formulas they will, it is hoped, not look
+so formidable to the reader.
+
+Referring to the quoted words of Minkowski, we may ask what is meant by
+"reality." Physical science, like common sense, takes for granted that
+there is a reality behind the phenomena, which is independent of the
+person by whom, and the particular methods by which it is observed,
+and which is also there when it is not observed. Strictly speaking,
+all talk about what is not observed is metaphysics. Nevertheless
+the physicist unhesitatingly believes that his laws are general, and
+that the phenomena continue to happen according to them when nobody
+is looking. And since it would be impossible to prove that they did
+not, he is fully entitled to his belief. The observed phenomena are
+the effects of the action of this reality, of which we assume the
+existence, on the observer's senses--or apparatus, which are extended
+and refined sense-organs. The laws governing the phenomena therefore
+must convey some information regarding this reality. We shall never
+by any means be able to know anything else about it but just these
+laws. To all intents and purposes the laws are the reality, if we
+eliminate from them all that refers to the observer alone. What refers
+to the reality is called "absolute," and what involves reference to
+the observer "relative." The elimination of the relative is one of
+the things the theory of relativity has set out to do.
+
+
+
+
+THE EXTERNAL WORLD AND ITS GEOMETRY
+
+To describe the phenomena and derive laws from them, we locate them
+in space and time. To do this we use geometry. Here it is that the
+part contributed by the observer comes in. There are an infinite
+number of geometries, and a priori there seems to be no reason to
+choose one rather than the other. Taking geometry of two dimensions
+as an example, we can draw figures on a piece of paper, and discuss
+their properties, and we can also do so on the shell of an egg. But
+we cannot draw the same figures on the egg as on the paper. The
+ones will be distorted as compared with the others: the two surfaces
+have a different geometry. Similarly it is not possible to draw an
+accurate map of the earth on a sheet of paper, because the earth is
+spherical and its representation on the flat paper is always more or
+less distorted. The earth requires spherical geometry, which differs
+from the flat, or Euclidean, geometry of the paper.
+
+Up to a few years ago Euclidean (i.e. flat) geometry of three
+dimensions had been exclusively used in physical theories. Why? Because
+it is the true one, is the one answer generally given. Now a statement
+about facts can be true or false, but a mathematical discipline is
+neither true nor false; it can only be correct--i.e. consistent in
+itself--or incorrect, and of course it always is correct. The assertion
+that a certain geometry is the "true" one can thus only mean, that
+it is the geometry of "true" space, and this again, if it is to have
+any meaning at all, can only mean that it corresponds to the physical
+"reality." Leaving aside the question whether this reality has any
+geometry at all, we are confronted with the more immediately practical
+consideration how we shall verify the asserted correspondence. There is
+no other way than by comparing the conclusions derived from the laws
+based upon our geometry, with observations. It thus appears that the
+only justification for the use of the Euclidean geometry is its success
+in enabling us to "draw an accurate map" of the world. As soon as any
+other geometry is found to be more successful, that other must be used
+in physical theories, and we may, if we like, call it the "true" one.
+
+Accurate observations always consist of measures, determining the
+position of material bodies in space. But the positions change,
+and for a complete description we also require measures of time. An
+important remark must be made here. Nobody has ever measured a
+pure space-distance, nor a pure lapse of time. The only thing that
+can be measured is the distance from a body at a certain point of
+space and a certain moment of time, to a body (either the same or
+another) at another point and another time. We can even go further
+and say that time cannot be measured at all. We profess to measure
+it by clocks. But a clock really measures space, and we derive the
+time from its space-measures by a fixed rule. This rule depends
+on the laws of motion of the mechanism of the clock. Thus finally
+time is defined by these laws. This is so, whether as a "clock"
+we use an ordinary chronometer, or the rotating earth, or an atom
+emitting light-waves, or anything else that may be suggested. The
+physical laws, of course, must be so adjusted that all these devices
+give the same time. About the reality of time, if it has any, we
+know nothing. All we know about time is that we want it. We cannot
+adequately describe nature with the three space-coordinates alone,
+we require a fourth one, which we call time. We might thus say with
+some reason that the physical world has four dimensions. But so long
+as it was found possible adequately to describe all known phenomena
+by a space of three dimensions and an independent time, the statement
+did not convey any very important information. Only after it had been
+found out that the space-coordinates and the time are not independent,
+did it acquire a real meaning.
+
+As is well known the observation by which this was found out is the
+famous experiment of Michelson and Morley. It led to the "special"
+theory of relativity, which is the one referred to by Minkowski
+in 1908. In it a geometry of four dimensions is used, not a mere
+combination of a three-dimensional space and a one-dimensional time,
+but a continuum of truly fourfold order. This time-space is not
+Euclidean, since the time-component and the three space-components
+are not on the same footing, but its fundamental formula has a
+great resemblance to that of Euclidean geometry. We may call it
+"pseudo-Euclidean."
+
+This theory, which we need not explain here, was very satisfactory so
+far as the laws of electromagnetism, and especially the propagation
+of light, were concerned, but it did not include gravitation, and
+mechanics generally. We then had this curious state of affairs, that
+physicists actually believed in two different "realities." When they
+were thinking of light they believed in Minkowski's time-space; when
+they were thinking of gravitation they believed in the old Euclidean
+space and independent time. This, of course, could not last. Attempts
+were made so to alter Newton's law of gravitation that it would fit
+into the four-dimensional world of the special relativity-theory,
+but these only succeeded in making the law, which had been a model
+of simplicity, extremely complicated, and, what was worse, it became
+ambiguous.
+
+It is Einstein's great merit to have perceived that gravitation is
+of such fundamental importance, that it must not be fitted into a
+ready-made theory, but must be woven into the space-time geometry from
+the beginning. And that he not only saw the necessity of doing this,
+but actually did it.
+
+
+
+
+GRAVITATION AND ITS PLACE IN THE UNIVERSE
+
+To see the necessity we must go back to Newton's system of
+mechanics. Newton did two things (amongst others). He canonised
+Galileo's system of mechanics into his famous "laws of motion,"
+the most important of which is the law of inertia, which says that:
+
+
+    a body, that is not interfered with, moves in a straight line
+    with constant velocity.
+
+
+The velocity, of course, can be nil, and the body at rest. This is
+a perfectly general law, the same for all material bodies, whatever
+their physical or chemical status. Newton took good care exactly to
+define what he meant by uniform motion in a straight line, and for
+this purpose he introduced the absolute Euclidean space and absolute
+time as an essential part of his system of laws at the very beginning
+of his great work. The other thing Newton did was to formulate the
+law of gravitation. Gravitation was in his system considered as
+an interference with the free, or inertial, motion of bodies, and
+accordingly required a law of its own.
+
+But gravitation has this in common with inertia, and in this it
+differs from all other interferences, that it is perfectly general. All
+material bodies are equally subjected to it, whatever their physical
+or chemical status may be. But there is more. Gravitation and inertia
+are actually indistinguishable from each other, and are measured
+by the same number: the "mass". This was already remarked by Newton
+himself, and from his point of view it was a most wonderful accidental
+coincidence. If an apple falls from the tree, that which makes it fall
+is its weight, which is the gravitational attraction by the earth,
+diminished by the centrifugal force due to the earth's rotation and the
+apple's inertia. In Newton's system the gravitational attraction is a
+"real" force, whereas the centrifugal force is only "fictitious". But
+the one is as real as the other. The most refined experiments,
+already begun by Newton himself, have not succeeded in distinguishing
+between them. Their identity is actually one of the best established
+facts in experimental physics. From this identity of "fictitious," or
+inertial, and "real," or gravitational, forces it follows that locally
+a gravitational field can be artificially created or destroyed. Thus
+inside a closed room which is falling freely, say a lift of which the
+cable has been broken, bodies have no weight: a balance could be in
+equilibrium with different weights in the two scales.
+
+Having thus come to the conclusion that gravitation is not an
+interference, but is identical with inertia, we are tempted to restate
+the law of motion, so as to include both, thus:
+
+
+    Bodies which are not interfered with--do not move in straight
+    lines, but--fall.
+
+
+Now this is exactly what Einstein did. Only the "falling" of
+course requires a precise mathematical definition (like the uniform
+motion in a straight line), and the whole gist of his theory is the
+finding of that definition. In our earthly experience the falling
+never lasts long, very soon something--the floor of the room, or
+the earth itself--interferes. But in free space bodies go on falling
+forever. The motion of the planets is, in fact, adequately described as
+falling, since it consists in nothing else but obeying Newton's law of
+gravitation together with his law of inertia. A body very far removed
+from all other matter is not subjected to gravitation, consequently it
+falls with constant velocity in a straight line according to the law
+of inertia. The problem was thus to find a mathematical definition of
+"falling," which would embrace the uniform straight-line motion very
+far from all matter as well as the complex paths of the planets around
+the sun, and of an apple or a cannon-ball on earth.
+
+
+
+
+GRAVITATION AND SPACE-TIME
+
+For the definition of the uniform rectilinear motion of pure inertia
+Newton's Euclidean space and independent time were sufficient. For
+the much more complicated falling under the influence of gravitation
+and inertia together, evidently a more complicated geometry
+would be needed. Minkowski's pseudo-Euclidean time-space also was
+insufficient. Einstein accordingly introduced a general non-Euclidean
+four-dimensional time-space, and enunciated his law of motion thus:
+
+
+    Bodies which are not interfered with move in geodesics.
+
+
+A geodesic in curved space is exactly the same thing as a straight
+line in flat space. We only call it by its technical name, because
+the name "straight line" would remind us too much of the old Euclidean
+space. If the curvature gets very small, or zero, the geodesic becomes
+very nearly, or exactly, a straight line.
+
+The problem has now become to assign to time-space such curvatures
+that the geodesics will exactly represent the tracks of falling
+bodies. Space of two dimensions can just be flat, like a sheet of
+paper, or curved, like an egg. But in geometry of four dimensions
+there are several steps from perfect flatness, or "pseudo-flatness," to
+complete curvature. Now the law governing the curvature of Einstein's
+time-space, i.e., the law of gravitation, is simply that it can never,
+outside matter, be curved more than just one step beyond perfect
+(pseudo-)flatness.
+
+Since I have promised not to use any mathematics I can hardly convey
+to the reader an adequate idea of the difficulty of the problem,
+nor do justice to the elegance and beauty of the solution. It is,
+in fact, little short of miraculous that this solution, which was
+only adopted by Einstein because it was the simplest he could find,
+does so exactly coincide in all its effects with Newton's law. Thus the
+remarkably accurate experimental verification of this law can at once
+be transferred to the new law. In only one instance do the two laws
+differ so much that the difference can be observed, and in this case
+the observations confirm the new law exactly. This is the well known
+case of the motion of the perihelion of Mercury, whose disagreement
+with Newton's law had puzzled astronomers for more than half a century.
+
+Since Einstein's time-space includes Minkowski's as a particular case,
+it can do all that the other was designed to do for electro-magnetism
+and light. But it does more. The track of a pulse of light is also a
+geodesic, and time-space being curved in the neighborhood of matter,
+rays of light are no longer straight lines. A ray of light from a star,
+passing near the sun, will be bent round, and the star consequently
+will be seen in a different direction from where it would be seen if
+the sun had not been so nearly in the way. This has been verified by
+the observations of the eclipse of the sun of 1919 of May 29.
+
+There is one other new phenomenon predicted by the theory, which falls
+within the reach of observation with our present means. Gravitation
+chiefly affects the time-component of the four-dimensional
+continuum, in such a way that natural clocks appear to run slower
+in a strong gravitational field than in a weak one. Thus, if we
+make the hypothesis--which, though extremely probable, is still
+a hypothesis--that an atom emitting or absorbing light-waves is a
+natural clock, and the further hypothesis--still very probable, though
+less so than the former--that there is nothing to interfere with its
+perfect running, then an atom on the sun will give off light-waves
+of smaller frequency than a similar atom in a terrestrial laboratory
+emits. Opinions as yet differ as to whether this is confirmed or
+contradicted by observations.
+
+
+
+The great strength and the charm of Einstein's theory do however
+not lie in verified predictions, nor in the explanation of small
+outstanding discrepancies, but in the complete attainment of its
+original aim: the identification of gravitation and inertia, and in
+the wide range of formerly apparently unconnected subjects which it
+embraces, and the broad view of nature which it affords.
+
+
+
+Outside matter, as has been explained, the law of gravitation restricts
+the curvature of time-space. Inside continuous matter the curvature
+can be of any arbitrary kind or amount; the law of gravitation then
+connects this curvature with measurable properties of the matter,
+such as density, velocity, stress, etc. Thus these properties define
+the curvature, or, if preferred, the curvature defines the properties
+of matter, i.e. matter itself.
+
+From these definitions the laws of conservation of energy, and of
+conservation of momentum, can be deduced by a purely mathematical
+process. Thus these laws, which at one time used to be considered
+as the most fundamental ones of mechanics, now appear as simple
+corollaries from the law of gravitation. It must be pointed out that
+such things as length, velocity, energy, momentum, are not absolute,
+but relative, i.e. they are not attributes of the physical reality,
+but relations between this reality and the observer. Consequently
+the laws of conservation are not laws of the real world, like the
+law of gravitation, but of the observed phenomena. There is, however
+one law which, already before the days of relativity, had come to be
+considered as the most fundamental of all, viz: the principle of least
+action. Now action is absolute. Accordingly this principle retains its
+central position in Einstein's theory. It is even more fundamental than
+the law of gravitation, since both this law, and the law of motion,
+can be derived from it. The principle of least action, so far as we
+can see at present, appears to be the law of the real world.
+
+
+
+
+
+
+
+
+

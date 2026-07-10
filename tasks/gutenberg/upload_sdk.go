@@ -57,6 +57,43 @@ func resolveSDKSectionTitle(cfg UploadConfig, section ChapterFile) string {
 	return title
 }
 
+// maxChapterTxBytes is the safe byte budget for a single add_chapter transaction.
+// Flow's hard limit is 1,500,000; we use 1,200,000 to leave room for encoding
+// overhead (Cadence JSON wraps each string, plus the transaction envelope).
+const maxChapterTxBytes = 1_200_000
+
+// splitParagraphsForTx splits paragraphs into a first batch that fits within
+// maxChapterTxBytes and an overflow slice.
+// Each paragraph is estimated at len(p)*2 + 25 bytes (Cadence JSON encoding).
+func splitParagraphsForTx(bookTitle, sectionTitle string, index int, paragraphs []string) (first []string, overflow []string) {
+	// Base overhead: script body + tx envelope + fixed args
+	used := 20_000 + len(bookTitle)*2 + len(sectionTitle)*2 + 20
+	for i, p := range paragraphs {
+		cost := len(p)*2 + 25
+		if used+cost > maxChapterTxBytes {
+			return paragraphs[:i], paragraphs[i:]
+		}
+		used += cost
+	}
+	return paragraphs, nil
+}
+
+func submitAddChapter(ctx context.Context, sender *sdksender.Sender, bookTitle, sectionTitle string, sectionIndex int, batch []string) sdksender.TxResult {
+	cadenceParagraphs := make([]cadence.Value, 0, len(batch))
+	for _, p := range batch {
+		cadenceParagraphs = append(cadenceParagraphs, cadence.String(p))
+	}
+	return sender.Submit(ctx, sdksender.TxRequest{
+		Name: "Admin/add_chapter",
+		Args: []cadence.Value{
+			cadence.String(bookTitle),
+			cadence.String(sectionTitle),
+			cadence.NewInt(sectionIndex),
+			cadence.NewArray(cadenceParagraphs),
+		},
+	})
+}
+
 func UploadBookWithSDK(ctx context.Context, sender *sdksender.Sender, cfg UploadConfig, gutenbergID int, bookAlreadyOnChain bool) SDKBookUploadResult {
 	runID := fmt.Sprintf("book-%d-%d", gutenbergID, time.Now().UnixMilli())
 	res := SDKBookUploadResult{
@@ -171,32 +208,76 @@ func UploadBookWithSDK(ctx context.Context, sender *sdksender.Sender, cfg Upload
 		}
 		res.LastTxID = nameRes.TxID.String()
 
-		cadenceParagraphs := make([]cadence.Value, 0, len(paragraphs))
+		firstBatch, overflow := splitParagraphsForTx(cfg.BookTitle, sectionTitle, section.Index, paragraphs)
+
+		// #region agent log
+		rawBytes := 0
 		for _, p := range paragraphs {
-			cadenceParagraphs = append(cadenceParagraphs, cadence.String(p))
+			rawBytes += len(p)
 		}
-		addChapterReq := sdksender.TxRequest{
-			Name: "Admin/add_chapter",
-			Args: []cadence.Value{
-				cadence.String(cfg.BookTitle),
-				cadence.String(sectionTitle),
-				cadence.NewInt(section.Index),
-				cadence.NewArray(cadenceParagraphs),
-			},
-		}
-		chapterRes := sender.Submit(ctx, addChapterReq)
+		debugLog4fb16a(runID, "H1H2", "tasks/gutenberg/upload_sdk.go:add_chapter_preflight", "pre-submit chapter size", map[string]interface{}{
+			"gutenbergID":    gutenbergID,
+			"sectionIndex":   section.Index,
+			"paragraphCount": len(paragraphs),
+			"rawBytes":       rawBytes,
+			"firstBatch":     len(firstBatch),
+			"overflow":       len(overflow),
+			"bookTitle":      cfg.BookTitle,
+		})
+		// #endregion
+
+		chapterRes := submitAddChapter(ctx, sender, cfg.BookTitle, sectionTitle, section.Index, firstBatch)
 		if chapterRes.Err != nil {
+			// #region agent log
+			debugLog4fb16a(runID, "H1H3H4", "tasks/gutenberg/upload_sdk.go:add_chapter_error", "add_chapter failed", map[string]interface{}{
+				"gutenbergID":    gutenbergID,
+				"sectionIndex":   section.Index,
+				"paragraphCount": len(firstBatch),
+				"rawBytes":       rawBytes,
+				"error":          chapterRes.Err.Error(),
+			})
+			// #endregion
 			res.FailedSection = section.Index
-			res.FailedTxName = addChapterReq.Name
+			res.FailedTxName = "Admin/add_chapter"
 			res.FailureMessage = chapterRes.Err.Error()
 			return res
 		}
 		res.LastTxID = chapterRes.TxID.String()
+
+		if len(overflow) > 0 {
+			res.FailedSection = section.Index
+			res.FailureMessage = fmt.Sprintf(
+				"section %d has %d overflow paragraphs; requires contract bulk-append (mark deferred_repair)",
+				section.Index, len(overflow))
+			return res
+		}
 	}
 
 	res.Uploaded = true
 	return res
 }
+
+// #region agent log
+func debugLog4fb16a(runID, hypothesisID, location, message string, data map[string]interface{}) {
+	f, err := os.OpenFile("/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/.cursor/debug-4fb16a.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		return
+	}
+	defer f.Close()
+	payload := map[string]interface{}{
+		"sessionId":    "4fb16a",
+		"runId":        runID,
+		"hypothesisId": hypothesisID,
+		"location":     location,
+		"message":      message,
+		"data":         data,
+		"timestamp":    time.Now().UnixMilli(),
+	}
+	b, _ := json.Marshal(payload)
+	_, _ = f.Write(append(b, '\n'))
+}
+
+// #endregion
 
 func debugLogSDKUpload(runID, hypothesisID, location, message string, data map[string]interface{}) {
 	f, err := os.OpenFile("/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/.cursor/debug-e7c465.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)

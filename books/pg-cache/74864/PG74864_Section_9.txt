@@ -1,0 +1,879 @@
+CHAPTER IX.
+
+THE VARIETY OF NATURE, OR THE DOCTRINE OF COMBINATIONS AND PERMUTATIONS.
+
+
+Nature may be said to be evolved from the monotony of non-existence
+by the creation of diversity. It is plausibly asserted that we are
+conscious only so far as we experience difference. Life is change, and
+perfectly uniform existence would be no better than non-existence.
+Certain it is that life demands incessant novelty, and that nature,
+though it probably never fails to obey the same fixed laws, yet
+presents to us an apparently unlimited series of varied combinations
+of events. It is the work of science to observe and record the kinds
+and comparative numbers of such combinations of phenomena, occurring
+spontaneously or produced by our interference. Patient and skilful
+examination of the records may then disclose the laws imposed on matter
+at its creation, and enable us more or less successfully to predict, or
+even to regulate, the future occurrence of any particular combination.
+
+The Laws of Thought are the first and most important of all the laws
+which govern the combinations of phenomena, and, though they be binding
+on the mind, they may also be regarded as verified in the external
+world. The Logical Alphabet develops the utmost variety of things and
+events which may occur, and it is evident that as each new quality is
+introduced, the number of combinations is doubled. Thus four qualities
+may occur in 16 combinations; five qualities in 32; six qualities in
+64; and so on. In general language, if n be the number of qualities,
+2^{n} is the number of varieties of things which may be formed from
+them, if there be no conditions but those of logic. This number,
+it need hardly be said, increases after the first few terms, in an
+extraordinary manner, so that it would require 302 figures to express
+the number of combinations in which 1,000 qualities might conceivably
+present themselves.
+
+If all the combinations allowed by the Laws of Thought occurred
+indifferently in nature, then science would begin and end with those
+laws. To observe nature would give us no additional knowledge, because
+no two qualities would in the long run be oftener associated than any
+other two. We could never predict events with more certainty than we
+now predict the throws of dice, and experience would be without use.
+But the universe, as actually created, presents a far different and
+much more interesting problem. The most superficial observation shows
+that some things are constantly associated with other things. The more
+mature our examination, the more we become convinced that each event
+depends upon the prior occurrence of some other series of events.
+Action and reaction are gradually discovered to underlie the whole
+scene, and an independent or casual occurrence does not exist except
+in appearance. Even dice as they fall are surely determined in their
+course by prior conditions and fixed laws. Thus the combinations of
+events which can really occur are found to be comparatively restricted,
+and it is the work of science to detect these restricting conditions.
+
+In the English alphabet, for instance, we have twenty-six letters. Were
+the combinations of such letters perfectly free, so that any letter
+could be indifferently sounded with any other, the number of words
+which could be formed without any repetition would be 2^{26} - 1, or
+67,108,863, equal in number to the combinations of the twenty-seventh
+column of the Logical Alphabet, excluding one for the case in which
+all the letters would be absent. But the formation of our vocal organs
+prevents us from using the far greater part of these conjunctions of
+letters. At least one vowel must be present in each word; more than two
+consonants cannot usually be brought together; and to produce words
+capable of smooth utterance a number of other rules must be observed.
+To determine exactly how many words might exist in the English language
+under these circumstances, would be an exceedingly complex problem,
+the solution of which has never been attempted. The number of existing
+English words may perhaps be said not to exceed one hundred thousand,
+and it is only by investigating the combinations presented in the
+dictionary, that we can learn the Laws of Euphony or calculate the
+possible number of words. In this example we have an epitome of the
+work and method of science. The combinations of natural phenomena are
+limited by a great number of conditions which are in no way brought to
+our knowledge except so far as they are disclosed in the examination of
+nature.
+
+It is often a very difficult matter to determine the numbers
+of permutations or combinations which may exist under various
+restrictions. Many learned men puzzled themselves in former centuries
+over what were called Protean verses, or verses admitting many
+variations in accordance with the Laws of Metre. The most celebrated of
+these verses was that invented by Bernard Bauhusius, as follows:[94]--
+
+  “Tot tibi sunt dotes, Virgo, quot sidera cœlo.”
+
+  [94] Montucla, *Histoire*, &c., vol. iii. p. 388.
+
+One author, Ericius Puteanus, filled forty-eight pages of a work in
+reckoning up its possible transpositions, making them only 1022. Other
+calculators gave 2196, 3276, 2580 as their results. Wallis assigned
+3096, but without much confidence in the accuracy of his result.[95]
+It required the skill of James Bernoulli to decide that the number of
+transpositions was 3312, under the condition that the sense and metre
+of the verse shall be perfectly preserved.
+
+  [95] Wallis, *Of Combinations*, &c., p. 119.
+
+In approaching the consideration of the great Inductive problem,
+it is very necessary that we should acquire correct notions as
+to the comparative numbers of combinations which may exist under
+different circumstances. The doctrine of combinations is that part of
+mathematical science which applies numerical calculation to determine
+the numbers of combinations under various conditions. It is a part of
+the science which really lies at the base not only of other sciences,
+but of other branches of mathematics. The forms of algebraical
+expressions are determined by the principles of combination, and
+Hindenburg recognised this fact in his Combinatorial Analysis. The
+greatest mathematicians have, during the last three centuries,
+given their best powers to the treatment of this subject; it was
+the favourite study of Pascal; it early attracted the attention of
+Leibnitz, who wrote his curious essay, *De Arte Combinatoria*, at
+twenty years of age; James Bernoulli, one of the very profoundest
+mathematicians, devoted no small part of his life to the investigation
+of the subject, as connected with that of Probability; and in his
+celebrated work, *De Arte Conjectandi*, he has so finely described the
+importance of the doctrine of combinations, that I need offer no excuse
+for quoting his remarks at full length.
+
+“It is easy to perceive that the prodigious variety which appears
+both in the works of nature and in the actions of men, and which
+constitutes the greatest part of the beauty of the universe, is owing
+to the multitude of different ways in which its several parts are
+mixed with, or placed near, each other. But, because the number of
+causes that concur in producing a given event, or effect, is oftentimes
+so immensely great, and the causes themselves are so different one
+from another, that it is extremely difficult to reckon up all the
+different ways in which they may be arranged or combined together, it
+often happens that men, even of the best understandings and greatest
+circumspection, are guilty of that fault in reasoning which the writers
+on logic call *the insufficient or imperfect enumeration of parts or
+cases*: insomuch that I will venture to assert, that this is the chief,
+and almost the only, source of the vast number of erroneous opinions,
+and those too very often in matters of great importance, which we are
+apt to form on all the subjects we reflect upon, whether they relate to
+the knowledge of nature, or the merits and motives of human actions.
+
+“It must therefore be acknowledged, that that art which affords a cure
+to this weakness, or defect, of our understandings, and teaches us so
+to enumerate all the possible ways in which a given number of things
+may be mixed and combined together, that we may be certain that we have
+not omitted any one arrangement of them that can lead to the object
+of our inquiry, deserves to be considered as most eminently useful and
+worthy of our highest esteem and attention. And this is the business
+of *the art or doctrine of combinations*. Nor is this art or doctrine
+to be considered merely as a branch of the mathematical sciences. For
+it has a relation to almost every species of useful knowledge that the
+mind of man can be employed upon. It proceeds indeed upon mathematical
+principles, in calculating the number of the combinations of the things
+proposed: but by the conclusions that are obtained by it, the sagacity
+of the natural philosopher, the exactness of the historian, the skill
+and judgment of the physician, and the prudence and foresight of the
+politician may be assisted; because the business of all these important
+professions is but *to form reasonable conjectures* concerning the
+several objects which engage their attention, and all wise conjectures
+are the results of a just and careful examination of the several
+different effects that may possibly arise from the causes that are
+capable of producing them.”[96]
+
+  [96] James Bernoulli, *De Arte Conjectandi*, translated by Baron
+  Maseres. London, 1795, pp. 35, 36.
+
+
+*Distinction of Combinations and Permutations.*
+
+We must first consider the deep difference which exists between
+Combinations and Permutations, a difference involving important logical
+principles, and influencing the form of mathematical expressions.
+In *permutation* we recognise varieties of order, treating AB as a
+different group from BA. In *combination* we take notice only of the
+presence or absence of a certain thing, and pay no regard to its place
+in order of time or space. Thus the four letters *a*, *e*, *m*, *n*
+can form but one combination, but they occur in language in several
+permutations, as *name*, *amen*, *mean*, *mane*.
+
+We have hitherto been dealing with purely logical questions, involving
+only combination of qualities. I have fully pointed out in more than
+one place that, though our symbols could not but be written in order
+of place and read in order of time, the relations expressed had no
+regard to place or time (pp. 33, 114). The Law of Commutativeness, in
+fact, expresses the condition that in logic we deal with combinations,
+and the same law is true of all the processes of algebra. In some
+cases, order may be a matter of indifference; it makes no difference,
+for instance, whether gunpowder is a mixture of sulphur, carbon, and
+nitre, or carbon, nitre, and sulphur, or nitre, sulphur, and carbon,
+provided that the substances are present in proper proportions and
+well mixed. But this indifference of order does not usually extend to
+the events of physical science or the operations of art. The change of
+mechanical energy into heat is not exactly the same as the change from
+heat into mechanical energy; thunder does not indifferently precede and
+follow lightning; it is a matter of some importance that we load, cap,
+present, and fire a rifle in this precise order. Time is the condition
+of all our thoughts, space of all our actions, and therefore both in
+art and science we are to a great extent concerned with permutations.
+Language, for instance, treats different permutations of letters as
+having different meanings.
+
+Permutations of things are far more numerous than combinations of those
+things, for the obvious reason that each distinct thing is regarded
+differently according to its place. Thus the letters A, B, C, will
+make different permutations according as A stands first, second, or
+third; having decided the place of A, there are two places between
+which we may choose for B; and then there remains but one place for
+C. Accordingly the permutations of these letters will be altogether
+3 × 2 × 1 or 6 in number. With four things or letters, A, B, C, D,
+we shall have four choices of place for the first letter, three for
+the second, two for the third, and one for the fourth, so that there
+will be altogether, 4 × 3 × 2 × 1, or 24 permutations. The same simple
+rule applies in all cases; beginning with the whole number of things
+we multiply at each step by a number decreased by a unit. In general
+language, if *n* be the number of things in a combination, the number
+of permutations is
+
+*n* (*n* - 1)(*n* - 2) .... 4 . 3 . 2 . 1.
+
+If we were to re-arrange the names of the days of the week, the
+possible arrangements out of which we should have to choose the new
+order, would be no less than 7 . 6 . 5 . 4 . 3 . 2 . 1, or 5040, or,
+excluding the existing order, 5039.
+
+The reader will see that the numbers which we reach in questions
+of permutation, increase in a more extraordinary manner even than
+in combination. Each new object or term doubles the number of
+combinations, but increases the permutations by a factor continually
+growing. Instead of 2 × 2 × 2 × 2 × .... we have 2 × 3 × 4 × 5 × ....
+and the products of the latter expression immensely exceed those of the
+former. These products of increasing factors are frequently employed,
+as we shall see, in questions both of permutation and combination. They
+are technically called *factorials*, that is to say, the product of all
+integer numbers, from unity up to any number *n* is the *factorial*
+of *n*, and is often indicated symbolically by *n*!. I give below the
+factorials up to that of twelve:--
+
+           24 = 1 . 2 . 3 . 4
+          120 = 1 . 2 ... 5
+          720 = 1 . 2 ... 6
+        5,040 = 7!
+       40,320 = 8!
+      362,880 = 9!
+    3,628,800 = 10!
+   39,916,800 = 11!
+  479,001,600 = 12!
+
+The factorials up to 36! are given in Rees’s ‘Cyclopædia,’ art.
+*Cipher*, and the logarithms of factorials up to 265! are to be
+found at the end of the table of logarithms published under the
+superintendence of the Society for the Diffusion of Useful Knowledge
+(p. 215). To express the factorial 265! would require 529 places of
+figures.
+
+Many writers have from time to time remarked upon the extraordinary
+magnitude of the numbers with which we deal in this subject. Tacquet
+calculated[97] that the twenty-four [sic] letters of the alphabet may
+be arranged in more than 620 thousand trillions of orders; and Schott
+estimated[98] that if a thousand millions of men were employed for the
+same number of years in writing out these arrangements, and each man
+filled each day forty pages with forty arrangements in each, they would
+not have accomplished the task, as they would have written only 584
+thousand trillions instead of 620 thousand trillions.
+
+  [97] *Arithmeticæ Theoria.* Ed. Amsterd. 1704. p. 517.
+
+  [98] Rees’s *Cyclopædia*, art. *Cipher*.
+
+In some questions the number of permutations may be restricted
+and reduced by various conditions. Some things in a group may
+be undistinguishable from others, so that change of order will
+produce no difference. Thus if we were to permutate the letters of
+the name *Ann*, according to our previous rule, we should obtain
+3 × 2 × 1, or 6 orders; but half of these arrangements would be
+identical with the other half, because the interchange of the two
+*n*’s has no effect. The really different orders will therefore be
+(3 . 2 . 1)/(1 . 2) or 3, namely *Ann*, *Nan*, *Nna*. In the word
+*utility* there are two *i*’s and two *t*’s, in respect of both of
+which pairs the numbers of permutations must be halved. Thus we obtain
+(7 . 6 . 5 . 4 . 3 . 2 . 1)/(1 . 2 . 1 . 2) or 1260, as the number of
+permutations. The simple rule evidently is--when some things or letters
+are undistinguished, proceed in the first place to calculate all the
+possible permutations as if all were different, and then divide by
+the numbers of possible permutations of those series of things which
+are not distinguished, and of which the permutations have therefore
+been counted in excess. Thus since the word *Utilitarianism* contains
+fourteen letters, of which four are *i*’s, two *a*’s, and two *t*’s,
+the number of distinct arrangements will be found by dividing the
+factorial of 14, by the factorials of 4, 2, and 2, the result being
+908,107,200. From the letters of the word *Mississippi* we can get in
+like manner 11!/(4! × 4! × 2!) or 34,650 permutations, which is not
+the one-thousandth part of what we should obtain were all the letters
+different.
+
+
+*Calculation of Number of Combinations.*
+
+Although in many questions both of art and science we need to calculate
+the number of permutations on account of their own interest, it far
+more frequently happens in scientific subjects that they possess but
+an indirect interest. As I have already pointed out, we almost always
+deal in the logical and mathematical sciences with *combinations*, and
+variety of order enters only through the inherent imperfections of our
+symbols and modes of calculation. Signs must be used in some order,
+and we must withdraw our attention from this order before the signs
+correctly represent the relations of things which exist neither before
+nor after each other. Now, it often happens that we cannot choose all
+the combinations of things, without first choosing them subject to the
+accidental variety of order, and we must then divide by the number of
+possible variations of order, that we may get to the true number of
+pure combinations.
+
+Suppose that we wish to determine the number of ways in which we can
+select a group of three letters out of the alphabet, without allowing
+the same letter to be repeated. At the first choice we can take any
+one of 26 letters; at the next step there remain 25 letters, any one
+of which may be joined with that already taken; at the third step
+there will be 24 choices, so that apparently the whole number of ways
+of choosing is 26 × 25 × 24. But the fact that one choice succeeded
+another has caused us to obtain the same combinations of letters in
+different orders; we should get, for instance, *a*, *p*, *r* at one
+time, and *p*, *r*, *a* at another, and every three distinct letters
+will appear six times over, because three things can be arranged in
+six permutations. To get the number of combinations, then, we must
+divide the whole number of ways of choosing, by six, the number of
+permutations of three things, obtaining (26 × 25 × 24)/(1 × 2 × 3) or
+2,600.
+
+It is apparent that we need the doctrine of combinations in order
+that we may in many questions counteract the exaggerating effect of
+successive selection. If out of a senate of 30 persons we have to
+choose a committee of 5, we may choose any of 30 first, any of 29 next,
+and so on, in fact there will be 30 × 29 × 28 × 27 × 26 selections;
+but as the actual character of the members of the committee will not
+be affected by the accidental order of their selection, we divide by
+1 × 2 × 3 × 4 × 5, and the possible number of different committees will
+be 142,506. Similarly if we want to calculate the number of ways in
+which the eight major planets may come into conjunction, it is evident
+that they may meet either two at a time or three at a time, or four or
+more at a time, and as nothing is said as to the relative order or
+place in the conjunction, we require the number of combinations. Now
+a selection of 2 out of 8 is possible in (8 . 7)/(1 . 2) or 28 ways;
+of 3 out of 8 in (8 . 7 . 6)/(1 . 2 . 3) or 56 ways; of 4 out of 8 in
+(8 . 7 . 6 . 5)/(1 . 2 . 3 . 4) or 70 ways; and it may be similarly
+shown that for 5, 6, 7, and 8 planets, meeting at one time, the numbers
+of ways are 56, 28, 8, and 1. Thus we have solved the whole question
+of the variety of conjunctions of eight planets; and adding all the
+numbers together, we find that 247 is the utmost possible number of
+modes of meeting.
+
+In general algebraic language, we may say that a group of *m* things
+may be chosen out of a total number of *n* things, in a number of
+combinations denoted by the formula
+
+  (*n* . (*n*-1)(*n*-2)(*n*-3) .... (*n* - *m* + 1))/(1 . 2 . 3 . 4 .... *m*)
+
+The extreme importance and significance of this formula seems to have
+been first adequately recognised by Pascal, although its discovery
+is attributed by him to a friend, M. de Ganières.[99] We shall find
+it perpetually recurring in questions both of combinations and
+probability, and throughout the formulæ of mathematical analysis traces
+of its influence may be noticed.
+
+  [99] *Œuvres Complètes de Pascal* (1865), vol. iii. p. 302. Montucla
+  states the name as De Gruières, *Histoire des Mathématiques*,
+  vol. iii. p. 389.
+
+
+*The Arithmetical Triangle.*
+
+The Arithmetical Triangle is a name long since given to a series
+of remarkable numbers connected with the subject we are treating.
+According to Montucla[100] “this triangle is in the theory of
+combinations and changes of order, almost what the table of Pythagoras
+is in ordinary arithmetic, that is to say, it places at once under the
+eyes the numbers required in a multitude of cases of this theory.” As
+early as 1544 Stifels had noticed the remarkable properties of these
+numbers and the mode of their evolution. Briggs, the inventor of the
+common system of logarithms, was so struck with their importance that
+he called them the Abacus Panchrestus. Pascal, however, was the first
+who wrote a distinct treatise on these numbers, and gave them the name
+by which they are still known. But Pascal did not by any means exhaust
+the subject, and it remained for James Bernoulli to demonstrate fully
+the importance of the *figurate numbers*, as they are also called. In
+his treatise *De Arte Conjectandi*, he points out their application
+in the theory of combinations and probabilities, and remarks of the
+Arithmetical Triangle, “It not only contains the clue to the mysterious
+doctrine of combinations, but it is also the ground or foundation of
+most of the important and abstruse discoveries that have been made in
+the other branches of the mathematics.”[101]
+
+  [100] *Histoire des Mathématiques*, vol. iii. p. 378.
+
+  [101] Bernoulli, *De Arte Conjectandi*, translated by Francis
+  Maseres. London, 1795, p. 75.
+
+The numbers of the triangle can be calculated in a very easy manner by
+successive additions. We commence with unity at the apex; in the next
+line we place a second unit to the right of this; to obtain the third
+line of figures we move the previous line one place to the right, and
+add them to the same figures as they were before removal; we can then
+repeat the same process *ad infinitum*. The fourth line of figures,
+for instance, contains 1, 3, 3, 1; moving them one place and adding as
+directed we obtain:--
+
+  Fourth line ...  1  3  3  1
+                      1  3  3  1
+                   --------------
+  Fifth line ....  1  4  6  4  1
+                      1  4  6  4  1
+                   ----------------
+  Sixth line ....  1  5 10 10  5  1
+
+Carrying out this simple process through ten more steps we obtain the
+first seventeen lines of the Arithmetical Triangle as printed on the
+next page. Theoretically speaking the Triangle must be regarded as
+infinite in extent, but the numbers increase so rapidly that it soon
+becomes impracticable to continue the table. The longest table of the
+numbers which I have found is in Fortia’s “Traité des Progressions”
+(p. 80), where they are given up to the fortieth line and the ninth
+column.
+
+THE ARITHMETICAL TRIANGLE.
+
+Line. First Column.
+1 1 Second Column.
+2 1 1 Third Column.
+3 1 2 1 Fourth Column.
+4 1 3 3 1 Fifth Column.
+5 1 4 6 4 1 Sixth Column.
+6 1 5 10 10 5 1 Seventh Column.
+7 1 6 15 20 15 6 1 Eighth Column.
+8 1 7 21 35 35 21 7 1 Ninth Column.
+9 1 8 28 56 70 56 28 8 1 Tenth Column.
+10 1 9 36 84 126 126 84 36 9 1 Eleventh Column.
+11 1 10 45 120 210 252 210 120 45 10 1 Twelfth Column.
+12 1 11 55 165 330 462 462 330 165 55 11 1 Thirteenth Column.
+13 1 12 66 220 495 792 924 792 495 220 66 12 1 Fourteenth Column.
+14 1 13 78 286 715 1287 1716 1716 1287 715 286 78 13 1 Fifteenth Column.
+15 1 14 91 364 1001 2002 3003 3432 3003 2002 1001 364 91 14 1 Sixteenth Column.
+16 1 15 105 455 1365 3003 5005 6435 6435 5005 3003 1365 455 105 15 1 Seventeenth Col.
+17 1 16 120 560 1820 4368 8008 11440 12870 11440 8008 4368 1820 560 120 16 1
+
+Examining these numbers, we find that they are connected by an
+unlimited series of relations, a few of the more simple of which may be
+noticed. Each vertical column of numbers exactly corresponds with an
+oblique series descending from left to right, so that the triangle is
+perfectly symmetrical in its contents. The first column contains only
+*units*; the second column contains the *natural numbers*, 1, 2, 3,
+&c.; the third column contains a remarkable series of numbers, 1, 3,
+6, 10, 15, &c., which have long been called *the triangular numbers*,
+because they correspond with the numbers of balls which may be arranged
+in a triangular form, thus--
+
+[Illustration]
+
+The fourth column contains the *pyramidal numbers*, so called because
+they correspond to the numbers of equal balls which can be piled in
+regular triangular pyramids. Their differences are the triangular
+numbers. The numbers of the fifth column have the pyramidal numbers
+for their differences, but as there is no regular figure of which
+they express the contents, they have been arbitrarily called the
+*trianguli-triangular numbers*. The succeeding columns have, in a
+similar manner, been said to contain the *trianguli-pyramidal*, the
+*pyramidi-pyramidal* numbers, and so on.[102]
+
+  [102] Wallis’s *Algebra*, Discourse of Combinations, &c., p. 109.
+
+From the mode of formation of the table, it follows that the
+differences of the numbers in each column will be found in the
+preceding column to the left. Hence the *second differences*, or the
+*differences of differences*, will be in the second column to the left
+of any given column, the third differences in the third column, and so
+on. Thus we may say that unity which appears in the first column is the
+*first difference* of the numbers in the second column; the *second
+difference* of those in the third column; the *third difference* of
+those in the fourth, and so on. The triangle is seen to be a complete
+classification of all numbers according as they have unity for any of
+their differences.
+
+Since each line is formed by adding the previous line to itself, it
+is evident that the sum of the numbers in each horizontal line must be
+double the sum of the numbers in the line next above. Hence we know,
+without making the additions, that the successive sums must be 1, 2,
+4, 8, 16, 32, 64, &c., the same as the numbers of combinations in the
+Logical Alphabet. Speaking generally, the sum of the numbers in the
+*n*th line will be 2^{*n* - 1}.
+
+Again, if the whole of the numbers down to any line be added together,
+we shall obtain a number less by unity than some power of 2; thus,
+the first line gives 1 or 2^{1} - 1; the first two lines give 3 or
+2^{2} - 1; the first three lines 7 or 2^{3} - 1; the first six lines
+give 63 or 2^{6} - 1; or, speaking in general language, the sum of the
+first *n* lines is 2^{*n*} - 1. It follows that the sum of the numbers
+in any one line is equal to the sum of those in all the preceding
+lines increased by a unit. For the sum of the *n*th line is, as
+already shown, 2^{*n* - 1}, and the sum of the first *n* - 1 lines is
+2^{*n* - 1} - 1, or less by a unit.
+
+This account of the properties of the figurate numbers does not
+approach completeness; a considerable, probably an unlimited, number of
+less simple and obvious relations might be traced out. Pascal, after
+giving many of the properties, exclaims[103]: “Mais j’en laisse bien
+plus que je n’en donne; c’est une chose étrange combien il est fertile
+en propriétés! Chacun peut s’y exercer.” The arithmetical triangle may
+be considered a natural classification of numbers, exhibiting, in the
+most complete manner, their evolution and relations in a certain point
+of view. It is obvious that in an unlimited extension of the triangle,
+each number, with the single exception of the number *two*, has at
+least two places.
+
+  [103] *Œuvres Complètes*, vol. iii. p. 251.
+
+Though the properties above explained are highly curious, the greatest
+value of the triangle arises from the fact that it contains a complete
+statement of the values of the formula (p. 182), for the numbers of
+combinations of *m* things out of *n*, for all possible values of *m*
+and *n*. Out of seven things one may be chosen in seven ways, and
+seven occurs in the eighth line of the second column. The combinations
+of two things chosen out of seven are (7 × 6)/(1 × 2) or 21, which
+is the third number in the eighth line. The combinations of three
+things out of seven are (7 × 6 × 5)/(1 × 2 × 3) or 35, which appears
+fourth in the eighth line. In a similar manner, in the fifth, sixth,
+seventh, and eighth columns of the eighth line I find it stated in
+how many ways I can select combinations of 4, 5, 6, and 7 things out
+of 7. Proceeding to the ninth line, I find in succession the number
+of ways in which I can select 1, 2, 3, 4, 5, 6, 7, and 8 things, out
+of 8 things. In general language, if I wish to know in how many ways
+*m* things can be selected in combinations out of *n* things, I must
+look in the *n* + 1^{th} line, and take the *m* + 1^{th} number, as
+the answer. In how many ways, for instance, can a subcommittee of
+five be chosen out of a committee of nine. The answer is 126, and
+is the sixth number in the tenth line; it will be found equal to
+(9 . 8 . 7 . 6 . 5)/(1 . 2 . 3 . 4 . 5), which our formula (p. 182)
+gives.
+
+The full utility of the figurate numbers will be more apparent when
+we reach the subject of probabilities, but I may give an illustration
+or two in this place. In how many ways can we arrange four pennies as
+regards head and tail? The question amounts to asking in how many ways
+we can select 0, 1, 2, 3, or 4 heads, out of 4 heads, and the *fifth*
+line of the triangle gives us the complete answer, thus--
+
+  We can select No head and 4 tails in 1 way.
+         "       1 head and 3 tails in 4 ways.
+         "       2 heads and 2 tails in 6 ways.
+         "       3 heads and 1 tail in 4 ways.
+         "       4 heads and 0 tail in 1 way.
+
+The total number of different cases is 16, or 2^{4}, and when we come
+to the next chapter, it will be found that these numbers give us the
+respective probabilities of all throws with four pennies.
+
+I gave in p. 181 a calculation of the number of ways in which eight
+planets can meet in conjunction; the reader will find all the numbers
+detailed in the ninth line of the arithmetical triangle. The sum of the
+whole line is 2^{8} or 256; but we must subtract a unit for the case
+where no planet appears, and 8 for the 8 cases in which only one planet
+appears; so that the total number of conjunctions is 2^{8} -1 - 8
+or 247. If an organ has eleven stops we find in the twelfth line the
+numbers of ways in which we can draw them, 1, 2, 3, or more at a time.
+Thus there are 462 ways of drawing five stops at once, and as many of
+drawing six stops. The total number of ways of varying the sound is
+2048, including the single case in which no stop at all is drawn.
+
+One of the most important scientific uses of the arithmetical triangle
+consists in the information which it gives concerning the comparative
+frequency of divergencies from an average. Suppose, for the sake of
+argument, that all persons were naturally of the equal stature of five
+feet, but enjoyed during youth seven independent chances of growing one
+inch in addition. Of these seven chances, one, two, three, or more,
+may happen favourably to any individual; but, as it does not matter
+what the chances are, so that the inch is gained, the question really
+turns upon the number of combinations of 0, 1, 2, 3, &c., things out of
+seven. Hence the eighth line of the triangle gives us a complete answer
+to the question, as follows:--
+
+Out of every 128 people--
+
+                                      Feet  Inches.
+One person would have the stature of    5      0
+ 7 persons       "           "          5      1
+21 persons       "           "          5      2
+35 persons       "           "          5      3
+35 persons       "           "          5      4
+21 persons       "           "          5      5
+ 7 persons       "           "          5      6
+ 1 person        "           "          5      7
+
+By taking a proper line of the triangle, an answer may be had under
+any more natural supposition. This theory of comparative frequency of
+divergence from an average, was first adequately noticed by Quetelet,
+and has lately been employed in a very interesting and bold manner by
+Mr. Francis Galton,[104] in his remarkable work on “Hereditary Genius.”
+We shall afterwards find that the theory of error, to which is made the
+ultimate appeal in cases of quantitative investigation, is founded upon
+the comparative numbers of combinations as displayed in the triangle.
+
+  [104] See also Galton’s Lecture at the Royal Institution, 27th
+  February, 1874; Catalogue of the Special Loan Collection of
+  Scientific Instruments, South Kensington, Nos. 48, 49; and Galton,
+  *Philosophical Magazine*, January 1875.
+
+
+*Connection between the Arithmetical Triangle and the Logical Alphabet.*
+
+There exists a close connection between the arithmetical triangle
+described in the last section, and the series of combinations of
+letters called the Logical Alphabet. The one is to mathematical science
+what the other is to logical science. In fact the figurate numbers, or
+those exhibited in the triangle, are obtained by summing up the logical
+combinations. Accordingly, just as the total of the numbers in each
+line of the triangle is twice as great as that for the preceding line
+(p. 186), so each column of the Alphabet (p. 94) contains twice as many
+combinations as the preceding one. The like correspondence also exists
+between the sums of all the lines of figures down to any particular
+line, and of the combinations down to any particular column.
+
+By examining any column of the Logical Alphabet we find that the
+combinations naturally group themselves according to the figurate
+numbers. Take the combinations of the letters A, B, C, D; they consist
+of all the ways in which I can choose four, three, two, one, or none of
+the four letters, filling up the vacant spaces with negative terms.
+
+There is one combination, ABCD, in which all the positive letters are
+present; there are four combinations in each of which three positive
+letters are present; six in which two are present; four in which only
+one is present; and, finally, there is the single case, *abcd*, in
+which all positive letters are absent. These numbers, 1, 4, 6, 4, 1,
+are those of the fifth line of the arithmetical triangle, and a like
+correspondence will be found to exist in each column of the Logical
+Alphabet.
+
+Numerical abstraction, it has been asserted, consists in overlooking
+the kind of difference, and retaining only a consciousness of its
+existence (p. 158). While in logic, then, we have to deal with each
+combination as a separate kind of thing, in arithmetic we distinguish
+only the classes which depend upon more or less positive terms being
+present, and the numbers of these classes immediately produce the
+numbers of the arithmetical triangle.
+
+It may here be pointed out that there are two modes in which we
+can calculate the whole number of combinations of certain things.
+Either we may take the whole number at once as shown in the Logical
+Alphabet, in which case the number will be some power of two, or else
+we may calculate successively, by aid of permutations, the number of
+combinations of none, one, two, three things, and so on. Hence we
+arrive at a necessary identity between two series of numbers. In the
+case of four things we shall have
+
+  2 = 1 + 4/1 + (4 . 3)/(1 . 2) + (4 . 3 . 2)/(1 . 2 . 3) +
+  (4 . 3 . 2 . 1)/(1 . 2 . 3 . 4).
+
+In a general form of expression we shall have
+
+  2 = 1 + *n*/1 + (*n* . (*n* - 1))/(1 . 2) + (*n*
+  (*n* - 1)(*n* - 2))/(1 . 2 . 3) + &c.,
+
+the terms being continued until they cease to have any value. Thus we
+arrive at a proof of simple cases of the Binomial Theorem, of which
+each column of the Logical Alphabet is an exemplification. It may be
+shown that all other mathematical expansions likewise arise out of
+simple processes of combination, but the more complete consideration of
+this subject must be deferred to another work.
+
+
+*Possible Variety of Nature and Art.*
+
+We cannot adequately understand the difficulties which beset us in
+certain branches of science, unless we have some clear idea of the vast
+numbers of combinations or permutations which may be possible under
+certain conditions. Thus only can we learn how hopeless it would be
+to attempt to treat nature in detail, and exhaust the whole number of
+events which might arise. It is instructive to consider, in the first
+place, how immensely great are the numbers of combinations with which
+we deal in many arts and amusements.
+
+In dealing a pack of cards, the number of hands, of thirteen cards
+each, which can be produced is evidently 52 × 51 × 50 × ... × 40
+divided by 1 × 2 × 3 ... × 13. or 635,013,559,600. But in whist
+four hands are simultaneously held, and the number of distinct
+deals becomes so vast that it would require twenty-eight figures to
+express it. If the whole population of the world, say one thousand
+millions of persons, were to deal cards day and night, for a hundred
+million of years, they would not in that time have exhausted one
+hundred-thousandth part of the possible deals. Even with the same hands
+of cards the play may be almost infinitely varied, so that the complete
+variety of games at whist which may exist is almost incalculably great.
+It is in the highest degree improbable that any one game of whist was
+ever exactly like another, except it were intentionally so.
+
+The end of novelty in art might well be dreaded, did we not find that
+nature at least has placed no attainable limit, and that the deficiency
+will lie in our inventive faculties. It would be a cheerless time
+indeed when all possible varieties of melody were exhausted, but it
+is readily shown that if a peal of twenty-four bells had been rung
+continuously from the so-called beginning of the world to the present
+day, no approach could have been made to the completion of the possible
+changes. Nay, had every single minute been prolonged to 10,000 years,
+still the task would have been unaccomplished.[105] As regards ordinary
+melodies, the eight notes of a single octave give more than 40,000
+permutations, and two octaves more than a million millions. If we were
+to take into account the semitones, it would become apparent that it
+is impossible to exhaust the variety of music. When the late Mr. J. S.
+Mill, in a depressed state of mind, feared the approaching exhaustion
+of musical melodies, he had certainly not bestowed sufficient study on
+the subject of permutations.
+
+  [105] Wallis, *Of Combinations*, p. 116, quoting Vossius.
+
+Similar considerations apply to the possible number of natural
+substances, though we cannot always give precise numerical results. It
+was recommended by Hatchett[106] that a systematic examination of all
+alloys of metals should be carried out, proceeding from the binary ones
+to more complicated ternary or quaternary ones. He can hardly have been
+aware of the extent of his proposed inquiry. If we operate only upon
+thirty of the known metals, the number of binary alloys would be 435,
+of ternary alloys 4060, of quaternary 27,405, without paying regard
+to the varying proportions of the metals, and only regarding the kind
+of metal. If we varied all the ternary alloys by quantities not less
+than one per cent., the number of these alloys would be 11,445,060.
+An exhaustive investigation of the subject is therefore out of the
+question, and unless some laws connecting the properties of the alloy
+and its components can be discovered, it is not apparent how our
+knowledge of them can ever be more than fragmentary.
+
+  [106] *Philosophical Transactions* (1803), vol. xciii. p. 193.
+
+The possible variety of definite chemical compounds, again, is
+enormously great. Chemists have already examined many thousands
+of inorganic substances, and a still greater number of organic
+compounds;[107] they have nevertheless made no appreciable impression
+on the number which may exist. Taking the number of elements at
+sixty-one, the number of compounds containing different selections of
+four elements each would be more than half a million (521,855). As the
+same elements often combine in many different proportions, and some of
+them, especially carbon, have the power of forming an almost endless
+number of compounds, it would hardly be possible to assign any limit
+to the number of chemical compounds which may be formed. There are
+branches of physical science, therefore, of which it is unlikely that
+scientific men, with all their industry, can ever obtain a knowledge in
+any appreciable degree approaching to completeness.
+
+  [107] Hofmann’s *Introduction to Chemistry*, p. 36.
+
+
+*Higher Orders of Variety.*
+
+The consideration of the facts already given in this chapter will
+not produce an adequate notion of the possible variety of existence,
+unless we consider the comparative numbers of combinations of different
+orders. By a combination of a higher order, I mean a combination of
+groups, which are themselves groups. The immense numbers of compounds
+of carbon, hydrogen, and oxygen, described in organic chemistry, are
+combinations of a second order, for the atoms are groups of groups.
+The wave of sound produced by a musical instrument may be regarded as
+a combination of motions; the body of sound proceeding from a large
+orchestra is therefore a complex aggregate of sounds, each in itself
+a complex combination of movements. All literature may be said to be
+developed out of the difference of white paper and black ink. From the
+unlimited number of marks which might be chosen we select twenty-six
+conventional letters. The pronounceable combinations of letters are
+probably some trillions in number. Now, as a sentence is a selection
+of words, the possible sentences must be inconceivably more numerous
+than the words of which it may be composed. A book is a combination
+of sentences, and a library is a combination of books. A library,
+therefore, may be regarded as a combination of the fifth order, and the
+powers of numerical expression would be severely tasked in attempting
+to express the number of distinct libraries which might be constructed.
+The calculation, of course, would not be possible, because the union
+of letters in words, of words in sentences, and of sentences in books,
+is governed by conditions so complex as to defy analysis. I wish only
+to point out that the infinite variety of literature, existing or
+possible, is all developed out of one fundamental difference. Galileo
+remarked that all truth is contained in the compass of the alphabet. He
+ought to have said that it is all contained in the difference of ink
+and paper.
+
+One consequence of successive combination is that the simplest marks
+will suffice to express any information. Francis Bacon proposed for
+secret writing a biliteral cipher, which resolves all letters of the
+alphabet into permutations of the two letters *a* and *b*. Thus A
+was *aaaaa*, B *aaaab*, X *babab*, and so on.[108] In a similar way,
+as Bacon clearly saw, any one difference can be made the ground of a
+code of signals; we can express, as he says, *omnia per omnia*. The
+Morse alphabet uses only a succession of long and short marks, and
+other systems of telegraphic language employ right and left strokes.
+A single lamp obscured at various intervals, long or short, may be
+made to spell out any words, and with two lamps, distinguished by
+colour, position, or any other circumstance, we could at once represent
+Bacon’s biliteral alphabet. Babbage ingeniously suggested that every
+lighthouse in the world should be made to spell out its own name or
+number perpetually, by flashes or obscurations of various duration
+and succession. A system like that of Babbage is now being applied
+to lighthouses in the United Kingdom by Sir W. Thomson and Dr. John
+Hopkinson.
+
+  [108] *Works*, edited by Shaw, vol. i. pp. 141–145, quoted in Rees’s
+  *Encyclopædia*, art. *Cipher*.
+
+Let us calculate the numbers of combinations of different orders which
+may arise out of the presence or absence of a single mark, say A. In
+these figures
+
+  +---+---+   +---+---+   +---+---+   +---+---+
+  | A | A |   | A |   |   |   | A |   |   |   |
+  +---+---+   +---+---+   +---+---+   +---+---+
+
+we have four distinct varieties. Form them into a group of a higher
+order, and consider in how many ways we may vary that group by omitting
+one or more of the component parts. Now, as there are four parts,
+and any one may be present or absent, the possible varieties will
+be 2 × 2 × 2 × 2, or 16 in number. Form these into a new whole, and
+proceed again to create variety by omitting any one or more of the
+sixteen. The number of possible changes will now be 2 . 2 . 2 . 2 .
+2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2, or 2^{16}, and we can
+repeat the process again and again. We are imagining the creation of
+objects, whose numbers are represented by the successive orders of the
+powers of *two*.
+
+At the first step we have 2; at the next 2^{2}, or 4; at the third
+(2^{2})^{2}, or 16, numbers of very moderate amount. Let the reader
+calculate the next term, ((2^{2})^{2})^{2}, and he will be surprised
+to find it leap up to 65,536. But at the next step he has to calculate
+the value of 65,536 *two*’s multiplied together, and it is so great
+that we could not possibly compute it, the mere expression of the
+result requiring 19,729 places of figures. But go one step more and we
+pass the bounds of all reason. The sixth order of the powers of *two*
+becomes so great, that we could not even express the number of figures
+required in writing it down, without using about 19,729 figures for
+the purpose. The successive orders of the powers of two have then the
+following values so far as we can succeed in describing them:--
+
+  First order                           2
+  Second order                          4
+  Third order                          16
+  Fourth order                     65,536
+  Fifth order, number expressed by 19,729 figures.
+  Sixth order, number expressed by
+    figures, to express the number
+    of which figures would require
+    about                          19,729 figures.
+
+It may give us some notion of infinity to remember that at this sixth
+step`, having long surpassed all bounds of intuitive conception, we
+make no approach to a limit. Nay, were we to make a hundred such steps,
+we should be as far away as ever from actual infinity.
+
+It is well worth observing that our powers of expression rapidly
+overcome the possible multitude of finite objects which may exist in
+any assignable space. Archimedes showed long ago, in one of the most
+remarkable writings of antiquity, the *Liber de Arcnæ Numero*, that
+the grains of sand in the world could be numbered, or rather, that
+if numbered, the result could readily be expressed in arithmetical
+notation. Let us extend his problem, and ascertain whether we could
+express the number of atoms which could exist in the visible universe.
+The most distant stars which can now be seen by telescopes--those of
+the sixteenth magnitude--are supposed to have a distance of about
+33,900,000,000,000,000 miles. Sir W. Thomson has shown reasons for
+supposing that there do not exist more than from 3 × 10^{24} to 10^{26}
+molecules in a cubic centimetre of a solid or liquid substance.[109]
+Assuming these data to be true, for the sake of argument, a simple
+calculation enables us to show that the almost inconceivably vast
+sphere of our stellar system if entirely filled with solid matter,
+would not contain more than about 68 × 10^{90} atoms, that is to say,
+a number requiring for its expression 92 places of figures. Now, this
+number would be immensely less than the fifth order of the powers of
+two.
+
+  [109] *Nature*, vol. i. p. 553.
+
+In the variety of logical relations, which may exist between a certain
+number of logical terms, we also meet a case of higher combinations.
+We have seen (p. 142) that with only six terms the number of possible
+selections of combinations is 18,446,744,073,709,551,616. Considering
+that it is the most common thing in the world to use an argument
+involving six objects or terms, it may excite some surprise that the
+complete investigation of the relations in which six such terms may
+stand to each other, should involve an almost inconceivable number of
+cases. Yet these numbers of possible logical relations belong only to
+the second order of combinations.
+
+
+
+

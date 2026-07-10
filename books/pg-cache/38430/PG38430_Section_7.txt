@@ -1,0 +1,237 @@
+CHAPTER XVIII
+
+DENIAL OF GENERALITY AND GENERALITY OF DENIAL
+
+
+The conclusion of a certain song[48] about a young man who poisoned his
+sweetheart with sheep's-head broth, and was frightened to death by a
+voice exclaiming:
+
+  "Where's that young maid
+  What you did poison with my head?"
+
+at his bedside, gives rise to difficulties which are readily solved by a
+symbolism that brings into relief the principle that the denial of a
+universal and non-existential proposition is a particular and
+existential one. The conclusion of the song is:
+
+  Now all young men, both high and low,
+  Take warning by this dismal go!
+  For if he'd never done nobody no wrong,
+  He might have been here to have heard this song.
+
+It is an obvious error, say Whitehead and Russell,[49] though one easy
+to commit, to assume that the cases: (1) all the propositions of a
+certain class are true; and (2) no proposition of the class is true; are
+each other's contradictories. However, in the modification[50] of
+Frege's symbolism which was used by Russell
+
+      (1) is (_x_). _x_,
+  and (2) is (_x_). not _x_;
+
+while the contradictory of (1) is:
+
+  not (_x_). _x_.
+
+The last line but one of the above verse may, then, be written:
+
+  (_t_). not (_x_). not not [Greek: ph] (_x_, _t_),
+
+where "[Greek: ph] (_x_, _t_)" denotes the unasserted propositional
+function "the doing wrong to the person _x_ at the instant _t_." By
+means of the principle of double negation we can at once simplify the
+above expression into:
+
+  (_t_). not (_x_). [Greek: ph] (_x_, _t_);
+
+which can be thus read: "If at every instant of his life there was at
+least one person _x_ to whom he did no wrong (at that instant)." It is
+difficult to imagine any one so sunk in iniquity that he would not
+satisfy this hypothesis. We are forced, then, unless our imagination for
+evil is to be distrusted, to conclude that any one might have been there
+to have heard that song. Now this conclusion is plainly false, possibly
+on physical grounds, and certainly on aesthetic grounds. It may be added,
+by the way, that it is quite possible that De Morgan was mistaken in his
+interpretation of the above proposition owing to the fact that he was
+unacquainted with Frege's work. In fact, if he had not noticed the fact
+that _any_ two of the "not's" cannot be cancelled against one another he
+would have concluded that the interpretation was: "If he had never done
+any wrong to anybody."
+
+According as the symbol for "not" comes before the (_x_) or between the
+(_x_) and the [Greek: ph], we have an expression of what Frege called
+respectively the denial of generality, and the generality of denial. The
+denial of the generality of a denial is the form of all existential
+propositions, while the assertion of or denial of generality is the
+general form of all non-existential or universal propositions.
+
+FOOTNOTES:
+
+[48] To which De Morgan drew attention in a letter; see (Mrs.) S. E. De
+Morgan, _Memoir of Augustus De Morgan_, London, 1882, p. 324.
+
+[49] _Pa. Ma._, p. 16.
+
+[50] However, here, for the printer's convenience, we depart from Mr.
+Russell's usage so far as to write "not" for a curly minus sign.
+
+
+
+
+CHAPTER XIX
+
+IMPLICATION
+
+
+A good illustration of the fact that what is called "implication" in
+logic is such that a false proposition implies any other proposition,
+true or false, is given by Lewis Carroll's puzzle of the three
+barbers.[51]
+
+Allen, Brown, and Carr keep a barber's shop together; so that one of
+them must be in during working hours. Allen has lately had an illness of
+such a nature that, if Allen is out, Brown must be accompanying him.
+Further, if Carr is out, then, if Allen is out, Brown must be in for
+obvious business reasons. The problem is, may Carr ever go out?
+
+Putting _p_ for "Carr is out," _q_ for "Allen is out" and _r_ for "Brown
+is out," we have:
+
+  (1) _q_ implies _r_,
+  (2) _p_ implies that _q_ implies not-_r_.
+
+Lewis Carroll supposed that "_q_ implies _r_" and "_q_ implies not-_r_"
+are inconsistent, and hence that _p_ must be false. But these
+propositions are not inconsistent, and are, in fact, both true if _q_ is
+false. The contradictory of "_q_ implies _r_" is "_q_ does not imply
+_r_" which is not a consequence of "_q_ implies not-_r_." It seems to be
+true theoretically that, if Mr. X is a Christian, he is not an Atheist,
+but we cannot conclude from this alone that his being a Christian does
+not imply that he is an Atheist, unless we assume that the class of
+Christians is not null. Thus, if _p_ is true, _q_ is false; or, if Carr
+is out, Allen is in. The odd part of this conclusion is that it is the
+one which common-sense would have drawn in that particular case.
+
+A distinguished philosopher (M) once thought that the logical use of the
+word "implication"--any false proposition being said to "imply" any
+proposition true or false--is absurd, on the grounds that it is
+ridiculous to suppose that the proposition "2 and 2 make 5" implies the
+proposition "M is the Pope." This is a most unfortunate instance,
+because it so happens that the false proposition that 2 and 2 make 5 can
+rigorously be proved to imply that M, or anybody else other than the
+Pope, is the Pope. For if 2 and 2 make 5, since they also make 4, we
+would conclude that 5 is equal to 4. Consequently, subtracting 3 from
+both sides, we conclude that 2 would be equal to 1. But if this were
+true, since M and the Pope are two, they would be one, and obviously
+then M would be the Pope.
+
+The principle that the false implies the true has very important
+applications in political arguments. In fact, it is hard to find a
+single principle of politics of which false propositions are not the
+main support.
+
+If _p_ and _q_ are two propositions, and _p_ implies _q_; then, if, and
+only if, _q_ and _p_ are both false or both true, we also have: _q_
+implies _p_. The most important applications of this invertibility were
+made by the late Samuel Butler[52] and Mr. G. B. Shaw. A political
+application may be made as follows: In a country where only those with
+middling-sized incomes are taxed, conservative and _bourgeois_
+politicians would still maintain that the proposition "the rich are
+taxed" implies the proposition "the poor are taxed," and this
+implication, which is true because both premiss and conclusion are
+false, would be quite unnecessarily supported by many false practical
+arguments. It is equally true that "the poor are taxed" implies that
+"the rich are taxed." And this can be proved, in certain cases, on other
+grounds. For the taxation of the poor would imply, ultimately, that the
+poor could not afford to pay a little more for the necessities of life
+than, in strict justice, they ought; and this would mean the cessation
+of one of the chief means of production of individual wealth.
+
+We also see why a valuable means for the discovery of truth is given by
+the inversion of platitudinous implications. It may happen that another
+platitude is the result of inversion; but it is the fate of any true
+remark, especially if it is easy to remember by reason of a paradoxical
+form, to become a platitude in course of time. There are rare cases of a
+platitude remaining unrepeated for so long that, by a converse process,
+it has become paradoxical. Such, for example, is Plato's remark that a
+lie is less important than an error in thought.
+
+Of late years, a method of disguising platitudes as paradoxes has been
+too extensively used by Mr. G. K. Chesterton. The method is as follows.
+Take any proposition _p_ which holds of an entity _a_; choose _p_ so
+that it seems plausible that _p_ also holds of at least two other
+entities _b_ and _c_; call _a_, _b_, _c_, and any others for which _p_
+holds or seems to hold, the class A, and _p_ the "A-ness" or "A-ity" of
+A; let _d_ be an entity for which _p_ does not hold; and put _d_ among
+the A's when you think that nobody is looking. Then state your paradox:
+"Some A's do not have A-ness." By further manipulation you can get the
+proposition "No A's have A-ness." But it is possible to make a very
+successful _coup_ if A is the null-class, which has the advantage that
+manipulation is unnecessary. Thus, Mr. Chesterton, in his _Orthodoxy_
+put A for the class of doubters who doubt the possibility of logic, and
+proved that such agnostics refuted themselves--a conclusion which seems
+to have pleased many clergymen.
+
+In this way, Mr. Chesterton has been enabled readily to write many books
+and to maintain, on almost every page, such theses as that simplicity is
+not simple, heterodoxy is not heterodox, poets are not poetical, and so
+on; thereby building up the gigantic platitude that Mr. Chesterton is
+Chestertonian.
+
+In the chapter on Identity we have illustrated the use of a case of the
+principle that any proposition implies any true proposition. This
+important principle may be called _the principle of the irrelevant
+premiss_;[53] and is of great service in oratory, because it does not
+matter what the premiss is, true or false. There is a _principle of the
+irrelevant conclusion_, but, except in law-courts, interruptions of
+meetings, and family life, this is seldom used, partly because of the
+limitation involved in the logical impossibility for the conclusion to
+be false if the premiss be true, but chiefly because the conclusion is
+more important than the premiss, being usually a matter of prejudice.
+
+Certain modern logicians, such as Frege, have found it necessary so to
+extend the meaning of implication of _q_ by _p_ that it holds when _p_
+is not a proposition at all. Hitherto, politicians, finding that either
+identical or false propositions are sufficient for their needs, have
+made no use of this principle; but it is obvious that their stock of
+arguments would be vastly increased thereby.
+
+Logical implication is often an enemy of dignity and eloquence. De
+Morgan[54] relates "a tradition of a Cambridge professor who was once
+asked in a mathematical discussion, 'I suppose you will admit that the
+whole is greater than its part?' and who answered, 'Not I, until I see
+what use you are going to make of it.'" And the care displayed by
+cautious mathematicians like Poincare, Schoenflies, Borel, Hobson, and
+Baire in abstaining from pushing their arguments to their logical
+conclusions is probably founded on the unconscious--but no less
+well-grounded--fear of appearing ridiculous if they dealt with such
+extreme cases as "the series of all ordinal numbers."[55] They are,
+probably, as unconscious of implication as Gibbon, when he remarked that
+he always had a copy of Horace in his pocket, and often in his hand, was
+of the necessary implication of these propositions that his hand was
+sometimes in his pocket.
+
+FOOTNOTES:
+
+[51] _Md._, N. S., vol. iii., 1894, pp. 436-8. Cf. the discussions by W.
+E. Johnson (_ibid._, p. 583) and Russell (_P. M._, p. 18, note, and
+_Md._, N. S., vol. xiv., 1905, pp. 400-1).
+
+[52] The inhabitants of "Erewhon" punished invalids more severely than
+criminals. In modern times, one frequently hears the statement that
+crime is a disease; and if so, it is surely false that criminals ought
+to be punished.
+
+[53] _Irrelevant_ in a popular sense; one would not say, speaking
+loosely, that the fact that Brutus killed Caesar implies that the sea is
+salt; and yet this conclusion is implied both by the above premiss, and
+the premiss that Caesar killed Brutus. Cf. on such questions Venn,
+_S. L._, 2nd ed., pp. 240-4.
+
+[54] _F. L._, p. 264.
+
+[55] Cf. Chapters XXIX and XXXVII.
+
+
+
+

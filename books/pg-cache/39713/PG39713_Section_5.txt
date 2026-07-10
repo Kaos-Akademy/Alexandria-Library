@@ -1,0 +1,416 @@
+PART II
+
+
+THE PHYSICAL SCIENCES
+
+
+
+
+CHAPTER V
+
+ANALYSIS AND PHYSICS
+
+
+I
+
+You have doubtless often been asked of what good is mathematics and
+whether these delicate constructions entirely mind-made are not
+artificial and born of our caprice.
+
+Among those who put this question I should make a distinction; practical
+people ask of us only the means of money-making. These merit no reply;
+rather would it be proper to ask of them what is the good of
+accumulating so much wealth and whether, to get time to acquire it, we
+are to neglect art and science, which alone give us souls capable of
+enjoying it, 'and for life's sake to sacrifice all reasons for living.'
+
+Besides, a science made solely in view of applications is impossible;
+truths are fecund only if bound together. If we devote ourselves solely
+to those truths whence we expect an immediate result, the intermediary
+links are wanting and there will no longer be a chain.
+
+The men most disdainful of theory get from it, without suspecting it,
+their daily bread; deprived of this food, progress would quickly cease,
+and we should soon congeal into the immobility of old China.
+
+But enough of uncompromising practicians! Besides these, there are those
+who are only interested in nature and who ask us if we can enable them
+to know it better.
+
+To answer these, we have only to show them the two monuments already
+rough-hewn, Celestial Mechanics and Mathematical Physics.
+
+They would doubtless concede that these structures are well worth the
+trouble they have cost us. But this is not enough. Mathematics has a
+triple aim. It must furnish an instrument for the study of nature. But
+that is not all: it has a philosophic aim and, I dare maintain, an
+esthetic aim. It must aid the philosopher to fathom the notions of
+number, of space, of time. And above all, its adepts find therein
+delights analogous to those given by painting and music. They admire the
+delicate harmony of numbers and forms; they marvel when a new discovery
+opens to them an unexpected perspective; and has not the joy they thus
+feel the esthetic character, even though the senses take no part
+therein? Only a privileged few are called to enjoy it fully, it is true,
+but is not this the case for all the noblest arts?
+
+This is why I do not hesitate to say that mathematics deserves to be
+cultivated for its own sake, and the theories inapplicable to physics as
+well as the others. Even if the physical aim and the esthetic aim were
+not united, we ought not to sacrifice either.
+
+But more: these two aims are inseparable and the best means of attaining
+one is to aim at the other, or at least never to lose sight of it. This
+is what I am about to try to demonstrate in setting forth the nature of
+the relations between the pure science and its applications.
+
+The mathematician should not be for the physicist a mere purveyor of
+formulas; there should be between them a more intimate collaboration.
+Mathematical physics and pure analysis are not merely adjacent powers,
+maintaining good neighborly relations; they mutually interpenetrate and
+their spirit is the same. This will be better understood when I have
+shown what physics gets from mathematics and what mathematics, in
+return, borrows from physics.
+
+
+II
+
+The physicist can not ask of the analyst to reveal to him a new truth;
+the latter could at most only aid him to foresee it. It is a long time
+since one still dreamt of forestalling experiment, or of constructing
+the entire world on certain premature hypotheses. Since all those
+constructions in which one yet took a naïve delight it is an age, to-day
+only their ruins remain.
+
+All laws are therefore deduced from experiment; but to enunciate them, a
+special language is needful; ordinary language is too poor, it is
+besides too vague, to express relations so delicate, so rich, and so
+precise.
+
+This therefore is one reason why the physicist can not do without
+mathematics; it furnishes him the only language he can speak. And a
+well-made language is no indifferent thing; not to go beyond physics,
+the unknown man who invented the word _heat_ devoted many generations to
+error. Heat has been treated as a substance, simply because it was
+designated by a substantive, and it has been thought indestructible.
+
+On the other hand, he who invented the word _electricity_ had the
+unmerited good fortune to implicitly endow physics with a _new_ law,
+that of the conservation of electricity, which, by a pure chance, has
+been found exact, at least until now.
+
+Well, to continue the simile, the writers who embellish a language, who
+treat it as an object of art, make of it at the same time a more supple
+instrument, more apt for rendering shades of thought.
+
+We understand, then, how the analyst, who pursues a purely esthetic aim,
+helps create, just by that, a language more fit to satisfy the
+physicist.
+
+But this is not all: law springs from experiment, but not immediately.
+Experiment is individual, the law deduced from it is general; experiment
+is only approximate, the law is precise, or at least pretends to be.
+Experiment is made under conditions always complex, the enunciation of
+the law eliminates these complications. This is what is called
+'correcting the systematic errors.'
+
+In a word, to get the law from experiment, it is necessary to
+generalize; this is a necessity imposed upon the most circumspect
+observer. But how generalize? Every particular truth may evidently be
+extended in an infinity of ways. Among these thousand routes opening
+before us, it is necessary to make a choice, at least provisional; in
+this choice, what shall guide us?
+
+It can only be analogy. But how vague is this word! Primitive man knew
+only crude analogies, those which strike the senses, those of colors or
+of sounds. He never would have dreamt of likening light to radiant
+heat.
+
+What has taught us to know the true, profound analogies, those the eyes
+do not see but reason divines?
+
+It is the mathematical spirit, which disdains matter to cling only to
+pure form. This it is which has taught us to give the same name to
+things differing only in material, to call by the same name, for
+instance, the multiplication of quaternions and that of whole numbers.
+
+If quaternions, of which I have just spoken, had not been so promptly
+utilized by the English physicists, many persons would doubtless see in
+them only a useless fancy, and yet, in teaching us to liken what
+appearances separate, they would have already rendered us more apt to
+penetrate the secrets of nature.
+
+Such are the services the physicist should expect of analysis; but for
+this science to be able to render them, it must be cultivated in the
+broadest fashion without immediate expectation of utility--the
+mathematician must have worked as artist.
+
+What we ask of him is to help us to see, to discern our way in the
+labyrinth which opens before us. Now, he sees best who stands highest.
+Examples abound, and I limit myself to the most striking.
+
+The first will show us how to change the language suffices to reveal
+generalizations not before suspected.
+
+When Newton's law has been substituted for Kepler's we still know only
+elliptic motion. Now, in so far as concerns this motion, the two laws
+differ only in form; we pass from one to the other by a simple
+differentiation. And yet from Newton's law may be deduced by an
+immediate generalization all the effects of perturbations and the whole
+of celestial mechanics. If, on the other hand, Kepler's enunciation had
+been retained, no one would ever have regarded the orbits of the
+perturbed planets, those complicated curves of which no one has ever
+written the equation, as the natural generalizations of the ellipse. The
+progress of observations would only have served to create belief in
+chaos.
+
+The second example is equally deserving of consideration.
+
+When Maxwell began his work, the laws of electro-dynamics admitted up to
+his time accounted for all the known facts. It was not a new experiment
+which came to invalidate them. But in looking at them under a new bias,
+Maxwell saw that the equations became more symmetrical when a term was
+added, and besides, this term was too small to produce effects
+appreciable with the old methods.
+
+You know that Maxwell's _a priori_ views awaited for twenty years an
+experimental confirmation; or, if you prefer, Maxwell was twenty years
+ahead of experiment. How was this triumph obtained?
+
+It was because Maxwell was profoundly steeped in the sense of
+mathematical symmetry; would he have been so, if others before him had
+not studied this symmetry for its own beauty?
+
+It was because Maxwell was accustomed to 'think in vectors,' and yet it
+was through the theory of imaginaries (neomonics) that vectors were
+introduced into analysis. And those who invented imaginaries hardly
+suspected the advantage which would be obtained from them for the study
+of the real world, of this the name given them is proof sufficient.
+
+In a word, Maxwell was perhaps not an able analyst, but this ability
+would have been for him only a useless and bothersome baggage. On the
+other hand, he had in the highest degree the intimate sense of
+mathematical analogies. Therefore it is that he made good mathematical
+physics.
+
+Maxwell's example teaches us still another thing.
+
+How should the equations of mathematical physics be treated? Should we
+simply deduce all the consequences and regard them as intangible
+realities? Far from it; what they should teach us above all is what can
+and what should be changed. It is thus that we get from them something
+useful.
+
+The third example goes to show us how we may perceive mathematical
+analogies between phenomena which have physically no relation either
+apparent or real, so that the laws of one of these phenomena aid us to
+divine those of the other.
+
+The very same equation, that of Laplace, is met in the theory of
+Newtonian attraction, in that of the motion of liquids, in that of the
+electric potential, in that of magnetism, in that of the propagation of
+heat and in still many others. What is the result? These theories seem
+images copied one from the other; they are mutually illuminating,
+borrowing their language from each other; ask electricians if they do
+not felicitate themselves on having invented the phrase flow of force,
+suggested by hydrodynamics and the theory of heat.
+
+Thus mathematical analogies not only may make us foresee physical
+analogies, but besides do not cease to be useful when these latter fail.
+
+To sum up, the aim of mathematical physics is not only to facilitate for
+the physicist the numerical calculation of certain constants or the
+integration of certain differential equations. It is besides, it is
+above all, to reveal to him the hidden harmony of things in making him
+see them in a new way.
+
+Of all the parts of analysis, the most elevated, the purest, so to
+speak, will be the most fruitful in the hands of those who know how to
+use them.
+
+
+III
+
+Let us now see what analysis owes to physics.
+
+It would be necessary to have completely forgotten the history of
+science not to remember that the desire to understand nature has had on
+the development of mathematics the most constant and happiest influence.
+
+In the first place the physicist sets us problems whose solution he
+expects of us. But in proposing them to us, he has largely paid us in
+advance for the service we shall render him, if we solve them.
+
+If I may be allowed to continue my comparison with the fine arts, the
+pure mathematician who should forget the existence of the exterior world
+would be like a painter who knew how to harmoniously combine colors and
+forms, but who lacked models. His creative power would soon be
+exhausted.
+
+The combinations which numbers and symbols may form are an infinite
+multitude. In this multitude how shall we choose those which are worthy
+to fix our attention? Shall we let ourselves be guided solely by our
+caprice? This caprice, which itself would besides soon tire, would
+doubtless carry us very far apart and we should quickly cease to
+understand each other.
+
+But this is only the smaller side of the question. Physics will
+doubtless prevent our straying, but it will also preserve us from a
+danger much more formidable; it will prevent our ceaselessly going
+around in the same circle.
+
+History proves that physics has not only forced us to choose among
+problems which came in a crowd; it has imposed upon us such as we should
+without it never have dreamed of. However varied may be the imagination
+of man, nature is still a thousand times richer. To follow her we must
+take ways we have neglected, and these paths lead us often to summits
+whence we discover new countries. What could be more useful!
+
+It is with mathematical symbols as with physical realities; it is in
+comparing the different aspects of things that we are able to comprehend
+their inner harmony, which alone is beautiful and consequently worthy of
+our efforts.
+
+The first example I shall cite is so old we are tempted to forget it; it
+is nevertheless the most important of all.
+
+The sole natural object of mathematical thought is the whole number. It
+is the external world which has imposed the continuum upon us, which we
+doubtless have invented, but which it has forced us to invent. Without
+it there would be no infinitesimal analysis; all mathematical science
+would reduce itself to arithmetic or to the theory of substitutions.
+
+On the contrary, we have devoted to the study of the continuum almost
+all our time and all our strength. Who will regret it; who will think
+that this time and this strength have been wasted? Analysis unfolds
+before us infinite perspectives that arithmetic never suspects; it shows
+us at a glance a majestic assemblage whose array is simple and
+symmetric; on the contrary, in the theory of numbers, where reigns the
+unforeseen, the view is, so to speak, arrested at every step.
+
+Doubtless it will be said that outside of the whole number there is no
+rigor, and consequently no mathematical truth; that the whole number
+hides everywhere, and that we must strive to render transparent the
+screens which cloak it, even if to do so we must resign ourselves to
+interminable repetitions. Let us not be such purists and let us be
+grateful to the continuum, which, if _all_ springs from the whole
+number, was alone capable of making _so much_ proceed therefrom.
+
+Need I also recall that M. Hermite obtained a surprising advantage from
+the introduction of continuous variables into the theory of numbers?
+Thus the whole number's own domain is itself invaded, and this invasion
+has established order where disorder reigned.
+
+See what we owe to the continuum and consequently to physical nature.
+
+Fourier's series is a precious instrument of which analysis makes
+continual use, it is by this means that it has been able to represent
+discontinuous functions; Fourier invented it to solve a problem of
+physics relative to the propagation of heat. If this problem had not
+come up naturally, we should never have dared to give discontinuity its
+rights; we should still long have regarded continuous functions as the
+only true functions.
+
+The notion of function has been thereby considerably extended and has
+received from some logician-analysts an unforeseen development. These
+analysts have thus adventured into regions where reigns the purest
+abstraction and have gone as far away as possible from the real world.
+Yet it is a problem of physics which has furnished them the occasion.
+
+After Fourier's series, other analogous series have entered the domain
+of analysis; they have entered by the same door; they have been imagined
+in view of applications.
+
+The theory of partial differential equations of the second order has an
+analogous history. It has been developed chiefly by and for physics. But
+it may take many forms, because such an equation does not suffice to
+determine the unknown function, it is necessary to adjoin to it
+complementary conditions which are called conditions at the limits;
+whence many different problems.
+
+If the analysts had abandoned themselves to their natural tendencies,
+they would never have known but one, that which Madame Kovalevski has
+treated in her celebrated memoir. But there are a multitude of others
+which they would have ignored. Each of the theories of physics, that of
+electricity, that of heat, presents us these equations under a new
+aspect. It may, therefore, be said that without these theories we should
+not know partial differential equations.
+
+It is needless to multiply examples. I have given enough to be able to
+conclude: when physicists ask of us the solution of a problem, it is not
+a duty-service they impose upon us, it is on the contrary we who owe
+them thanks.
+
+
+IV
+
+But this is not all; physics not only gives us the occasion to solve
+problems; it aids us to find the means thereto, and that in two ways. It
+makes us foresee the solution; it suggests arguments to us.
+
+I have spoken above of Laplace's equation which is met in a multitude of
+diverse physical theories. It is found again in geometry, in the theory
+of conformal representation and in pure analysis, in that of
+imaginaries.
+
+In this way, in the study of functions of complex variables, the
+analyst, alongside of the geometric image, which is his usual
+instrument, finds many physical images which he may make use of with the
+same success. Thanks to these images, he can see at a glance what pure
+deduction would show him only successively. He masses thus the separate
+elements of the solution, and by a sort of intuition divines before
+being able to demonstrate.
+
+To divine before demonstrating! Need I recall that thus have been made
+all the important discoveries? How many are the truths that physical
+analogies permit us to present and that we are not in condition to
+establish by rigorous reasoning!
+
+For example, mathematical physics introduces a great number of
+developments in series. No one doubts that these developments converge;
+but the mathematical certitude is lacking. These are so many conquests
+assured for the investigators who shall come after us.
+
+On the other hand, physics furnishes us not alone solutions; it
+furnishes us besides, in a certain measure, arguments. It will suffice
+to recall how Felix Klein, in a question relative to Riemann surfaces,
+has had recourse to the properties of electric currents.
+
+It is true, the arguments of this species are not rigorous, in the sense
+the analyst attaches to this word. And here a question arises: How can a
+demonstration not sufficiently rigorous for the analyst suffice for the
+physicist? It seems there can not be two rigors, that rigor is or is
+not, and that, where it is not there can not be deduction.
+
+This apparent paradox will be better understood by recalling under what
+conditions number is applied to natural phenomena. Whence come in
+general the difficulties encountered in seeking rigor? We strike them
+almost always in seeking to establish that some quantity tends to some
+limit, or that some function is continuous, or that it has a derivative.
+
+Now the numbers the physicist measures by experiment are never known
+except approximately; and besides, any function always differs as little
+as you choose from a discontinuous function, and at the same time it
+differs as little as you choose from a continuous function. The
+physicist may, therefore, at will suppose that the function studied is
+continuous, or that it is discontinuous; that it has or has not a
+derivative; and may do so without fear of ever being contradicted,
+either by present experience or by any future experiment. We see that
+with such liberty he makes sport of difficulties which stop the analyst.
+He may always reason as if all the functions which occur in his
+calculations were entire polynomials.
+
+Thus the sketch which suffices for physics is not the deduction which
+analysis requires. It does not follow thence that one can not aid in
+finding the other. So many physical sketches have already been
+transformed into rigorous demonstrations that to-day this transformation
+is easy. There would be plenty of examples did I not fear in citing them
+to tire the reader.
+
+I hope I have said enough to show that pure analysis and mathematical
+physics may serve one another without making any sacrifice one to the
+other, and that each of these two sciences should rejoice in all which
+elevates its associate.
+
+
+
+

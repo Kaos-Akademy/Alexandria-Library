@@ -1,0 +1,463 @@
+CHAPTER V.
+
+THE CALCULUS OF VARIATIONS.
+
+
+In order to grasp with more ease the philosophical character of the
+_Method of Variations_, it will be well to begin by considering in a
+summary manner the special nature of the problems, the general
+resolution of which has rendered necessary the formation of this
+hyper-transcendental analysis. It is still too near its origin, and its
+applications have been too few, to allow us to obtain a sufficiently
+clear general idea of it from a purely abstract exposition of its
+fundamental theory.
+
+
+
+
+PROBLEMS GIVING RISE TO IT.
+
+
+The mathematical questions which have given birth to the _Calculus of
+Variations_ consist generally in the investigation of the _maxima_ and
+_minima_ of certain indeterminate integral formulas, which express the
+analytical law of such or such a phenomenon of geometry or mechanics,
+considered independently of any particular subject. Geometers for a long
+time designated all the questions of this character by the common name
+of _Isoperimetrical Problems_, which, however, is really suitable to
+only the smallest number of them.
+
+
+_Ordinary Questions of Maxima and Minima._ In the common theory of
+_maxima_ and _minima_, it is proposed to discover, with reference to a
+given function of one or more variables, what particular values must be
+assigned to these variables, in order that the corresponding value of
+the proposed function may be a _maximum_ or a _minimum_ with respect to
+those values which immediately precede and follow it; that is, properly
+speaking, we seek to know at what instant the function ceases to
+increase and commences to decrease, or reciprocally. The differential
+calculus is perfectly sufficient, as we know, for the general resolution
+of this class of questions, by showing that the values of the different
+variables, which suit either the maximum or minimum, must always reduce
+to zero the different first derivatives of the given function, taken
+separately with reference to each independent variable, and by
+indicating, moreover, a suitable characteristic for distinguishing the
+maximum from the minimum; consisting, in the case of a function of a
+single variable, for example, in the derived function of the second
+order taking a negative value for the maximum, and a positive value for
+the minimum. Such are the well-known fundamental conditions belonging to
+the greatest number of cases.
+
+
+_A new Class of Questions._ The construction of this general theory
+having necessarily destroyed the chief interest which questions of this
+kind had for geometers, they almost immediately rose to the
+consideration of a new order of problems, at once much more important
+and of much greater difficulty--those of _isoperimeters_. It is, then,
+no longer _the values of the variables_ belonging to the maximum or the
+minimum of a given function that it is required to determine. It is _the
+form of the function itself_ which is required to be discovered, from
+the condition of the maximum or of the minimum of a certain definite
+integral, merely indicated, which depends upon that function.
+
+
+_Solid of least Resistance._ The oldest question of this nature is that
+of _the solid of least resistance_, treated by Newton in the second book
+of the Principia, in which he determines what ought to be the meridian
+curve of a solid of revolution, in order that the resistance experienced
+by that body in the direction of its axis may be the least possible. But
+the course pursued by Newton, from the nature of his special method of
+transcendental analysis, had not a character sufficiently simple,
+sufficiently general, and especially sufficiently analytical, to attract
+geometers to this new order of problems. To effect this, the application
+of the infinitesimal method was needed; and this was done, in 1695, by
+John Bernouilli, in proposing the celebrated problem of the
+_Brachystochrone_.
+
+This problem, which afterwards suggested such a long series of analogous
+questions, consists in determining the curve which a heavy body must
+follow in order to descend from one point to another in the shortest
+possible time. Limiting the conditions to the simple fall in a vacuum,
+the only case which was at first considered, it is easily found that the
+required curve must be a reversed cycloid with a horizontal base, and
+with its origin at the highest point. But the question may become
+singularly complicated, either by taking into account the resistance of
+the medium, or the change in the intensity of gravity.
+
+
+_Isoperimeters._ Although this new class of problems was in the first
+place furnished by mechanics, it is in geometry that the principal
+investigations of this character were subsequently made. Thus it was
+proposed to discover which, among all the curves of the same contour
+traced between two given points, is that whose area is a maximum or
+minimum, whence has come the name of _Problem of Isoperimeters_; or it
+was required that the maximum or minimum should belong to the surface
+produced by the revolution of the required curve about an axis, or to
+the corresponding volume; in other cases, it was the vertical height of
+the center of gravity of the unknown curve, or of the surface and of the
+volume which it might generate, which was to become a maximum or
+minimum, &c. Finally, these problems were varied and complicated almost
+to infinity by the Bernouillis, by Taylor, and especially by Euler,
+before Lagrange reduced their solution to an abstract and entirely
+general method, the discovery of which has put a stop to the enthusiasm
+of geometers for such an order of inquiries. This is not the place for
+tracing the history of this subject. I have only enumerated some of the
+simplest principal questions, in order to render apparent the original
+general object of the method of variations.
+
+
+_Analytical Nature of these Problems._ We see that all these problems,
+considered in an analytical point of view, consist, by their nature, in
+determining what form a certain unknown function of one or more
+variables ought to have, in order that such or such an integral,
+dependent upon that function, shall have, within assigned limits, a
+value which is a maximum or a minimum with respect to all those which it
+would take if the required function had any other form whatever.
+
+Thus, for example, in the problem of the _brachystochrone_, it is well
+known that if _y_ = _f(z)_, _x_ = π(_z_), are the rectilinear equations
+of the required curve, supposing the axes of _x_ and of _y_ to be
+horizontal, and the axis of _z_ to be vertical, the time of the fall of
+a heavy body in that curve from the point whose ordinate is _z₁_, to
+that whose ordinate is _z₂_, is expressed in general terms by the
+definite integral
+
+  ∫_{_z₂_}^{_z₁_}√(1 + (_f'(z))²_ + (π'(_z_))²/(2_gz_))_dz._
+
+It is, then, necessary to find what the two unknown functions _f_ and π
+must be, in order that this integral may be a minimum.
+
+In the same way, to demand what is the curve among all plane
+isoperimetrical curves, which includes the greatest area, is the same
+thing as to propose to find, among all the functions _f(x)_ which can
+give a certain constant value to the integral
+
+  ∫_dx_√(1 + (_f'(x)_ )²),
+
+that one which renders the integral ∫_f(x)dx_, taken between the same
+limits, a maximum. It is evidently always so in other questions of this
+class.
+
+
+_Methods of the older Geometers._ In the solutions which geometers
+before Lagrange gave of these problems, they proposed, in substance, to
+reduce them to the ordinary theory of maxima and minima. But the means
+employed to effect this transformation consisted in special simple
+artifices peculiar to each case, and the discovery of which did not
+admit of invariable and certain rules, so that every really new question
+constantly reproduced analogous difficulties, without the solutions
+previously obtained being really of any essential aid, otherwise than by
+their discipline and training of the mind. In a word, this branch of
+mathematics presented, then, the necessary imperfection which always
+exists when the part common to all questions of the same class has not
+yet been distinctly grasped in order to be treated in an abstract and
+thenceforth general manner.
+
+
+
+
+METHOD OF LAGRANGE.
+
+
+Lagrange, in endeavouring to bring all the different problems of
+isoperimeters to depend upon a common analysis, organized into a
+distinct calculus, was led to conceive a new kind of differentiation, to
+which he has applied the characteristic δ, reserving the characteristic
+_d_ for the common differentials. These differentials of a new species,
+which he has designated under the name of _Variations_, consist of the
+infinitely small increments which the integrals receive, not by virtue
+of analogous increments on the part of the corresponding variables, as
+in the ordinary transcendental analysis, but by supposing that the
+_form_ of the function placed under the sign of integration undergoes an
+infinitely small change. This distinction is easily conceived with
+reference to curves, in which we see the ordinate, or any other variable
+of the curve, admit of two sorts of differentials, evidently very
+different, according as we pass from one point to another infinitely
+near it on the same curve, or to the corresponding point of the
+infinitely near curve produced by a certain determinate modification of
+the first curve.[11] It is moreover clear, that the relative
+_variations_ of different magnitudes connected with each other by any
+laws whatever are calculated, all but the characteristic, almost exactly
+in the same manner as the differentials. Finally, from the general
+notion of _variations_ are in like manner deduced the fundamental
+principles of the algorithm proper to this method, consisting simply in
+the evidently permissible liberty of transposing at will the
+characteristics specially appropriated to variations, before or after
+those which correspond to the ordinary differentials.
+
+  [Footnote 11: Leibnitz had already considered the comparison of one
+  curve with an other infinitely near to it, calling it
+  "_Differentiatio de curva in curvam_." But this comparison had no
+  analogy with the conception of Lagrange, the curves of Leibnitz
+  being embraced in the same general equation, from which they were
+  deduced by the simple change of an arbitrary constant.]
+
+This abstract conception having been once formed, Lagrange was able to
+reduce with ease, and in the most general manner, all the problems of
+_Isoperimeters_ to the simple ordinary theory of _maxima_ and _minima_.
+To obtain a clear idea of this great and happy transformation, we must
+previously consider an essential distinction which arises in the
+different questions of isoperimeters.
+
+
+_Two Classes of Questions._ These investigations must, in fact, be
+divided into two general classes, according as the maxima and minima
+demanded are _absolute_ or _relative_, to employ the abridged
+expressions of geometers.
+
+
+_Questions of the first Class._ The _first case_ is that in which the
+indeterminate definite integrals, the maximum or minimum of which is
+sought, are not subjected, by the nature of the problem, to any
+condition; as happens, for example, in the problem of the
+_brachystochrone_, in which the choice is to be made between all
+imaginable curves. The _second_ case takes place when, on the contrary,
+the variable integrals can vary only according to certain conditions,
+which usually consist in other definite integrals (which depend, in like
+manner, upon the required functions) always retaining the same given
+value; as, for example, in all the geometrical questions relating to
+real _isoperimetrical_ figures, and in which, by the nature of the
+problem, the integral relating to the length of the curve, or to the
+area of the surface, must remain constant during the variation of that
+integral which is the object of the proposed investigation.
+
+The _Calculus of Variations_ gives immediately the general solution of
+questions of the former class; for it evidently follows, from the
+ordinary theory of maxima and minima, that the required relation must
+reduce to zero the _variation_ of the proposed integral with reference
+to each independent variable; which gives the condition common to both
+the maximum and the minimum: and, as a characteristic for distinguishing
+the one from the other, that the variation of the second order of the
+same integral must be negative for the maximum and positive for the
+minimum. Thus, for example, in the problem of the brachystochrone, we
+will have, in order to determine the nature of the curve sought, the
+equation of condition
+
+  δ∫_{_z₂_}^{_z₁_}√([1 + (_f'(z)_)² + (π'(_z_))²]/(2_gz_))_dz_ = 0,
+
+which, being decomposed into two, with respect to the two unknown
+functions _f_ and π, which are independent of each other, will
+completely express the analytical definition of the required curve. The
+only difficulty peculiar to this new analysis consists in the
+elimination of the characteristic δ, for which the calculus of
+variations furnishes invariable and complete rules, founded, in general,
+on the method of "integration by parts," from which Lagrange has thus
+derived immense advantage. The constant object of this first analytical
+elaboration (which this is not the place for treating in detail) is to
+arrive at real differential equations, which can always be done; and
+thereby the question comes under the ordinary transcendental analysis,
+which furnishes the solution, at least so far as to reduce it to pure
+algebra if the integration can be effected. The general object of the
+method of variations is to effect this transformation, for which
+Lagrange has established rules, which are simple, invariable, and
+certain of success.
+
+
+_Equations of Limits._ Among the greatest special advantages of the
+method of variations, compared with the previous isolated solutions of
+isoperimetrical problems, is the important consideration of what
+Lagrange calls _Equations of Limits_, which were entirely neglected
+before him, though without them the greater part of the particular
+solutions remained necessarily incomplete. When the limits of the
+proposed integrals are to be fixed, their variations being zero, there
+is no occasion for noticing them. But it is no longer so when these
+limits, instead of being rigorously invariable, are only subjected to
+certain conditions; as, for example, if the two points between which the
+required curve is to be traced are not fixed, and have only to remain
+upon given lines or surfaces. Then it is necessary to pay attention to
+the variation of their co-ordinates, and to establish between them the
+relations which correspond to the equations of these lines or of these
+surfaces.
+
+
+_A more general consideration._ This essential consideration is only the
+final complement of a more general and more important consideration
+relative to the variations of different independent variables. If these
+variables are really independent of one another, as when we compare
+together all the imaginable curves susceptible of being traced between
+two points, it will be the same with their variations, and,
+consequently, the terms relating to each of these variations will have
+to be separately equal to zero in the general equation which expresses
+the maximum or the minimum. But if, on the contrary, we suppose the
+variables to be subjected to any fixed conditions, it will be necessary
+to take notice of the resulting relation between their variations, so
+that the number of the equations into which this general equation is
+then decomposed is always equal to only the number of the variables
+which remain truly independent. It is thus, for example, that instead of
+seeking for the shortest path between any two points, in choosing it
+from among all possible ones, it may be proposed to find only what is
+the shortest among all those which may be taken on any given surface; a
+question the general solution of which forms certainly one of the most
+beautiful applications of the method of variations.
+
+_Questions of the second Class._ Problems in which such modifying
+conditions are considered approach very nearly, in their nature, to the
+second general class of applications of the method of variations,
+characterized above as consisting in the investigation of _relative_
+maxima and minima. There is, however, this essential difference between
+the two cases, that in this last the modification is expressed by an
+integral which depends upon the function sought, while in the other it
+is designated by a finite equation which is immediately given. It is
+hence apparent that the investigation of _relative_ maxima and minima is
+constantly and necessarily more complicated than that of _absolute_
+maxima and minima. Luckily, a very important general theory, discovered
+by the genius of the great Euler before the invention of the Calculus of
+Variations, gives a uniform and very simple means of making one of
+these two classes of questions dependent on the other. It consists in
+this, that if we add to the integral which is to be a maximum or a
+minimum, a constant and indeterminate multiple of that one which, by the
+nature of the problem, is to remain constant, it will be sufficient to
+seek, by the general method of Lagrange above indicated, the _absolute_
+maximum or minimum of this whole expression. It can be easily conceived,
+indeed, that the part of the complete variation which would proceed from
+the last integral must be equal to zero (because of the constant
+character of this last) as well as the portion due to the first
+integral, which disappears by virtue of the maximum or minimum state.
+These two conditions evidently unite to produce, in that respect,
+effects exactly alike.
+
+Such is a sketch of the general manner in which the method of variation
+is applied to all the different questions which compose what is called
+the _Theory of Isoperimeters_. It will undoubtedly have been remarked in
+this summary exposition how much use has been made in this new analysis
+of the second fundamental property of the transcendental analysis
+noticed in the third chapter, namely, the generality of the
+infinitesimal expressions for the representation of the same geometrical
+or mechanical phenomenon, in whatever body it may be considered. Upon
+this generality, indeed, are founded, by their nature, all the solutions
+due to the method of variations. If a single formula could not express
+the length or the area of any curve whatever; if another fixed formula
+could not designate the time of the fall of a heavy body, according to
+whatever line it may descend, &c., how would it have been possible to
+resolve questions which unavoidably require, by their nature, the
+simultaneous consideration of all the cases which can be determined in
+each phenomenon by the different subjects which exhibit it.
+
+
+_Other Applications of this Method._ Notwithstanding the extreme
+importance of the theory of isoperimeters, and though the method of
+variations had at first no other object than the logical and general
+solution of this order of problems, we should still have but an
+incomplete idea of this beautiful analysis if we limited its destination
+to this. In fact, the abstract conception of two distinct natures of
+differentiation is evidently applicable not only to the cases for which
+it was created, but also to all those which present, for any reason
+whatever, two different manners of making the same magnitudes vary. It
+is in this way that Lagrange himself has made, in his "_Méchanique
+Analytique_," an extensive and important application of his calculus of
+variations, by employing it to distinguish the two sorts of changes
+which are naturally presented by the questions of rational mechanics for
+the different points which are considered, according as we compare the
+successive positions which are occupied, in virtue of its motion, by the
+same point of each body in two consecutive instants, or as we pass from
+one point of the body to another in the same instant. One of these
+comparisons produces ordinary differentials; the other gives rise to
+_variations_, which, there as every where, are only differentials taken
+under a new point of view. Such is the general acceptation in which we
+should conceive the Calculus of Variations, in order suitably to
+appreciate the importance of this admirable logical instrument, the
+most powerful that the human mind has as yet constructed.
+
+The method of variations being only an immense extension of the general
+transcendental analysis, I have no need of proving specially that it is
+susceptible of being considered under the different fundamental points
+of view which the calculus of indirect functions, considered as a whole,
+admits of. Lagrange invented the Calculus of Variations in accordance
+with the infinitesimal conception, and, indeed, long before he undertook
+the general reconstruction of the transcendental analysis. When he had
+executed this important reformation, he easily showed how it could also
+be applied to the Calculus of Variations, which he expounded with all
+the proper development, according to his theory of derivative functions.
+But the more that the use of the method of variations is difficult of
+comprehension, because of the higher degree of abstraction of the ideas
+considered, the more necessary is it, in its application, to economize
+the exertions of the mind, by adopting the most direct and rapid
+analytical conception, namely, that of Leibnitz. Accordingly, Lagrange
+himself has constantly preferred it in the important use which he has
+made of the Calculus of Variations in his "Analytical Mechanics." In
+fact, there does not exist the least hesitation in this respect among
+geometers.
+
+
+
+
+ITS RELATIONS TO THE ORDINARY CALCULUS.
+
+
+In order to make as clear as possible the philosophical character of the
+Calculus of Variations, I think that I should, in conclusion, briefly
+indicate a consideration which seems to me important, and by which I can
+approach it to the ordinary transcendental analysis in a higher degree
+than Lagrange seems to me to have done.[12]
+
+  [Footnote 12: I propose hereafter to develop this new
+  consideration, in a special work upon the _Calculus of Variations_,
+  intended to present this hyper-transcendental analysis in a new
+  point of view, which I think adapted to extend its general range.]
+
+We noticed in the preceding chapter the formation of the _calculus of
+partial differences_, created by D'Alembert, as having introduced into
+the transcendental analysis a new elementary idea; the notion of two
+kinds of increments, distinct and independent of one another, which a
+function of two variables may receive by virtue of the change of each
+variable separately. It is thus that the vertical ordinate of a surface,
+or any other magnitude which is referred to it, varies in two manners
+which are quite distinct, and which may follow the most different laws,
+according as we increase either the one or the other of the two
+horizontal co-ordinates. Now such a consideration seems to me very
+nearly allied, by its nature, to that which serves as the general basis
+of the method of variations. This last, indeed, has in reality done
+nothing but transfer to the independent variables themselves the
+peculiar conception which had been already adopted for the functions of
+these variables; a modification which has remarkably enlarged its use. I
+think, therefore, that so far as regards merely the fundamental
+conceptions, we may consider the calculus created by D'Alembert as
+having established a natural and necessary transition between the
+ordinary infinitesimal calculus and the calculus of variations; such a
+derivation of which seems to be adapted to make the general notion more
+clear and simple.
+
+According to the different considerations indicated in this chapter, the
+method of variations presents itself as the highest degree of perfection
+which the analysis of indirect functions has yet attained. In its
+primitive state, this last analysis presented itself as a powerful
+general means of facilitating the mathematical study of natural
+phenomena, by introducing, for the expression of their laws, the
+consideration of auxiliary magnitudes, chosen in such a manner that
+their relations are necessarily more simple and more easy to obtain than
+those of the direct magnitudes. But the formation of these differential
+equations was not supposed to admit of any general and abstract rules.
+Now the Analysis of Variations, considered in the most philosophical
+point of view, may be regarded as essentially destined, by its nature,
+to bring within the reach of the calculus the actual establishment of
+the differential equations; for, in a great number of important and
+difficult questions, such is the general effect of the _varied_
+equations, which, still more _indirect_ than the simple differential
+equations with respect to the special objects of the investigation, are
+also much more easy to form, and from which we may then, by invariable
+and complete analytical methods, the object of which is to eliminate the
+new order of auxiliary infinitesimals which have been introduced, deduce
+those ordinary differential equations which it would often have been
+impossible to establish directly. The method of variations forms, then,
+the most sublime part of that vast system of mathematical analysis,
+which, setting out from the most simple elements of algebra, organizes,
+by an uninterrupted succession of ideas, general methods more and more
+powerful, for the study of natural philosophy, and which, in its whole,
+presents the most incomparably imposing and unequivocal monument of the
+power of the human intellect.
+
+We must, however, also admit that the conceptions which are habitually
+considered in the method of variations being, by their nature, more
+indirect, more general, and especially more abstract than all others,
+the employment of such a method exacts necessarily and continuously the
+highest known degree of intellectual exertion, in order never to lose
+sight of the precise object of the investigation, in following
+reasonings which offer to the mind such uncertain resting-places, and in
+which signs are of scarcely any assistance. We must undoubtedly
+attribute in a great degree to this difficulty the little real use which
+geometers, with the exception of Lagrange, have as yet made of such an
+admirable conception.
+
+
+
+

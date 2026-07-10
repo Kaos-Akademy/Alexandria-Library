@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 60968,
+      "title": "The Sexual Life of Our Time in Its Relations to Modern Civilization\nTranslated from the Sixth German Edition",
+      "author": "Bloch, Iwan, 1872-1922; Paul, Eden, 1865-1944 [Translator]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Sex; Sexual ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61004,
+      "title": "Spiritual Energies in Daily Life",
+      "author": "Jones, Rufus M. (Rufus Matthew), 1863-1948",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Spiritual life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61078,
+      "title": "The Inner Life",
+      "author": "Jones, Rufus M. (Rufus Matthew), 1863-1948",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Spiritual life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61124,
+      "title": "Psychoanalysis and Love",
+      "author": "Tridon, Andr\u00e9, 1877-1922",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Love; Sex; Psychoanalysis",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61130,
+      "title": "Ritual of the Order of the Eastern Star",
+      "author": "Order of the Eastern Star. General Grand Chapter",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Freemasonry -- Rituals; Order of the Eastern Star -- Rituals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61143,
+      "title": "Some Reflections Upon Marriage.\nWith additions.",
+      "author": "Astell, Mary, 1666-1731",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Women -- Social conditions; Marriage",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61234,
+      "title": "Common-Sense Country",
+      "author": "Bevington, L. S. (Louisa Sarah), 1845-1895",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Utopias; Anarchism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 61249,
+      "title": "D\u00e6monologia Sacra; or, A Treatise of Satan's Temptations\nIn Three Parts",
+      "author": "Gilpin, Richard, 1625-1700; Grosart, Alexander Balloch, 1827-1899 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Devil -- Early works to 1800; Temptation -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

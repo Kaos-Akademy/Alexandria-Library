@@ -1,0 +1,405 @@
+CHAPTER XVI.
+
+
+_THE APPLICATION OF PROBABILITY TO TESTIMONY._
+
+1. On the principles which have been adopted in this
+work, it becomes questionable whether several classes of
+problems which may seem to have acquired a prescriptive
+right to admission, will not have to be excluded from the
+science of Probability. The most important, perhaps, of
+these refer to what is commonly called the credibility of
+testimony, estimated either at first hand and directly, or as
+influencing a juryman, and so reaching us through his
+sagacity and trustworthiness. Almost every treatise upon
+the science contains a discussion of the principles according
+to which credit is to be attached to combinations of the
+reports of witnesses of various degrees of trustworthiness, or
+the verdicts of juries consisting of larger or smaller numbers.
+A great modern mathematician, Poisson, has written an
+elaborate treatise expressly upon this subject; whilst a considerable
+portion of the works of Laplace, De Morgan, and
+others, is devoted to an examination of similar enquiries. It
+would be presumptuous to differ from such authorities as
+these, except upon the strongest grounds; but I confess that
+the extraordinary ingenuity and mathematical ability which
+have been devoted to these problems, considered as questions
+in Probability, fails to convince me that they ought to have
+been so considered. The following are the principal grounds
+for this opinion.
+
+2. It will be remembered that in the course of the
+chapter on Induction we entered into a detailed investigation
+of the process demanded of us when, instead of the
+appropriate propositions from which the inference was to be
+made being set before us, the _individual_ presented himself,
+and the task was imposed upon us of selecting the requisite
+groups or series to which to refer him. In other words, instead
+of calculating the chance of an event from determinate
+conditions of frequency of its occurrence (these being either
+obtained by direct experience, or deductively inferred) we
+have to _select_ the conditions of frequency out of a plurality
+of more or less suitable ones. When the problem is presented
+to us at such a stage as this, we may of course assume
+that the preliminary process of obtaining the statistics
+which are extended into the proportional propositions has
+been already performed; we may suppose therefore that we
+are already in possession of a quantity of such propositions,
+our principal remaining doubt being as to which of them
+we should then employ. This selection was shown to be
+to a certain extent arbitrary; for, owing to the fact of the
+individual possessing a large number of different properties,
+he became in consequence a member of different series or
+groups, which might present different averages. We must
+now examine, somewhat more fully than we did before,
+the practical conditions under which any difficulty arising
+from this source ceases to be of importance.
+
+3. One condition of this kind is very simple and obvious.
+It is that the different statistics with which we are
+presented should not in reality offer materially different
+results, If, for instance, we were enquiring into the probability
+of a man aged forty dying within the year, we might
+if we pleased take into account the fact of his having red
+hair, or his having been born in a certain county or town.
+Each of these circumstances would serve to specialize the
+individual, and therefore to restrict the limits of the statistics
+which were applicable to his case. But the consideration of
+such qualities as these would either leave the average precisely
+as it was, or produce such an unimportant alteration
+in it as no one would think of taking into account. Though
+we could hardly say with certainty of any conceivable
+characteristic that it has absolutely no bearing on the
+result, we may still feel very confident that the bearing of
+such characteristics as these is utterly insignificant. Of
+course in the extreme case of the things most perfectly
+suited to the Calculus of Probability, viz. games of pure
+chance, these subsidiary characteristics are quite irrelevant.
+Any further particulars about the characteristics of the cards
+in a really fair pack, beyond those which are familiar to all
+the players, would convey no information whatever about the
+result.
+
+Or again; although the different sets of statistics may
+not as above give almost identical results, yet they may do
+what practically comes to very much the same thing, that
+is, arrange themselves into a small number of groups, all of
+the statistics in any one group practically coinciding in their
+results. If for example a consumptive man desired to insure
+his life, there would be a marked difference in the statistics
+according as we took his peculiar state of health into account
+or not. We should here have two sets of statistics, so clearly
+marked off from one another that they might almost rank
+with the distinctions of natural kinds, and which would in
+consequence offer decidedly different results. If we were
+to specialize still further, by taking into account insignificant
+qualities like those mentioned in the last paragraph, we
+might indeed get more limited sets of statistics applicable
+to persons still more closely resembling the individual in
+question, but these would not differ sufficiently in their
+results to make it worth our while to do so. In other words,
+the different propositions which are applicable to the case in
+point arrange themselves into a limited number of groups,
+which, and which only, need be taken into account; whence
+the range of choice amongst them is very much diminished
+in practice.
+
+4. The reasons for the conditions above described are
+not difficult to detect. Where these conditions exist the
+process of selecting a series or class to which to refer any
+individual is very simple, and the selection is, for the particular
+purposes of inference, final. In any case of insurance,
+for example, the question we have to decide is of the very
+simple kind; Is A. B. a man of a certain age? If so one in
+fifty in his circumstances will die in the course of the year.
+If any further questions have to be decided they would be of
+the following description. Is A. B. a healthy man? Does he
+follow a dangerous trade? But here too the classes in
+question are but few, and the limits by which they are
+bounded are tolerably precise; so that the reference of an
+individual to one or other of them is easy. And when we
+have once chosen our class we remain untroubled by any
+further considerations; for since no other statistics are supposed
+to offer a materially different average, we have no
+occasion to take account of any other properties than those
+already noticed.
+
+The case of games of chance, already referred to, offers
+of course an instance of these conditions in an almost ideal
+state of perfection; the same circumstances which fit them
+so eminently for the purposes of fair gambling, fitting them
+equally to become examples in Probability. When a die is
+to be thrown, all persons alike stand on precisely the same
+footing of knowledge and of ignorance about the result; the
+only data to which any one could appeal being that each
+face turns up on an average once in six times.
+
+5. Let us now examine how far the above conditions
+are fulfilled in the case of problems which discuss what is
+called the credibility of testimony. The following would be
+a fair specimen of one of the elementary enquiries out of
+which these problems are composed;--Here is a statement
+made by a witness who lies once in ten times, what am I to
+conclude about its truth? Objections might fairly be raised
+against the possibility of thus assigning a man his place
+upon a graduated scale of mendacity. This however we will
+pass over, and will assume that the witness goes about the
+world bearing stamped somehow on his face the appropriate
+class to which he belongs, and consequently, the degree of
+credit to which he has a claim on such general grounds.
+But there are other and stronger reasons against the admissibility
+of this class of problems.
+
+6. That which has been described in the previous
+sections as the 'individual' which had to be assigned to an
+appropriate class or series of statistics is, of course, in this
+case, _a statement_. In the particular instance in question this
+individual statement is already assigned to a class, that
+namely of statements made by a witness of a given degree of
+veracity; but it is clearly optional with us whether or not we
+choose to confine our attention to this class in forming our
+judgment; at least it would be optional whenever we were
+practically called on to form an opinion. But in the case of
+this statement, as in that of the mortality of the man whose
+insurance we were discussing, there are a multitude of other
+properties observable, besides the one which is supposed to
+mark the given class. Just as in the latter there were
+(besides his age), the place of his birth, the nature of his
+occupation, and so on; so in the former there are (besides its
+being a statement by a certain kind of witness), the fact of its
+being uttered at a certain time and place and under certain
+circumstances. At the time the statement is made all these
+qualities or attributes of the statement are present to us, and
+we clearly have a right to take into account as many of them
+as we please. Now the question at present before us seems to
+be simply this;--Are the considerations, which we might thus
+introduce, as immaterial to the result in the case of the truth
+of a statement of a witness, as the corresponding considerations
+are in the case of the insurance of a life? There can
+surely be no hesitation in the reply to such a question.
+Under ordinary circumstances we soon know all that we can
+know about the conditions which determine us in judging of
+the prospect of a man's death, and we therefore rest content
+with general statistics of mortality; but no one who heard a
+witness speak would think of simply appealing to his figure
+of veracity, even supposing that this had been authoritatively
+communicated to us. The circumstances under which the
+statement is made instead of being insignificant, are of overwhelming
+importance. The appearance of the witness, the
+tone of his voice, the fact of his having objects to gain,
+together with a countless multitude of other circumstances
+which would gradually come to light as we reflect upon the
+matter, would make any sensible man discard the assigned
+average from his consideration. He would, in fact, no more
+think of judging in this way than he would of appealing to
+the Carlisle or Northampton tables of mortality to determine
+the probable length of life of a soldier who was already in
+the midst of a battle.
+
+7. It cannot be replied that under these circumstances
+we still refer the witness to a class, and judge of his veracity
+by an average of a more limited kind; that we infer, for example,
+that of men who look and act like him under such
+circumstances, a much larger proportion, say nine-tenths,
+are found to lie. There is no appeal to a class in this way at
+all, there is no immediate reference to statistics of any kind
+whatever; at least none which we are conscious of using at
+the time, or to which we should think of resorting for justification
+afterwards. The decision seems to depend upon the
+quickness of the observer's senses and of his apprehension
+generally.
+
+Statistics about the veracity of witnesses seem in fact to
+be permanently as inappropriate as all other statistics occasionally
+may be. We may know accurately the percentage
+of recoveries after amputation of the leg; but what surgeon
+would think of forming his judgment solely by such tables
+when he had a case before him? We need not deny, of
+course, that the opinion he might form about the patient's
+prospects of recovery might ultimately rest upon the proportions
+of deaths and recoveries he might have previously witnessed.
+But if this were the case, these data are lying, as
+one may say, obscurely in the background. He does not
+appeal to them directly and immediately in forming his
+judgment. There has been a far more important intermediate
+process of apprehension and estimation of what is
+essential to the case and what is not. Sharp senses, memory,
+judgment, and practical sagacity have had to be called into
+play, and there is not therefore the same direct conscious
+and sole appeal to statistics that there was before. The
+surgeon may have in his mind two or three instances in
+which the operation performed was equally severe, but in
+which the patient's constitution was different; the latter
+element therefore has to be properly allowed for. There may
+be other instances in which the constitution was similar, but
+the operation more severe; and so on. Hence, although the
+ultimate appeal may be to the statistics, it is not so directly;
+their value has to be estimated through the somewhat hazy
+medium of our judgment and memory, which places them
+under a very different aspect.
+
+8. Any one who knows anything of the game of whist
+may supply an apposite example of the distinction here
+insisted on, by recalling to mind the alteration in the nature
+of our inferences as the game progresses. At the commencement
+of the game our sole appeal is rightfully made to the
+theory of Probability. All the rules upon which each player
+acts, and therefore upon which he infers that the others will
+act, rest upon the observed frequency (or rather upon the
+frequency which calculation assures us will be observed) with
+which such and such combinations of cards are found to
+occur. Why are we told, if we have more than four trumps,
+to lead them out at once? Because we are convinced, on
+pure grounds of probability, capable of being stated in the
+strictest statistical form, that in a majority of instances we
+shall draw our opponent's trumps, and therefore be left with
+the command. Similarly with every other rule which is
+recognized in the early part of the play.
+
+But as the play progresses all this is changed, and
+towards its conclusion there is but little reliance upon any
+rules which either we or others could base upon statistical
+frequency of occurrence, observed or inferred. A multitude
+of other considerations have come in; we begin to be influenced
+partly by our knowledge of the character and
+practice of our partner and opponents; partly by a rapid
+combination of a multitude of judgments, founded upon
+our observation of the actual course of play, the grounds
+of which we could hardly realize or describe at the time
+and which may have been forgotten since. That is, the
+particular combination of cards, now before us, does not
+readily fall into any well-marked class to which alone it can
+reasonably be referred by every one who has the facts before
+him.
+
+9. A criticism somewhat resembling the above has
+been given by Mill (_Logic,_ Bk. III. Chap. XVIII. §3) upon
+the applicability of the theory of Probability to the credibility
+of witnesses. But he has added other reasons which
+do not appear to me to be equally valid; he says "common
+sense would dictate that it is impossible to strike a general
+average of the veracity, and other qualifications for true
+testimony, of mankind or any class of them; and if it were
+possible, such an average would be no guide, the credibility of
+almost every witness being either below or above the average,"
+The latter objection would however apply with equal force
+to estimating the length of a man's life from tables of mortality;
+for the credibility of different witnesses can scarcely
+have a wider range of variation than the length of different
+lives. If statistics of credibility could be obtained, and
+could be conveniently appealed to when they were obtained,
+they might furnish us in the long run with as accurate
+inferences as any other statistics of the same general description.
+These statistics would however in practice naturally
+and rightly be neglected, because there can hardly fail
+to be circumstances in each individual statement which would
+more appropriately refer it to some new class depending on
+different statistics, and affording a far better chance of our
+being right in that particular case. In most instances of
+the kind in question, indeed, such a change is thus produced
+in the mode of formation of our opinion, that, as already
+pointed out, the mental operation ceases to be in any proper
+sense founded on appeal to statistics.[1]
+
+10. The Chance problems which are concerned with testimony
+are not altogether confined to such instances as those
+hitherto referred to. Though we must, as it appears to me,
+reject all attempts to estimate the credibility of any particular
+witness, or to refer him to any assigned class in
+respect of his trustworthiness, and consequently abandon as
+unsuitable any of the numerous problems which start from
+such data as 'a witness who is wrong once in ten times,'
+yet it does not follow that testimony may not to a slight
+extent be treated by our science in a somewhat different
+manner. We may be quite unable to estimate, except in
+the roughest possible way, the veracity of any particular
+witness, and yet it may be possible to form some kind of
+opinion upon the veracity of certain classes of witnesses;
+to say, for instance, that Europeans are superior in this way
+to Orientals. So we might attempt to explain why, and to
+what extent, an opinion in which the judgments of ten persons,
+say jurors, concur, is superior to one in which five only
+concur. Something may also be done towards laying down
+the principles in accordance with which we are to decide
+whether, and why, extraordinary stories deserve less credence
+than ordinary ones, even if we cannot arrive at any precise
+and definite decision upon the point. This last question is
+further discussed in the course of the next chapter.
+
+11. The change of view in accordance with which it
+follows that questions of the kind just mentioned need not
+be entirely rejected from scientific consideration, presents itself
+in other directions also. It has, for instance, been already
+pointed out that the individual characteristics of any sick
+man's disease would be quite sufficiently important in most
+cases to prevent any surgeon from judging about his recovery
+by a genuine and direct appeal to statistics, however such
+considerations might indirectly operate upon his judgment.
+But if an opinion had to be formed about a considerable
+number of cases, say in a large hospital, statistics might
+again come prominently into play, and be rightly recognized
+as the principal source of appeal. We should feel able to
+compare one hospital, or one method of treatment, with
+another. The ground of the difference is obvious. It arises
+from the fact that the characteristics of the individuals,
+which made us so ready to desert the average when we had
+to judge of them separately, do not produce the same disturbance
+when were have to judge about a group of cases.
+The averages then become the most secure and available
+ground on which to form an opinion, and therefore Probability
+again becomes applicable.
+
+But although some resort to Probability may be admitted
+in such cases as these, it nevertheless does not
+appear to me that they can ever be regarded as particularly
+appropriate examples to illustrate the methods and resources
+of the theory. Indeed it is scarcely possible to resist the
+conviction that the refinements of mathematical calculation
+have here been pushed to lengths utterly unjustifiable, when
+we bear in mind the impossibility of obtaining any corresponding
+degree of accuracy and precision in the data from
+which we have to start. To cite but one instance. It would
+be hard to find a case in which love of consistency has prevailed
+over common sense to such an extent as in the admission
+of the conclusion that it is unimportant what are
+the numbers for and against a particular statement, provided
+the actual majority is the same. That is, the unanimous
+judgment of a jury of eight is to count for the same as a
+majority of ten to two in a jury of twelve. And yet this
+conclusion is admitted by Poisson. The assumptions under
+which it follows will be indicated in the course of the next
+chapter.
+
+Again, perfect independence amongst the witnesses or
+jurors is an almost necessary postulate. But where can this
+be secured? To say nothing of direct collusion, human
+beings are in almost all instances greatly under the influence
+of sympathy in forming their opinions. This influence, under
+the various names of political bias, class prejudice, local
+feeling, and so on, always exists to a sufficient degree to
+induce a cautious person to make many of those individual
+corrections which we saw to be necessary when we were
+estimating the trustworthiness, in any given case, of a single
+witness; that is, they are sufficient to destroy much, if not
+all, of the confidence with which we resort to statistics and
+averages in forming our judgment. Since then this Essay is
+mainly devoted to explaining and establishing the general
+principles of the science of Probability, we may very fairly
+be excused from any further treatment of this subject, beyond
+the brief discussions which are given in the next chapter.
+
+
+1. It may be remarked also that there is another reason which tends to
+  dissuade us from appealing to principles of Probability in the
+  majority of the cases where testimony has to be estimated. It often,
+  perhaps usually happens, that we are not absolutely forced to come
+  to a decision; at least so far as the acquitting of an accused
+  person may be considered as avoiding a decision. It may be of much
+  greater importance to us to attain not merely truth on the average,
+  but truth in each individual instance, so that we had rather not
+  form an opinion at all than form one of which we can only say in its
+  justification that it will tend to lead us right in the long run.
+
+
+
+

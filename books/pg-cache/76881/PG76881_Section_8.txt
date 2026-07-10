@@ -1,0 +1,225 @@
+I.
+
+THE CONCEPT OF DIMENSION.
+
+Many text-books of stereometry begin with the words: “Every body has
+three dimensions, length, breadth, and thickness.” If we should ask the
+author of a book of this description to tell us the length, breadth, and
+thickness of an apple, of a sponge, or of a cloud of tobacco smoke, he
+would be somewhat perplexed and would probably say, that the definition
+in question referred to something different. A cubical box, or some
+similar structure, whose angles are all right angles and whose bounding
+surfaces are consequently all rectangles is the only body of which it can
+at all be unmistakably asserted that there are three principal directions
+distinguishable in it, of which any one can be called the length, any
+other the breadth, and any third the thickness. We thus see that the
+notions of length, breadth, and thickness are not sufficiently clear and
+universal to enable us to derive from them any idea of what is meant when
+it is said that every body possesses three dimensions, or that the space
+of the world is three-dimensional.
+
+This distinction may be made sharper and more evident by the following
+considerations: We have, let us suppose, a straight line on which a
+point is situated, and the problem is proposed to determine the position
+of the point on the line in an unequivocal manner. The simplest way to
+solve this is, to state how far the point is removed in the one or the
+other direction from some given fixed point; just as in a thermometer
+the position of the surface of the mercury is given by a statement of
+its distance in the direction of cold or heat from a predetermined fixed
+point—the point of freezing water. To state, therefore, the position
+of a point on a straight line, the sole datum necessary is a single
+number, for beforehand we have fixed upon some standard line, like the
+centimetre, and some definite point to which we give the value zero,
+and have also previously decided in what direction from the zero-point,
+points must be situated whose position is expressed by positive numbers,
+and also in what direction those must lie whose position is expressed by
+negative numbers. This last mentioned fact, that a _single_ number is
+sufficient to determine the place of a point in a straight line, is the
+real reason why we attribute to the straight line or to any part of it a
+single dimension.
+
+More generally, we call every totality or system, of infinitely numerous
+things, _one_-dimensional, in which _one_ number is all that is requisite
+to determine and distinguish any particular one of these things amidst
+the entire totality. Thus, time is one-dimensional. We, as inhabitants
+of the earth, have naturally chosen as our unit of time, the period of
+the rotation of the earth about its axis, namely, the day, or a definite
+portion of a day. The zero-point of time is regarded in Christian
+countries as the year of the birth of Christ, and the positive direction
+of time is the time _subsequent_ to the birth of Christ. These data
+fixed, all that is necessary to establish and distinguish any definite
+point of time amid the infinite totality of all the points of time, _is
+a single number_. Of course this number need not be a whole number, but
+may be made up of the sum of a whole number and a fraction in whose
+numerator and denominator we may have numbers as great as we please. We
+may, therefore, also say that the totality of all conceivable numerical
+magnitudes, or of only such as are greater than one definite number and
+smaller than some other definite number, is one-dimensional.
+
+We shall add here a few additional examples of one-dimensioned magnitudes
+presented by geometry. First, the circumference of a circle is a
+one-dimensional magnitude, as is every curved line, whether it returns
+into itself or not. Further, the totality of all equilateral triangles
+which stand on the same base is one-dimensional, or the totality of
+all circles that can be described through two fixed points. Also, the
+totality of all conceivable cubes will be seen to be one-dimensional,
+provided they are distinguished, not with respect to position, but with
+respect to magnitude.
+
+In conformity with the fundamental ideas by which we define the notion
+of a one-dimensional manifoldness, it will be seen that the attribute
+_two_-dimensional must be applied to all totalities of things in
+which _two_ numbers are necessary (and sufficient) to distinguish
+any determinate individual thing amid the totality. The simplest
+two-dimensioned complex which we know of is the plane. To determine
+accurately the position of a point in a plane, the simplest way is to
+take two axes at right angles to each other, that is, fixed straight
+lines, and then to specify the distances by which the point in question
+is removed from each of these axes.
+
+This method of determining the position of a point in a plane suggested
+to the celebrated philosopher and mathematician Descartes the fundamental
+idea of analytical geometry, a branch of mathematics in which by the
+simple artifice of ascribing to every point in a plane two numerical
+values, determined by its distances from the two axes above referred
+to, planimetrical considerations are transformed into algebraical. So,
+too, all kinds of curves that graphically represent the dependence of
+things on time, make use of the fact that the totality of the points in
+a plane is two-dimensional. For example, to represent in a graphical
+form the increase of the population of a city, we take a horizontal axis
+to represent the time, and a perpendicular one to represent the numbers
+which are the measures of the population. Any two lines, then, whose
+lengths practical considerations determine, are taken as the unit of
+time, which we may say is a year, and as the unit of population, which
+we will say is one thousand. Some definite year, say 1850, is fixed
+upon as the zero point. Then, from all the equally distant points on
+the horizontal axis, which points stand for the years, we proceed in
+directions parallel to the other axis, that is, in the perpendicular
+direction, just so much upwards as the numbers which stand for the
+population of that year require. The terminal points so reached, or the
+curve which runs through these terminal points, will then present a
+graphic picture of the rates of increase of the population of the town
+in the different years. The rectangular axes of Descartes are employed
+in a similar way for the construction of barometer curves, which specify
+for the different localities of a country the amount of variation of the
+atmospheric pressure during any period of time. Immediately next to the
+plane the surface of the earth will be recognised as a two-dimensional
+aggregate of points. In this case geographical latitude and longitude
+supply the two numbers that are requisite accurately to determine the
+position of a point. Also, the totality of all the possible straight
+lines that can be drawn through any point in space is two-dimensional, as
+we shall best understand if we picture to ourselves a plane which is cut
+in a point by each of these straight lines and then remember that by such
+a construction every point on the plane will belong to some one line and,
+_vice versa_, a line to every point, whence it follows that the totality
+of all the straight lines which pass through the point assigned are of
+the same dimensions as the totality of the points of the imagined plane.
+
+The question might be asked, In what way and to what extent in this
+case is the specification of _two_ numbers requisite and sufficient
+to determine amid all the rays which pass through the specified point
+a definite individual ray? To get a clear idea of the problem here
+involved, let us imagine the ray produced far into the heavens, where
+some quite definite point will correspond to it. Now, the position of
+a point in the heavens depends, as does the position of a point on all
+spherical surfaces, on two numbers. In the heavens these two numbers are
+ordinarily supplied by the two angles called altitude, or the distance
+above the plane of the horizon, and azimuth, or the angular distance
+between the circle on which the altitude is measured and the meridian
+of the observer. It will be seen thus that the totality of all the
+luminous rays that an eye, conceived as a point, can receive from the
+outer world is two-dimensional, and also that a luminous point emits
+a two-dimensional group of luminous rays. It will also be observed,
+in connection with this example, that the two-dimensional totality of
+all the rays that can be drawn through a point in space is something
+different from the totality of the rays that pass through a point but
+are required to lie in a given plane. Such a group of objects as the
+last-named one, is a one-dimensional totality.
+
+Now that we have sufficiently discussed the attributes that are
+characteristic of one and two-dimensional aggregates, we may, without any
+further investigation of the subject, propose the following definition,
+that, generally, _an n-dimensional totality of infinitely numerous
+things is such, with respect to which the specification of n numbers
+is necessary and sufficient to indicate a definite individual amid the
+totality of all the infinitely numerous individuals of the group_.
+
+Accordingly, the point-aggregate made up of the world-space which we
+inhabit, is a three-dimensional totality. To get true bearings in this
+space and to define any determinate point in it, we have therefore to lay
+through any point which we take as our zero-point three axes at right
+angles to each other, one running from right to left, one backwards
+and forwards, and one upwards and downwards. We then join each two of
+these axes by a plane and are enabled thus to specify the position of
+every point in space by the three perpendicular distances by which the
+point in question is removed in a positive or negative sense from
+these three planes. It is customary to denote the numbers which are the
+measures of these three distances by _x_, _y_, and _z_, the positive
+_x_, positive _y_, and positive _z_ ordinarily being reckoned in the
+right hand, the forward, and the upward directions from the origin.
+If now, with direct reference to this fundamental axial system, any
+particular specification of _x_, _y_, and _z_ be made, there will, by
+such an operation, be cut out and isolated from the three-dimensional
+manifoldness of all the points of space a totality of less dimensions.
+If, for example, _z_ is equal to seven units or measures, this is
+equivalent to a statement that only the two-dimensional totality of the
+points is meant, which constitute the plane that can be laid at right
+angles to the upward-passing _z_-axis at a distance of seven measures
+from the zero-point. Consequently, every imaginable equation between _x_,
+_y_, and _z_ isolates and defines a two-dimensional aggregate of points.
+If two different equations obtain between _x_, _y_, and _z_, two such
+two-dimensional totalities will be isolated from among all the points
+of space. But as these last must have some one-dimensional totality in
+common, we may say that the co-existence of two equations between _x_,
+_y_, and _z_ defines a one-dimensional totality of points, that is to say
+a straight line, a line curved in a plane, or even, perhaps, one curved
+in space. It is evident from this that the introduction of the three axes
+of reference forms a bridge between the theory of space and the theory of
+equations involving three variable quantities, _x_, _y_, _z_. The reason
+that the theory of space cannot thus be brought into connection with
+algebra in general, that is, with the theory of indefinitely numerous
+equations, but only with the algebra of three quantities, _x_, _y_, _z_,
+is simply to be sought in the fact that space, as we picture it, can only
+have three dimensions.
+
+We have now only to supply a few additional examples of _n_-dimensional
+totalities. All particles of air are four-dimensional in magnitude
+when in addition to their position in space we also consider the
+variable densities which they assume, as they are expressed by
+the different heights of the barometer in the different parts of
+the atmosphere. Similarly, all conceivable spheres in space are
+four-dimensional magnitudes, for their centres form a three-dimensional
+point-aggregate, and around each centre there may be additionally
+conceived a one-dimensional totality of spheres, the radii of which can
+be expressed by every numerical magnitude from zero to infinity. Further,
+if we imagine a measuring stick of invariable length to assume every
+conceivable position in space, the positions so obtained will constitute
+a five-dimensional aggregate. For, in the first place, one of the
+extremities of the measuring stick may be conceived to assume a position
+at every point of space, and this determines for one extremity alone
+of the stick a three-dimensional totality of positions; and secondly,
+as we have seen above, there proceeds from every such position of this
+extremity a two-dimensional totality of directions, and by conceiving the
+measuring-stick to be placed lengthwise in every one of these directions
+we shall obtain all the conceivable positions which the second extremity
+can assume, and consequently, the dimensions must be 3 plus 2 or 5.
+Finally, to find out how many dimensions the totality of all the possible
+positions of a square, invariable in magnitude, possesses, we first give
+one of its corners all conceivable positions in space, and we thus obtain
+three dimensions. One definite point in space now being fixed for the
+position of one corner of the square, we imagine drawn through this point
+all possible lines, and on each we lay off the length of the side of
+the square and thus obtain two additional dimensions. Through the point
+obtained for the position of the second corner of the square we must
+now conceive all the possible directions drawn that are perpendicular
+to the line thus fixed, and we must lay off once more on each of these
+directions the side of the square. By this last determination the
+dimensions are only increased by one, for only one one-dimensional
+totality of perpendicular directions is possible to one straight line
+in one of its points. Three corners of the square are now fixed and
+therewith the position of the fourth also is uniquely determined.
+Accordingly, the totality of all equal squares which only differ from one
+another by their position in space, constitutes a manifoldness of six
+dimensions.
+
+

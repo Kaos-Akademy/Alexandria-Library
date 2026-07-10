@@ -1,0 +1,819 @@
+CHAPTER IV.
+
+DEDUCTIVE REASONING.
+
+
+The general principle of inference having been explained in the
+previous chapters, and a suitable system of symbols provided, we have
+now before us the comparatively easy task of tracing out the most
+common and important forms of deductive reasoning. The general problem
+of deduction is as follows:--*From one or more propositions called
+premises to draw such other propositions as will necessarily be true
+when the premises are true.* By deduction we investigate and unfold the
+information contained in the premises; and this we can do by one single
+rule--*For any term occurring in any proposition substitute the term
+which is asserted in any premise to be identical with it.* To obtain
+certain deductions, especially those involving negative conclusions, we
+shall require to bring into use the second and third Laws of Thought,
+and the process of reasoning will then be called *Indirect Deduction*.
+In the present chapter, however, I shall confine my attention to
+those results which can be obtained by the process of *Direct
+Deduction*, that is, by applying to the premises themselves the rule of
+substitution. It will be found that we can combine into one harmonious
+system, not only the various moods of the ancient syllogism but a great
+number of equally important forms of reasoning, which had no recognised
+place in the old logic. We can at the same time dispense entirely with
+the elaborate apparatus of logical rules and mnemonic lines, which were
+requisite so long as the vital principle of reasoning was not clearly
+expressed.
+
+
+*Immediate Inference.*
+
+Probably the simplest of all forms of inference is that which has been
+called *Immediate Inference*, because it can be performed upon a single
+proposition. It consists in joining an adjective, or other qualifying
+clause of the same nature, to both sides of an identity, and asserting
+the equivalence of the terms thus produced. For instance, since
+
+  Conductors of electricity = Non-electrics,
+
+it follows that
+
+  Liquid conductors of electricity = Liquid non-electrics.
+
+If we suppose that
+
+  Plants = Bodies decomposing carbonic acid,
+
+it follows that
+
+  Microscopic plants = Microscopic bodies decomposing
+    carbonic acid.
+
+In general terms, from the identity
+
+  A = B
+
+we can infer the identity
+
+  AC = BC.
+
+This is but a case of plain substitution; for by the first Law of
+Thought it must be admitted that
+
+  AC = AC,
+
+and if, in the second side of this identity, we substitute for A its
+equivalent B, we obtain
+
+  AC = BC.
+
+In like manner from the partial identity
+
+  A = AB
+
+we may obtain
+
+  AC = ABC
+
+by an exactly similar act of substitution; and in every other case
+the rule will be found capable of verification by the principle of
+inference. The process when performed as here described will be quite
+free from the liability to error which I have shown[55] to exist in
+“Immediate Inference by added Determinants,” as described by Dr.
+Thomson.[56]
+
+  [55] *Elementary Lessons in Logic*, p. 86.
+
+  [56] *Outline of the Laws of Thought*, § 87.
+
+
+*Inference with Two Simple Identities.*
+
+One of the most common forms of inference, and one to which I shall
+especially direct attention, is practised with two simple identities.
+From the two statements that “London is the capital of England” and
+“London is the most populous city in the world,” we instantaneously
+draw the conclusion that “The capital of England is the most populous
+city in the world.” Similarly, from the identities
+
+  Hydrogen = Substance of least density,
+  Hydrogen = Substance of least atomic weight,
+
+we infer
+
+  Substance of least density = Substance of least atomic weight.
+
+The general form of the argument is exhibited in the symbols
+
+           B = A         (1)
+           B = C         (2)
+  hence    A = C.        (3)
+
+We may describe the result by saying that terms identical with the
+same term are identical with each other; and it is impossible to
+overlook the analogy to the first axiom of Euclid that “things equal
+to the same thing are equal to each other.” It has been very commonly
+supposed that this is a fundamental principle of thought, incapable of
+reduction to anything simpler. But I entertain no doubt that this form
+of reasoning is only one case of the general rule of inference. We have
+two propositions, A = B and B = C, and we may for a moment consider
+the second one as affirming a truth concerning B, while the former one
+informs us that B is identical with A; hence by substitution we may
+affirm the same truth of A. It happens in this particular case that the
+truth affirmed is identity to C, and we might, if we preferred it, have
+considered the substitution as made by means of the second identity in
+the first. Having two identities we have a choice of the mode in which
+we will make the substitution, though the result is exactly the same in
+either case.
+
+Now compare the three following formulæ,
+
+  (1)   A = B = C, hence A = C
+  (2)   A = B ~ C, hence A ~ C
+  (3)   A ~ B ~ C, no inference.
+
+In the second formula we have an identity and a difference, and we are
+able to infer a difference; in the third we have two differences and
+are unable to make any inference at all. Because A and C both differ
+from B, we cannot tell whether they will or will not differ from each
+other. The flowers and leaves of a plant may both differ in colour from
+the earth in which the plant grows, and yet they may differ from each
+other; in other cases the leaves and stem may both differ from the
+soil and yet agree with each other. Where we have difference only we
+can make no inference; where we have identity we can infer. This fact
+gives great countenance to my assertion that inference proceeds always
+through identity, but may be equally well effected in propositions
+asserting difference or identity.
+
+Deferring a more complete discussion of this point, I will only mention
+now that arguments from double identity occur very frequently, and are
+usually taken for granted, owing to their extreme simplicity. In regard
+to the equivalence of words this form of inference must be constantly
+employed. If the ancient Greek χαλκός is our *copper*, then it must
+be the French *cuivre*, the German *kupfer*, the Latin *cuprum*,
+because these are words, in one sense at least, equivalent to copper.
+Whenever we can give two definitions or expressions for the same term,
+the formula applies; thus Senior defined wealth as “All those things,
+and those things only, which are transferable, are limited in supply,
+and are directly or indirectly productive of pleasure or preventive
+of pain.” Wealth is also equivalent to “things which have value in
+exchange;” hence obviously, “things which have value in exchange = all
+those things, and those things only, which are transferable, &c.” Two
+expressions for the same term are often given in the same sentence,
+and their equivalence implied. Thus Thomson and Tait say,[57] “The
+naturalist may be content to know matter as that which can be perceived
+by the senses, or as that which can be acted upon by or can exert
+force.” I take this to mean--
+
+  Matter = what can be perceived by the senses;
+  Matter = what can be acted upon by or can exert force.
+
+  [57] *Treatise on Natural Philosophy*, vol. i. p. 161.
+
+For the term “matter” in either of these identities we may substitute
+its equivalent given in the other definition. Elsewhere they often
+employ sentences of the form exemplified in the following:[58] “The
+integral curvature, or whole change of direction of an arc of a plane
+curve, is the angle through which the tangent has turned as we pass
+from one extremity to the other.” This sentence is certainly of the
+form--
+
+  The integral curvature = the whole change of direction, &c. = the
+  angle through which the tangent has turned, &c.
+
+  [58] *Treatise on Natural Philosophy*, vol. i. p. 6.
+
+Disguised cases of the same kind of inference occur throughout all
+sciences, and a remarkable instance is found in algebraic geometry.
+Mathematicians readily show that every equation of the form *y* = *mx*
++ *c* corresponds to or represents a straight line; it is also easily
+proved that the same equation is equivalent to one of the general form
+A*x* + B*y* + C = 0, and *vice versâ*. Hence it follows that every
+equation of the form in question, that is to say, every equation of the
+first degree, corresponds to or represents a straight line.[59]
+
+  [59] Todhunter’s *Plane Co-ordinate Geometry*, chap. ii. pp. 11–14.
+
+
+*Inference with a Simple and a Partial Identity.*
+
+A form of reasoning somewhat different from that last considered
+consists in inference-between a simple and a partial identity. If we
+have two propositions of the forms
+
+  A = B,
+  B = BC,
+
+we may then substitute for B in either proposition its equivalent in
+the other, getting in both cases A = BC; in this we may if we like make
+a second substitution for B, getting
+
+  A = AC.
+
+Thus, since “The Mont Blanc is the highest mountain in Europe, and
+the Mont Blanc is deeply covered with snow,” we infer by an obvious
+substitution that “The highest mountain in Europe is deeply covered
+with snow.” These propositions when rigorously stated fall into the
+forms above exhibited.
+
+This mode of inference is constantly employed when for a term we
+substitute its definition, or *vice versâ*. The very purpose of a
+definition is to allow a single noun to be employed in place of a long
+descriptive phrase. Thus, when we say “A circle is a curve of the
+second degree,” we may substitute a definition of the circle, getting
+“A curve, all points of which are at equal distances from one point, is
+a curve of the second degree.” The real forms of the propositions here
+given are exactly those shown in the symbolic statement, but in this
+and many other cases it will be sufficient to state them in ordinary
+elliptical language for sake of brevity. In scientific treatises a
+term and its definition are often both given in the same sentence,
+as in “The weight of a body in any given locality, or the force
+with which the earth attracts it, is proportional to its mass.” The
+conjunction *or* in this statement gives the force of equivalence to
+the parenthetic phrase, so that the propositions really are
+
+  Weight of a body = force with which the earth attracts it.
+  Weight of a body = weight, &c. proportional to its mass.
+
+A slightly different case of inference consists in substituting in a
+proposition of the form A = AB, a definition of the term B. Thus from A
+= AB and B = C we get A = AC. For instance, we may say that “Metals are
+elements” and “Elements are incapable of decomposition.”
+
+  Metal = metal element.
+  Element = what is incapable of decomposition.
+
+Hence
+
+  Metal = metal incapable of decomposition.
+
+It is almost needless to point out that the form of these arguments
+does not suffer any real modification if some of the terms happen to be
+negative; indeed in the last example “incapable of decomposition” may
+be treated as a negative term. Taking
+
+  A = metal
+  B = element
+  C = capable of decomposition
+  *c* = incapable of decomposition;
+
+the propositions are of the forms
+
+  A = AB
+  B = *c*
+
+whence, by substitution,
+
+  A = A*c*.
+
+
+*Inference of a Partial from Two Partial Identities.*
+
+However common be the cases of inference already noticed, there is
+a form occurring almost more frequently, and which deserves much
+attention, because it occupied a prominent place in the ancient
+syllogistic system. That system strangely overlooked all the kinds of
+argument we have as yet considered, and selected, as the type of all
+reasoning, one which employs two partial identities as premises. Thus
+from the propositions
+
+  Sodium is a metal               (1)
+  Metals conduct electricity,     (2)
+
+we may conclude that
+
+  Sodium conducts electricity.    (3)
+
+Taking A, B, C to represent the three terms respectively, the premises
+are of the forms
+
+  A = AB         (1)
+  B = BC.        (2)
+
+Now for B in (1) we can substitute its expression as given in (2),
+obtaining
+
+  A = ABC,       (3)
+
+or, in words, from
+
+  Sodium = sodium metal,                        (1)
+  Metal = metal conducting electricity,         (2)
+
+we infer
+
+  Sodium = sodium metal conducting electricity, (3)
+
+which, in the elliptical language of common life, becomes
+
+  “Sodium conducts electricity.”
+
+The above is a syllogism in the mood called Barbara[60] in the truly
+barbarous language of ancient logicians; and the first figure of the
+syllogism contained Barbara and three other moods which were esteemed
+distinct forms of argument. But it is worthy of notice that, without
+any real change in our form of inference, we readily include these
+three other moods under Barbara. The negative mood Celarent will be
+represented by the example
+
+  [60] An explanation of this and other technical terms of the old
+  logic will be found in my *Elementary Lessons in Logic*, Sixth
+  Edition, 1876; Macmillan.
+
+           Neptune is a planet,                  (1)
+           No planet has retrograde motion;      (2)
+  Hence    Neptune has not retrograde motion.    (3)
+
+If we put A for Neptune, B for planet, and C for “having retrograde
+motion,” then by the corresponding negative term c, we denote “not
+having retrograde motion.” The premises now fall into the forms
+
+  A = AB            (1)
+  B = B*c*,         (2)
+
+and by substitution for B, exactly as before, we obtain
+
+  A = AB*c*.        (3)
+
+What is called in the old logic a particular conclusion may be deduced
+without any real variation in the symbols. Particular quantity is
+indicated, as before mentioned (p. 41), by joining to the term an
+indefinite adjective of quantity, such as *some*, *a part of*,
+*certain*, &c., meaning that an unknown part of the term enters into
+the proposition as subject. Considerable doubt and ambiguity arise out
+of the question whether the part may not in some cases be the whole,
+and in the syllogism at least it must be understood in this sense.[61]
+Now, if we take a letter to represent this indefinite part, we need
+make no change in our formulæ to express the syllogisms Darii and
+Ferio. Consider the example--
+
+  [61] *Elementary Lessons in Logic*, pp. 67, 79.
+
+  Some metals are of less density than water,      (1)
+
+  All bodies of less density than water will float
+  upon the surface of water; hence                 (2)
+
+  Some metals will float upon the surface of
+  water.                                           (3)
+
+Let
+
+  A = some metals,
+  B = body of less density than water,
+  C = floating on the surface of water
+
+then the propositions are evidently as before,
+
+           A = AB,        (1)
+           B = BC;        (2)
+  hence    A = ABC,       (3)
+
+Thus the syllogism Darii does not really differ from Barbara. If the
+reader prefer it, we can readily employ a distinct symbol for the
+indefinite sign of quantity.
+
+  Let    P = some,
+         Q = metal,
+
+B and C having the same meanings as before. Then the premises become
+
+  PQ = PQB,       (1)
+   B = BC;        (2)
+
+hence, by substitution, as before,
+
+  PQ = PQBC.      (3)
+
+Except that the formulæ look a little more complicated there is no
+difference whatever.
+
+The mood Ferio is of exactly the same character as Darii or Barbara,
+except that it involves the use of a negative term. Take the example,
+
+  Bodies which are equally elastic in all directions do not doubly
+  refract light;
+
+  Some crystals are bodies equally elastic in all directions;
+  therefore, some crystals do not doubly refract light.
+
+Assigning the letters as follows:--
+
+   A  = some crystals,
+   B  = bodies equally elastic in all directions,
+   C  = doubly refracting light,
+  *c* = not doubly refracting light.
+
+Our argument is of the same form as before, and may be concisely stated
+in one line,
+
+  A = AB = AB*c*.
+
+If it is preferred to put PQ for the indefinite *some crystals*, we have
+
+  PQ = PQB = PQB*c*.
+
+The only difference is that the negative term c takes the place of C in
+the mood Darii.
+
+
+*Ellipsis of Terms in Partial Identities.*
+
+The reader will probably have noticed that the conclusion which we
+obtain from premises is often more full than that drawn by the old
+Aristotelian processes. Thus from “Sodium is a metal,” and “Metals
+conduct electricity,” we inferred (p. 55) that “Sodium = sodium, metal,
+conducting electricity,” whereas the old logic simply concludes that
+“Sodium conducts electricity.” Symbolically, from A = AB, and B = BC,
+we get A = ABC, whereas the old logic gets at the most A = AC. It is
+therefore well to show that without employing any other principles of
+inference than those already described, we may infer A = AC from A =
+ABC, though we cannot infer the latter more full and accurate result
+from the former. We may show this most simply as follows:--
+
+By the first Law of Thought it is evident that
+
+  AA = AA;
+
+and if we have given the proposition A = ABC, we may substitute for
+both the A’s in the second side of the above, obtaining
+
+  AA = ABC . ABC.
+
+But from the property of logical symbols expressed in the Law of
+Simplicity (p. 33) some of the repeated letters may be made to
+coalesce, and we have
+
+  A = ABC . C.
+
+Substituting again for ABC its equivalent A, we obtain
+
+  A = AC,
+
+the desired result.
+
+By a similar process of reasoning it may be shown that we can always
+drop out any term appearing in one member of a proposition, provided
+that we substitute for it the whole of the other member. This
+process was described in my first logical Essay,[62] as *Intrinsic
+Elimination*, but it might perhaps be better entitled the *Ellipsis
+of Terms*. It enables us to get rid of needless terms by strict
+substitutive reasoning.
+
+  [62] *Pure Logic*, p. 19.
+
+
+*Inference of a Simple from Two Partial Identities.*
+
+Two terms may be connected together by two partial identities in yet
+another manner, and a case of inference then arises which is of the
+highest importance. In the two premises
+
+  A = AB      (1)
+  B = AB      (2)
+
+the second member of each is the same; so that we can by obvious
+substitution obtain
+
+  A = B.
+
+Thus, in plain geometry we readily prove that “Every equilateral
+triangle is also an equiangular triangle,” and we can with equal ease
+prove that “Every equiangular triangle is an equilateral triangle.”
+Thence by substitution, as explained above, we pass to the simple
+identity,
+
+  Equilateral triangle = equiangular triangle.
+
+We thus prove that one class of triangles is entirely identical with
+another class; that is to say, they differ only in our way of naming
+and regarding them.
+
+The great importance of this process of inference arises from the
+fact that the conclusion is more simple and general than either of
+the premises, and contains as much information as both of them put
+together. It is on this account constantly employed in inductive
+investigation, as will afterwards be more fully explained, and it is
+the natural mode by which we arrive at a conviction of the truth of
+simple identities as existing between classes of numerous objects.
+
+
+*Inference of a Limited from Two Partial Identities.*
+
+We have considered some arguments which are of the type treated by
+Aristotle in the first figure of the syllogism. But there exist two
+other types of argument which employ a pair of partial identities. If
+our premises are as shown in these symbols,
+
+  B = AB       (1)
+  B = CB,      (2)
+
+we may substitute for B either by (1) in (2) or by (2) in (1), and by
+both modes we obtain the conclusion
+
+  AB = CB,      (3)
+
+a proposition of the kind which we have called a limited identity
+(p. 42). Thus, for example,
+
+  Potassium = potassium metal                               (1)
+  Potassium = potassium capable of floating on water;       (2)
+
+hence
+
+  Potassium metal = potassium capable of floating on water. (3)
+
+This is really a syllogism of the mood Darapti in the third figure,
+except that we obtain a conclusion of a more exact character than
+the old syllogism gives. From the premises “Potassium is a metal”
+and “Potassium floats on water,” Aristotle would have inferred that
+“Some metals float on water.” But if inquiry were made what the “some
+metals” are, the answer would certainly be “Metal which is potassium.”
+Hence Aristotle’s conclusion simply leaves out some of the information
+afforded in the premises. It even leaves us open to interpret the
+*some metals* in a wider sense than we are warranted in doing. From
+these distinct defects of the old syllogism the process of substitution
+is free, and the new process only incurs the possible objection of
+being tediously minute and accurate.
+
+
+*Miscellaneous Forms of Deductive Inference.*
+
+The more common forms of deductive reasoning having been exhibited
+and demonstrated on the principle of substitution, there still remain
+many, in fact an indefinite number, which may be explained with nearly
+equal ease. Such as involve the use of disjunctive propositions will
+be described in a later chapter, and several of the syllogistic moods
+which include negative terms will be more conveniently treated after
+we have introduced the symbolic use of the second and third laws of
+thought.
+
+We sometimes meet with a chain of propositions which allow of repeated
+substitution, and form an argument called in the old logic a Sorites.
+Take, for instance, the premises
+
+  Iron is a metal,                                  (1)
+  Metals are good conductors of electricity,        (2)
+  Good conductors of electricity are useful for
+    telegraphic purposes.                           (3)
+
+It obviously follows that
+
+  Iron is useful for telegraphic purposes.          (4)
+
+Now if we take our letters thus,
+
+  A = Iron, B = metal, C = good conductor of electricity, D = useful
+  for telegraphic purposes,
+
+the premises will assume the forms
+
+  A = AB,             (1)
+  B = BC,             (2)
+  C = CD.             (3)
+
+For B in (1) we can substitute its equivalent in (2) obtaining, as
+before,
+
+  A = ABC.
+
+Substituting for C in this intermediate result its equivalent as given
+in (3), we obtain the complete conclusion
+
+  A = ABCD.           (4)
+
+The full interpretation is that *Iron is iron, metal, good conductor of
+electricity, useful for telegraphic purposes*, which is abridged in
+common language by the ellipsis of the circumstances which are not of
+immediate importance.
+
+Instead of all the propositions being exactly of the same kind as
+in the last example, we may have a series of premises of various
+character; for instance,
+
+Common salt is sodium chloride,                               (1)
+
+Sodium chloride crystallizes in a cubical form,               (2)
+
+What crystallizes in a cubical form does not possess the power of
+double refraction;                                            (3)
+
+it will follow that
+
+Common salt does not possess the power of double refraction.  (4)
+
+Taking our letter-terms thus,
+
+  A = Common salt,
+  B = Sodium chloride,
+  C = Crystallizing in a cubical form,
+  D = Possessing the power of double refraction,
+
+we may state the premises in the forms
+
+  A = B,              (1)
+  B = BC,             (2)
+  C = C*d*.           (3)
+
+Substituting by (3) in (2) and then by (2) as thus altered in (1) we
+obtain
+
+  A = BC*d*,          (4)
+
+which is a more precise version of the common conclusion.
+
+We often meet with a series of propositions describing the qualities or
+circumstances of the one same thing, and we may combine them all into
+one proposition by the process of substitution. This case is, in fact,
+that which Dr. Thomson has called “Immediate Inference by the sum of
+several predicates,” and his example will serve my purpose well.[63]
+He describes copper as “A metal--of a red colour--and disagreeable
+smell--and taste--all the preparations of which are poisonous--which is
+highly malleable--ductile--and tenacious--with a specific gravity of
+about 8.83.” If we assign the letter A to copper, and the succeeding
+letters of the alphabet in succession to the series of predicates, we
+have nine distinct statements, of the form A = AB (1) A = AC (2) A = AD
+(3) ... A = AK (9). We can readily combine these propositions into one
+by substituting for A in the second side of (1) its expression in (2).
+We thus get
+
+  [63] *An Outline of the Necessary Laws of Thought*, Fifth Ed. p. 161.
+
+  A = ABC,
+
+and by repeating the process over and over again we obviously get the
+single proposition
+
+  A = ABCD ... JK.
+
+But Dr. Thomson is mistaken in supposing that we can obtain in
+this manner a *definition* of copper. Strictly speaking, the above
+proposition is only a *description* of copper, and all the ordinary descriptions
+of substances in scientific works may be summed up in this form. Thus
+we may assert of the organic substances called Paraffins that they are
+all saturated hydrocarbons, incapable of uniting with other substances,
+produced by heating the alcoholic iodides with zinc, and so on. It may
+be shown that no amount of ordinary description can be equivalent to a
+definition of any substance.
+
+
+*Fallacies.*
+
+I have hitherto been engaged in showing that all the forms of
+reasoning of the old syllogistic logic, and an indefinite number of
+other forms in addition, may be readily and clearly explained on the
+single principle of substitution. It is now desirable to show that the
+same principle will prevent us falling into fallacies. So long as we
+exactly observe the one rule of substitution of equivalents it will
+be impossible to commit a *paralogism*, that is to break any one of
+the elaborate rules of the ancient system. The one new rule is thus
+proved to be as powerful as the six, eight, or more rules by which the
+correctness of syllogistic reasoning was guarded.
+
+It was a fundamental rule, for instance, that two negative premises
+could give no conclusion. If we take the propositions
+
+  Granite is not a sedimentary rock,    (1)
+  Basalt is not a sedimentary rock,     (2)
+
+we ought not to be able to draw any inference concerning the relation
+between granite and basalt. Taking our letter-terms thus:
+
+  A = granite,  B = sedimentary rock,  C = basalt,
+
+the premises may be expressed in the forms
+
+  A ~ B,          (1)
+  C ~ B.          (2)
+
+We have in this form two statements of difference; but the principle
+of inference can only work with a statement of agreement or identity
+(p. 63). Thus our rule gives us no power whatever of drawing any
+inference; this is exactly in accordance with the fifth rule of the
+syllogism.
+
+It is to be remembered, indeed, that we claim the power of always
+turning a negative proposition into an affirmative one (p. 45); and it
+might seem that the old rule against negative premises would thus be
+circumvented. Let us try. The premises (1) and (2) when affirmatively
+stated take the forms
+
+  A = A*b*        (1)
+  C = C*b*.       (2)
+
+The reader will find it impossible by the rule of substitution to
+discover a relation between A and C. Three terms occur in the above
+premises, namely A, *b*, and C; but they are so combined that no term
+occurring in one has its exact equivalent stated in the other. No
+substitution can therefore be made, and the principle of the fifth rule
+of the syllogism holds true. Fallacy is impossible.
+
+It would be a mistake, however, to suppose that the mere occurrence of
+negative terms in both premises of a syllogism renders them incapable
+of yielding a conclusion. The old rule informed us that from two
+negative premises no conclusion could be drawn, but it is a fact that
+the rule in this bare form does not hold universally true; and I am not
+aware that any precise explanation has been given of the conditions
+under which it is or is not imperative. Consider the following example:
+
+  Whatever is not metallic is not capable of powerful
+    magnetic influence,                                  (1)
+  Carbon is not metallic,                                (2)
+  Therefore, carbon is not capable of powerful magnetic
+    influence.                                           (3)
+
+Here we have two distinctly negative premises (1) and (2), and yet they
+yield a perfectly valid negative conclusion (3). The syllogistic rule
+is actually falsified in its bare and general statement. In this and
+many other cases we can convert the propositions into affirmative ones
+which will yield a conclusion by substitution without any difficulty.
+To show this let
+
+  A = carbon,                B = metallic,
+  C = capable of powerful magnetic influence.
+
+The premises readily take the forms
+
+  *b* = *bc*,      (1)
+   A  =  A*b*,     (2)
+
+and substitution for *b* in (2) by means of (1) gives the conclusion
+
+  A = A*bc*.       (3)
+
+Our principle of inference then includes the rule of negative premises
+whenever it is true, and discriminates correctly between the cases
+where it does and does not hold true.
+
+The paralogism, anciently called *the Fallacy of Undistributed Middle*,
+is also easily exhibited and infallibly avoided by our system. Let the
+premises be
+
+  Hydrogen is an element,       (1)
+  All metals are elements.      (2)
+
+According to the syllogistic rules the middle term “element” is here
+undistributed, and no conclusion can be obtained; we cannot tell then
+whether hydrogen is or is not a metal. Represent the terms as follows
+
+  A = hydrogen,
+  B = element,
+  C = metal.
+
+The premises then become
+
+  A = AB,          (1)
+  C = CB.          (2)
+
+The reader will here, as in a former page (p. 62), find it impossible
+to make any substitution. The only term which occurs in both premises
+is B, but it is differently combined in the two premises. For B we
+must not substitute A, which is equivalent to AB, not to B. Nor must
+we confuse together CB and AB, which, though they contain one common
+letter, are different aggregate terms. The rule of substitution gives
+us no right to decompose combinations; and if we adhere rigidly to the
+rule, that if two terms are stated to be equivalent we may substitute
+one for the other, we cannot commit the fallacy. It is apparent that
+the form of premises stated above is the same as that which we obtained
+by translating two negative premises into the affirmative form.
+
+The old fallacy, technically called the *Illicit Process of the Major
+Term*, is more easy to commit and more difficult to detect than any
+other breach of the syllogistic rules. In our system it could hardly
+occur. From the premises
+
+  All planets are subject to gravity,    (1)
+  Fixed stars are not planets,           (2)
+
+we might inadvertently but fallaciously infer that, “Fixed stars are
+not subject to gravity.” To reduce the premises to symbolic form, let
+
+  A = planet
+  B = fixed star
+  C = subject to gravity;
+
+then we have the propositions
+
+  A = AC           (1)
+  B = B*a*.        (2)
+
+The reader will try in vain to produce from these premises by
+legitimate substitution any relation between B and C; he could not then
+commit the fallacy of asserting that B is not C.
+
+There remain two other kinds of paralogism, commonly known as the
+fallacy of Four Terms and the Illicit Process of the Minor Term. They
+are so evidently impossible while we obey the rule of the substitution
+of equivalents, that it is not necessary to give any illustrations.
+When there are four distinct terms in two propositions as in A = B
+and C = D, there could evidently be no opening for substitution. As
+to the Illicit Process of the Minor Term it consists in a flagrant
+substitution for a term of another wider term which is not known to be
+equivalent to it, and which is therefore not allowed by our rule to be
+substituted for it.
+
+
+
+

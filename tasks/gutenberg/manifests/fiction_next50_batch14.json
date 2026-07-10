@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1089,
+      "title": "Moon-Face, and Other Stories",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; United States -- Social life and customs -- 20th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1090,
+      "title": "The Bickerstaff-Partridge Papers",
+      "author": "Swift, Jonathan, 1667-1745",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1093,
+      "title": "The Beast in the Jungle",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Fiction; Fate and fatalism -- Fiction; Man-woman relationships -- Fiction; Egoism -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1094,
+      "title": "Tamburlaine the Great \u2014 Part 1",
+      "author": "Marlowe, Christopher, 1564-1593; Dyce, Alexander, 1798-1869 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Timur, 1336-1405 -- Drama; English drama; Tragedies (Drama); Historical drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1096,
+      "title": "The Faith of Men",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, American; Manners and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1097,
+      "title": "Mrs. Warren's Profession",
+      "author": "Shaw, Bernard, 1856-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Working class women -- Great Britain -- Drama; Prostitutes -- Great Britain -- Drama; Prostitution -- Great Britain -- Drama; Great Britain -- Social conditions -- 19th century -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1098,
+      "title": "The Turmoil: A Novel",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "City and town life -- Fiction; Domestic fiction; Bildungsromans; Young men -- Fiction; Children of the rich -- Fiction; Social classes -- Fiction; Middle West -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1100,
+      "title": "King Henry VI, Part 1",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1101,
+      "title": "King Henry VI, Part 2",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1102,
+      "title": "King Henry VI, Part 3",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1103,
+      "title": "King Richard III",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Kings and rulers -- Drama; Richard III, King of England, 1452-1485 -- Drama; Tragedies (Drama); Historical drama; Great Britain -- History -- Richard III, 1483-1485 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1104,
+      "title": "The Comedy of Errors",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Shipwreck victims -- Drama; Mistaken identity -- Drama; Brothers -- Drama; Greece -- Drama; Twins -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1105,
+      "title": "The Sonnets",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Sonnets, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1106,
+      "title": "Titus Andronicus",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Andronicus, Titus (Legendary character) -- Drama; Goths -- Drama; Generals -- Drama; Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama; Historical drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1107,
+      "title": "The Taming of the Shrew",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Man-woman relationships -- Drama; Married people -- Drama; Sex role -- Drama; Padua (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1108,
+      "title": "The Two Gentlemen of Verona",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Verona (Italy) -- Drama; Triangles (Interpersonal relations) -- Drama; Exiles -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1109,
+      "title": "Love's Labour's Lost",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Courts and courtiers -- Drama; Princesses -- Drama; Navarre (Kingdom) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1110,
+      "title": "King John",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "John, King of England, 1167-1216 -- Drama; Great Britain -- History -- John, 1199-1216 -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1111,
+      "title": "King Richard II",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Richard II, King of England, 1367-1400 -- Drama; Tragedies (Drama); Historical drama; Great Britain -- History -- Richard II, 1377-1399 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1112,
+      "title": "Romeo and Juliet",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Vendetta -- Drama; Youth -- Drama; Verona (Italy) -- Drama; Juliet (Fictitious character) -- Drama; Romeo (Fictitious character) -- Drama; Conflict of generations -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1113,
+      "title": "A Midsummer Night's Dream",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Courtship -- Drama; Athens (Greece) -- Drama; Fairy plays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1114,
+      "title": "The Merchant of Venice",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Jews -- Italy -- Drama; Moneylenders -- Drama; Venice (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1115,
+      "title": "King Henry IV, Part 1",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry IV, King of England, 1367-1413 -- Drama; Historical drama; Great Britain -- History -- Henry IV, 1399-1413 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1116,
+      "title": "The Merry Wives of Windsor",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Falstaff, John, Sir (Fictitious character) -- Drama; Married women -- Drama; Windsor (Windsor and Maidenhead, England) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1117,
+      "title": "King Henry IV, Part 2",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry IV, King of England, 1367-1413 -- Drama; Historical drama; Great Britain -- History -- Henry IV, 1399-1413 -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1118,
+      "title": "Much Ado about Nothing",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Rejection (Psychology) -- Drama; Conspiracies -- Drama; Courtship -- Drama; Messina (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1119,
+      "title": "King Henry V",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry V, King of England, 1387-1422 -- Drama; Great Britain -- Kings and rulers -- Drama; Great Britain -- History -- Henry V, 1413-1422 -- Drama; Historical drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1120,
+      "title": "Julius Caesar",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Conspiracies -- Drama; Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama; Caesar, Julius -- Assassination -- Drama; Assassins -- Drama; Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1121,
+      "title": "As You Like It",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Fathers and daughters -- Drama; Exiles -- Drama; Pastoral drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1122,
+      "title": "Hamlet",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Hamlet (Legendary character) -- Drama; Kings and rulers -- Succession -- Drama; Murder victims' families -- Drama; Fathers -- Death -- Drama; Revenge -- Drama; Princes -- Drama; Denmark -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1123,
+      "title": "Twelfth Night",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Mistaken identity -- Drama; Twins -- Drama; Siblings -- Drama; Shipwreck survival -- Drama; Illyria -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1124,
+      "title": "Troilus and Cressida",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Trojan War -- Drama; Tragicomedy; Troilus (Legendary character) -- Drama; Cressida (Fictitious character) -- Drama; Troy (Extinct city) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1125,
+      "title": "All's Well That Ends Well",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Married women -- Drama; Runaway husbands -- Drama; Florence (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1126,
+      "title": "Measure for Measure",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Siblings -- Drama; Chastity -- Drama; Vienna (Austria) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1127,
+      "title": "Othello",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Othello (Fictitious character) -- Drama; Jealousy -- Drama; Interracial marriage -- Drama; Venice (Italy) -- Drama; Muslims -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1128,
+      "title": "King Lear",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Fathers and daughters -- Drama; Inheritance and succession -- Drama; Lear, King (Legendary character) -- Drama; Britons -- Drama; Kings and rulers -- Drama; Aging parents -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1129,
+      "title": "The Tragedy of Macbeth",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Regicides -- Drama; Macbeth, King of Scotland, active 11th century -- Drama; Scotland -- Kings and rulers -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1130,
+      "title": "Antony and Cleopatra",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Generals -- Rome -- Drama; Queens -- Egypt -- Drama; Antonius, Marcus, 83 B.C.?-30 B.C. -- Drama; Cleopatra, Queen of Egypt, -30 B.C. -- Drama; Tragedies (Drama); Romans -- Egypt -- Drama; Egypt -- History -- 332-30 B.C. -- Drama; Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1131,
+      "title": "Coriolanus",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Generals -- Drama; Rome -- Drama; Coriolanus, Cnaeus Marcius -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1132,
+      "title": "Timon of Athens",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Timon of Athens (Legendary character) -- Drama; Athens (Greece) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1133,
+      "title": "Cymbeline",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fathers and daughters -- Drama; Married people -- Drama; Great Britain -- History -- Roman period, 55 B.C.-449 A.D. -- Drama; Britons -- Kings and rulers -- Drama; Tragicomedy",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1134,
+      "title": "The Winter's Tale",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fathers and daughters -- Drama; Married people -- Drama; Tragicomedy; Castaways -- Drama; Sicily (Italy) -- Kings and rulers -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1135,
+      "title": "The Tempest",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Shipwreck victims -- Drama; Fathers and daughters -- Drama; Magicians -- Drama; Political refugees -- Drama; Islands -- Drama; Spirits -- Drama; Tragicomedy",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1136,
+      "title": "King Henry VIII",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Kings and rulers -- Drama; Henry, VIII, King of England, 1491-1547 -- Drama; Historical drama; Great Britain -- History -- Henry VIII, 1509-1547 -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1137,
+      "title": "A Lover's Complaint",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1139,
+      "title": "Fisherman's Luck and Some Other Uncertain Things",
+      "author": "Van Dyke, Henry, 1852-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fishing",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1141,
+      "title": "Selected Poems of Oscar Wilde",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1142,
+      "title": "Typhoon",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Sea stories; Ship captains -- Fiction; Adventure stories; Typhoons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1143,
+      "title": "Notes on Life & Letters",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Conrad, Joseph, 1857-1924; Literature -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1144,
+      "title": "In the Cage",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Telegraphers -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

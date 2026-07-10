@@ -1,0 +1,1752 @@
+CHAPTER V.
+
+ANALYTICA PRIORA I.
+
+
+Reviewing the treatise De Interpretatione, we have followed Aristotle
+in his first attempt to define what a Proposition is, to point out
+its constituent elements, and to specify some of its leading
+varieties. The characteristic feature of the Proposition he stated to
+be--That it declares, in the first instance, the mental state of the
+speaker as to belief or disbelief, and, in its ulterior or final
+bearing, a state of facts to which such belief or disbelief
+corresponds. It is thus significant of truth or falsehood; and this
+is its logical character (belonging to Analytic and Dialectic), as
+distinguished from its rhetorical character, with other aspects
+besides. Aristotle farther indicated the two principal discriminative
+attributes of propositions as logically regarded, passing under the
+names of quantity and quality. He took great pains, in regard to the
+quality, to explain what was the special negative proposition in true
+contradictory antithesis to each affirmative. He stated and enforced
+the important separation of contradictory propositions from contrary;
+and he even parted off (which the Greek and Latin languages admit,
+though the French and English will hardly do so) the true negative
+from the indeterminate affirmative. He touched also upon equipollent
+propositions, though he did not go far into them. Thus commenced with
+Aristotle the systematic study of propositions, classified according
+to their meaning and their various interdependences with each other
+as to truth and falsehood--their mutual consistency or
+incompatibility. Men who had long been talking good Greek fluently
+and familiarly, were taught to reflect upon the conjunctions of words
+that they habitually employed, and to pay heed to the conditions of
+correct speech in reference to its primary purpose of affirmation and
+denial, for the interchange of beliefs and disbeliefs, the
+communication of truth, and the rectification of falsehood. To many
+of Aristotle's contemporaries this first attempt to theorize upon the
+forms of locution familiar to every one would probably appear hardly
+less strange than the interrogative dialectic of Sokrates, when he
+declared himself not to know what was meant by justice, virtue,
+piety, temperance, government, &c.; when he astonished his hearers by
+asking them to rescue him from this state of ignorance, and to
+communicate to him some portion of their supposed plenitude of
+knowledge.
+
+Aristotle tells us expressly that the theory of the Syllogism, both
+demonstrative and dialectic, on which we are now about to enter, was
+his own work altogether and from the beginning; that no one had ever
+attempted it before; that he therefore found no basis to work upon,
+but was obliged to elaborate his own theory, from the very rudiments,
+by long and laborious application. In this point of view, he
+contrasts Logic pointedly with Rhetoric, on which there had been a
+series of writers and teachers, each profiting by the labours of his
+predecessors.[1] There is no reason to contest the claim to
+originality here advanced by Aristotle. He was the first who
+endeavoured, by careful study and multiplied comparison of
+propositions, to elicit general truths respecting their ratiocinative
+interdependence, and to found thereupon precepts for regulating the
+conduct of demonstration and dialectic.[2]
+
+[Footnote 1: See the remarkable passage at the close of the
+Sophistici Elenchi, p. 183, b. 34-p. 184, b. 9: [Greek: tau/tês de\
+tê=s pragmatei/as ou) to\ me\n ê)=n to\ de\ ou)k ê)=n
+proexeirgasme/non, a)ll' ou)de\n pantelô=s u(pê=rche--kai\ peri\ me\n
+tô=n r(êtorikô=n u(pê=rche polla\ kai\ palaia\ ta\ lego/mena, peri\
+de\ tou= sullogi/zesthai pantelô=s ou)de\n ei)/chomen pro/teron
+a)/llo le/gein, a)ll' ê)\ tribê=| zêtou=ntes polu\n chro/non
+e)ponou=men.]]
+
+[Footnote 2: Sir Wm. Hamilton, Lectures on Logic, Lect. v. pp. 87-91,
+vol. III.:--"The principles of Contradiction and Excluded Middle can
+both be traced back to Plato, by whom they were enounced and
+frequently applied; though it was not till long after, that either of
+them obtained a distinctive appellation. To take the principle of
+Contradiction first. This law Plato frequently employs, but the most
+remarkable passages are found in the Phædo (p. 103), in the Sophista
+(p. 252), and in the Republic (iv. 436, vii. 525). This law was
+however more distinctively and emphatically enounced by Aristotle. .
+. . . Following Aristotle, the Peripatetics established this law as
+the highest principle of knowledge. From the Greek Aristotelians it
+obtained the name by which it has subsequently been denominated, the
+_principle_, or _law_, or _axiom_, of _Contradiction_ ([Greek:
+a)xi/ôma tê=s a)ntipha/seôs]). . . . . The law of Excluded Middle
+between two contradictories remounts, as I have said, also to Plato;
+though the Second Alcibiades, in which it is most clearly expressed
+(p. 139; also Sophista, p. 250), must be admitted to be spurious. . .
+. . This law, though universally recognized as a principle in the
+Greek Peripatetic school, and in the schools of the middle ages, only
+received the distinctive appellation by which it is now known at a
+comparatively modern date."
+
+The passages of Plato, to which Sir W. Hamilton here refers, will not
+be found to bear out his assertion that Plato "enounced and
+frequently applied the principles of Contradiction and Excluded
+Middle." These two principles are both of them enunciated,
+denominated, and distinctly explained by Aristotle, but by no one
+before him, as far as our knowledge extends. The conception of the
+two maxims, in their generality, depends upon the clear distinction
+between Contradictory Opposition and Contrary Opposition; which is
+fully brought out by Aristotle, but not adverted to, or at least
+never broadly and generally set forth, by Plato. Indeed it is
+remarkable that the word [Greek: A)nti/phasis], the technical term
+for Contradiction, never occurs in Plato; at least it is not
+recognized in the _Lexicon Platonicum_. Aristotle puts it in the
+foreground of his logical exposition; for, without it, he could not
+have explained what he meant by Contradictory Opposition. See
+Categoriæ, pp. 13-14, and elsewhere in the treatise De
+Interpretatione and in the Metaphysica. Respecting the idea of the
+Negative as put forth by Plato in the Sophistes (not coinciding
+either with Contradictory Opposition or with Contrary Opposition),
+see 'Plato and the Other Companions of Sokrates,' vol. II. ch. xxvii.
+pp. 449-459. I have remarked in that chapter, and the reader ought to
+recollect, that the philosophical views set out by Plato in the
+Sophistes differ on many points from what we read in other Platonic
+dialogues.]
+
+He begins the Analytica Priora by setting forth his general purpose,
+and defining his principal terms and phrases. His manner is one of
+geometrical plainness and strictness. It may perhaps have been common
+to him with various contemporary geometers, whose works are now lost;
+but it presents an entire novelty in Grecian philosophy and
+literature. It departed not merely from the manner of the
+rhetoricians and the physical philosophers (as far as we know them,
+not excluding even Demokritus), but also from Sokrates and the
+Sokratic school. For though Sokrates and Plato were perpetually
+calling for definitions, and did much to make others feel the want of
+such, they neither of them evinced aptitude or readiness to supply
+the want. The new manner of Aristotle is adapted to an undertaking
+which he himself describes as original, in which he has no
+predecessors, and is compelled to dig his own foundations. It is
+essentially didactic and expository, and contrasts strikingly with
+the mixture of dramatic liveliness and dialectical subtlety which we
+find in Plato.
+
+The terminology of Aristotle in the Analytica is to a certain extent
+different from that in the treatise De Interpretatione. The
+Enunciation ([Greek: A)po/phanis]) appears under the new name of
+[Greek: Pro/tasis], _Proposition_ (in the literal sense) or
+_Premiss_; while, instead of Noun and Verb, we have the word _Term_
+([Greek: O(/ros]), applied alike both to Subject and to Predicate.[3]
+We pass now from the region of _declared_ truth, into that of
+_inferential_ or _reasoned_ truth. We find the proposition looked at,
+not merely as communicating truth in itself, but as generating and
+helping to guarantee certain ulterior propositions, which communicate
+something additional or different. The primary purpose of the
+Analytica is announced to be, to treat of Demonstration and
+demonstrative Science; but the secondary purpose, running parallel
+with it and serving as illustrative counterpart, is, to treat also of
+Dialectic; both of them[4] being applications of the inferential or
+ratiocinative process, the theory of which Aristotle intends to
+unfold.
+
+[Footnote 3: Aristot. Analyt. Prior. I. i. p. 24, b. 16: [Greek:
+o(/ron de\ kalô= ei)s o(\n dialu/etai ê( pro/tasis, oi(=on to/ te
+katêgorou/menon kai\ to\ kath' ou(= katêgorei=tai], &c.
+
+[Greek: O(/ros]--_Terminus_--seems to have been a technical word
+first employed by Aristotle himself to designate subject and
+predicate as the _extremes_ of a proposition, which latter he
+conceives as the _interval_ between the _termini_--[Greek:
+_dia/stêma_]. (Analyt. Prior. I. xv. p. 35, a. 12. [Greek:
+sterêtikô=n diastêma/tôn], &c. See Alexander, Schol. pp. 145-146.)
+
+In the Topica Aristotle employs [Greek: o(/ros] in a very different
+sense--[Greek: lo/gos o( to\ ti/ ê)=n ei)=nai sêmai/nôn] (Topic. I.
+v. p. 101, b. 39)--hardly distinguished from [Greek: o(rismo/s]. The
+Scholia take little notice of this remarkable variation of meaning,
+as between two treatises of the Organon so intimately connected (pp.
+256-257, Br.).]
+
+[Footnote 4: Analyt. Prior. I. i. p. 24, a. 25.]
+
+The three treatises--1, Analytica Priora, 2, Analytica Posteriora, 3,
+Topica with Sophistici Elenchi--thus belong all to one general
+scheme; to the theory of the Syllogism, with its distinct
+applications, first, to demonstrative or didactic science, and, next,
+to dialectical debate. The scheme is plainly announced at the
+commencement of the Analytica Priora; which treatise discusses the
+Syllogism generally, while the Analytica Posteriora deals with
+Demonstration, and the Topica with Dialectic. The first chapter of
+the Analytica Priora and the last chapter of the Sophistici Elenchi
+(closing the Topica), form a preface and a conclusion to the whole.
+The exposition of the Syllogism, Aristotle distinctly announces,
+precedes that of Demonstration (and for the same reason also precedes
+that of Dialectic), because it is more general: every demonstration
+is a sort of syllogism, but every syllogism is not a
+demonstration.[5]
+
+[Footnote 5: Ibid. I. iv. p. 25, b. 30.]
+
+As a foundation for the syllogistic theory, propositions are
+classified according to their quantity (more formally than in the
+treatise De Interpretatione) into Universal, Particular, and
+Indefinite or Indeterminate;[6] Aristotle does not recognize the
+Singular Proposition as a distinct variety. In regard to the
+Universal Proposition, he introduces a different phraseology
+according as it is looked at from the side of the Subject, or from
+that of the Predicate. The Subject is, or is not, in the whole
+Predicate; the Predicate is affirmed or denied respecting all or
+every one of the Subject.[7] The minor term of the Syllogism (in the
+first mode of the first figure) is declared to be in the whole middle
+term; the major is declared to belong to, or to be predicable of, all
+and every the middle term. Aristotle says that the two are the same;
+we ought rather to say that each is the concomitant and correlate of
+the other, though his phraseology is such as to obscure the
+correlation.
+
+[Footnote 6: Ibid. I. i. p. 24, a. 17. The Particular ([Greek: e)n
+me/rei]), here for the first time expressly distinguished by
+Aristotle, is thus defined:--[Greek: e)n me/rei de\ to\ tini\ ê)\ mê\
+tini\ ê)\ mê\ panti\ u(pa/rchein.]]
+
+[Footnote 7: Ibid. b. 26: [Greek: to\ d' e)n o(/lô| ei)nai e(/teron
+e(te/rô|, kai\ to\ kata\ panto\s katêgorei=sthai thate/rou tha/teron,
+tau)to/n e)sti--tau)to\n], _i.e._ [Greek: _a)ntestramme/nôs_], as
+Waitz remarks in note. Julius Pacius says:--"Idem re, sed ratione
+differunt ut ascensus et descensus; nam subjectum dicitur esse vel
+non esse in toto attributo, quia attributum dicitur de omni vel de
+nullo subjecto" (p. 128).]
+
+The definition given of a Syllogism is very clear and
+remarkable:--"It is a speech in which, some positions having been
+laid down, something different from these positions follows as a
+necessary consequence from their being laid down." In a _perfect_
+Syllogism nothing additional is required to make the necessity of the
+consequence obvious as well as complete. But there are also
+_imperfect_ Syllogisms, in which such necessity, though equally
+complete, is not so obviously conveyed in the premisses, but requires
+some change to be effected in the position of the terms in order to
+render it conspicuous.[8]
+
+[Footnote 8: Aristot. Anal. Prior. I. i. p. 24, b. 18-26. The same,
+with a little difference of wording, at the commencement of Topica,
+p. 100, a. 25. Compare also Analyt. Poster. I. x. p. 76, b. 38:
+[Greek: o(/sôn o)/ntôn tô=| e)kei=na ei)=nai gi/netai to\
+sumpe/rasma.]]
+
+The term Syllogism has acquired, through the influence of Aristotle,
+a meaning so definite and technical, that we do not easily conceive
+it in any other meaning. But in Plato and other contemporaries it
+bears a much wider sense, being equivalent to reasoning generally, to
+the process of comparison, abstraction, generalization.[9] It was
+Aristotle who consecrated the word, so as to mean exclusively the
+reasoning embodied in propositions of definite form and number.
+Having already analysed propositions separately taken, and
+discriminated them into various classes according to their
+constituent elements, he now proceeds to consider propositions in
+combination. Two propositions, if properly framed, will conduct to a
+third, different from themselves, but which will be necessarily true
+if they are true. Aristotle calls the three together a Syllogism.[10]
+He undertakes to shew how it must be framed in order that its
+conclusion shall be necessarily true, if the premisses are true. He
+furnishes schemes whereby the cast and arrangement of premisses,
+proper for attaining truth, may be recognized; together with the
+nature of the conclusion, warrantable under each arrangement.
+
+[Footnote 9: See especially Plato, Theætêt. p. 186, B-D., where
+[Greek: o( sullogismo\s] and [Greek: ta\ a)nalogi/smata] are
+equivalents.]
+
+[Footnote 10: Julius Pacius (ad Analyt. Prior. I. i.) says that it is
+a mistake on the part of most logicians to treat the Syllogism as
+including three propositions (ut vulgus logicorum putat). He
+considers the premisses alone as constituting the Syllogism; the
+conclusion is not a part thereof, but something distinct and
+superadded. It appears to me that the _vulgus logicorum_ are here in
+the right.]
+
+In the Analytica Priora, we find ourselves involved, from and after
+the second chapter, in the distinction of Modal propositions, the
+necessary and the possible. The rules respecting the simple Assertory
+propositions are thus, even from the beginning, given in conjunction
+and contrast with those respecting the Modals. This is one among many
+causes of the difficulty and obscurity with which the treatise is
+beset. Theophrastus and Eudemus seem also to have followed their
+master by giving prominence to the Modals:[11] recent expositors
+avoid the difficulty, some by omitting them altogether, others by
+deferring them until the simple assertory propositions have been
+first made clear. I shall follow the example of these last; but it
+deserves to be kept in mind, as illustrating Aristotle's point of
+view, that he regards the Modals as principal varieties of the
+proposition, co-ordinate in logical position with the simple
+assertory.
+
+[Footnote 11: Eudemi Fragmenta, cii.-ciii. p. 145, ed. Spengel.]
+
+Before entering on combinations of propositions, Aristotle begins by
+shewing what can be done with single propositions, in view to the
+investigation or proving of truth. A single proposition may be
+_converted_; that is, its subject and predicate may be made to change
+places. If a proposition be true, will it be true when thus
+converted, or (in other words) will its converse be true? If false,
+will its converse be false? If this be not always the case, what are
+the conditions and limits under which (assuming the proposition to be
+true) the process of conversion leads to assured truth, in each
+variety of propositions, affirmative or negative, universal or
+particular? As far as we know, Aristotle was the first person that
+ever put to himself this question; though the answer to it is
+indispensable to any theory of the process of proving or disproving.
+He answers it before he enters upon the Syllogism.
+
+The rules which he lays down on the subject have passed into all
+logical treatises. They are now familiar; and readers are apt to
+fancy that there never was any novelty in them--that every one knows
+them without being told. Such fancy would be illusory. These rules
+are very far from being self-evident, any more than the maxims of
+Contradiction and of the Excluded Middle. Not one of the rules could
+have been laid down with its proper limits, until the discrimination
+of propositions, both as to quality (affirmative or negative), and as
+to quantity (universal or particular), had been put prominently
+forward and appreciated in all its bearings. The rule for trustworthy
+conversion is different for each variety of propositions. The
+Universal Negative may be converted simply; that is, the predicate
+may become subject, and the subject may become predicate--the
+proposition being true after conversion, if it was true before. But
+the Universal Affirmative cannot be thus converted simply. It admits
+of conversion only in the manner called by logicians _per accidens_:
+if the predicate change places with the subject, we cannot be sure
+that the proposition thus changed will be true, unless the new
+subject be lowered in quantity from universal to particular; _e.g._
+the proposition, All men are animals, has for its legitimate converse
+not, _All_ animals are men, but only, _Some_ animals are men. The
+Particular Affirmative may be converted simply: if it be true that
+Some animals are men, it will also be true that Some men are animals.
+But, lastly, if the true proposition to be converted be a Particular
+Negative, it cannot be converted at all, so as to make sure that the
+converse will be true also.[12]
+
+[Footnote 12: Aristot. Analyt. Prior. I. ii. p. 25, a. 1-26.]
+
+Here then are four separate rules laid down, one for each variety of
+propositions. The rules for the second and third variety are proved
+by the rule for the first (the Universal Negative), which is thus the
+basis of all. But how does Aristotle prove the rule for the Universal
+Negative itself? He proceeds as follows: "If A cannot be predicated
+of any one among the B's, neither can B be predicated of any one
+among the A's. For if it could be predicated of any one among them
+(say C), the proposition that A cannot be predicated of any B would
+not be true; since C is one among the B's."[13] Here we have a proof
+given which is no proof at all. If I disbelieved or doubted the
+proposition to be proved, I should equally disbelieve or doubt the
+proposition given to prove it. The proof only becomes valid, when you
+add a farther assumption which Aristotle has not distinctly
+enunciated, viz.: That if some A (_e.g._ C) is B, then some B must
+also be A; which would be contrary to the fundamental supposition.
+But this farther assumption cannot be granted here, because it would
+imply that we already know the rule respecting the convertibility of
+Particular Affirmatives, viz., that they admit of being converted
+simply. Now the rule about Particular Affirmatives is afterwards
+itself proved by help of the preceding demonstration respecting the
+Universal Negative. As the proof stands, therefore, Aristotle
+demonstrates each of these by means of the other; which is not
+admissible.[14]
+
+[Footnote 13: Ibid. p. 25, a. 15: [Greek: ei) ou)=n mêdeni\ tô=n B
+to\ A u(pa/rchei, ou)de\ tô=n A ou)deni\ u(pa/rxei to\ B. ei) ga\r
+tini, oi(=on tô=| G, ou)k a)lêthe\s e)/stai to\ mêdeni\ tô=n B to\ A
+u(pa/rchein; to\ ga\r G tô=n B ti/ e)stin.]
+
+Julius Pacius (p. 129) proves the Universal Negative to be
+convertible _simpliciter_, by a _Reductio ad Absurdum_ cast into a
+syllogism in the First figure. But it is surely unphilosophical to
+employ the rules of Syllogism as a means of proving the legitimacy of
+Conversion, seeing that we are forced to assume conversion in our
+process for distinguishing valid from invalid syllogisms. Moreover
+the _Reductio ad Absurdum_ assumes the two fundamental Maxims of
+Contradiction and Excluded Middle, though these are less obvious, and
+stand more in need of proof than the simple conversion of the
+Universal Negative, the point that they are brought to establish.]
+
+[Footnote 14: Waitz, in his note (p. 374), endeavours, but I think
+without success, to show that Aristotle's proof is not open to the
+criticism here advanced. He admits that it is obscurely indicated,
+but the amplification of it given by himself still remains exposed to
+the same objection.]
+
+Even the friends and companions of Aristotle were not satisfied with
+his manner of establishing this fundamental rule as to the conversion
+of propositions. Eudêmus is said to have given a different proof; and
+Theophrastus assumed as self-evident, without any proof, that the
+Universal Negative might always be converted simply.[15] It appears
+to me that no other or better evidence of it can be offered, than the
+trial upon particular cases, that is to say, Induction.[16] Nothing
+is gained by dividing (as Aristotle does) the whole A into parts, one
+of which is C; nor can I agree with Theophrastus in thinking that
+every learner would assent to it at first hearing, especially at a
+time when no universal maxims respecting the logical value of
+propositions had ever been proclaimed. Still less would a Megaric
+dialectician, if he had never heard the maxim before, be satisfied to
+stand upon an alleged _à priori_ necessity without asking for
+evidence. Now there is no other evidence except by exemplifying the
+formula, No A is B, in separate propositions already known to the
+learner as true or false, and by challenging him to produce any one
+case, in which, when it is true to say No A is B, it is not equally
+true to say, No B is A; the universality of the maxim being liable to
+be overthrown by any one contradictory instance.[17] If this proof
+does not convince him, no better can be produced. In a short time,
+doubtless, he will acquiesce in the general formula at first hearing,
+and he may even come to regard it as self-evident. It will recall to
+his memory an aggregate of separate cases each individually
+forgotten, summing up their united effect under the same aspect, and
+thus impressing upon him the general truth as if it were not only
+authoritative but self-authorized.
+
+[Footnote 15: See the Scholia of Alexander on this passage, p. 148,
+a. 30-45, Brandis; Eudemi Fragm. ci.-cv. pp. 145-149, ed. Spengel.]
+
+[Footnote 16: We find Aristotle declaring in Topica, II. viii. p.
+113, b. 15, that in converting a true Universal Affirmative
+proposition, the negative of the Subject of the convertend is always
+true of the negative of the Predicate of the convertend; _e.g._ If
+every man is an animal, every thing which is not an animal is not a
+man. This is to be assumed (he says) upon the evidence of
+Induction--uncontradicted iteration of particular cases, extended to
+all cases universally--[Greek: lamba/nein d' e)x e)pagôgê=s, oi(=on
+ei) o( a)/nthrôpos zô=|on, to\ mê\ zô=|on ou)k a)/nthrôpos; o(moi/ôs
+de\ kai\ e)pi\ tô=n a)/llôn. . . . . e)pi\ pa/ntôn ou)=n to\
+toiou=ton a)xiôte/on.]
+
+The rule for the simple conversion of the Universal Negative rests
+upon the same evidence of Induction, never contradicted.]
+
+[Footnote 17: Dr. Wallis, in one of his acute controversial treatises
+against Hobbes, remarks upon this as the process pursued by Euclid in
+his demonstrations:--"You tell us next that an Induction, without
+enumeration of all the particulars, is not sufficient to infer a
+conclusion. Yes, Sir, if after the enumeration of some particulars,
+there comes a general clause, _and the like in other cases_ (as here
+it doth), this may pass for a proofe till there be a possibility of
+giving some instance to the contrary, which here you will never be
+able to doe. And if such an Induction may not pass for proofe, there
+is never a proposition in Euclid demonstrated. For all along he takes
+no other course, or at least grounds his Demonstrations on
+Propositions no otherwise demonstrated. As, for instance, he
+proposeth it in general (i. c. 1.)--_To make an equilateral triangle
+on a line given_. And then he shows you how to do it upon the line A
+B, which he there shows you, and leaves you to supply: _And the same,
+by the like means, may be done upon any other strait line_; and then
+infers his general conclusion. Yet I have not heard any man object
+that the Induction was not sufficient, because he did not actually
+performe it in all lines possible."--(Wallis, Due Correction to Mr.
+Hobbes, Oxon. 1656, sect. v. p. 42.) This is induction by _parity of
+reasoning_.
+
+So also Aristot. Analyt. Poster. I. iv. p. 73, b. 32: [Greek: to\
+katho/lou de\ u(pa/rchei to/te, o(/tan e)pi\ tou= tucho/ntos kai\
+prô/tou deiknu/êtai.]]
+
+Aristotle passes next to Affirmatives, both Universal and Particular.
+First, if A can be predicated of all B, then B can be predicated of
+_some_ A; for if B cannot be predicated of any A, then (by the rule
+for the Universal Negative) neither can A be predicated of any B.
+Again, if A can be predicated of some B, in this case also, and for
+the same reason, B can be predicated of some A.[18] Here the rule for
+the Universal Negative, supposed already established, is applied
+legitimately to prove the rules for Affirmatives. But in the first
+case, that of the Universal, it fails to prove _some_ in the sense of
+_not-all_ or _some-at-most_, which is required; whereas, the rules
+for both cases can be proved by Induction, like the formula about the
+Universal Negative. When we come to the Particular Negative,
+Aristotle lays down the position, that it does not admit of being
+necessarily converted in any way. He gives no proof of this, beyond
+one single exemplification: If some animal is not a man, you are not
+thereby warranted in asserting the converse, that some man is not an
+animal.[19] It is plain that such an exemplification is only an
+appeal to Induction: you produce one particular example, which is
+entering on the track of Induction; and one example alone is
+sufficient to establish the negative of an universal proposition.[20]
+The converse of a Particular Negative is not in all cases true,
+though it may be true in many cases.
+
+[Footnote 18: Aristot. Analyt. Prior. I. ii. p. 25, a. 17-22.]
+
+[Footnote 19: Ibid. p. 25, a. 22-26.]
+
+[Footnote 20: Though some may fancy that the rule for converting the
+Universal Negative is intuitively known, yet every one must see that
+the rule for converting the Universal Affirmative is not thus
+self-evident, or derived from natural intuition. In fact, I believe
+that every learner at first hears it with great surprise. Some are
+apt to fancy that the Universal Affirmative (like the Particular
+Affirmative) may be converted _simply_. Indeed this error is not
+unfrequently committed in actual reasoning; all the more easily,
+because there is a class of cases (with subject and predicate
+co-extensive) where the converse of the Universal Affirmative _is_
+really true. Also, in the case of the Particular Negative, there are
+many true propositions in which the simple converse is true. A novice
+might incautiously generalize upon those instances, and conclude that
+both were convertible simply. Nor could you convince him of his error
+except by producing examples in which, when a true proposition of
+this kind is converted simply, the resulting converse is notoriously
+false. The appeal to various separate cases is the only basis on
+which we can rest for testing the correctness or incorrectness of all
+these maxims proclaimed as universal.]
+
+From one proposition taken singly, no new proposition can be
+inferred; for purposes of inference, two propositions at least are
+required.[21] This brings us to the rules of the Syllogism, where two
+propositions as premisses conduct us to a third which necessarily
+follows from them; and we are introduced to the well-known three
+Figures with their various Modes.[22] To form a valid Syllogism,
+there must be three terms and no more; the two, which appear as
+Subject and Predicate of the conclusion, are called the _minor_ term
+(or minor extreme) and the _major_ term (or major extreme)
+respectively; while the third or _middle_ term must appear in each of
+the premisses, but not in the conclusion. These terms are called
+_extremes_ and _middle_, from the position which they occupy in every
+perfect Syllogism--that is in what Aristotle ranks as the First among
+the three figures. In _his_ way of enunciating the Syllogism, this
+middle position formed a conspicuous feature; whereas the modern
+arrangement disguises it, though the denomination _middle_ term is
+still retained. Aristotle usually employs letters of the alphabet,
+which he was the first to select as abbreviations for exposition;[23]
+and he has two ways (conforming to what he had said in the first
+chapter of the present treatise) of enunciating the modes of the
+First figure. In one way, he begins with the major extreme (Predicate
+of the conclusion): A may be predicated of all B, B may be predicated
+of all C; therefore, A may be predicated of all C (Universal
+Affirmative). Again, A cannot be predicated of any B, B can be
+predicated of all C; therefore, A cannot be predicated of any C
+(Universal Negative). In the other way, he begins with the minor term
+(Subject of the conclusion): C is in the whole B, B is in the whole
+A; therefore, C is in the whole A (Universal Affirmative). And, C is
+in the whole B, B is not in the whole A; therefore, C is not in the
+whole A (Universal Negative). We see thus that in Aristotle's way of
+enunciating the First figure, the middle term is really placed
+between the two extremes,[24] though this is not so in the Second and
+Third figures. In the modern way of enunciating these figures, the
+middle term is never placed between the two extremes; yet the
+denomination _middle_ still remains.
+
+[Footnote 21: Analyt. Prior. I. xv. p. 34, a. 17; xxiii. p. 40, b.
+35; Analyt. Poster. I. iii. p. 73, a. 7.]
+
+[Footnote 22: Aristot. Analyt. Prior. I. iv. p. 25, b. 26, seq.]
+
+[Footnote 23: M. Barthélemy St. Hilaire (Logique d'Aristote, vol. ii.
+p. 7, n.), referring to the examples of Conversion in chap. ii.,
+observes:--"Voici le prémier usage des lettres représentant des
+idées; c'est un procédé tout à fait algébrique, c'est à dire, de
+généralisation. Déjà, dans l'Herméneia, ch. 13, § 1 et suiv.,
+Aristote a fait usage de tableaux pour représenter sa pensée
+relativement à la consécution des modales. Il parle encore
+spécialement de figures explicatives, liv. 2. des Derniers
+Analytiques, ch. 17, § 7. Vingt passages de l'Histoire des Animaux
+attestent qu'il joignait des dessins à ses observations et à ses
+théories zoologiques. Les illustrations pittoresques datent donc de
+fort loin. L'emploi symbolique des lettres a été appliqué aussi par
+Aristote à la Physique. Il l'avait emprunté, sans doute, aux procédés
+des mathématiciens."
+
+We may remark, however, that when Aristotle proceeds to specify those
+combinations of propositions which _do not_ give a valid conclusion,
+he is not satisfied with giving letters of the alphabet; he superadds
+special illustrative examples (Analyt. Prior. I. v. p. 27, a. 7, 12,
+34, 38).]
+
+[Footnote 24: Aristot. Analyt. Prior. I. iv. p. 25, b. 35: [Greek:
+kalô= de\ _me/son_, o(\ kai\ au)to\ e)n a)/llô| kai\ a)/llo e)n
+tou/tô| e)sti/n, o(\ kai\ tê=| the/sei gi/netai me/son.]]
+
+The Modes of each figure are distinguished by the different character
+and relation of the two premisses, according as these are either
+affirmative or negative, either universal or particular. Accordingly,
+there are four possible varieties of each, and sixteen possible modes
+or varieties of combinations between the two. Aristotle goes through
+most of the sixteen modes, and shows that in the first Figure there
+are only four among them that are legitimate, carrying with them a
+necessary conclusion. He shows, farther, that in all the four there
+are two conditions observed, and that both these conditions are
+indispensable in the First figure:--(1) The major proposition must be
+universal, either affirmative or negative; (2) The minor proposition
+must be affirmative, either universal or particular or indefinite.
+Such must be the character of the premisses, in the first Figure,
+wherever the conclusion is valid and necessary; and _vice versâ_, the
+conclusion will be valid and necessary, when such is the character of
+the premisses.[25]
+
+[Footnote 25: Aristot. Analyt. Prior. I. iv. p. 26, b. 26, et sup.]
+
+In regard to the four valid modes (_Barbara_, _Celarent_, _Darii_,
+_Ferio_, as we read in the scholastic Logic) Aristotle declares at
+once in general language that the conclusion follows necessarily;
+which he illustrates by setting down in alphabetical letters the
+skeleton of a syllogism in _Barbara_. If A is predicated of all B,
+and B of all C, A must necessarily be predicated of all C. But he
+does not justify it by any real example; he produces no special
+syllogism with real terms, and with a conclusion known beforehand to
+be true. He seems to think that the general doctrine will be accepted
+as evident without any such corroboration. He counts upon the
+learner's memory and phantasy for supplying, out of the past
+discourse of common life, propositions conforming to the conditions
+in which the symbolical letters have been placed, and for not
+supplying any contradictory examples. This might suffice for a
+treatise; but we may reasonably believe that Aristotle, when teaching
+in his school, would superadd illustrative examples; for the doctrine
+was then novel, and he is not unmindful of the errors into which
+learners often fall spontaneously.[26]
+
+[Footnote 26: Analyt. Poster. I. xxiv. p. 85, b. 21.]
+
+When he deals with the remaining or invalid modes of the First
+figure, his manner of showing their invalidity is different, and in
+itself somewhat curious. "If (he says) the major term is affirmed of
+all the middle, while the middle is denied of all the minor, no
+necessary consequence follows from such being the fact, nor will
+there be any syllogism of the two extremes; for it is equally
+possible, either that the major term may be affirmed of all the
+minor, or that it may be denied of all the minor; so that no
+conclusion, either universal or particular, is necessary in all
+cases."[27] Examples of such double possibility are then exhibited:
+first, of three terms arranged in two propositions (A and E), in
+which, from the terms specially chosen, the major happens to be truly
+affirmable of all the minor; so that the third proposition is an
+universal Affirmative:--
+
+Major and  }
+           } Animal is predicable of every Man;
+  Middle.  }
+
+Middle and }
+           } Man is not predicable of any Horse;
+  Minor    }
+
+Major and  }
+           } Animal is predicable of every Horse.
+  Minor    }
+
+Next, a second example is set out with new terms, in which the major
+happens not to be truly predicable of any of the minor; thus
+exhibiting as third proposition an universal Negative:--
+
+Major and  }
+           } Animal is predicable of every Man;
+  Middle.  }
+
+Middle and }
+           } Man is not predicable of any Stone;
+  Minor    }
+
+Major and  }
+           } Animal is not predicable of any Stone.
+  Minor    }
+
+Here we see that the full exposition of a syllogism is indicated with
+real terms common and familiar to every one; alphabetical symbols
+would not have sufficed, for the learner must himself recognize the
+one conclusion as true, the other as false. Hence we are taught that,
+after two premisses thus conditioned, if we venture to join together
+the major and minor so as to form a pretended conclusion, we may in
+some cases obtain a true proposition universally Affirmative, in
+other cases a true proposition universally Negative. Therefore
+(Aristotle argues) there is no one necessary conclusion, the same in
+all cases, derivable from such premisses; in other words, this mode
+of syllogism is invalid and proves nothing. He applies the like
+reasoning to all the other invalid modes of the first Figure; setting
+them aside in the same way, and producing examples wherein double and
+opposite conclusions (improperly so called), both true, are obtained
+in different cases from the like arrangement of premisses.
+
+[Footnote 27: Analyt. Prior. I. iv. p. 26, a. 2, seq.]
+
+This mode of reasoning plainly depends upon an appeal to prior
+experience. The validity or invalidity of each mode of the First
+figure is tested by applying it to different particular cases, each
+of which is familiar and known to the learner _aliunde_; in one case,
+the conjunction of the major and minor terms in the third proposition
+makes an universal Affirmative which he knows to be true; in another
+case, the like conjunction makes an universal Negative, which he also
+knows to be true; so that there is no one _necessary_ (_i.e._ no one
+uniform and trustworthy) conclusion derivable from such
+premisses.[28] In other words, these modes of the First figure are
+not valid or available in form; the negation being sufficiently
+proved by one single undisputed example.
+
+[Footnote 28: Though M. Barthélemy St. Hilaire (note, p. 19) declares
+Aristotle's exposition to be a model of analysis, it appears to me
+that the grounds for disallowing this invalid mode of the First
+figure (A--E--A, or A--E--E) are not clearly set forth by Aristotle
+himself, while they are rendered still darker by some of his best
+commentators. Thus Waitz says (p. 381): "Per exempla allata probat
+(Aristoteles) quod demonstrare debebat ex ipsâ ratione quam singuli
+termini inter se habeant: est enim proprium artis logicæ, ut
+terminorum rationem cognoscat, dum res ignoret. Num de Caio
+prædicetur animal nescit, scit de Caio prædicari animal, si animal de
+homine et homo de Caio prædicetur."
+
+This comment of Waitz appears to me founded in error. Aristotle had
+no means of shewing the invalidity of the mode A E in the First
+figure, except by an appeal to particular examples. The invalidity of
+the invalid modes, and the validity of the valid modes, rest alike
+upon this ultimate reference to examples of propositions known to be
+true or false, by prior experience of the learner. The valid modes
+are those which will stand this trial and verification; the invalid
+modes are those which will not stand it. Not till such verification
+has been made, is one warranted in generalizing the result, and
+enunciating a formula applicable to unknown particulars (rationem
+terminorum cognoscere, dum res ignoret). It was impossible for
+Aristotle to do what Waitz requires of him. I take the opposite
+ground, and regret that he did not set forth the fundamental test of
+appeal to example and experience, in a more emphatic and
+unmistakeable manner.
+
+M. Barthélemy St. Hilaire (in the note to his translation, p. 14)
+does not lend any additional clearness, when he talks of the
+"_conclusion_" from the propositions A and E in the First figure.
+Julius Pacius says (p. 134): "Si tamen _conclusio_ dici debet, quæ
+non colligitur ex propositionibus," &c. Moreover, M. St. Hilaire (p.
+19) slurs over the legitimate foundation, the appeal to experience,
+much as Aristotle himself does: "Puis prenant des exemples où la
+_conclusion est de toute évidence_, Aristote les applique
+successivement à chacune de ces combinaisons; celles qui donnent la
+_conclusion fournie d'ailleurs par le bon sens_, sont concluantes ou
+syllogistiques, les autres sont asyllogistiques."]
+
+We are now introduced to the Second figure, in which each of the two
+premisses has the middle term as Predicate.[29] To give a legitimate
+conclusion in this figure, one or other of the premisses must be
+negative, and the major premiss must be universal; moreover no
+affirmative conclusions can ever be obtained in it--none but negative
+conclusions, universal or particular. In this Second figure too,
+Aristotle recognizes four valid modes; setting aside the other
+possible modes as invalid[30] (in the same way as he had done in the
+First figure), because the third proposition or conjunction of the
+major term with the minor, might in some cases be a true universal
+affirmative, in other cases a true universal negative. As to the
+third and fourth of the valid modes, he demonstrates them by assuming
+the contradictory of the conclusion, together with the major premiss,
+and then showing that these two premisses form a new syllogism, which
+leads to a conclusion contradicting the minor premiss. This method,
+called _Reductio ad Impossibile_, is here employed for the first
+time; and employed without being ushered in or defined, as if it were
+familiarly known.[31]
+
+[Footnote 29: Analyt. Prior. I. v. p. 26, b. 34. As Aristotle
+enunciates a proposition by putting the predicate before the subject,
+he says that in this Second figure the middle term comes [Greek:
+prô=ton tê=| the/sei]. In the Third figure, for the same reason, he
+calls it [Greek: e)/schaton tê=| the/sei], vi. p. 28, a. 15.]
+
+[Footnote 30: Analyt. Prior. I. v. p. 27, a. 18. In these invalid
+modes, Aristotle says there is no _syllogism_; therefore we cannot
+properly speak of a _conclusion_, but only of a third proposition,
+conjoining the major with the minor.]
+
+[Footnote 31: Ibid. p. 27, a. 15, 26, seq. It is said to involve
+[Greek: u(po/thesis], p. 28, a. 7; to be [Greek: e)x u(pothe/seôs]
+xxiii. p. 41, a. 25; to be [Greek: tou= e)x u(pothe/seôs], as opposed
+to [Greek: deiktiko/s], xxiii. p. 40, b. 25.
+
+M. B. St. Hilaire remarks justly, that Aristotle might be expected to
+define or explain what it is, on first mentioning it (note, p. 22).]
+
+Lastly, we have the Third figure, wherein the middle term is the
+Subject in both premisses. Here one at least of the premisses must be
+universal, either affirmative or negative. But no universal
+conclusions can be obtained in this figure; all the conclusions are
+particular. Aristotle recognizes six legitimate modes; in all of
+which the conclusions are particular, four of them being affirmative,
+two negative. The other possible modes he sets aside as in the two
+preceding figures.[32]
+
+[Footnote 32: Ibid. I. vi. p. 28, a. 10-p. 29, a. 18.]
+
+But Aristotle assigns to the First figure a marked superiority as
+compared with the Second and Third. It is the only one that yields
+perfect syllogisms; those furnished by the other two are all
+imperfect. The cardinal principle of syllogistic proof, as he
+conceives it, is--That whatever can be affirmed or denied of a whole,
+can be affirmed or denied of any part thereof.[33] The major
+proposition affirms or denies something universally respecting a
+certain whole; the minor proposition declares a certain part to be
+included in that whole. To this principle the four modes of the First
+figure manifestly and unmistakably conform, without any
+transformation of their premisses. But in the other figures such
+conformity does not obviously appear, and must be demonstrated by
+reducing their syllogisms to the First figure; either ostensively by
+exposition of a particular case, and conversion of the premisses, or
+by _Reductio ad Impossibile_. Aristotle, accordingly, claims
+authority for the Second and Third figures only so far as they can be
+reduced to the First.[34] We must, however, observe that in this
+process of reduction no new evidence is taken in; the matter of
+evidence remains unchanged, and the form alone is altered, according
+to laws of logical conversion which Aristotle has already laid down
+and justified. Another ground of the superiority and perfection which
+he claims for the First figure, is, that it is the only one in which
+every variety of conclusion can be proved; and especially the only
+one in which the Universal Affirmative can be proved--the great aim
+of scientific research. Whereas, in the Second figure we can prove
+only _negative_ conclusions, universal or particular; and in the
+Third figure only _particular_ conclusions, affirmative or
+negative.[35]
+
+[Footnote 33: Ibid. I. xli. p. 49, b. 37: [Greek: o(/lôs ga\r o(\ mê/
+e)stin ô(s o(/lon pro\s me/ros kai\ a)/llo pro\s tou=to ô(s me/ros
+pro\s o(/lon, e)x ou)deno\s tô=n toiou/tôn dei/knusin o( deiknu/ôn,
+ô(/ste ou)de\ gi/netai sullogismo/s.]
+
+He had before said this about the relation of the three terms in the
+Syllogism, I. iv. p. 25, b. 32: [Greek: o(/tan o(/roi trei=s ou(/tôs
+e)/chôsi pro\s a)llê/lous ô(/ste to\n e)/schaton e)n o(/lô| ei)=nai
+tô=| me/sô| kai\ to\n me/son e)n o(/lô| tô=| prô/tô| ê)\ ei)=nai ê)\
+mê\ ei)=nai, a)na/gkê tô=n a)/krôn ei)=nai sullogismo\n te/leion]
+(_Dictum de Omni et Nullo_).]
+
+[Footnote 34: Analyt. Prior. I. vii. p. 29, a. 30-b. 25.]
+
+[Footnote 35: Ibid. I. iv. p. 26, b. 30, p. 27, a. 1, p. 28, a. 9, p.
+29, a. 15. An admissible syllogism in the Second or Third figure is
+sometimes called [Greek: dunato\s] as opposed to [Greek: te/leios],
+p. 41, b. 33. Compare Kampe, Die Erkenntniss-Theorie des Aristoteles,
+p. 245, Leipzig, 1870.]
+
+Such are the main principles of syllogistic inference and rules for
+syllogistic reasoning, as laid down by Aristotle. During the mediæval
+period, they were allowed to ramify into endless subtle
+technicalities, and to absorb the attention of teachers and studious
+men, long after the time when other useful branches of science and
+literature were pressing for attention. Through such prolonged
+monopoly--which Aristotle, among the most encyclopedical of all
+writers, never thought of claiming for them--they have become so
+discredited, that it is difficult to call back attention to them as
+they stood in the Aristotelian age. We have to remind the reader,
+again, that though language was then used with great ability for
+rhetorical and dialectical purposes, there existed as yet hardly any
+systematic or scientific study of it in either of these branches. The
+scheme and the terminology of any such science were alike unknown,
+and Aristotle was obliged to construct it himself from the
+foundation. The rhetorical and dialectical teaching as then given (he
+tells us) was mere unscientific routine, prescribing specimens of art
+to be committed to memory: respecting syllogism (or the conditions of
+legitimate deductive inference) absolutely nothing had been said.[36]
+Under these circumstances, his theory of names, notions, and
+propositions as employed for purposes of exposition and
+ratiocination, is a remarkable example of original inventive power.
+He had to work it out by patient and laborious research. No way was
+open to him except the diligent comparison and analysis of
+propositions. And though all students have now become familiar with
+the various classes of terms and propositions, together with their
+principal characteristics and relations, yet to frame and designate
+such classes for the first time without any precedent to follow, to
+determine for each the rules and conditions of logical
+convertibility, to put together the constituents of the Syllogism,
+with its graduation of Figures and difference of Modes, and with a
+selection, justified by reasons given, between the valid and the
+invalid modes--all this implies a high order of original
+systematizing genius, and must have required the most laborious and
+multiplied comparisons between propositions in detail.
+
+[Footnote 36: Aristot. Sophist. Elench. p. 184, a. 1, b. 2: [Greek:
+dio/per tachei=a me\n a)/technos d' ê)=n ê( didaskali/a toi=s
+mantha/nousi par' au)tô=n; ou) ga\r te/chnên a)lla\ ta\ a)po\ tê=s
+te/chnês dido/ntes paideu/ein u(pela/mbanon . . . . _peri\ de\ tou=
+sullogi/zesthai pantelô=s ou)de\n ei)/chomen pro/teron a)/llo
+le/gein, a)ll' ê)\ tribê=| zêtou=ntes polu\n chro/non e)ponou=men_.]]
+
+The preceding abridgment of Aristotle's exposition of the Syllogism
+applies only to propositions simply affirmative or simply negative.
+But Aristotle himself, as already remarked, complicates the
+exposition by putting the Modal propositions (Possible, Necessary)
+upon the same line as the above-mentioned Simple propositions. I have
+noticed, in dealing with the treatise De Interpretatione, the
+confusion that has arisen from thus elevating the Modals into a line
+of classification co-ordinate with propositions simply Assertory. In
+the Analytica, this confusion is still more sensibly felt, from the
+introduction of syllogisms in which one of the premisses is
+necessary, while the other is only possible. We may remark, however,
+that, in the Analytica, Aristotle is stricter in defining the
+Possible than he has been in the De Interpretatione; for he now
+disjoins the Possible altogether from the Necessary, making it
+equivalent to the Problematical (not merely _may be_, but _may be or
+may not be_).[37] In the middle, too, of his diffuse exposition of
+the Modals, he inserts one important remark, respecting universal
+propositions generally, which belongs quite as much to the preceding
+exposition about propositions simply assertory. He observes that
+universal propositions have nothing to do with time, present, past,
+or future; but are to be understood in a sense absolute and
+unqualified.[38]
+
+[Footnote 37: Analyt. Prior. I. viii. p. 29, a. 32; xiii. p. 32, a.
+20-36: [Greek: to\ ga\r a)nagkai=on o(mônu/môs e)nde/chesthai
+le/gomen]. In xiv. p. 33, b. 22, he excludes this equivocal meaning
+of [Greek: to\ e)ndecho/menon--dei= de\ to\ e)nde/chestha lamba/nein
+mê\ e)n toi=s a)nagkai/ois, a)lla\ kata\ to\n ei)rême/non
+diorismo/n.] See xiii. p. 32, a. 33, where [Greek: to\ e)nde/chesthai
+u(pa/rchein] is asserted to be equivalent to or convertible with
+[Greek: to\ e)nde/chesthai mê\ u(pa/rchein]; and xix. p. 38, a. 35:
+[Greek: to\ e)x a)na/gkês ou)k ê)=n _e)ndecho/menon_]. Theophrastus
+and Eudemus differed from Aristotle about his theory of the Modals in
+several points (Scholia ad Analyt. Priora, pp. 161, b. 30; 162, b.
+23; 166, a. 12, b. 15, Brand.). Respecting the want of clearness in
+Aristotle about [Greek: to\ e)ndecho/menon], see Waitz's note **ad p.
+32, b. 16. Moreover, he sometimes uses [Greek: u(pa/rchon] in the
+widest sense, including [Greek: e)ndecho/menon] and [Greek:
+a)nagkai=on], xxiii. p. 40, b. 24.]
+
+[Footnote 38: Analyt. Prior. I. xv. p. 34, b. 7.]
+
+Having finished with the Modals, Aristotle proceeds to lay it down,
+that all demonstration must fall under one or other of the three
+figures just described; and therefore that all may be reduced
+ultimately to the two first modes of the First figure. You cannot
+proceed a step with two terms only and one proposition only. You must
+have two propositions including three terms; the middle term
+occupying the place assigned to it in one or other of the three
+figures.[39] This is obviously true when you demonstrate by direct or
+ostensive syllogism; and it is no less true when you proceed by
+_Reductio ad Impossibile_. This last is one mode of syllogizing from
+an hypothesis or assumption:[40] your conclusion being disputed, you
+prove it indirectly, by assuming its contradictory to be true, and
+constructing a new syllogism by means of that contradictory together
+with a second premiss admitted to be true; the conclusion of this new
+syllogism being a proposition obviously false or known beforehand to
+be false. Your demonstration must be conducted by a regular
+syllogism, as it is when you proceed directly and ostensively. The
+difference is, that the conclusion which you obtain is not that which
+you wish ultimately to arrive at, but something notoriously false.
+But as this false conclusion arises from your assumption or
+hypothesis that the contradictory of the conclusion originally
+disputed was true, you have indirectly made out your case that this
+contradictory must have been false, and therefore that the conclusion
+originally disputed was true. All this, however, has been
+demonstration by regular syllogism, but starting from an hypothesis
+assumed and admitted as one of the premisses.[41]
+
+[Footnote 39: Ibid. xxiii. p. 40, b. 20, p. 41, a. 4-20.]
+
+[Footnote 40: Ibid. p. 40, b. 25: [Greek: e)/ti ê)\ deiktikô=s ê)\
+e)x u(pothe/seôs; tou= d' _e)x u(pothe/seôs_ me/ros to\ dia\ tou=
+a)duna/tou.]]
+
+[Footnote 41: Ibid. p. 41, b. 23: [Greek: pa/ntes ga\r oi( dia\ tou=
+a)duna/tou perai/nontes to\ me\n pseu=dos sullogi/zontai, to\ d' e)x
+a)rchê=s _e)x u(pothe/seôs_ deiknu/ousin, o(/tan a)du/nato/n ti
+sumbai/nê| tê=s a)ntipha/seôs tethei/sês.]
+
+It deserves to be remarked that Aristotle uses the phrase [Greek:
+sullogismo\s _e)x u(pothe/seôs_], not [Greek: sullogismo\s
+u(pothetiko/s]. This bears upon the question as to his views upon
+what subsequently received the title of _hypothetical syllogisms_;
+a subject to which I shall advert in a future note.]
+
+Aristotle here again enforces what he had before urged--that in every
+valid syllogism, one premiss at least must be affirmative, and one
+premiss at least must be universal. If the conclusion be universal,
+both premisses must be so likewise; if it be particular, one of the
+premisses may not be universal. But without one universal premiss at
+least, there can be no syllogistic proof. If you have a thesis to
+support, you cannot assume (or ask to be conceded to you) that very
+thesis, without committing _petitio principii,_ (_i.e._ _quæsiti_ or
+_probandi_); you must assume (or ask to have conceded to you) some
+universal proposition containing it and more besides; under which
+universal you may bring the subject of your thesis as a minor, and
+thus the premisses necessary for supporting it will be completed.
+Aristotle illustrates this by giving a demonstration that the angles
+at the base of an isosceles triangle are equal; justifying every step
+in the reasoning by an appeal to some universal proposition.[42]
+
+[Footnote 42: Analyt. Prior. I. xxiv. p. 41, b. 6-31. The
+demonstration given (b. 13-22) is different from that which we read
+in Euclid, and is not easy to follow. It is more clearly explained by
+Waitz (p. 434) than either by Julius Pacius or by M. Barth. St.
+Hilaire (p. 108).]
+
+Again, every demonstration is effected by two propositions (an _even_
+number) and by three terms (an _odd_ number); though the same
+proposition may perhaps be demonstrable by more than one pair of
+premisses, or through more than one middle term;[43] that is, by two
+or more distinct syllogisms. If there be more than three terms and
+two propositions, either the syllogism will no longer be one but
+several; or there must be particulars introduced for the purpose of
+obtaining an universal by induction; or something will be included,
+superfluous and not essential to the demonstration, perhaps for the
+purpose of concealing from the respondent the real inference
+meant.[44] In the case (afterwards called _Sorites_) where the
+ultimate conclusion is obtained through several mean terms in
+continuous series, the number of terms will always exceed by one the
+number of propositions; but the numbers may be odd or even, according
+to circumstances. As terms are added, the total of intermediate
+conclusions, if drawn out in form, will come to be far greater than
+that of the terms or propositions, multiplying as it will do in an
+increasing ratio to them.[45]
+
+[Footnote 43: Ibid. I. xxv. p. 41, b. 36, seq.]
+
+[Footnote 44: Ibid. xxv. p. 42, a. 23: [Greek: ma/tên e)/stai
+ei)lêmme/na, ei) mê\ e)pagôgê=s ê)\ kru/pseôs ê)/ tinos a)/llou tô=n
+toiou/tôn cha/rin.] Ib. a. 38: [Greek: ou(=tos o( lo/gos ê)\ ou)
+sullelo/gistai ê)\ plei/ô tô=n a)nagkai/ôn ê)rô/têke pro\s tê\n
+the/sin.]]
+
+[Footnote 45: Ibid. p. 42, b. 5-26.]
+
+It will be seen clearly from the foregoing remarks that there is a
+great difference between one thesis and another as to facility of
+attack or defence in Dialectic. If the thesis be an Universal
+Affirmative proposition, it can be demonstrated only in the First
+figure, and only by one combination of premisses; while, on the other
+hand, it can be impugned either by an universal negative, which can
+be demonstrated both in the First and Second figures, or by a
+particular negative, which can be demonstrated in all the three
+figures. Hence an Universal Affirmative thesis is at once the hardest
+to defend and the easiest to oppugn: more so than either a Particular
+Affirmative, which can be proved both in the First and Third figures;
+or a Universal Negative, which can be proved either in First or
+Second.[46] To the opponent, an universal thesis affords an easier
+victory than a particular thesis; in fact, speaking generally, his
+task is easier than that of the defendant.
+
+[Footnote 46: Analyt. Prior. I. xxvi. p. 42, b. 27, p. 43, a. 15.]
+
+In the Analytica Priora, Aristotle proceeds to tell us that he
+contemplates not only theory, but also practice and art. The reader
+must be taught, not merely to understand the principles of Syllogism,
+but likewise where he can find the matter for constructing syllogisms
+readily, and how he can obtain the principles of demonstration
+pertinent to each thesis propounded.[47]
+
+[Footnote 47: Ibid. I. xxvii. p. 43, a. 20: [Greek: pô=s d'
+eu)porê/somen au)toi\ pro\s to\ tithe/menon a)ei\ sullogismô=n, kai\
+dia\ poi/as o(dou= lêpso/metha ta\s peri\ e(/kaston a)rcha/s, nu=n
+ê)/dê lekte/on; ou) ga\r mo/non i)/sôs dei= tê\n ge/nesin theôrei=n
+tô=n sullogismô=n, a)lla\ kai\ tê\n du/namin e)/chein tou= poiei=n.]
+The second section of Book I. here begins.]
+
+A thesis being propounded in appropriate terms, with subject and
+predicate, how are you the propounder to seek out arguments for its
+defence? In the first place, Aristotle reverts to the distinction
+already laid down at the beginning of the Categoriæ.[48] Individual
+things or persons are subjects only, never appearing as
+predicates--this is the lowest extremity of the logical scale: at
+the opposite extremity of the scale, there are the highest
+generalities, predicates only, and not subjects of any predication,
+though sometimes supposed to be such, as matters of dialectic
+discussion.[49] Between the lowest and highest we have intermediate
+or graduate generalities, appearing sometimes as subjects, sometimes
+as predicates; and it is among these that the materials both of
+problems for debate, and of premisses for proof, are usually
+found.[50]
+
+[Footnote 48: Ibid. I. xxvii. p. 43, a. 25, seq.]
+
+[Footnote 49: Ibid. p. 43, a. 39: [Greek: plê\n ei) mê\ kata\
+do/xan]. Cf. Schol. of Alexander, p. 175, a. 44, Br.: [Greek:
+e)ndo/xôs kai\ dialektikô=s, ô(/sper ei)=pen e)n toi=s Topikoi=s],
+that even the _principia_ of science may be debated; for example, in
+book B. of the Metaphysica. Aristotle does not recognize either
+[Greek: to\ o)/n] or [Greek: to\ e(/n] as true genera, but only as
+predicates.]
+
+[Footnote 50: Ibid. a. 40-43.]
+
+You must begin by putting down, along with the matter in hand itself,
+its definition and its _propria_; after that, its other predicates;
+next, those predicates which _cannot_ belong to it; lastly, those
+other subjects, of which it may itself be predicated. You must
+classify its various predicates distinguishing the essential, the
+_propria_, and the accidental; also distinguishing the true and
+unquestionable, from the problematical and hypothetical.[51] You must
+look out for those predicates which belong to it as subject
+universally, and not to certain portions of it only; since universal
+propositions are indispensable in syllogistic proof, and indefinite
+propositions can only be reckoned as particular. When a subject is
+included in some larger genus--as, for example, man in animal--you
+must not look for the affirmative or negative predicates which belong
+to animal universally (since all these will of course belong to man
+also) but for those which distinguish man from other animals; nor
+must you, in searching for those lower subjects of which man is the
+predicate, fix your attention on the higher genus animal; for animal
+will of course be predicable of all those of which man is predicable.
+You must collect what pertains to man specially, either as predicate
+or subject; nor merely that which pertains to him necessarily and
+universally, but also usually and in the majority of cases; for most
+of the problems debated belong to this latter class, and the worth of
+the conclusion will be co-ordinate with that of the premisses.[52]**
+Do not select predicates that are predicable[53] both of the
+predicate and subject; for no valid affirmative conclusion can be
+obtained from them.
+
+[Footnote 51: Analyt. Prior. I. xxvii. p. 43, b. 8: [Greek: kai\
+tou/tôn poi=a doxastikô=s kai\ poi=a kat' a)lê/theian.]]
+
+[Footnote 52: Ibid. I. xxvii. p. 43, b. 10-35.]
+
+[Footnote 53: Ibid. b. 36: [Greek: e)/ti ta\ pa=sin e(po/mena ou)k
+e)klekte/on; ou) ga\r e)/stai sullogismo\s e)x au)tô=n.] The phrase
+[Greek: ta\ pa=sin e(po/mena], as denoting predicates applicable both
+to the predicate and to the subject, is curious. We should hardly
+understand it, if it were not explained a little further on, p. 44,
+b. 21. Both the Scholiast and the modern commentators understand
+[Greek: ta\ pa=sin e(po/mena] in this sense; and I do not venture to
+depart from them. At the same time, when I read six lines afterwards
+(p. 44, b. 26) the words [Greek: oi(=on ei) ta\ e(po/mena e(kate/rô|
+tau)ta/ e)stin]--in which the same meaning as that which the
+commentators ascribe to [Greek: ta\ pa=sin e(po/mena] is given in its
+own special and appropriate terms, and thus the same supposition
+unnecessarily repeated--I cannot help suspecting that Aristotle
+intends [Greek: ta\ pa=sin e(po/mena] to mean something different; to
+mean such wide and universal predicates as [Greek: to\ e(\n] and
+[Greek: to\ o)/n] which soar above the Categories and apply to every
+thing, but denote no real _genera_.]
+
+Thus, when the thesis to be maintained is an universal affirmative
+(_e.g._ A is predicable of all E), you will survey all the subjects
+to which A will apply as predicate, and all the predicates applying
+to E as subject. If these two lists coincide in any point, a middle
+term will be found for the construction of a good syllogism in the
+First figure. Let B represent the list of predicates belonging
+universally to A; D, the list of predicates which cannot belong to
+it; C, the list of subjects to which A pertains universally as
+predicate. Likewise, let F represent the list of predicates belonging
+universally to E; H, the list of predicates that cannot belong to E;
+G, the list of subjects to which E is applicable as predicate. If,
+under these suppositions, there is any coincidence between the list C
+and the list F, you can construct a syllogism (in _Barbara_, Fig. 1),
+demonstrating that A belongs to _all_ E; since the predicate in F
+belongs to all E, and A universally to the subject in C. If the list
+C coincides in any point with the list G, you can prove that A
+belongs to _some_ E, by a syllogism (in _Darapti_, Fig. 3). If, on
+the other hand, the list F coincides in any point with the list D,
+you can prove that A cannot belong to any E: for the predicate in D
+cannot belong to any A, and therefore (by converting simply the
+universal negative) A cannot belong as predicate to any D; but D
+coincides with F, and F belongs to all E; accordingly, a syllogism
+(in _Celarent_, Fig. 1) may be constructed, shewing that A cannot
+belong to any E. So also, if B coincides in any point with H, the
+same conclusion can be proved; for the predicate in B belongs to all
+A, but B coincides with H, which belongs to no E; whence you obtain a
+syllogism (in _Camestres_, Fig. 2), shewing that no A belongs to
+E.[54] In collecting the predicates and subjects both of A and of E,
+the highest and most universal expression of them is to be preferred,
+as affording the largest grasp for the purpose of obtaining a
+suitable middle term.[55] It will be seen (as has been declared
+already) that every syllogism obtained will have three terms and two
+propositions; and that it will be in one or other of the three
+figures above described.[56]
+
+[Footnote 54: Analyt. Prior. I. xxviii. p. 43, b. 39-p. 44, a. 35.]
+
+[Footnote 55: Ibid. p. 44, a. 39. Alexander and Philoponus (Scholia,
+p. 177, a. 19, 39, Brandis) point out an inconsistency between what
+Aristotle says here and what he had said in one of the preceding
+paragraphs, dissuading the inquirer from attending to the highest
+generalities, and recommending him to look only at both subject and
+predicate in their special place on the logical scale. Alexander's
+way of removing the inconsistency is not successful: I doubt if there
+be an inconsistency. I understand Aristotle _here_ to mean only that
+the universal expression KZ ([Greek: to\ katho/lou Z]) is to be
+preferred to the indefinite or indeterminate (simply Z, [Greek:
+a)dio/riston]), also K[Greek: G] ([Greek: to\ katho/lou G]) to simple
+[Greek: G (a)dio/riston)]. This appears to me not inconsistent with
+the recommendation which Aristotle had given before.]
+
+[Footnote 56: Ibid. p. 44, b. 6-20.]
+
+The way just pointed out is the only way towards obtaining a suitable
+middle term. If, for example, you find some predicate applicable both
+to A and E, this will not conduct you to a valid syllogism; you will
+only obtain a syllogism in the Second figure with two affirmative
+premisses, which will not warrant any conclusion. Or if you find some
+predicate which cannot belong either to A or to E, this again will
+only give you a syllogism in the Second figure with two negative
+premisses, which leads to nothing. So also, if you have a term of
+which A can be predicated, but which cannot be predicated of E, you
+derive from it only a syllogism in the First figure, with its minor
+negative; and this, too, is invalid. Lastly, if you have a subject,
+of which neither A nor E can be predicated, your syllogism
+constructed from these conditions will have both its premisses
+negative, and will therefore be worthless.[57]
+
+[Footnote 57: Analyt. Prior. I. xxviii. p. 44, b. 25-37.]
+
+In the survey prescribed, nothing is gained by looking out for
+predicates (of A and E) which are different or opposite: we must
+collect such as are identical, since our purpose is to obtain from
+them a suitable middle term, which must be the same in both
+premisses. It is true that if the list B (containing the predicates
+universally belonging to A) and the list F (containing the predicates
+universally belonging to E) are incompatible or contrary to each
+other, you will arrive at a syllogism proving that no A can belong to
+E. But this syllogism will proceed, not so much from the fact that B
+and F are incompatible, as from the other fact, distinct though
+correlative, that B will to a certain extent coincide with H (the
+list of predicates which cannot belong to E). The middle term and the
+syllogism constituted thereby, is derived from the coincidence
+between B and H, not from the opposition between B and F. Those who
+derive it from the latter, overlook or disregard the real source, and
+adopt a point of view merely incidental and irrelevant.[58]
+
+[Footnote 58: Ibid. p. 44, b. 38-p. 45, a. 22. [Greek: sumbai/nei dê\
+toi=s ou(/tôs e)piskopou=si prosepible/pein a)/llên o(do\n tê=s
+a)nagkai/as, dia\ to\ lantha/nein tê\n tau)to/têta tô=n B kai\ tô=n
+Th.]]
+
+The precept here delivered--That in order to obtain middle terms and
+good syllogisms, you must study and collect both the predicates and
+the subjects of the two terms of your thesis--Aristotle declares to
+be equally applicable to all demonstration, whether direct or by way
+of _Reductio ad Impossibile_. In both the process of demonstration is
+the same--involving two premisses, three terms, and one of the three
+a suitable middle term. The only difference is, that in the direct
+demonstration, both premisses are propounded as true, while in the
+_Reductio ad Impossibile_, one of the premisses is assumed as true
+though known to be false, and the conclusion also.[59] In the other
+cases of hypothetical syllogism your attention must be directed, not
+to the original _quæsitum_, but to the condition annexed thereto; yet
+the search for predicates, subjects, and a middle term, must be
+conducted in the same manner.[60] Sometimes, by the help of a
+condition extraneous to the premisses, you may demonstrate an
+universal from a particular: _e.g._, Suppose C (the list of subjects
+to which A belongs as predicate) and G (the list of subjects to which
+E belongs as predicate) to be identical; and suppose farther that the
+subjects in G are the _only_ ones to which E belongs as predicate
+(this seems to be the _extraneous_ or _extra-syllogistic_ condition
+assumed, on which Aristotle's argument turns); then, A will be
+applicable to all E. Or if D (the list of predicates which cannot
+belong to A) and G (the list of subjects to which E belongs as
+predicate) are identical; then, assuming the like extraneous
+condition, A will not be applicable to any E.[61] In both these
+cases, the conclusion is more universal than the premisses; but it is
+because we take in an hypothetical assumption, in addition to the
+premisses.
+
+[Footnote 59: Ibid. I. xxix. p. 45, a. 25-b. 15.]
+
+[Footnote 60: Ibid. I. xxix. p. 45, b. 15-20. This paragraph is very
+obscure. Neither Alexander, nor Waitz, nor St. Hilaire clears it up
+**completely. See Schol. pp. 178, b., 179, a. Brandis.
+
+Aristotle concludes by saying that syllogisms from an hypothesis
+ought to be reviewed and classified into varieties--[Greek:
+e)piske/psasthai de\ dei= kai\ dielei=n posachô=s oi( e)x
+u(pothe/seôs] (b. 20). But it is doubtful whether he himself ever
+executed this classification. It was done in the Analytica of his
+successor Theophrastus (Schol. p. 179, a. 6, 24). Compare the note of
+M. Barthélemy St. Hilaire, p. 140.]
+
+
+[Footnote 61: Analyt. Prior. I. xxix. p. 45, b. 21-30.]
+
+Aristotle has now shown a method of procedure common to all
+investigations and proper for the solution of all problems, wherever
+soluble. He has shown, first, all the conditions and varieties of
+probative Syllogism, two premisses and three terms, with the place
+required for the middle term in each of the three figures; next, the
+quarter in which we are to look for all the materials necessary or
+suitable for constructing valid syllogisms. Having the two terms of
+the thesis given, we must study the predicates and subjects belonging
+to both, and must provide a large list of them; out of which list we
+must make selection according to the purpose of the moment. Our
+selection will be different, according as we wish to prove or to
+refute, and according as the conclusion that we wish to prove is an
+universal or a particular. The lesson here given will be most useful
+in teaching the reasoner to confine his attention to the sort of
+materials really promising, so that he may avoid wasting his time
+upon such as are irrelevant.[62]
+
+[Footnote 62: Ibid. b. 36-xxx. p. 46, a. 10.]
+
+This method of procedure is alike applicable to demonstration in
+Philosophy or in any of the special sciences,[63] and to debate in
+Dialectic. In both, the premisses or _principia_ of syllogisms must
+be put together in the same manner, in order to make the syllogism
+valid. In both, too, the range of topics falling under examination is
+large and varied; each topic will have its own separate premisses or
+_principia_, which must be searched out and selected in the way above
+described. Experience alone can furnish these _principia_, in each
+separate branch or department. Astronomical experience--the observed
+facts and phenomena of astronomy--have furnished the data for the
+scientific and demonstrative treatment of astronomy. The like with
+every other branch of science or art.[64] When the facts in each
+branch are brought together, it will be the province of the logician
+or analytical philosopher to set out the demonstrations in a manner
+clear and fit for use. For if nothing in the way of true matter of
+fact has been omitted from our observation, we shall be able to
+discover and unfold the demonstration, on every point where
+demonstration is possible; and, wherever it is not possible, to make
+the impossibility manifest.[65]
+
+[Footnote 63: Ibid. p. 46, a. 8**: [Greek: kata\ me\n a)lê/theian e)k
+tô=n kat' a)lê/theian _diagegramme/nôn_ u(pa/rchein, ei)s de\ tou\s
+dialektikou\s sullogismou\s e)k tô=n kata\ do/xan prota/seôn.]
+
+Julius Pacius (p. 257) remarks upon the word [Greek: diagegramme/nôn]
+as indicating that Aristotle, while alluding to special sciences
+distinguishable from philosophy on one side, and from dialectic on
+the other, had in view geometrical demonstrations.]
+
+[Footnote 64: Analyt. Prior. I. xxx. p. 46, a. 10-20**: [Greek: ai(
+d' a)rchai\ tô=n sullogismô=n katho/lou me\n ei)/rêntai--i)/diai de\
+kath' e(ka/stên ai( plei=stai. dio\ ta\s me\n a)rcha\s ta\s peri\
+e(/kaston e)mpeiri/as e)/sti paradou=nai. le/gô d' oi(=on tê\n
+a)strologikê\n me\n e)mpeiri/an tê=s a)strologikê=s e)pistê/mês;
+lêphthe/ntôn ga\r i(kanô=s tô=n phainome/nôn ou(/tôs eu(re/thêsan ai(
+a)strologikai\ a)podei/xeis. o(moi/ôs de\ kai\ peri\ a)/llên
+o(poianou=n e)/chei te/chnên te kai\ e)pistê/mên.]
+
+What Aristotle says here--of astronomical observation and experience
+as furnishing the basis for astronomical science--stands in marked
+contrast with Plato, who rejects this basis, and puts aside, with a
+sort of contempt, astronomical observation (Republic, vii. pp.
+530-531); treating acoustics also in a similar way. Compare Aristot.
+Metaphys. [Greek: L]. p. 1073, a. 6, seq., with the commentary of
+Bonitz, p. 506.]
+
+[Footnote 65: Analyt. Prior. I. xxx. p. 46, a. 22-27**: [Greek:
+ô(/ste a)\n lêphthê=| ta\ u(pa/rchonta peri\ e(/kaston, ê(me/teron
+ê)/dê ta\s a)podei/xeis e(toi/môs e)mphani/zein. ei) ga\r mêde\n
+_kata\ tê\n i(stori/an_ paraleiphthei/ê tô=n a)lêthô=s u(parcho/ntôn
+toi=s pra/gmasin, e(/xomen peri\ a(/pantos ou(= me\n e)/stin
+a)po/deixis, tau/tên eu(rei=n kai\ a)podeiknu/nai, ou(= de\ mê\
+pe/phuken a)po/deixis, tou=to poiei=n phanero/n.]
+
+Respecting the word [Greek: i(stori/a]--investigation and record of
+matters of fact--the first sentence of Herodotus may be compared with
+Aristotle, Histor. Animal. p. 491, a. 12; also p. 757, b. 35;
+Rhetoric. p. 1359, b. 32.]
+
+For the fuller development of these important principles, the reader
+is referred to the treatise on Dialectic, entitled Topica, which we
+shall come to in a future chapter. There is nothing in all
+Aristotle's writings more remarkable than the testimony here
+afforded, how completely he considered all the generalities of
+demonstrative science and deductive reasoning to rest altogether on
+experience and inductive observation.
+
+We are next introduced to a comparison between the syllogistic
+method, as above described and systematized, and the process called
+logical Division into _genera_ and _species_; a process much relied
+upon by other philosophers, and especially by Plato. This logical
+Division, according to Aristotle, is a mere fragment of the
+syllogistic procedure; nothing better than a feeble syllogism.[66]
+Those who employed it were ignorant both of Syllogism and of its
+conditions. They tried to demonstrate--what never can be
+demonstrated--the essential constitution of the subject.[67] Instead
+of selecting a middle term, as the Syllogism requires, more universal
+than the subject but less universal (or not more so) than the
+predicate, they inverted the proper order, and took for their middle
+term the highest universal. What really requires to be demonstrated,
+they never demonstrated but assume.[68]
+
+[Footnote 66: Analyt. Prior. I. xxxi. p. 46, a. 33. Alexander, in
+Scholia, p. 180, a. 14. The Platonic method of [Greek: diai/resis] is
+exemplified in the dialogues called Sophistês and Politicus; compare
+also Philêbus, c. v., p. 15.]
+
+[Footnote 67: Ibid. p. 46, a. 34: [Greek: prô=ton d' au)to\ tou=to
+e)lelê/thei tou\s chrôme/nous au)tê=| pa/ntas, kai\ pei/thein
+e)pechei/roun ô(s o)/ntos dunatou= peri\ ou)si/as a)po/deixin
+gi/nesthai kai\ tou= ti/ e)stin.]]
+
+[Footnote 68: Ibid. p. 46, b. 1-12.]
+
+Thus, they take the subject man, and propose to prove that man is
+mortal. They begin by laying down that man is an animal, and that
+every animal is either mortal or immortal. Here, the most universal
+term, animal, is selected as middle or as medium of proof; while
+after all, the conclusion demonstrated is, not that man is mortal,
+but that man is either mortal or immortal. The position that man is
+mortal, is assumed but not proved.[69] Moreover, by this method of
+logical division, all the steps are affirmative and none negative;
+there cannot be any refutation of error. Nor can any proof be given
+thus respecting _genus_, or _proprium_, or _accidens_; the _genus_ is
+assumed, and the method proceeds from thence to _species_ and
+_differentia_. No doubtful matter can be settled, and no unknown
+point elucidated by this method; nothing can be done except to
+arrange in a certain order what is already ascertained and
+unquestionable. To many investigations, accordingly, the method is
+altogether inapplicable; while even where it is applicable, it leads
+to no useful conclusion.[70]
+
+[Footnote 69: Ibid. p. 46, b. 1-12.]
+
+[Footnote 70: Ibid. b. 26-37. Alexander in Schol. p. 180, b. 1.]
+
+We now come to that which Aristotle indicates as the third section of
+this First Book of the Analytica Priora. In the first section he
+explained the construction and constituents of Syllogism, the
+varieties of figure and mode, and the conditions indispensable to a
+valid conclusion. In the second section he tells us where we are to
+look for the premisses of syllogisms, and how we may obtain a stock
+of materials, apt and ready for use when required. There remains one
+more task to complete his plan--that he should teach the manner of
+reducing argumentation as it actually occurs (often invalid, and even
+when valid, often elliptical and disorderly), to the figures of
+syllogism as above set forth, for the purpose of testing its
+validity.[71] In performing this third part (Aristotle says) we shall
+at the same time confirm and illustrate the two preceding parts; for
+truth ought in every way to be consistent with itself.[72]
+
+[Footnote 71: Analyt. Prior. I. xxxii. p. 47, a. 2: [Greek: loipo\n
+ga\r e)/ti tou=to tê=s ske/pseôs; ei) ga\r tê/n te ge/nesin tô=n
+sullogismô=n theôroi=men kai\ tou= eu(ri/skein e)/choimen du/namin,
+e)/ti de\ tou\s gegenême/nous a)nalu/oimen ei)s ta\ proeirême/na
+schê/mata, te/los a)\n e)/choi ê( e)x a)rchê=s pro/thesis.]]
+
+[Footnote 72: Ibid. a. 8.]
+
+When a piece of reasoning is before us, we must first try to
+disengage the two syllogistic premisses (which are more easily
+disengaged than the three terms), and note which of them is universal
+or particular. The reasoner, however, may not have set out both of
+them clearly: sometimes he will leave out the major, sometimes the
+minor, and sometimes, even when enunciating both of them, he will
+join with them irrelevant matter. In either of these cases we must
+ourselves supply what is wanting and strike out the irrelevant.
+Without this aid, reduction to regular syllogism is impracticable;
+but it is not always easy to see what the exact deficiency is.
+Sometimes indeed the conclusion may follow necessarily from what is
+implied in the premisses, while yet the premisses themselves do not
+form a correct syllogism; for though every such syllogism carries
+with it necessity, there may be necessity without a syllogism. In the
+process of reduction, we must first disengage and set down the two
+premisses, then the three terms; out of which three, that one which
+appears twice will be the middle term. If we do not find one term
+twice repeated, we have got no middle and no real syllogism. Whether
+the syllogism when obtained will be in the first, second, or third
+figure, will depend upon the place of the middle term in the two
+premisses. We know by the nature of the conclusion which of the three
+figures to look for, since we have already seen what conclusions can
+be demonstrated in each.[73]
+
+[Footnote 73: Ibid. a. 10-b. 14.]
+
+Sometimes we may get premisses which look like those of a true
+syllogism, but are not so in reality; the major proposition ought to
+be an universal, but it may happen to be only indefinite, and the
+syllogism will not in all cases be valid; yet the distinction between
+the two often passes unnoticed.[74] Another source of fallacy is,
+that we may set out the terms incorrectly; by putting (in modern
+phrase) the abstract instead of the concrete, or abstract in one
+premiss and concrete in the other.[75] To guard against this, we
+ought to use the concrete term in preference to the abstract. For
+example, let the major proposition be, Health cannot belong to any
+disease; and the minor. Disease can belong to any man; _Ergo_, Health
+cannot belong to any man. This conclusion seems valid, but is not
+really so. We ought to substitute concrete terms to this effect:--It
+is impossible that the sick can be well; Any man may be sick; _Ergo_,
+It is impossible that any man can be well. To the syllogism, now, as
+stated in these concrete terms, we may object, that the major is not
+true. A person who is at the present moment sick may at a future time
+become well. There is therefore no valid syllogism.[76] When we take
+the concrete man, we may say with truth that the two contraries,
+health-sickness, knowledge-ignorance, _may_ both alike belong to him;
+though not to the same individual at the same time.
+
+[Footnote 74: Ibid. I. xxxiii. p. 47, b. 16-40: [Greek: au(/tê me\n
+ou)=n ê( a)pa/tê gi/netai e)n tô=| para\ mikro/n; ôs ga\r ou)de\n
+diaphe/ron ei)pei=n _to/de tô=|de u(pa/rchein, ê)\ to/de tô=|de
+panti\ u(pa/rchein_, sugchôrou=men.]
+
+M. B. St. Hilaire observes in his note (p. 155): "L'erreur vient
+uniquement de ce qu'on confond l'universel et l'indeterminé séparés
+par une nuance très faible d'expression, qu'on ne doit pas cependant
+negliger." Julius Pacius (p. 264) gives the same explanation at
+greater length; but the example chosen by Aristotle ([Greek: o(
+A)ristome/nês e)sti\ dianoêto\s A)ristome/nês]) appears open to other
+objections besides.]
+
+[Footnote 75: Analyt. Prior. I. xxxiv. p. 48, a. 1-28.]
+
+[Footnote 76: Ibid. a. 2-23. See the Scholion of Alexander, p. 181,
+b. 16-27, Brandis.]
+
+Again, we must not suppose that we can always find one distinct and
+separate name belonging to each term. Sometimes one or all of the
+three terms can only be expressed by an entire phrase or proposition.
+In such cases it is very difficult to reduce the reasoning into
+regular syllogism. We may even be deceived into fancying that there
+are syllogisms without any middle term at all, because there is no
+single word to express it. For example, let A represent equal to two
+right angles; B, triangle; C, isosceles. Then we have a regular
+syllogism, with an explicit and single-worded middle term; A belongs
+first to B, and then to C through B as middle term (triangle). But
+how do we know that A belongs to B? We know it by demonstration; for
+it is a demonstrable truth that every triangle has its three angles
+equal to two right angles. Yet there is no other more general truth
+about triangles from which it is a deduction; it belongs to the
+triangle _per se_, and follows from the fundamental properties of the
+figure.[77] There is, however, a middle term in the demonstration,
+though it is not single-worded and explicit; it is a declaratory
+proposition or a fact. We must not suppose that there can be any
+demonstration without a middle term, either single-worded or
+many-worded.
+
+[Footnote 77: Ibid. I. xxxv. p. 48, a. 30-39: [Greek: phanero\n o(/ti
+to\ me/son ou)ch ou(/tôs a)ei\ lêpte/on ô(s to/de ti, a)ll' e)ni/ote
+lo/gon, o(/per sumbai/nei ka)pi\ tou= lechthe/ntos.] A good Scholion
+of Philoponus is given, p. 181, b. 28-45, Brand.]
+
+When we are reducing any reasoning to a syllogistic form, and tracing
+out the three terms of which it is composed, we must expose or set
+out these terms in the nominative case; but when we actually
+construct the syllogism or put the terms into propositions, we shall
+find that one or other of the oblique cases, genitive, dative, &c.,
+is required.[78] Moreover, when we say, 'this belongs to that,' or
+'this may be truly predicated of that,' we must recollect that there
+are many distinct varieties in the relation of predicate to subject.
+Each of the Categories has its own distinct relation to the subject;
+predication _secundum quid_ is distinguished from predication
+_simpliciter_, simple from combined or compound, &c. This applies to
+negatives as well as affirmatives.[79] There will be a material
+difference in setting out the terms of the syllogism, according as
+the predication is qualified (_secundum quid_) or absolute
+(_simpliciter_). If it be qualified, the qualification attaches to
+the predicate, not to the subject: when the major proposition is a
+qualified predication, we must consider the qualification as
+belonging, not to the middle term, but to the major term, and as
+destined to re-appear in the conclusion. If the qualification be
+attached to the middle term, it cannot appear in the conclusion, and
+any conclusion that embraces it will not be proved. Suppose the
+conclusion to be proved is. The wholesome is knowledge _quatenus
+bonum_ or _quod bonum est_; the three terms of the syllogism must
+stand thus:--
+
+ _Major_--_Bonum_ is knowable, _quatenus bonum_ or _quod bonum est_.
+
+ _Minor_--The wholesome is _bonum_.
+
+ _Ergo_--The wholesome is knowable, _quatenus bonum_, &c.
+
+For every syllogism in which the conclusion is qualified, the terms
+must be set out accordingly.[80]
+
+[Footnote 78: Analyt. Prior. I. xxxvi. p. 48, a. 40-p. 49, a. 5.
+[Greek: a(plô=s le/gomen ga\r tou=to kata\ pa/ntôn, o(/ti tou\s me\n
+o(/rous a)/ei thete/on kata\ ta\s klê/seis tô=n o)noma/tôn--ta\s de\
+prota/seis lêpte/on kata\ ta\s e(ka/stou ptô/seis.] Several examples
+are given of this precept.]
+
+[Footnote 79: Ibid. I. xxxvii. p. 49, a. 6-10. Alexander remarks in
+the Scholia (p. 183, a. 2) that the distinction between simple and
+compound predication has already been adverted to by Aristotle in De
+Interpretatione (see p. 20, b. 35); and that it was largely treated
+by Theophrastus in his work, [Greek: Peri\ Katapha/seôs], not
+preserved.]
+
+[Footnote 80: Ibid. I. xxxviii. p. 49, a. 11-b. 2. [Greek: phanero\n
+ou)=n o(/ti e)n toi=s e)n me/rei sullogismoi=s ou(/tô lêpte/on tou\s
+o(/rous.] Alexander explains [Greek: oi( e)n me/rei sullogismoi/]
+(Schol. p. 183, b. 32, Br.) to be those in which the predicate has a
+qualifying adjunct tacked to it.]
+
+We are permitted, and it is often convenient, to exchange one phrase
+or term for another of equivalent signification, and also one word
+against any equivalent phrase. By doing this, we often **facilitate
+the setting out of the terms. We must carefully note the different
+meanings of the same substantive noun, according as the definite
+article is or is not prefixed. We must not reckon it the same term,
+if it appears in one premiss with the definite article, and in the
+other without the definite article.[81] Nor is it the same
+proposition to say B is predicable of C (indefinite), and B is
+predicable of _all_ C (universal). In setting out the syllogism, it
+is not sufficient that the major premiss should be indefinite; the
+major premiss must be universal; and the minor premiss also, if the
+conclusion is to be universal. If the major premiss be universal,
+while the minor premiss is only affirmative indefinite, the
+conclusion cannot be universal, but will be no more than indefinite,
+that is, counting as particular.[82]
+
+[Footnote 81: Analyt. Prior. I. xxxix.-xl. p. 49, b. 3-13. [Greek:
+ou) tau)to\n e)sti to\ ei)=nai tê\n ê(donê\n a)gatho\n kai\ to\
+ei)=nai tê\n ê(donê\n to\ a)gatho/n], &c.]
+
+[Footnote 82: Ibid. I. xli. p. 49, b. 14-32. The Scholion of
+Alexander (Schol. p. 184, a. 22-40) alludes to the peculiar mode,
+called by Theophrastus [Greek: kata\ pro/slêpsin], of stating the
+premisses of the syllogism: two terms only, the major and the middle,
+being enunciated, while the third or minor was included potentially,
+but not enunciated. Theophrastus, however, did not recognize the
+distinction of meaning to which Aristotle alludes in this chapter. He
+construed as an universal minor, what Aristotle treats as only an
+indefinite minor. The liability to mistake the Indefinite for an
+Universal is here again adverted to.]
+
+There is no fear of our being misled by setting out a particular case
+for the purpose of the general demonstration; for we never make
+reference to the specialties of the particular case, but deal with it
+as the geometer deals with the diagram that he draws. He calls the
+line A B, straight, a foot long, and without breadth, but he does not
+draw any conclusion from these assumptions. All that syllogistic
+demonstration either requires or employs, is, terms that are related
+to each other either as whole to part or as part to whole. Without
+this, no demonstration can be made: the exposition of the particular
+case is intended as an appeal to the senses, for facilitating the
+march of the student, but is not essential to demonstration.[83]
+
+[Footnote 83: Ibid. I. xli. p. 50, a. 1: [Greek: tô=| d'
+e)kti/thesthai ou(/tô chrô/metha ô(/sper kai\ tô=| ai)stha/nesthai
+to\n mantha/nonta le/gontes; ou) ga\r ou(/tôs ô(s a)/neu tou/tôn
+ou)ch oi(=o/n t' a)podeichthê=nai, ô(/sper e)x ô(=n o(
+sullogismo/s.]
+
+This chapter is a very remarkable statement of the Nominalistic
+doctrine; perceiving or conceiving all the real specialties of a
+particular case, but attending to, or reasoning upon, only a portion
+of them.
+
+Plato treats it as a mark of the inferior scientific value of
+Geometry, as compared with true and pure Dialectic, that the geometer
+cannot demonstrate through Ideas and Universals alone, but is
+compelled to help himself by visible particular diagrams or
+illustrations. (Plato, Repub. vi. pp. 510-511, vii. p. 533, C.)]
+
+Aristotle reminds us once more of what he had before said, that in
+the Second and Third figures, not all varieties of conclusion are
+possible, but only some varieties; accordingly, when we are reducing
+a piece of reasoning to the syllogistic form, the nature of the
+conclusion will inform us which of the three figures we must look
+for. In the case where the question debated relates to a definition,
+and the reasoning which we are trying to reduce turns upon one part
+only of that definition, we must take care to look for our three
+terms only in regard to that particular part, and not in regard to
+the whole definition.[84] All the modes of the Second and Third
+figures can be reduced to the First, by conversion of one or other of
+the premisses; except the fourth mode (_Baroco_) of the Second, and
+the fifth mode (_Bocardo_) of the Third, which can be proved only by
+_Reductio ad Absurdum_.[85]
+
+[Footnote 84: Analyt. Prior. I. xlii., xliii. p. 50, a. 5-15. I
+follow here the explanation given by Philoponus and Julius Pacius,
+which M. Barthélemy St. Hilaire adopts. But the illustrative example
+given by Aristotle himself (the definition of _water_) does not
+convey much instruction.]
+
+[Footnote 85: Ibid. xlv. p. 50, b. 5-p. 51, b. 2.]
+
+No syllogisms from an Hypothesis, however, are reducible to any of
+the three figures; for they are not proved by syllogism alone: they
+require besides an extra-syllogistic assumption granted or understood
+between speaker and hearer. Suppose an hypothetical proposition
+given, with antecedent and consequent: you may perhaps prove or
+refute by syllogism either the antecedent separately, or the
+consequent separately, or both of them separately; but you cannot
+directly either prove or refute by syllogism the conjunction of the
+two asserted in the hypothetical. The speaker must ascertain
+beforehand that this will be granted to him; otherwise he cannot
+proceed.[86] The same is true about the procedure by _Reductio ad
+Absurdum_, which involves an hypothesis over and above the syllogism.
+In employing such _Reductio ad Absurdum_, you prove syllogistically a
+certain conclusion from certain premisses; but the conclusion is
+manifestly false; therefore, one at least of the premisses from which
+it follows must be false also. But if this reasoning is to have
+force, the hearer must know _aliunde_ that the conclusion is false;
+your syllogism has not shown it to be false, but has shown it to be
+hypothetically true; and unless the hearer is prepared to grant the
+conclusion to be false, your purpose is not attained. Sometimes he
+will grant it without being expressly asked, when the falsity is
+glaring: _e.g._ you prove that the diagonal of a square is
+incommensurable with the side, because if it were taken as
+commensurable, an odd number might be shown to be equal to an even
+number. Few disputants will hesitate to grant that this conclusion is
+false, and therefore that its contradictory is true; yet this last
+(viz. that the contradictory is true) has not been proved
+syllogistically; you must assume it by hypothesis, or depend upon the
+hearer to grant it.[87]
+
+[Footnote 86: Ibid. xliv. p. 50, a. 16-28.]
+
+[Footnote 87: Analyt. Prior. I. xliv. p. 50, a. 29-38. See above,
+xxiii. p. 40, a. 25.
+
+M. Barthélemy St. Hilaire remarks in the note to his translation of
+the Analytica Priora (p. 178): "Ce chapitre suffit à prouver
+qu'Aristote a distingué très-nettement les syllogismes par l'absurde,
+des syllogismes hypothétiques. Cette dernière dénomination est tout à
+fait pour lui ce qu'elle est pour nous." Of these two statements, I
+think the _latter_ is more than we can venture to affirm, considering
+that the general survey of hypothetical syllogisms, which Aristotle
+intended to draw up, either never was really completed, or at least
+has perished: the _former_ appears to me incorrect. Aristotle
+decidedly reckons the _Reductio ad Impossibile_ among hypothetical
+proofs. But he understands by _Reductio ad Impossibile_ something
+rather wider than what the moderns understand by it. It now means
+only, that you take the contradictory of the conclusion together with
+one of the premisses, and by means of these two demonstrate a
+conclusion contradictory or contrary to the other premiss. But
+Aristotle understood by it this, and something more besides, namely,
+whenever, by taking the contradictory of the conclusion, together
+with some other incontestable premiss, you demonstrate, by means of
+the two, some new conclusion notoriously false. What I here say, is
+illustrated by the very example which he gives in this chapter. The
+incommensurability of the diagonal (with the side of the square) is
+demonstrated by _Reductio ad Impossibile_; because if it be supposed
+commensurable, you may demonstrate that an odd number is equal to an
+even number; a conclusion which every one will declare to be
+inadmissible, but which is not the contradictory of either of the
+premisses whereby the true proposition was demonstrated.]
+
+Here Aristotle expressly reserves for separate treatment the general
+subject of Syllogisms from Hypothesis.[88]
+
+[Footnote 88: The expressions of Aristotle here are remarkable,
+Analyt. Prior. I. xliv. p. 50, a. 39-b. 3: [Greek: polloi\ de\ kai\
+e(/teroi perai/nontai e)x u(pothe/seôs, ou(\s e)piske/psasthai dei=
+kai\ diasêmê=nai katharô=s. ti/nes me\n ou)=n ai( diaphorai\ tou/tôn,
+kai\ posachô=s gi/netai to\ e)x u(pothe/seôs, u(/steron e)rou=men;
+nu=n de\ tosou=nton ê(mi=n e)/stô phanero/n, o(/ti ou)k e)/stin
+a)nalu/ein ei)s ta\ schê/mata tou\s toiou/tous sullogismou/s. kai\
+di' ê(\n ai)ti/an, ei)rê/kamen.]
+
+Syllogisms from Hypothesis were many and various, and Aristotle
+intended to treat them in a future treatise; but all that concerns
+the present treatise, in his opinion, is, to show that none of them
+can be reduced to the three Figures. Among the Syllogisms from
+Hypothesis, two varieties recognized by Aristotle (besides [Greek:
+oi) dia\ tou= a)duna/tou]) were [Greek: oi( kata\ meta/lêpsin] and
+[Greek: oi( kata\ poio/têta]. The same proposition which Aristotle
+entitles [Greek: kata\ meta/lêpsin], was afterwards designated by the
+Stoics [Greek: kata\ pro/slêpsin] (Alexander ap. Schol. p. 178,
+b. 6-24).
+
+It seems that Aristotle never realized this intended future treatise
+on Hypothetical Syllogisms; at least Alexander did not know it. The
+subject was handled more at large by Theophrastus and Eudêmus after
+Aristotle (Schol. p. 184, b. 45. Br.; Boethius, De Syllog.
+Hypothetico, pp. 606-607); and was still farther expanded by
+Chrysippus and the Stoics.
+
+Compare Prantl, Geschichte der Logik, I. pp. 295, 377, seq. He treats
+the Hypothetical Syllogism as having no logical value, and commends
+Aristotle for declining to develop or formulate it; while Ritter
+(Gesch. Phil. iii. p. 93), and, to a certain extent, Ueberweg (System
+der Logik, sect. 121, p. 326), consider this to be a defect in
+Aristotle.]
+
+In the last chapter of the first book of the Analytica Priora,
+Aristotle returns to the point which we have already considered in
+the treatise De Interpretatione, viz. what is really a _negative_
+proposition; and how the adverb of negation must be placed in order
+to constitute one. We must place this adverb immediately before the
+copula and in conjunction with the copula: we must not place it after
+the copula and in conjunction with the predicate; for, if we do so,
+the proposition resulting will not be negative but affirmative
+([Greek: e)k metathe/seôs], by transposition, according to the
+technical term introduced afterwards by Theophrastus). Thus of the
+four propositions:
+
+  1. Est bonum.          2. Non est bonum.
+  4. Non est non bonum.  3. Est non bonum.
+
+No. 1 is affirmative; No. 3 is affirmative ([Greek: e)k
+metathe/seôs]); Nos. 2 and 4 are negative. Wherever No. 1 is
+predicable, No. 4 will be predicable also; wherever No. 3 is
+predicable, No. 2 will be predicable also--but in neither case _vice
+versâ_.[89] Mistakes often flow from incorrectly setting out the two
+contradictories.
+
+[Footnote 89: Analyt. Prior. I. xlvi. p. 51, b. 5, ad finem. See
+above, Chap. IV. p. 118, seq.]
+
+
+
+

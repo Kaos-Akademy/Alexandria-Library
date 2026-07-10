@@ -1,0 +1,103 @@
+CHAPTER XV
+
+ASSERTION
+
+
+The subject of the present chapter must not be confused with the
+assertion of ordinary life. Commonly, an unasserted proposition is
+synonymous with a probably false statement, while an asserted
+proposition is synonymous with one that is certainly false. But in logic
+we apply assertion also to true propositions, and, as Lewis Carroll
+showed in his version of "What the Tortoise said to Achilles,"[44]
+usually pass over unconsciously an infinite series of implications in so
+doing. If _p_ and _q_ are propositions, _p_ is true, and _p_ implies
+_q_, then, at first sight, one would think that one might assert _q_.
+But, from (A) _p_ is true, and (B) _p_ implies _q_, we must, in order to
+deduce (Z) _q_ is true, accept the hypothetical: (C) If A and B are
+true, Z must be true. And then, in order to deduce Z from A, B, and C,
+we must accept another hypothetical: (D) If A, B, and C are true, Z must
+be true; and so on _ad infinitum_. Thus, in deducing Z, we pass over an
+infinite series of hypotheticals which increase in complexity. Thus we
+need a new principle to be able to assert _q_.
+
+Frege was the first logician sharply to distinguish between an asserted
+proposition, like "A is greater than B," and one which is merely
+considered, like "A's being greater than B," although an analogous
+distinction had been made in our common discourse on certain
+psychological grounds, for long previously. In fact, soon after the
+invention of speech, the necessity of distinguishing between a
+considered proposition and an asserted one became evident, on account of
+the state of things referred to at the beginning of this chapter.
+
+FOOTNOTES:
+
+[44] _Md._ N. S., vol. iv., 1895, pp. 278-80. Cf. Russell, _P. M._, p.
+35.
+
+
+
+
+CHAPTER XVI
+
+THE COMMUTATIVE LAW
+
+
+Often the meaning of a sentence tacitly implies that the commutative law
+does not hold. We are all familiar with the passage in which Macaulay
+pointed out that, by using the commutative law because of exigencies of
+metre, Robert Montgomery unintentionally made Creation tremble at the
+Atheist's nod instead of the Almighty's. This use of the commutative law
+by writers of verse renders it doubtful whether, in the hymn-line:
+
+  The humble poor believe,
+
+we are to understand a statement about the humble poor, or a doubtful
+maxim as to the attitude of our minds to statements made by the humble
+poor.
+
+The non-commutativity of English titles offers difficulties to some
+novelists and Americans who refer to Mary Lady So-and-So as Lady Mary
+So-and-So, and _vice versa_.
+
+
+
+
+CHAPTER XVII
+
+UNIVERSAL AND PARTICULAR PROPOSITIONS
+
+
+People who are cynical as to the morality of the English are often
+unpleasantly surprised to learn that "All trespassers will be
+prosecuted" does not necessarily imply that "some trespassers will be
+prosecuted." The view that universal propositions are non-existential is
+now generally held: Bradley and Venn seem to have been the first to hold
+this, while older logicians, such as De Morgan,[45] considered universal
+propositions to be existential, like particular ones.
+
+If the Gnat[46] had been content to affirm his proposition about the
+means of subsistence of Bread-and-Butter flies, in consequence of their
+lack of which such flies always die, without pointing out such an insect
+and thereby proving that the class of them is not null, Alice's doubt as
+to the existence of the class in question, even if it were proved to be
+well founded, would not have affected the validity of the proposition.
+
+This brings us to a great convenience in treating universal propositions
+as non-existential: we can maintain that all _x_'s are _y_'s at the same
+time as that no _x_'s are _y_'s, if only _x_ is the null-class. Thus,
+when Mr. MacColl[47] objected to other symbolic logicians that their
+premisses imply that all Centaurs are flower-pots, they could reply that
+their premisses also imply the more usual view that Centaurs are not
+flower-pots.
+
+FOOTNOTES:
+
+[45] Cf., e.g., _F. L._, p. 4.
+
+[46] See Appendix L.
+
+[47] Cf., e.g., _Md._, N. S., vol. xiv., July, 1905, pp. 399-400.
+
+
+
+

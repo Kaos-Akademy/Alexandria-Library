@@ -1,0 +1,838 @@
+CHAPTER XXV.
+
+ACCORDANCE OF QUANTITATIVE THEORIES.
+
+
+In the preceding chapter we found that facts may be classed under
+four heads as regards their connection with theory, and our powers
+of explanation or prediction. The facts hitherto considered were
+generally of a qualitative rather than a quantitative nature; but when
+we look exclusively to the quantity of a phenomenon, and the various
+modes in which we may determine its amount, nearly the same system of
+classification will hold good. There will, however, be five possible
+cases:--
+
+(1) We may directly and empirically measure a phenomenon, without being
+able to explain why it should have any particular quantity, or to
+connect it by theory with other quantities.
+
+(2) In a considerable number of cases we can theoretically predict the
+existence of a phenomenon, but are unable to assign its amount, except
+by direct measurement, or to explain the amount theoretically when thus
+ascertained.
+
+(3) We may measure a quantity, and afterwards explain it as related to
+other quantities, or as governed by known quantitative laws.
+
+(4) We may predict the quantity of an effect on theoretical grounds,
+and afterwards confirm the prediction by direct measurement.
+
+(5) We may indirectly determine the quantity of an effect without being
+able to verity it by experiment.
+
+These classes of quantitative facts might be illustrated by an immense
+number of interesting points in the history of physical science. Only
+a few instances of each class can be given here.
+
+
+*Empirical Measurements.*
+
+Under the first head of purely empirical measurements, which have
+not been brought under any theoretical system, may be placed the
+great bulk of quantitative facts recorded by scientific observers.
+The tables of numerical results which abound in books on chemistry
+and physics, the huge quartos containing the observations of public
+observatories, the multitudinous tables of meteorological observations,
+which are continually being published, the more abstruse results
+concerning terrestrial magnetism--such results of measurement, for
+the most part, remain empirical, either because theory is defective,
+or the labour of calculation and comparison is too formidable. In
+the Greenwich Observatory, indeed, the salutary practice has been
+maintained by the present Astronomer Royal, of always reducing the
+observations, and comparing them with the theories of the several
+bodies. The divergences from theory thus afford material for the
+discovery of errors or of new phenomena; in short, the observations
+have been turned to the use for which they were intended. But it is to
+be feared that other establishments are too often engaged in merely
+recording numbers of which no real use is made, because the labour
+of reduction and comparison with theory is too great for private
+inquirers to undertake. In meteorology, especially, great waste of
+labour and money is taking place, only a small fraction of the results
+recorded being ever used for the advancement of the science. For one
+meteorologist like Quetelet, Dove, or Baxendell, who devotes himself to
+the truly useful labour of reducing other people’s observations, there
+are hundreds who labour under the delusion that they are advancing
+science by loading our book-shelves with numerical tables. It is to
+be feared, in like manner, that almost the whole bulk of statistical
+numbers, whether commercial, vital, or moral, is of little scientific
+value. Purely empirical measurements may have a direct practical value,
+as when tables of the specific gravity, or strength of materials,
+assist the engineer; the specific gravities of mixtures of water with
+acids, alcohols, salts, &c., are useful in chemical manufactories,
+custom-house gauging, &c.; observations of rainfall are requisite for
+questions of water supply; the refractive index of various kinds of
+glass must be known in making achromatic lenses; but in all such cases
+the use made of the measurements is not scientific but practical. It
+may be asserted, that no number which remains isolated, and uncompared
+by theory with other numbers, is of scientific value. Having tried
+the tensile strength of a piece of iron in a particular condition, we
+know what will be the strength of the same kind of iron in a similar
+condition, provided we can ever meet with that exact kind of iron
+again; but we cannot argue from piece to piece, nor lay down any laws
+exactly connecting the strength of iron with the quantity of its
+impurities.
+
+
+*Quantities indicated by Theory, but Empirically Measured.*
+
+In many cases we are able to foresee the existence of a quantitative
+effect, on the ground of general principles, but are unable, either
+from the want of numerical data, or from the entire absence of any
+mathematical theory, to assign the amount of such effect. We then
+have recourse to direct experiment to determine its amount. Whether
+we argued from the oceanic tides by analogy, or deductively from the
+theory of gravitation, there could be no doubt that atmospheric tides
+of some amount must occur in the atmosphere. Theory, however, even
+in the hands of Laplace, was not able to overcome the complicated
+mechanical conditions of the atmosphere, and predict the amounts of
+such tides; and, on the other hand, these amounts were so small, and
+were so masked by far larger undulations arising from the heating power
+of the sun, and from other meteorological disturbances, that they would
+probably have never been discovered by purely empirical observations.
+Theory having, however, indicated their existence and their periods, it
+was easy to make series of barometrical observations in places selected
+so as to be as free as possible from casual fluctuations, and then, by
+the suitable application of the method of means, to detect the small
+effects in question. The principal lunar atmospheric tide was thus
+proved to amount to between ·003 and ·004 inch.[466]
+
+  [466] Grant’s *History of Physical Astronomy*, p. 162.
+
+Theory yields the greatest possible assistance in applying the method
+of means. For if we have a great number of empirical measurements, each
+representing the joint effect of a number of causes, our object will
+be to take the mean of all those in which the effect to be measured is
+present, and compare it with the mean of the remainder in which the
+effect is absent, or acts in the opposite direction. The difference
+will then represent the amount of the effect, or double the amount
+respectively. Thus, in the case of the atmospheric tides, we take
+the mean of all the observations when the moon was on the meridian,
+and compare it with the mean of all observations when she was on the
+horizon. In this case we trust to chance that all other effects will
+lie about as often in one direction as the other, and will neutralise
+themselves in the drawing of each mean. It is a great advantage,
+however, to be able to decide by theory when each principal disturbing
+effect is present or absent; for the means may then be drawn so as to
+separate each such effect, leaving only minor and casual divergences
+to the law of error. Thus, if there be three principal effects, and
+we draw means giving respectively the sum of all three, the sum of
+the first two, and the sum of the last two, then we gain three simple
+equations, by the solution of which each quantity is determined.
+
+
+*Explained Results of Measurement.*
+
+The second class of measured phenomena contains those which, after
+being determined in a direct and purely empirical application of
+measuring instruments, are afterwards shown to agree with some
+hypothetical explanation. Such results are turned to their proper
+use, and several advantages may arise from the comparison. The
+correspondence with theory will seldom or never be precise; and, even
+if it be so, the coincidence must be regarded as accidental.
+
+If the divergences between theory and experiment be comparatively
+small, and variable in amount and direction, they may often be safely
+attributed to inconsiderable sources of error in the experimental
+processes. The strict method of procedure is to calculate the probable
+error of the mean of the observed results (p. 387), and then observe
+whether the theoretical result falls within the limits of probable
+error. If it does, and if the experimental results agree as well
+with theory as they agree with each other, then the probability of
+the theory is much increased, and we may employ the theory with more
+confidence in the anticipation of further results. The probable error,
+it should be remembered, gives a measure only of the effects of
+incidental and variable sources of error, but in no degree indicates
+the amount of fixed causes of error. Thus, if the mean results of
+two modes of determining a quantity are so far apart that the limits
+of probable error do not overlap, we may infer the existence of some
+overlooked source of fixed error in one or both modes. We will further
+consider in a subsequent section the discordance of measurements.
+
+
+*Quantities determined by Theory and verified by Measurement.*
+
+One of the most satisfactory tests of a theory consists in its
+application not only to predict the nature of a phenomenon, and
+the circumstances in which it may be observed, but also to assign
+the precise quantity of the phenomenon. If we can subsequently
+apply accurate instruments and measure the amount of the phenomenon
+witnessed, we have an excellent opportunity of verifying or negativing
+the theory. It was in this manner that Newton first attempted to verify
+his theory of gravitation. He knew approximately the velocity produced
+in falling bodies at the earth’s surface, and if the law of the inverse
+square of the distance held true, and the reputed distance of the
+moon was correct, he could infer that the moon ought to fall towards
+the earth at the rate of fifteen feet in one minute. Now, the actual
+divergence of the moon from the tangent of its orbit appeared to amount
+only to thirteen feet in one minute, and there was a discrepancy of
+two feet in fifteen, which caused Newton to lay “aside at that time
+any further thoughts of this matter.” Many years afterwards, probably
+fifteen or sixteen years, Newton obtained more precise data from which
+he could calculate the size of the moon’s orbit, and he then found the
+discrepancy to be inconsiderable.
+
+His theory of gravitation was thus verified as far as the moon was
+concerned; but this was to him only the beginning of a long course of
+deductive calculations, each ending in a verification. If the earth
+and moon attract each other, and also the sun and the earth, there
+is reason to expect that the sun and moon should attract each other.
+Newton followed out the consequences of this inference, and showed
+that the moon would not move as if attracted by the earth only, but
+sometimes faster and sometimes slower. Comparison with Flamsteed’s
+observations of the moon showed that such was the case. Newton argued
+again, that as the waters of the ocean are not rigidly attached to
+the earth, they might attract the moon, and be attracted in return,
+independently of the rest of the earth. Certain daily motions
+resembling the tides would then be caused, and there were the tides to
+verify the reasoning. It was the extraordinary power with which Newton
+traced out geometrically the consequences of his theory, and submitted
+them to repeated comparison with experience, which constitutes his
+pre-eminence over all physicists.
+
+
+*Quantities determined by Theory and not verified.*
+
+It will continually happen that we are able, from certain measured
+phenomena and a correct theory, to determine the amount of some other
+phenomenon which we may either be unable to measure at all, or to
+measure with an accuracy corresponding to that required to verify the
+prediction. Thus Laplace having worked out a theory of the motions of
+Jupiter’s satellites on the hypothesis of gravitation, found that these
+motions were greatly affected by the spheroidal form of Jupiter. The
+motions of the satellites can be observed with great accuracy owing to
+their frequent eclipses and transits, and from these motions he was
+able to argue inversely, and assign the ellipticity of the planet. The
+ratio of the polar and equatorial axes thus determined was very nearly
+that of 13 to 14; and it agrees well with such direct micrometrical
+measurements of the planet as have been made; but Laplace believed
+that the theory gave a more accurate result than direct observation
+could yield, so that the theory could hardly be said to admit of direct
+verification.
+
+The specific heat of air was believed on the grounds of direct
+experiment to amount to 0·2669, the specific heat of water being taken
+as unity; but the methods of experiment were open to considerable
+causes of error. Rankine showed in 1850 that it was possible
+to calculate from the mechanical equivalent of heat and other
+thermodynamic data, what this number should be, and he found it to
+be 0·2378. This determination was at the time accepted as the most
+satisfactory result, although not verified; subsequently in 1853
+Regnault obtained by direct experiment the number 0·2377, proving that
+the prediction had been well grounded.
+
+It is readily seen that in quantitative questions verification is a
+matter of degree and probability. A less accurate method of measurement
+cannot verify the results of a more accurate method, so that if we
+arrive at a determination of the same physical quantity in several
+distinct modes it is often a delicate matter to decide which result
+is most reliable, and should be used for the indirect determination
+of other quantities. For instance, Joule’s and Thomson’s ingenious
+experiments upon the thermal phenomena of fluids in motion[467]
+involved, as one physical constant, the mechanical equivalent of
+heat; if requisite, then, they might have been used to determine that
+important constant. But if more direct methods of experiment give
+the mechanical equivalent of heat with superior accuracy, then the
+experiments on fluids will be turned to a better use in determining
+various quantities relating to the theory of fluids. We will further
+consider questions of this kind in succeeding sections.
+
+  [467] *Philosophical Transactions* (1854), vol. cxliv. p. 364.
+
+There are of course many quantities assigned on theoretical grounds
+which we are quite unable to verify with corresponding accuracy. The
+thickness of a film of gold leaf, the average depths of the oceans,
+the velocity of a star’s approach to or regression from the earth as
+inferred from spectroscopic data (pp. 296–99), are cases in point; but
+many others might be quoted where direct verification seems impossible.
+Newton and subsequent physicists have measured light undulations, and
+by several methods we learn the velocity with which light travels.
+Since an undulation of the middle green is about five ten-millionths
+of a metre in length, and travels at the rate of nearly 300,000,000
+of metres per second, it follows that about 600,000,000,000,000
+undulations must strike in one second the retina of an eye which
+perceives such light. But how are we to verify such an astounding
+calculation by directly counting pulses which recur six hundred
+billions of times in a second?
+
+
+*Discordance of Theory and Experiment.*
+
+When a distinct want of accordance is found to exist between the
+results of theory and direct measurement, interesting questions arise
+as to the mode in which we can account for this discordance. The
+ultimate explanation of the discrepancy may be accomplished in at least
+four ways as follows:--
+
+(1) The direct measurement may be erroneous owing to various sources of
+casual error.
+
+(2) The theory may be correct as far as regards the general form of the
+supposed laws, but some of the constant numbers or other quantitative
+data employed in the theoretical calculations may be inaccurate.
+
+(3) The theory may be false, in the sense that the forms of the
+mathematical equations assumed to express the laws of nature are
+incorrect.
+
+(4) The theory and the involved quantities may be approximately
+accurate, but some regular unknown cause may have interfered, so that
+the divergence may be regarded as a *residual effect* representing
+possibly a new and interesting phenomenon.
+
+No precise rules can be laid down as to the best mode of proceeding to
+explain the divergence, and the experimentalist will have to depend
+upon his own insight and knowledge; but the following recommendations
+may be made.
+
+If the experimental measurements are not numerous, repeat them and
+take a more extensive mean result, the probable accuracy of which,
+as regards casual errors, will increase as the square root of the
+number of experiments. Supposing that no considerable modification
+of the result is thus effected, we may suspect the existence of more
+deep-seated sources of error in our method of measurement. The next
+resource will be to change the size and form of the apparatus employed,
+and to introduce various modifications in the materials employed or the
+course of procedure, in the hope (p. 396) that some cause of constant
+error may thus be removed. If the inconsistency with theory still
+remains unreduced we may attempt to invent some widely different mode
+of arriving at the same physical quantity, so that we may be almost
+sure that the same cause of error will not affect both the new and old
+results. In some cases it is possible to find five or six essentially
+different modes of arriving at the same determination.
+
+Supposing that the discrepancy still exists we may begin to suspect
+that our direct measurements are correct, and that the data employed
+in the theoretical calculations are inaccurate. We must now review the
+grounds on which these data depend, consisting as they must ultimately
+do of direct measurements. A comparison of the recorded data will
+show the degree of probability attaching to the mean result employed;
+and if there is any ground for imagining the existence of error, we
+should repeat the observations, and vary the forms of experiment just
+as in the case of the previous direct measurements. The continued
+existence of the discrepancy must show that we have not attained to
+a complete acquaintance with the theory of the causes in action, but
+two different cases still remain. We may have misunderstood the action
+of those causes which we know to exist, or we may have overlooked the
+existence of one or more other causes. In the first case our hypothesis
+appears to be wrongly chosen and inapplicable; but whether we are to
+reject it will depend upon whether we can form another hypothesis which
+yields a more accurate accordance. The probability of an hypothesis,
+it will be remembered (p. 243), is to be judged, in the absence of *à
+priori* grounds of judgment, by the probability that if the supposed
+causes exist the observed result follows; but as there is now little
+probability of reconciling the original hypothesis with our direct
+measurements the field is open for new hypotheses, and any one which
+gives a closer accordance with measurement will so far have better
+claims to attention. Of course we must never estimate the probability
+of an hypothesis merely by its accordance with a few results only. Its
+general analogy and accordance with other known laws of nature, and
+the fact that it does not conflict with other probable theories, must
+be taken into account, as we shall see in the next book. The requisite
+condition of a good hypothesis, that it must admit of the deduction
+of facts verified in observation, must be interpreted in the widest
+manner, as including all ways in which there may be accordance or
+discordance. All our attempts at reconciliation having failed, the only
+conclusion we can come to is that some unknown cause of a new character
+exists. If the measurements be accurate and the theory probable,
+then there remains a *residual phenomenon*, which, being devoid of
+theoretical explanation, must be set down as a new empirical fact
+worthy of further investigation. Outstanding residual discrepancies
+have often been found to involve new discoveries of the greatest
+importance.
+
+
+*Accordance of Measurements of Astronomical Distances.*
+
+One of the most instructive instances which we can meet, of the
+manner in which different measurements confirm or check each other,
+is furnished by the determination of the velocity of light, and the
+dimensions of the planetary system. Roemer first discovered that light
+requires time to travel, by observing that the eclipses of Jupiter’s
+satellites, although they occur at fixed moments of absolute time, are
+visible at different moments in different parts of the earth’s orbit,
+according to the distance between the earth and Jupiter. The time
+occupied by light in traversing the mean semi-diameter of the earth’s
+orbit is found to be about eight minutes. The mean distance of the sun
+and earth was long assumed by astronomers as being about 95,274,000
+miles, this result being deduced by Bessel from the observations of the
+transit of Venus, which occurred in 1769, and which were found to give
+the solar parallax, or which is the same thing, the apparent angular
+magnitude of the earth seen from the sun, as equal to 8″·578. Dividing
+the mean distance of the sun and earth by the number of seconds in
+8^{m}. 13^{s}.3 we find the velocity of light to be about 192,000 miles
+per second.
+
+Nearly the same result was obtained in what seems a different manner.
+The aberration of light is the apparent change in the direction of a
+ray of light owing to the composition of its motion with that of the
+earth’s motion round the sun. If we know the amount of aberration and
+the mean velocity of the earth, we can estimate that of light, which
+is thus found to be 191,100 miles per second. Now this determination
+depends upon a new physical quantity, that of aberration, which is
+ascertained by direct observation of the stars, so that the close
+accordance of the estimates of the velocity of light as thus arrived
+at by different methods might seem to leave little room for doubt, the
+difference being less than one per cent.
+
+Nevertheless, experimentalists were not satisfied until they had
+succeeded in measuring the velocity of light by direct experiments
+performed upon the earth’s surface. Fizeau, by a rapidly revolving
+toothed wheel, estimated the velocity at 195,920 miles per second.
+As this result differed by about one part in sixty from estimates
+previously accepted, there was thought to be room for further
+investigation. The revolving mirror, used by Wheatstone in measuring
+the velocity of electricity, was now applied in a more refined manner
+by Fizeau and by Foucault to determine the velocity of light. The
+latter physicist came to the startling conclusion that the velocity
+was not really more than 185,172 miles per second. No repetition of
+the experiment would shake this result, and there was accordingly a
+discrepancy between the astronomical and the experimental results
+of about 7,000 miles per second. The latest experiments, those of
+M. Cornu, only slightly raise the estimate, giving 186,660 miles
+per second. A little consideration shows that both the astronomical
+determinations involve the magnitude of the earth’s orbit as one datum,
+because our estimate of the earth’s velocity in its orbit depends upon
+our estimate of the sun’s mean distance. Accordingly as regards this
+quantity the two astronomical results count only for one. Though the
+transit of Venus had been considered to give the best data for the
+calculation of the sun’s parallax, yet astronomers had not neglected
+less favourable opportunities. Hansen, calculating from certain
+inequalities in the moon’s motion, had estimated it at 8″·916; Winneke,
+from observations of Mars, at 8″·964; Leverrier, from the motions
+of Mars, Venus, and the moon, at 8″·950. These independent results
+agree much better with each other than with that of Bessel (8″·578)
+previously received, or that of Encke (8″·58) deduced from the transits
+of Venus in 1761 and 1769, and though each separately might be worthy
+of less credit, yet their close accordance renders their mean result
+(8″·943) comparable in probability with that of Bessel. It was further
+found that if Foucault’s value for the velocity of light were assumed
+to be correct, and the sun’s distance were inversely calculated from
+that, the sun’s parallax would be 8″·960, which closely agreed with
+the above mean result. This further correspondence of independent
+results threw the balance of probability strongly against the results
+of the transit of Venus, and rendered it desirable to reconsider
+the observations made on that occasion. Mr. E. J. Stone, having
+re-discussed those observations,[468] found that grave oversights had
+been made in the calculations, which being corrected would alter the
+estimate of parallax to 8″·91, a quantity in such comparatively close
+accordance with the other results that astronomers did not hesitate
+at once to reduce their estimate of the sun’s mean distance from
+95,274,000 to 91,771,000, miles, although this alteration involved a
+corresponding correction in the assumed magnitudes and distances of
+most of the heavenly bodies. The solar parallax is now (1875) believed
+to be about 8″·878, the number deduced from Cornu’s experiments on the
+velocity of light. This result agrees very closely with 8″·879, the
+estimate obtained from new observations on the transit of Venus, by the
+French observers, and with 8″·873, the result of Galle’s observations
+of the planet Flora. When all the observations of the late transit of
+Venus are fully discussed the sun’s distance will probably be known to
+less than one part in a thousand, if not one part in ten thousand.[469]
+
+  [468] *Monthly Notices of the Royal Astronomical Society*,
+  vol. xxviii. p. 264.
+
+  [469] It would seem to be absurd to repeat the profuse expenditure of
+  1874 at the approaching transit in 1882. The aggregate sum spent in
+  1874 by various governments and individuals can hardly be less than
+  £200,000, a sum which, wisely expended on scientific investigations,
+  would give a hundred important results.
+
+In this question the theoretical relations between the velocity of
+light, the constant of aberration, the sun’s parallax, and the sun’s
+mean distance, are of the simplest character, and can hardly be
+open to any doubt, so that the only doubt was as to which result of
+observation was the most reliable. Eventually the chief discrepancy was
+found to arise from misapprehension in the reduction of observations,
+but we have a satisfactory example of the value of different methods
+of estimation in leading to the detection of a serious error. Is it
+not surprising that Foucault by measuring the velocity of light when
+passing through the space of a few yards, should lead the way to a
+change in our estimates of the magnitudes of the whole universe?
+
+
+*Selection of the best Mode of Measurement.*
+
+When we once obtain command over a question of physical science
+by comprehending the theory of the subject, we often have a wide
+choice opened to us as regards the methods of measurement, which may
+thenceforth be made to give the most accurate results. If we can
+measure one fundamental quantity very precisely we may be able by
+theory to determine accurately many other quantitative results. Thus,
+if we determine satisfactorily the atomic weights of certain elements,
+we do not need to determine with equal accuracy the composition and
+atomic weights of their several compounds. Having learnt the relative
+atomic weights of oxygen and sulphur, we can calculate the composition
+by weight of the several oxides of sulphur. Chemists accordingly select
+with the greatest care that compound of two elements which seems to
+allow of the most accurate analysis, so as to give the ratio of their
+atomic weights. It is obvious that we only need the ratio of the atomic
+weight of each element to that of some common element, in order to
+calculate, that of each to each. Moreover the atomic weight stands
+in simple relation to other quantitative facts. The weights of equal
+volumes of elementary gases at equal temperature and pressure have
+the same ratios as the atomic weights; now, as nitrogen under such
+circumstances weighs 14·06 times as much as hydrogen, we may infer that
+the atomic weight of nitrogen is about 14·06, or more probably 14·00,
+that of hydrogen being unity. There is much evidence, again, that the
+specific heats of elements are inversely as their atomic weights, so
+that these two classes of quantitative data throw light mutually upon
+each other. In fact the atomic weight, the atomic volume, and the
+atomic heat of an element, are quantities so closely connected that
+the determination of one will lead to that of the others. The chemist
+has to solve a complicated problem in deciding in the case of each
+of 60 or 70 elements which mode of determination is most accurate.
+Modern chemistry presents us with an almost infinitely extensive web of
+numerical ratios developed out of a few fundamental ratios.
+
+In hygrometry we have a choice among at least four modes of measuring
+the quantity of aqueous vapour contained in a given bulk of air. We
+can extract the vapour by absorption in sulphuric acid, and directly
+weigh its amount; we can place the air in a barometer tube and observe
+how much the absorption of the vapour alters the elastic force of the
+air; we can observe the dew-point of the air, that is the temperature
+at which the vapour becomes saturated; or, lastly, we can insert a dry
+and wet bulb thermometer and observe the temperature of an evaporating
+surface. The results of each mode can be connected by theory with
+those of the other modes, and we can select for each experiment that
+mode which is most accurate or most convenient. The chemical method
+of direct measurement is capable of the greatest accuracy, but is
+troublesome; the dry and wet bulb thermometer is sufficiently exact for
+meteorological purposes and is most easy to use.
+
+
+*Agreement of Distinct Modes of Measurement.*
+
+Many illustrations might be given of the accordance which has been
+found to exist in some cases between the results of entirely different
+methods of arriving at the measurement of a physical quantity. While
+such accordance must, in the absence of information to the contrary,
+be regarded as the best possible proof of the approximate correctness
+of the mean result, yet instances have occurred to show that we can
+never take too much trouble in confirming results of great importance.
+When three or even more distinct methods have given nearly coincident
+numbers, a new method has sometimes disclosed a discrepancy which it is
+yet impossible to explain.
+
+The ellipticity of the earth is known with considerable approach to
+certainty and accuracy, for it has been estimated in three independent
+ways. The most direct mode is to measure long arcs extending north and
+south upon the earth’s surface, by means of trigonometrical surveys,
+and then to compare the lengths of these arcs with their curvature as
+determined by observations of the altitude of certain stars at the
+terminal points. The most probable ellipticity of the earth deduced
+from all measurements of this kind was estimated by Bessel at 1/300,
+though subsequent measurements might lead to a slightly different
+estimate. The divergence from a globular form causes a small variation
+in the force of gravity at different parts of the earth’s surface,
+so that exact pendulum observations give the data for an independent
+estimate of the ellipticity, which is thus found to be 1/320. In the
+third place the spheroidal protuberance about the earth’s equator leads
+to a certain inequality in the moon’s motion, as shown by Laplace;
+and from the amount of that inequality, as given by observations,
+Laplace was enabled to calculate back to the amount of its cause.
+He thus inferred that the ellipticity is 1/305, which lies between
+the two numbers previously given, and was considered by him the most
+satisfactory determination. In this case the accordance is undisturbed
+by subsequent results, so that we are obliged to accept Laplace’s
+result as a highly probable one.
+
+The mean density of the earth is a constant of high importance, because
+it is necessary for the determination of the masses of all the other
+heavenly bodies. Astronomers and physicists accordingly have bestowed
+a great deal of labour upon the exact estimation of this constant.
+The method of procedure consists in comparing the gravitation of the
+globe with that of some body of matter of which the mass is known in
+terms of the assumed unit of mass. This body of matter, serving as
+an intermediate term of comparison, may be variously chosen; it may
+consist of a mountain, or a portion of the earth’s crust, or a heavy
+ball of metal. The method of experiment varies so much according as
+we select one body or the other, that we may be said to have three
+independent modes of arriving at the desired result.
+
+The mutual gravitation of two balls is so exceedingly small compared
+with their gravitation towards the immense mass of the earth, that it
+is usually quite imperceptible, and although asserted by Newton to
+exist, on the ground of theory, was never observed until the end of the
+18th century. Michell attached two small balls to the extremities of
+a delicately suspended torsion balance, and then bringing heavy balls
+of lead alternately to either side of these small balls was able to
+detect a slight deflection of the torsion balance. He thus furnished a
+new verification of the theory of gravitation. Cavendish carried out
+the experiment with more care, and estimated the gravitation of the
+balls by treating the torsion balance as a pendulum; then taking into
+account the respective distances of the balls from each other and from
+the centre of the earth, he was able to assign 5·48 (or as re-computed
+by Baily, 5·448) as the probable mean density of the earth. Newton’s
+sagacious guess to the effect that the density of the earth was between
+five and six times that of water, was thus remarkably confirmed. The
+same kind of experiment repeated by Reich gave 5·438. Baily having
+again performed the experiment with every possible refinement obtained
+a slightly higher number, 5·660.
+
+A different method of procedure consisted in ascertaining the effect
+of a mountain mass in deflecting the plumb-line; for, assuming that
+we can determine the dimensions and mean density of the mountain,
+the plumb-line enables us to compare its mass with that of the whole
+earth. The mountain Schehallien was selected for the experiment, and
+observations and calculations performed by Maskelyne, Hutton, and
+Playfair, gave as the most probable result 4·713. The difference from
+the experimental results already mentioned is considerable and is
+important, because the instrumental operations are of an entirely
+different character from those of Cavendish and Baily’s experiments.
+Sir Henry James’ similar determination from the attraction of Arthur’s
+Seat gave 5·14.
+
+A third distinct method consists in determining the force of gravity
+at points elevated above the surface of the earth on mountain ranges,
+or sunk below it in mines. Carlini experimented with a pendulum at the
+hospice of Mont Cenis, 6,375 feet above the sea, and by comparing the
+attractive forces of the earth and the Alps, found the density to be
+still smaller, namely, 4·39, or as corrected by Giulio, 4·950. Lastly,
+the Astronomer Royal has on two occasions adopted the opposite method
+of observing a pendulum at the bottom of a deep mine, so as to compare
+the density of the strata penetrated with the density of the whole
+earth. On the second occasion he carried his method into effect at the
+Harton Colliery, 1,260 feet deep; all that could be done by skill in
+measurement and careful consideration of all the causes of error, was
+accomplished in this elaborate series of observations[470] (p. 291).
+No doubt Sir George Airy was much perplexed when he found that his
+new result considerably exceeded that obtained by any other method,
+being no less than 6·566, or 6·623 as finally corrected. In this
+case we learn an impressive lesson concerning the value of repeated
+determinations by distinct methods in disabusing our minds of the
+reliance which we are only too apt to place in results which show a
+certain degree of coincidence.
+
+  [470] *Philosophical Transactions* (1856), vol. cxlvi. p. 342.
+
+In 1844 Herschel remarked in his memoir of Francis Baily,[471]
+“that the mean specific gravity of this our planet is, in all
+human probability, quite as well determined as that of an ordinary
+hand-specimen in a mineralogical cabinet,--a marvellous result, which
+should teach us to despair of nothing which lies within the compass of
+number, weight and measure.” But at the same time he pointed out that
+Baily’s final result, of which the probable error was only 0·0032, was
+the highest of all determinations then known, and Airy’s investigation
+has since given a much higher result, quite beyond the limits of
+probable error of any of the previous experiments. If we treat all
+determinations yet made as of equal weight, the simple mean is about
+5·45, the mean error nearly 0·5, and the probable error almost 0·2, so
+that it is as likely as not that the truth lies between 5·65 and 5·25
+on this view of the matter. But it is remarkable that the two most
+recent and careful series of observations by Baily and Airy,[472] lie
+beyond these limits, and as with the increase of care the estimate
+rises, it seems requisite to reject the earlier results, and look upon
+the question as still requiring further investigation. Physicists
+often take 5-2/3 or 5·67 as the best guess at the truth, but it is
+evident that new experiments are much required. I cannot help thinking
+that a portion of the great sums of money which many governments and
+private individuals spent upon the transit of Venus expeditions in
+1874, and which they will probably spend again in 1882 (p. 562), would
+be better appropriated to new determinations of the earth’s density.
+It seems desirable to repeat Baily’s experiment in a vacuous case,
+and with the greater mechanical refinements which the progress of the
+last forty years places at the disposal of the experimentalist. It
+would be desirable, also, to renew the pendulum experiments of Airy
+in some other deep mine. It might even be well to repeat upon some
+suitable mountain the observations performed at Schehallien. All these
+operations might be carried out for the cost of one of the superfluous
+transit expeditions.
+
+  [471] *Monthly Notices of the Royal Astronomical Society*, for 8th
+  Nov. 1844, No. X. vol. vi. p. 89.
+
+  [472] *Philosophical Magazine*, 2nd Series, vol. xxvi. p. 61.
+
+Since the establishment of the dynamical theory of heat it has become
+a matter of the greatest importance to determine with accuracy the
+mechanical equivalent of heat, or the quantity of energy which must
+be given, or received, in a definite change of temperature effected
+in a definite quantity of a standard substance, such as water. No
+less than seven almost entirely distinct modes of determining this
+constant have been tried. Dr. Joule first ascertained by the friction
+of water that to raise the temperature of one kilogram of water through
+one degree centigrade, we must employ energy sufficient to raise
+424 kilograms through the height of one metre against the force of
+gravity at the earth’s surface. Joule, Mayer, Clausius,[473] Favre
+and other experimentalists have made determinations by less direct
+methods. Experiments on the mechanical properties of gases give 426
+kilogrammetres as the constant; the work done by a steam-engine
+gives 413; from the heat evolved in electrical experiments several
+determinations have been obtained; thus from induced electric currents
+we get 452; from the electro-magnetic engine 443; from the circuit of a
+battery 420; and, from an electric current, the lowest result of all,
+namely, 400.[474]
+
+  [473] Clausius in *Philosophical Magazine*, 4th Series, vol. ii.
+  p. 119.
+
+  [474] Watts’ *Dictionary of Chemistry*, vol. iii. p. 129.
+
+Considering the diverse and in many cases difficult methods of
+observation, these results exhibit satisfactory accordance, and their
+mean (423·9) comes very close to the number derived by Dr. Joule from
+the apparently most accurate method. The constant generally assumed as
+the most probable result is 423·55 kilogrammetres.
+
+
+*Residual Phenomena.*
+
+Even when the experimental data employed in the verification of a
+theory are sufficiently accurate, and the theory itself is sound, there
+may exist discrepancies demanding further investigation. Herschel
+pointed out the importance of such outstanding quantities, and called
+them *residual phenomena*.[475] Now if the observations and the theory
+be really correct, such discrepancies must be due to the incompleteness
+of our knowledge of the causes in action, and the ultimate explanation
+must consist in showing that there is in action, either
+
+  [475] *Preliminary Discourse*, §§ 158, 174. *Outlines of Astronomy*,
+  4th edit. § 856.
+
+(1) Some agent of known nature whose presence was not suspected;
+
+Or (2) Some new agent of unknown nature.
+
+In the first case we can hardly be said to make a new discovery, for
+our ultimate success consists merely in reconciling the theory with
+known facts when our investigation is more comprehensive. But in
+the second case we meet with a totally new fact, which may lead us
+to realms of new discovery. Take the instance adduced by Herschel.
+The theory of Newton and Halley concerning comets was that they
+were gravitating bodies revolving round the sun in elliptic orbits,
+and the return of Halley’s Comet, in 1758, verified this theory.
+But, when accurate observations of Encke’s Comet came to be made,
+the verification was not found to be exact. Encke’s Comet returned
+each time a little sooner than it ought to do, the period regularly
+decreasing from 1212·79 days, between 1786 and 1789, to 1210·44 between
+1855 and 1858; and the hypothesis has been started that there is a
+resisting medium filling the space through which the comet passes.
+This hypothesis is a *deus ex machinâ* for explaining this solitary
+phenomenon, and cannot possess much probability unless it can be
+shown that other phenomena are deducible from it. Many persons have
+identified this medium with that through which light undulations pass,
+but I am not aware that there is anything in the undulatory theory of
+light to show that the medium would offer resistance to a moving body.
+If Professor Balfour Stewart can prove that a rotating disc would
+experience resistance in a vacuous receiver, here is an experimental
+fact which distinctly supports the hypothesis. But in the mean time
+it is open to question whether other known agents, for instance
+electricity, may not be brought in, and I have tried to show that if,
+as is believed, the tail of a comet is an electrical phenomenon, it
+is a necessary result of the conservation of energy that the comet
+shall exhibit a loss of energy manifested in a diminution of its mean
+distance from the sun and its period of revolution.[476] It should
+be added that if Professor Tait’s theory be correct, as seems very
+probable, and comets consist of swarms of small meteors, there is no
+difficulty in accounting for the retardation. It has long been known
+that a collection of small bodies travelling together in an orbit round
+a central body will tend to fall towards it. In either case, then, this
+residual phenomenon seems likely to be reconciled with known laws of
+nature.
+
+  [476] *Proceedings of the Manchester Literary and Philosophical
+  Society*, 28th November, 1871, vol. xi. p. 33. Since the above
+  remarks were written, Professor Balfour Stewart has pointed out to
+  me his paper in the *Proceedings of the Manchester Literary and
+  Philosophical Society* for 15th November, 1870 (vol. x. p. 32),
+  in which he shows that a body moving in an enclosure of uniform
+  temperature would probably experience resistance independently
+  of the presence of a ponderable medium, such as gas, between the
+  moving body and the enclosure. The proof is founded on the theory
+  of the dissipation of energy, and this view is said to be accepted
+  by Professors Thomson and Tait. The enclosure is used in this case
+  by Professor Stewart simply as a means of obtaining a proof, just
+  as it was used by him on a previous occasion to obtain a proof of
+  certain consequences of the Theory of Exchanges. He is of opinion
+  that in both of these cases when once the proof has been obtained,
+  the enclosure may be dispensed with. We know, for instance, that
+  the relation between the inductive and absorptive powers of
+  bodies--although this relation may have been proved by means of an
+  enclosure, does not depend upon its presence, and Professor Stewart
+  thinks that in like manner two bodies, or at least two bodies
+  possessing heat such as the sun and the earth in motion relative to
+  each other, will have the differential motion retarded until perhaps
+  it is ultimately destroyed.
+
+In other cases residual phenomena have involved important inferences
+not recognised at the time. Newton showed how the velocity of sound in
+the atmosphere could be calculated by a theory of pulses or undulations
+from the observed tension and density of the air. He inferred that
+the velocity in the ordinary state of the atmosphere at the earth’s
+surface would be 968 feet per second, and rude experiments made by
+him in the cloisters of Trinity College seemed to show that this was
+not far from the truth. Subsequently it was ascertained by other
+experimentalists that the velocity of sound was more nearly 1,142 feet,
+and the discrepancy being one-sixth part of the whole was far too much
+to attribute to casual errors in the numerical data. Newton attempted
+to explain away this discrepancy by hypotheses as to the reactions of
+the molecules of air, but without success.
+
+New investigations having been made from time to time concerning the
+velocity of sound, both as observed experimentally and as calculated
+from theory, it was found that each of Newton’s results was inaccurate,
+the theoretical velocity being 916 feet per second, and the real
+velocity about 1,090 feet. The discrepancy, nevertheless, remained
+as serious as ever, and it was not until the year 1816 that Laplace
+showed it to be due to the heat developed by the sudden compression
+of the air in the passage of the wave, this heat having the effect of
+increasing the elasticity of the air and accelerating the impulse. It
+is now perceived that this discrepancy really involves the doctrine
+of the equivalence of heat and energy, and it was applied by Mayer,
+at least by implication, to give an estimate of the mechanical
+equivalent of heat. The estimate thus derived agrees satisfactorily
+with direct determinations by Dr. Joule and other physicists, so that
+the explanation of the residual phenomenon which exercised Newton’s
+ingenuity is now complete, and forms an important part of the new
+science of thermodynamics.
+
+As Herschel observed, almost all great astronomical discoveries
+have been disclosed in the form of residual differences. It is the
+practice at well-conducted observatories to compare the positions of
+the heavenly bodies as actually observed with what might have been
+expected theoretically. This practice was introduced by Halley when
+Astronomer Royal, and his reduction of the lunar observations gave a
+series of residual errors from 1722 to 1739, by the examination of
+which the lunar theory was improved. Most of the greater astronomical
+variations arising from nutation, aberration, planetary perturbation
+were discovered in the same manner. The precession of the equinox was
+perhaps the earliest residual difference observed; the systematic
+divergence of Uranus from its calculated places was one of the latest,
+and was the clue to the remarkable discovery of Neptune. We may also
+class under residual phenomena all the so-called *proper motions* of
+the stars. A complete star catalogue, such as that of the British
+Association, gives a greater or less amount of proper motion for almost
+every star, consisting in the apparent difference of position of the
+star as derived from the earliest and latest good observations. But
+these apparent motions are often due, as explained by Baily,[477] the
+author of the catalogue, to errors of observation and reduction. In
+many cases the best astronomical authorities have differed as to the
+very direction of the supposed proper motion of stars, and as regards
+the amount of the motion, for instance of α Polaris, the most different
+estimates have been formed. Residual quantities will often be so small
+that their very existence is doubtful. Only the gradual progress of
+theory and of measurement will show clearly whether a discrepancy
+is to be referred to casual errors of observation or to some new
+phenomenon. But nothing is more requisite for the progress of science
+than the careful recording and investigation of such discrepancies.
+In no part of physical science can we be free from exceptions and
+outstanding facts, of which our present knowledge can give no account.
+It is among such anomalies that we must look for the clues to new
+realms of facts worthy of discovery. They are like the floating waifs
+which led Columbus to suspect the existence of the new world.
+
+  [477] *British Association Catalogue of Stars*, p. 49.
+
+
+
+

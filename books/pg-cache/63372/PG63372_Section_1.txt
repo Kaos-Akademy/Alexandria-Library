@@ -1,0 +1,2469 @@
+
+                           TRANSCRIBERS NOTE:
+
+    The plain text version of this ebook includes mathematical
+    formulas in TeX notation. These formulas are enclosed
+    between dollar signs. The HTML version includes the same
+    formulas rendered in their original form.
+
+
+
+
+
+           EINSTEIN'S THEORIES OF RELATIVITY AND GRAVITATION
+
+                A SELECTION OF MATERIAL FROM THE ESSAYS
+                      SUBMITTED IN THE COMPETITION
+                 FOR THE EUGENE HIGGINS PRIZE OF $5,000
+
+
+                          COMPILED AND EDITED,
+                    AND INTRODUCTORY MATTER SUPPLIED
+                                   BY
+                            J. MALCOLM BIRD,
+                 Associate Editor, Scientific American
+
+
+                                NEW YORK
+                  SCIENTIFIC AMERICAN PUBLISHING CO.,
+                               MUNN & CO.
+                                  1921
+
+
+
+
+
+
+
+
+
+PREFACE
+
+
+The obstacles which the layman finds to understanding Einstein's
+relativity theories lie not so much in the inherent difficulty of
+these theories themselves as in the difficulty of preparing the
+mind for their reception. The theory is no more difficult than any
+scientific development of comparable depth; it is not so difficult as
+some of these. But it is a fact that for a decent understanding of it,
+a large background of scientific knowledge and scientific habit of
+thought is essential. The bulk of the writers who have attempted to
+explain Einstein to the general reader have not realized the great gulf
+which lies between the mental processes of the trained mathematician
+and those of the man in the street. They have not perceived that
+the lay reader must be personally conducted for a long distance from
+the vestibule of the temple of science before he comes to Einstein,
+and that he cannot by any possibility make this journey unaided. The
+result has been to pitchfork the reader into the intricacies of the
+subject without adequate preparation.
+
+The present volume avoids this mistake with the utmost care. It avoids
+it, in fact, with such deliberation as to make it in order to say a
+word in explanation of what will at first glance seem an extraordinary
+arrangement of material. It was to be expected, doubtless, that this
+book would open with a brief statement of the genesis and the outcome
+of the Einstein Prize Essay Contest for the $5,000 prize offered by
+Mr. Eugene Higgins. It was doubtless to be expected that, after this
+had been dismissed, the winning essay would be given the post of honor
+in advance of all other material bearing actually on the Einstein
+theories. When the reader observes that this has not been done, he
+will by all means expect a word of explanation; and it is mainly for
+the purpose of giving this that we make these introductory remarks.
+
+The essays submitted in the contest, and in particular the comments of
+a few disappointed readers upon Mr. Bolton's prize essay, make quite
+plain what might have been anticipated--that in the small compass
+of 3,000 words it is not possible both to prepare the reader's mind
+for a discussion of Relativity and to give a discussion that shall be
+adequate. Mr. Bolton himself, in replying to a protest that he had not
+done all this, has used the word "miracle"--we think it a well-advised
+one. No miracle was expected as a result of the contest, and none has
+been achieved. But in awarding the prize, the Judges had to decide
+whether it was the best preliminary exposition or the best discussion
+that was wanted. They decided, and rightly we believe, that the award
+should go to an actual statement of what the Einstein theories are
+and what they do, rather than to a mere introduction, however well
+conceived and well executed the latter might be. Nevertheless,
+we should be closing our eyes to a very obvious fact if we did
+not recognize that, without something in the way of preparation,
+the general reader is not going to pursue Mr. Bolton's essay, or
+any other essay on this subject, with profit. It is in order the
+more forcefully to hold out inducements to him to subject himself to
+this preparation that we place at the head of the book the chapters
+designed to give it to him.
+
+Chapter II. is intended so to bring the mind of the reader into contact
+with certain philosophical problems presented to us by our experiences
+with the external world and our efforts to learn the facts about it,
+that he may approach the subject of relativity with an appreciation
+of the place it occupies as a phase of human thought and a pillar of
+the scientific structure. Until the reader is aware of the existence
+of these problems and the directions taken by the efforts, successful
+and unsuccessful, to unravel them, he is not equipped to comprehend
+the doctrine of relativity at all; he is in much the same case as a
+child whose education had reached only the primer stage, if asked to
+read the masterpieces of literature. He lacks not alone the vocabulary,
+but equally the mental background on which the vocabulary is based.
+
+It will be noted that in this and the chapters immediately following
+it, the Editor has supplied material freely. The obvious interpretation
+is that satisfactory material covering the desired ground was not
+found in any of the essays; for we are sure the scope and number
+of the credited excerpts will make it clear that all contributions
+were adequately scrutinized in search of available passages. This
+"inadequacy" of the competing essays has been severely commented
+upon by several correspondents, and the inference drawn that as
+a whole the offerings were not up to the mark. Such a viewpoint
+is wholly unjust to the contestants. The essays which paid serious
+attention to the business of paving the way to relativity necessarily
+did so at the expense of completeness in the later paragraphs where
+specific explanation of the Einstein theories was in order. Mr. Law,
+whose essay was by all means the best of those that gave much space
+to introductory remarks, found himself left with only 600 words
+in which to tell what it was that he had been introducing. The
+majority of the contestants appear to have faced the same question
+as to subject matter which the Judges faced, and to have reached
+the same decision. They accordingly devoted their attention toward
+the prize, rather than toward the production of an essay that would
+best supplement that of the winner. It is for this very reason that,
+in these preliminary chapters, so large a proportion of the material
+has had to be supplied by the Editor; and this very circumstance is
+a tribute to the good judgment of the competitors, rather than ground
+for criticism of their work.
+
+The general introduction of Chapter II. out of the way, Chapters
+III. and IV. take up the business of leading the reader into the
+actual subject of relativity. The subject is here developed in what
+may be called the historical order--the order in which it took form in
+Einstein's own mind. Both in and outside the contest of which this book
+is the outcome, a majority of those who have written on relativity
+have followed this order, which is indeed a very natural one and
+one well calculated to give to the rather surprising assumptions of
+relativity a reasonableness which they might well appear to the lay
+mind to lack if laid down more arbitrarily. In these two chapters
+no effort is made to carry the argument beyond the formulation of
+the Special Principle of the relativity of uniform motion, but this
+principle is developed in considerably more detail than would be the
+case if it were left entirely to the competing essayists. The reason
+for this is again that we are dealing with a phase of the subject
+which is of subordinate importance so far as a complete statement of
+the General Theory of Relativity is concerned, but which is of the
+greatest significance in connection with the effort of the layman to
+acquire the proper preliminary orientation toward the larger subject.
+
+Chapter V. goes back again to general ground. Among the ideas which
+the competing essayists were forced to introduce into their text on a
+liberal scale is that of non-Euclidean geometry. The entire formulation
+of the General Theory of Relativity is in fact an exercise in this. The
+essayists--good, bad and indifferent alike--were quite unanimous in
+their decision that this was one thing which the reader would have
+to assume the responsibility of acquiring for himself. Certainly they
+were justified in this; for the Editor has been able to explain what
+non-Euclidean geometry is only by using up considerably more space
+than the contestants had for an entire essay. No effort has been made
+to set forth any of the details of any of the various non-Euclidean
+geometries; it has simply been the aim to draw the dividing line
+between Euclidean and non-Euclidean, and to make the existence of
+the latter appear reasonable, so that when the essayists come to talk
+about it the reader will not feel hopelessly at sea. In other words,
+this is another case of providing the mental background, but on such
+a scale that it has seemed necessary to give a separate chapter to it.
+
+Chapter VI. completes the preliminary course in the fundamentals of
+relativity by tying up together the findings of Chapter V. and those
+of Chapters III. and IV. It represents more or less of a last-minute
+change of plan; for while it had been the Editor's intent from the
+beginning to place the material of Chapters II.-V. in its present
+position, his preliminary impression would have been that the work
+of the present Chapter VI. would be adequately done by the essayists
+themselves. His reading of the essays, however, convinced him that it
+had not so been done--that with the possible exception of Mr. Francis,
+the essayists did not make either a serious or a successful effort to
+show the organic connection between the Special Theory of Relativity
+and the Minkowski space-time structure, or the utter futility of
+trying to reconcile ourselves to the results of the former without
+employing the ideas of the latter. So Chapter VI. was supplied to make
+good this deficiency, and to complete the mental equipment which the
+reader requires for his battle with the General Theory.
+
+In laying down a set of general principles to govern the award of
+the prize, one of the first things considered by the Judges was the
+relative importance of the Special and the General Theories. It was
+their opinion that no essay could possibly qualify for the prize which
+did not very distinctly give to the General Theory the center of the
+stage; and that in fact discussion of the Special Theory was pertinent
+only so long as it contributed, in proportion to the space assigned
+it, to the attack upon the main subject. The same principle has been
+employed in selecting essays for complete or substantially complete
+reproduction in this volume. Writers who dealt with the Special Theory
+in any other sense than as a preliminary step toward the General Theory
+have been relegated to the introductory chapters, where such excerpts
+from their work have been used as were found usable. The distinction
+of publication under name and title is reserved for those who wrote
+consistently and specifically upon the larger subject--with the one
+exception of Dr. Russell, whose exposition of the Special Theory is so
+far the best of those submitted and at the same time so distinctive
+that we have concluded it will appear to better advantage by itself
+than as a part of Chapters III. and IV.
+
+Following after Mr. Bolton's essay we have tried to arrange the various
+contributions, not at all in any order of merit, but in the order
+that will make connected reading of the book most nearly possible
+and profitable. Each essay should be made easier of reading by the
+examination of those preceding it; at the same time each, by the choice
+of ground covered and by the emphasis on points not brought out sharply
+by its predecessors, should throw new light upon these predecessors.
+
+The reader will find that no two of the essays given thus in full
+duplicate or even come close to duplicating one another. They have
+of course been selected with this in view; each represents the best
+of several essays of substantially the same character. Not all of
+them require comment here, but concerning some of them a word may
+well be said.
+
+Mr. Francis, we believe, has succeeded in packing more substance
+into his 3,000 words than any other competitor. Mr. Elliot has come
+closer than anybody else to really explaining relativity in terms
+familiar to everybody, without asking the reader to enlarge his
+vocabulary and with a minimum demand so far as enlarging his mental
+outlook is concerned. Were it not for certain conspicuous defects,
+his essay would probably have taken the prize. In justice to the
+Judges, we should state that we have taken the liberty of eliminating
+Mr. Elliot's concluding paragraph, which was the most objectionable
+feature of his essay.
+
+Dr. Dushman chose for his title the one which we adopted for this
+book. It became necessary, therefore, for us to find a new title for
+his essay; aside from this instance, the main titles appearing at the
+heads of the various complete essays are those of the authors. The
+subtitles have in practically every instance been supplied editorially.
+
+Dr. Pickering submitted two essays, one written from the viewpoint
+of the physicist, the other from that of the astronomer. To make
+each complete, he naturally found it necessary to duplicate between
+them certain introductory and general material. We have run the two
+essays together into a single narrative, with the elimination of this
+duplicated material; aside from this blue-penciling no alteration
+has been made in Dr. Pickering's text. This text however served as
+the basis of blue-penciling that of several other contestants, as
+indicated in the foot notes.
+
+For the reader who is qualified or who can qualify to understand it,
+Dr. Murnaghan's essay is perhaps the most illuminating of all. Even
+the reader who does not understand it all will realize that its author
+brings to the subject a freshness of viewpoint and an originality of
+treatment which are rather lacking in some of the published essays,
+and which it will readily be understood were conspicuously lacking
+in a good many of the unpublished ones. Dr. Murnaghan of all the
+competitors has come closest to making a contribution to science as
+well as to the semi-popular literature of science.
+
+In the composite chapters, the brackets followed by reference numbers
+have been used as the most practicable means of identifying the
+various individual contributions. We believe that this part of the
+text can be read without allowing the frequent occurrence of these
+symbols to distract the eye. As to the references themselves, the
+asterisk marks the contributions of the Editor. The numbers are those
+attached to the essays in order of and at the time of their receipt;
+it has been more convenient to use these than to assign consecutive
+numbers to the quoted essays. The several numbers identify passages
+from the essays of the following contestants:
+
+
+ 10:   Frederick W. Shurlock, Derby, England.
+ 18:   L. L. Whyte, Cambridge, England.
+ 24:   Prof. Moritz Schlick, University of Rostock, Germany.
+ 30:   C. E. Rose, M.E., Little Rock, Ark.
+ 33:   H. Gartelmann, Bremen, Germany.
+ 35:   Prof. Joseph S. Ames, Johns Hopkins University, Baltimore.
+ 47:   James O. G. Gibbons, East Orange. N. J.
+ 82:   Charles H. Burr, Philadelphia.
+101:   L. F. H. de Miffonis. B.A., C.E., Ottawa, Canada.
+102:   Charles A. Brunn, Kansas City.
+106:   J. Elias Fries, Fellow A.I.E.E., Birmingham, Ala.
+114:   Dean W. P. Graham, Syracuse University, Syracuse, N. Y.
+115:   Rev. George Thomas Manley, London.
+116:   Prof. J. A. Schouten, Delft, Netherlands.
+121:   Elwyn F. Burrill, Berkeley, Cal.
+125:   Dorothy Burr, Bryn Mawr, Pa.
+130:   C. W. Kanolt, Bureau of Standards, Washington.
+135:   Robert Stevenson, New York.
+139:   Leopold Schorsch, New York.
+141:   Dr. M. C. Mott-Smith, Los Angeles, Calif.
+147:   Edward A. Clarke, Columbus, O.
+149:   Edward A. Partridge, Philadelphia.
+150:   Col. John Millis, U. S. A., Chicago.
+152:   George F. Marsteller, Detroit.
+156:   D. B. Hall, Cincinnati.
+165:   Francis Farquhar, York, Pa.
+178:   Dr. George de Bothezat, Dayton, O.
+179:   Professor A. E. Caswell, University of Oregon, Eugene, Ore.
+182:   C. E. Dimick, New London, Conn.
+186:   Earl R. Evans, Washington, D. C.
+188:   Norman E. Gilbert, Dartmouth College, Hanover, N. H.
+192:   A. d'Abro. New York.
+194:   L. M. Alexander, Cincinnati.
+197:   Kenneth W. Reed, East Cleveland, O.
+198:   Prof. E. N. da C. Andrade, Ordnance College, Woolwich, England.
+216:   Professor Andrew H. Patterson, University of North Carolina,
+       Chapel Hill, N. C.
+220:   Prof. Arthur Gordon Webster, Clark College, Worcester, Mass.
+221:   Walter van B. Roberts, Princeton University, N. J.
+223:   Paul M. Batchelder, Austin, Tex.
+227:   Prof. R. W. Wood, Johns Hopkins University, Baltimore.
+229:   E. P. Fairbairn, M.C., B.Sc., Glasgow.
+231:   R. F. Deimel, Hoboken, N. J.
+232:   Lieut. W. Mark Angus, U. S. N., Philadelphia.
+235:   Edward Adams Richardson, Kansas City.
+263:   Prof. William Benjamin Smith, Tulane University, New Orleans.
+264:   James Rice, University of London, London.
+267:   William Hemmenway Pratt, Lynn, Mass.
+272:   R. Bruce Lindsay, New Bedford, Mass.
+283:   Frank E. Law, Montclair, N. J.
+
+
+In addition to the specific credit given by these references for
+specifically quoted passages, the Editor feels that he ought to
+acknowledge his general indebtedness to the competing essayists,
+collectively, for the many ideas which he has taken away from their
+text to clothe in his own words. This does not mean that the Editor has
+undertaken generally to improve upon the language of the competitors,
+but merely that the reading of all their essays has given him many
+ideas of such complex origin that he could not assign credit if
+he would.
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+I.--The Einstein $5,000 Prize: How the Contest Came to be Held,
+and Some of the Details of Its Conduct. By the Editor      1
+
+II.--The World--And Us: An Introductory Discussion of the Philosophy
+of Relativity, and of the Mechanism of our Contact with Time and
+Space. By various contributors and the Editor      19
+
+III.--The Relativity of Uniform Motion: Classical Ideas on the
+Subject; the Ether and the Apparent Possibility of Absolute Motion;
+the Michelson-Morley Experiment and the Final Negation of this
+possibility. By various contributors and the Editor      47
+
+IV.--The Special Theory of Relativity: What Einstein's Study of
+Uniform Motion Tells Us About Time and Space and the Nature of the
+External Reality. By various contributors and the Editor      76
+
+V.--That Parallel Postulate: Modern Geometric Methods; the Dividing
+Line Between Euclidean and Non-Euclidean; and the Significance of
+the Latter. By the Editor      111
+
+VI.--The Space-Time Continuum: Minkowski's World of Events, and the
+Way in Which It Fits Into Einstein's Structure. By the Editor and a
+few contributors      141
+
+VII.--Relativity: The Winning Essay in the Contest for the Eugene
+Higgins $5,000 Prize. By Lyndon Bolton, British Patent Office,
+London      169
+
+VIII.--The New Concepts of Time and Space: The Essay in Behalf of
+Which the Greatest Number of Dissenting Opinions Have Been Recorded. By
+Montgomery Francis, New York      181
+
+IX.--The Principle of Relativity: A Statement of What it is All
+About, in Ideas of One Syllable. By Hugh Elliot, Chislehurst, Kent,
+England      195
+
+X.--Space, Time and Gravitation: An Outline of Einstein's Theory of
+General Relativity. By W. de Sitter, University of Leyden      206
+
+XI.--The Principle of General Relativity: How Einstein, to a Degree
+Never Before Equalled, Isolates the External Reality from the
+Observer's Contribution. By E. T. Bell, University of Seattle      218
+
+XII.--Force Vs. Geometry: How Einstein Has Substituted the Second
+for the First in Connection with the Cause of Gravitation. By Saul
+Dushman, Schenectady      230
+
+XIII.--An Introduction to Relativity: A Treatment in which the
+Mathematical Connections of Einstein's Work are Brought Out More
+Strongly and More Successfully than Usual in a Popular Explanation. By
+Harold T. Davis, University of Wisconsin      240
+
+XIV.--New Concepts for Old: What the World Looks Like After Einstein
+Has Had His Way with It. By John G. McHardy, Commander R. N.,
+London      251
+
+XV.--The New World: A Universe in Which Geometry Takes the Place of
+Physics, and Curvature that of Force. By George Frederick Hemens,
+M.C., B.Sc., London      265
+
+XVI.--The Quest of the Absolute: Modern Developments in Theoretical
+Physics, and the Climax Supplied by Einstein. By Dr. Francis
+D. Murnaghan, Johns Hopkins University, Baltimore      276
+
+XVII.--The Physical Side of Relativity: The Immediate Contacts between
+Einstein's Theories and Current Physics and Astronomy. By Professor
+William H. Pickering, Harvard College Observatory, Mandeville,
+Jamaica      287
+
+XVIII.--The Practical Significance of Relativity: The Best Discussion
+of the Special Theory Among All the Competing Essays. By Prof. Henry
+Norris Russell, Princeton University      306
+
+XIX.--Einstein's Theory of Relativity: A Simple Explanation of His
+Postulates and Their Consequences. By T. Royds, Kodaikanal Observatory,
+India      318
+
+XX.--Einstein's Theory of Gravitation: The Discussion of the
+General Theory and Its Most Important Application, from the Essay by
+Prof. W. F. G. Swann, University of Minnesota, Minneapolis      327
+
+XXI.--The Equivalence Hypothesis: The Discussion of This, With Its
+Difficulties and the Manner in Which Einstein Has Resolved Them, from
+the Essay by Prof. E. N. da C. Andrade, Ordnance College, Woolwich,
+England      334
+
+XXII.--The General Theory: Fragments of Particular Merit on This
+Phase of the Subject. By Various Contributors      338
+
+
+
+
+
+
+
+
+
+I.
+
+THE EINSTEIN $5,000 PRIZE
+
+HOW THE CONTEST CAME TO BE HELD, AND SOME OF THE DETAILS OF ITS CONDUCT
+
+BY THE EDITOR
+
+
+In January, 1909, an anonymous donor who was interested in the spread
+of correct scientific ideas offered through the Scientific American a
+prize of $500 for the best essay explaining, in simple non-technical
+language, that paradise of mathematicians and bugaboo of plain
+ordinary folk--the fourth dimension. Many essays were submitted in
+this competition, and in addition to that of the winner some twenty
+were adjudged worthy of ultimate publication. It was felt that the
+competition had added distinctly to the popular understanding of
+this significant subject; that it had done much to clear up popular
+misconception of just what the mathematician means when he talks
+of four or even more dimensions; and that it had therefore been as
+successful as it was unusual in character.
+
+In November, 1919, the world was startled by the announcement from
+London that examination of the photographs taken during the total
+solar eclipse of May 29th had been concluded, and that predictions
+based upon the Einstein theories of relativity had been verified. In
+the reaction from the long surfeit of war news an item of this sort
+was a thoroughly journalistic one. Long cable dispatches were carried
+in the news columns all over the world; Einstein and his theories
+were given a prominent place on the front pages day after day; leading
+scientists in great number were called upon to tell the public through
+the reportorial medium just what the excitement was all about, just
+in what way the classical scientific structure had been overthrown.
+
+Instead of being a mere nine days' wonder, the Einstein theories held
+their place in the public mind. The more serious periodicals devoted
+space to them. First and last, a very notable group of scientific men
+attempted to explain to the general reader the scope and content of
+Einstein's system. These efforts, well considered as they were, could
+be no more than partially successful on account of the very radical
+character of the revisions which the relativity doctrine demands in
+our fundamental concepts. Such revisions cannot be made in a day;
+the average person has not the viewpoint of the mathematician which
+permits a sudden and complete exchange of one set of fundamentals
+for another. But the whole subject had caught the popular attention
+so strongly, that even complete initial failure to discover what it
+was all about did not discourage the general reader from pursuing
+the matter with determination to come to some understanding of what
+had happened to Newton and Newtonian mechanics.
+
+
+
+
+THE DONOR AND THE PRIZE
+
+In May, 1920, Mr. Eugene Higgins, an American citizen long resident
+in Paris, a liberal patron of the arts and sciences, and a lifelong
+friend of the Scientific American and its proprietors, suggested that
+the success of the Fourth Dimension Prize Contest of 1910 had been
+so great that it might be desirable to offer another prize in similar
+fashion for the best popular essay on the Einstein theories. He stated
+that if in the opinion of the Scientific American these theories
+were of sufficient importance, and the probability of getting a
+good number of meritorious essays were sufficiently great, and the
+public need and desire for enlightenment were sufficiently present,
+he would feel inclined to offer such a prize, leaving the conduct
+of the contest to the Scientific American as in the former event. It
+was the judgment of the editors of the Scientific American that all
+these provisos should be met with an affirmative, and that Mr. Higgins
+accordingly could with propriety be encouraged to offer the prize.
+
+In his preliminary letter Mr. Higgins had suggested that in view
+of the apparent greater importance of the subject to be proposed
+for discussion by the contestants of 1920, the prize offered should
+probably be more liberal than in the former instance. This view met
+with the approval of the editors as well; but they were totally
+unprepared for the receipt, late in June, of a cablegram from
+Mr. Higgins stating that he had decided to go ahead with the matter,
+and that he was forwarding a draft for $5,000 to represent the amount
+of the prize. Such a sum, exceeding any award open to a professional
+man with the single exception of the Nobel Prize, for which he cannot
+specifically compete, fairly took the breath of the Editors, and
+made it immediately clear that the contest would attract the widest
+attention, and that it should score the most conspicuous success. It
+also made it clear that the handling of the contest would be a more
+serious matter than had been anticipated.
+
+In spite of the fact that it would not for some time be possible to
+announce the identity of the Judges, it was felt that the prospective
+contestants should have every opportunity for extensive preparation;
+so the contest was announced, and the rules governing it printed
+as far as they could be determined on such short shrift, in the
+Scientific American for July 10, 1920. Several points of ambiguity
+had to be cleared up after this initial publication. In particular,
+it had been Mr. Higgins' suggestion that in the very probable event
+of the Judges' inability to agree upon the winning essay, the prize
+might, at their discretion, be divided between the contributors
+of the best two essays. This condition was actually printed in the
+first announcement, but the Post Office Department insisted upon its
+withdrawal, on the ground that with it in force the contestant would
+not know whether he were competing for $5,000 or for $2,500, and that
+this would introduce the "element of chance" which alone was necessary,
+under the Federal statutes, to make the contest a lottery. So this
+provision was replaced by one to the effect that in the event the
+Judges were not able to agree, the Einstein Editor should cast the
+deciding vote between the essays respectively favored by them.
+
+The announcement attracted the widest attention, and was copied in
+newspapers and magazines all over the world. Inquiries poured in from
+all quarters, and the Einstein Editor found it almost impossible to
+keep himself supplied with proofs of the conditions and rules to mail
+in response to these inquiries. It was immediately clear that there
+was going to be a large number of essays submitted, and that many
+distinguished names would be listed among the competitors.
+
+
+
+
+THE JUDGES
+
+In the Scientific American for September 18, announcement was carried
+in the following words:
+
+"We are assured with complete certainty that the competition for the
+five-thousand-dollar prize will be very keen, and that many essays
+will be submitted which, if they bore the names of their authors, would
+pass anywhere as authoritative statements. The judges will confront a
+task of extraordinary difficulty in the effort to determine which of
+these efforts is the best; and we believe the difficulties are such
+that multiplication of judges would merely multiply the obstacles to
+an agreement. It is altogether likely that the initial impressions
+of two or three or five judges would incline toward two or three
+or five essays, and that any final decision would be attainable
+only after much consultation and discussion. It seems to us that by
+making the committee as small as possible while still preserving the
+necessary feature that its decision represent a consensus, we shall
+simplify both the mental and the physical problem of coming to an
+agreement. We believe that the award should if possible represent
+a unanimous decision, without any minority report, and that such a
+requirement is far more likely to be met among two men than among
+three or five. At the same time, the bringing together of two men and
+the details of general administration of their work together are far
+simpler than if there were three or five. So we have finally decided
+to have but two judges, and in this we have the endorsement of all
+the competent opinion that we have consulted.
+
+"The gentlemen who have consented to act as Judges are Professors
+Leigh Page and Edwin Plimpton Adams, of the departments of physics
+of Yale and Princeton Universities, respectively. Both are of the
+younger generation of physicists that has paid special attention to
+those phases of mathematics and physics involved in the Einstein
+theories, and both have paid special attention to these theories
+themselves. We are gratified to be able to put forward as Judges
+two men so eminently qualified to act. We feel that we may here
+appropriately quote Professor Page, who says in his acceptance:
+'As the large prize offers a great inducement, I had thought of
+entering the contest. However I realize that not many people in
+this country have made a considerable study of Einstein's theory,
+and if all who have should enter the contest, it would be difficult
+to secure suitable Judges.' Without any desire to put the gentleman
+in the position of pleading for himself, we think this suggests very
+well the extent to which the Scientific American, the contestants,
+and the public at large, are indebted to Professors Page and Adams
+for their willingness to serve in the difficult capacity of Judges."
+
+It might appropriately have been added to this announcement that it
+was altogether to the credit of science and the scientific spirit
+that the first two gentlemen approached with the invitation to act
+as Judges were willing to forego their prospects as contestants in
+order thus to contribute to the success of the contest.
+
+
+
+
+THREE THOUSAND WORDS
+
+Of the conditions, the one which evoked most comment was that stating
+the word limit. This limit was decided upon after the most careful
+discussion of the possibilities of the situation. It was not imagined
+for a moment that any contestant would succeed in getting within
+3,000 words a complete discussion of all aspects of the Special
+and the General Theories of Relativity. It was however felt that
+for popular reading a single essay should not be much if any longer
+than this. Moreover, I will say quite frankly that we should never
+have encouraged Mr. Higgins to offer such a prize if we had supposed
+that the winning essay was the only thing of value that would come
+from the contest, or if we had not expected to find in many of the
+other essays material which would be altogether deserving of the
+light. From the beginning we had in view the present volume, and the
+severe restriction in length was deliberately imposed for the purpose
+of forcing every contestant to stick to what he considered the most
+significant viewpoints, and to give his best skill to displaying the
+theories of Einstein to the utmost advantage from these viewpoints. We
+felt that divergent viewpoints would be more advantageously treated in
+this manner than if we gave each contestant enough space to discuss
+the subject from all sides; and that the award of the prize to the
+essay which, among other requirements, seemed to the Judges to embody
+the best choice of material, would greatly simplify the working of the
+contest without effecting any injustice against those contestants who
+displayed with equal skill less happily chosen material. Perhaps on
+this point I may again quote with profit the editorial page of the
+Scientific American:
+
+"An essay of three thousand words is not long enough to lose a
+reader more than once; if it does lose him it is a failure, and if
+it doesn't it is a competitor that will go into the final elimination
+trials for the prize. If we can present, as a result of the contest,
+six or a dozen essays of this length that will not lose the lay reader
+at all, we shall have produced something amply worth the expenditure
+of Mr. Higgins' money and our time. For such a number of essays of
+such character will of necessity present many different aspects of
+the Einstein theories, and in many different ways, and in doing so
+will contribute greatly to the popular enlightenment.
+
+"Really the significant part of what has already appeared is
+not the part that is intelligible, but rather the part that,
+being unintelligible, casts the shadow of doubt and suspicion
+on the whole. The successful competitor for the prize and
+his close contestants will have written essays that, without
+any claim to completeness, will emphasize what seems to each
+author the big outstanding feature; and every one of them will be
+intelligible. Together they will in all probability be reasonably
+complete, and will retain the individual characteristic of
+intelligibility. They will approach the various parts of the field
+from various directions--we could fill this page with suggestions as
+to how the one item of the four-dimensional character of Einstein's
+time-space might be set forth for the general reader. And when a man
+must say in three thousand words as much as he can of what eminent
+scientists have said in whole volumes--well, the result in some cases
+will be sheer failure, and in others a product of the first water. The
+best of the essays will shine through intelligent selection of what
+is to be said, and brilliant success in saying it. It is to get a
+group of essays of this character, not to get the single essay which
+will earn the palm, that the prize is offered."
+
+
+
+
+THE COMPETING ESSAYS
+
+At all times after the first announcement the Einstein Editor had a
+heavy correspondence; but the first real evidence that the contest was
+under way came with the arrival of the first essay, which wandered
+into our office in the middle of September. About a week later they
+began to filter in at the rate of one or two per day--mostly from
+foreign contestants who were taking no chances on the mails. Heavy
+returns did not commence until about ten days before the closing
+date. The great avalanche, however, was reserved for the morning of
+Monday, November 1st. Here we had the benefit of three days' mail;
+there were about 120 essays. Among those which were thrown out on
+the ground of lateness the honors should no doubt go to the man who
+mailed his offering in The Hague on October 31st.
+
+Essays were received in greater quantity from Germany than from any
+other foreign country, doubtless because of the staggering value of
+$5,000 when converted into marks at late 1920 rates. England stood
+next on the list; and one or more essays were received from Austria,
+Czechoslovakia, Jugoslavia, France, Switzerland, the Netherlands,
+Denmark, Italy, Chile, Cuba, Mexico, India, Jamaica, South Africa
+and the Fiji Islands. Canada, of course, contributed her fair share;
+and few of our own states were missing on the roll-call.
+
+The general level of English composition among the essays from
+non-English-speaking sources was about what might have been expected. A
+man may have a thorough utilitarian knowledge of a foreign tongue,
+but when he attempts intensive literary competition with a man who was
+brought up in that tongue he is at a disadvantage. We read French and
+German with ease and Spanish and Italian without too much difficulty,
+ourselves; we should never undertake serious writing in any of these
+languages. Not many of the foreign contributions, of course, were
+as ludicrous as the one we quote to some extent in our concluding
+chapter, but most of them were distinctly below par as literary
+compositions. Drs. De Sitter and Schlick were the notable exceptions
+to this; both showed the ability to compete on a footing of absolute
+equality with the best of the native product.
+
+We dare say it was a foregone conclusion that many essays should have
+been over the limit, and that a few should have been over it to the
+point of absurdity. The winning essay contains 2,919 words, plus or
+minus a reasonable allowance for error in counting; that it should
+come so far from being on the ragged edge should be sufficient answer
+to those who protested against the severity of the limitation. One
+inquirer, by the way, wanted to know if 3,000 words was not a misprint
+for 30,000. Another contestant suggested that instead of disqualifying
+any essay that was over the line, we amputate the superfluous words
+at the end. This was a plausible enough suggestion, since any essay
+able to compete after such amputation must necessarily have been one
+of extreme worth; but fortunately we did not have to decide whether we
+should follow the scheme. Perhaps twenty of the essays submitted were
+so seriously in excess of the limit that it was not even necessary
+to count their words in detail; most of these offenders ran to 3,500
+words or thereabouts, and one--a good one, too, from which we use
+a good deal of material in this volume--actually had 4,700. On the
+other extreme were a few competitors who seemed to think that the
+shortest essay was necessarily the best, and who tried to dismiss
+the subject with 500 or 1,000 words.
+
+By a curious trick of chance there were submitted in competition
+for the prize exactly 300 essays. Of course a few of these did not
+require serious consideration--this is inevitable in a contest of such
+magnitude. But after excluding all the essays that were admittedly
+not about the Einstein theories at all, and all those whose English
+was so execrable as to make them quite out of the question, and all
+those which took the subject so lightly as not to write reasonably
+close to the limit of 3,000 words, and all those which were given
+over to explanation of the manner in which Einstein's theories verify
+those of the writer, and all those in which the writer attempted
+to substitute his own cosmic scheme for Einstein's--after all this,
+there remained some 275 essays which were serious efforts to explain
+in simple terms the nature and content and consequences of Special
+and General Relativity.
+
+
+
+
+LOOKING FOR THE WINNER
+
+The Einstein Editor was in sufficiently close touch with the details
+of the adjudication of the essays to have every realization of
+the difficulty of this work. The caliber of the essays submitted
+was on the whole high. There were many which would have been well
+worthy of the prize in the absence of others that were distinctly
+better--many which it was not possible to eliminate on the ground of
+specific faults, and which could only be adjudged "not the best" by
+detailed comparison with specific other essays. It was this detailed
+comparison which took time, and which so delayed the award that we
+were not able to publish the winning essay any sooner than February
+5th. Especially difficult was this process of elimination after the
+number of surviving essays had been reduced to twenty or less. The
+advantages of plan possessed by one essay had to be weighed against
+those of execution exhibited in another. A certain essay had to be
+critically compared with another so like it in plan that the two might
+have been written from a common outline, and at the same time with
+a third as unlike it in scope and content as day and night. And all
+the time there was present in the background the consciousness that
+a prize of $5,000 hung upon the decision to be reached. For anyone
+who regards this as an easy task we have no worse wish than that he
+may some day have to attack a similar one.
+
+We had anticipated that the bulk of the superior essays would be
+among those received during the last day or two of the contest;
+for we felt that the men best equipped to attack the subject would
+be the most impressed with its seriousness. Here we were quite off
+the track. The seventeen essays which withstood most stubbornly the
+Judges' efforts at elimination were, in order of receipt, numbers 8,
+18, 28, 40, 41, 43, 92, 95, 97, 130, 181, 194, 198, 223, 267, 270, 275:
+a fairly even distribution. The winner was the 92nd essay received.
+
+The Judges held their final meeting in the editorial office on
+January 18, 1921. The four essays which were before the committee
+at the start of the session were speedily cut to three, and then
+to two; and after an all-day session the Judges found themselves
+conscientiously able to agree on one of these as the best. This
+unanimity was especially gratifying, the more so since it by no
+means was to be confidently expected, on a priori grounds, that it
+would be possible of attainment. Even the Einstein Editor, who might
+have been called upon for a final decision but wasn't, can hardly be
+classed as a dissenter; for with some slight mental reservations in
+favor of the essay by Mr. Francis which did not enter the Judges'
+final discussion at all, and which he rather suspects appeals more
+to his personal taste than to his soundest judgment, he is entirely
+in accord with the verdict rendered.
+
+The fact that the prize went to England was no surprise to those
+acquainted with the history of Einstein's theories. The Special Theory,
+promulgated fifteen years ago, received its fair share of attention
+from mathematicians all over the world, and is doubtless as well
+known and as fully appreciated here as elsewhere. But it has never
+been elevated to a position of any great importance in mathematical
+theory, simply because of itself, in the absence of its extension
+to the general case, it deserves little importance. It is merely an
+interesting bit of abstract speculation.
+
+The General Theory was put out by Einstein in finished form during
+the war. Owing to the scientific moratorium, his paper, and hence a
+clear understanding of the new methods and results and of the sweeping
+consequences if the General Theory should prevail, did not attain
+general circulation outside Germany until some time in 1918 or even
+later. Had it not been for Eddington it is doubtful that the British
+astronomers would have realized that the eclipse expeditions were of
+particular consequence. Therefore at the time of these expeditions,
+and even as late as the November announcement of the findings, the
+general body of scientific men in America had not adequately realized
+the immense distinction between the Special and the General Theories,
+had not adequately appreciated that the latter led to distinctive
+consequences of any import, and we fear in many cases had not even
+realized explicitly that the deflection of light and the behavior of
+Mercury were matters strictly of the General and in no sense of the
+Special Theory. Certainly when the American newspapers were searching
+frantically for somebody to interpret to their public the great stir
+made by the British announcement that Einstein's predictions had
+been verified, they found no one to do this decently; nor were our
+magazines much more successful in spite of the greater time they had
+to devote to the search. In a word, there is not the slightest room
+for doubt that American science was in large measure caught asleep
+at the switch--perhaps for no reason within its control; and that
+American writers were in no such favorable case to write convincingly
+on the subject as were their British and continental contemporaries.
+
+So it was quite in accord with what might have been expected to find,
+on opening the identifying envelopes, that not alone the winning essay,
+but its two most immediate rivals, come from members of that school of
+British thought which had been in contact with the Einstein theories
+in their entirety for two years longer than the average American of
+equal competence. This riper familiarity with the subject was bound
+to yield riper fruit. Indeed, had it not been for the handicap of
+writing in a strange language, it is reasonable to assume that the
+scientists of Germany would have made a showing superior to that of
+either Americans or British--and for the same reason that Britain
+showed to better advantage than America.
+
+
+
+
+THE WINNER OF THE PRIZE
+
+Mr. Bolton, the winner of the big prize, we suppose may fairly be
+referred to as unknown in a strict scientific sense. Indeed, at
+the time of the publication of his essay in the Scientific American
+nothing could be learned about him on the American side of the water
+beyond the bare facts that he was not a young man, and that he had
+for a good many years occupied a position of rank in the British
+Patent Office. (It will be recalled that Einstein himself was in the
+Swiss Patent Office for some time.) In response to the request of the
+Scientific American for a brief biographical sketch that would serve
+to introduce him better to our readers, Mr. Bolton supplied such a
+concise and apparently such a characteristic statement that we can
+do no better than quote it verbatim.
+
+"I was born in Dublin in 1860, but I have lived in England since
+1869. My family belonged to the landed gentry class, but I owe nothing
+to wealth or position. I was in fact put through school and college
+on an income which a workman would despise nowadays. After attending
+sundry small schools, I entered Clifton College in 1873. My career
+there was checkered, but it ended well. I was always fairly good at
+natural science and very fond of all sorts of mechanical things. I
+was an honest worker but no use at classics, and as I did practically
+nothing else for the first four years at Clifton, I came to consider
+myself something of a dunce. But a big public school is a little
+world. Everyone gets an opportunity, often seemingly by accident,
+and it is up to him to take it. Mine did not come till I was nearly
+17. As I was intended for the engineering profession, I was sent to
+the military side of the school in order to learn some mathematics,
+at which subject I was then considered very weak. This was certainly
+true, as at that time I barely knew how to solve a quadratic, I was
+only about halfway through the third book of Euclid, and I knew no
+trigonometry. But the teaching was inspiring, and I took readily
+to mathematics. One day it came out that I had been making quite a
+good start with the differential calculus on my own without telling
+anybody. After that all was well. I left Clifton in 1880 with a School
+Exhibition and a mathematical scholarship at Clare College, Cambridge.
+
+"After taking my degree in 1883 as a Wrangler, I taught science and
+mathematics at Wellington College, but I was attracted by what I had
+heard of the Patent Office and I entered it through open competition in
+1885. During my official career I have been one of the Comptroller's
+private secretaries and I am now a Senior Examiner. During the
+war I was attached to the Inventions Department of the Ministry of
+Munitions, where my work related mainly to anti-aircraft gunnery. I
+have contributed, and am still contributing to official publications
+on the subject.
+
+"I have written a fair number of essays on various subjects, even
+on literature, but my only extra-official publications relate to
+stereoscopic photography. I read a paper on this subject before the
+Royal Photographic Society in 1903 which was favorably noticed by
+Dr. von Rohr of Messrs. Zeiss of Jena. I have also written in the
+Amateur Photographer.
+
+"I have been fairly successful at athletics, and I am a member of
+the Leander Club."
+
+That Mr. Bolton did not take the prize through default of serious
+competition should be plain to any reader who examines the text from
+competing essays which is to be found in this volume. The reference
+list of these competitors, too, supplemented by the names that appear
+at the heads of complete essays, shows a notable array of distinguished
+personalities, and I could mention perhaps a dozen more very well
+known men of science whose excellent essays have seemed a trifle too
+advanced for our immediate use, but to whom I am under a good deal
+of obligation for some of the ideas which I have attempted to clothe
+in my own language.
+
+Before leaving the subject, we wish to say here a word of appreciation
+for the manner in which the Judges have discharged their duties. The
+reader will have difficulty in realizing what it means to read such
+a number of essays on such a subject. We were fortunate beyond all
+expectation in finding Judges who combined a thorough scientific
+grasp of the mathematical and physical and philosophical aspects
+of the matter with an extremely human viewpoint which precluded any
+possibility of an award to an essay that was not properly a popular
+discussion, and with a willingness to go to meet each other's opinions
+that is rare, even among those with less ground for confidence in
+their own views than is possessed by Drs. Page and Adams.
+
+
+
+
+
+
+
+
+
+II.
+
+THE WORLD--AND US
+
+An Introductory Discussion of the Philosophy of Relativity, and of
+the Mechanism of Our Contact with Time and Space
+
+BY VARIOUS CONTRIBUTORS AND THE EDITOR
+
+
+From a time beyond the dawn of history, mankind has been seeking
+to explain the universe. At first the effort did not concern itself
+further probably than to make a supposition as to what were the causes
+of the various phenomena presented to the senses. As knowledge
+increased, first by observation and later by experiment also,
+the ideas as to these causes passed progressively through three
+stages--the theological (the causes were thought to be spirits or
+gods); the metaphysical (the causes were thought in this secondary
+or intermediate stage to be some inherent, animating, energizing
+principles); and the scientific (the causes were finally thought of
+as simply mechanical, chemical, and magneto-electrical attractions
+and repulsions, qualities or characteristics of matter itself, or of
+the thing of which matter is itself composed.)
+
+With increase of knowledge, and along with the inquiry as to the nature
+of causes, there arose an inquiry also as to what reality was. What was
+the essential nature of the stuff of which the universe was made, what
+was matter, what were things in themselves, what were the noumena (the
+realities), lying back of the phenomena (the appearances)? Gradually
+ideas explaining motion, force, and energy were developed. At the
+same time inquiry was made as to the nature of man, the working
+of his mind, the nature of thought, the relation of his concepts
+(ideas) to his perceptions (knowledge gained through the sense)
+and the relations of both to the noumena (realities).]283
+
+[The general direction taken by this inquiry has been that of a
+conflict between two schools of thought which we may characterize
+as those of absolutism and of relativism.]* [The ancient Greek
+philosophers believed that they could tap a source of knowledge
+pure and absolute by sitting down in a chair and reasoning about the
+nature of time and space, and the mechanism of the physical world.]221
+[They maintained that the mind holds in its own right certain concepts
+than which nothing is more fundamental. They considered it proper to
+conceive of time and space and matter and the other things presented
+to their senses by the world as having a real existence in the mind,
+regardless of whether any external reality could be identified
+with the concept as ultimately put forth. They could even dispute
+with significance the qualities which were to be ascribed to this
+abstract conceptual time and space and matter. All this was done
+without reference to the external reality, often in defiance of that
+reality. The mind could picture the world as it ought to be; if the
+recalcitrant facts refused to fit into the picture, so much the worse
+for them. We all have heard the tale of how generation after generation
+of Greek philosophers disputed learnedly why and how it was that a live
+fish could be added to a brimming pail of water without raising the
+level of the fluid or increasing the weight; until one day some common
+person conceived the troublesome idea of trying it out experimentally
+to learn whether it were so--and found that it was not. True or false,
+the anecdote admirably illustrates the subordinate place which the
+externals held in the absolutist system of Greek thought.]*
+
+[Under this system a single observer is competent to examine a
+single phenomenon, and to write down the absolute law of nature
+by referring the results to his innate ideas of absolute qualities
+and states. The root of the word absolute signifies "taking away,"
+and in its philosophical sense the word implies the ability of the
+mind to subtract away the properties or qualities from things, and
+to consider these abstract qualities detached from the things; for
+example, to take away the coldness from ice, and to consider pure or
+abstract coldness apart from anything that is cold; or to take away
+motion from a moving body, and to consider pure motion apart from
+anything that moves. This assumed power is based upon the Socratic
+theory of innate ideas. According to this theory the mind is endowed
+by nature with the absolute ideas of hardness, coldness, roundness,
+equality, motion, and all other absolute qualities and states, and
+so does not have to learn them. Thus a Socratic philosopher could
+discuss pure or absolute being, absolute space and absolute time.]121
+
+
+
+
+GETTING AWAY FROM THE GREEK IDEAS
+
+[This Greek mode of thought persisted into the late Middle Ages,
+at which time it was still altogether in order to dispose of a
+troublesome fact of the external world by quoting Aristotle against
+it. During the Renaissance, which intellectually at least marks the
+transition from ancient to modern, there came into being another
+type of absolutism, equally extreme, equally arbitrary, equally
+unjustified. The revolt against the mental slavery to Greek ideas
+carried the pendulum too far to the other side, and early modern
+science as a consequence is disfigured by what we must now recognize
+as gross materialism. The human mind was relegated to the position
+of a mere innocent bystander. The external reality was everything,
+and aside from his function as a recorder the observer did not in the
+least matter. The whole aim of science was to isolate and classify the
+elusive external fact. The rôle of the observer was in every possible
+way minimized. It was of course his duty to get the facts right,
+but so far as any contribution to these was concerned he did not
+count--he was definitely disqualified. He really played the part of
+an intruder; from his position outside the phenomena he was searching
+for the absolute truth about these phenomena. The only difference
+between his viewpoint and that of Aristotle was that the latter looked
+entirely inside himself for the elusive "truth," while the "classical"
+scientist, as we call him now, looked for it entirely outside himself.
+
+Let me illustrate the difference between the two viewpoints which
+I have discussed, and the third one which I am about to outline,
+by another concrete instance. The Greeks, and the medievals as well,
+were fond of discussing a question which embodies the whole of what
+I have been saying. This question involved, on the part of one who
+attempted to answer it, a choice between the observer and the external
+world as the seat of reality. It was put in many forms; a familiar
+one is the following: "If the wind blew down a great tree at a time
+and place where there was no conscious being to hear, would there
+be any noise?" The Greek had to answer this question in the negative
+because to him the noise was entirely a phenomenon of the listener. The
+classical scientist had to answer it in the affirmative because to him
+the noise was entirely a phenomenon of the tree and the air and the
+ground. Today we answer it in the negative, but for a very different
+reason from that which swayed the Greek. We believe that the noise is
+a joint phenomenon of the observer and the externals, so that in the
+absence of either it must fail to take existence. We believe there are
+sound waves produced, and all that; but what of it? There is no noise
+in the presence of the falling tree and the absence of the observer,
+any more than there would be in the presence of the observer and the
+absence of the tree and the wind; the noise, a joint phenomenon of
+the observer and the externals, exists only in their joint presence.
+
+
+
+
+RELATIVISM AND REALITY
+
+This is the viewpoint of relativism. The statue is golden for
+one observer and silver to the other. The sun is rising here and
+setting in another part of the world. It is raining here and clear in
+Chicago. The observer in Delft hears the bombardment of Antwerp and
+the observer in London does not. If they were to be consistent, both
+the Greek and the medieval-modern absolutist would have to dispute
+whether the statue were "really" golden or silver, whether the sun
+were "really" rising or setting, whether the weather were "really"
+fair or foul, whether the bombardment were "really" accompanied by
+loud noises or not; and on each of these questions they would have to
+come to an agreement or confess their methods inadequate. But to the
+relativist the answer is simple--whether this or that be true depends
+upon the observer. In simple cases we understand this full well, as
+we have always realized it. In less simple cases we recognize it less
+easily or not at all, so that some of our thought is absolutist in
+its tendencies while the rest is relativistic. Einstein is the first
+ever to realize this fully--or if not this, then the first ever to
+realize it so fully as to be moved toward a studied effort to free
+human thought from the mixture of relativism and absolutism and make
+it consistently the one or the other.
+
+This brings it about that the observed fact occupies a position of
+unexpected significance. For when we discuss matters of physical
+science under a strictly relativistic philosophy, we must put away as
+metaphysical everything that smacks of a "reality" partly concealed
+behind our observations. We must focus attention upon the reports
+of our senses and of the instruments that supplement them. These
+observations, which join our perceptions to their external objects,
+afford us our only objective manifestations; them we must accept as
+final--subject always to such correction as more refined observations
+may suggest. The question whether a "true" length or area or mass
+or velocity or duration or temperature exists back of the numerical
+determination, or in the presence of a determination that is subject
+to correction, or in the absence of any determination at all, is a
+metaphysical one and one that the physicist must not ask. Length,
+area, mass, velocity, duration, temperature--none of these has any
+meaning other than the number obtained by measurement.]* [If several
+different determinations are checked over and no error can be found
+in any of them, the fault must lie not with the observers but with
+the object, which we must conclude presents different values to
+different observers.]33
+
+[We are after all accustomed to this viewpoint; we do not demand that
+Pittsburgh shall present the same distance from New York and from
+Philadelphia, or that the New Yorker and the Philadelphian come to
+any agreement as to the "real" distance of Pittsburgh. The distance
+of Pittsburgh depends upon the position of the observer. Nor do we
+demand that the man who locates the magnetic pole in one spot in 1900
+and in another in 1921 come to a decision as to where it "really"
+is; we accept his statement that its position depends upon the time
+of the observation.
+
+What this really means is that the distance to Pittsburgh and the
+position of the magnetic pole are joint properties of the observer
+and the observed--relations between them, as we might put it. This
+is obvious enough in the case of the distance of Pittsburgh; it is
+hardly so obvious in the case of the position of the magnetic pole,
+varying with the lapse of time. But if we reflect that the observation
+of 1900 and that of 1921 were both valid, and both represented the
+true position of the pole for the observer of the date in question, we
+must see that this is the only explanation that shows us the way out.
+
+I do not wish to speak too definitely of the Einstein theories in
+these introductory remarks, and so shall refrain from mentioning
+explicitly in this place the situation which they bring up and upon
+which what I have just said has direct bearing. It will be recognized
+when it arises. What must be pointed out here, however, is that we
+are putting the thing which the scientist calls the "observed value"
+on a footing of vastly greater consequence than we should have been
+willing offhand to concede to it. So far as any single observer is
+concerned, his own best observed values are themselves the external
+world; he cannot properly go behind the conditions surrounding
+his observations and speak of a real external world beyond these
+observations. Any world which he may think of as so existing is purely
+a conceptual world, one which for some reason he infers to exist
+behind the deceptive observations. Provided he makes this reservation
+he is quite privileged to speculate about this concealed world, to
+bestow upon it any characteristics that he pleases; but it can have
+no real existence for him until he becomes able to observe it. The
+only reality he knows is the one he can directly observe.
+
+
+
+
+LAWS OF NATURE
+
+The observations which we have been discussing, and which we have
+been trying to endow with characteristics of "reality" which they are
+frequently not realized to possess, are the raw material of physical
+science. The finished product is the result of bringing together a
+large number of these observations.]* [The whole underlying thought
+behind the making of observations, in fact, is to correlate as many
+as possible of them, to obtain some generalization, and finally to
+express this in some simple mathematical form. This formulation is
+then called a "law of nature."]35
+
+[Much confusion exists because of a misunderstanding in the lay mind
+of what is meant by a "law of nature." It is perhaps not a well chosen
+term. One is accustomed to associate the word law with the idea of
+necessity or compulsion. In the realm of nature the term carries
+no such meaning. The laws of nature are man's imperfect attempts to
+explain natural phenomena; they are not inherent in matter and the
+universe, not an iron bar of necessity running through worlds, systems
+and suns. Laws of nature are little more than working hypotheses,
+subject to change or alteration or enlargement or even abandonment,
+as man's vision widens and deepens. No sanctity attaches to them,
+and if any one, or all, of them fail to account for any part, or all,
+of the phenomena of the universe, then it or they must be supplemented
+or abandoned.]102
+
+[The test of one of these laws is that it can be shown to include
+all the related phenomena hitherto known and that it enables us to
+predict new phenomena which can then be verified. If new facts are
+discovered that are not in agreement with one of these generalized
+statements, the assumptions on which the latter is based are examined,
+those which are not in accordance with the new facts are given up,
+and the statement is modified so as to include the new facts.]10
+[And if one remembers that the laws of physics were formerly based
+on a range of observations much narrower than at present available,
+it seems natural that in the light of this widening knowledge one law
+or another may be seen to be narrow and insufficient. New theories
+and laws do not necessarily disprove old ones, but explain certain
+discrepancies in them and penetrate more deeply into their underlying
+principles, thereby broadening our ideas of the universe. To follow the
+new reasoning we must rid ourselves of the prejudice behind the old,
+not because it is wrong but because it is insufficient. The universe
+will not be distorted to fit our rules, but will teach us the rules
+of existence.]125
+
+[Always, however, we must guard against the too easy error of
+attributing to these rules anything like absolute truth.]* [The
+modern scientist has attained a very business-like point of view
+toward his "laws of nature." To him a law is fundamentally nothing
+but a short-hand way of expressing the results of a large number of
+experiments in a single statement. And it is important to remember that
+this mere shortening of the description of a lot of diverse occurrences
+is by no means any real explanation of how and why they happened. In
+other words, the aim of science is not ultimately to explain but only
+to discover the relations that hold good among physical quantities and
+to embody all these relations in as few and as simple physical laws
+as possible.]221 [This is inherently the method of relativism.]*
+[Under it a set of phenomena is observed. There are two or many
+observers, and they write down their several findings. These are
+reviewed by a final observer or judge, who strains out the bias due
+to the different viewpoints of the original observers. He then writes
+down, not any absolute law of nature governing the observed phenomena,
+but a law as general as possible expressing their interrelations.]121
+[And through this procedure modern science and philosophy reveal
+with increasing emphasis that we superimpose our human qualities
+on external nature to such an extent that]106 [we have at once the
+strongest practical justification, in addition to the arguments
+of reason, for our insistence that the contact between objective
+and subjective represented by the observation is the only thing
+which we shall ever be able to recognize as real. We may indulge in
+abstract metaphysical speculation to our heart's content, if we be
+metaphysically inclined; we may not attempt to impose the dicta of
+metaphysics upon the physical scientist.]*
+
+
+
+
+CONCEPTS AND REALITIES
+
+[From the inquiry and criticism which have gone on for centuries has
+emerged the following present-day attitude of mind toward the sum
+total of our knowledge. The conceptual universe in our minds in some
+mysterious way parallels the real universe, but is totally unlike
+it. Our conceptions (ideas) of matter, molecules, atoms, corpuscles,
+electrons, the ether, motion, force, energy, space, and time stand
+in the same or similar relation to reality as the x's and y's of the
+mathematician do to the entities of his problem. Matter, molecules,
+atoms, corpuscles, electrons, the ether, motion, force, energy, space,
+and time do not exist actually and really as we conceive them, nor do
+they have actually and really the qualities and characteristics with
+which we endow them. The concepts are simply representations of things
+outside ourselves; things which, while real, have an essential nature
+not known to us. Matter, molecules, atoms, corpuscles, electrons,
+the ether, motion, force, energy, space and time are merely devices,
+symbols, which enable us to reason about reality. They are parts of
+a conceptual mechanism in our minds which operates, or enables our
+minds to operate, in the same sequence of events as the sequence of
+phenomena in the external universe, so that when we perceive by our
+senses a group of phenomena in the external universe, we can reason
+out what result will flow from the interaction of the realities
+involved, and thus predict what the situation will be at a given
+stage in the sequence.
+
+But while our conceptual universe has thus a mechanical aspect,
+we do not regard the real universe as mechanical in its nature.]283
+[This may be illustrated by a little story. Entering his friend's
+house, a gentleman is seized unawares from behind. He turns his
+head but sees nothing. His hat and coat are removed and deposited
+in their proper places by some invisible agent, seats and tables and
+refreshments appear in due time where they are required, all without
+any apparent cause. The visitor shivers with horror and asks his
+host for an explanation. He is then told that the ideas "order" and
+"regularity" are at work, and that it is they who acquit themselves so
+well of their tasks. These ideas cannot be seen nor felt nor seized
+nor weighed; they reveal their existence only by their thoughtful
+care for the welfare of mankind. I think the guest, coming home,
+will relate that his friend's house is haunted. The ghosts may be
+kind, benevolent, even useful; yet ghosts they are. Now in Newtonian
+mechanics, absolute space and absolute time and force and inertia and
+all the other apparatus, altogether imperceptible, appearing only at
+the proper time to make possible a proper building up of the theory,
+play the same mysterious part as the ideas "order" and "regularity"
+in my story. Classical mechanics is haunted.]116
+
+[As a matter of fact, we realize this and do not allow ourselves to
+be imposed upon with regard to the true nature of these agencies.]*
+[We use a mechanistic terminology and a mechanistic mode of reasoning
+only because we have found by experience that they facilitate our
+reasoning. They are the tools which we find produce results. They
+are adapted to our minds, but perhaps it would be better to say that
+our minds are so constructed as to render our conceptual universe
+necessarily mechanical in its aspect in order that our minds may reason
+at all. Two things antithetic are involved--subject (our perceiving
+mind which builds up concepts) and object (the external reality); and
+having neither complete nor absolute knowledge of either, we cannot
+affirm which is more truly to be said to be mechanistic in its nature,
+though we may suspect that really neither is. We no longer think
+of cause and effect as dictated by inherent necessity, we simply
+regard them as sequences in the routine of our sense-impressions of
+phenomena. In a word, we have at length grasped the idea that our
+notions of reality, at present at least, whatever they may become
+ultimately, are not absolute, but simply relative. We see, too, that
+we do not explain the universe, but only describe our perceptions of
+its contents.
+
+The so-called laws of nature are simply statements of formulæ which
+resume or sum up the relationships and sequences of phenomena. Our
+effort is constantly to find formulæ which will describe the widest
+possible range of phenomena. As our knowledge increases, that is,
+as we perceive new phenomena, our laws or formulæ break down,
+that is, they fail to afford a description in brief terms of all
+of our perceptions. It is not that the old laws are untrue, but
+simply that they are not comprehensive enough to include all of our
+perceptions. The old laws are often particular or limiting instances
+of the new laws.]283
+
+[From what we have said of the reality of observations it follows that
+we must support that school of psychology, and the parallel school
+of philosophy, which hold that concepts originate in perceptions. But
+this does not impose so strong a restriction upon conceptions as might
+appear. The elements of all our concepts do come to us from outside;
+we manufacture nothing out of whole cloth. But when perception
+has supplied a sufficient volume of raw material, we may group its
+elements in ways foreign to actual occurrence in the perceptual world,
+and in so doing get conceptual results so entirely different from
+what we have consciously perceived that we are strongly tempted to
+look upon them as having certainly been manufactured in our minds
+without reference to the externals. Of even more significance is our
+ability to abstract from concrete objects and concrete incidents the
+essential features which make them alike and different. But unlike
+the Greeks, we see that our concept of coldness is not something with
+which we were endowed from the beginning, but merely an abstraction
+from concrete experiences with concrete objects that have been cold.
+
+
+
+
+THE CONCEPTS OF SPACE AND TIME
+
+When we have formed the abstract ideas of coldness and warmth, and
+have had experience indicating that the occurrence of these properties
+varies in degree, we are in a position to form the secondary abstract
+notion covered by the word "temperature." When we have formed the
+abstract ideas of size and position and separation, we are similarly
+in a position to form a secondary abstraction to which we give the name
+"space." Not quite so easy to trace to its definite source but none the
+less clearly an abstraction based on experience, is our idea of what
+we call "time." None of us are deceived as to the reality of these
+abstractions.]* [We do not regard space as real in the sense that
+we regard a chair as real; it is merely an abstract idea convenient
+for the location of material objects like the chair.]198 [Nor do we
+regard time as real in this sense. Things occupy space, events occupy
+time; space and time themselves we realize are immaterial and unreal;
+space does not exist and time does not happen in the same sense that
+material objects exist and events occur. But we find it absolutely
+necessary to have, among the mental machinery mentioned above as
+the apparatus by aid of which we keep track of the external world,
+these vessels for that world to exist in and move in.
+
+Space and time, then, are concepts.]* [It is not strange, however,
+that when confronted with the vast and bewildering complexity of
+the universe and the difficulty of keeping separate and distinct in
+our minds our perceptions and conceptions, we should at times and as
+respects certain things project our conceptions illegitimately into the
+perpetual universe and mistake them for perceptions. The most notable
+example perhaps of this projection has occurred in the very case of
+space and time, most fundamental of all of our concepts. We got to
+think of these as absolute, as independent of each other and of all
+other things, and as always existing and continuing to exist whether
+or not we or anything else existed--space as a three-dimensional,
+uniform continuum, having the same properties in all directions;
+time as a one-dimensional, irreversible continuum, flowing in one
+direction. It is difficult to get back to the idea that space and
+time so described and defined are concepts merely, for the idea of
+their absolute existence is ingrained in us as the result probably
+of long ancestral experience.]283
+
+[Newton's definitions of course represent the classical idea of time
+and space. He tells us that "absolute, true and mathematical time
+flows in virtue of its own nature, uniformly and without reference to
+any external object;" and that "absolute space, by virtue of its own
+nature and without reference to any external object, always remains
+the same and is immovable." Of course from modern standpoints it is
+absurd to call either of these pronouncements a definition; but they
+represent about as well as any words can the ideas which Newton had
+about time and space, and they make it clear enough that he regarded
+both as having real existence in the external world.
+
+If space and time are to be the vessels of our universe, and if the
+only thing that really matters is measured results, it is plain enough
+that we must have, from the very beginning, means of measuring space
+and time. Whether we believe space and time to have real existence or
+not, it is obvious that we can measure neither directly. We shall have
+to measure space by measuring from one material object to another;
+we shall have to measure time by some similar convention based
+on events. We shall later have something further to say about the
+measurement of time; for the present we need only point out that]*
+[Newtonian time is measured independently of space; and the existence
+is presupposed of a suitable timekeeper.]10
+
+[The space of Galileo and Newton was conceived of as empty, except in
+so far as certain parts of it were occupied by matter. Positions of
+bodies in this space were in general determined by reference to]283
+[a "coordinate system" of some kind. This is again something that
+demands a certain amount of discussion.
+
+
+
+
+THE REFERENCE FRAME FOR SPACE
+
+The mathematician, following the lead of the great French all-around
+genius, Descartes, shows us very clearly how to set up, for the
+measurement of space, the framework known as the Cartesian coordinate
+system. The person of most ordinary mathematical attainments
+will realize that to locate a point in a plane we must have two
+measurements; and we could probably show this person, without too
+serious difficulty, that we can locate a point in any surface by
+two measurements. An example of this is the location of points on the
+earth's surface by means of their latitude and longitude. It is equally
+clear that if we add a third dimension and attempt to locate points
+in space, we must add a third measurement. In the case of points on
+the earth's surface, this might be the elevation above sea level,
+which would define the point not as part of the spherical surface
+of the earth but as part of the solid sphere. Or we may fall back
+on Dr. Slosson's suggestion that in order to define completely the
+position of his laboratory, we must make a statement about Broadway,
+and one about 116th Street, and one telling how many flights of stairs
+there are to climb. In any event, it should be clear enough that the
+complete definition of a point in space calls for three measurements.
+
+The mathematician formulates all this with the utmost precision. He
+asks us to]* [pick out any point whatever in space and call it $O$. We
+then draw or conceive to be drawn through this point three mutually
+perpendicular lines called coordinate axes, which we may designate
+$OX$, $OY$ and $OZ$, respectively. Finally, we consider the three
+planes also mutually perpendicular like the two walls and the floor of
+a room that meet in one common corner, which are formed by the lines
+$OX$ and $OY$, $OY$ and $OZ$, and $OZ$ and $OX$, respectively. These
+three planes are called coordinate planes. And then any other point $P$
+in space can be represented with respect to $O$ by its perpendicular
+distances from each of the three coordinate planes--the distances $x$,
+$y$, $z$ in the figure. These quantities are called the coordinates
+of the point.]272
+
+[To the layman there seems something altogether naive in this notion
+of the scientist's setting up the three sides of a box in space and
+using them as the basis of all his work. The layman somehow feels
+that while it is perfectly all right for him to tell us that he
+lives at 1065 (one coordinate) 156th Street (two coordinates) on
+the third floor (three coordinates), it is rather trivial business
+for the serious-minded scientist to consider the up-and-down, the
+forward-and-back, the right-and-left of every point with which he has
+occasion to deal. There seems to the layman something particularly
+inane and foolish and altogether puerile about a set of coordinate
+axes, and you simply can't make him believe that the serious-minded
+scientist has to monkey with any such funny business. He can't be
+induced to take this coordinate-axis business seriously. Nevertheless,
+the fact is that the scientist takes it with the utmost seriousness. It
+is necessary for him to define the positions of points; and he does
+do it by means of a set of coordinate axes.
+
+The scientist, however, is not interested in points of empty space. The
+point is to him merely part again of the conceptual machinery which
+he uses in his effort to run along with the external world. He knows
+there are no real points, but it suits his convenience to keep track
+of certain things that are real by representing them as points. But
+these things are in practically every instance material bodies; and
+in practically every instance, instead of staying put in one spot,
+they insist upon moving about through space. The scientist has to use
+his coordinate system, not merely to define a single position of such
+a "point," but to keep track of the path over which it moves and to
+define its position in that path at given moments.
+
+
+
+
+TIME AND THE COORDINATE SYSTEM
+
+This introduces the concept of time into intimate relationship with
+the spatial coordinate system. And at once we feel the lack of a
+concrete, visualized fourth dimension.]* [If we want to fix objects
+in the floor alone, the edge of the room running toward the ceiling
+would become unnecessary and could be dropped from our coordinate
+system. That is, we need only two coordinates to fix the position of a
+point in a plane. Suppose instead of discarding the third coordinate,
+we use it to represent units of time. It then enables us to record
+the time it took a moving point in the floor to pass from position
+to position. Certain points in the room would be vertically above
+the corresponding points occupied by the moving point in its path
+across the floor; and the vertical height above the floor of such
+points corresponds to a value of the time-coordinate which indicates
+the time it took the point to move from position to position.]152
+[Just as the path of the point across the floor is a continuous curve
+(for the mathematician, it should be understood, this term "curve"
+includes the straight line, as a special case in which the curvature
+happens to be zero); so the series of points above these in the room
+forms a continuous curve which records for us, not merely the path of
+the point across the floor, but in addition the time of its arrival
+at each of its successive positions. In the algebraic work connected
+with such a problem, the third coordinate behaves exactly the same,
+regardless of whether we consider it to represent time or a third
+spatial dimension; we cannot even tell from the algebra what it
+does represent.
+
+When we come to the more general case of a point moving freely through
+space, we have but three coordinates at our disposal; there is not
+a fourth one by aid of which we can actually diagram its time-space
+record. Nevertheless, we can write down the numerical and algebraic
+relations between its three space-coordinates and the time which it
+takes to pass from one position to another; and by this means we can
+make all necessary calculations. Its motion is completely defined
+with regard both to space and to time. We are very apt to call
+attention to the fact that if we did have at our disposal a fourth,
+space-coordinate, we could use it to represent the time graphically,
+as before, and actually construct a geometric picture of the path of
+our moving point with regard to space and time. And on this account
+we are very apt to speak as though the time measurements constituted
+a fourth coordinate, regardless of any question of our ability to
+construct a picture of this coordinate. The arrival of a point in
+a given position constitutes an event; and this event is completely
+defined by means of four coordinates--three in space, which we can
+picture on our coordinate axes, and one in time which we cannot.
+
+The set of coordinate axes in space, together with the zero point from
+which we measure time, constitute what we call a frame of reference. If
+we are not going to pay any attention to time, we can think of the
+space coordinate system alone as constituting our reference frame. This
+expression appears freely throughout the subsequent text, and always
+with one or the other of these interpretations.
+
+We see, then, how we can keep track of a moving point by keeping track
+of the successive positions which it occupies in our reference frame.]*
+[Now we have implied that these coordinate axes are fixed in space;
+but there is nothing to prevent us from supposing that they move.]272
+[If they do, they carry with them all their points; and any motion
+of these points which we may speak about will be merely motion with
+reference to the coordinate system. If we find something outside
+our coordinate system that is not moving, the motion of points in
+our system with regard to those outside it will be a combination of
+their motion with regard to our coordinate axes and that of these axes
+with regard to the external points. This will be a great nuisance;
+and it represents a state of affairs which we shall try to avoid. We
+shall avoid it, if at all, by selecting a coordinate system with
+reference to which we, ourselves, are not moving; one which partakes
+of any motion which we may have. Or perhaps we shall sometimes wish to
+reverse the process, in studying the behavior of some group of bodies,
+and seek a set of axes which is at rest with respect to these bodies;
+one which partakes of any motion they may have.
+
+
+
+
+THE CHOICE OF A COORDINATE FRAME
+
+All this emphasizes the fact that our coordinate axes are not
+picked out for us in advance by nature, and set down in some one
+particular spot. We select them for ourselves, and we select them in
+the most convenient way. But different observers, or perhaps the same
+observer studying different problems, will find it advantageous to
+utilize different coordinate systems.]* [The astronomer has found it
+possible, and highly convenient, to select a coordinate frame such
+that the great majority of the stars have, on the whole, no motion
+with respect to it.]283 [Such a system would be most unsuited for
+investigations confined to the earth; for these we naturally select
+a framework attached to the earth, with its origin O at the earth's
+center if our investigation covers the entire globe and at some more
+convenient point if it does not, and in either event accompanying the
+earth in its rotation and revolution. But such a framework, as well
+as the one attached to the fixed stars, would be highly inconvenient
+for an investigator of the motions of the planets; he would doubtless
+attach his reference frame to the sun.]101
+
+[In this connection a vital question suggests itself. Is the
+expression of natural law independent of or dependent upon the choice
+of a system of coordinates? And to what extent shall we be able to
+reconcile the results of one observer using one reference frame, and
+a second observer using a different one? The answer to the second
+question is obvious.]* [True, if any series of events is described
+using two different sets of axes, the descriptions will be different,
+depending upon the time system adopted and the relative motion of the
+axes. But if the connection between the reference systems is known,
+it is possible by mathematical processes to deduce the quantities
+observed in one system if those observed in the other are known.]35
+[This process of translating the results of one observer into those of
+another is known as a transformation; and the mathematical statement
+of the rule governing the transformation is called the equation or the
+equations (there are usually several of them) of the transformation.]*
+[Transformations of this character constitute a well-developed branch
+of mathematics.]35
+
+[When we inquire about the invariance of natural law it is necessary to
+be rather sure of just what we mean by this expression. The statement
+that a given body is moving with a velocity of 75 miles per hour is of
+course not a natural law; it is a mere numerical observation. But aside
+from such numerical results, we have a large number of mathematical
+relations which give us a more or less general statement of the
+relations that exist between velocities, accelerations, masses,
+forces, times, lengths, temperatures, pressures, etc., etc. There
+are some of these which we would be prepared to state at once as
+universally valid--distance travelled equals velocity multiplied by
+time, for instance. We do not believe that any conceivable change of
+reference systems could bring about a condition in which the product
+of velocity and time, as measured from a certain framework, would
+fail to equal distance as measured from this same framework. There
+are other relations more or less of the same sort which we probably
+believe to be in the same invariant category; there are others,
+perhaps, of which we might be doubtful; and presumably there are
+still others which we should suspect of restricted validity, holding
+in certain reference systems only and not in others.
+
+The question of invariance of natural law, then, may turn out to
+be one which may be answered in the large by a single statement;
+it may equally turn out to be one that has to be answered in the
+small, by considering particular laws in connection with particular
+transformations between particular reference systems. Or, perhaps,
+we may find ourselves justified in taking the stand that an alleged
+"law of nature" is truly such a law only in the event that it is
+independent of the change from one reference system to another. In
+any event, the question may be formulated as follows:
+
+Observer A, using the reference system R, measures certain quantities
+$t$, $w$, $x$, $y$, $z$. Observer B, using the reference system S,
+measures the same items and gets the values $t'$, $w'$, $x'$, $y'$,
+$z'$. The appropriate transformation equations for calculating the
+one set of values from the other is found. If a mathematical relation
+of any sort is found to exist between the values $t$, $w$, $x$, $y$,
+$z$, will the same relation exist between the values $t'$, $w'$,
+$x'$, $y'$, $z'$? If it does not, are we justified in still calling
+it a law of nature? And if it does not, and we refrain from calling
+it such a law, may we expect in every case to find some relation that
+will be invariant under the transformation, and that may therefore
+be recognized as the natural law connecting $t$, $w$, $x$, $y$ and $z$?
+
+I have found it advisable to discuss this point in such detail because
+here more than in any other single place the competing essayists
+betray uncertainty of thought and sloppiness of expression. It doesn't
+amount to much to talk about the invariance of natural laws and
+their persistence as we pass from one coordinate system to another,
+unless we are fairly well fortified with respect to just what we mean
+by invariance and by natural law. We don't expect the velocity of a
+train to be 60 miles per hour alike when we measure it with respect
+to a signal tower along the line and with respect to a moving train
+on the other track. We don't expect the angular displacement of
+Mars to change as rapidly when he is on the other side of the sun
+as when he is on our side. But we do, I think, rather expect that
+in any phenomenon which we may observe, we shall find a natural law
+of some sort which is dependent for its validity neither upon the
+units we employ, nor the place from which we make our measurements,
+nor anything else external to the phenomenon itself. We shall see,
+later, whether this expectation is justified, or whether it will have
+to be discarded in the final unravelling of the absolutist from the
+relativistic philosophy which, with Einstein, we are to undertake.]*
+
+
+
+
+
+
+
+
+
+III
+
+THE RELATIVITY OF UNIFORM MOTION
+
+Classical Ideas on the Subject; the Ether and the Apparent Possibility
+of Absolute Motion; the Michelson-Morley Experiment and the Final
+Negation of This Possibility
+
+BY VARIOUS CONTRIBUTORS AND THE EDITOR
+
+
+When we speak of a body as being "in motion," we mean that this
+body is changing its position "in space." Now it is clear that the
+position of an object can only be determined with reference to other
+objects: in order to describe the place of a material thing we must,
+for example, state its distances from other things. If there were no
+such bodies of reference, the words "position in space" would have
+no definite meaning for us.]24 [The number of such external bodies of
+reference which it is necessary to cite in order to define completely
+the position of a given body in space depends upon the character
+of the space dealt with. We have seen that when we visualize the
+space of our experience as a surface of any character, two citations
+are sufficient; and that when we conceive of it as surrounding us
+in three dimensions we require three. It will be realized that the
+mathematician is merely meeting this requirement when he sets up his
+system of coordinate axes to serve as a reference frame.]*
+
+[What is true of "place" must be true also of "motion," since the
+latter is nothing but change of place. In fact, it would be impossible
+to ascribe a state of motion or of rest to a body poised all alone
+in empty space. Whether a body is to be regarded as resting or as
+moving, and if the latter at what speed, depends entirely upon the
+objects to which we refer its positions in space.]24 [As Einstein
+sits at his desk he appears to us to be at rest; but we know that
+he is moving with the rotation of the earth on its axis, with the
+earth in its orbit about the sun, and with the solar system in its
+path through space--a complex motion of which the parts or the whole
+can be detected only by reference to appropriately chosen ones of the
+heavenly bodies. No mechanical test has ever been devised which will
+detect this motion,]182 [if we reserve for discussion in its proper
+place the Foucault pendulum experiment which will reveal the axial
+rotation of our globe.]* [No savage, if he were to "stand still,"
+could be convinced that he was moving with a very high velocity
+or in fact that he was moving at all.]30 [You drop a coin straight
+down a ship's side: from the land its path appears parabolic; to a
+polar onlooker it whirls circle-wise; to dwellers on Mars it darts
+spirally about the sun; to a stellar observer it gyrates through
+the sky]263 [in a path of many complications. To you it drops in a
+straight line from the deck to the sea.]* [Yet its various tracks
+in ship-space, sea-space, earth-space, sun-space, star-space, are
+all equally real,]263 [and the one which will be singled out for
+attention depends entirely upon the observer, and the objects to
+which he refers the motion.]* [The earth moves in the solar system,
+which is itself approaching a distant star-cluster. But we cannot say
+whether we are moving toward the cluster, or the cluster toward us,]18
+[or both, or whether we are conducting a successful stern chase of it,
+or it of us,]* [unless we have in mind some third body with reference
+to which the motions of earth and star-cluster are measured.]18 [And
+if we have this, the measurements made with reference to it are of
+significance with regard to it, rather than with regard to the earth
+and the star-cluster alone.]*
+
+[We can express all this by saying "All motions are relative; there
+is no such thing as absolute motion." This line of argument has in
+fact been followed by many natural philosophers. But is its result
+in agreement with actual experience? Is it really impossible to
+distinguish between rest and motion of a body if we do not take into
+consideration its relations to other objects? In fact it can easily
+be seen that, at least in many cases, no such distinction is possible.
+
+
+
+
+WHO IS MOVING?
+
+Imagine yourself sitting in a railroad car with veiled windows and
+running on a perfectly straight track with unchanging velocity: you
+would find it absolutely impossible to ascertain by any mechanical
+means whether the car were moving or not. All mechanical instruments
+behave exactly the same, whether the car be standing still or in
+motion.]24 [If you drop a ball you will see it fall to the floor in
+a straight line, just as though you had dropped it while standing on
+the station platform. Furthermore, if you drop the ball from the same
+height in the two cases, and measure the velocities with which it
+strikes the car floor and the station platform, or the times which
+it requires for the descent, you will find these identical in the
+two cases.]182
+
+[Any changes of speed or of direction (as when the car speeds up
+or slows down or rounds a curve) can be detected by observing the
+behavior of bodies in the car, without apparent reference to any
+outside objects. This becomes particularly obvious with sudden
+irregularities of motion, which manifest themselves by shaking
+everything in the car. But a uniform motion in a straight line does
+not reveal itself by any phenomenon within the vehicle.]24
+
+[Moreover, if we remove the veil from our window to the extent that
+we may observe the train on the adjoining track, we shall be able to
+make no decision as to whether we or it be moving. This is indeed an
+experience which we have all had.]* [Often when seated in a train
+about to leave the station, we have thought ourselves under way,
+only to perceive as the motion becomes no longer uniform that another
+train has been backing into the station on the adjoining track. Again,
+as we were hurried on our journey, we have, raising suddenly our eyes,
+been puzzled to say whether the passing train were moving with us or
+against us or indeed standing still; or more rarely we have had the
+impression that both it and we seemed to be at rest, when in truth
+both were moving rapidly with the same speed.]82 [Even this phrase "in
+truth" is a relative one, for it arises through using the earth as an
+absolute reference body. We are indeed naive if we cannot appreciate
+that there is no reason for doing this beyond convenience, and that
+to an observer detached from the earth it were just as reasonable
+to say that the rails are sliding under the train as that the train
+is advancing along the rails. One of my own most vivid childhood
+recollections is of the terror with which, riding on a train that
+passed through a narrow cut, I hid my head in the maternal lap to shut
+out the horrid sight of the earth rushing past my window. The absence
+of a background in relatively slow retrograde motion was sufficient
+to prevent my consciousness from drawing the accustomed conclusion
+that after all it was really the train that was moving.]*
+
+
+
+
+MECHANICAL RELATIVITY
+
+[So we can enunciate the following principle: When a body is in
+uniform rectilinear motion relatively to a second body, then all
+phenomena take place on the first in exactly the same manner as on
+the second; the physical laws for the happenings on both bodies are
+identical.]24 [And between a system of bodies, nothing but relative
+motion may be detected by any mechanical means whatever; any attempt
+to discuss absolute motion presupposes a super-observer on some body
+external to the system. Even then, the "absolute" motion is nothing
+but motion relative to this super-observer. By no mechanical means
+is uniform straight-line motion of any other than relative character
+to be detected. This is the Principle of Mechanical Relativity.
+
+There is nothing new in this. It was known to Galileo, it was known
+to Newton, it has been known ever since. But the curious persistence
+of the human mind in habits of thought which confuse relativity with
+absolutism brought about a state of affairs where we attempted to
+know this and to ignore it at the same time. We shall have to return
+to the mathematical mode of reasoning to see how this happened. The
+mathematician has a way all his own of putting the statement of
+relativity which we have made. He recalls, what we have already seen,
+that the observer on the earth who is measuring his "absolute" motion
+with respect to the earth has merely attached his reference framework
+to the earth; that the passenger in the train who measures all motion
+naively with respect to his train is merely carrying his coordinate
+axes along with his baggage, instead of leaving them on the solid
+ground; that the astronomer who deals with the motion of the earth
+about the sun, or with that of the "fixed" stars against one another,
+does so simply by the artifice of hitching his frame of reference to
+the sun or to one of the fixed stars. So the mathematician points out
+that dispute as to which of two bodies is in motion comes right down
+to dispute as to which of two sets of coordinate axes is the better
+one, the more nearly "natural" or "absolute." He therefore phrases
+the mechanical principle of relativity as follows:
+
+Among all coordinate systems that are merely in uniform straight-line
+motion to one another, no one occupies any position of unique natural
+advantage; all such systems are equivalent for the investigation of
+natural laws; all systems lead to the same laws and the same results.
+
+The mathematician has thus removed the statement of relativity
+from its intimate association with the external observed phenomena,
+and transferred it to the observer and his reference frame. We must
+either accept the principle of relativity, or seek a set of coordinate
+axes that have been singled out by nature as an absolute reference
+frame. These axes must be in some way unique, so that when we refer
+phenomena to them, the laws of nature take a form of exceptional
+simplicity not attained through reference to ordinary axes. Where
+shall we look for such a preferred coordinate system?]*
+
+
+
+
+THE SEARCH FOR THE ABSOLUTE
+
+[Older theory clung to the belief that there was such a thing as
+absolute motion in space.]197 [As the body of scientific law developed
+from the sixteenth century onward, the not unnatural hypothesis crept
+in, that these laws (that is to say, their mathematical formulations
+rather than their verbal statements) would reveal themselves in
+especially simple forms, were it possible for experimenters to make
+their observations from some absolute standpoint; from an absolutely
+fixed position in space rather than from the moving earth.]264
+[Somewhere a set of coordinate axes incapable of motion was to be
+found,]197 [a fixed set of axes for measuring absolute motion; and
+for two hundred years the world of science strove to find it,]147 [in
+spite of what should have been assurance that it did not exist. But
+the search failed, and gradually the universal applicability of the
+principle of relativity, so far as it concerned mechanical phenomena,
+grew into general acceptance.]* [And after the development, by the
+great mathematicians of the eighteenth century, of Newton's laws of
+motion into their most complete mathematical form, it was seen that so
+far as these laws are concerned the absolutist hypothesis mentioned is
+quite unsupported. No complication is introduced into Newton's laws
+if the observer has to make his measurements in a frame of reference
+moving uniformly through space; and for measurements in a frame like
+the earth, which moves with changing speed and direction about the
+sun and rotates on its axis at the same time, the complication is
+not of so decisive a nature as to give us any clue to the earth's
+absolute motion in space.
+
+But mechanics, albeit the oldest, is yet only one of the physical
+sciences. The great advance made in the mathematical formulation
+of optical and electromagnetic theory during the nineteenth century
+revived the hope of discovering absolute motion in space by means of
+the laws derived from this theory.]264 [Newton had supposed light
+to be a material emanation, and if it were so, its passage across
+"empty space" from sun and stars to the earth raised no problem. But
+against Newton's theory Huyghens, the Dutch astronomer, advanced the
+idea that light was a wave motion of some sort. During the Newtonian
+period and for many years after, the corpuscular theory prevailed;
+but eventually the tables were turned.]* [Men made rays of light
+interfere, producing darkness (see page 61). From this, and from
+other phenomena like polarization, they had deduced that light was a
+form of wave motion similar to water ripples; for these interfere,
+producing level surfaces, or reinforce each other, producing waves
+of abnormal height. But if light were to be regarded as a form of
+wave motion--and the phenomena could apparently be explained on no
+other basis--then there must be some medium capable of undergoing
+this form of motion.]135 [Transmission of waves across empty space
+without the aid of an intermediary material medium would be "action
+at a distance," an idea repugnant to us. Trammeled by our tactual,
+wire-pulling conceptions of a material universe, we could not accustom
+ourselves to the idea of something--even so immaterial a something
+as a wave--being transmitted by nothing. We needed a word--ether--to
+carry light if not to shed it; just as we need a word--inertia--to
+carry a projectile in its flight.]231 [It was necessary to invest this
+medium with properties to account for the observed facts. On the whole
+it was regarded as the perfect fluid.]235 [The ether was imagined as
+an all-pervading, imponderable substance filling the vast emptiness
+through which light reaches us, and as well the intermolecular spaces
+of all matter. Nothing more was known definitely, yet this much served
+as a good working hypothesis on the basis of which Maxwell was enabled
+to predict the possibility of radio communication. By its fruits the
+ether hypothesis justified itself; but does the ether exist?]231
+
+
+
+
+THE ETHER AND ABSOLUTE MOTION
+
+[If it does exist, it seems quite necessary, on mere philosophical
+grounds, that it shall be eligible to serve as the long-sought
+reference frame for absolute motion. Surely it does not make sense to
+speak of a homogeneous medium filling all space, sufficiently material
+to serve as a means of communication between remote worlds, and in
+the next breath to deny that motion with respect to this medium is a
+concept of significance.]* [Such a system of reference as was offered
+by the ether, coextensive with the entire known region of the universe,
+must necessarily serve for all motions within our perceptions.]186
+[The conclusion seems inescapable that motion with respect to the
+ether ought to be of a sufficiently unique character to stand out
+above all other motion. In particular, we ought to be able to use the
+ether to define, somewhere, a system of axes fixed with respect to
+the ether, the use of which would lead to natural laws of a uniquely
+simply description.
+
+Maxwell's work added fuel to this hope.]* [During the last century,
+after the units of electricity had been defined, one set for static
+electrical calculations and one for electromagnetic calculations, it
+was found that the ratio of the metric units of capacity for the two
+systems was numerically equal to what had already been found as the
+velocity with which light is transmitted through the hypothetical
+ether. One definition refers to electricity at rest, the other
+to electricity in motion. Maxwell, with little more working basis
+than this, undertook to prove that electrical and optical phenomena
+were merely two aspects of a common cause,]235 [to which the general
+designation of "electromagnetic waves" was applied. Maxwell treated
+this topic in great fullness and with complete success. In particular,
+he derived certain equations giving the relations between the various
+electrical quantities involved in a given phenomenon. But it was
+found, extraordinarily enough, that these relations were of such
+character that, when we subject the quantities involved to a change
+of coordinate axes, the transformed quantities did not preserve these
+relations if the new axes happened to be in motion with respect to
+the original ones. This, of course, was taken to indicate that motion
+really is absolute when we come to deal with electromagnetic phenomena,
+and that the ether which carries the electromagnetic waves really may
+be looked to to display the properties of an absolute reference frame.
+
+Reference to the phenomenon of aberration, which Dr. Pickering has
+discussed adequately in his essay and which I need therefore mention
+here only by name, indicated that the ether was not dragged along
+by material bodies over and through which it might pass. It seemed
+that it must filter through such bodies, presumably via the molecular
+interstices, without appreciable opposition. Were this not the case,
+we should be in some doubt as to the possibility of observing the
+velocity through the ether of material bodies; if the ether adjacent
+to such bodies is not dragged along or thrown into eddies, but "stands
+still" while the bodies pass, there seems no imaginable reason for
+anything other than the complete success of such observations. And
+of course these are of the utmost importance, the moment we assign
+to the ether the rôle of absolute reference frame.
+
+
+
+
+THE EARTH AND THE ETHER
+
+One body in motion with respect to the ether is our earth itself. We
+do not know in advance in what direction to expect this motion or what
+magnitude to anticipate that it will have. But one thing is clear.]*
+[In its motion around the sun, the earth has, at opposite points on its
+orbit, a difference in velocity with respect to the surrounding medium
+which is double its orbital velocity with respect to the sun. This
+difference comes to 37 miles per second. The earth should therefore,
+at some time in the year, show a velocity equal to or greater than
+18 1/2 miles per second, with reference to the universal medium. The
+famous Michelson-Morley experiment of 1887 was carried out with the
+expectation of observing this velocity.]267
+
+[The ether, of course, and hence velocities through it, cannot be
+observed directly. But it acts as the medium for the transmission of
+light.]* [If the velocity of light through the ether is $C$ and that
+of the earth through the ether is $v$, then the velocity of light
+past the earth, so the argument runs, must vary from $C-v$ to $C+v$,
+according as the light is moving exactly in the same direction as the
+earth, or in the opposite direction,]182 [or diagonally across the
+earth's path so as to get the influence only of a part of the earth's
+motion. This of course assumes that $C$ has always the same value;
+an assumption that impresses one as inherently probable, and one that
+is at the same time in accord with ordinary astronomical observation.
+
+It is not possible to measure directly the velocity of light (186,330
+miles per second, more or less) with sufficient accuracy to give any
+meaning to the variation in this velocity which might be effected by
+adding or subtracting that of the earth in its orbit (a mere 18 1/2
+miles per second). It is, however, possible to play a trick on the
+light by sending it back and forth over several paths, and comparing
+(not measuring absolutely, but merely comparing) with great minuteness
+the times consumed in these several round trips.
+
+
+
+
+A JOURNEY UPSTREAM AND BACK
+
+The number of letters the Scientific American has received questioning
+the Michelson-Morley experiment indicates that many people are not
+acquainted with the fundamental principle on which it is based. So
+let us look at a simple analogous case. Suppose a swimmer or a rower
+make a return trip upstream and down, contending with the current
+as he goes up and getting its benefit when he comes down. Obviously,
+says snap judgment, since the two legs of the journey are equal, he
+derives exactly as much benefit from the current when he goes with it
+as he suffers handicap from it when he goes against it; so the round
+trip must take exactly the same time as a journey of the same length
+in still water, the argument applying equally in the case where the
+"swimmer" is a wave of light in the ether stream.
+
+But let us look now at a numerical case. A man can row in still water
+at four miles per hour. He rows twelve miles upstream and back, in a
+current of two miles per hour. At a net speed of two miles per hour
+he arrives at his turning point in six hours. At a net speed of six
+miles per hour he makes the down-stream leg in two hours. The elapsed
+time for the journey is eight hours; in still water he would row the
+twenty-four miles in six hours.
+
+If we were to attempt an explanation of this result in words we should
+say that by virtue of the very fact that it does delay him, the adverse
+current prolongs the time during which it operates; while by virtue of
+the very fact that it accelerates his progress, the favoring current
+shortens its venue. The careless observer realizes that distances are
+equal between the two legs of the journey, and unconsciously assumes
+that times are equal.
+
+If the journey be made directly with and directly against the stream
+of water or ether or what not, retardation is effected to its fullest
+extent. If the course be a diagonal one, retardation is felt to an
+extent measurable as a component, and depending for its exact value
+upon the exact angle of the path. Felt, however, it must always be.
+
+Here is where we begin to get a grip on the problem of the earth
+and the ether. In any problem involving the return-trip principle,
+there will enter two velocities--that of the swimmer and that of the
+medium; and the time of retardation. If we know any two of these items
+we can calculate the third. When the swimmer is a ray of light and the
+velocity of the medium is that of the ether as it flows past the earth,
+we know the first of these two; we hope to observe the retardation
+so that we may calculate the second velocity. The apparatus for the
+experiment is ingenious and demands description.
+
+
+
+
+THE MICHELSON-MORLEY EXPERIMENT
+
+The machine is of structural steel, weighing 1,900 pounds. It has two
+arms which form a Greek cross. Each arm is 14 feet in length. The whole
+apparatus is floated in a trough containing 800 pounds of mercury.
+
+Four mirrors are arranged on the end of each arm, sixteen in all,
+with a seventeenth mirror, M, set at one of the inside corners of the
+cross, as diagrammed. A source of light (in this case a calcium flame)
+is provided, and its rays directed by a lens toward the mirror M. Part
+of the light is allowed to pass straight through M to the opposite
+arm of the cross, where it strikes mirror 1. It is reflected back
+across the arm to mirror 2, thence to 3, and so on until it reaches
+mirror 8. Thence it is reflected back to mirror 7, to 6, and so on,
+retracing its former path, and finally is caught by the reverse side
+of the mirror M and is sent to an observer at O. In retracing its
+path the light sets up an interference phenomenon (see below) and the
+interference bands are visible to the observer, who is provided with
+a telescope to magnify the results.
+
+A second part of the original light-beam is reflected off at right
+angles by the mirror M, and is passed to and fro on the adjacent arms
+of the machine, in exactly the same manner and over a similar path,
+by means of the mirrors I, II, III, ... VIII. This light finally
+reaches the observer at the telescope, setting up a second set of
+interference bands, parallel to the first.
+
+A word now about this business of light interference. Light is a wave
+motion. The length of a wave is but a few millionths of an inch,
+and the amplitude is correspondingly minute; but none the less,
+these waves behave in a thoroughly wave-like manner. In particular,
+if the crests of two waves are superposed, there is a double effect;
+while if a crest of one wave falls with a trough of another, there
+is a killing-off or "interference".
+
+Under ordinary circumstances interference of light waves does not
+occur. This is simply because under ordinary circumstances light waves
+are not piled up on one another. But sometimes this piling up occurs;
+and then, just so sure as the piled-up waves are in the same phase
+they reinforce one another, while if they are in opposite phase they
+interfere. And the conditions which we have outlined above, with the
+telescope and the mirrors and the ray of light retracing the path
+over which it went out, are conditions under which interference does
+occur. If the returning wave is in exact phase with the outgoing one,
+the effect is that of uniform double illumination; if it is in exactly
+opposite phase the effect is that of complete extinguishing of the
+light, the reversed wave exactly cancelling out the original one. If
+the two rays are partly in phase, there is partial reinforcement or
+partial cancelling out, according to whether they are nearly in phase
+or nearly out of phase. Finally, if the mirrors are not set absolutely
+parallel--as must in practice be the case when we attempt to measure
+their parallelism in terms of the wave-length of light--adjacent
+parts of the light ray will vary in the extent to which they are out
+of phase, since they will have travelled a fraction of a wave-length
+further to get to and from this, that or the other mirror. There
+will then appear in the telescope alternate bands of illumination
+and darkness, whose width and spacing depend upon all the factors
+entering into the problem.
+
+If it were possible for us to make the apparatus with such a degree
+of refinement that the path from mirror M via mirrors 1, 2, 3, etc.,
+back through M and into the telescope, were exactly the same length
+as that from flame to telescope by way of the mirrors I, II, III,
+etc.--exactly the same to a margin of error materially less than a
+single wave-length of light--why, then, the two sets of interference
+fringes would come out exactly superposed provided the motion of
+the earth through the "ether" turn out to have no influence upon the
+velocity of light; or, if such influence exist, these fringes would
+be displaced from one another to an extent measuring the influence in
+question. But our ability to set up this complicated pattern of mirrors
+at predetermined distances falls far short of the wave-length as a
+measure of error. So in practice all that we can say is that having
+once set the instrument up, and passed a beam of light through it,
+there will be produced two sets of parallel interference fringes. These
+sets will fail of superposition--each fringe of one set will be removed
+from the corresponding fringe of the other set--by some definite
+distance. Then, any subsequent variation in the speed of light along
+the two arms will at once be detected by a shifting of the interference
+bands through a distance which we shall be able to measure.
+
+
+
+
+THE VERDICT
+
+Under the theories and assumptions governing at the time of the
+original performance of this experiment, it will be readily seen that
+if this machine be set up in an "ether stream" with one arm parallel
+to the direction of the stream and the other at right angles thereto,
+there will be a difference in the speed of the light along the two
+arms. Then if the apparatus be shifted to a position oblique to the
+ether stream, the excess velocity of the light in the one arm would
+be diminished, and gradually come to zero at the 45-degree angle,
+after which the light traveling along the other arm would assume the
+greater speed. In making observations, therefore, the entire apparatus
+was slowly rotated, the observers walking with it, so that changes
+of the sort anticipated would be observed.
+
+The investigators were, however, ignorant of the position in which the
+apparatus ought to be set to insure that one of the arms lie across
+the ether drift; and they were ignorant of the time of year at which
+the earth's maximum velocity through the ether was to be looked for. In
+particular, it is plain that if the solar system as a whole is moving
+through the ether at a rate less than the earth's orbital velocity,
+there is a point in our orbit where our velocity through the ether
+and that around the sun just cancel out and leave us temporarily in
+a state of "absolute rest." So it was anticipated that the experiment
+might have to be repeated in many orientations of the machine and at
+many seasons of the year in order to give a series of readings from
+which the true motion of the earth through the ether might be deduced.
+
+For those who have a little algebra the demonstration which Dr. Russell
+gives on a subsequent page will be interesting as showing the
+situation in perfectly general terms. It will be realized that the
+more complicated arrangement of mirrors in the experiment as just
+described is simply an eightfold repetition of the simple experiment
+as outlined by Dr. Russell, and that it was done so for the mere
+sake of multiplying by eight the distances travelled and hence the
+difference in time and in phase.
+
+And now for the grand climax. The experiment was repeated many times,
+with the original and with other apparatus, indoors and outdoors, at
+all seasons of the year, with variation of every condition that could
+imaginably affect the result. The apparatus was ordinarily such that a
+shift in the fringes of anywhere from one-tenth to one one-hundredth
+of that which would have followed from any reasonable value for
+the earth's motion through the ether would have been systematically
+apparent. The result was uniformly negative. At all times and in all
+directions the velocity of light past the earth-bound observer was
+the same. The earth has no motion with reference to the ether!
+
+[The amazing character of this result is not by any possibility to
+be exaggerated.]* [According to one experiment the ether was carried
+along by a rapidly moving body and according to another equally
+well-planned and well-executed experiment a rapidly moving body did
+not disturb the ether at all. This was the blind alley into which
+science had been led.]232
+
+
+
+
+THE "CONTRACTION" HYPOTHESIS
+
+[Numerous efforts were made to explain the contradiction.]* [It
+is indeed a very puzzling one, and it gave physicists no end of
+trouble. However Lorentz and Fitzgerald finally put forward an
+ingenious explanation, to the effect that the actual motion of
+the earth through the ether is balanced, as far as the ability of
+our measuring instruments is concerned, by a contraction of these
+same instruments in the direction of their motion. This contraction
+obviously cannot be observed directly because all bodies, including
+the measuring instruments themselves (which after all are only
+arbitrary guides), will suffer the contraction equally. According to
+this theory, called the Lorentz-Fitzgerald contraction theory,]272
+[all bodies in motion suffer such contraction of their length in the
+direction of their motion;]283 [the contraction being made evident
+by our inability to observe the absolute motion of the earth, which
+it is assumed must exist.]272 [This would suffice to show why the
+Michelson-Morley experiment gave a negative result, and would preserve
+the concept of absolute motion with reference to the ether.]283
+
+[This proposal of Lorentz and Fitzgerald loses its startling aspect
+when we consider that all matter appears to be an electrical structure,
+and that the dimensions of the electric and magnetic fields which
+accompany the electrons of which it is constituted change with the
+velocity of motion.]267 [The forces of cohesion which determine the
+form of a rigid body are held to be electromagnetic in nature; the
+contraction may be regarded as due to a change in the electromagnetic
+forces between the molecules.]10 [As one writer has put it, the
+orientation, in the electromagnetic medium, of a body depending for
+its very existence upon electromagnetic forces is not necessarily a
+matter of indifference.]*
+
+[Granting the plausibility of all this, on the basis of an
+electromagnetic theory of matter, it leaves us in an unsatisfactory
+position. We are left with a fixed ether with reference to which
+absolute motion has a meaning, but that motion remains undetected and
+apparently undetectable. Further, if we on shore measure the length
+of a moving ship, using a yard-stick which is stationary on shore,
+we shall obtain one result. If we take our stick aboard it contracts,
+and so we obtain a greater length for the ship. Not knowing our
+"real" motion through the ether, we cannot say which is the "true"
+length. Is it not, then, more satisfactory to discard all notion
+of true length as an inherent quality of bodies, and, by regarding
+length as the measure of a relation between a particular object and
+a particular observer, to make one length as true as the other?]182
+[The opponents of such a viewpoint contend that Michelson's result
+was due to a fluke; some mysterious counterbalancing influence was
+for some reason at work, concealing the result which should normally
+have been expected. Einstein refuses to accept this explanation;]192
+[he refuses to believe that all nature is in a contemptible conspiracy
+to delude us.]*
+
+[The Fitzgerald suggestion is further unsatisfactory because it
+assumes all substances, of whatever density, to undergo the same
+contraction; and above all for the reason that it sheds no light upon
+other phenomena.]194 [It is indeed a very special explanation; that
+is, it applies only to the particular experiment in question. And
+indeed it is only one of many possible explanations. Einstein
+conceived the notion that it might be infinitely more valuable to
+take the most general explanation possible, and then try to find
+from this its logical consequences. This "most general explanation"
+is, of course, simply that it is impossible in any way whatever to
+measure the absolute motion of a body in space.]272 [Accordingly
+Einstein enunciated, first the Special Theory of Relativity, and
+later the General Theory of Relativity. The special theory was so
+called because it was, limited to uniform rectilinear and non-rotary
+motions. The general theory, on the other hand, dealt not only with
+uniform rectilinear motions, but with any arbitrary motion whatever.
+
+
+
+
+TAKING THE BULL BY THE HORNS
+
+The hypothesis of relativity asserts that there can be no such concept
+as absolute position, absolute motion, absolute time; that space and
+time are inter-dependent, not independent; that everything is relative
+to something else. It thus accords with the philosophical notion of
+the relativity of all knowledge.]283 [Knowledge is based, ultimately,
+upon measurement; and clearly all measurement is relative, consisting
+merely in the application of a standard to the magnitude measured. All
+metric numbers are relative; dividing the unit multiplies the metric
+number. Moreover, if measure and measured change proportionately,
+the measuring number is unchanged. Should space with all its contents
+swell in fixed ratio throughout, no measurement could detect this;
+nor even should it pulse uniformly throughout. Furthermore, were
+space and space-contents in any way systematically transformed (as by
+reflection in curved mirrors) point for point, continuously, without
+rending, no measurement could reveal this distortion; experience
+would proceed undisturbed.]263
+
+[Mark Twain said that the street in Damascus "which is called
+straight," is so called because while it is not as straight as a
+rainbow it is straighter than a corkscrew. This expresses the basic
+idea of relativity--the idea of comparison. All our knowledge is
+relative, not absolute. Things are big or little, long or short,
+light or heavy, fast or slow, only by comparison. An atom may be
+as large, compared to an electron, as is a cathedral compared to
+a fly. The relativity theory of Einstein emphasizes two cases of
+relative knowledge; our knowledge of time and space, and our knowledge
+of motion.]216 [And in each case, instead of allowing the notions of
+relativity to guide us only so far as it pleases us to follow them,
+there abandoning them for ideas more in accord with what we find
+it easy to take for granted, Einstein builds his structure on the
+thesis that relativity must be admitted, must be followed out to the
+bitter end, in spite of anything that it may do to our preconceived
+notions. If relativity is to be admitted at all, it must be admitted
+in toto; no matter what else it contradicts, we have no appeal from
+its conclusions so long as it refrains from contradicting itself.]*
+
+[The hypothesis of relativity was developed by Einstein through
+a priori methods, not the more usual a posteriori ones. That is,
+certain principles were enunciated as probably true, the consequences
+of these were developed, and these deductions tested by comparison of
+the predicted and the observed phenomena. It was in no sense attained
+by the more usual procedure of observing groups of phenomena and
+formulating a law or formula which would embrace them and correctly
+describe the routine or sequence of phenomena.
+
+The first principle thus enunciated is that it is impossible to
+measure or detect absolute translatory motion through space, under
+any circumstances or by any means. The second is that the velocity of
+light in free space appears the same to all observers regardless of
+the relative motion of the source of light and the observer. This
+velocity is not affected by motion of the source toward or away
+from the observer,]283 [if we may for the moment use this expression
+with its implication of absolute motion.]* [But universal relativity
+insists that motion of the source toward the observer is identical
+with motion of the observer toward the source.]283
+
+[It will be seen that we are at once on the horns of a dilemma. Either
+we must give up relativity before we get fairly started on it, or we
+must overturn the foundations of common sense by admitting that time
+and space are so constituted that when we go to meet an advancing
+light-impulse, or when we retreat from it, it still reaches us with
+the same velocity as though we stood still waiting for it. We shall
+find when we are through with our investigation that common sense is
+at fault; that our fixed impression of the absurdity of the state of
+affairs just outlined springs from a confusion between relativism
+and absolutism which has heretofore dominated our thought and gone
+unquestioned. The impression of absurdity will vanish when we have
+resolved this confusion.]*
+
+
+
+
+QUESTIONS OF COMMON SENSE
+
+[But it is obvious from what has just been said that if we are to
+adopt Einstein's theory, we must make very radical changes in some of
+our fundamental notions, changes that seem in violent conflict with
+common sense. It is unfortunate that many popularizers of relativity
+have been more concerned to astonish their readers with incredible
+paradoxes than to give an account such as would appeal to sound
+judgment. Many of these paradoxes do not belong essentially to the
+theory at all. There is nothing in the latter that an enlarged and
+enlightened common sense would not readily endorse. But common sense
+must be educated up to the necessary level.]141
+
+[There was a time when it was believed, as a result of centuries of
+experience, that the world was flat. This belief checked up with the
+known facts, and it could be used as the basis for a system of science
+which would account for things that had happened and that were to
+happen. It was entirely sufficient for the time in which it prevailed.
+
+Then one day a man arose to point out that all the known facts were
+equally accounted for on the theory that the earth was a sphere. It
+was in order for his contemporaries to admit this, to say that so far
+as the facts in hand were concerned they could not tell whether the
+earth was flat or round--that new facts would have to be sought that
+would contradict one or the other hypothesis. Instead of this the
+world laughed and insisted that the earth could not be round because
+it was flat; that it could not be round because then the people would
+fall off the other side.
+
+But the field of experimentation widened, and men were able to observe
+facts that had been hidden from them. Presently a man sailed west and
+arrived east; and it became clear that in spite of previously accepted
+"facts" to the contrary, the earth was really round. The previously
+accepted "facts" were then revised to fit the newly discovered truth;
+and finally a new system of science came into being, which accounted
+for all the old facts and all the new ones.
+
+At intervals this sort of thing has been repeated. A Galileo shows
+that preconceived ideas with regard to the heavens are wrong, and
+must be revised to accord with his newly promulgated principles. A
+Newton does the same for physics--and people unlearn the "fact"
+that motion has to be supported by continued application of force,
+substituting the new idea that it actually requires force to stop a
+moving body. A Harvey shows that the things which have been "known"
+for generations about the human body are not so. A Lyell and a Darwin
+force men to throw overboard the things they have always believed about
+the way in which the earth and its creatures came into being. Every
+science we possess has passed through one or more of these periods
+of readjustment to new facts.
+
+
+
+
+SHIFTING THE MENTAL GEARS
+
+Now we are apt to lose sight of the true significance of this. It
+is not alone our opinions that are altered; it is our fundamental
+concepts. We get concepts wholly from our perceptions, making them
+to fit those perceptions. Whenever a new vista is opened to our
+perceptions, we find facts that we never could have suspected from the
+restricted viewpoint. We must then actually alter our concepts to make
+the new facts fit in with the greatest degree of harmony. And we must
+not hesitate to undertake this alteration, through any feeling that
+fundamental concepts are more sacred and less freely to be tampered
+with than derived facts.]* [We do, to be sure, want fundamental
+concepts that are easy for a human mind to conceive; but we also
+want our laws of nature to be simple. If the laws begin to become,
+intricate, why not reshape, somewhat, the fundamental concepts, in
+order to simplify the scientific laws? Ultimately it is the simplicity
+of the scientific system as a whole that is our principal aim.]178
+
+[As a fair example, see what the acceptance of the earth's sphericity
+did to the idea represented by the word "down." With a flat earth,
+"down" is a single direction, the same throughout the universe; with
+a round earth, "down" becomes merely the direction leading toward
+the center of the particular heavenly body on which we happen to be
+located. It is so with every concept we have. No matter how intrinsic
+a part of nature and of our being a certain notion may seem, we can
+never know that new facts will not develop which will show it to be a
+mistaken one. Today we are merely confronted by a gigantic example of
+this sort of thing. Einstein tells us that when velocities are attained
+which have just now come within the range of our close investigation,
+extraordinary things happen--things quite irreconcilable with our
+present concepts of time and space and mass and dimension. We are
+tempted to laugh at him, to tell him that the phenomena he suggests
+are absurd because they contradict these concepts. Nothing could be
+more rash than this.
+
+When we consider the results which follow from physical velocities
+comparable with that of light, we must confess that here are
+conditions which have never before been carefully investigated. We
+must be quite as well prepared to have these conditions reveal some
+epoch-making fact as was Galileo when he turned the first telescope
+upon the skies. And if this fact requires that we discard present
+ideas of time and space and mass and dimension, we must be prepared
+to do so quite as thoroughly as our medieval fathers had to discard
+their notions of celestial "perfection" which demanded that there
+be but seven major heavenly bodies and that everything center about
+the earth as a common universal hub. We must be prepared to revise
+our concepts of these or any other fundamentals quite as severely as
+did the first philosopher who realized that "down" in London was not
+parallel to "down" in Bagdad or on Mars.]*
+
+[In all ordinary terrestrial matters we take the earth as a fixed
+body, light as instantaneous. This is perfectly proper, for such
+matters. But we carry our earth-acquired habits with us into the
+celestial regions. Though we have no longer the earth to stand on,
+yet we assume, as on the earth, that all measurements and movements
+must be referred to some fixed body, and are only then valid. We cling
+to our earth-bound notion that there is an absolute up-and-down,
+back-and-forth, right-and-left, in space. We may admit that we can
+never find it, but we still think it is there, and seek to approach
+it as nearly as possible. And similarly from our earth experiences,
+which are sufficiently in a single place to make possible this
+simplifying assumption, we get the idea that there is one universal
+time, applicable at once to the entire universe.]141 [The difficulty
+in accepting Einstein is entirely the difficulty in getting away from
+these earth-bound habits of thought.]*
+
+
+
+
+
+
+
+
+

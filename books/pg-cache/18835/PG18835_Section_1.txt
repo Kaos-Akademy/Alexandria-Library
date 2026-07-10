@@ -1,0 +1,965 @@
+The Project Gutenberg eBook of The Concept of Nature
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Concept of Nature
+
+Author: Alfred North Whitehead
+
+
+        
+Release date: July 16, 2006 [eBook #18835]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/18835
+
+Credits: Produced by Janet Kegg, Laura Wisewell and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+Produced by Janet Kegg, Laura Wisewell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+  +------------------------------------------------------------------+
+  |                                                                  |
+  | Transcriber's Note: In the parts containing mathematical         |
+  | notation, superscripts are denoted using a carat and subscripts  |
+  | using underscores, for example x^2, e_1, e_{n+1}. Greek          |
+  | letters used as symbols are written out, for example {sigma},    |
+  | but the one Greek phrase has been transliterated. All of these   |
+  | special characters are preserved in the UTF-8 and HTML versions  |
+  | of this ebook.                                                   |
+  |                                                                  |
+  | Italicised words are marked using underscores _like this_, but   |
+  | the letters used in the mathematics (which were all in italic    |
+  | font) have not been marked, to aid legibility and to avoid       |
+  | confusion with the subscripts.                                   |
+  |                                                                  |
+  | Two printer errors have been corrected. These are:               |
+  |                                                                  |
+  | "...relating the entity discriminated by sight with that         |
+  | discriminated by [sight]..." sight has been changed to touch as  |
+  | suggested by the sense.                                          |
+  |                                                                  |
+  | "...[universely] proportional to..." universely has been changed |
+  | to inversely.                                                    |
+  |                                                                  |
+  +------------------------------------------------------------------+
+
+
+
+
+                            The Concept of
+
+
+                                NATURE
+
+
+                         THE TARNER LECTURES
+                     DELIVERED IN TRINITY COLLEGE
+                            NOVEMBER 1919
+
+
+                        Alfred North Whitehead
+
+
+
+
+PREFACE
+
+
+The contents of this book were originally delivered at Trinity College
+in the autumn of 1919 as the inaugural course of Tarner lectures. The
+Tarner lectureship is an occasional office founded by the liberality of
+Mr Edward Tarner. The duty of each of the successive holders of the post
+will be to deliver a course on 'the Philosophy of the Sciences and the
+Relations or Want of Relations between the different Departments of
+Knowledge.' The present book embodies the endeavour of the first
+lecturer of the series to fulfil his task.
+
+The chapters retain their original lecture form and remain as delivered
+with the exception of minor changes designed to remove obscurities of
+expression. The lecture form has the advantage of suggesting an audience
+with a definite mental background which it is the purpose of the lecture
+to modify in a specific way. In the presentation of a novel outlook with
+wide ramifications a single line of communications from premises to
+conclusions is not sufficient for intelligibility. Your audience will
+construe whatever you say into conformity with their pre-existing
+outlook. For this reason the first two chapters and the last two
+chapters are essential for intelligibility though they hardly add to the
+formal completeness of the exposition. Their function is to prevent the
+reader from bolting up side tracks in pursuit of misunderstandings. The
+same reason dictates my avoidance of the existing technical terminology
+of philosophy. The modern natural philosophy is shot through and
+through with the fallacy of bifurcation which is discussed in the second
+chapter of this work. Accordingly all its technical terms in some subtle
+way presuppose a misunderstanding of my thesis. It is perhaps as well to
+state explicitly that if the reader indulges in the facile vice of
+bifurcation not a word of what I have here written will be intelligible.
+
+The last two chapters do not properly belong to the special course.
+Chapter VIII is a lecture delivered in the spring of 1920 before the
+Chemical Society of the students of the Imperial College of Science and
+Technology. It has been appended here as conveniently summing up and
+applying the doctrine of the book for an audience with one definite type
+of outlook.
+
+This volume on 'the Concept of Nature' forms a companion book to my
+previous work _An Enquiry concerning the Principles of Natural
+Knowledge_. Either book can be read independently, but they supplement
+each other. In part the present book supplies points of view which were
+omitted from its predecessor; in part it traverses the same ground with
+an alternative exposition. For one thing, mathematical notation has been
+carefully avoided, and the results of mathematical deductions are
+assumed. Some of the explanations have been improved and others have
+been set in a new light. On the other hand important points of the
+previous work have been omitted where I have had nothing fresh to say
+about them. On the whole, whereas the former work based itself chiefly
+on ideas directly drawn from mathematical physics, the present book
+keeps closer to certain fields of philosophy and physics to the
+exclusion of mathematics. The two works meet in their discussions of
+some details of space and time.
+
+I am not conscious that I have in any way altered my views. Some
+developments have been made. Those that are capable of a
+non-mathematical exposition have been incorporated in the text. The
+mathematical developments are alluded to in the last two chapters. They
+concern the adaptation of the principles of mathematical physics to the
+form of the relativity principle which is here maintained. Einstein's
+method of using the theory of tensors is adopted, but the application is
+worked out on different lines and from different assumptions. Those of
+his results which have been verified by experience are obtained also by
+my methods. The divergence chiefly arises from the fact that I do not
+accept his theory of non-uniform space or his assumption as to the
+peculiar fundamental character of light-signals. I would not however be
+misunderstood to be lacking in appreciation of the value of his recent
+work on general relativity which has the high merit of first disclosing
+the way in which mathematical physics should proceed in the light of the
+principle of relativity. But in my judgment he has cramped the
+development of his brilliant mathematical method in the narrow bounds of
+a very doubtful philosophy.
+
+The object of the present volume and of its predecessor is to lay the
+basis of a natural philosophy which is the necessary presupposition of a
+reorganised speculative physics. The general assimilation of space and
+time which dominates the constructive thought can claim the independent
+support of Minkowski from the side of science and also of succeeding
+relativists, while on the side of philosophers it was, I believe, one
+theme of Prof. Alexander's Gifford lectures delivered some few years ago
+but not yet published. He also summarised his conclusions on this
+question in a lecture to the Aristotelian Society in the July of 1918.
+Since the publication of _An Enquiry concerning the Principles of
+Natural Knowledge_ I have had the advantage of reading Mr C. D. Broad's
+_Perception, Physics, and Reality_ [Camb. Univ. Press, 1914]. This
+valuable book has assisted me in my discussion in Chapter II, though I
+am unaware as to how far Mr Broad would assent to any of my arguments as
+there stated.
+
+It remains for me to thank the staff of the University Press, its
+compositors, its proof-readers, its clerks, and its managing officials,
+not only for the technical excellence of their work, but for the way
+they have co-operated so as to secure my convenience.
+
+A. N. W.
+
+    IMPERIAL COLLEGE OF SCIENCE
+        AND TECHNOLOGY.
+            _April_, 1920.
+
+
+
+
+CONTENTS
+
+
+   CHAP.                                                  PAGE
+
+       I NATURE AND THOUGHT                                  1
+
+      II THEORIES OF THE BIFURCATION OF NATURE              26
+
+     III TIME                                               49
+
+      IV THE METHOD OF EXTENSIVE ABSTRACTION                74
+
+       V SPACE AND MOTION                                   99
+
+      VI CONGRUENCE                                        120
+
+     VII OBJECTS                                           143
+
+    VIII SUMMARY                                           164
+
+      IX THE ULTIMATE PHYSICAL CONCEPTS                    185
+
+         NOTE: ON THE GREEK CONCEPT OF A POINT             197
+
+         NOTE: ON SIGNIFICANCE AND INFINITE EVENTS         197
+
+         INDEX                                             199
+
+
+
+
+THE CONCEPT OF NATURE
+
+
+
+
+CHAPTER I
+
+NATURE AND THOUGHT
+
+
+The subject-matter of the Tarner lectures is defined by the founder to
+be 'the Philosophy of the Sciences and the Relations or Want of
+Relations between the different Departments of Knowledge.' It is fitting
+at the first lecture of this new foundation to dwell for a few moments
+on the intentions of the donor as expressed in this definition; and I do
+so the more willingly as I shall thereby be enabled to introduce the
+topics to which the present course is to be devoted.
+
+We are justified, I think, in taking the second clause of the definition
+as in part explanatory of the earlier clause. What is the philosophy of
+the sciences? It is not a bad answer to say that it is the study of the
+relations between the different departments of knowledge. Then with
+admirable solicitude for the freedom of learning there is inserted in
+the definition after the word 'relations' the phrase 'or want of
+relations.' A disproof of relations between sciences would in itself
+constitute a philosophy of the sciences. But we could not dispense
+either with the earlier or the later clause. It is not every relation
+between sciences which enters into their philosophy. For example biology
+and physics are connected by the use of the microscope. Still, I may
+safely assert that a technical description of the uses of the microscope
+in biology is not part of the philosophy of the sciences. Again, you
+cannot abandon the later clause of the definition; namely that
+referring to the relations between the sciences, without abandoning the
+explicit reference to an ideal in the absence of which philosophy must
+languish from lack of intrinsic interest. That ideal is the attainment
+of some unifying concept which will set in assigned relationships within
+itself all that there is for knowledge, for feeling, and for emotion.
+That far off ideal is the motive power of philosophic research; and
+claims allegiance even as you expel it. The philosophic pluralist is a
+strict logician; the Hegelian thrives on contradictions by the help of
+his absolute; the Mohammedan divine bows before the creative will of
+Allah; and the pragmatist will swallow anything so long as it 'works.'
+
+The mention of these vast systems and of the age-long controversies from
+which they spring, warns us to concentrate. Our task is the simpler one
+of the philosophy of the sciences. Now a science has already a certain
+unity which is the very reason why that body of knowledge has been
+instinctively recognised as forming a science. The philosophy of a
+science is the endeavour to express explicitly those unifying
+characteristics which pervade that complex of thoughts and make it to be
+a science. The philosophy of the sciences--conceived as one subject--is
+the endeavour to exhibit all sciences as one science, or--in case of
+defeat--the disproof of such a possibility.
+
+Again I will make a further simplification, and confine attention to the
+natural sciences, that is, to the sciences whose subject-matter is
+nature. By postulating a common subject-matter for this group of
+sciences a unifying philosophy of natural science has been thereby
+presupposed.
+
+What do we mean by nature? We have to discuss the philosophy of natural
+science. Natural science is the science of nature. But--What is nature?
+
+Nature is that which we observe in perception through the senses. In
+this sense-perception we are aware of something which is not thought and
+which is self-contained for thought. This property of being
+self-contained for thought lies at the base of natural science. It means
+that nature can be thought of as a closed system whose mutual relations
+do not require the expression of the fact that they are thought about.
+
+Thus in a sense nature is independent of thought. By this statement no
+metaphysical pronouncement is intended. What I mean is that we can think
+about nature without thinking about thought. I shall say that then we
+are thinking 'homogeneously' about nature.
+
+Of course it is possible to think of nature in conjunction with thought
+about the fact that nature is thought about. In such a case I shall say
+that we are thinking 'heterogeneously' about nature. In fact during the
+last few minutes we have been thinking heterogeneously about nature.
+Natural science is exclusively concerned with homogeneous thoughts about
+nature.
+
+But sense-perception has in it an element which is not thought. It is a
+difficult psychological question whether sense-perception involves
+thought; and if it does involve thought, what is the kind of thought
+which it necessarily involves. Note that it has been stated above that
+sense-perception is an awareness of something which is not thought.
+Namely, nature is not thought. But this is a different question, namely
+that the fact of sense-perception has a factor which is not thought. I
+call this factor 'sense-awareness.' Accordingly the doctrine that
+natural science is exclusively concerned with homogeneous thoughts about
+nature does not immediately carry with it the conclusion that natural
+science is not concerned with sense-awareness.
+
+However, I do assert this further statement; namely, that though natural
+science is concerned with nature which is the terminus of
+sense-perception, it is not concerned with the sense-awareness itself.
+
+I repeat the main line of this argument, and expand it in certain
+directions.
+
+Thought about nature is different from the sense-perception of nature.
+Hence the fact of sense-perception has an ingredient or factor which is
+not thought. I call this ingredient sense-awareness. It is indifferent
+to my argument whether sense-perception has or has not thought as
+another ingredient. If sense-perception does not involve thought, then
+sense-awareness and sense-perception are identical. But the something
+perceived is perceived as an entity which is the terminus of the
+sense-awareness, something which for thought is beyond the fact of that
+sense-awareness. Also the something perceived certainly does not contain
+other sense-awarenesses which are different from the sense-awareness
+which is an ingredient in that perception. Accordingly nature as
+disclosed in sense-perception is self-contained as against
+sense-awareness, in addition to being self-contained as against thought.
+I will also express this self-containedness of nature by saying that
+nature is closed to mind.
+
+This closure of nature does not carry with it any metaphysical doctrine
+of the disjunction of nature and mind. It means that in sense-perception
+nature is disclosed as a complex of entities whose mutual relations are
+expressible in thought without reference to mind, that is, without
+reference either to sense-awareness or to thought. Furthermore, I do not
+wish to be understood as implying that sense-awareness and thought are
+the only activities which are to be ascribed to mind. Also I am not
+denying that there are relations of natural entities to mind or minds
+other than being the termini of the sense-awarenesses of minds.
+Accordingly I will extend the meaning of the terms 'homogeneous
+thoughts' and 'heterogeneous thoughts' which have already been
+introduced. We are thinking 'homogeneously' about nature when we are
+thinking about it without thinking about thought or about
+sense-awareness, and we are thinking 'heterogeneously' about nature when
+we are thinking about it in conjunction with thinking either about
+thought or about sense-awareness or about both.
+
+I also take the homogeneity of thought about nature as excluding any
+reference to moral or aesthetic values whose apprehension is vivid in
+proportion to self-conscious activity. The values of nature are perhaps
+the key to the metaphysical synthesis of existence. But such a synthesis
+is exactly what I am not attempting. I am concerned exclusively with the
+generalisations of widest scope which can be effected respecting that
+which is known to us as the direct deliverance of sense-awareness.
+
+I have said that nature is disclosed in sense-perception as a complex of
+entities. It is worth considering what we mean by an entity in this
+connexion. 'Entity' is simply the Latin equivalent for 'thing' unless
+some arbitrary distinction is drawn between the words for technical
+purposes. All thought has to be about things. We can gain some idea of
+this necessity of things for thought by examination of the structure of
+a proposition.
+
+Let us suppose that a proposition is being communicated by an expositor
+to a recipient. Such a proposition is composed of phrases; some of these
+phrases may be demonstrative and others may be descriptive.
+
+By a demonstrative phrase I mean a phrase which makes the recipient
+aware of an entity in a way which is independent of the particular
+demonstrative phrase. You will understand that I am here using
+'demonstration' in the non-logical sense, namely in the sense in which a
+lecturer demonstrates by the aid of a frog and a microscope the
+circulation of the blood for an elementary class of medical students. I
+will call such demonstration 'speculative' demonstration, remembering
+Hamlet's use of the word 'speculation' when he says,
+
+    There is no speculation in those eyes.
+
+Thus a demonstrative phrase demonstrates an entity speculatively. It may
+happen that the expositor has meant some other entity--namely, the
+phrase demonstrates to him an entity which is diverse from the entity
+which it demonstrates to the recipient. In that case there is confusion;
+for there are two diverse propositions, namely the proposition for the
+expositor and the proposition for the recipient. I put this possibility
+aside as irrelevant for our discussion, though in practice it may be
+difficult for two persons to concur in the consideration of exactly the
+same proposition, or even for one person to have determined exactly the
+proposition which he is considering.
+
+Again the demonstrative phrase may fail to demonstrate any entity. In
+that case there is no proposition for the recipient. I think that we
+may assume (perhaps rashly) that the expositor knows what he means.
+
+A demonstrative phrase is a gesture. It is not itself a constituent of
+the proposition, but the entity which it demonstrates is such a
+constituent. You may quarrel with a demonstrative phrase as in some way
+obnoxious to you; but if it demonstrates the right entity, the
+proposition is unaffected though your taste may be offended. This
+suggestiveness of the phraseology is part of the literary quality of the
+sentence which conveys the proposition. This is because a sentence
+directly conveys one proposition, while in its phraseology it suggests a
+penumbra of other propositions charged with emotional value. We are now
+talking of the one proposition directly conveyed in any phraseology.
+
+This doctrine is obscured by the fact that in most cases what is in form
+a mere part of the demonstrative gesture is in fact a part of the
+proposition which it is desired directly to convey. In such a case we
+will call the phraseology of the proposition elliptical. In ordinary
+intercourse the phraseology of nearly all propositions is elliptical.
+
+Let us take some examples. Suppose that the expositor is in London, say
+in Regent's Park and in Bedford College, the great women's college which
+is situated in that park. He is speaking in the college hall and he
+says,
+
+    'This college building is commodious.'
+
+The phrase 'this college building' is a demonstrative phrase. Now
+suppose the recipient answers,
+
+    'This is not a college building, it is the lion-house in the Zoo.'
+
+Then, provided that the expositor's original proposition has not been
+couched in elliptical phraseology, the expositor sticks to his original
+proposition when he replies,
+
+    'Anyhow, _it_ is commodious.'
+
+Note that the recipient's answer accepts the speculative demonstration
+of the phrase 'This college building.' He does not say, 'What do you
+mean?' He accepts the phrase as demonstrating an entity, but declares
+that same entity to be the lion-house in the Zoo. In his reply, the
+expositor in his turn recognises the success of his original gesture as
+a speculative demonstration, and waives the question of the suitability
+of its mode of suggestiveness with an 'anyhow.' But he is now in a
+position to repeat the original proposition with the aid of a
+demonstrative gesture robbed of any suggestiveness, suitable or
+unsuitable, by saying,
+
+    '_It_ is commodious.'
+
+The '_it_' of this final statement presupposes that thought has seized
+on the entity as a bare objective for consideration.
+
+We confine ourselves to entities disclosed in sense-awareness. The
+entity is so disclosed as a relatum in the complex which is nature. It
+dawns on an observer because of its relations; but it is an objective
+for thought in its own bare individuality. Thought cannot proceed
+otherwise; namely, it cannot proceed without the ideal bare 'it' which
+is speculatively demonstrated. This setting up of the entity as a bare
+objective does not ascribe to it an existence apart from the complex in
+which it has been found by sense-perception. The 'it' for thought is
+essentially a relatum for sense-awareness.
+
+The chances are that the dialogue as to the college building takes
+another form. Whatever the expositor originally meant, he almost
+certainly now takes his former statement as couched in elliptical
+phraseology, and assumes that he was meaning,
+
+    'This is a college building and is commodious.'
+
+Here the demonstrative phrase or the gesture, which demonstrates the
+'it' which is commodious, has now been reduced to 'this'; and the
+attenuated phrase, under the circumstances in which it is uttered, is
+sufficient for the purpose of correct demonstration. This brings out the
+point that the verbal form is never the whole phraseology of the
+proposition; this phraseology also includes the general circumstances of
+its production. Thus the aim of a demonstrative phrase is to exhibit a
+definite 'it' as a bare objective for thought; but the _modus operandi_
+of a demonstrative phrase is to produce an awareness of the entity as a
+particular relatum in an auxiliary complex, chosen merely for the sake
+of the speculative demonstration and irrelevant to the proposition. For
+example, in the above dialogue, colleges and buildings, as related to
+the 'it' speculatively demonstrated by the phrase 'this college
+building,' set that 'it' in an auxiliary complex which is irrelevant to
+the proposition
+
+    'It is commodious.'
+
+Of course in language every phrase is invariably highly elliptical.
+Accordingly the sentence
+
+    'This college building is commodious'
+
+means probably
+
+    'This college building is commodious as a college building.'
+
+But it will be found that in the above discussion we can replace
+'commodious' by 'commodious as a college building' without altering our
+conclusion; though we can guess that the recipient, who thought he was
+in the lion-house of the Zoo, would be less likely to assent to.
+
+    'Anyhow, it is commodious as a college building.'
+
+A more obvious instance of elliptical phraseology arises if the
+expositor should address the recipient with the remark,
+
+    'That criminal is your friend.'
+
+The recipient might answer,
+
+    'He is my friend and you are insulting.'
+
+Here the recipient assumes that the phrase 'That criminal' is elliptical
+and not merely demonstrative. In fact, pure demonstration is impossible
+though it is the ideal of thought. This practical impossibility of pure
+demonstration is a difficulty which arises in the communication of
+thought and in the retention of thought. Namely, a proposition about a
+particular factor in nature can neither be expressed to others nor
+retained for repeated consideration without the aid of auxiliary
+complexes which are irrelevant to it.
+
+I now pass to descriptive phrases. The expositor says,
+
+    'A college in Regent's Park is commodious.'
+
+The recipient knows Regent's Park well. The phrase 'A college in
+Regent's Park' is descriptive for him. If its phraseology is not
+elliptical, which in ordinary life it certainly will be in some way or
+other, this proposition simply means,
+
+    'There is an entity which is a college building in Regent's Park
+    and is commodious.'
+
+If the recipient rejoins,
+
+    'The lion-house in the Zoo is the only commodious building in
+    Regent's Park,'
+
+he now contradicts the expositor, on the assumption that a lion-house in
+a Zoo is not a college building.
+
+Thus whereas in the first dialogue the recipient merely quarrelled with
+the expositor without contradicting him, in this dialogue he contradicts
+him. Thus a descriptive phrase is part of the proposition which it helps
+to express, whereas a demonstrative phrase is not part of the
+proposition which it helps to express.
+
+Again the expositor might be standing in Green Park--where there are no
+college buildings--and say,
+
+    'This college building is commodious.'
+
+Probably no proposition will be received by the recipient because the
+demonstrative phrase,
+
+    'This college building'
+
+has failed to demonstrate owing to the absence of the background of
+sense-awareness which it presupposes.
+
+But if the expositor had said,
+
+    'A college building in Green Park is commodious,'
+
+the recipient would have received a proposition, but a false one.
+
+Language is usually ambiguous and it is rash to make general assertions
+as to its meanings. But phrases which commence with 'this' or 'that' are
+usually demonstrative, whereas phrases which commence with 'the' or 'a'
+are often descriptive. In studying the theory of propositional
+expression it is important to remember the wide difference between the
+analogous modest words 'this' and 'that' on the one hand and 'a' and
+'the' on the other hand. The sentence
+
+    'The college building in Regent's Park is commodious'
+
+means, according to the analysis first made by Bertrand Russell, the
+proposition,
+
+   'There is an entity which (i) is a college building in Regent's
+   Park and (ii) is commodious and (iii) is such that any college
+   building in Regent's Park is identical with it.'
+
+The descriptive character of the phrase 'The college building in
+Regent's Park' is thus evident. Also the proposition is denied by the
+denial of any one of its three component clauses or by the denial of any
+combination of the component clauses. If we had substituted 'Green Park'
+for 'Regent's Park' a false proposition would have resulted. Also the
+erection of a second college in Regent's Park would make the proposition
+false, though in ordinary life common sense would politely treat it as
+merely ambiguous.
+
+'The Iliad' for a classical scholar is usually a demonstrative phrase;
+for it demonstrates to him a well-known poem. But for the majority of
+mankind the phrase is descriptive, namely, it is synonymous with 'The
+poem named "the Iliad".'
+
+Names may be either demonstrative or descriptive phrases. For example
+'Homer' is for us a descriptive phrase, namely, the word with some
+slight difference in suggestiveness means 'The man who wrote the Iliad.'
+
+This discussion illustrates that thought places before itself bare
+objectives, entities as we call them, which the thinking clothes by
+expressing their mutual relations. Sense-awareness discloses fact with
+factors which are the entities for thought. The separate distinction of
+an entity in thought is not a metaphysical assertion, but a method of
+procedure necessary for the finite expression of individual
+propositions. Apart from entities there could be no finite truths; they
+are the means by which the infinitude of irrelevance is kept out of
+thought.
+
+To sum up: the termini for thought are entities, primarily with bare
+individuality, secondarily with properties and relations ascribed to
+them in the procedure of thought; the termini for sense-awareness are
+factors in the fact of nature, primarily relata and only secondarily
+discriminated as distinct individualities.
+
+No characteristic of nature which is immediately posited for knowledge
+by sense-awareness can be explained. It is impenetrable by thought, in
+the sense that its peculiar essential character which enters into
+experience by sense-awareness is for thought merely the guardian of its
+individuality as a bare entity. Thus for thought 'red' is merely a
+definite entity, though for awareness 'red' has the content of its
+individuality. The transition from the 'red' of awareness to the 'red'
+of thought is accompanied by a definite loss of content, namely by the
+transition from the factor 'red' to the entity 'red.' This loss in the
+transition to thought is compensated by the fact that thought is
+communicable whereas sense-awareness is incommunicable.
+
+Thus there are three components in our knowledge of nature, namely,
+fact, factors, and entities. Fact is the undifferentiated terminus of
+sense-awareness; factors are termini of sense-awareness, differentiated
+as elements of fact; entities are factors in their function as the
+termini of thought. The entities thus spoken of are natural entities.
+Thought is wider than nature, so that there are entities for thought
+which are not natural entities.
+
+When we speak of nature as a complex of related entities, the 'complex'
+is fact as an entity for thought, to whose bare individuality is
+ascribed the property of embracing in its complexity the natural
+entities. It is our business to analyse this conception and in the
+course of the analysis space and time should appear. Evidently the
+relations holding between natural entities are themselves natural
+entities, namely they are also factors of fact, there for
+sense-awareness. Accordingly the structure of the natural complex can
+never be completed in thought, just as the factors of fact can never be
+exhausted in sense-awareness. Unexhaustiveness is an essential character
+of our knowledge of nature. Also nature does not exhaust the matter for
+thought, namely there are thoughts which would not occur in any
+homogeneous thinking about nature.
+
+The question as to whether sense-perception involves thought is largely
+verbal. If sense-perception involves a cognition of individuality
+abstracted from the actual position of the entity as a factor in fact,
+then it undoubtedly does involve thought. But if it is conceived as
+sense-awareness of a factor in fact competent to evoke emotion and
+purposeful action without further cognition, then it does not involve
+thought. In such a case the terminus of the sense-awareness is something
+for mind, but nothing for thought. The sense-perception of some lower
+forms of life may be conjectured to approximate to this character
+habitually. Also occasionally our own sense-perception in moments when
+thought-activity has been lulled to quiescence is not far off the
+attainment of this ideal limit.
+
+The process of discrimination in sense-awareness has two distinct sides.
+There is the discrimination of fact into parts, and the discrimination
+of any part of fact as exhibiting relations to entities which are not
+parts of fact though they are ingredients in it. Namely the immediate
+fact for awareness is the whole occurrence of nature. It is nature as an
+event present for sense-awareness, and essentially passing. There is no
+holding nature still and looking at it. We cannot redouble our efforts
+to improve our knowledge of the terminus of our present sense-awareness;
+it is our subsequent opportunity in subsequent sense-awareness which
+gains the benefit of our good resolution. Thus the ultimate fact for
+sense-awareness is an event. This whole event is discriminated by us
+into partial events. We are aware of an event which is our bodily life,
+of an event which is the course of nature within this room, and of a
+vaguely perceived aggregate of other partial events. This is the
+discrimination in sense-awareness of fact into parts.
+
+I shall use the term 'part' in the arbitrarily limited sense of an event
+which is part of the whole fact disclosed in awareness.
+
+Sense-awareness also yields to us other factors in nature which are not
+events. For example, sky-blue is seen as situated in a certain event.
+This relation of situation requires further discussion which is
+postponed to a later lecture. My present point is that sky-blue is found
+in nature with a definite implication in events, but is not an event
+itself. Accordingly in addition to events, there are other factors in
+nature directly disclosed to us in sense-awareness. The conception in
+thought of all the factors in nature as distinct entities with definite
+natural relations is what I have in another place[1] called the
+'diversification of nature.'
+
+[1] Cf. _Enquiry_.
+
+There is one general conclusion to be drawn from the foregoing
+discussion. It is that the first task of a philosophy of science should
+be some general classification of the entities disclosed to us in
+sense-perception.
+
+Among the examples of entities in addition to 'events' which we have
+used for the purpose of illustration are the buildings of Bedford
+College, Homer, and sky-blue. Evidently these are very different sorts
+of things; and it is likely that statements which are made about one
+kind of entity will not be true about other kinds. If human thought
+proceeded with the orderly method which abstract logic would suggest to
+it, we might go further and say that a classification of natural
+entities should be the first step in science itself. Perhaps you will be
+inclined to reply that this classification has already been effected,
+and that science is concerned with the adventures of material entities
+in space and time.
+
+The history of the doctrine of matter has yet to be written. It is the
+history of the influence of Greek philosophy on science. That influence
+has issued in one long misconception of the metaphysical status of
+natural entities. The entity has been separated from the factor which is
+the terminus of sense-awareness. It has become the substratum for that
+factor, and the factor has been degraded into an attribute of the
+entity. In this way a distinction has been imported into nature which is
+in truth no distinction at all. A natural entity is merely a factor of
+fact, considered in itself. Its disconnexion from the complex of fact is
+a mere abstraction. It is not the substratum of the factor, but the very
+factor itself as bared in thought. Thus what is a mere procedure of mind
+in the translation of sense-awareness into discursive knowledge has been
+transmuted into a fundamental character of nature. In this way matter
+has emerged as being the metaphysical substratum of its properties, and
+the course of nature is interpreted as the history of matter.
+
+Plato and Aristotle found Greek thought preoccupied with the quest for
+the simple substances in terms of which the course of events could be
+expressed. We may formulate this state of mind in the question, What is
+nature made of? The answers which their genius gave to this question,
+and more particularly the concepts which underlay the terms in which
+they framed their answers, have determined the unquestioned
+presuppositions as to time, space and matter which have reigned in
+science.
+
+In Plato the forms of thought are more fluid than in Aristotle, and
+therefore, as I venture to think, the more valuable. Their importance
+consists in the evidence they yield of cultivated thought about nature
+before it had been forced into a uniform mould by the long tradition of
+scientific philosophy. For example in the _Timaeus_ there is a
+presupposition, somewhat vaguely expressed, of a distinction between the
+general becoming of nature and the measurable time of nature. In a later
+lecture I have to distinguish between what I call the passage of nature
+and particular time-systems which exhibit certain characteristics of
+that passage. I will not go so far as to claim Plato in direct support
+of this doctrine, but I do think that the sections of the _Timaeus_
+which deal with time become clearer if my distinction is admitted.
+
+This is however a digression. I am now concerned with the origin of the
+scientific doctrine of matter in Greek thought. In the _Timaeus_ Plato
+asserts that nature is made of fire and earth with air and water as
+intermediate between them, so that 'as fire is to air so is air to
+water, and as air is to water so is water to earth.' He also suggests a
+molecular hypothesis for these four elements. In this hypothesis
+everything depends on the shape of the atoms; for earth it is cubical
+and for fire it is pyramidal. To-day physicists are again discussing
+the structure of the atom, and its shape is no slight factor in that
+structure. Plato's guesses read much more fantastically than does
+Aristotle's systematic analysis; but in some ways they are more
+valuable. The main outline of his ideas is comparable with that of
+modern science. It embodies concepts which any theory of natural
+philosophy must retain and in some sense must explain. Aristotle asked
+the fundamental question, What do we mean by 'substance'? Here the
+reaction between his philosophy and his logic worked very unfortunately.
+In his logic, the fundamental type of affirmative proposition is the
+attribution of a predicate to a subject. Accordingly, amid the many
+current uses of the term 'substance' which he analyses, he emphasises
+its meaning as 'the ultimate substratum which is no longer predicated of
+anything else.'
+
+The unquestioned acceptance of the Aristotelian logic has led to an
+ingrained tendency to postulate a substratum for whatever is disclosed
+in sense-awareness, namely, to look below what we are aware of for the
+substance in the sense of the 'concrete thing.' This is the origin of
+the modern scientific concept of matter and of ether, namely they are
+the outcome of this insistent habit of postulation.
+
+Accordingly ether has been invented by modern science as the substratum
+of the events which are spread through space and time beyond the reach
+of ordinary ponderable matter. Personally, I think that predication is a
+muddled notion confusing many different relations under a convenient
+common form of speech. For example, I hold that the relation of green to
+a blade of grass is entirely different from the relation of green to
+the event which is the life history of that blade for some short period,
+and is different from the relation of the blade to that event. In a
+sense I call the event the situation of the green, and in another sense
+it is the situation of the blade. Thus in one sense the blade is a
+character or property which can be predicated of the situation, and in
+another sense the green is a character or property of the same event
+which is also its situation. In this way the predication of properties
+veils radically different relations between entities.
+
+Accordingly 'substance,' which is a correlative term to 'predication,'
+shares in the ambiguity. If we are to look for substance anywhere, I
+should find it in events which are in some sense the ultimate substance
+of nature.
+
+Matter, in its modern scientific sense, is a return to the Ionian effort
+to find in space and time some stuff which composes nature. It has a
+more refined signification than the early guesses at earth and water by
+reason of a certain vague association with the Aristotelian idea of
+substance.
+
+Earth, water, air, fire, and matter, and finally ether are related in
+direct succession so far as concerns their postulated characters of
+ultimate substrata of nature. They bear witness to the undying vitality
+of Greek philosophy in its search for the ultimate entities which are
+the factors of the fact disclosed in sense-awareness. This search is the
+origin of science.
+
+The succession of ideas starting from the crude guesses of the early
+Ionian thinkers and ending in the nineteenth century ether reminds us
+that the scientific doctrine of matter is really a hybrid through which
+philosophy passed on its way to the refined Aristotelian concept of
+substance and to which science returned as it reacted against
+philosophic abstractions. Earth, fire, and water in the Ionic philosophy
+and the shaped elements in the _Timaeus_ are comparable to the matter
+and ether of modern scientific doctrine. But substance represents the
+final philosophic concept of the substratum which underlies any
+attribute. Matter (in the scientific sense) is already in space and
+time. Thus matter represents the refusal to think away spatial and
+temporal characteristics and to arrive at the bare concept of an
+individual entity. It is this refusal which has caused the muddle of
+importing the mere procedure of thought into the fact of nature. The
+entity, bared of all characteristics except those of space and time, has
+acquired a physical status as the ultimate texture of nature; so that
+the course of nature is conceived as being merely the fortunes of matter
+in its adventure through space.
+
+Thus the origin of the doctrine of matter is the outcome of uncritical
+acceptance of space and time as external conditions for natural
+existence. By this I do not mean that any doubt should be thrown on
+facts of space and time as ingredients in nature. What I do mean is 'the
+unconscious presupposition of space and time as being that within which
+nature is set.' This is exactly the sort of presupposition which tinges
+thought in any reaction against the subtlety of philosophical criticism.
+My theory of the formation of the scientific doctrine of matter is that
+first philosophy illegitimately transformed the bare entity, which is
+simply an abstraction necessary for the method of thought, into the
+metaphysical substratum of these factors in nature which in various
+senses are assigned to entities as their attributes; and that, as a
+second step, scientists (including philosophers who were scientists) in
+conscious or unconscious ignoration of philosophy presupposed this
+substratum, _qua_ substratum for attributes, as nevertheless in time and
+space.
+
+This is surely a muddle. The whole being of substance is as a substratum
+for attributes. Thus time and space should be attributes of the
+substance. This they palpably are not, if the matter be the substance of
+nature, since it is impossible to express spatio-temporal truths without
+having recourse to relations involving relata other than bits of matter.
+I waive this point however, and come to another. It is not the substance
+which is in space, but the attributes. What we find in space are the red
+of the rose and the smell of the jasmine and the noise of cannon. We
+have all told our dentists where our toothache is. Thus space is not a
+relation between substances, but between attributes.
+
+Thus even if you admit that the adherents of substance can be allowed to
+conceive substance as matter, it is a fraud to slip substance into space
+on the plea that space expresses relations between substances. On the
+face of it space has nothing to do with substances, but only with their
+attributes. What I mean is, that if you choose--as I think wrongly--to
+construe our experience of nature as an awareness of the attributes of
+substances, we are by this theory precluded from finding any analogous
+direct relations between substances as disclosed in our experience. What
+we do find are relations between the attributes of substances. Thus if
+matter is looked on as substance in space, the space in which it finds
+itself has very little to do with the space of our experience.
+
+The above argument has been expressed in terms of the relational theory
+of space. But if space be absolute--namely, if it have a being
+independent of things in it--the course of the argument is hardly
+changed. For things in space must have a certain fundamental relation to
+space which we will call occupation. Thus the objection that it is the
+attributes which are observed as related to space, still holds.
+
+The scientific doctrine of matter is held in conjunction with an
+absolute theory of time. The same arguments apply to the relations
+between matter and time as apply to the relations between space and
+matter. There is however (in the current philosophy) a difference in the
+connexions of space with matter from those of time with matter, which I
+will proceed to explain.
+
+Space is not merely an ordering of material entities so that any one
+entity bears certain relations to other material entities. The
+occupation of space impresses a certain character on each material
+entity in itself. By reason of its occupation of space matter has
+extension. By reason of its extension each bit of matter is divisible
+into parts, and each part is a numerically distinct entity from every
+other such part. Accordingly it would seem that every material entity is
+not really one entity. It is an essential multiplicity of entities.
+There seems to be no stopping this dissociation of matter into
+multiplicities short of finding each ultimate entity occupying one
+individual point. This essential multiplicity of material entities is
+certainly not what is meant by science, nor does it correspond to
+anything disclosed in sense-awareness. It is absolutely necessary that
+at a certain stage in this dissociation of matter a halt should be
+called, and that the material entities thus obtained should be treated
+as units. The stage of arrest may be arbitrary or may be set by the
+characteristics of nature; but all reasoning in science ultimately drops
+its space-analysis and poses to itself the problem, 'Here is one
+material entity, what is happening to it as a unit entity?' Yet this
+material entity is still retaining its extension, and as thus extended
+is a mere multiplicity. Thus there is an essential atomic property in
+nature which is independent of the dissociation of extension. There is
+something which in itself is one, and which is more than the logical
+aggregate of entities occupying points within the volume which the unit
+occupies. Indeed we may well be sceptical as to these ultimate entities
+at points, and doubt whether there are any such entities at all. They
+have the suspicious character that we are driven to accept them by
+abstract logic and not by observed fact.
+
+Time (in the current philosophy) does not exert the same disintegrating
+effect on matter which occupies it. If matter occupies a duration of
+time, the whole matter occupies every part of that duration. Thus the
+connexion between matter and time differs from the connexion between
+matter and space as expressed in current scientific philosophy. There is
+obviously a greater difficulty in conceiving time as the outcome of
+relations between different bits of matter than there is in the
+analogous conception of space. At an instant distinct volumes of space
+are occupied by distinct bits of matter. Accordingly there is so far no
+intrinsic difficulty in conceiving that space is merely the resultant of
+relations between the bits of matter. But in the one-dimensional time
+the same bit of matter occupies different portions of time. Accordingly
+time would have to be expressible in terms of the relations of a bit of
+matter with itself. My own view is a belief in the relational theory
+both of space and of time, and of disbelief in the current form of the
+relational theory of space which exhibits bits of matter as the relata
+for spatial relations. The true relata are events. The distinction which
+I have just pointed out between time and space in their connexion with
+matter makes it evident that any assimilation of time and space cannot
+proceed along the traditional line of taking matter as a fundamental
+element in space-formation.
+
+The philosophy of nature took a wrong turn during its development by
+Greek thought. This erroneous presupposition is vague and fluid in
+Plato's _Timaeus_. The general groundwork of the thought is still
+uncommitted and can be construed as merely lacking due explanation and
+the guarding emphasis. But in Aristotle's exposition the current
+conceptions were hardened and made definite so as to produce a faulty
+analysis of the relation between the matter and the form of nature as
+disclosed in sense-awareness. In this phrase the term 'matter' is not
+used in its scientific sense.
+
+I will conclude by guarding myself against a misapprehension. It is
+evident that the current doctrine of matter enshrines some fundamental
+law of nature. Any simple illustration will exemplify what I mean. For
+example, in a museum some specimen is locked securely in a glass case.
+It stays there for years: it loses its colour, and perhaps falls to
+pieces. But it is the same specimen; and the same chemical elements and
+the same quantities of those elements are present within the case at the
+end as were present at the beginning. Again the engineer and the
+astronomer deal with the motions of real permanences in nature. Any
+theory of nature which for one moment loses sight of these great basic
+facts of experience is simply silly. But it is permissible to point out
+that the scientific expression of these facts has become entangled in a
+maze of doubtful metaphysics; and that, when we remove the metaphysics
+and start afresh on an unprejudiced survey of nature, a new light is
+thrown on many fundamental concepts which dominate science and guide the
+progress of research.
+
+
+
+

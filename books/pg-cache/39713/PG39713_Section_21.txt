@@ -1,0 +1,510 @@
+CHAPTER IV
+
+THE NEW LOGICS
+
+
+I
+
+_The Russell Logic_
+
+To justify its pretensions, logic had to change. We have seen new logics
+arise of which the most interesting is that of Russell. It seems he has
+nothing new to write about formal logic, as if Aristotle there had
+touched bottom. But the domain Russell attributes to logic is infinitely
+more extended than that of the classic logic, and he has put forth on
+the subject views which are original and at times well warranted.
+
+First, Russell subordinates the logic of classes to that of
+propositions, while the logic of Aristotle was above all the logic of
+classes and took as its point of departure the relation of subject to
+predicate. The classic syllogism, "Socrates is a man," etc., gives place
+to the hypothetical syllogism: "If _A_ is true, _B_ is true; now if _B_
+is true, _C_ is true," etc. And this is, I think, a most happy idea,
+because the classic syllogism is easy to carry back to the hypothetical
+syllogism, while the inverse transformation is not without difficulty.
+
+And then this is not all. Russell's logic of propositions is the study
+of the laws of combination of the conjunctions _if_, _and_, _or_, and
+the negation _not_.
+
+In adding here two other conjunctions, _and_ and _or_, Russell opens to
+logic a new field. The symbols _and_, _or_ follow the same laws as the
+two signs × and +, that is to say the commutative associative and
+distributive laws. Thus _and_ represents logical multiplication, while
+_or_ represents logical addition. This also is very interesting.
+
+Russell reaches the conclusion that any false proposition implies all
+other propositions true or false. M. Couturat says this conclusion will
+at first seem paradoxical. It is sufficient however to have corrected a
+bad thesis in mathematics to recognize how right Russell is. The
+candidate often is at great pains to get the first false equation; but
+that once obtained, it is only sport then for him to accumulate the most
+surprising results, some of which even may be true.
+
+
+II
+
+We see how much richer the new logic is than the classic logic; the
+symbols are multiplied and allow of varied combinations _which are no
+longer limited in number_. Has one the right to give this extension to
+the meaning of the word _logic_? It would be useless to examine this
+question and to seek with Russell a mere quarrel about words. Grant him
+what he demands; but be not astonished if certain verities declared
+irreducible to logic in the old sense of the word find themselves now
+reducible to logic in the new sense--something very different.
+
+A great number of new notions have been introduced, and these are not
+simply combinations of the old. Russell knows this, and not only at the
+beginning of the first chapter, 'The Logic of Propositions,' but at the
+beginning of the second and third, 'The Logic of Classes' and 'The Logic
+of Relations,' he introduces new words that he declares indefinable.
+
+And this is not all; he likewise introduces principles he declares
+indemonstrable. But these indemonstrable principles are appeals to
+intuition, synthetic judgments _a priori_. We regard them as intuitive
+when we meet them more or less explicitly enunciated in mathematical
+treatises; have they changed character because the meaning of the word
+logic has been enlarged and we now find them in a book entitled
+_Treatise on Logic_? _They have not changed nature; they have only
+changed place._
+
+
+III
+
+Could these principles be considered as disguised definitions? It would
+then be necessary to have some way of proving that they imply no
+contradiction. It would be necessary to establish that, however far one
+followed the series of deductions, he would never be exposed to
+contradicting himself.
+
+We might attempt to reason as follows: We can verify that the
+operations of the new logic applied to premises exempt from
+contradiction can only give consequences equally exempt from
+contradiction. If therefore after _n_ operations we have not met
+contradiction, we shall not encounter it after _n_ + 1. Thus it is
+impossible that there should be a moment when contradiction _begins_,
+which shows we shall never meet it. Have we the right to reason in this
+way? No, for this would be to make use of complete induction; and
+_remember, we do not yet know the principle of complete induction_.
+
+We therefore have not the right to regard these assumptions as disguised
+definitions and only one resource remains for us, to admit a new act of
+intuition for each of them. Moreover I believe this is indeed the
+thought of Russell and M. Couturat.
+
+Thus each of the nine indefinable notions and of the twenty
+indemonstrable propositions (I believe if it were I that did the
+counting, I should have found some more) which are the foundation of the
+new logic, logic in the broad sense, presupposes a new and independent
+act of our intuition and (why not say it?) a veritable synthetic
+judgment _a priori_. On this point all seem agreed, but what Russell
+claims, and _what seems to me doubtful, is that after these appeals to
+intuition, that will be the end of it; we need make no others and can
+build all mathematics without the intervention of any new element_.
+
+
+IV
+
+M. Couturat often repeats that this new logic is altogether independent
+of the idea of number. I shall not amuse myself by counting how many
+numeral adjectives his exposition contains, both cardinal and ordinal,
+or indefinite adjectives such as several. We may cite, however, some
+examples:
+
+"The logical product of _two_ or _more_ propositions is....";
+
+"All propositions are capable only of _two_ values, true and false";
+
+"The relative product of _two_ relations is a relation";
+
+"A relation exists between two terms," etc., etc.
+
+Sometimes this inconvenience would not be unavoidable, but sometimes
+also it is essential. A relation is incomprehensible without two terms;
+it is impossible to have the intuition of the relation, without having
+at the same time that of its two terms, and without noticing they are
+two, because, if the relation is to be conceivable, it is necessary that
+there be two and only two.
+
+
+V
+
+_Arithmetic_
+
+I reach what M. Couturat calls the _ordinal theory_ which is the
+foundation of arithmetic properly so called. M. Couturat begins by
+stating Peano's five assumptions, which are independent, as has been
+proved by Peano and Padoa.
+
+1. Zero is an integer.
+
+2. Zero is not the successor of any integer.
+
+3. The successor of an integer is an integer. To this it would be proper
+to add,
+
+Every integer has a successor.
+
+4. Two integers are equal if their successors are.
+
+The fifth assumption is the principle of complete induction.
+
+M. Couturat considers these assumptions as disguised definitions; they
+constitute the definition by postulates of zero, of successor, and of
+integer.
+
+But we have seen that for a definition by postulates to be acceptable we
+must be able to prove that it implies no contradiction.
+
+Is this the case here? Not at all.
+
+The demonstration can not be made _by example_. We can not take a part
+of the integers, for instance the first three, and prove they satisfy
+the definition.
+
+If I take the series 0, 1, 2, I see it fulfils the assumptions 1, 2, 4
+and 5; but to satisfy assumption 3 it still is necessary that 3 be an
+integer, and consequently that the series 0, 1, 2, 3, fulfil the
+assumptions; we might prove that it satisfies assumptions 1, 2, 4, 5,
+but assumption 3 requires besides that 4 be an integer and that the
+series 0, 1, 2, 3, 4 fulfil the assumptions, and so on.
+
+It is therefore impossible to demonstrate the assumptions for certain
+integers without proving them for all; we must give up proof by
+example.
+
+It is necessary then to take all the consequences of our assumptions and
+see if they contain no contradiction.
+
+If these consequences were finite in number, this would be easy; but
+they are infinite in number; they are the whole of mathematics, or at
+least all arithmetic.
+
+What then is to be done? Perhaps strictly we could repeat the reasoning
+of number III.
+
+But as we have said, this reasoning is complete induction, and it is
+precisely the principle of complete induction whose justification would
+be the point in question.
+
+
+VI
+
+_The Logic of Hilbert_
+
+I come now to the capital work of Hilbert which he communicated to the
+Congress of Mathematicians at Heidelberg, and of which a French
+translation by M. Pierre Boutroux appeared in _l'Enseignement
+mathématique_, while an English translation due to Halsted appeared in
+_The Monist_.[13] In this work, which contains profound thoughts, the
+author's aim is analogous to that of Russell, but on many points he
+diverges from his predecessor.
+
+  [13] 'The Foundations of Logic and Arithmetic,' _Monist_, XV.,
+       338-352.
+
+"But," he says (_Monist_, p. 340), "on attentive consideration we become
+aware that in the usual exposition of the laws of logic certain
+fundamental concepts of arithmetic are already employed; for example,
+the concept of the aggregate, in part also the concept of number.
+
+"We fall thus into a vicious circle and therefore to avoid paradoxes a
+partly simultaneous development of the laws of logic and arithmetic is
+requisite."
+
+We have seen above that what Hilbert says of the principles of logic _in
+the usual exposition_ applies likewise to the logic of Russell. So for
+Russell logic is prior to arithmetic; for Hilbert they are
+'simultaneous.' We shall find further on other differences still
+greater, but we shall point them out as we come to them. I prefer to
+follow step by step the development of Hilbert's thought, quoting
+textually the most important passages.
+
+"Let us take as the basis of our consideration first of all a
+thought-thing 1 (one)" (p. 341). Notice that in so doing we in no wise
+imply the notion of number, because it is understood that 1 is here only
+a symbol and that we do not at all seek to know its meaning. "The taking
+of this thing together with itself respectively two, three or more
+times...." Ah! this time it is no longer the same; if we introduce the
+words 'two,' 'three,' and above all 'more,' 'several,' we introduce the
+notion of number; and then the definition of finite whole number which
+we shall presently find, will come too late. Our author was too
+circumspect not to perceive this begging of the question. So at the end
+of his work he tries to proceed to a truly patching-up process.
+
+Hilbert then introduces two simple objects 1 and =, and considers all
+the combinations of these two objects, all the combinations of their
+combinations, etc. It goes without saying that we must forget the
+ordinary meaning of these two signs and not attribute any to them.
+
+Afterwards he separates these combinations into two classes, the class
+of the existent and the class of the non-existent, and till further
+orders this separation is entirely arbitrary. Every affirmative
+statement tells us that a certain combination belongs to the class of
+the existent; every negative statement tells us that a certain
+combination belongs to the class of the non-existent.
+
+
+VII
+
+Note now a difference of the highest importance. For Russell any object
+whatsoever, which he designates by _x_, is an object absolutely
+undetermined and about which he supposes nothing; for Hilbert it is one
+of the combinations formed with the symbols 1 and =; he could not
+conceive of the introduction of anything other than combinations of
+objects already defined. Moreover Hilbert formulates his thought in the
+neatest way, and I think I must reproduce _in extenso_ his statement (p.
+348):
+
+"In the assumptions the arbitraries (as equivalent for the concept
+'every' and 'all' in the customary logic) represent only those
+thought-things and their combinations with one another, which at this
+stage are laid down as fundamental or are to be newly defined.
+Therefore in the deduction of inferences from the assumptions, the
+arbitraries, which occur in the assumptions, can be replaced only by
+such thought-things and their combinations.
+
+"Also we must duly remember, that through the super-addition and making
+fundamental of a new thought-thing the preceding assumptions undergo an
+enlargement of their validity, and where necessary, are to be subjected
+to a change in conformity with the sense."
+
+The contrast with Russell's view-point is complete. For this philosopher
+we may substitute for _x_ not only objects already known, but anything.
+
+Russell is faithful to his point of view, which is that of
+comprehension. He starts from the general idea of being, and enriches it
+more and more while restricting it, by adding new qualities. Hilbert on
+the contrary recognizes as possible beings only combinations of objects
+already known; so that (looking at only one side of his thought) we
+might say he takes the view-point of extension.
+
+
+VIII
+
+Let us continue with the exposition of Hilbert's ideas. He introduces
+two assumptions which he states in his symbolic language but which
+signify, in the language of the uninitiated, that every quality is equal
+to itself and that every operation performed upon two identical
+quantities gives identical results.
+
+So stated, they are evident, but thus to present them would be to
+misrepresent Hilbert's thought. For him mathematics has to combine only
+pure symbols, and a true mathematician should reason upon them without
+preconceptions as to their meaning. So his assumptions are not for him
+what they are for the common people.
+
+He considers them as representing the definition by postulates of the
+symbol (=) heretofore void of all signification. But to justify this
+definition we must show that these two assumptions lead to no
+contradiction. For this Hilbert used the reasoning of our number III,
+without appearing to perceive that he is using complete induction.
+
+
+IX
+
+The end of Hilbert's memoir is altogether enigmatic and I shall not lay
+stress upon it. Contradictions accumulate; we feel that the author is
+dimly conscious of the _petitio principii_ he has committed, and that he
+seeks vainly to patch up the holes in his argument.
+
+What does this mean? At the point of proving that the definition of the
+whole number by the assumption of complete induction implies no
+contradiction, Hilbert withdraws as Russell and Couturat withdrew,
+because the difficulty is too great.
+
+
+X
+
+_Geometry_
+
+Geometry, says M. Couturat, is a vast body of doctrine wherein the
+principle of complete induction does not enter. That is true in a
+certain measure; we can not say it is entirely absent, but it enters
+very slightly. If we refer to the _Rational Geometry_ of Dr. Halsted
+(New York, John Wiley and Sons, 1904) built up in accordance with the
+principles of Hilbert, we see the principle of induction enter for the
+first time on page 114 (unless I have made an oversight, which is quite
+possible).[14]
+
+  [14] Second ed., 1907, p. 86; French ed., 1911, p. 97. G. B. H.
+
+So geometry, which only a few years ago seemed the domain where the
+reign of intuition was uncontested, is to-day the realm where the
+logicians seem to triumph. Nothing could better measure the importance
+of the geometric works of Hilbert and the profound impress they have
+left on our conceptions.
+
+But be not deceived. What is after all the fundamental theorem of
+geometry? It is that the assumptions of geometry imply no contradiction,
+and this we can not prove without the principle of induction.
+
+How does Hilbert demonstrate this essential point? By leaning upon
+analysis and through it upon arithmetic and through it upon the
+principle of induction.
+
+And if ever one invents another demonstration, it will still be
+necessary to lean upon this principle, since the possible consequences
+of the assumptions, of which it is necessary to show that they are not
+contradictory, are infinite in number.
+
+
+XI
+
+_Conclusion_
+
+Our conclusion straightway is that the principle of induction can not be
+regarded as the disguised definition of the entire world.
+
+Here are three truths: (1) The principle of complete induction; (2)
+Euclid's postulate; (3) the physical law according to which phosphorus
+melts at 44° (cited by M. Le Roy).
+
+These are said to be three disguised definitions: the first, that of the
+whole number; the second, that of the straight line; the third, that of
+phosphorus.
+
+I grant it for the second; I do not admit it for the other two. I must
+explain the reason for this apparent inconsistency.
+
+First, we have seen that a definition is acceptable only on condition
+that it implies no contradiction. We have shown likewise that for the
+first definition this demonstration is impossible; on the other hand, we
+have just recalled that for the second Hilbert has given a complete
+proof.
+
+As to the third, evidently it implies no contradiction. Does this mean
+that the definition guarantees, as it should, the existence of the
+object defined? We are here no longer in the mathematical sciences, but
+in the physical, and the word existence has no longer the same meaning.
+It no longer signifies absence of contradiction; it means objective
+existence.
+
+You already see a first reason for the distinction I made between the
+three cases; there is a second. In the applications we have to make of
+these three concepts, do they present themselves to us as defined by
+these three postulates?
+
+The possible applications of the principle of induction are innumerable;
+take, for example, one of those we have expounded above, and where it is
+sought to prove that an aggregate of assumptions can lead to no
+contradiction. For this we consider one of the series of syllogisms we
+may go on with in starting from these assumptions as premises. When we
+have finished the _n_th syllogism, we see we can make still another and
+this is the _n_ + 1th. Thus the number _n_ serves to count a series of
+successive operations; it is a number obtainable by successive
+additions. This therefore is a number from which we may go back to
+unity by _successive subtractions_. Evidently we could not do this if we
+had _n_ = _n_ - 1, since then by subtraction we should always obtain
+again the same number. So the way we have been led to consider this
+number _n_ implies a definition of the finite whole number and this
+definition is the following: A finite whole number is that which can be
+obtained by successive additions; it is such that _n_ is not equal to
+_n_ - 1.
+
+That granted, what do we do? We show that if there has been no
+contradiction up to the _n_th syllogism, no more will there be up to the
+_n_ + 1th, and we conclude there never will be. You say: I have the
+right to draw this conclusion, since the whole numbers are by definition
+those for which a like reasoning is legitimate. But that implies another
+definition of the whole number, which is as follows: A whole number is
+that on which we may reason by recurrence. In the particular case it is
+that of which we may say that, if the absence of contradiction up to the
+time of a syllogism of which the number is an integer carries with it
+the absence of contradiction up to the time of the syllogism whose
+number is the following integer, we need fear no contradiction for any
+of the syllogisms whose number is an integer.
+
+The two definitions are not identical; they are doubtless equivalent,
+but only in virtue of a synthetic judgment _a priori_; we can not pass
+from one to the other by a purely logical procedure. Consequently we
+have no right to adopt the second, after having introduced the whole
+number by a way that presupposes the first.
+
+On the other hand, what happens with regard to the straight line? I have
+already explained this so often that I hesitate to repeat it again, and
+shall confine myself to a brief recapitulation of my thought. We have
+not, as in the preceding case, two equivalent definitions logically
+irreducible one to the other. We have only one expressible in words.
+Will it be said there is another which we feel without being able to
+word it, since we have the intuition of the straight line or since we
+represent to ourselves the straight line? First of all, we can not
+represent it to ourselves in geometric space, but only in representative
+space, and then we can represent to ourselves just as well the objects
+which possess the other properties of the straight line, save that of
+satisfying Euclid's postulate. These objects are 'the non-Euclidean
+straights,' which from a certain point of view are not entities void of
+sense, but circles (true circles of true space) orthogonal to a certain
+sphere. If, among these objects equally capable of representation, it is
+the first (the Euclidean straights) which we call straights, and not the
+latter (the non-Euclidean straights), this is properly by definition.
+
+And arriving finally at the third example, the definition of phosphorus,
+we see the true definition would be: Phosphorus is the bit of matter I
+see in yonder flask.
+
+
+XII
+
+And since I am on this subject, still another word. Of the phosphorus
+example I said: "This proposition is a real verifiable physical law,
+because it means that all bodies having all the other properties of
+phosphorus, save its point of fusion, melt like it at 44°." And it was
+answered: "No, this law is not verifiable, because if it were shown that
+two bodies resembling phosphorus melt one at 44° and the other at 50°,
+it might always be said that doubtless, besides the point of fusion,
+there is some other unknown property by which they differ."
+
+That was not quite what I meant to say. I should have written, "All
+bodies possessing such and such properties finite in number (to wit, the
+properties of phosphorus stated in the books on chemistry, the
+fusion-point excepted) melt at 44°."
+
+And the better to make evident the difference between the case of the
+straight and that of phosphorus, one more remark. The straight has in
+nature many images more or less imperfect, of which the chief are the
+light rays and the rotation axis of the solid. Suppose we find the ray
+of light does not satisfy Euclid's postulate (for example by showing
+that a star has a negative parallax), what shall we do? Shall we
+conclude that the straight being by definition the trajectory of light
+does not satisfy the postulate, or, on the other hand, that the straight
+by definition satisfying the postulate, the ray of light is not
+straight?
+
+Assuredly we are free to adopt the one or the other definition and
+consequently the one or the other conclusion; but to adopt the first
+would be stupid, because the ray of light probably satisfies only
+imperfectly not merely Euclid's postulate, but the other properties of
+the straight line, so that if it deviates from the Euclidean straight,
+it deviates no less from the rotation axis of solids which is another
+imperfect image of the straight line; while finally it is doubtless
+subject to change, so that such a line which yesterday was straight will
+cease to be straight to-morrow if some physical circumstance has
+changed.
+
+Suppose now we find that phosphorus does not melt at 44°, but at 43.9°.
+Shall we conclude that phosphorus being by definition that which melts
+at 44°, this body that we did call phosphorus is not true phosphorus,
+or, on the other hand, that phosphorous melts at 43.9°? Here again we
+are free to adopt the one or the other definition and consequently the
+one or the other conclusion; but to adopt the first would be stupid
+because we can not be changing the name of a substance every time we
+determine a new decimal of its fusion-point.
+
+
+XIII
+
+To sum up, Russell and Hilbert have each made a vigorous effort; they
+have each written a work full of original views, profound and often well
+warranted. These two works give us much to think about and we have much
+to learn from them. Among their results, some, many even, are solid and
+destined to live.
+
+But to say that they have finally settled the debate between Kant and
+Leibnitz and ruined the Kantian theory of mathematics is evidently
+incorrect. I do not know whether they really believed they had done it,
+but if they believed so, they deceived themselves.
+
+
+
+

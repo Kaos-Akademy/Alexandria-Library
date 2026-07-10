@@ -1,0 +1,634 @@
+CHAPTER V.
+
+DISJUNCTIVE PROPOSITIONS.
+
+
+In the previous chapter I have exhibited various cases of deductive
+reasoning by the process of substitution, avoiding the introduction of
+disjunctive propositions; but we cannot long defer the consideration of
+this more complex class of identities. General terms arise, as we have
+seen (p. 24), from classifying or mentally uniting together all objects
+which agree in certain qualities, the value of this union consisting in
+the fact that the power of knowledge is multiplied thereby. In forming
+such classes or general notions, we overlook or abstract the points of
+difference which exist between the objects joined together, and fix our
+attention only on the points of agreement. But every process of thought
+may be said to have its inverse process, which consists in undoing the
+effects of the direct process. Just as division undoes multiplication,
+and evolution undoes involution, so we must have a process which undoes
+generalization, or the operation of forming general notions. This
+inverse process will consist in distinguishing the separate objects or
+minor classes which are the constituent parts of any wider class. If
+we mentally unite together certain objects visible in the sky and call
+them planets, we shall afterwards need to distinguish the contents of
+this general notion, which we do in the disjunctive proposition--
+
+  A planet is either Mercury or Venus or the Earth or ... or Neptune.
+
+Having formed the very wide class “vertebrate animal,” we may specify
+its subordinate classes thus:--“A vertebrate animal is either a
+mammal, bird, reptile, or fish.” Nor is there any limit to the
+number of possible alternatives. “An exogenous plant is either a
+ranunculus, a poppy, a crucifer, a rose, or it belongs to some one
+of the other seventy natural orders of exogens at present recognized
+by botanists.” A cathedral church in England must be either that of
+London, Canterbury, Winchester, Salisbury, Manchester, or of one of
+about twenty-four cities possessing such churches. And if we were to
+attempt to specify the meaning of the term “star,” we should require
+to enumerate as alternatives, not only the many thousands of stars
+recorded in catalogues, but the many millions unnamed.
+
+Whenever we thus distinguish the parts of a general notion we employ
+a disjunctive proposition, in at least one side of which are several
+alternatives joined by the so-called disjunctive conjunction or,
+a contracted form of *other*. There must be some relation between
+the parts thus connected in one proposition; we may call it the
+*disjunctive* or *alternative* relation, and we must carefully inquire
+into its nature. This relation is that of ignorance and doubt, giving
+rise to choice. Whenever we classify and abstract we must open the way
+to such uncertainty. By fixing our attention on certain attributes to
+the exclusion of others, we necessarily leave it doubtful what those
+other attributes are. The term “molar tooth” bears upon the face of
+it that it is a part of the wider term “tooth.” But if we meet with
+the simple term “tooth” there is nothing to indicate whether it is
+an incisor, a canine, or a molar tooth. This doubt, however, may be
+resolved by further information, and we have to consider what are the
+appropriate logical processes for treating disjunctive propositions in
+connection with other propositions disjunctive or otherwise.
+
+
+*Expression of the Alternative Relation.*
+
+In order to represent disjunctive propositions with convenience we
+require a sign of the alternative relation, equivalent to one meaning
+at least of the little conjunction *or* so frequently used in common
+language. I propose to use for this purpose the symbol ꖌ. In my first
+logical essay I followed the practice of Boole and adopted the sign
++; but this sign should not be employed unless there exists exact
+analogy between mathematical addition and logical alternation. We shall
+find that the analogy is imperfect, and that there is such profound
+difference between logical and mathematical terms as should prevent
+our uniting them by the same symbol. Accordingly I have chosen a sign
+ꖌ, which seems aptly to suggest whatever degree of analogy may exist
+without implying more. The exact meaning of the symbol we will now
+proceed to investigate.
+
+
+*Nature of the Alternative Relation.*
+
+Before treating disjunctive propositions it is indispensable to decide
+whether the alternatives must be considered exclusive or unexclusive.
+By *exclusive alternatives* we mean those which cannot contain the same
+things. If we say “Arches are circular or pointed,” it is certainly to
+be understood that the same arch cannot be described as both circular
+and pointed. Many examples, on the other hand, can readily be suggested
+in which two or more alternatives may hold true of the same object. Thus
+
+  Luminous bodies are self-luminous or luminous by reflection.
+
+It is undoubtedly possible, by the laws of optics, that the same
+surface may at one and the same moment give off light of its own and
+reflect light from other bodies. We speak familiarly of *deaf or dumb*
+persons, knowing that the majority of those who are deaf from birth are
+also dumb.
+
+There can be no doubt that in a great many cases, perhaps the greater
+number of cases, alternatives are exclusive as a matter of fact. Any
+one number is incompatible with any other; one point of time or place
+is exclusive of all others. Roger Bacon died either in 1284 or 1292; it
+is certain that he could not die in both years. Henry Fielding was born
+either in Dublin or Somersetshire; he could not be born in both places.
+There is so much more precision and clearness in the use of exclusive
+alternatives that we ought doubtless to select them when possible. Old
+works on logic accordingly contained a rule directing that the *Membra
+dividentia*, the parts of a division or the constituent species of a
+genus, should be exclusive of each other.
+
+It is no doubt owing to the great prevalence and convenience of
+exclusive divisions that the majority of logicians have held it
+necessary to make every alternative in a disjunctive proposition
+exclusive of every other one. Aquinas considered that when this was not
+the case the proposition was actually *false*, and Kant adopted the
+same opinion.[64] A multitude of statements to the same effect might
+readily be quoted, and if the question were to be determined by the
+weight of historical evidence, it would certainly go against my view.
+Among recent logicians Hamilton, as well as Boole, took the exclusive
+side. But there are authorities to the opposite effect. Whately,
+Mansel, and J. S. Mill have all pointed out that we may often treat
+alternatives as *Compossible*, or true at the same time. Whately gives
+us an example,[65] “Virtue tends to procure us either the esteem of
+mankind, or the favour of God,” and he adds--“Here both members are
+true, and consequently from one being affirmed we are not authorized to
+deny the other. Of course we are left to conjecture in each case, from
+the context, whether it is meant to be implied that the members are
+or are not exclusive.” Mansel says,[66] “*We may happen to know* that
+two alternatives cannot be true together, so that the affirmation of
+the second necessitates the denial of the first; but this, as Boethius
+observes, is a *material*, not a *formal* consequence.” Mill has also
+pointed out the absurdities which would arise from always interpreting
+alternatives as exclusive. “If we assert,” he says,[67] “that a man
+who has acted in some particular way must be either a knave or a fool,
+we by no means assert, or intend to assert, that he cannot be both.”
+Again, “to make an entirely unselfish use of despotic power, a man must
+be either a saint or a philosopher.... Does the disjunctive premise
+necessarily imply, or must it be construed as supposing, that the same
+person cannot be both a saint and a philosopher? Such a construction
+would be ridiculous.”
+
+  [64] Mansel’s *Aldrich*, p. 103, and *Prolegomena Logica*, p. 221.
+
+  [65] *Elements of Logic*, Book II. chap. iv. sect. 4.
+
+  [66] Aldrich, *Artis Logicæ Rudimenta*, p. 104.
+
+  [67] *Examination of Sir W. Hamilton’s Philosophy*, pp. 452–454.
+
+I discuss this subject fully because it is really the point which
+separates my logical system from that of Boole. In his *Laws of
+Thought* (p. 32) he expressly says, “In strictness, the words ‘and,’
+‘or,’ interposed between the terms descriptive of two or more classes
+of objects, imply that those classes are quite distinct, so that no
+member of one is found in another.” This I altogether dispute. In the
+ordinary use of these conjunctions we do not join distinct terms only;
+and when terms so joined do prove to be logically distinct, it is by
+virtue of a *tacit premise*, something in the meaning of the names and
+our knowledge of them, which teaches us that they are distinct. If our
+knowledge of the meanings of the words joined is defective it will
+often be impossible to decide whether terms joined by conjunctions are
+exclusive or not.
+
+In the sentence “Repentance is not a single act, but a habit or
+virtue,” it cannot be implied that a virtue is not a habit; by
+Aristotle’s definition it is. Milton has the expression in one of
+his sonnets, “Unstain’d by gold or fee,” where it is obvious that if
+the fee is not always gold, the gold is meant to be a fee or bribe.
+Tennyson has the expression “wreath or anadem.” Most readers would
+be quite uncertain whether a wreath may be an anadem, or an anadem a
+wreath, or whether they are quite distinct or quite the same. From
+Darwin’s *Origin of Species*, I take the expression, “When we see any
+*part or organ* developed in a remarkable *degree or manner*.” In this,
+*or* is used twice, and neither time exclusively. For if *part* and
+*organ* are not synonymous, at any rate an organ is a part. And it
+is obvious that a part may be developed at the same time both in an
+extraordinary degree and an extraordinary manner, although such cases
+may be comparatively rare.
+
+From a careful examination of ordinary writings, it will thus be found
+that the meanings of terms joined by “and,” “or” vary from absolute
+identity up to absolute contrariety. There is no logical condition of
+distinctness at all, and when we do choose exclusive alternatives, it
+is because our subject demands it. The matter, not the form of an
+expression, points out whether terms are exclusive or not.[68] In
+bills, policies, and other kinds of legal documents, it is sometimes
+necessary to express very distinctly that alternatives are not
+exclusive. The form and/or is then used, and, as Mr. J. J. Murphy has
+remarked, this form coincides exactly in meaning with the symbol ꖌ.
+
+  [68] *Pure Logic*, pp 76, 77.
+
+In the first edition of this work (vol. i., p. 81), I took the
+disjunctive proposition “Matter is solid, or liquid, or gaseous,” and
+treated it as an instance of exclusive alternatives, remarking that the
+same portion of matter cannot be at once solid and liquid, properly
+speaking, and that still less can we suppose it to be solid and
+gaseous, or solid, liquid, and gaseous all at the same time. But the
+experiments of Professor Andrews show that, under certain conditions
+of temperature and pressure, there is no abrupt change from the liquid
+to the gaseous state. The same substance may be in such a state as to
+be indifferently described as liquid and gaseous. In many cases, too,
+the transition from solid to liquid is gradual, so that the properties
+of solidity are at least partially joined with those of liquidity.
+The proposition then, instead of being an instance of exclusive
+alternatives, seems to afford an excellent instance to the opposite
+effect. When such doubts can arise, it is evidently impossible to treat
+alternatives as absolutely exclusive by the logical nature of the
+relation. It becomes purely a question of the matter of the proposition.
+
+The question, as we shall afterwards see more fully, is one of
+the greatest theoretical importance, because it concerns the true
+distinction between the sciences of Logic and Mathematics. It is the
+foundation of number that every unit shall be distinct from every other
+unit; but Boole imported the conditions of number into the science of
+Logic, and produced a system which, though wonderful in its results,
+was not a system of logic at all.
+
+
+*Laws of the Disjunctive Relation.*
+
+In considering the combination or synthesis of terms (p. 30), we found
+that certain laws, those of Simplicity and Commutativeness, must be
+observed. In uniting terms by the disjunctive symbol we shall find that
+the same or closely similar laws hold true. The alternatives of either
+member of a disjunctive proposition are certainly commutative. Just as
+we cannot properly distinguish between *rich and rare gems* and *rare
+and rich gems*, so we must consider as identical the expression *rich
+or rare gems*, and *rare or rich gems*. In our symbolic language we may
+say
+
+  A ꖌ B = B ꖌ A.
+
+The order of statement, in short, has no effect upon the meaning of an
+aggregate of alternatives, so that the Law of Commutativeness holds
+true of the disjunctive symbol.
+
+As we have admitted the possibility of joining as alternatives terms
+which are not really different, the question arises, How shall we treat
+two or more alternatives when they are clearly shown to be the same?
+If we have it asserted that P is Q or R, and it is afterwards proved
+that Q is but another name for R, the result is that P is either R or
+R. How shall we interpret such a statement? What would be the meaning,
+for instance, of “wreath or anadem” if, on referring to a dictionary,
+we found *anadem* described as a wreath? I take it to be self-evident
+that the meaning would then become simply “wreath.” Accordingly we may
+affirm the general law
+
+  A ꖌ A = A.
+
+Any number of identical alternatives may always be reduced to, and are
+logically equivalent to, any one of those alternatives. This is a law
+which distinguishes mathematical terms from logical terms, because
+it obviously does not apply to the former. I propose to call it the
+*Law of Unity*, because it must really be involved in any definition
+of a mathematical unit. This law is closely analogous to the Law of
+Simplicity, AA = A; and the nature of the connection is worthy of
+attention.
+
+Few or no logicians except De Morgan have adequately noticed the close
+relation between combined and disjunctive terms, namely, that every
+disjunctive term is the negative of a corresponding combined term, and
+*vice versâ*. Consider the term
+
+  Malleable dense metal.
+
+How shall we describe the class of things which are not
+malleable-dense-metals? Whatever is included under that term must have
+all the qualities of malleability, denseness, and metallicity. Wherever
+any one or more of the qualities is wanting, the combined term will not
+apply. Hence the negative of the whole term is
+
+  Not-malleable or not-dense or not-metallic.
+
+In the above the conjunction *or* must clearly be interpreted
+as unexclusive; for there may readily be objects which are both
+not-malleable, and not-dense, and perhaps not-metallic at the same
+time. If in fact we were required to use *or* in a strictly exclusive
+manner, it would be requisite to specify seven distinct alternatives
+in order to describe the negative of a combination of three terms. The
+negatives of four or five terms would consist of fifteen or thirty-one
+alternatives. This consideration alone is sufficient to prove that the
+meaning of *or* cannot be always exclusive in common language.
+
+Expressed symbolically, we may say that the negative of
+
+                         ABC
+  is           not-A or not-B or not-C;
+  that is,     *a* ꖌ *b* ꖌ *c*.
+
+Reciprocally the negative of
+
+                    P ꖌ Q ꖌ R
+  is                  *pqr*.
+
+Every disjunctive term, then, is the negative of a combined term, and
+*vice versâ*.
+
+Apply this result to the combined term AAA, and its negative is
+
+  *a* ꖌ *a* ꖌ *a*.
+
+Since AAA is by the Law of Simplicity equivalent to A, so *a* ꖌ *a* ꖌ
+*a* must be equivalent to *a*, and the Law of Unity holds true. Each
+law thus necessarily presupposes the other.
+
+
+*Symbolic expression of the Law of Duality.*
+
+We may now employ our symbol of alternation to express in a clear and
+formal manner the third Fundamental Law of Thought, which I have called
+the Law of Duality (p. 6). Taking A to represent any class or object
+or quality, and B any other class, object or quality, we may always
+assert that A either agrees with B, or does not agree. Thus we may say
+
+  A = AB ꖌ A*b*.
+
+This is a formula which will henceforth be constantly employed, and it
+lies at the basis of reasoning.
+
+The reader may perhaps wish to know why A is inserted in both
+alternatives of the second member of the identity, and why the law is
+not stated in the form
+
+  A = B ꖌ *b*.
+
+But if he will consider the contents of the last section (p. 73), he
+will see that the latter expression cannot be correct, otherwise no
+term could have a corresponding negative term. For the negative of B
+ꖌ *b* is *b*B, or a self-contradictory term; thus if A were identical
+with B ꖌ *b*, its negative *a* would be non-existent. To say the least,
+this result would in most cases be an absurd one, and I see much reason
+to think that in a strictly logical point of view it would always be
+absurd. In all probability we ought to assume as a fundamental logical
+axiom that *every term has its negative in thought*. We cannot think at
+all without separating what we think about from other things, and these
+things necessarily form the negative notion.[69] It follows that any
+proposition of the form A = B ꖌ *b* is just as self-contradictory as
+one of the form A = B*b*.
+
+  [69] *Pure Logic*, p. 65. See also the criticism of this point by De
+  Morgan in the *Athenæum*, No. 1892, 30th January, 1864; p. 155.
+
+It is convenient to recapitulate in this place the three Laws of
+Thought in their symbolic form, thus
+
+  Law of Identity            A = A.
+  Law of Contradiction    A*a* = 0.
+  Law of Duality             A = AB ꖌ A*b*.
+
+
+*Various Forms of the Disjunctive Proposition.*
+
+Disjunctive propositions may occur in a great variety of forms, of
+which the old logicians took insufficient notice. There may be any
+number of alternatives, each of which may be a combination of any
+number of simple terms. A proposition, again, may be disjunctive in one
+or both members. The proposition
+
+  Solids or liquids or gases are electrics or conductors of electricity
+
+is an example of the doubly disjunctive form. The meaning of such a
+proposition is that whatever falls under any one or more alternatives
+on one side must fall under one or more alternatives on the other side.
+From what has been said before, it is apparent that the proposition
+
+  A ꖌ B = C ꖌ D
+
+will correspond to
+
+  *ab* = *cd*,
+
+each member of the latter being the negative of a member of the former
+proposition.
+
+As an instance of a complex disjunctive proposition I may give Senior’s
+definition of wealth, which, briefly stated, amounts to the proposition
+“Wealth is what is transferable, limited in supply, and either
+productive of pleasure or preventive of pain.”[70]
+
+  [70] Boole’s *Laws of Thought*, p. 106. Jevons’ *Pure Logic*, p. 69.
+
+  Let A = wealth
+      B = transferable
+      C = limited in supply
+      D = productive of pleasure
+      E = preventive of pain.
+
+The definition takes the form
+
+  A = BC(D ꖌ E);
+
+but if we develop the alternatives by a method to be afterwards more
+fully considered, it becomes
+
+  A = BCDE ꖌ BCD*e* ꖌ BC*d*E.
+
+An example of a still more complex proposition is found in De Morgan’s
+writings,[71] as follows:--“He must have been rich, and if not
+absolutely mad was weakness itself, subjected either to bad advice or
+to most unfavourable circumstances.”
+
+  [71] *On the Syllogism*, No. iii. p. 12. Camb. Phil. Trans. vol. x,
+  part i.
+
+If we assign the letters of the alphabet in succession, thus,
+
+  A = he
+  B = rich
+  C = absolutely mad
+  D = weakness itself
+  E = subjected to bad advice
+  F = subjected to most unfavourable circumstances,
+        the proposition will take the form
+
+  A = AB{C ꖌ D (E ꖌ F)},
+
+and if we develop the alternatives, expressing some of the different
+cases which may happen, we obtain
+
+  A = ABC ꖌ AB*c*DEF ꖌ AB*c*DE*f* ꖌ AB*c*D*e*F.
+
+The above gives the strict logical interpretation of the sentence, and
+the first alternative ABC is capable of development into eight cases,
+according as D, E and F are or are not present. Although from our
+knowledge of the matter, we may infer that weakness of character cannot
+be asserted of a person absolutely mad, there is no explicit statement
+to this effect.
+
+
+*Inference by Disjunctive Propositions.*
+
+Before we can make a free use of disjunctive propositions in the
+processes of inference we must consider how disjunctive terms can be
+combined together or with simple terms. In the first place, to combine
+a simple term with a disjunctive one, we must combine it with every
+alternative of the disjunctive term. A vegetable, for instance, is
+either a herb, a shrub, or a tree. Hence an exogenous vegetable is
+either an exogenous herb, or an exogenous shrub, or an exogenous tree.
+Symbolically stated, this process of combination is as follows,
+
+  A(B ꖌ C) = AB ꖌ AC.
+
+Secondly, to combine two disjunctive terms with each other, combine
+each alternative of one with each alternative of the other. Since
+flowering plants are either exogens or endogens, and are at the
+same time either herbs, shrubs or trees, it follows that there are
+altogether six alternatives--namely, exogenous herbs, exogenous shrubs,
+exogenous trees, endogenous herbs, endogenous shrubs, endogenous trees.
+This process of combination is shown in the general form
+
+  (A ꖌ B) (C ꖌ D ꖌ E) = AC ꖌ AD ꖌ AE ꖌ BC ꖌ BD ꖌ BE.
+
+It is hardly necessary to point out that, however numerous the
+terms combined, or the alternatives in those terms, we may effect
+the combination, provided each alternative is combined with each
+alternative of the other terms, as in the algebraic process of
+multiplication.
+
+Some processes of deduction may be at once exhibited. We may
+always, for instance, unite the same qualifying term to each side
+of an identity even though one or both members of the identity be
+disjunctive. Thus let
+
+  A = B ꖌ C.
+
+Now it is self-evident that
+
+  AD = AD,
+
+and in one side of this identity we may for A substitute its equivalent
+B ꖌ C, obtaining
+
+  AD = BD ꖌ CD.
+
+Since “a gaseous element is either hydrogen, or oxygen, or nitrogen,
+or chlorine, or fluorine,” it follows that “a free gaseous element
+is either free hydrogen, or free oxygen, or free nitrogen, or free
+chlorine, or free fluorine.”
+
+This process of combination will lead to most useful inferences when
+the qualifying adjective combined with both sides of the proposition is
+a negative of one or more alternatives. Since chlorine is a coloured
+gas, we may infer that “a colourless gaseous element is either
+(colourless) hydrogen, oxygen, nitrogen, or fluorine.” The alternative
+chlorine disappears because colourless chlorine does not exist. Again,
+since “a tooth is either an incisor, canine, bicuspid, or molar,”
+it follows that “a not-incisor tooth is either canine, bicuspid,
+or molar.” The general rule is that from the denial of any of the
+alternatives the affirmation of the remainder can be inferred. Now this
+result clearly follows from our process of substitution; for if we have
+the proposition
+
+  A = B ꖌ C ꖌ D,
+
+and we insert this expression for A on one side of the self-evident
+identity
+
+  A*b* = A*b*,
+
+we obtain A*b* = AB*b* ꖌ A*b*C ꖌ A*b*D;
+
+and, as the first of the three alternatives is self-contradictory, we
+strike it out according to the law of contradiction: there remains
+
+  A*b* = A*b*C ꖌ A*b*D.
+
+Thus our system fully includes and explains that mood of the
+Disjunctive Syllogism technically called the *modus tollendo ponens*.
+
+But the reader must carefully observe that the Disjunctive Syllogism of
+the mood *ponendo tollens*, which affirms one alternative, and thence
+infers the denial of the rest, cannot be held true in this system. If I
+say, indeed, that
+
+  Water is either salt or fresh water,
+
+it seems evident that “water which is salt is not fresh.” But this
+inference really proceeds from our knowledge that water cannot be at
+once salt and fresh. This inconsistency of the alternatives, as I have
+fully shown, will not always hold. Thus, if I say
+
+  Gems are either rare stones or beautiful stones,       (1)
+
+it will obviously not follow that
+
+  A rare gem is not a beautiful stone,                   (2)
+
+nor that
+
+  A beautiful gem is not a rare stone.                   (3)
+
+Our symbolic method gives only true conclusions; for if we take
+
+  A = gem
+  B = rare stone
+  C = beautiful stone,
+
+the proposition (1) is of the form
+
+             A = B ꖌ C
+  hence     AB = B ꖌ BC
+  and       AC = BC ꖌ C;
+
+but these inferences are not equivalent to the false ones (2) and (3).
+
+
+We can readily represent disjunctive reasoning by the *modus ponendo
+tollens*, when it is valid, by expressing the inconsistency of the
+alternatives explicitly. Thus if we resort to our instance of
+
+  Water is either salt or fresh,
+
+and take
+
+  A = Water  B = salt  C = fresh,
+
+then the premise is apparently of the form
+
+  A = AB ꖌ AC;
+
+but in reality there is an unexpressed condition that “what is salt
+is not fresh,” from which follows, by a process of inference to be
+afterwards described, that “what is fresh is not salt.” We have then,
+in letter-terms, the two propositions
+
+  B = B*c*
+  C = *b*C.
+
+If we substitute these descriptions in the original proposition, we
+obtain /* A = AB*c* ꖌ A*b*C; */
+
+uniting B to each side we infer
+
+       AB = AB*c* ꖌ AB*b*C
+  or   AB = AB*c*;
+
+that is,
+
+  Water which is salt is water salt and not fresh.
+
+I should weary the reader if I attempted to illustrate the multitude of
+forms which disjunctive reasoning may take; and as in the next chapter
+we shall be constantly treating the subject, I must here restrict
+myself to a single instance. A very common process of reasoning
+consists in the determination of the name of a thing by the successive
+exclusion of alternatives, a process called by the old name *abscissio
+infiniti*. Take the case:
+
+  Red-coloured metal is either copper or gold    (1)
+  Copper is dissolved by nitric acid             (2)
+  This specimen is red-coloured metal            (3)
+  This specimen is not dissolved by nitric acid  (4)
+  Therefore, this specimen consists of gold      (5)
+
+Let us assign the letter-symbols thus--
+
+  A = this specimen
+  B = red-coloured metal
+  C = copper
+  D = gold
+  E = dissolved by nitric acid.
+
+Assuming that the alternatives copper or gold are intended to be
+exclusive, as just explained in the case of fresh and salt water, the
+premises may be stated in the forms
+
+  B = BC*d* ꖌ B*c*D            (1)
+  C = CE                       (2)
+  A = AB                       (3)
+  A = A*e*                     (4)
+
+Substituting for C in (1) by means of (2) we get
+
+  B = BC*d*E ꖌ B*c*D
+
+From (3) and (4) we may infer likewise
+
+  A = AB*e*
+
+and if in this we substitute for B its equivalent just stated, it
+follows that
+
+  A = ABC*d*E*e* ꖌ AB*c*D*e*
+
+The first of the alternatives being contradictory the result is
+
+  A = AB*c*D*e*
+
+which contains a full description of “this specimen,” as furnished
+in the premises, but by ellipsis asserts that it is gold. It will be
+observed that in the symbolic expression (1) I have explicitly stated
+what is certainly implied, that copper is not gold, and gold not
+copper, without which condition the inference would not hold good.
+
+
+
+

@@ -537,8 +537,8 @@ func uploadCmd(args []string) {
 	}
 
 	if strings.EqualFold(strings.TrimSpace(*uploader), "sdk") {
-		if *repair || *removeFirst {
-			color.Red("sdk uploader does not support -repair/-remove-first yet")
+		if *removeFirst {
+			color.Red("sdk uploader does not support -remove-first yet")
 			os.Exit(1)
 		}
 		if *bookConcurrency <= 0 {
@@ -623,10 +623,13 @@ func uploadCmd(args []string) {
 				go func() {
 					defer wg.Done()
 					defer func() { <-sem }()
-					cfg := gutenberg.UploadConfigFromManifest(item.Entry, absCache, *signer)
-					cfg.MaxSections = *spikeSections
-					onChain := existByTitle[cfg.BookTitle]
-					up := gutenberg.UploadBookWithSDK(context.Background(), sender, cfg, item.Entry.GutenbergID, onChain)
+				cfg := gutenberg.UploadConfigFromManifest(item.Entry, absCache, *signer)
+				cfg.MaxSections = *spikeSections
+				if *repair {
+					cfg.SkipChapterUploadIfBookExists = false
+				}
+				onChain := existByTitle[cfg.BookTitle]
+				up := gutenberg.UploadBookWithSDK(context.Background(), sender, cfg, item.Entry.GutenbergID, onChain)
 					results <- result{Entry: item.Entry, Index: item.Index, Upload: up}
 				}()
 			}
@@ -639,6 +642,10 @@ func uploadCmd(args []string) {
 		for r := range results {
 			if r.Upload.Uploaded {
 				color.Green("Uploaded [%d/%d] %s (PG %d) lastTx=%s", r.Index+1, len(m.Entries), r.Entry.Title, r.Entry.GutenbergID, r.Upload.LastTxID)
+				m.Entries[r.Index].Status = "uploaded"
+				if err := gutenberg.SaveManifest(*manifestPath, m); err != nil {
+					color.Yellow("  warning: could not persist status=uploaded for PG %d: %v", r.Entry.GutenbergID, err)
+				}
 				continue
 			}
 			failures++

@@ -1,0 +1,537 @@
+CHAPTER III.
+
+_SYLLOGISMS._
+
+
+§ 1.
+
+_Representation of Syllogisms._
+
+
+We already know how to represent each of the three Propositions of a
+Syllogism in subscript form. When that is done, all we need, besides, is
+to write the three expressions in a row, with "+" between the Premisses,
+and "¶" before the Conclusion.
+
+    [Thus the Syllogism
+
+        "No x are m';
+         All m are y.
+             .'. No x are y'."
+
+    may be represented thus:--
+
+        xm'_{0} + m_{1}y'_{0} ¶ xy'_{0}
+
+    When a Proposition has to be translated from concrete form into
+    subscript form, the Reader will find it convenient, just at
+    first, to translate it into _abstract_ form, and _thence_ into
+    subscript form. But, after a little practice, he will find it
+    quite easy to go straight from concrete form to subscript form.]
+
+                                                                   pg074
+§ 2.
+
+_Formulæ for solving Problems in Syllogisms._
+
+When once we have found, by Diagrams, the Conclusion to a given Pair of
+Premisses, and have represented the Syllogism in subscript form, we have
+a _Formula_, by which we can at once find, without having to use
+Diagrams again, the Conclusion to any _other_ Pair of Premisses having
+the _same_ subscript forms.
+
+    [Thus, the expression
+
+        xm_{0} + ym'_{0} ¶ xy_{0}
+
+    is a Formula, by which we can find the Conclusion to any Pair of
+    Premisses whose subscript forms are
+
+        xm_{0} + ym'_{0}
+
+    For example, suppose we had the Pair of Propositions
+
+        "No gluttons are healthy;
+         No unhealthy men are strong".
+
+    proposed as Premisses. Taking "men" as our 'Universe', and
+    making m = healthy; x = gluttons; y = strong; we might translate
+    the Pair into abstract form, thus:--
+
+        "No x are m;
+         No m' are y".
+
+    These, in subscript form, would be
+
+        xm_{0} + m'y_{0}
+
+    which are identical with those in our _Formula_. Hence we at
+    once know the Conclusion to be
+
+        xy_{0}
+
+    that is, in abstract form,
+
+        "No x are y";
+
+    that is, in concrete form,
+
+        "No gluttons are strong".]
+
+I shall now take three different forms of Pairs of Premisses, and work
+out their Conclusions, once for all, by Diagrams; and thus obtain some
+useful Formulæ. I shall call them "Fig. I", "Fig. II", and "Fig. III".
+                                                                   pg075
+Fig. I.
+
+This includes any Pair of Premisses which are both of them Nullities,
+and which contain Unlike Eliminands.
+
+The simplest case is
+
+                       ·---------------·  ·-------·
+    xm_{0} + ym'_{0}   |(O)    |       |  |(O)|   |
+                       |   ·---|---·   |  |---|---|
+                       |   |(O)|(O)|   |  |   |   |
+                       |---|---|---|---|  ·-------·
+                       |   |   |   |   |
+                       |   ·---|---·   |  .'. xy_{0}
+                       |(O)    |       |
+                       ·---------------·
+
+In this case we see that the Conclusion is a Nullity, and that the
+Retinends have kept their Signs.
+
+And we should find this Rule to hold good with _any_ Pair of Premisses
+which fulfil the given conditions.
+
+    [The Reader had better satisfy himself of this, by working out,
+    on Diagrams, several varieties, such as
+
+        m_{1}x_{0} + ym'_{0} (which ¶ xy_{0})
+        xm'_{0} + m_{1}y_{0} (which ¶ xy_{0})
+        x'm_{0} + ym'_{0} (which ¶ x'y_{0})
+        m'_{1}x'_{0} + m_{1}y'_{0} (which ¶ x'y'_{0}).]
+
+If either Retinend is asserted in the _Premisses_ to exist, of course it
+may be so asserted in the _Conclusion_.
+
+Hence we get two _Variants_ of Fig. I, viz.
+
+(a) where _one_ Retinend is so asserted;
+
+(b) where _both_ are so asserted.
+
+    [The Reader had better work out, on Diagrams, examples of these
+    two Variants, such as
+
+        m_{1}x_{0} + y_{1}m'_{0} (which proves y_{1}x_{0})
+        x_{1}m'_{0} + m_{1}y_{0} (which proves x_{1}y_{0})
+        x'_{1}m_{0} + y_{1}m'_{0} (which proves x'_{1}y_{0} + y_{1}x'_{0}).]
+
+The Formula, to be remembered, is
+
+    xm_{0} + ym'_{0} ¶ xy_{0}
+
+with the following two Rules:--
+
+    (1) _Two Nullities, with Unlike Eliminands, yield a Nullity,
+    in which both Retinends keep their Signs._
+                                                                   pg076
+    (2) _A Retinend, asserted in the Premisses to exist, may be
+    so asserted in the Conclusion._
+
+    [Note that Rule (1) is merely the Formula expressed in words.]
+
+
+Fig. II.
+
+This includes any Pair of Premisses, of which one is a Nullity and the
+other an Entity, and which contain Like Eliminands.
+
+The simplest case is
+
+    xm_{0} + ym_{1}
+
+    ·---------------·  ·-------·
+    |       |       |  |   |   |
+    |   ·---|---·   |  |---|---|
+    |   |(O)|(O)|   |  |(I)|   |
+    |---|---|---|---|  ·-------·
+    |   |(I)|   |   |
+    |   ·---|---·   |  .'. x'y_{1}
+    |       |       |
+    ·---------------·
+
+In this case we see that the Conclusion is an Entity, and that the
+Nullity-Retinend has changed its Sign.
+
+And we should find this Rule to hold good with _any_ Pair of Premisses
+which fulfil the given conditions.
+
+    [The Reader had better satisfy himself of this, by working out,
+    on Diagrams, several varieties, such as
+
+        x'm_{0} + ym_{1} (which ¶ xy_{1})
+        x_{1}m'_{0} + y'm'_{1} (which ¶ x'y'_{1})
+        m_{1}x_{0} + y'm_{1} (which ¶ x'y'_{1}).]
+
+The Formula, to be remembered, is,
+
+    xm_{0} + ym_{1} ¶ x'y_{1}
+
+with the following Rule:--
+
+    _A Nullity and an Entity, with Like Eliminands, yield an
+    Entity, in which the Nullity-Retinend changes its Sign._
+
+    [Note that this Rule is merely the Formula expressed in words.]
+
+                                                                   pg077
+Fig. III.
+
+This includes any Pair of Premisses which are both of them Nullities,
+and which contain Like Eliminands asserted to exist.
+
+The simplest case is
+
+    xm_{0} + ym_{0} + m_{1}
+
+    [Note that "m_{1}" is here stated _separately_, because it does
+    not matter in which of the two Premisses it occurs: so that this
+    includes the _three_ forms "m_{1}x_{0} + ym_{0}", "xm_{0} +
+    m_{1}y_{0}", and "m_{1}x_{0} + m_{1}y_{0}".]
+
+    ·---------------·  ·-------·
+    |       |       |  |   |   |
+    |   ·---|---·   |  |---|---|
+    |   |(O)|(O)|   |  |   |(I)|
+    |---|---|---|---|  ·-------·
+    |   |(O)|(I)|   |
+    |   ·---|---·   |  .'. x'y'_{1}
+    |       |       |
+    ·---------------·
+
+In this case we see that the Conclusion is an Entity, and that _both_
+Retinends have changed their Signs.
+
+And we should find this Rule to hold good with _any_ Pair of Premisses
+which fulfil the given conditions.
+
+    [The Reader had better satisfy himself of this, by working out,
+    on Diagrams, several varieties, such as
+
+        x'm_{0} + m_{1}y_{0} (which ¶ xy'_{1})
+        m'_{1}x_{0} + m'y'_{0} (which ¶ x'y_{1})
+        m_{1}x'_{0} + m_{1}y'_{0} (which ¶ xy_{1}).]
+
+The Formula, to be remembered, is
+
+    xm_{0} + ym_{0} + m_{1} ¶ x'y'_{1}
+
+with the following Rule (which is merely the Formula expressed in
+words):--
+
+    _Two Nullities, with Like Eliminands asserted to exist, yield
+    an Entity, in which both Retinends change their Signs._
+
+       *       *       *       *       *
+
+In order to help the Reader to remember the peculiarities and Formulæ of
+these three Figures, I will put them all together in one Table.
+                                                                   pg078
+                            TABLE IX.
+     _______________________________________________________
+    |                                                       |
+    |                       Fig. I.                         |
+    |                                                       |
+    |               xm_{0} + ym'_{0} ¶ xy_{0}               |
+    |                                                       |
+    |    Two Nullities, with Unlike Eliminands, yield a     |
+    |    Nullity, in which both Retinends keep their Signs. |
+    |                                                       |
+    |  A Retinend, asserted in the Premisses to exist, may  |
+    |  be so asserted in the Conclusion.                    |
+    |_______________________________________________________|
+    |                                                       |
+    |                       Fig. II.                        |
+    |                                                       |
+    |               xm_{0} + ym_{1} ¶ x'y_{1}               |
+    |                                                       |
+    |    A Nullity and an Entity, with Like Eliminands,     |
+    |    yield an Entity, in which the Nullity-Retinend     |
+    |    changes its Sign.                                  |
+    |_______________________________________________________|
+    |                                                       |
+    |                      Fig. III.                        |
+    |                                                       |
+    |          xm_{0} + ym_{0} + m_{1} ¶ x'y'_{1}           |
+    |                                                       |
+    |  Two Nullities, with Like Eliminands asserted         |
+    |  to exist, yield an Entity, in which both Retinends   |
+    |  change their Signs.                                  |
+    |_______________________________________________________|
+
+I will now work out, by these Formulæ, as models for the Reader to
+imitate, some Problems in Syllogisms which have been already worked, by
+Diagrams, in Book V., Chap. II.
+
+(1) [see p. 64]
+
+    "No son of mine is dishonest;
+     People always treat an honest man with respect."
+
+Univ. "men"; m = honest; x = my sons; y = treated with respect.
+
+    xm'_{0} + m_{1}y'_{0} ¶ xy'_{0} [Fig. I.
+
+_i.e._ "No son of mine ever fails to be treated with respect."
+                                                                   pg079
+(2) [see p. 64]
+
+    "All cats understand French;
+     Some chickens are cats."
+
+Univ. "creatures"; m = cats; x = understanding French; y = chickens.
+
+    m_{1}x'_{0} + ym_{1} ¶ xy_{1} [Fig. II.
+
+_i.e._ "Some chickens understand French."
+
+(3) [see p. 64]
+
+    "All diligent students are successful;
+     All ignorant students are unsuccessful."
+
+Univ. "students"; m = successful; x = diligent; y = ignorant.
+
+    x_{1}m'_{0} + y_{1}m_{0} ¶ x_{1}y_{0} + y_{1}x_{0} [Fig. I (b).
+
+_i.e._ "All diligent students are learned; and all ignorant students are
+idle."
+
+(4) [see p. 66]
+
+    "All soldiers are strong;
+     All soldiers are brave.
+         Some strong men are brave."
+
+Univ. "men"; m = soldiers; x = strong; y = brave.
+
+    m_{1}x'_{0} + m_{1}y'_{0} ¶ xy_{1} [Fig. III.
+
+Hence proposed Conclusion is right.
+
+(5) [see p. 67]
+
+    "I admire these pictures;
+     When I admire anything, I wish to examine it thoroughly.
+         I wish to examine some of these pictures thoroughly."
+
+Univ. "things"; m = admired by me; x = these; y = things which I wish to
+examine thoroughly.
+
+    x_{1}m'_{0} + m_{1}y'_{0} ¶ x_{1}y'_{0} [Fig. I (a).
+
+Hence proposed Conclusion, xy_{1}, is _incomplete_, the _complete_ one
+being "I wish to examine _all_ these pictures thoroughly."
+                                                                   pg080
+(6) [see p. 67]
+
+    "None but the brave deserve the fair;
+     Some braggarts are cowards.
+         Some braggarts do not deserve the fair."
+
+Univ. "persons"; m = brave; x = deserving of the fair; y = braggarts.
+
+    m'x_{0} + ym'_{1} ¶ x'y_{1} [Fig. II.
+
+Hence proposed Conclusion is right.
+
+(7) [see p. 69]
+
+    "No one, who means to go by the train and cannot get a
+       conveyance, and has not enough time to walk to the
+       station, can do without running;
+
+     This party of tourists mean to go by the train and cannot
+       get a conveyance, but they have plenty of time to
+       walk to the station.
+
+         This party of tourists need not run."
+
+Univ. "persons meaning to go by the train, and unable to get a
+conveyance"; m = having enough time to walk to the station; x = needing
+to run; y = these tourists.
+
+m'x'_{0} + y_{1}m'_{0} do not come under any of the three Figures. Hence
+it is necessary to return to the Method of Diagrams, as shown at p. 69.
+
+Hence there is no Conclusion.
+
+
+    [Work Examples § =4=, 12-20 (p. 100); § =5=, 13-24 (pp. 101,
+    102); § =6=, 1-6 (p. 106); § =7=, 1-3 (pp. 107, 108). Also read
+    Note (A), at p. 164.]
+
+                                                                   pg081
+§ 3.
+
+_Fallacies._
+
+Any argument which _deceives_ us, by seeming to prove what it does not
+really prove, may be called a '=Fallacy=' (derived from the Latin verb
+_fallo_ "I deceive"): but the particular kind, to be now discussed,
+consists of a Pair of Propositions, which are proposed as the Premisses
+of a Syllogism, but yield no Conclusion.
+
+When each of the proposed Premisses is a Proposition in _I_, or _E_, or
+_A_, (the only kinds with which we are now concerned,) the Fallacy may
+be detected by the 'Method of Diagrams,' by simply setting them out on a
+Triliteral Diagram, and observing that they yield no information which
+can be transferred to the Biliteral Diagram.
+
+But suppose we were working by the 'Method of _Subscripts_,' and had to
+deal with a Pair of proposed Premisses, which happened to be a
+'Fallacy,' how could we be certain that they would not yield any
+Conclusion?
+
+Our best plan is, I think, to deal with _Fallacies_ in the same was as
+we have already dealt with _Syllogisms_: that is, to take certain forms
+of Pairs of Propositions, and to work them out, once for all, on the
+Triliteral Diagram, and ascertain that they yield _no_ Conclusion; and
+then to record them, for future use, as _Formulæ for Fallacies_, just as
+we have already recorded our three _Formulæ for Syllogisms_.
+                                                                   pg082
+Now, if we were to record the two Sets of Formulæ in the _same_ shape,
+viz. by the Method of Subscripts, there would be considerable risk of
+confusing the two kinds. Hence, in order to keep them distinct, I
+propose to record the Formulæ for _Fallacies_ in _words_, and to call
+them "Forms" instead of "Formulæ."
+
+Let us now proceed to find, by the Method of Diagrams, three "Forms of
+Fallacies," which we will then put on record for future use. They are as
+follows:--
+
+    (1) Fallacy of Like Eliminands not asserted to exist.
+    (2) Fallacy of Unlike Eliminands with an Entity-Premiss.
+    (3) Fallacy of two Entity-Premisses.
+
+These shall be discussed separately, and it will be seen that each fails
+to yield a Conclusion.
+
+(1) _Fallacy of Like Eliminands not asserted to exist._
+
+It is evident that neither of the given Propositions can be an _Entity_,
+since that kind asserts the _existence_ of both of its Terms (see p.
+20). Hence they must both be _Nullities_.
+
+Hence the given Pair may be represented by (xm_{0} + ym_{0}), with or
+without x_{1}, y_{1}.
+
+These, set out on Triliteral Diagrams, are
+
+     xm_{0} + ym_{0}        x_{1}m_{0} + ym_{0}
+    ·---------------·        ·---------------·
+    |       |       |        |      (I)      |
+    |   ·---|---·   |        |   ·---|---·   |
+    |   |(O)|(O)|   |        |   |(O)|(O)|   |
+    |---|---|---|---|        |---|---|---|---|
+    |   |(O)|   |   |        |   |(O)|   |   |
+    |   ·---|---·   |        |   ·---|---·   |
+    |       |       |        |       |       |
+    ·---------------·        ·---------------·
+
+   xm_{0} + y_{1}m_{0}    x_{1}m_{0} + y_{1}m_{0}
+    ·---------------·        ·---------------·
+    |       |       |        |      (I)      |
+    |   ·---|---·   |        |   ·---|---·   |
+    |   |(O)|(O)|   |        |   |(O)|(O)|   |
+    |(I)|---|---|---|        |(I)|---|---|---|
+    |   |(O)|   |   |        |   |(O)|   |   |
+    |   ·---|---·   |        |   ·---|---·   |
+    |       |       |        |       |       |
+    ·---------------·        ·---------------·
+                                                                   pg083
+(2) _Fallacy of Unlike Eliminands with an Entity-Premiss._
+
+Here the given Pair may be represented by (xm_{0} + ym'_{1}) with or
+without x_{1} or m_{1}.
+
+These, set out on Triliteral Diagrams, are
+
+     xm_{0} + ym'_{1}    x_{1}m_{0} + ym'_{1}    m_{1}x_{0} + ym'_{1}
+    ·---------------·     ·---------------·       ·---------------·
+    |       |       |     |      (I)      |       |       |       |
+    |   ·---|---·   |     |   ·---|---·   |       |   ·---|---·   |
+    |   |(O)|(O)|   |     |   |(O)|(O)|   |       |   |(O)|(O)|   |
+    |(I)|---|---|---|     |(I)|---|---|---|       |(I)|---|---|---|
+    |   |   |   |   |     |   |   |   |   |       |   |  (I)  |   |
+    |   ·---|---·   |     |   ·---|---·   |       |   ·---|---·   |
+    |       |       |     |       |       |       |       |       |
+    ·---------------·     ·---------------·       ·---------------·
+
+(3) _Fallacy of two Entity-Premisses._
+
+Here the given Pair may be represented by either (xm_{1} + ym_{1}) or
+(xm_{1} + ym'_{1}).
+
+These, set out on Triliteral Diagrams, are
+
+     xm_{1} + ym_{1}    xm_{1} + ym'_{1}
+    ·---------------·  ·---------------·
+    |       |       |  |       |       |
+    |   ·---|---·   |  |   ·---|---·   |
+    |   |  (I)  |   |  |   |  (I)  |   |
+    |---|(I)|---|---|  |(I)|---|---|---|
+    |   |   |   |   |  |   |   |   |   |
+    |   ·---|---·   |  |   ·---|---·   |
+    |       |       |  |       |       |
+    ·---------------·  ·---------------·
+
+                                                                   pg084
+§ 4.
+
+_Method of proceeding with a given Pair of Propositions._
+
+Let us suppose that we have before us a Pair of Propositions of
+Relation, which contain between them a Pair of codivisional Classes, and
+that we wish to ascertain what Conclusion, if any, is consequent from
+them. We translate them, if necessary, into subscript-form, and then
+proceed as follows:--
+
+(1) We examine their Subscripts, in order to see whether they are
+
+    (a) a Pair of Nullities;
+    or (b) a Nullity and an Entity;
+    or (c) a Pair of Entities.
+
+(2) If they are a Pair of Nullities, we examine their Eliminands, in
+order to see whether they are Unlike or Like.
+
+If their Eliminands are _Unlike_, it is a case of Fig. I. We then
+examine their Retinends, to see whether one or both of them are asserted
+to _exist_. If one Retinend is so asserted, it is a case of Fig. I (a);
+if both, it is a case of Fig. I (b).
+
+If their Eliminands are Like, we examine them, in order to see whether
+either of them is asserted to exist. If so, it is a case of Fig. III.;
+if not, it is a case of "Fallacy of Like Eliminands not asserted to
+exist."
+
+(3) If they are a Nullity and an Entity, we examine their Eliminands, in
+order to see whether they are Like or Unlike.
+
+If their Eliminands are Like, it is a case of Fig. II.; if _Unlike_, it
+is a case of "Fallacy of Unlike Eliminands with an Entity-Premiss."
+
+(4) If they are a Pair of Entities, it is a case of "Fallacy of two
+Entity-Premisses."
+
+
+    [Work Examples § =4=, 1-11 (p. 100); § =5=, 1-12 (p. 101);
+    § =6=, 7-12 (p. 106); § =7=, 7-12 (p. 108).]
+
+                                                                   pg085
+
+

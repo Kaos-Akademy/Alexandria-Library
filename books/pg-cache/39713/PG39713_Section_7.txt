@@ -1,0 +1,212 @@
+CHAPTER VII
+
+THE HISTORY OF MATHEMATICAL PHYSICS
+
+
+_The Past and the Future of Physics._--What is the present state of
+mathematical physics? What are the problems it is led to set itself?
+What is its future? Is its orientation about to be modified?
+
+Ten years hence will the aim and the methods of this science appear to
+our immediate successors in the same light as to ourselves; or, on the
+contrary, are we about to witness a profound transformation? Such are
+the questions we are forced to raise in entering to-day upon our
+investigation.
+
+If it is easy to propound them: to answer is difficult. If we felt
+tempted to risk a prediction, we should easily resist this temptation,
+by thinking of all the stupidities the most eminent savants of a hundred
+years ago would have uttered, if some one had asked them what the
+science of the nineteenth century would be. They would have thought
+themselves bold in their predictions, and after the event, how very
+timid we should have found them. Do not, therefore, expect of me any
+prophecy.
+
+But if, like all prudent physicians, I shun giving a prognosis, yet I
+can not dispense with a little diagnostic; well, yes, there are
+indications of a serious crisis, as if we might expect an approaching
+transformation. Still, be not too anxious: we are sure the patient will
+not die of it, and we may even hope that this crisis will be salutary,
+for the history of the past seems to guarantee us this. This crisis, in
+fact, is not the first, and to understand it, it is important to recall
+those which have preceded. Pardon then a brief historical sketch.
+
+_The Physics of Central Forces._--Mathematical physics, as we know, was
+born of celestial mechanics, which gave birth to it at the end of the
+eighteenth century, at the moment when it itself attained its complete
+development. During its first years especially, the infant strikingly
+resembled its mother.
+
+The astronomic universe is formed of masses, very great, no doubt, but
+separated by intervals so immense that they appear to us only as
+material points. These points attract each other inversely as the square
+of the distance, and this attraction is the sole force which influences
+their movements. But if our senses were sufficiently keen to show us all
+the details of the bodies which the physicist studies, the spectacle
+thus disclosed would scarcely differ from the one the astronomer
+contemplates. There also we should see material points, separated from
+one another by intervals, enormous in comparison with their dimensions,
+and describing orbits according to regular laws. These infinitesimal
+stars are the atoms. Like the stars proper, they attract or repel each
+other, and this attraction or this repulsion, following the straight
+line which joins them, depends only on the distance. The law according
+to which this force varies as function of the distance is perhaps not
+the law of Newton, but it is an analogous law; in place of the exponent
+-2, we have probably a different exponent, and it is from this change of
+exponent that arises all the diversity of physical phenomena, the
+variety of qualities and of sensations, all the world, colored and
+sonorous, which surrounds us; in a word, all nature.
+
+Such is the primitive conception in all its purity. It only remains to
+seek in the different cases what value should be given to this exponent
+in order to explain all the facts. It is on this model that Laplace, for
+example, constructed his beautiful theory of capillarity; he regards it
+only as a particular case of attraction, or, as he says, of universal
+gravitation, and no one is astonished to find it in the middle of one of
+the five volumes of the 'Mécanique céleste.' More recently Briot
+believes he penetrated the final secret of optics in demonstrating that
+the atoms of ether attract each other in the inverse ratio of the sixth
+power of the distance; and Maxwell himself, does he not say somewhere
+that the atoms of gases repel each other in the inverse ratio of the
+fifth power of the distance? We have the exponent -6, or -5, in place of
+the exponent -2, but it is always an exponent.
+
+Among the theories of this epoch, one alone is an exception, that of
+Fourier; in it are indeed atoms acting at a distance one upon the other;
+they mutually transmit heat, but they do not attract, they never budge.
+From this point of view, Fourier's theory must have appeared to the eyes
+of his contemporaries, to those of Fourier himself, as imperfect and
+provisional.
+
+This conception was not without grandeur; it was seductive, and many
+among us have not finally renounced it; they know that one will attain
+the ultimate elements of things only by patiently disentangling the
+complicated skein that our senses give us; that it is necessary to
+advance step by step, neglecting no intermediary; that our fathers were
+wrong in wishing to skip stations; but they believe that when one shall
+have arrived at these ultimate elements, there again will be found the
+majestic simplicity of celestial mechanics.
+
+Neither has this conception been useless; it has rendered us an
+inestimable service, since it has contributed to make precise the
+fundamental notion of the physical law.
+
+I will explain myself; how did the ancients understand law? It was for
+them an internal harmony, static, so to say, and immutable; or else it
+was like a model that nature tried to imitate. For us a law is something
+quite different; it is a constant relation between the phenomenon of
+to-day and that of to-morrow; in a word, it is a differential equation.
+
+Behold the ideal form of physical law; well, it is Newton's law which
+first clothed it forth. If then one has acclimated this form in physics,
+it is precisely by copying as far as possible this law of Newton, that
+is by imitating celestial mechanics. This is, moreover, the idea I have
+tried to bring out in Chapter VI.
+
+_The Physics of the Principles._--Nevertheless, a day arrived when the
+conception of central forces no longer appeared sufficient, and this is
+the first of those crises of which I just now spoke.
+
+What was done then? The attempt to penetrate into the detail of the
+structure of the universe, to isolate the pieces of this vast mechanism,
+to analyze one by one the forces which put them in motion, was
+abandoned, and we were content to take as guides certain general
+principles the express object of which is to spare us this minute study.
+How so? Suppose we have before us any machine; the initial wheel work
+and the final wheel work alone are visible, but the transmission, the
+intermediary machinery by which the movement is communicated from one to
+the other, is hidden in the interior and escapes our view; we do not
+know whether the communication is made by gearing or by belts, by
+connecting-rods or by other contrivances. Do we say that it is
+impossible for us to understand anything about this machine so long as
+we are not permitted to take it to pieces? You know well we do not, and
+that the principle of the conservation of energy suffices to determine
+for us the most interesting point. We easily ascertain that the final
+wheel turns ten times less quickly than the initial wheel, since these
+two wheels are visible; we are able thence to conclude that a couple
+applied to the one will be balanced by a couple ten times greater
+applied to the other. For that there is no need to penetrate the
+mechanism of this equilibrium and to know how the forces compensate each
+other in the interior of the machine; it suffices to be assured that
+this compensation can not fail to occur.
+
+Well, in regard to the universe, the principle of the conservation of
+energy is able to render us the same service. The universe is also a
+machine, much more complicated than all those of industry, of which
+almost all the parts are profoundly hidden from us; but in observing the
+motion of those that we can see, we are able, by the aid of this
+principle, to draw conclusions which remain true whatever may be the
+details of the invisible mechanism which animates them.
+
+The principle of the conservation of energy, or Mayer's principle, is
+certainly the most important, but it is not the only one; there are
+others from which we can derive the same advantage. These are:
+
+Carnot's principle, or the principle of the degradation of energy.
+
+Newton's principle, or the principle of the equality of action and
+reaction.
+
+The principle of relativity, according to which the laws of physical
+phenomena must be the same for a stationary observer as for an observer
+carried along in a uniform motion of translation; so that we have not
+and can not have any means of discerning whether or not we are carried
+along in such a motion.
+
+The principle of the conservation of mass, or Lavoisier's principle.
+
+I will add the principle of least action.
+
+The application of these five or six general principles to the different
+physical phenomena is sufficient for our learning of them all that we
+could reasonably hope to know of them. The most remarkable example of
+this new mathematical physics is, beyond question, Maxwell's
+electromagnetic theory of light.
+
+We know nothing as to what the ether is, how its molecules are disposed,
+whether they attract or repel each other; but we know that this medium
+transmits at the same time the optical perturbations and the electrical
+perturbations; we know that this transmission must take place in
+conformity with the general principles of mechanics, and that suffices
+us for the establishment of the equations of the electromagnetic field.
+
+These principles are results of experiments boldly generalized; but they
+seem to derive from their very generality a high degree of certainty. In
+fact, the more general they are, the more frequent are the opportunities
+to check them, and the verifications multiplying, taking the most
+varied, the most unexpected forms, end by no longer leaving place for
+doubt.
+
+_Utility of the Old Physics._--Such is the second phase of the history
+of mathematical physics and we have not yet emerged from it. Shall we
+say that the first has been useless? that during fifty years science
+went the wrong way, and that there is nothing left but to forget so many
+accumulated efforts that a vicious conception condemned in advance to
+failure? Not the least in the world. Do you think the second phase could
+have come into existence without the first? The hypothesis of central
+forces contained all the principles; it involved them as necessary
+consequences; it involved both the conservation of energy and that of
+masses, and the equality of action and reaction, and the law of least
+action, which appeared, it is true, not as experimental truths, but as
+theorems; the enunciation of which had at the same time something more
+precise and less general than under their present form.
+
+It is the mathematical physics of our fathers which has familiarized us
+little by little with these various principles; which has habituated us
+to recognize them under the different vestments in which they disguise
+themselves. They have been compared with the data of experience, it has
+been seen how it was necessary to modify their enunciation to adapt them
+to these data; thereby they have been extended and consolidated. Thus
+they came to be regarded as experimental truths; the conception of
+central forces became then a useless support, or rather an
+embarrassment, since it made the principles partake of its hypothetical
+character.
+
+The frames then have not broken, because they are elastic; but they have
+enlarged; our fathers, who established them, did not labor in vain, and
+we recognize in the science of to-day the general traits of the sketch
+which they traced.
+
+
+
+

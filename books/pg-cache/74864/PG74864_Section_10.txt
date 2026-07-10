@@ -1,0 +1,778 @@
+CHAPTER X.
+
+THE THEORY OF PROBABILITY.
+
+
+The subject upon which we now enter must not be regarded as an isolated
+and curious branch of speculation. It is the necessary basis of the
+judgments we make in the prosecution of science, or the decisions we
+come to in the conduct of ordinary affairs. As Butler truly said,
+“Probability is the very guide of life.” Had the science of numbers
+been studied for no other purpose, it must have been developed for
+the calculation of probabilities. All our inferences concerning the
+future are merely probable, and a due appreciation of the degree of
+probability depends upon a comprehension of the principles of the
+subject. I am convinced that it is impossible to expound the methods of
+induction in a sound manner, without resting them upon the theory of
+probability. Perfect knowledge alone can give certainty, and in nature
+perfect knowledge would be infinite knowledge, which is clearly beyond
+our capacities. We have, therefore, to content ourselves with partial
+knowledge--knowledge mingled with ignorance, producing doubt.
+
+A great difficulty in this subject consists in acquiring a precise
+notion of the matter treated. What is it that we number, and measure,
+and calculate in the theory of probabilities? Is it belief, or opinion,
+or doubt, or knowledge, or chance, or necessity, or want of art? Does
+probability exist in the things which are probable, or in the mind
+which regards them as such? The etymology of the name lends us no
+assistance: for, curiously enough, *probable* is ultimately the same
+word as *provable*, a good instance of one word becoming differentiated
+to two opposite meanings.
+
+Chance cannot be the subject of the theory, because there is really
+no such thing as chance, regarded as producing and governing events.
+The word chance signifies *falling*, and the notion of falling is
+continually used as a simile to express uncertainty, because we can
+seldom predict how a die, a coin, or a leaf will fall, or when a bullet
+will hit the mark. But everyone sees, after a little reflection, that
+it is in our knowledge the deficiency lies, not in the certainty of
+nature’s laws. There is no doubt in lightning as to the point it shall
+strike; in the greatest storm there is nothing capricious; not a grain
+of sand lies upon the beach, but infinite knowledge would account for
+its lying there; and the course of every falling leaf is guided by the
+principles of mechanics which rule the motions of the heavenly bodies.
+
+Chance then exists not in nature, and cannot coexist with knowledge;
+it is merely an expression, as Laplace remarked, for our ignorance
+of the causes in action, and our consequent inability to predict the
+result, or to bring it about infallibly. In nature the happening of
+an event has been pre-determined from the first fashioning of the
+universe. *Probability belongs wholly to the mind.* This is proved by
+the fact that different minds may regard the very same event at the
+same time with widely different degrees of probability. A steam-vessel,
+for instance, is missing and some persons believe that she has sunk
+in mid-ocean; others think differently. In the event itself there can
+be no such uncertainty; the steam-vessel either has sunk or has not
+sunk, and no subsequent discussion of the probable nature of the event
+can alter the fact. Yet the probability of the event will really vary
+from day to day, and from mind to mind, according as the slightest
+information is gained regarding the vessels met at sea, the weather
+prevailing there, the signs of wreck picked up, or the previous
+condition of the vessel. Probability thus belongs to our mental
+condition, to the light in which we regard events, the occurrence
+or non-occurrence of which is certain in themselves. Many writers
+accordingly have asserted that probability is concerned with degree or
+quantity of belief. De Morgan says,[110] “By degree of probability
+we really mean or ought to mean degree of belief.” The late Professor
+Donkin expressed the meaning of probability as “quantity of belief;”
+but I have never felt satisfied with such definitions of probability.
+The nature of *belief* is not more clear to my mind than the notion
+which it is used to define. But an all-sufficient objection is, that
+*the theory does not measure what the belief is, but what it ought to
+be*. Few minds think in close accordance with the theory, and there
+are many cases of evidence in which the belief existing is habitually
+different from what it ought to be. Even if the state of belief in any
+mind could be measured and expressed in figures, the results would be
+worthless. The value of the theory consists in correcting and guiding
+our belief, and rendering our states of mind and consequent actions
+harmonious with our knowledge of exterior conditions.
+
+  [110] *Formal Logic*, p. 172.
+
+This objection has been clearly perceived by some of those who still
+used quantity of belief as a definition of probability. Thus De
+Morgan adds--“Belief is but another name for imperfect knowledge.”
+Donkin has well said that the quantity of belief is “always relative
+to a particular state of knowledge or ignorance; but it must be
+observed that it is absolute in the sense of not being relative to
+any individual mind; since, the same information being presupposed,
+all minds *ought* to distribute their belief in the same way.”[111]
+Boole seemed to entertain a like view, when he described the theory as
+engaged with “the equal distribution of ignorance;”[112] but we may
+just as well say that it is engaged with the equal distribution of
+knowledge.
+
+  [111] *Philosophical Magazine*, 4th Series, vol. i. p. 355.
+
+  [112] *Transactions of the Royal Society of Edinburgh*, vol. xxi.
+  part 4.
+
+I prefer to dispense altogether with this obscure word belief, and to
+say that the theory of probability deals with *quantity of knowledge*,
+an expression of which a precise explanation and measure can presently
+be given. An event is only probable when our knowledge of it is diluted
+with ignorance, and exact calculation is needed to discriminate how
+much we do and do not know. The theory has been described by some
+writers as professing *to evolve knowledge out of ignorance*; but as
+Donkin admirably remarked, it is really “a method of avoiding the
+erection of belief upon ignorance.” It defines rational expectation
+by measuring the comparative amounts of knowledge and ignorance, and
+teaches us to regulate our actions with regard to future events in a
+way which will, in the long run, lead to the least disappointment. It
+is, as Laplace happily said, *good sense reduced to calculation*. This
+theory appears to me the noblest creation of intellect, and it passes
+my conception how two such men as Auguste Comte and J. S. Mill could be
+found depreciating it and vainly questioning its validity. To eulogise
+the theory ought to be as needless as to eulogise reason itself.
+
+
+*Fundamental Principles of the Theory.*
+
+The calculation of probabilities is really founded, as I conceive, upon
+the principle of reasoning set forth in preceding chapters. We must
+treat equals equally, and what we know of one case may be affirmed of
+every case resembling it in the necessary circumstances. The theory
+consists in putting similar cases on a par, and distributing equally
+among them whatever knowledge we possess. Throw a penny into the air,
+and consider what we know with regard to its way of falling. We know
+that it will certainly fall upon a side, so that either head or tail
+will be uppermost; but as to whether it will be head or tail, our
+knowledge is equally divided. Whatever we know concerning head, we know
+also concerning tail, so that we have no reason for expecting one more
+than the other. The least predominance of belief to either side would
+be irrational; it would consist in treating unequally things of which
+our knowledge is equal.
+
+The theory does not require, as some writers have erroneously supposed,
+that we should first ascertain by experiment the equal facility of
+the events we are considering. So far as we can examine and measure
+the causes in operation, events are removed out of the sphere of
+probability. The theory comes into play where ignorance begins, and the
+knowledge we possess requires to be distributed over many cases. Nor
+does the theory show that the coin will fall as often on the one side
+as the other. It is almost impossible that this should happen, because
+some inequality in the form of the coin, or some uniform manner in
+throwing it up, is almost sure to occasion a slight preponderance
+in one direction. But as we do not previously know in which way a
+preponderance will exist, we have no reason for expecting head more
+than tail. Our state of knowledge will be changed should we throw up
+the coin many times and register the results. Every throw gives us some
+slight information as to the probable tendency of the coin, and in
+subsequent calculations we must take this into account. In other cases
+experience might show that we had been entirely mistaken; we might
+expect that a die would fall as often on each of the six sides as on
+each other side in the long run; trial might show that the die was a
+loaded one, and falls most often on a particular face. The theory would
+not have misled us: it treated correctly the information we had, which
+is all that any theory can do.
+
+It may be asked, as Mill asks, Why spend so much trouble in calculating
+from imperfect data, when a little trouble would enable us to render a
+conclusion certain by actual trial? Why calculate the probability of a
+measurement being correct, when we can try whether it is correct? But I
+shall fully point out in later parts of this work that in measurement
+we never can attain perfect coincidence. Two measurements of the
+same base line in a survey may show a difference of some inches, and
+there may be no means of knowing which is the better result. A third
+measurement would probably agree with neither. To select any one of the
+measurements, would imply that we knew it to be the most nearly correct
+one, which we do not. In this state of ignorance, the only guide is
+the theory of probability, which proves that in the long run the mean
+of divergent results will come most nearly to the truth. In all other
+scientific operations whatsoever, perfect knowledge is impossible, and
+when we have exhausted all our instrumental means in the attainment of
+truth, there is a margin of error which can only be safely treated by
+the principles of probability.
+
+The method which we employ in the theory consists in calculating the
+number of all the cases or events concerning which our knowledge is
+equal. If we have the slightest reason for suspecting that one event
+is more likely to occur than another, we should take this knowledge
+into account. This being done, we must determine the whole number of
+events which are, so far as we know, equally likely. Thus, if we have
+no reason for supposing that a penny will fall more often one way than
+another, there are two cases, head and tail, equally likely. But if
+from trial or otherwise we know, or think we know, that of 100 throws
+55 will give tail, then the probability is measured by the ratio of 55
+to 100.
+
+The mathematical formulæ of the theory are exactly the same as those
+of the theory of combinations. In this latter theory we determine in
+how many ways events may be joined together, and we now proceed to use
+this knowledge in calculating the number of ways in which a certain
+event may come about. It is the comparative numbers of ways in which
+events can happen which measure their comparative probabilities. If
+we throw three pennies into the air, what is the probability that two
+of them will fall tail uppermost? This amounts to asking in how many
+possible ways can we select two tails out of three, compared with the
+whole number of ways in which the coins can be placed. Now, the fourth
+line of the Arithmetical Triangle (p. 184) gives us the answer. The
+whole number of ways in which we can select or leave three things is
+eight, and the possible combinations of two things at a time is three;
+hence the probability of two tails is the ratio of three to eight. From
+the numbers in the triangle we may similarly draw all the following
+probabilities:--
+
+  One combination gives 0 tail. Probability 1/8.
+  Three combinations gives 1 tail. Probability 3/8.
+  Three combinations give 2 tails. Probability 3/8.
+  One combination gives 3 tails. Probability 1/8.
+
+We can apply the same considerations to the imaginary causes of the
+difference of stature, the combinations of which were shown in p. 188.
+There are altogether 128 ways in which seven causes can be present or
+absent. Now, twenty-one of these combinations give an addition of two
+inches, so that the probability of a person under the circumstances
+being five feet two inches is 21/128. The probability of five feet
+three inches is 35/128; of five feet one inch 7/128; of five feet
+1/128, and so on. Thus the eighth line of the Arithmetical Triangle
+gives all the probabilities arising out of the combinations of seven
+causes.
+
+
+*Rules for the Calculation of Probabilities.*
+
+I will now explain as simply as possible the rules for calculating
+probabilities. The principal rule is as follows:--
+
+Calculate the number of events which may happen independently of each
+other, and which, as far as is known, are equally probable. Make this
+number the denominator of a fraction, and take for the numerator the
+number of such events as imply or constitute the happening of the
+event, whose probability is required.
+
+Thus, if the letters of the word *Roma* be thrown down casually in a
+row, what is the probability that they will form a significant Latin
+word? The possible arrangements of four letters are 4 × 3 × 2 × 1,
+or 24 in number (p. 178), and if all the arrangements be examined,
+seven of these will be found to have meaning, namely *Roma*, *ramo*,
+*oram*, *mora*, *maro*, *armo*, and *amor*. Hence the probability of a
+significant result is 7/24.
+
+We must distinguish comparative from absolute probabilities. In drawing
+a card casually from a pack, there is no reason to expect any one card
+more than any other. Now, there are four kings and four queens in a
+pack, so that there are just as many ways of drawing one as the other,
+and the probabilities are equal. But there are thirteen diamonds, so
+that the probability of a king is to that of a diamond as four to
+thirteen. Thus the probabilities of each are proportional to their
+respective numbers of ways of happening. Again, I can draw a king in
+four ways, and not draw one in forty-eight, so that the probabilities
+are in this proportion, or, as is commonly said, the *odds* against
+drawing a king are forty-eight to four. The odds are seven to seventeen
+in favour, or seventeen to seven against the letters R,o,m,a,
+accidentally forming a significant word. The odds are five to three
+against two tails appearing in three throws of a penny. Conversely,
+when the odds of an event are given, and the probability is required,
+*take the odds in favour of the event for numerator, and the sum of the
+odds for denominator*.
+
+It is obvious that an event is certain when all the combinations of
+causes which can take place produce that event. If we represent the
+probability of such event according to our rule, it gives the ratio
+of some number to itself, or unity. An event is certain not to happen
+when no possible combination of causes gives the event, and the ratio
+by the same rule becomes that of 0 to some number. Hence it follows
+that in the theory of probability certainty is expressed by 1, and
+impossibility by 0; but no mystical meaning should be attached to these
+symbols, as they merely express the fact that *all* or *no* possible
+combinations give the event.
+
+By a *compound event*, we mean an event which may be decomposed into
+two or more simpler events. Thus the firing of a gun may be decomposed
+into pulling the trigger, the fall of the hammer, the explosion of
+the cap, &c. In this example the simple events are not *independent*,
+because if the trigger is pulled, the other events will under proper
+conditions necessarily follow, and their probabilities are therefore
+the same as that of the first event. Events are *independent* when
+the happening of one does not render the other either more or less
+probable than before. Thus the death of a person is neither more nor
+less probable because the planet Mars happens to be visible. When
+the component events are independent, a simple rule can be given for
+calculating the probability of the compound event, thus--*Multiply
+together the fractions expressing the probabilities of the independent
+component events.*
+
+The probability of throwing tail twice with a penny is 1/2 × 1/2,
+or 1/4; the probability of throwing it three times running is
+1/2 × 1/2 × 1/2, or 1/8; a result agreeing with that obtained in
+an apparently different manner (p. 202). In fact, when we multiply
+together the denominators, we get the whole number of ways of happening
+of the compound event, and when we multiply the numerators, we get the
+number of ways favourable to the required event.
+
+Probabilities may be added to or subtracted from each other under the
+important condition that the events in question are exclusive of each
+other, so that not more than one of them can happen. It might be argued
+that, since the probability of throwing head at the first trial is
+1/2, and at the second trial also 1/2, the probability of throwing it
+in the first two throws is 1/2 + 1/2, or certainty. Not only is this
+result evidently absurd, but a repetition of the process would lead
+us to a probability of 1-1/2 or of any greater number, results which
+could have no meaning whatever. The probability we wish to calculate is
+that of one head in two throws, but in our addition we have included
+the case in which two heads appear. The true result is 1/2 + 1/2 × 1/2
+or 3/4, or the probability of head at the first throw, added to the
+exclusive probability that if it does not come at the first, it will
+come at the second. The greatest difficulties of the theory arise
+from the confusion of exclusive and unexclusive alternatives. I may
+remind the reader that the possibility of unexclusive alternatives was
+a point previously discussed (p. 68), and to the reasons then given
+for considering alternation as logically unexclusive, may be added
+the existence of these difficulties in the theory of probability. The
+erroneous result explained above really arose from overlooking the
+fact that the expression “head first throw or head second throw” might
+include the case of head at both throws.
+
+
+*The Logical Alphabet in questions of Probability.*
+
+When the probabilities of certain simple events are given, and it is
+required to deduce the probabilities of compound events, the Logical
+Alphabet may give assistance, provided that there are no special
+logical conditions so that all the combinations are possible. Thus,
+if there be three events, A, B, C, of which the probabilities are, α,
+β, γ, then the negatives of those events, expressing the absence of
+the events, will have the probabilities 1 - α, 1 - β, 1 - γ. We have
+only to insert these values for the letters of the combinations and
+multiply, and we obtain the probability of each combination. Thus the
+probability of ABC is αβγ; of A*bc*, α(1 - β)(1 - γ).
+
+We can now clearly distinguish between the probabilities of exclusive
+and unexclusive events. Thus, if A and B are events which may happen
+together like rain and high tide, or an earthquake and a storm, the
+probability of A or B happening is not the sum of their separate
+probabilities. For by the Laws of Thought we develop A ꖌ  B into
+AB ꖌ A*b* ꖌ *a*B, and substituting α and β, the probabilities of A
+and B respectively, we obtain α . β + α . (1 - β) + (1 - α) . β or
+α + β - α . β. But if events are *incompossible* or incapable of
+happening together, like a clear sky and rain, or a new moon and a full
+moon, then the events are not really A or B, but A not-B, or B not-A,
+or in symbols A*b* ꖌ *a*B. Now if we take μ = probability of A*b* and ν
+= probability of *a*B, then we may add simply, and the probability of
+A*b* ꖌ *a*B is μ + ν.
+
+Let the reader carefully observe that if the combination AB cannot
+exist, the probability of A*b* is not the product of the probabilities
+of A and *b*. When certain combinations are logically impossible, it
+is no longer allowable to substitute the probability of each term for
+the term, because the multiplication of probabilities presupposes the
+independence of the events. A large part of Boole’s Laws of Thought
+is devoted to an attempt to overcome this difficulty and to produce
+a General Method in Probabilities by which from certain logical
+conditions and certain given probabilities it would be possible to
+deduce the probability of any other combinations of events under those
+conditions. Boole pursued his task with wonderful ingenuity and power,
+but after spending much study on his work, I am compelled to adopt
+the conclusion that his method is fundamentally erroneous. As pointed
+out by Mr. Wilbraham,[113] Boole obtained his results by an arbitrary
+assumption, which is only the most probable, and not the only possible
+assumption. The answer obtained is therefore not the real probability,
+which is usually indeterminate, but only, as it were, the most probable
+probability. Certain problems solved by Boole are free from logical
+conditions and therefore may admit of valid answers. These, as I have
+shown,[114] may be solved by the combinations of the Logical Alphabet,
+but the rest of the problems do not admit of a determinate answer, at
+least by Boole’s method.
+
+  [113] *Philosophical Magazine*, 4th Series, vol. vii. p. 465;
+  vol. viii. p. 91.
+
+  [114] *Memoirs of the Manchester Literary and Philosophical Society*,
+  3rd Series, vol. iv. p. 347.
+
+
+*Comparison of the Theory with Experience.*
+
+The Laws of Probability rest upon the fundamental principles of
+reasoning, and cannot be really negatived by any possible experience.
+It might happen that a person should always throw a coin head
+uppermost, and appear incapable of getting tail by chance. The theory
+would not be falsified, because it contemplates the possibility of
+the most extreme runs of luck. Our actual experience might be counter
+to all that is probable; the whole course of events might seem to be
+in complete contradiction to what we should expect, and yet a casual
+conjunction of events might be the real explanation. It is just
+possible that some regular coincidences, which we attribute to fixed
+laws of nature, are due to the accidental conjunction of phenomena
+in the cases to which our attention is directed. All that we can
+learn from finite experience is capable, according to the theory of
+probabilities, of misleading us, and it is only infinite experience
+that could assure us of any inductive truths.
+
+At the same time, the probability that any extreme runs of luck will
+occur is so excessively slight, that it would be absurd seriously
+to expect their occurrence. It is almost impossible, for instance,
+that any whist player should have played in any two games where the
+distribution of the cards was exactly the same, by pure accident
+(p. 191). Such a thing as a person always losing at a game of
+pure chance, is wholly unknown. Coincidences of this kind are not
+impossible, as I have said, but they are so unlikely that the lifetime
+of any person, or indeed the whole duration of history, does not give
+any appreciable probability of their being encountered. Whenever we
+make any extensive series of trials of chance results, as in throwing
+a die or coin, the probability is great that the results will agree
+nearly with the predictions yielded by theory. Precise agreement must
+not be expected, for that, as the theory shows, is highly improbable.
+Several attempts have been made to test, in this way, the accordance of
+theory and experience. Buffon caused the first trial to be made by a
+young child who threw a coin many times in succession, and he obtained
+1992 tails to 2048 heads. A pupil of De Morgan repeated the trial for
+his own satisfaction, and obtained 2044 tails to 2048 heads. In both
+cases the coincidence with theory is as close as could be expected, and
+the details may be found in De Morgan’s “Formal Logic,” p. 185.
+
+Quetelet also tested the theory in a rather more complete manner, by
+placing 20 black and 20 white balls in an urn and drawing a ball out
+time after time in an indifferent manner, each ball being replaced
+before a new drawing was made. He found, as might be expected, that the
+greater the number of drawings made, the more nearly were the white
+and black balls equal in number. At the termination of the experiment
+he had registered 2066 white and 2030 black balls, the ratio being
+1·02.[115]
+
+  [115] *Letters on the Theory of Probabilities*, translated by Downes,
+  1849, pp. 36, 37.
+
+I have made a series of experiments in a third manner, which seemed to
+me even more interesting, and capable of more extensive trial. Taking
+a handful of ten coins, usually shillings, I threw them up time after
+time, and registered the numbers of heads which appeared each time. Now
+the probability of obtaining 10, 9, 8, 7, &c., heads is proportional
+to the number of combinations of 10, 9, 8, 7, &c., things out of 10
+things. Consequently the results ought to approximate to the numbers in
+the eleventh line of the Arithmetical Triangle. I made altogether 2048
+throws, in two sets of 1024 throws each, and the numbers obtained are
+given in the following table:--
+
++-------------------+-----------+---------+---------+----------+-----------+
+|Character of Throw.|Theoretical|  First  | Second  | Average. |Divergence.|
+|                   | Numbers.  | Series. | Series. |          |           |
++-------------------+-----------+---------+---------+----------+-----------+
+|  10 Heads 0 Tail  |      1    |     3   |     1   |    2     |  +  1     |
+|   9   "   1   "   |     10    |    12   |    23   |   17-1/2 |  +  7-1/2 |
+|   8   "   2   "   |     45    |    57   |    73   |   65     |  + 20     |
+|   7   "   3   "   |    120    |   129   |   123   |  126     |  +  6     |
+|   6   "   4   "   |    210    |   181   |   190   |  185-1/2 |  - 25     |
+|   5   "   5   "   |    252    |   257   |   232   |  244-1/2 |  -  7-1/2 |
+|   4   "   6   "   |    210    |   201   |   197   |  199     |  - 11     |
+|   3   "   7   "   |    120    |   111   |   119   |  115     |  -  5     |
+|   2   "   8   "   |     45    |    52   |    50   |   51     |  +  6     |
+|   1   "   9   "   |     10    |    21   |    15   |   18     |  +  8     |
+|   0   "  10   "   |      1    |     0   |     1   |      1/2 |  -    1/2 |
++-------------------+-----------+---------+---------+----------+-----------+
+|      Totals       |   1024    |  1024   |  1024   | 1024     |  -  1     |
++-------------------+-----------+---------+---------+----------+-----------+
+
+The whole number of single throws of coins amounted to 10 × 2048, or
+20,480 in all, one half of which or 10,240 should theoretically give
+head. The total number of heads obtained was actually 10,353, or 5222
+in the first series, and 5131 in the second. The coincidence with
+theory is pretty close, but considering the large number of throws
+there is some reason to suspect a tendency in favour of heads.
+
+The special interest of this trial consists in the exhibition, in a
+practical form, of the results of Bernoulli’s theorem, and the law
+of error or divergence from the mean to be afterwards more fully
+considered. It illustrates the connection between combinations and
+permutations, which is exhibited in the Arithmetical Triangle, and
+which underlies many important theorems of science.
+
+
+*Probable Deductive Arguments*.
+
+With the aid of the theory of probabilities, we may extend the sphere
+of deductive argument. Hitherto we have treated propositions as
+certain, and on the hypothesis of certainty have deduced conclusions
+equally certain. But the information on which we reason in ordinary
+life is seldom or never certain, and almost all reasoning is really a
+question of probability. We ought therefore to be fully aware of the
+mode and degree in which deductive reasoning is affected by the theory
+of probability, and many persons may be surprised at the results which
+must be admitted. Some controversial writers appear to consider, as De
+Morgan remarked,[116] that an inference from several equally probable
+premises is itself as probable as any of them, but the true result is
+very different. If an argument involves many propositions, and each of
+them is uncertain, the conclusion will be of very little force.
+
+  [116] *Encyclopædia Metropolitana*, art. *Probabilities*, p. 396.
+
+The validity of a conclusion may be regarded as a compound event,
+depending upon the premises happening to be true; thus, to obtain the
+probability of the conclusion, we must multiply together the fractions
+expressing the probabilities of the premises. If the probability is
+1/2 that A is B, and also 1/2 that B is C, the conclusion that A is
+C, on the ground of these premises, is 1/2 × 1/2 or 1/4. Similarly
+if there be any number of premises requisite to the establishment
+of a conclusion and their probabilities be *p*, *q*, *r*, &c., the
+probability of the conclusion on the ground of these premises is
+*p* × *q* × *r* × ... This product has but a small value, unless each
+of the quantities *p*, *q*, &c., be nearly unity.
+
+But it is particularly to be noticed that the probability thus
+calculated is not the whole probability of the conclusion, but that
+only which it derives from the premises in question. Whately’s[117]
+remarks on this subject might mislead the reader into supposing that
+the calculation is completed by multiplying together the probabilities
+of the premises. But it has been fully explained by De Morgan[118] that
+we must take into account the antecedent probability of the conclusion;
+A may be C for other reasons besides its being B, and as he remarks,
+“It is difficult, if not impossible, to produce a chain of argument of
+which the reasoner can rest the result on those arguments only.” The
+failure of one argument does not, except under special circumstances,
+disprove the truth of the conclusion it is intended to uphold,
+otherwise there are few truths which could survive the ill-considered
+arguments adduced in their favour. As a rope does not necessarily break
+because one or two strands in it fail, so a conclusion may depend upon
+an endless number of considerations besides those immediately in view.
+Even when we have no other information we must not consider a statement
+as devoid of all probability. The true expression of complete doubt is
+a ratio of equality between the chances in favour of and against it,
+and this ratio is expressed in the probability 1/2.
+
+  [117] *Elements of Logic*, Book III. sections 11 and 18.
+
+  [118] *Encyclopædia Metropolitana*, art. *Probabilities*, p. 400.
+
+Now if A and C are wholly unknown things, we have no reason to believe
+that A is C rather than A is not C. The antecedent probability is then
+1/2. If we also have the probabilities that A is B, 1/2 and that B is
+C, 1/2 we have no right to suppose that the probability of A being C
+is reduced by the argument in its favour. If the conclusion is true
+on its own grounds, the failure of the argument does not affect it;
+thus its total probability is its antecedent probability, added to the
+probability that this failing, the new argument in question establishes
+it. There is a probability 1/2 that we shall not require the special
+argument; a probability 1/2 that we shall, and a probability 1/4
+that the argument does in that case establish it. Thus the complete
+result is 1/2 + 1/2 × 1/4, or 5/8. In general language, if *a* be the
+probability founded on a particular argument, and *c* the antecedent
+probability of the event, the general result is 1 - (1 - *a*)(1 - *c*),
+or *a* + *c* - *ac*.
+
+We may put it still more generally in this way:--Let *a*, *b*, *c*, &c.
+be the probabilities of a conclusion grounded on various arguments. It
+is only when all the arguments fail that our conclusion proves finally
+untrue; the probabilities of each failing are respectively, 1 - *a*,
+1 - *b*, 1 - *c*, &c.; the probability that they will all fail is
+(1 - *a*)(1 - *b*)(1 - *c*) ...; therefore the probability that the
+conclusion will not fail is 1 - (1 - *a*)(1 - *b*)(1 - *c*) ... &c. It
+follows that every argument in favour of a conclusion, however flimsy
+and slight, adds probability to it. When it is unknown whether an
+overdue vessel has foundered or not, every slight indication of a lost
+vessel will add some probability to the belief of its loss, and the
+disproof of any particular evidence will not disprove the event.
+
+We must apply these principles of evidence with great care, and
+observe that in a great proportion of cases the adducing of a weak
+argument does tend to the disproof of its conclusion. The assertion
+may have in itself great inherent improbability as being opposed to
+other evidence or to the supposed law of nature, and every reasoner
+may be assumed to be dealing plainly, and putting forward the whole
+force of evidence which he possesses in its favour. If he brings but
+one argument, and its probability *a* is small, then in the formula
+1 - (1 - *a*)(1 - *c*) both *a* and *c* are small, and the whole
+expression has but little value. The whole effect of an argument thus
+turns upon the question whether other arguments remain, so that we
+can introduce other factors (1 - *b*), (1 - *d*), &c., into the above
+expression. In a court of justice, in a publication having an express
+purpose, and in many other cases, it is doubtless right to assume
+that the whole evidence considered to have any value as regards the
+conclusion asserted, is put forward.
+
+To assign the antecedent probability of any proposition, may be a
+matter of difficulty or impossibility, and one with which logic and
+the theory of probability have little concern. From the general body of
+science in our possession, we must in each case make the best judgment
+we can. But in the absence of all knowledge the probability should
+be considered = 1/2, for if we make it less than this we incline to
+believe it false rather than true. Thus, before we possessed any means
+of estimating the magnitudes of the fixed stars, the statement that
+Sirius was greater than the sun had a probability of exactly 1/2; it
+was as likely that it would be greater as that it would be smaller; and
+so of any other star. This was the assumption which Michell made in
+his admirable speculations.[119] It might seem, indeed, that as every
+proposition expresses an agreement, and the agreements or resemblances
+between phenomena are infinitely fewer than the differences (p. 44),
+every proposition should in the absence of other information be
+infinitely improbable. But in our logical system every term may be
+indifferently positive or negative, so that we express under the same
+form as many differences as agreements. It is impossible therefore
+that we should have any reason to disbelieve rather than to believe a
+statement about things of which we know nothing. We can hardly indeed
+invent a proposition concerning the truth of which we are absolutely
+ignorant, except when we are entirely ignorant of the terms used. If I
+ask the reader to assign the odds that a “Platythliptic Coefficient is
+positive” he will hardly see his way to doing so, unless he regard them
+as even.
+
+  [119] *Philosophical Transactions* (1767). Abridg. vol. xii. p. 435.
+
+The assumption that complete doubt is properly expressed by 1/2 has
+been called in question by Bishop Terrot,[120] who proposes instead
+the indefinite symbol 0/0; and he considers that “the *à priori*
+probability derived from absolute ignorance has no effect upon the
+force of a subsequently admitted probability.” But if we grant that the
+probability may have any value between 0 and 1, and that every separate
+value is equally likely, then *n* and 1 - *n* are equally likely, and
+the average is always 1/2. Or we may take *p* . *dp* to express the
+probability that our estimate concerning any proposition should lie
+between *p* and *p* + *dp*. The complete probability of the proposition
+is then the integral taken between the limits 1 and 0, or again 1/2.
+
+  [120] *Transactions of the Edinburgh Philosophical Society*,
+  vol. xxi. p. 375.
+
+
+*Difficulties of the Theory.*
+
+The theory of probability, though undoubtedly true, requires very
+careful application. Not only is it a branch of mathematics in which
+oversights are frequently committed, but it is a matter of great
+difficulty in many cases, to be sure that the formula correctly
+represents the data of the problem. These difficulties often arise from
+the logical complexity of the conditions, which might be, perhaps, to
+some extent cleared up by constantly bearing in mind the system of
+combinations as developed in the Indirect Logical Method. In the study
+of probabilities, mathematicians had unconsciously employed logical
+processes far in advance of those in possession of logicians, and the
+Indirect Method is but the full statement of these processes.
+
+It is very curious how often the most acute and powerful intellects
+have gone astray in the calculation of probabilities. Seldom was Pascal
+mistaken, yet he inaugurated the science with a mistaken solution.[121]
+Leibnitz fell into the extraordinary blunder of thinking that the
+number twelve was as probable a result in the throwing of two dice as
+the number eleven.[122] In not a few cases the false solution first
+obtained seems more plausible to the present day than the correct
+one since demonstrated. James Bernoulli candidly records two false
+solutions of a problem which he at first thought self-evident; and he
+adds a warning against the risk of error, especially when we attempt
+to reason on this subject without a rigid adherence to methodical
+rules and symbols. Montmort was not free from similar mistakes.
+D’Alembert constantly fell into blunders, and could not perceive,
+for instance, that the probabilities would be the same when coins
+are thrown successively as when thrown simultaneously. Some men of
+great reputation, such as Ancillon, Moses Mendelssohn, Garve, Auguste
+Comte,[123] Poinsot, and J. S. Mill,[124] have so far misapprehended
+the theory, as to question its value or even to dispute its validity.
+The erroneous statements about the theory given in the earlier editions
+of Mill’s *System of Logic* were partially withdrawn in the later
+editions.
+
+  [121] Montucla, *Histoire des Mathématiques*, vol. iii. p. 386.
+
+  [122] Leibnitz *Opera*, Dutens’ Edition, vol. vi. part i. p. 217.
+  Todhunter’s *History of the Theory of Probability*, p. 48. To the
+  latter work I am indebted for many of the statements in the text.
+
+  [123] *Positive Philosophy*, translated by Martineau, vol. ii. p. 120.
+
+  [124] *System of Logic*, bk. iii. chap. 18, 5th Ed. vol. ii. p. 61.
+
+Many persons have a fallacious tendency to believe that when a chance
+event has happened several times together in an unusual conjunction, it
+is less likely to happen again. D’Alembert seriously held that if head
+was thrown three times running with a coin, tail would more probably
+appear at the next trial.[125] Bequelin adopted the same opinion, and
+yet there is no reason for it whatever. If the event be really casual,
+what has gone before cannot in the slightest degree influence it. As
+a matter of fact, the more often a casual event takes place the more
+likely it is to happen again; because there is some slight empirical
+evidence of a tendency. The source of the fallacy is to be found
+entirely in the feelings of surprise with which we witness an event
+happening by chance, in a manner which seems to proceed from design.
+
+  [125] Montucla, *Histoire*, vol. iii. p. 405; Todhunter, p. 263.
+
+Misapprehension may also arise from overlooking the difference between
+permutations and combinations. To throw ten heads in succession with a
+coin is no more unlikely than to throw any other particular succession
+of heads and tails, but it is much less likely than five heads and five
+tails without regard to their order, because there are no less than
+252 different particular throws which will give this result, when we
+abstract the difference of order.
+
+Difficulties arise in the application of the theory from our habitual
+disregard of slight probabilities. We are obliged practically to accept
+truths as certain which are nearly so, because it ceases to be worth
+while to calculate the difference. No punishment could be inflicted
+if absolutely certain evidence of guilt were required, and as Locke
+remarks, “He that will not stir till he infallibly knows the business
+he goes about will succeed, will have but little else to do but to
+sit still and perish.”[126] There is not a moment of our lives when
+we do not lie under a slight danger of death, or some most terrible
+fate. There is not a single action of eating, drinking, sitting down,
+or standing up, which has not proved fatal to some person. Several
+philosophers have tried to assign the limit of the probabilities
+which we regard as zero; Buffon named 1/10,000, because it is the
+probability, practically disregarded, that a man of 56 years of age
+will die the next day. Pascal remarked that a man would be esteemed a
+fool for hesitating to accept death when three dice gave sixes twenty
+times running, if his reward in case of a different result was to be a
+crown; but as the chance of death in question is only 1 ÷ 6^{60}, or
+unity divided by a number of 47 places of figures, we may be said to
+incur greater risks every day for less motives. There is far greater
+risk of death, for instance, in a game of cricket or a visit to the
+rink.
+
+  [126] *Essay concerning Human Understanding*, bk. iv. ch. 14. § 1.
+
+Nothing is more requisite than to distinguish carefully between the
+truth of a theory and the truthful application of the theory to actual
+circumstances. As a general rule, events in nature and art will present
+a complexity of relations exceeding our powers of treatment. The
+intricate action of the mind often intervenes and renders complete
+analysis hopeless. If, for instance, the probability that a marksman
+shall hit the target in a single shot be 1 in 10, we might seem to
+have no difficulty in calculating the probability of any succession of
+hits; thus the probability of three successive hits would be one in a
+thousand. But, in reality, the confidence and experience derived from
+the first successful shot would render a second success more probable.
+The events are not really independent, and there would generally be
+a far greater preponderance of runs of apparent luck, than a simple
+calculation of probabilities could account for. In some persons,
+however, a remarkable series of successes will produce a degree of
+excitement rendering continued success almost impossible.
+
+Attempts to apply the theory of probability to the results of judicial
+proceedings have proved of little value, simply because the conditions
+are far too intricate. As Laplace said, “Tant de passions, d’intérêts
+divers et de circonstances compliquent les questions relatives à ces
+objets, qu’elles sont presque toujours insolubles.” Men acting on a
+jury, or giving evidence before a court, are subject to so many complex
+influences that no mathematical formulas can be framed to express the
+real conditions. Jurymen or even judges on the bench cannot be regarded
+as acting independently, with a definite probability in favour of each
+delivering a correct judgment. Each man of the jury is more or less
+influenced by the opinion of the others, and there are subtle effects
+of character and manner and strength of mind which defy analysis. Even
+in physical science we can in comparatively few cases apply the theory
+in a definite manner, because the data required are too complicated and
+difficult to obtain. But such failures in no way diminish the truth and
+beauty of the theory itself; in reality there is no branch of science
+in which our symbols can cope with the complexity of Nature. As Donkin
+said,--
+
+“I do not see on what ground it can be doubted that every definite
+state of belief concerning a proposed hypothesis, is in itself capable
+of being represented by a numerical expression, however difficult or
+impracticable it may be to ascertain its actual value. It would be very
+difficult to estimate in numbers the *vis viva* of all the particles of
+a human body at any instant; but no one doubts that it is capable of
+numerical expression.”[127]
+
+  [127] *Philosophical Magazine*, 4th Series, vol. i. p. 354.
+
+The difficulty, in short, is merely relative to our knowledge and
+skill, and is not absolute or inherent in the subject. We must
+distinguish between what is theoretically conceivable and what is
+practicable with our present mental resources. Provided that our
+aspirations are pointed in a right direction, we must not allow them
+to be damped by the consideration that they pass beyond what can now
+be turned to immediate use. In spite of its immense difficulties of
+application, and the aspersions which have been mistakenly cast upon
+it, the theory of probabilities, I repeat, is the noblest, as it
+will in course of time prove, perhaps the most fruitful branch of
+mathematical science. It is the very guide of life, and hardly can
+we take a step or make a decision of any kind without correctly or
+incorrectly making an estimation of probabilities. In the next chapter
+we proceed to consider how the whole cogency of inductive reasoning
+rests upon probabilities. The truth or untruth of a natural law, when
+carefully investigated, resolves itself into a high or low degree of
+probability, and this is the case whether or not we are capable of
+producing precise numerical data.
+
+
+
+

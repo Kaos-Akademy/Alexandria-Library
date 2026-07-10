@@ -1,0 +1,154 @@
+PART II.
+
+APPLICATIONS OF THE CALCULUS OF PROBABILITIES.
+
+
+
+
+CHAPTER VI.
+
+_GAMES OF CHANCE._
+
+
+The combinations which games present were the object of the first
+investigations of probabilities. In an infinite variety of these
+combinations many of them lend themselves readily to calculus; others
+require more difficult calculi; and the difficulties increasing in the
+measure that the combinations become more complicated, the desire to
+surmount them and curiosity have excited geometricians to perfect more
+and more this kind of analysis. It has been seen already that the
+benefits of a lottery are easily determined by the theory of
+combinations. But it is more difficult to know in how many draws one can
+bet one against one, for example that all the numbers will be drawn, _n_
+being the number of numbers, _r_ that of the numbers drawn at each draw,
+and _i_ the unknown number of draws. The expression of the probability
+of drawing all the numbers depends upon the _n_th finite difference of
+the _i_ power of a product of _r_ consecutive numbers. When the number
+_n_ is considerable the search for the value of _i_ which renders this
+probability equal to ½ becomes impossible at least unless this
+difference is converted into a very converging series. This is easily
+done by the method here below indicated by the approximations of
+functions of very large numbers. It is found thus since the lottery is
+composed of ten thousand numbers, one of which is drawn at each draw,
+that there is a disadvantage in betting one against one that all the
+numbers will be drawn in 95767 draws and an advantage in making the same
+bet for 95768 draws. In the lottery of France this bet is
+disadvantageous for 85 draws and advantageous for 86 draws.
+
+Let us consider again two players, A and B, playing together at heads
+and tails in such a manner that at each throw if heads turns up A gives
+one counter to B, who gives him one if tails turns up; the number of
+counters of B is limited, while that of A is unlimited, and the game is
+to end only when B shall have no more counters. We ask in how many
+throws one should bet one to one that the game will end. The expression
+of the probability that the game will end in an _i_ number of throws is
+given by a series which comprises a great number of terms and factors if
+the number of counters of B is considerable; the search for the value of
+the unknown _i_ which renders this series ½ would then be impossible if
+we did not reduce the same to a very convergent series. In applying to
+it the method of which we have just spoken, we find a very simple
+expression for the unknown from which it results that if, for example, B
+has a hundred counters, it is a bet of a little less than one against
+one that the game will end in 23780 throws, and a bet of a little more
+than one against one that it will end in 23781 throws.
+
+These two examples added to those we have already given are sufficient
+to shows how the problems of games have contributed to the perfection of
+analysis.
+
+
+
+
+CHAPTER VII.
+
+_CONCERNING THE UNKNOWN INEQUALITIES WHICH MAY EXIST AMONG CHANCES WHICH
+ARE SUPPOSED EQUAL._
+
+
+Inequalities of this kind have upon the results of the calculation of
+probabilities a sensible influence which deserves particular attention.
+Let us take the game of heads and tails, and let us suppose that it is
+equally easy to throw the one or the other side of the coin. Then the
+probability of throwing heads at the first throw is ½ and that of
+throwing it twice in succession is ¼. But if there exist in the coin an
+inequality which causes one of the faces to appear rather than the other
+without knowing which side is favored by this inequality, the
+probability of throwing heads at the first throw will always ½; because
+of our ignorance of which face is favored by the inequality the
+probability of the simple event is increased if this inequality is
+favorable to it, just so much is it diminished if the inequality is
+contrary to it. But in this same ignorance the probability of throwing
+heads twice in succession is increased. Indeed this probability is that
+of throwing heads at the first throw multiplied by the probability that
+having thrown it at the first throw it will be thrown at the second; but
+its happening at the first throw is a reason for belief that the
+inequality of the coin favors it; the unknown inequality increases,
+then, the probability of throwing heads at the second throw; it
+consequently increases the product of these two probabilities. In order
+to submit this matter to calculus let us suppose that this inequality
+increases by a twentieth the probability of the simple event which it
+favors. If this event is heads, its probability will be ½ plus 1/20, or
+11/20, and the probability of throwing it twice in succession will be
+the square of 11/20, or 121/400. If the favored event is tails, the
+probability of heads, will be ½ minus 1/20, or 9/20, and the probability
+of throwing it twice in succession will be 81/400. Since we have at
+first no reason for believing that the inequality favors one of these
+events rather than the other, it is clear that in order to have the
+probability of the compound event heads heads it is necessary to add the
+two preceding probabilities and take the half of their sum, which gives
+101/400 for this probability, which exceeds ¼ by 1/400 or by the square
+of the favor 1/20 that the inequality adds to the possibilities of the
+event which it favors. The probability of throwing tails tails is
+similarly 101/400, but the probability of throwing heads tails or tails
+heads is each 99/400; for the sum of these four probabilities ought to
+equal certainty or unity. We find thus generally that the constant and
+unknown causes which favor simple events which are judged equally
+possible always increase the probability of the repetition of the same
+simple event.
+
+In an even number of throws heads and tails ought both to happen either
+an even number of times or odd number of times. The probability of each
+of these cases is ½ if the possibilities of the two faces are equal; but
+if there is between them an unknown inequality, this inequality is
+always favorable to the first case.
+
+Two players whose skill is supposed to be equal play on the conditions
+that at each throw that one who loses gives a counter to his adversary,
+and that the game continues until one of the players has no more
+counters. The calculation of the probabilities shows us that for the
+equality of the play the throws of the players ought to be an inverse
+ratio to their counters. But if there is between the players a small
+unknown inequality, it favors that one of the players who has the
+smallest number of counters. His probability of winning the game
+increases if the players agree to double or triple their counters; and
+it will be ½ or the same as the probability of the other player in the
+case where the number of their counters should become infinite,
+preserving always the same ratio.
+
+One may correct the influence of these unknown inequalities by
+submitting them themselves to the chances of hazard. Thus at the play of
+heads and tails, if one has a second coin which is thrown each time with
+the first and one agrees to name constantly heads the face turned up by
+the second coin, the probability of throwing heads twice in succession
+with the first coin will approach much nearer ¼ than in the case of a
+single coin. In this last case the difference is the square of the small
+increment of possibility that the unknown inequality gives to the face
+of the first coin which it favors; in the other case this difference is
+the quadruple product of this square by the corresponding square
+relative to the second coin.
+
+Let there be thrown into an urn a hundred numbers from 1 to 100 in the
+order of numeration, and after having shaken the urn in order to mix the
+numbers one is drawn; it is clear that if the mixing has been well done
+the probabilities of the drawing of the numbers will be the same. But if
+we fear that there is among them small differences dependent upon the
+order according to which the numbers have been thrown into the urn, we
+shall diminish considerably these differences by throwing into a second
+urn the numbers according to the order of their drawing from the first
+urn, and by shaking then this second urn in order to mix the numbers. A
+third urn, a fourth urn, etc., would diminish more and more these
+differences already inappreciable in the second urn.
+
+
+
+

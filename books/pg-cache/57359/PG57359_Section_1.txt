@@ -1,0 +1,507 @@
+﻿The Project Gutenberg EBook of The Logic of Chance, 3rd edition, by John Venn
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Logic of Chance, 3rd edition
+       An Essay on the Foundations and Provice of the Theory of Probability
+
+Author: John Venn
+
+Release Date: June 19, 2018 [EBook #57359]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE LOGIC OF CHANCE, 3RD EDITION ***
+
+
+
+
+Produced by Juliet Sutherland, Andrew D. Hwang, and the
+Online Distributed Proofreading Team at http://www.pgdp.net.
+
+
+
+
+
+Transcriber's Note
+
+Minor typographical errors and irregularities have been corrected.
+
+Footnotes have been numbered sequentially within chapters and moved
+to the end of each chapter.
+
+
+
+
+THE
+LOGIC OF CHANCE
+
+AN ESSAY
+
+ON THE FOUNDATIONS AND PROVINCE OF
+THE THEORY OF PROBABILITY,
+
+WITH ESPECIAL REFERENCE TO ITS LOGICAL BEARINGS
+AND ITS APPLICATION TO
+
+MORAL AND SOCIAL SCIENCE AND TO STATISTICS,
+
+
+BY
+
+JOHN VENN, Sc.D., F.R.S.,
+
+FELLOW AND LECTURER IN THE MORAL SCIENCES, GONVILLE AND CAIUS COLLEGE,
+CAMBRIDGE.
+
+LATE EXAMINER IN LOGIC AND MORAL PHILOSOPHY IN THE
+UNIVERSITY OF LONDON.
+
+
+"So careful of the type she seems
+So careless of the single life."
+
+
+_THIRD EDITION, RE-WRITTEN AND ENLARGED._
+
+
+London:
+MACMILLAN AND CO.
+AND NEW YORK
+1888
+
+[_All Rights reserved._]
+
+
+
+
+_First Edition printed_ 1866.
+_Second Edition_ 1876.
+_Third Edition_ 1888.
+
+
+
+
+PREFACE TO FIRST EDITION
+
+Any work on Probability by a Cambridge man will be so
+likely to have its scope and its general treatment of the
+subject prejudged, that it may be well to state at the outset
+that the following Essay is in no sense mathematical. Not
+only, to quote a common but often delusive assurance, will
+'no knowledge of mathematics beyond the simple rules of
+Arithmetic' be required to understand these pages, but it is
+not intended that any such knowledge should be acquired by
+the process of reading them. Of the two or three occasions
+on which algebraical formulæ occur they will not be found to
+form any essential part of the text.
+
+The science of Probability occupies at present a somewhat
+anomalous position. It is impossible, I think, not to
+observe in it some of the marks and consequent disadvantages
+of a _sectional_ study. By a small body of ardent students it
+has been cultivated with great assiduity, and the results they
+have obtained will always be reckoned among the most extraordinary
+products of mathematical genius. But by the
+general body of thinking men its principles seem to be
+regarded with indifference or suspicion. Such persons may
+admire the ingenuity displayed, and be struck with the profundity
+of many of the calculations, but there seems to
+them, if I may so express it, an _unreality_ about the whole
+treatment of the subject. To many persons the mention of
+Probability suggests little else than the notion of a set of
+rules, very ingenious and profound rules no doubt, with which
+mathematicians amuse themselves by setting and solving
+puzzles.
+
+It must be admitted that some ground has been given
+for such an opinion. The examples commonly selected by
+writers on the subject, though very well adapted to illustrate
+its rules, are for the most part of a special and peculiar
+character, such as those relating to dice and cards. When
+they have searched for illustrations drawn from the practical
+business of life, they have very generally, but unfortunately,
+hit upon just the sort of instances which, as I shall endeavour
+to show hereafter, are among the very worst that could
+be chosen for the purpose. It is scarcely possible for any
+unprejudiced person to read what has been written about the
+credibility of witnesses by eminent writers, without his experiencing
+an invincible distrust of the principles which they
+adopt. To say that the rules of evidence sometimes given
+by such writers are broken in practice, would scarcely be
+correct; for the rules are of such a kind as generally to defy
+any attempt to appeal to them in practice.
+
+This supposed want of harmony between Probability and
+other branches of Philosophy is perfectly erroneous. It
+arises from the belief that Probability is a branch of mathematics
+trying to intrude itself on to ground which does not
+altogether belong to it. I shall endeavour to show that this
+belief is unfounded. To answer correctly the sort of questions
+to which the science introduces us does generally demand
+some knowledge of mathematics, often a great knowledge,
+but the discussion of the fundamental principles on which
+the rules are based does not necessarily require any such
+qualification. Questions might arise in other sciences, in
+Geology, for example, which could only be answered by the
+aid of arithmetical calculations. In such a case any one
+would admit that the arithmetic was extraneous and accidental.
+However many questions of this kind there might
+be here, those persons who do not care to work out special
+results for themselves might still have an accurate knowledge
+of the principles of the science, and even considerable
+acquaintance with the details of it. The same holds true in
+Probability; its connection with mathematics, though certainly
+far closer than that of most other sciences, is still of
+much the same kind. It is principally when we wish to
+work out results for ourselves that mathematical knowledge
+is required; without such knowledge the student may still
+have a firm grasp of the principles and even see his way to
+many of the derivative results.
+
+The opinion that Probability, instead of being a branch of
+the general science of evidence which happens to make much
+use of mathematics, _is_ a portion of mathematics, erroneous as
+it is, has yet been very disadvantageous to the science in
+several ways. Students of Philosophy in general have thence
+conceived a prejudice against Probability, which has for the
+most part deterred them from examining it. As soon as a
+subject comes to be considered 'mathematical' its claims
+seem generally, by the mass of readers, to be either on the
+one hand scouted or at least courteously rejected, or on the
+other to be blindly accepted with all their assumed consequences.
+Of impartial and liberal criticism it obtains little
+or nothing.
+
+The consequences of this state of things have been, I
+think, disastrous to the students themselves of Probability.
+No science can safely be abandoned entirely to its own devotees.
+Its details of course can only be studied by those who
+make it their special occupation, but its general principles
+are sure to be cramped if it is not exposed occasionally to
+the free criticism of those whose main culture has been of
+a more general character. Probability has been very much
+abandoned to mathematicians, who as mathematicians have
+generally been unwilling to treat it thoroughly. They have
+worked out its results, it is true, with wonderful acuteness,
+and the greatest ingenuity has been shown in solving various
+problems that arose, and deducing subordinate rules. And
+this was all that they could in fairness be expected to do.
+Any subject which has been discussed by such men as
+Laplace and Poisson, and on which they have exhausted all
+their powers of analysis, could not fail to be profoundly
+treated, so far as it fell within their province. But from this
+province the real principles of the science have generally
+been excluded, or so meagrely discussed that they had better
+have been omitted altogether. Treating the subject as mathematicians
+such writers have naturally taken it up at the
+point where their mathematics would best come into play,
+and that of course has not been at the foundations. In the
+works of most writers upon the subject we should search in
+vain for anything like a critical discussion of the fundamental
+principles upon which its rules rest, the class of
+enquiries to which it is most properly applicable, or the
+relation it bears to Logic and the general rules of inductive
+evidence.
+
+This want of precision as to ultimate principles is perfectly
+compatible here, as it is in the departments of Morals
+and Politics, with a general agreement on processes and
+results. But it is, to say the least, unphilosophical, and
+denotes a state of things in which positive error is always
+liable to arise whenever the process of controversy forces us
+to appeal to the foundations of the science.
+
+With regard to the remarks in the last few paragraphs,
+prominent exceptions must be made in the case of two recent
+works at least.[1] The first of these is Professor de Morgan's
+_Formal Logic_. He has there given an investigation into the
+foundations of Probability as conceived by him, and nothing
+can be more complete and precise than his statement of
+principles, and his deductions from them. If I could at all
+agree with these principles there would have been no necessity
+for the following essay, as I could not hope to add
+anything to their foundation, and should be far indeed from
+rivalling his lucid statement of them. But in his scheme
+Probability is regarded very much from the Conceptualist
+point of view; as stated in the preface, he considers that
+Probability is concerned with formal inferences in which the
+premises are entertained with a conviction short of absolute
+certainty. With this view I cannot agree. As I have entered
+into criticism of some points of his scheme in one of the
+following chapters, and shall have occasion frequently to refer
+to his work, I need say no more about it here. The other
+work to which I refer is the profound _Laws of Thought_ of
+the late Professor Boole, to which somewhat similar remarks
+may in part be applied. Owing however to his peculiar
+treatment of the subject, I have scarcely anywhere come
+into contact with any of his expressed opinions.
+
+The view of the province of Probability adopted in this
+Essay differs so radically from that of most other writers on
+the subject, and especially from that of those just referred to,
+that I have thought it better, as regards details, to avoid all
+criticism of the opinions of others, except where conflict was
+unavoidable. With regard to that radical difference itself
+Bacon's remark applies, behind which I must shelter myself
+from any change of presumption.--"Quod ad universalem
+istam reprehensionem attinet, certissimum vere est rem reputanti,
+eam et magis probabilem esse et magis modestam,
+quam si facta fuisset ex parte."
+
+Almost the only writer who seems to me to have expressed
+a just view of the nature and foundation of the rules
+of Probability is Mr Mill, in his _System of Logic_.[2] His
+treatment of the subject is however very brief, and a considerable
+portion of the space which he has devoted to it is
+occupied by the discussion of one or two special examples.
+There are moreover some errors, as it seems to me, in what
+he has written, which will be referred to in some of the
+following chapters.
+
+The reference to the work just mentioned will serve to
+convey a general idea of the view of Probability adopted in
+this Essay. With what may be called the Material view of
+Logic as opposed to the Formal or Conceptualist,--with that
+which regards it as taking cognisance of laws of things and
+not of the laws of our own minds in thinking about things,--I
+am in entire accordance. Of the province of Logic, regarded
+from this point of view, and under its widest aspect, Probability
+may, in my opinion, be considered to be a portion. The
+principal objects of this Essay are to ascertain how great a
+portion it comprises, where we are to draw the boundary between
+it and the contiguous branches of the general science
+of evidence, what are the ultimate foundations upon which its
+rules rest, what the nature of the evidence they are capable
+of affording, and to what class of subjects they may most fitly
+be applied. That the science of Probability, on this view of
+it, contains something more important than the results of a
+system of mathematical assumptions, is obvious. I am convinced
+moreover that it can and ought to be rendered both
+interesting and intelligible to ordinary readers who have any
+taste for philosophy. In other words, if the large and growing
+body of readers who can find pleasure in the study of
+books like Mill's _Logic_ and Whewell's _Inductive Sciences_,
+turn with aversion from a work on Probability, the cause in
+the latter case must lie either in the view of the subject or
+in the manner and style of the book.
+
+I take this opportunity of thanking several friends,
+amongst whom I must especially mention Mr Todhunter, of
+St John's College, and Mr H. Sidgwick, of Trinity College,
+for the trouble they have kindly taken in looking over the
+proof-sheets, whilst this work was passing through the Press.
+To the former in particular my thanks are due for thus
+adding to the obligations which I, as an old pupil, already
+owed him, by taking an amount of trouble, in making suggestions
+and corrections for the benefit of another, which few
+would care to take for anything but a work of their own.
+His extensive knowledge of the subject, and his extremely
+accurate judgment, render the service he has thus afforded
+me of the greatest possible value.
+
+GONVILLE AND CAIUS COLLEGE
+_September_ 1866.
+
+
+1. I am here speaking, of course, of
+  those only who have expressly treated
+  of the foundations of the science. Mr
+  Todhunter's admirable work on the
+  _History of the Theory of Probability_
+  being, as the name denotes, mainly
+  historical, such enquiries have not
+  directly fallen within his province.
+
+2. This remark, and that at the
+  commencement of the last paragraph,
+  having been misunderstood, I ought
+  to say that the only sense in which
+  originality is claimed for this Essay
+  is in the thorough working out of the
+  Material view of Logic as applied to
+  Probability. I have given a pretty
+  full discussion of the general principles
+  of this view in the tenth
+  chapter, and have there pointed out
+  some of the peculiarities to which it
+  leads.
+
+
+
+
+PREFACE TO SECOND EDITION
+
+The principal reason for designating this volume a second
+edition consists in the fact that the greater portion of what
+may be termed the first edition is incorporated into it. Besides
+various omissions (principally where the former treatment
+has since seemed to me needlessly prolix), I have added
+new matter, not much inferior in amount to the whole of
+the original work. In addition, moreover, to these alterations
+in the matter, the general arrangement of the subject
+as regards the successive chapters has been completely
+changed; the former arrangement having been (as it now
+seems to me) justly objected to as deficient and awkward in
+method.
+
+After saying this, it ought to be explained whether any
+change of general view or results will be found in the present
+treatment.
+
+The general view of Probability adopted is quite unchanged,
+further reading and reflection having only confirmed
+me in the conviction that this is the soundest and most
+fruitful way of regarding the subject. It is the more necessary
+to say this, as to a cursory reader it might seem
+otherwise; owing to my having endeavoured to avoid the
+needlessly polemical tone which, as is often the case with
+those who are making their first essay in writing upon any
+subject, was doubtless too prominent in the former edition.
+I have not thought it necessary, of course, except in one or
+two cases, to indicate points of detail which it has seemed
+necessary to correct.
+
+A number of new discussions have been introduced upon
+topics which were but little or not at all treated before. The
+principal of these refer to the nature and physical origin of
+Laws of Error (Ch. II.); the general view of Logic, and consequently
+of Probability, termed the Material view, adopted
+here (Ch. X.); a brief history and criticism of the various
+opinions held on the subject of Modality (Ch. XII.); the
+logical principles underlying the method of Least Squares
+(Ch. XIII.); and the practices of Insurance and Gambling,
+so far as the principles involved in them are concerned
+(Ch. XV.). The Chapter on the Credibility of Extraordinary
+Stories is also mainly new; this was the portion of the former
+work which has since seemed to me the least satisfactory,
+but owing to the extreme intricacy of the subject I am far
+from feeling thoroughly satisfied with it even now.
+
+I have again to thank several friends for the assistance
+they have so kindly afforded. Amongst these I must prominently
+mention Mr C. J. Monro, late fellow of Trinity. It is
+only the truth to say that I have derived more assistance from
+his suggestions and criticisms than has been consciously obtained
+from all other external sources together. Much of this
+criticism has been given privately in letters, and notes on
+the proof-sheets; but one of the most elaborate of his discussions
+of the subject was communicated to the Cambridge
+Philosophical Society some years ago; as it was not published,
+however, I am unfortunately unable to refer the reader to it.
+I ought to add that he is not in any way committed to any
+of my opinions upon the subject, from some of which in fact
+he more or less dissents. I am also much indebted to
+Mr J. W. L. Glaisher, also of Trinity College, for many hints
+and references to various publications upon the subject of
+Least Squares, and for careful criticism (given in the midst
+of much other labour) of the chapter in which that subject is
+treated.
+
+I need not add that, like every one else who has had to
+discuss the subject of Probability during the last ten years,
+I have made constant use of Mr Todhunter's History.
+
+I may take this opportunity of adding that a considerable
+portion of the tenth chapter has recently appeared in the
+January number of _Mind_, and that the substance of several
+chapters, especially in the more logical parts, has formed part
+of my ordinary lectures in Cambridge; the foundation and
+logical treatment of Probability being now expressly included
+in the Schedule of Subjects for the Moral Sciences Tripos.
+
+_March_ 1876.
+
+
+
+
+PREFACE TO THIRD EDITION
+
+The present edition has been revised throughout, and in fact
+rewritten. Three chapters are new, viz. the fifth (On the
+conception of Randomness) and the eighteenth and nineteenth
+(On the nature, and on the employment, of Averages).
+The eighth, tenth, eleventh, and fifteenth chapters have been
+recast, and much new matter added, and numerous alterations
+made in the remaining portions.[1] On the other hand
+three chapters of the last edition have been nearly or
+entirely omitted.
+
+These alterations do not imply any appreciable change of
+view on my part as to the foundations and province of
+Probability. Some of them are of course due to the necessary
+changes involved in the attempt to write up to date upon a
+subject which has not been stationary during the last eleven
+years. For instance the greatly increased interest now
+taken in what may be called the Theory of Statistics has
+rendered it desirable to go much more fully into the Nature
+and treatment of Laws of Error. The omissions are mainly
+due to a wish to avoid increasing the bulk of this volume
+more than is actually necessary, and to a feeling that the
+portions treating specially of Inductive Logic (which occupied
+some space in the last edition) would be more
+suitable to a regular work on that subject. I am at present
+engaged on such a work.
+
+The publications which I have had occasion to notice
+have mostly appeared in various scientific journals. The
+principal authors of these have been Mr F. Galton and
+Mr F. Y. Edgeworth: to the latter of whom I am also
+personally much obliged for many discussions, oral and
+written, and for his kindness in looking through the proof-sheets.
+His published articles are too numerous for separate
+mention here, but I may say generally, in addition to the
+obligations specially noticed, that I have been considerably
+indebted to them in writing the last two chapters. Two
+authors of works of a somewhat more substantial character,
+viz. Prof. Lexis and Von Kries, only came under my notice
+unfortunately after this work was already in the printer's
+hands. With the latter of these authors I find myself in
+closer agreement than with most others, in respect of his
+general conception and treatment of Probability.
+
+_December_ 1887.
+
+
+1. I have indicated the new chapters and sections by printing them in
+  italics in the Table of Contents.
+
+
+
+
+TABLE OF CONTENTS.[1]
+
+1. Chapters and sections which are nearly or entirely new are printed
+in _italics_.
+
+
+PART I.
+
+PHYSICAL FOUNDATIONS OF THE SCIENCE OF PROBABILITY. Chh. I-V.
+
+
+CHAPTER I.
+
+THE SERIES OF PROBABILITY.
+
+§§ 1, 2. Distinction between the proportional propositions of Probability,
+       and the propositions of Logic.
+   3, 4. The former are best regarded as presenting a series of individuals,
+   5. Which may occur in any order of time,
+   6, 7. And which present themselves in groups.
+   8. Comparison of the above with the ordinary phraseology.
+   9, 10. These series ultimately fluctuate,
+   11. Especially in the case of moral and social phenomena,
+   12. Though in the case of games of chance the fluctuation is practically
+       inappreciable.
+   13, 14. In this latter case only can rigorous inferences be drawn.
+   15, 16. The Petersburg Problem.
+
+

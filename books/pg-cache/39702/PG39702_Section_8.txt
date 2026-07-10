@@ -1,0 +1,954 @@
+BOOK II.
+
+GEOMETRY.
+
+
+
+
+BOOK II.
+
+GEOMETRY.
+
+
+
+
+CHAPTER I.
+
+GENERAL VIEW OF GEOMETRY.
+
+
+_Its true Nature._ After the general exposition of the philosophical
+character of concrete mathematics, compared with that of abstract
+mathematics, given in the introductory chapter, it need not here be
+shown in a special manner that geometry must be considered as a true
+natural science, only much more simple, and therefore much more perfect,
+than any other. This necessary perfection of geometry, obtained
+essentially by the application of mathematical analysis, which it so
+eminently admits, is apt to produce erroneous views of the real nature
+of this fundamental science, which most minds at present conceive to be
+a purely logical science quite independent of observation. It is
+nevertheless evident, to any one who examines with attention the
+character of geometrical reasonings, even in the present state of
+abstract geometry, that, although the facts which are considered in it
+are much more closely united than those relating to any other science,
+still there always exists, with respect to every body studied by
+geometers, a certain number of primitive phenomena, which, since they
+are not established by any reasoning, must be founded on observation
+alone, and which form the necessary basis of all the deductions.
+
+The scientific superiority of geometry arises from the phenomena which
+it considers being necessarily the most universal and the most simple of
+all. Not only may all the bodies of nature give rise to geometrical
+inquiries, as well as mechanical ones, but still farther, geometrical
+phenomena would still exist, even though all the parts of the universe
+should be considered as immovable. Geometry is then, by its nature, more
+general than mechanics. At the same time, its phenomena are more simple,
+for they are evidently independent of mechanical phenomena, while these
+latter are always complicated with the former. The same relations hold
+good in comparing geometry with abstract thermology.
+
+For these reasons, in our classification we have made geometry the first
+part of concrete mathematics; that part the study of which, in addition
+to its own importance, serves as the indispensable basis of all the
+rest.
+
+Before considering directly the philosophical study of the different
+orders of inquiries which constitute our present geometry, we should
+obtain a clear and exact idea of the general destination of that
+science, viewed in all its bearings. Such is the object of this chapter.
+
+
+_Definition._ Geometry is commonly defined in a very vague and entirely
+improper manner, as being _the science of extension_. An improvement on
+this would be to say that geometry has for its object the _measurement_
+of extension; but such an explanation would be very insufficient,
+although at bottom correct, and would be far from giving any idea of the
+true general character of geometrical science.
+
+To do this, I think that I should first explain _two fundamental ideas_,
+which, very simple in themselves, have been singularly obscured by the
+employment of metaphysical considerations.
+
+
+_The Idea of Space._ The first is that of _Space_. This conception
+properly consists simply in this, that, instead of considering extension
+in the bodies themselves, we view it in an indefinite medium, which we
+regard as containing all the bodies of the universe. This notion is
+naturally suggested to us by observation, when we think of the
+_impression_ which a body would leave in a fluid in which it had been
+placed. It is clear, in fact, that, as regards its geometrical
+relations, such an _impression_ may be substituted for the body itself,
+without altering the reasonings respecting it. As to the physical nature
+of this indefinite _space_, we are spontaneously led to represent it to
+ourselves, as being entirely analogous to the actual medium in which we
+live; so that if this medium was liquid instead of gaseous, our
+geometrical _space_ would undoubtedly be conceived as liquid also. This
+circumstance is, moreover, only very secondary, the essential object of
+such a conception being only to make us view extension separately from
+the bodies which manifest it to us. We can easily understand in advance
+the importance of this fundamental image, since it permits us to study
+geometrical phenomena in themselves, abstraction being made of all the
+other phenomena which constantly accompany them in real bodies, without,
+however, exerting any influence over them. The regular establishment of
+this general abstraction must be regarded as the first step which has
+been made in the rational study of geometry, which would have been
+impossible if it had been necessary to consider, together with the form
+and the magnitude of bodies, all their other physical properties. The
+use of such an hypothesis, which is perhaps the most ancient
+philosophical conception created by the human mind, has now become so
+familiar to us, that we have difficulty in exactly estimating its
+importance, by trying to appreciate the consequences which would result
+from its suppression.
+
+
+_Different Kinds of Extension._ The second preliminary geometrical
+conception which we have to examine is that of the different kinds of
+extension, designated by the words _volume_, _surface_, _line_, and even
+_point_, and of which the ordinary explanation is so unsatisfactory.[13]
+
+  [Footnote 13: Lacroix has justly criticised the expression of
+  _solid_, commonly used by geometers to designate a _volume_. It is
+  certain, in fact, that when we wish to consider separately a
+  certain portion of indefinite space, conceived as gaseous, we
+  mentally solidify its exterior envelope, so that a _line_ and a
+  _surface_ are habitually, to our minds, just as _solid_ as a
+  _volume_. It may also be remarked that most generally, in order
+  that bodies may penetrate one another with more facility, we are
+  obliged to imagine the interior of the _volumes_ to be hollow,
+  which renders still more sensible the impropriety of the word
+  _solid_.]
+
+Although it is evidently impossible to conceive any extension absolutely
+deprived of any one of the three fundamental dimensions, it is no less
+incontestable that, in a great number of occasions, even of immediate
+utility, geometrical questions depend on only two dimensions, considered
+separately from the third, or on a single dimension, considered
+separately from the two others. Again, independently of this direct
+motive, the study of extension with a single dimension, and afterwards
+with two, clearly presents itself as an indispensable preliminary for
+facilitating the study of complete bodies of three dimensions, the
+immediate theory of which would be too complicated. Such are the two
+general motives which oblige geometers to consider separately extension
+with regard to one or to two dimensions, as well as relatively to all
+three together.
+
+The general notions of _surface_ and of _line_ have been formed by the
+human mind, in order that it may be able to think, in a permanent
+manner, of extension in two directions, or in one only. The hyperbolical
+expressions habitually employed by geometers to define these notions
+tend to convey false ideas of them; but, examined in themselves, they
+have no other object than to permit us to reason with facility
+respecting these two kinds of extension, making complete abstraction of
+that which ought not to be taken into consideration. Now for this it is
+sufficient to conceive the dimension which we wish to eliminate as
+becoming gradually smaller and smaller, the two others remaining the
+same, until it arrives at such a degree of tenuity that it can no longer
+fix the attention. It is thus that we naturally acquire the real idea of
+a _surface_, and, by a second analogous operation, the idea of a _line_,
+by repeating for breadth what we had at first done for thickness.
+Finally, if we again repeat the same operation, we arrive at the idea of
+a _point_, or of an extension considered only with reference to its
+place, abstraction being made of all magnitude, and designed
+consequently to determine positions.
+
+_Surfaces_ evidently have, moreover, the general property of exactly
+circumscribing volumes; and in the same way, _lines_, in their turn,
+circumscribe _surfaces_ and are limited by _points_. But this
+consideration, to which too much importance is often given, is only a
+secondary one.
+
+Surfaces and lines are, then, in reality, always conceived with three
+dimensions; it would be, in fact, impossible to represent to one's self
+a surface otherwise than as an extremely thin plate, and a line
+otherwise than as an infinitely fine thread. It is even plain that the
+degree of tenuity attributed by each individual to the dimensions of
+which he wishes to make abstraction is not constantly identical, for it
+must depend on the degree of subtilty of his habitual geometrical
+observations. This want of uniformity has, besides, no real
+inconvenience, since it is sufficient, in order that the ideas of
+surface and of line should satisfy the essential condition of their
+destination, for each one to represent to himself the dimensions which
+are to be neglected as being smaller than all those whose magnitude his
+daily experience gives him occasion to appreciate.
+
+We hence see how devoid of all meaning are the fantastic discussions of
+metaphysicians upon the foundations of geometry. It should also be
+remarked that these primordial ideas are habitually presented by
+geometers in an unphilosophical manner, since, for example, they explain
+the notions of the different sorts of extent in an order absolutely the
+inverse of their natural dependence, which often produces the most
+serious inconveniences in elementary instruction.
+
+
+
+
+THE FINAL OBJECT OF GEOMETRY.
+
+
+These preliminaries being established, we can proceed directly to the
+general definition of geometry, continuing to conceive this science as
+having for its final object the _measurement_ of extension.
+
+It is necessary in this matter to go into a thorough explanation,
+founded on the distinction of the three kinds of extension, since the
+notion of _measurement_ is not exactly the same with reference to
+surfaces and volumes as to lines.
+
+
+_Nature of Geometrical Measurement._ If we take the word _measurement_
+in its direct and general mathematical acceptation, which signifies
+simply the determination of the value of the _ratios_ between any
+homogeneous magnitudes, we must consider, in geometry, that the
+_measurement_ of surfaces and of volumes, unlike that of lines, is never
+conceived, even in the most simple and the most favourable cases, as
+being effected directly. The comparison of two lines is regarded as
+direct; that of two surfaces or of two volumes is, on the contrary,
+always indirect. Thus we conceive that two lines may be superposed; but
+the superposition of two surfaces, or, still more so, of two volumes, is
+evidently impossible in most cases; and, even when it becomes rigorously
+practicable, such a comparison is never either convenient or exact. It
+is, then, very necessary to explain wherein properly consists the truly
+geometrical measurement of a surface or of a volume.
+
+
+_Measurement of Surfaces and of Volumes._ For this we must consider
+that, whatever may be the form of a body, there always exists a certain
+number of lines, more or less easy to be assigned, the length of which
+is sufficient to define exactly the magnitude of its surface or of its
+volume. Geometry, regarding these lines as alone susceptible of being
+directly measured, proposes to deduce, from the simple determination of
+them, the ratio of the surface or of the volume sought, to the unity of
+surface, or to the unity of volume. Thus the general object of
+geometry, with respect to surfaces and to volumes, is properly to reduce
+all comparisons of surfaces or of volumes to simple comparisons of
+lines.
+
+Besides the very great facility which such a transformation evidently
+offers for the measurement of volumes and of surfaces, there results
+from it, in considering it in a more extended and more scientific
+manner, the general possibility of reducing to questions of lines all
+questions relating to volumes and to surfaces, considered with reference
+to their magnitude. Such is often the most important use of the
+geometrical expressions which determine surfaces and volumes in
+functions of the corresponding lines.
+
+It is true that direct comparisons between surfaces or between volumes
+are sometimes employed; but such measurements are not regarded as
+geometrical, but only as a supplement sometimes necessary, although too
+rarely applicable, to the insufficiency or to the difficulty of truly
+rational methods. It is thus that we often determine the volume of a
+body, and in certain cases its surface, by means of its weight. In the
+same way, on other occasions, when we can substitute for the proposed
+volume an equivalent liquid volume, we establish directly the comparison
+of the two volumes, by profiting by the property possessed by liquid
+masses, of assuming any desired form. But all means of this nature are
+purely mechanical, and rational geometry necessarily rejects them.
+
+To render more sensible the difference between these modes of
+determination and true geometrical measurements, I will cite a single
+very remarkable example; the manner in which Galileo determined the
+ratio of the ordinary cycloid to that of the generating circle. The
+geometry of his time was as yet insufficient for the rational solution
+of such a problem. Galileo conceived the idea of discovering that ratio
+by a direct experiment. Having weighed as exactly as possible two plates
+of the same material and of equal thickness, one of them having the form
+of a circle and the other that of the generated cycloid, he found the
+weight of the latter always triple that of the former; whence he
+inferred that the area of the cycloid is triple that of the generating
+circle, a result agreeing with the veritable solution subsequently
+obtained by Pascal and Wallis. Such a success evidently depends on the
+extreme simplicity of the ratio sought; and we can understand the
+necessary insufficiency of such expedients, even when they are actually
+practicable.
+
+We see clearly, from what precedes, the nature of that part of geometry
+relating to _volumes_ and that relating to _surfaces_. But the character
+of the geometry of _lines_ is not so apparent, since, in order to
+simplify the exposition, we have considered the measurement of lines as
+being made directly. There is, therefore, needed a complementary
+explanation with respect to them.
+
+
+_Measurement of curved Lines._ For this purpose, it is sufficient to
+distinguish between the right line and curved lines, the measurement of
+the first being alone regarded as direct, and that of the other as
+always indirect. Although superposition is sometimes strictly
+practicable for curved lines, it is nevertheless evident that truly
+rational geometry must necessarily reject it, as not admitting of any
+precision, even when it is possible. The geometry of lines has, then,
+for its general object, to reduce in every case the measurement of
+curved lines to that of right lines; and consequently, in the most
+extended point of view, to reduce to simple questions of right lines all
+questions relating to the magnitude of any curves whatever. To
+understand the possibility of such a transformation, we must remark,
+that in every curve there always exist certain right lines, the length
+of which must be sufficient to determine that of the curve. Thus, in a
+circle, it is evident that from the length of the radius we must be able
+to deduce that of the circumference; in the same way, the length of an
+ellipse depends on that of its two axes; the length of a cycloid upon
+the diameter of the generating circle, &c.; and if, instead of
+considering the whole of each curve, we demand, more generally, the
+length of any arc, it will be sufficient to add to the different
+rectilinear parameters, which determine the whole curve, the chord of
+the proposed arc, or the co-ordinates of its extremities. To discover
+the relation which exists between the length of a curved line and that
+of similar right lines, is the general problem of the part of geometry
+which relates to the study of lines.
+
+Combining this consideration with those previously suggested with
+respect to volumes and to surfaces, we may form a very clear idea of the
+science of geometry, conceived in all its parts, by assigning to it, for
+its general object, the final reduction of the comparisons of all kinds
+of extent, volumes, surfaces, or lines, to simple comparisons of right
+lines, the only comparisons regarded as capable of being made directly,
+and which indeed could not be reduced to any others more easy to effect.
+Such a conception, at the same time, indicates clearly the veritable
+character of geometry, and seems suited to show at a single glance its
+utility and its perfection.
+
+
+_Measurement of right Lines._ In order to complete this fundamental
+explanation, I have yet to show how there can be, in geometry, a special
+section relating to the right line, which seems at first incompatible
+with the principle that the measurement of this class of lines must
+always be regarded as direct.
+
+It is so, in fact, as compared with that of curved lines, and of all the
+other objects which geometry considers. But it is evident that the
+estimation of a right line cannot be viewed as direct except so far as
+the linear unit can be applied to it. Now this often presents
+insurmountable difficulties, as I had occasion to show, for another
+reason, in the introductory chapter. We must, then, make the measurement
+of the proposed right line depend on other analogous measurements
+capable of being effected directly. There is, then, necessarily a
+primary distinct branch of geometry, exclusively devoted to the right
+line; its object is to determine certain right lines from others by
+means of the relations belonging to the figures resulting from their
+assemblage. This preliminary part of geometry, which is almost
+imperceptible in viewing the whole of the science, is nevertheless
+susceptible of a great development. It is evidently of especial
+importance, since all other geometrical measurements are referred to
+those of right lines, and if they could not be determined, the solution
+of every question would remain unfinished.
+
+Such, then, are the various fundamental parts of rational geometry,
+arranged according to their natural dependence; the geometry of _lines_
+being first considered, beginning with the right line; then the geometry
+of _surfaces_, and, finally, that of _solids_.
+
+
+
+
+INFINITE EXTENT OF ITS FIELD.
+
+
+Having determined with precision the general and final object of
+geometrical inquiries, the science must now be considered with respect
+to the field embraced by each of its three fundamental sections.
+
+Thus considered, geometry is evidently susceptible, by its nature, of an
+extension which is rigorously infinite; for the measurement of lines, of
+surfaces, or of volumes presents necessarily as many distinct questions
+as we can conceive different figures subjected to exact definitions; and
+their number is evidently infinite.
+
+Geometers limited themselves at first to consider the most simple
+figures which were directly furnished them by nature, or which were
+deduced from these primitive elements by the least complicated
+combinations. But they have perceived, since Descartes, that, in order
+to constitute the science in the most philosophical manner, it was
+necessary to make it apply to all imaginable figures. This abstract
+geometry will then inevitably comprehend as particular cases all the
+different real figures which the exterior world could present. It is
+then a fundamental principle in truly rational geometry to consider, as
+far as possible, all figures which can be rigorously conceived.
+
+The most superficial examination is enough to convince us that these
+figures present a variety which is quite infinite.
+
+
+_Infinity of Lines._ With respect to curved _lines_, regarding them as
+generated by the motion of a point governed by a certain law, it is
+plain that we shall have, in general, as many different curves as we
+conceive different laws for this motion, which may evidently be
+determined by an infinity of distinct conditions; although it may
+sometimes accidentally happen that new generations produce curves which
+have been already obtained. Thus, among plane curves, if a point moves
+so as to remain constantly at the same distance from a fixed point, it
+will generate a _circle_; if it is the sum or the difference of its
+distances from two fixed points which remains constant, the curve
+described will be an _ellipse_ or an _hyperbola_; if it is their
+product, we shall have an entirely different curve; if the point departs
+equally from a fixed point and from a fixed line, it will describe a
+_parabola_; if it revolves on a circle at the same time that this circle
+rolls along a straight line, we shall have a _cycloid_; if it advances
+along a straight line, while this line, fixed at one of its extremities,
+turns in any manner whatever, there will result what in general terms
+are called _spirals_, which of themselves evidently present as many
+perfectly distinct curves as we can suppose different relations between
+these two motions of translation and of rotation, &c. Each of these
+different curves may then furnish new ones, by the different general
+constructions which geometers have imagined, and which give rise to
+evolutes, to epicycloids, to caustics, &c. Finally, there exists a still
+greater variety among curves of double curvature.
+
+
+_Infinity of Surfaces._ As to _surfaces_, the figures are necessarily
+more different still, considering them as generated by the motion of
+lines. Indeed, the figure may then vary, not only in considering, as in
+curves, the different infinitely numerous laws to which the motion of
+the generating line may be subjected, but also in supposing that this
+line itself may change its nature; a circumstance which has nothing
+analogous in curves, since the points which describe them cannot have
+any distinct figure. Two classes of very different conditions may then
+cause the figures of surfaces to vary, while there exists only one for
+lines. It is useless to cite examples of this doubly infinite
+multiplicity of surfaces. It would be sufficient to consider the extreme
+variety of the single group of surfaces which may be generated by a
+right line, and which comprehends the whole family of cylindrical
+surfaces, that of conical surfaces, the most general class of
+developable surfaces, &c.
+
+
+_Infinity of Volumes._ With respect to _volumes_, there is no occasion
+for any special consideration, since they are distinguished from each
+other only by the surfaces which bound them.
+
+In order to complete this sketch, it should be added that surfaces
+themselves furnish a new general means of conceiving new curves, since
+every curve may be regarded as produced by the intersection of two
+surfaces. It is in this way, indeed, that the first lines which we may
+regard as having been truly invented by geometers were obtained, since
+nature gave directly the straight line and the circle. We know that the
+ellipse, the parabola, and the hyperbola, the only curves completely
+studied by the ancients, were in their origin conceived only as
+resulting from the intersection of a cone with circular base by a plane
+in different positions. It is evident that, by the combined employment
+of these different general means for the formation of lines and of
+surfaces, we could produce a rigorously infinitely series of distinct
+forms in starting from only a very small number of figures directly
+furnished by observation.
+
+
+_Analytical invention of Curves, &c._ Finally, all the various direct
+means for the invention of figures have scarcely any farther importance,
+since rational geometry has assumed its final character in the hands of
+Descartes. Indeed, as we shall see more fully in chapter iii., the
+invention of figures is now reduced to the invention of equations, so
+that nothing is more easy than to conceive new lines and new surfaces,
+by changing at will the functions introduced into the equations. This
+simple abstract procedure is, in this respect, infinitely more fruitful
+than all the direct resources of geometry, developed by the most
+powerful imagination, which should devote itself exclusively to that
+order of conceptions. It also explains, in the most general and the most
+striking manner, the necessarily infinite variety of geometrical forms,
+which thus corresponds to the diversity of analytical functions. Lastly,
+it shows no less clearly that the different forms of surfaces must be
+still more numerous than those of lines, since lines are represented
+analytically by equations with two variables, while surfaces give rise
+to equations with three variables, which necessarily present a greater
+diversity.
+
+The preceding considerations are sufficient to show clearly the
+rigorously infinite extent of each of the three general sections of
+geometry.
+
+
+
+
+EXPANSION OF ORIGINAL DEFINITION.
+
+
+To complete the formation of an exact and sufficiently extended idea of
+the nature of geometrical inquiries, it is now indispensable to return
+to the general definition above given, in order to present it under a
+new point of view, without which the complete science would be only very
+imperfectly conceived.
+
+When we assign as the object of geometry the _measurement_ of all sorts
+of lines, surfaces, and volumes, that is, as has been explained, the
+reduction of all geometrical comparisons to simple comparisons of right
+lines, we have evidently the advantage of indicating a general
+destination very precise and very easy to comprehend. But if we set
+aside every definition, and examine the actual composition of the
+science of geometry, we will at first be induced to regard the preceding
+definition as much too narrow; for it is certain that the greater part
+of the investigations which constitute our present geometry do not at
+all appear to have for their object the _measurement_ of extension. In
+spite of this fundamental objection, I will persist in retaining this
+definition; for, in fact, if, instead of confining ourselves to
+considering the different questions of geometry isolatedly, we endeavour
+to grasp the leading questions, in comparison with which all others,
+however important they may be, must be regarded as only secondary, we
+will finally recognize that the measurement of lines, of surfaces, and
+of volumes, is the invariable object, sometimes _direct_, though most
+often _indirect_, of all geometrical labours.
+
+This general proposition being fundamental, since it can alone give our
+definition all its value, it is indispensable to enter into some
+developments upon this subject.
+
+
+
+
+PROPERTIES OF LINES AND SURFACES.
+
+
+When we examine with attention the geometrical investigations which do
+not seem to relate to the _measurement_ of extent, we find that they
+consist essentially in the study of the different _properties_ of each
+line or of each surface; that is, in the knowledge of the different
+modes of generation, or at least of definition, peculiar to each figure
+considered. Now we can easily establish in the most general manner the
+necessary relation of such a study to the question of _measurement_, for
+which the most complete knowledge of the properties of each form is an
+indispensable preliminary. This is concurrently proven by two
+considerations, equally fundamental, although quite distinct in their
+nature.
+
+
+NECESSITY OF THEIR STUDY: 1. _To find the most suitable Property._ The
+_first_, purely scientific, consists in remarking that, if we did not
+know any other characteristic property of each line or surface than that
+one according to which geometers had first conceived it, in most cases
+it would be impossible to succeed in the solution of questions relating
+to its _measurement_. In fact, it is easy to understand that the
+different definitions which each figure admits of are not all equally
+suitable for such an object, and that they even present the most
+complete oppositions in that respect. Besides, since the primitive
+definition of each figure was evidently not chosen with this condition
+in view, it is clear that we must not expect, in general, to find it the
+most suitable; whence results the necessity of discovering others, that
+is, of studying as far as is possible the _properties_ of the proposed
+figure. Let us suppose, for example, that the circle is defined to be
+"the curve which, with the same contour, contains the greatest area."
+This is certainly a very characteristic property, but we would evidently
+find insurmountable difficulties in trying to deduce from such a
+starting point the solution of the fundamental questions relating to the
+rectification or to the quadrature of this curve. It is clear, in
+advance, that the property of having all its points equally distant from
+a fixed point must evidently be much better adapted to inquiries of this
+nature, even though it be not precisely the most suitable. In like
+manner, would Archimedes ever have been able to discover the quadrature
+of the parabola if he had known no other property of that curve than
+that it was the section of a cone with a circular base, by a plane
+parallel to its generatrix? The purely speculative labours of preceding
+geometers, in transforming this first definition, were evidently
+indispensable preliminaries to the direct solution of such a question.
+The same is true, in a still greater degree, with respect to surfaces.
+To form a just idea of this, we need only compare, as to the question of
+cubature or quadrature, the common definition of the sphere with that
+one, no less characteristic certainly, which would consist in regarding
+a spherical body, as that one which, with the same area, contains the
+greatest volume.
+
+No more examples are needed to show the necessity of knowing, so far as
+is possible, all the properties of each line or of each surface, in
+order to facilitate the investigation of rectifications, of quadratures,
+and of cubatures, which constitutes the final object of geometry. We may
+even say that the principal difficulty of questions of this kind
+consists in employing in each case the property which is best adapted
+to the nature of the proposed problem. Thus, while we continue to
+indicate, for more precision, the measurement of extension as the
+general destination of geometry, this first consideration, which goes to
+the very bottom of the subject, shows clearly the necessity of including
+in it the study, as thorough as possible, of the different generations
+or definitions belonging to the same form.
+
+
+2. _To pass from the Concrete to the Abstract._ A second consideration,
+of at least equal importance, consists in such a study being
+indispensable for organizing in a rational manner the relation of the
+abstract to the concrete in geometry.
+
+The science of geometry having to consider all imaginable figures which
+admit of an exact definition, it necessarily results from this, as we
+have remarked, that questions relating to any figures presented by
+nature are always implicitly comprised in this abstract geometry,
+supposed to have attained its perfection. But when it is necessary to
+actually pass to concrete geometry, we constantly meet with a
+fundamental difficulty, that of knowing to which of the different
+abstract types we are to refer, with sufficient approximation, the real
+lines or surfaces which we have to study. Now it is for the purpose of
+establishing such a relation that it is particularly indispensable to
+know the greatest possible number of properties of each figure
+considered in geometry.
+
+In fact, if we always confined ourselves to the single primitive
+definition of a line or of a surface, supposing even that we could then
+_measure_ it (which, according to the first order of considerations,
+would generally be impossible), this knowledge would remain almost
+necessarily barren in the application, since we should not ordinarily
+know how to recognize that figure in nature when it presented itself
+there; to ensure that, it would be necessary that the single
+characteristic, according to which geometers had conceived it, should be
+precisely that one whose verification external circumstances would
+admit: a coincidence which would be purely fortuitous, and on which we
+could not count, although it might sometimes take place. It is, then,
+only by multiplying as much as possible the characteristic properties of
+each abstract figure, that we can be assured, in advance, of recognizing
+it in the concrete state, and of thus turning to account all our
+rational labours, by verifying in each case the definition which is
+susceptible of being directly proven. This definition is almost always
+the only one in given circumstances, and varies, on the other hand, for
+the same figure, with different circumstances; a double reason for its
+previous determination.
+
+
+_Illustration: Orbits of the Planets._ The geometry of the heavens
+furnishes us with a very memorable example in this matter, well suited
+to show the general necessity of such a study. We know that the ellipse
+was discovered by Kepler to be the curve which the planets describe
+about the sun, and the satellites about their planets. Now would this
+fundamental discovery, which re-created astronomy, ever have been
+possible, if geometers had been always confined to conceiving the
+ellipse only as the oblique section of a circular cone by a plane? No
+such definition, it is evident, would admit of such a verification. The
+most general property of the ellipse, that the sum of the distances from
+any of its points to two fixed points is a constant quantity, is
+undoubtedly much more susceptible, by its nature, of causing the curve
+to be recognized in this case, but still is not directly suitable. The
+only characteristic which can here be immediately verified is that which
+is derived from the relation which exists in the ellipse between the
+length of the focal distances and their direction; the only relation
+which admits of an astronomical interpretation, as expressing the law
+which connects the distance from the planet to the sun, with the time
+elapsed since the beginning of its revolution. It was, then, necessary
+that the purely speculative labours of the Greek geometers on the
+properties of the conic sections should have previously presented their
+generation under a multitude of different points of view, before Kepler
+could thus pass from the abstract to the concrete, in choosing from
+among all these different characteristics that one which could be most
+easily proven for the planetary orbits.
+
+
+_Illustration: Figure of the Earth._ Another example of the same order,
+but relating to surfaces, occurs in considering the important question
+of the figure of the earth. If we had never known any other property of
+the sphere than its primitive character of having all its points equally
+distant from an interior point, how would we ever have been able to
+discover that the surface of the earth was spherical? For this, it was
+necessary previously to deduce from this definition of the sphere some
+properties capable of being verified by observations made upon the
+surface alone, such as the constant ratio which exists between the
+length of the path traversed in the direction of any meridian of a
+sphere going towards a pole, and the angular height of this pole above
+the horizon at each point. Another example, but involving a much longer
+series of preliminary speculations, is the subsequent proof that the
+earth is not rigorously spherical, but that its form is that of an
+ellipsoid of revolution.
+
+After such examples, it would be needless to give any others, which any
+one besides may easily multiply. All of them prove that, without a very
+extended knowledge of the different properties of each figure, the
+relation of the abstract to the concrete, in geometry, would be purely
+accidental, and that the science would consequently want one of its most
+essential foundations.
+
+Such, then, are two general considerations which fully demonstrate the
+necessity of introducing into geometry a great number of investigations
+which have not the _measurement_ of extension for their direct object;
+while we continue, however, to conceive such a measurement as being the
+final destination of all geometrical science. In this way we can retain
+the philosophical advantages of the clearness and precision of this
+definition, and still include in it, in a very logical though indirect
+manner, all known geometrical researches, in considering those which do
+not seem to relate to the measurement of extension, as intended either
+to prepare for the solution of the final questions, or to render
+possible the application of the solutions obtained.
+
+Having thus recognized, as a general principle, the close and necessary
+connexion of the study of the properties of lines and surfaces with
+those researches which constitute the final object of geometry, it is
+evident that geometers, in the progress of their labours, must by no
+means constrain themselves to keep such a connexion always in view.
+Knowing, once for all, how important it is to vary as much as possible
+the manner of conceiving each figure, they should pursue that study,
+without considering of what immediate use such or such a special
+property may be for rectifications, quadratures, and cubatures. They
+would uselessly fetter their inquiries by attaching a puerile importance
+to the continued establishment of that co-ordination.
+
+This general exposition of the general object of geometry is so much the
+more indispensable, since, by the very nature of the subject, this study
+of the different properties of each line and of each surface necessarily
+composes by far the greater part of the whole body of geometrical
+researches. Indeed, the questions directly relating to rectifications,
+to quadratures, and to cubatures, are evidently, by themselves, very few
+in number for each figure considered. On the other hand, the study of
+the properties of the same figure presents an unlimited field to the
+activity of the human mind, in which it may always hope to make new
+discoveries. Thus, although geometers have occupied themselves for
+twenty centuries, with more or less activity undoubtedly, but without
+any real interruption, in the study of the conic sections, they are far
+from regarding that so simple subject as being exhausted; and it is
+certain, indeed, that in continuing to devote themselves to it, they
+would not fail to find still unknown properties of those different
+curves. If labours of this kind have slackened considerably for a
+century past, it is not because they are completed, but only, as will be
+presently explained, because the philosophical revolution in geometry,
+brought about by Descartes, has singularly diminished the importance of
+such researches.
+
+It results from the preceding considerations that not only is the field
+of geometry necessarily infinite because of the variety of figures to
+be considered, but also in virtue of the diversity of the points of view
+under the same figure may be regarded. This last conception is, indeed,
+that which gives the broadest and most complete idea of the whole body
+of geometrical researches. We see that studies of this kind consist
+essentially, for each line or for each surface, in connecting all the
+geometrical phenomena which it can present, with a single fundamental
+phenomenon, regarded as the primitive definition.
+
+
+
+
+THE TWO GENERAL METHODS OF GEOMETRY.
+
+
+Having now explained in a general and yet precise manner the final
+object of geometry, and shown how the science, thus defined, comprehends
+a very extensive class of researches which did not at first appear
+necessarily to belong to it, there remains to be considered the _method_
+to be followed for the formation of this science. This discussion is
+indispensable to complete this first sketch of the philosophical
+character of geometry. I shall here confine myself to indicating the
+most general consideration in this matter, developing and summing up
+this important fundamental idea in the following chapters.
+
+Geometrical questions may be treated according to _two methods_ so
+different, that there result from them two sorts of geometry, so to say,
+the philosophical character of which does not seem to me to have yet
+been properly apprehended. The expressions of _Synthetical Geometry_ and
+_Analytical Geometry_, habitually employed to designate them, give a
+very false idea of them. I would much prefer the purely historical
+denominations of _Geometry of the Ancients_ and _Geometry of the
+Moderns_, which have at least the advantage of not causing their true
+character to be misunderstood. But I propose to employ henceforth the
+regular expressions of _Special Geometry_ and _General Geometry_, which
+seem to me suited to characterize with precision the veritable nature of
+the two methods.
+
+
+_Their fundamental Difference._ The fundamental difference between the
+manner in which we conceive Geometry since Descartes, and the manner in
+which the geometers of antiquity treated geometrical questions, is not
+the use of the Calculus (or Algebra), as is commonly thought to be the
+case. On the one hand, it is certain that the use of the calculus was
+not entirely unknown to the ancient geometers, since they used to make
+continual and very extensive applications of the theory of proportions,
+which was for them, as a means of deduction, a sort of real, though very
+imperfect and especially extremely limited equivalent for our present
+algebra. The calculus may even be employed in a much more complete
+manner than they have used it, in order to obtain certain geometrical
+solutions, which will still retain all the essential character of the
+ancient geometry; this occurs very frequently with respect to those
+problems of geometry of two or of three dimensions, which are commonly
+designated under the name of _determinate_. On the other hand, important
+as is the influence of the calculus in our modern geometry, various
+solutions obtained without algebra may sometimes manifest the peculiar
+character which distinguishes it from the ancient geometry, although
+analysis is generally indispensable. I will cite, as an example, the
+method of Roberval for tangents, the nature of which is essentially
+modern, and which, however, leads in certain cases to complete
+solutions, without any aid from the calculus. It is not, then, the
+instrument of deduction employed which is the principal distinction
+between the two courses which the human mind can take in geometry.
+
+The real fundamental difference, as yet imperfectly apprehended, seems
+to me to consist in the very nature of the questions considered. In
+truth, geometry, viewed as a whole, and supposed to have attained entire
+perfection, must, as we have seen on the one hand, embrace all
+imaginable figures, and, on the other, discover all the properties of
+each figure. It admits, from this double consideration, of being treated
+according to two essentially distinct plans; either, 1°, by grouping
+together all the questions, however different they may be, which relate
+to the same figure, and isolating those relating to different bodies,
+whatever analogy there may exist between them; or, 2°, on the contrary,
+by uniting under one point of view all similar inquiries, to whatever
+different figures they may relate, and separating the questions relating
+to the really different properties of the same body. In a word, the
+whole body of geometry may be essentially arranged either with reference
+to the _bodies_ studied or to the _phenomena_ to be considered. The
+first plan, which is the most natural, was that of the ancients; the
+second, infinitely more rational, is that of the moderns since
+Descartes.
+
+
+_Geometry of the Ancients._ Indeed, the principal characteristics of the
+ancient geometry is that they studied, one by one, the different lines
+and the different surfaces, not passing to the examination of a new
+figure till they thought they had exhausted all that there was
+interesting in the figures already known. In this way of proceeding,
+when they undertook the study of a new curve, the whole of the labour
+bestowed on the preceding ones could not offer directly any essential
+assistance, otherwise than by the geometrical practice to which it had
+trained the mind. Whatever might be the real similarity of the questions
+proposed as to two different figures, the complete knowledge acquired
+for the one could not at all dispense with taking up again the whole of
+the investigation for the other. Thus the progress of the mind was never
+assured; so that they could not be certain, in advance, of obtaining any
+solution whatever, however analogous the proposed problem might be to
+questions which had been already resolved. Thus, for example, the
+determination of the tangents to the three conic sections did not
+furnish any rational assistance for drawing the tangent to any other new
+curve, such as the conchoid, the cissoid, &c. In a word, the geometry of
+the ancients was, according to the expression proposed above,
+essentially special.
+
+
+_Geometry of the Moderns._ In the system of the moderns, geometry is, on
+the contrary, eminently _general_, that is to say, relating to any
+figures whatever. It is easy to understand, in the first place, that all
+geometrical expressions of any interest may be proposed with reference
+to all imaginable figures. This is seen directly in the fundamental
+problems--of rectifications, quadratures, and cubatures--which
+constitute, as has been shown, the final object of geometry. But this
+remark is no less incontestable, even for investigations which relate to
+the different _properties_ of lines and of surfaces, and of which the
+most essential, such as the question of tangents or of tangent planes,
+the theory of curvatures, &c., are evidently common to all figures
+whatever. The very few investigations which are truly peculiar to
+particular figures have only an extremely secondary importance. This
+being understood, modern geometry consists essentially in abstracting,
+in order to treat it by itself, in an entirely general manner, every
+question relating to the same geometrical phenomenon, in whatever bodies
+it may be considered. The application of the universal theories thus
+constructed to the special determination of the phenomenon which is
+treated of in each particular body, is now regarded as only a subaltern
+labour, to be executed according to invariable rules, and the success of
+which is certain in advance. This labour is, in a word, of the same
+character as the numerical calculation of an analytical formula. There
+can be no other merit in it than that of presenting in each case the
+solution which is necessarily furnished by the general method, with all
+the simplicity and elegance which the line or the surface considered can
+admit of. But no real importance is attached to any thing but the
+conception and the complete solution of a new question belonging to any
+figure whatever. Labours of this kind are alone regarded as producing
+any real advance in science. The attention of geometers, thus relieved
+from the examination of the peculiarities of different figures, and
+wholly directed towards general questions, has been thereby able to
+elevate itself to the consideration of new geometrical conceptions,
+which, applied to the curves studied by the ancients, have led to the
+discovery of important properties which they had not before even
+suspected. Such is geometry, since the radical revolution produced by
+Descartes in the general system of the science.
+
+
+_The Superiority of the modern Geometry._ The mere indication of the
+fundamental character of each of the two geometries is undoubtedly
+sufficient to make apparent the immense necessary superiority of modern
+geometry. We may even say that, before the great conception of
+Descartes, rational geometry was not truly constituted upon definitive
+bases, whether in its abstract or concrete relations. In fact, as
+regards science, considered speculatively, it is clear that, in
+continuing indefinitely to follow the course of the ancients, as did the
+moderns before Descartes, and even for a little while afterwards, by
+adding some new curves to the small number of those which they had
+studied, the progress thus made, however rapid it might have been, would
+still be found, after a long series of ages, to be very inconsiderable
+in comparison with the general system of geometry, seeing the infinite
+variety of the forms which would still have remained to be studied. On
+the contrary, at each question resolved according to the method of the
+moderns, the number of geometrical problems to be resolved is then, once
+for all, diminished by so much with respect to all possible bodies.
+Another consideration is, that it resulted, from their complete want of
+general methods, that the ancient geometers, in all their
+investigations, were entirely abandoned to their own strength, without
+ever having the certainty of obtaining, sooner or later, any solution
+whatever. Though this imperfection of the science was eminently suited
+to call forth all their admirable sagacity, it necessarily rendered
+their progress extremely slow; we can form some idea of this by the
+considerable time which they employed in the study of the conic
+sections. Modern geometry, making the progress of our mind certain,
+permits us, on the contrary, to make the greatest possible use of the
+forces of our intelligence, which the ancients were often obliged to
+waste on very unimportant questions.
+
+A no less important difference between the two systems appears when we
+come to consider geometry in the concrete point of view. Indeed, we have
+already remarked that the relation of the abstract to the concrete in
+geometry can be founded upon rational bases only so far as the
+investigations are made to bear directly upon all imaginable figures. In
+studying lines, only one by one, whatever may be the number, always
+necessarily very small, of those which we shall have considered, the
+application of such theories to figures really existing in nature will
+never have any other than an essentially accidental character, since
+there is nothing to assure us that these figures can really be brought
+under the abstract types considered by geometers.
+
+Thus, for example, there is certainly something fortuitous in the happy
+relation established between the speculations of the Greek geometers
+upon the conic sections and the determination of the true planetary
+orbits. In continuing geometrical researches upon the same plan, there
+was no good reason for hoping for similar coincidences; and it would
+have been possible, in these special studies, that the researches of
+geometers should have been directed to abstract figures entirely
+incapable of any application, while they neglected others, susceptible
+perhaps of an important and immediate application. It is clear, at
+least, that nothing positively guaranteed the necessary applicability of
+geometrical speculations. It is quite another thing in the modern
+geometry. From the single circumstance that in it we proceed by general
+questions relating to any figures whatever, we have in advance the
+evident certainty that the figures really existing in the external world
+could in no case escape the appropriate theory if the geometrical
+phenomenon which it considers presents itself in them.
+
+From these different considerations, we see that the ancient system of
+geometry wears essentially the character of the infancy of the science,
+which did not begin to become completely rational till after the
+philosophical resolution produced by Descartes. But it is evident, on
+the other hand, that geometry could not be at first conceived except in
+this _special_ manner. _General_ geometry would not have been possible,
+and its necessity could not even have been felt, if a long series of
+special labours on the most simple figures had not previously furnished
+bases for the conception of Descartes, and rendered apparent the
+impossibility of persisting indefinitely in the primitive geometrical
+philosophy.
+
+
+_The Ancient the Base of the Modern._ From this last consideration we
+must infer that, although the geometry which I have called _general_
+must be now regarded as the only true dogmatical geometry, and that to
+which we shall chiefly confine ourselves, the other having no longer
+much more than an historical interest, nevertheless it is not possible
+to entirely dispense with _special_ geometry in a rational exposition of
+the science. We undoubtedly need not borrow directly from ancient
+geometry all the results which it has furnished; but, from the very
+nature of the subject, it is necessarily impossible entirely to dispense
+with the ancient method, which will always serve as the preliminary
+basis of the science, dogmatically as well as historically. The reason
+of this is easy to understand. In fact, _general_ geometry being
+essentially founded, as we shall soon establish, upon the employment of
+the calculus in the transformation of geometrical into analytical
+considerations, such a manner of proceeding could not take possession of
+the subject immediately at its origin. We know that the application of
+mathematical analysis, from its nature, can never commence any science
+whatever, since evidently it cannot be employed until the science has
+already been sufficiently cultivated to establish, with respect to the
+phenomena considered, some _equations_ which can serve as starting
+points for the analytical operations. These fundamental equations being
+once discovered, analysis will enable us to deduce from them a multitude
+of consequences which it would have been previously impossible even to
+suspect; it will perfect the science to an immense degree, both with
+respect to the generality of its conceptions and to the complete
+co-ordination established between them. But mere mathematical analysis
+could never be sufficient to form the bases of any natural science, not
+even to demonstrate them anew when they have once been established.
+Nothing can dispense with the direct study of the subject, pursued up to
+the point of the discovery of precise relations.
+
+We thus see that the geometry of the ancients will always have, by its
+nature, a primary part, absolutely necessary and more or less extensive,
+in the complete system of geometrical knowledge. It forms a rigorously
+indispensable introduction to _general_ geometry. But it is to this that
+it must be limited in a completely dogmatic exposition. I will consider,
+then, directly, in the following chapter, this _special_ or
+_preliminary_ geometry restricted to exactly its necessary limits, in
+order to occupy myself thenceforth only with the philosophical
+examination of _general_ or _definitive_ geometry, the only one which is
+truly rational, and which at present essentially composes the science.
+
+
+
+

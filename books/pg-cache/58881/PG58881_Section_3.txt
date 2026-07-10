@@ -1,0 +1,237 @@
+CHAPTER III.
+
+_THE GENERAL PRINCIPLES OF THE CALCULUS OF PROBABILITIES._
+
+
+_First Principle._—The first of these principles is the definition
+itself of probability, which, as has been seen, is the ratio of the
+number of favorable cases to that of all the cases possible.
+
+_Second Principle._—But that supposes the various cases equally
+possible. If they are not so, we will determine first their respective
+possibilities, whose exact appreciation is one of the most delicate
+points of the theory of chance. Then the probability will be the sum of
+the possibilities of each favorable case. Let us illustrate this
+principle by an example.
+
+Let us suppose that we throw into the air a large and very thin coin
+whose two large opposite faces, which we will call heads and tails, are
+perfectly similar. Let us find the probability of throwing heads at
+least one time in two throws. It is clear that four equally possible
+cases may arise, namely, heads at the first and at the second throw;
+heads at the first throw and tails at the second; tails at the first
+throw and heads at the second; finally, tails at both throws. The first
+three cases are favorable to the event whose probability is sought;
+consequently this probability is equal to ¾; so that it is a bet of
+three to one that heads will be thrown at least once in two throws.
+
+We can count at this game only three different cases, namely, heads at
+the first throw, which dispenses with throwing a second time; tails at
+the first throw and heads at the second; finally, tails at the first and
+at the second throw. This would reduce the probability to ⅔ if we should
+consider with d'Alembert these three cases as equally possible. But it
+is apparent that the probability of throwing heads at the first throw is
+½, while that of the two other cases is ¼, the first case being a simple
+event which corresponds to two events combined: heads at the first and
+at the second throw, and heads at the first throw, tails at the second.
+If we then, conforming to the second principle, add the possibility ½ of
+heads at the first throw to the possibility ¼ of tails at the first
+throw and heads at the second, we shall have ¾ for the probability
+sought, which agrees with what is found in the supposition when we play
+the two throws. This supposition does not change at all the chance of
+that one who bets on this event; it simply serves to reduce the various
+cases to the cases equally possible.
+
+_Third Principle._—One of the most important points of the theory of
+probabilities and that which lends the most to illusions is the manner
+in which these probabilities increase or diminish by their mutual
+combination. If the events are independent of one another, the
+probability of their combined existence is the product of their
+respective probabilities. Thus the probability of throwing one ace with
+a single die is ⅙; that of throwing two aces in throwing two dice at the
+same time is 1/36. Each face of the one being able to combine with the
+six faces of the other, there are in fact thirty-six equally possible
+cases, among which one single case gives two aces. Generally the
+probability that a simple event in the same circumstances will occur
+consecutively a given number of times is equal to the probability of
+this simple event raised to the power indicated by this number. Having
+thus the successive powers of a fraction less than unity diminishing
+without ceasing, an event which depends upon a series of very great
+probabilities may become extremely improbable. Suppose then an incident
+be transmitted to us by twenty witnesses in such manner that the first
+has transmitted it to the second, the second to the third, and so on.
+Suppose again that the probability of each testimony be equal to the
+fraction 9/10; that of the incident resulting from the testimonies will
+be less than ⅛. We cannot better compare this diminution of the
+probability than with the extinction of the light of objects by the
+interposition of several pieces of glass. A relatively small number of
+pieces suffices to take away the view of an object that a single piece
+allows us to perceive in a distinct manner. The historians do not appear
+to have paid sufficient attention to this degradation of the probability
+of events when seen across a great number of successive generations;
+many historical events reputed as certain would be at least doubtful if
+they were submitted to this test.
+
+In the purely mathematical sciences the most distant consequences
+participate in the certainty of the principle from which they are
+derived. In the applications of analysis to physics the results have all
+the certainty of facts or experiences. But in the moral sciences, where
+each inference is deduced from that which precedes it only in a probable
+manner, however probable these deductions may be, the chance of error
+increases with their number and ultimately surpasses the chance of truth
+in the consequences very remote from the principle.
+
+_Fourth Principle._—When two events depend upon each other, the
+probability of the compound event is the product of the probability of
+the first event and the probability that, this event having occurred,
+the second will occur. Thus in the preceding case of the three urns A,
+B, C, of which two contain only white balls and one contains only black
+balls, the probability of drawing a white ball from the urn C is ⅔,
+since of the three urns only two contain balls of that color. But when a
+white ball has been drawn from the urn C, the indecision relative to
+that one of the urns which contain only black balls extends only to the
+urns A and B; the probability of drawing a white ball from the urn B is
+½; the product of ⅔ by ½, or ⅓, is then the probability of drawing two
+white balls at one time from the urns B and C.
+
+We see by this example the influence of past events upon the probability
+of future events. For the probability of drawing a white ball from the
+urn B, which primarily is ⅔, becomes ½ when a white ball has been drawn
+from the urn C; it would change to certainty if a black ball had been
+drawn from the same urn. We will determine this influence by means of
+the following principle, which is a corollary of the preceding one.
+
+_Fifth Principle._—If we calculate _à priori_ the probability of the
+occurred event and the probability of an event composed of that one and
+a second one which is expected, the second probability divided by the
+first will be the probability of the event expected, drawn from the
+observed event.
+
+Here is presented the question raised by some philosophers touching the
+influence of the past upon the probability of the future. Let us suppose
+at the play of heads and tails that heads has occurred oftener than
+tails. By this alone we shall be led to believe that in the constitution
+of the coin there is a secret cause which favors it. Thus in the conduct
+of life constant happiness is a proof of competency which should induce
+us to employ preferably happy persons. But if by the unreliability of
+circumstances we are constantly brought back to a state of absolute
+indecision, if, for example, we change the coin at each throw at the
+play of heads and tails, the past can shed no light upon the future and
+it would be absurd to take account of it.
+
+_Sixth Principle._—Each of the causes to which an observed event may be
+attributed is indicated with just as much likelihood as there is
+probability that the event will take place, supposing the event to be
+constant. The probability of the existence of any one of these causes is
+then a fraction whose numerator is the probability of the event
+resulting from this cause and whose denominator is the sum of the
+similar probabilities relative to all the causes; if these various
+causes, considered _à priori_, are unequally probable, it is necessary,
+in place of the probability of the event resulting from each cause, to
+employ the product of this probability by the possibility of the cause
+itself. This is the fundamental principle of this branch of the analysis
+of chances which consists in passing from events to causes.
+
+This principle gives the reason why we attribute regular events to a
+particular cause. Some philosophers have thought that these events are
+less possible than others and that at the play of heads and tails, for
+example, the combination in which heads occurs twenty successive times
+is less easy in its nature than those where heads and tails are mixed in
+an irregular manner. But this opinion supposes that past events have an
+influence on the possibility of future events, which is not at all
+admissible. The regular combinations occur more rarely only because they
+are less numerous. If we seek a cause wherever we perceive symmetry, it
+is not that we regard a symmetrical event as less possible than the
+others, but, since this event ought to be the effect of a regular cause
+or that of chance, the first of these suppositions is more probable than
+the second. On a table we see letters arranged in this order,
+
+ _C o n s t a n t i n o p l e_,
+
+and we judge that this arrangement is not the result of chance, not
+because it is less possible than the others, for if this word were not
+employed in any language we should not suspect it came from any
+particular cause, but this word being in use among us, it is
+incomparably more probable that some person has thus arranged the
+aforesaid letters than that this arrangement is due to chance.
+
+This is the place to define the word _extraordinary_. We arrange in our
+thought all possible events in various classes; and we regard as
+_extraordinary_ those classes which include a very small number. Thus at
+the play of heads and tails the occurrence of heads a hundred successive
+times appears to us extraordinary because of the almost infinite number
+of combinations which may occur in a hundred throws; and if we divide
+the combinations into regular series containing an order easy to
+comprehend, and into irregular series, the latter are incomparably more
+numerous. The drawing of a white ball from an urn which among a million
+balls contains only one of this color, the others being black, would
+appear to us likewise extraordinary, because we form only two classes of
+events relative to the two colors. But the drawing of the number 475813,
+for example, from an urn that contains a million numbers seems to us an
+ordinary event; because, comparing individually the numbers with one
+another without dividing them into classes, we have no reason to believe
+that one of them will appear sooner than the others.
+
+From what precedes, we ought generally to conclude that the more
+extraordinary the event, the greater the need of its being supported by
+strong proofs. For those who attest it, being able to deceive or to have
+been deceived, these two causes are as much more probable as the reality
+of the event is less. We shall see this particularly when we come to
+speak of the probability of testimony.
+
+_Seventh Principle._—The probability of a future event is the sum of the
+products of the probability of each cause, drawn from the event
+observed, by the probability that, this cause existing, the future event
+will occur. The following example will illustrate this principle.
+
+Let us imagine an urn which contains only two balls, each of which may
+be either white or black. One of these balls is drawn and is put back
+into the urn before proceeding to a new draw. Suppose that in the first
+two draws white balls have been drawn; the probability of again drawing
+a white ball at the third draw is required.
+
+Only two hypotheses can be made here: either one of the balls is white
+and the other black, or both are white. In the first hypothesis the
+probability of the event observed is ¼; it is unity or certainty in the
+second. Thus in regarding these hypotheses as so many causes, we shall
+have for the sixth principle ⅕ and ⅘ for their respective probabilities.
+But if the first hypothesis occurs, the probability of drawing a white
+ball at the third draw is ½; it is equal to certainty in the second
+hypothesis; multiplying then the last probabilities by those of the
+corresponding hypotheses, the sum of the products, or 9/10, will be the
+probability of drawing a white ball at the third draw.
+
+When the probability of a single event is unknown we may suppose it
+equal to any value from zero to unity. The probability of each of these
+hypotheses, drawn from the event observed, is, by the sixth principle, a
+fraction whose numerator is the probability of the event in this
+hypothesis and whose denominator is the sum of the similar probabilities
+relative to all the hypotheses. Thus the probability that the
+possibility of the event is comprised within given limits is the sum of
+the fractions comprised within these limits. Now if we multiply each
+fraction by the probability of the future event, determined in the
+corresponding hypothesis, the sum of the products relative to all the
+hypotheses will be, by the seventh principle, the probability of the
+future event drawn from the event observed. Thus we find that an event
+having occurred successively any number of times, the probability that
+it will happen again the next time is equal to this number increased by
+unity divided by the same number, increased by two units. Placing the
+most ancient epoch of history at five thousand years ago, or at 1826213
+days, and the sun having risen constantly in the interval at each
+revolution of twenty-four hours, it is a bet of 1826214 to one that it
+will rise again to-morrow. But this number is incomparably greater for
+him who, recognizing in the totality of phenomena the principal
+regulator of days and seasons, sees that nothing at the present moment
+can arrest the course of it.
+
+Buffon in his _Political Arithmetic_ calculates differently the
+preceding probability. He supposes that it differs from unity only by a
+fraction whose numerator is unity and whose denominator is the number 2
+raised to a power equal to the number of days which have elapsed since
+the epoch. But the true manner of relating past events with the
+probability of causes and of future events was unknown to this
+illustrious writer.
+
+
+
+

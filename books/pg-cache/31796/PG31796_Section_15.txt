@@ -1,0 +1,305 @@
+CHAPTER IV.
+
+THE ANALYSIS OF ARGUMENTS INTO SYLLOGISTIC FORMS.
+
+Turning given arguments into syllogistic form is apt to seem as
+trivial and useless as it is easy and mechanical. In most cases the
+necessity of the conclusion is as apparent in the plain speech form as
+in the artificial logical form. The justification of such exercises
+is that they give familiarity with the instrument, serving at the same
+time as simple exercises in ratiocination: what further uses may be
+made of the instrument once it is mastered, we shall consider as we
+proceed.
+
+
+I.--FIRST FIGURE.
+
+Given the following argument to be put into Syllogistic form: "No war
+is long popular: for every war increases taxation; and the popularity
+of anything that touches the pocket is short-lived".
+
+The simplest method is to begin with the conclusion--"No war is long
+popular"--No S is P--then to examine the argument to see whether it
+yields premisses of the necessary form. Keeping the form in mind,
+Celarent of Fig. I.--
+
+  No M is P
+  All S is M
+  No S is P--
+we see at once that "Every war increases taxation" is of the form All
+S is M. Does the other sentence yield the Major Premiss No M is P,
+when M represents the increasing of taxation, _i.e._, a class bounded
+by that attribute? We see that the last sentence of the argument is
+equivalent to saying that "Nothing that increases taxation is long
+popular"; and this with the Minor yields the conclusion in Celarent.
+
+  Nothing that increases taxation is long popular.
+  Every war increases taxation.
+  No war is long popular.
+
+Observe, now, what in effect we have done in thus reducing the
+argument to the First Figure. In effect, a general principle being
+alleged as justifying a certain conclusion, we have put that principle
+into such a form that it has the same predicate with the conclusion.
+All that we have then to do in order to inspect the validity of the
+argument is to see whether the subject of the conclusion is contained
+in the subject of the general principle. Is war one of the things that
+increase taxation? Is it one of that class? If so, then it cannot long
+be popular, long popularity being an attribute that cannot be affirmed
+of any of that class.
+
+Reducing to the first figure, then, amounts simply to making the
+predication of the proposition alleged as ground uniform with the
+conclusion based upon it. The minor premiss or applying proposition
+amounts to saying that the subject of the conclusion is contained in
+the subject of the general principle. Is the subject of the conclusion
+contained in the subject of the general principle when the two have
+identical predicates? If so, the argument falls at once under the
+_Dictum de Omni et Nullo_.
+
+
+Two things may be noted concerning an argument thus simplified.
+
+1. It is not necessary, in order to bring an argument under the
+_dictum de omni_, to reduce the predicate to the form of an extensive
+term. In whatever form, abstract or concrete, the predication is made
+of the middle term, it is applicable in the same form to that which is
+contained in the middle term.
+
+2. The quantity of the Minor Term does not require special attention,
+inasmuch as the argument does not turn upon it. In whatever quantity
+it is contained in the Middle, in that quantity is the predicate of
+the Middle predicable of it.
+
+These two points being borne in mind, the attention may be
+concentrated on the Middle Term and its relations with the extremes.
+
+That the predicate may be left unanalysed without affecting the
+simplicity of the argument or in any way obscuring the exhibition
+of its turning-point, has an important bearing on the reduction of
+Modals. The modality may be treated as part of the predicate without
+in any way obscuring what it is the design of the syllogism to make
+clear. We have only to bear in mind that however the predicate may be
+qualified in the premisses, the same qualification must be transferred
+to the conclusion. Otherwise we should have the fallacy of Four Terms,
+_quaternio terminorum_.
+
+To raise the question: What is the proper form for a Modal of
+Possibility, A or I? is to clear up in an important respect our
+conceptions of the Universal proposition, "Victories may be gained
+by accident". Should this be expressed as A or I? Is the predicate
+applicable to All victories or only to Some? Obviously the meaning is
+that of any victory it may be true that it was gained by accident, and
+if we treat the "mode" as part of the predicate term "things that may
+be gained by accident," the form of the proposition is All S is in P.
+
+But, it may be asked, does not the proposition that victories may be
+gained by accident rest, as a matter of fact, on the belief that some
+victories have been gained in this way? And is not, therefore, the
+proper form of proposition Some S is P?
+
+This, however, is a misunderstanding. What we are concerned with is
+the formal analysis of propositions as given. And Some victories have
+been gained by accident is not the formal analysis of Victories may be
+gained by accident. The two propositions do not give the same meaning
+in different forms: the meaning as well as the form is different.
+The one is a statement of a matter of fact: the other of an inference
+founded on it. The full significance of the Modal proper may be stated
+thus: In view of the fact that some victories have been gained by
+accident, we are entitled to say of any victory, in the absence of
+certain knowledge, that it may be one of them.
+
+A general proposition, in short, is a proposition about a genus, taken
+universally.
+
+
+II.--SECOND FIGURE.
+
+For testing arguments from general principles, the First Figure is the
+simplest and best form of analysis.
+
+But there is one common class of arguments that fall naturally,
+as ordinarily expressed, into the Second Figure, namely, negative
+conclusions from the absence of distinctive signs or symptoms, or
+necessary conditions.
+
+Thirst, for example, is one of the symptoms of fever: if a patient is
+not thirsty, you can conclude at once that his illness is not fever,
+and the argument, fully expressed, is in the Second Figure.
+
+        All fever-stricken patients are thirsty.
+        This patient is not thirsty.
+  [.'.] He is not fever-stricken.
+
+Arguments of this type are extremely common.
+
+Armed with the general principle that ill-doers are ill-dreaders,
+we argue from a man's being unsuspicious that he is not guilty.
+The negative diagnosis of the physician, as when he argues from the
+absence of sore throat or the absence of a white speck in the throat
+that the case before him is not one of scarlatina or diphtheria,
+follows this type: and from its utility in making such arguments
+explicit, the Second Figure may be called the Figure of Negative
+Diagnosis.
+
+It is to be observed, however, that the character of the argument is
+best disclosed when the Major Premiss is expressed by its Converse by
+Contraposition. It is really from the absence of a symptom that the
+physician concludes; as, for example: "No patient that has not a sore
+throat is suffering from scarlatina". And the argument thus expressed
+is in the First Figure. Thus the reduction of Baroko to the First
+Figure by contraposition of the Middle is vindicated as a really
+useful process. The real Middle is a contrapositive term, and the form
+corresponds more closely to the reasoning when the argument is put in
+the First Figure.
+
+The truth is that if the positive term or sign or necessary condition
+is prominent as the basis of the argument, there is considerable risk
+of fallacy. Sore throat being one of the symptoms of scarlatina, the
+physician is apt on finding this symptom present to jump to a positive
+conclusion. This is equivalent technically to drawing a positive
+conclusion from premisses of the Second Figure.
+
+  All scarlatina patients have sore throat.
+  This patient has sore throat.
+
+A positive conclusion is technically known as a Non-Sequitur (Doesn't
+follow). So with arguments from the presence of a necessary condition
+which is only one of many. Given that it is impossible to pass without
+working at the subject, or that it is impossible to be a good marksman
+without having a steady hand, we are apt to argue that given also the
+presence of this condition, a conclusion is implicated. But really the
+premisses given are only two affirmatives of the Second Figure.
+
+    "It is impossible to pass without working at the subject."
+
+This, put into the form No not-M is P, is to say that "None who
+have not worked can pass". This is equivalent, as the converse by
+contraposition, with--
+
+    All capable of passing have worked at the subject.
+
+But though Q has worked at the subject, it does not follow that he is
+capable of passing. Technically the middle is undistributed. On the
+other hand, if he has not worked at the subject, it follows that he
+is not capable of passing. We can draw a conclusion at once from the
+absence of the necessary condition, though none can be drawn from its
+presence alone.
+
+
+THIRD FIGURE.
+
+Arguments are sometimes advanced in the form of the Third Figure. For
+instance: Killing is not always murder: for tyrannicide is not murder,
+and yet it is undoubtedly killing. Or again: Unpleasant things
+are sometimes salutary: for afflictions are sometimes so, and no
+affliction can be called pleasant.
+
+These arguments, when analysed into terms, are, respectively, Felapton
+and Disamis.
+
+  No tyrannicide is murder;
+  All tyrannicide is killing;
+  Some killing is not murder.
+
+  Some afflictions are salutary things;
+  All afflictions are unpleasant things;
+  Some unpleasant things are salutary things.
+
+The syllogistic form cannot in such cases pretend to be a
+simplification of the argument. The argument would be equally
+unmistakable if advanced in this form: Some S is not P, for example,
+M. Some killing is not murder, _e.g.,_ tyrannicide. Some unpleasant
+things are salutary, _e.g.,_ some afflictions.
+
+There is really no "deduction" in the third figure, no leading down
+from general to particular. The middle term is only an example of the
+minor. It is the syllogism of Contradictory Examples.
+
+In actual debate examples are produced to disprove a universal
+assertion, affirmative or negative. Suppose it is maintained that
+every wise man has a keen sense of humour. You doubt this: you
+produce an instance of the opposite, say Milton. The force of your
+contradictory instance is not increased by exhibiting the argument in
+syllogistic form: the point is not made clearer.
+
+The Third Figure was perhaps of some use in Yes and No Dialectic.
+When you had to get everything essential to your conclusion definitely
+admitted, it was useful to know that the production of an example to
+refute a generality involved the admission of two propositions. You
+must extract from your opponent both that Milton was a wise man, and
+that Milton had not a keen sense of humour, before you could drive him
+from the position that all wise men possess that quality.
+
+
+_Examples for Analysis._
+
+Scarlet flowers have no fragrance: this flower has no fragrance: does
+it follow that this flower is of a scarlet colour?
+
+Interest in the subject is an indispensable condition of learning
+easily; Z is interested in the subject: he is bound, therefore, to
+learn easily.
+
+It is impossible to be a good shot without having a steady hand: John
+has a steady hand: he is capable, therefore, of becoming a good shot.
+
+Some victories have been won by accident; for example, Maiwand.
+
+Intemperance is more disgraceful than cowardice, because people have
+more opportunities of acquiring control of their bodily appetites.
+
+"Some men are not fools, yet all men are fallible." What follows?
+
+"Some men allow that their memory is not good: every man believes in
+his own judgment." What is the conclusion, and in what Figure and Mood
+may the argument be expressed?
+
+"An honest man's the noblest work of God: Z is an honest man":
+therefore, he is--what?
+
+Examine the logical connexion between the following "exclamation"
+and "answer": "But I hear some one exclaiming that wickedness is not
+easily concealed. To which I answer, Nothing great is easy."
+
+"If the attention is actively aroused, sleep becomes impossible: hence
+the sleeplessness of anxiety, for anxiety is a strained attention upon
+an impending disaster."
+
+"To follow truth can never be a subject of regret: free inquiry does
+lead a man to regret the days of his childish faith; therefore it is
+not following truth."--_J. H. Newman._
+
+He would not take the crown: Therefore 'tis certain he was not
+ambitious.
+
+As he was valiant, I honour him; as he was ambitious, I slew him.
+
+The Utopians learned the language of the Greeks with more readiness
+because they were originally of the same race with them.
+
+Nothing which is cruel can be expedient, for cruelty is most revolting
+to the nature of man.
+
+"The fifth century saw the foundation of the Frank dominion in Gaul,
+and the first establishment of the German races in Britain. The former
+was effected in a single long reign, by the energy of one great ruling
+tribe, which had already modified its traditional usages, and now, by
+the adoption of the language and religion of the conquered, prepared
+the way for a permanent amalgamation with them." In the second of the
+above sentences a general proposition is assumed. Show in syllogistic
+form how the last proposition in the sentence depends upon it.
+
+"I do not mean to contend that active benevolence may not hinder a
+man's advancement in the world: for advancement greatly depends upon
+a reputation for excellence in some one thing of which the world
+perceives that it has present need: and an obvious attention to other
+things, though perhaps not incompatible with the excellence itself,
+may easily prevent a person from obtaining a reputation for it." Pick
+out the propositions here given as interdependent. Examine whether the
+principle alleged is sufficiently general to necessitate a conclusion.
+In what form would it be so?
+
+
+
+

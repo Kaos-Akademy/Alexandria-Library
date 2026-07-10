@@ -1,0 +1,398 @@
+CHAPTER II.
+
+FIGURES AND MOODS OF THE SYLLOGISM.
+
+
+I.--The First Figure.
+
+The forms (technically called MOODS, _i.e._, modes) of the First
+Figure are founded on the simplest relations with the Middle that will
+yield or that necessarily involve the disputed relation between the
+Extremes.
+
+The simplest type is stated by Aristotle as follows: "When three terms
+are so related that the last (the Minor) is wholly in the Middle, and
+the Middle wholly either in or not in the first (the Major) there must
+be a perfect syllogism of the Extremes".[1]
+
+When the Minor is partly in the Middle, the Syllogism holds equally
+good. Thus there are four possible ways in which two terms ([Greek:
+oroi], plane enclosures) may be connected or disconnected through a
+third. They are usually represented by circles as being the neatest
+of figures, but any enclosing outline answers the purpose, and the
+rougher and more irregular it is the more truly will it represent the
+extension of a word.
+
+  Conclusion A.
+  All M is in P.
+  All S is in M.
+  All S is in P.
+
+  [Illustration: concentric circles of P, M and S - S in centre]
+
+  Conclusion E.
+  No M is in P.
+  All S is in M.
+  No S is in P.
+
+  [Illustration: Concentric circles of M and S,
+  S in centre and separate circle of P]
+
+  Conclusion I.
+  All M is in P.
+  Some S is in M.
+  Some S is in P.
+
+  [Illustration: Concentric circles of P and M,
+  M in centre, both overlapped by circle of S]
+
+  Conclusion O.
+  No M is in P.
+  Some S is in M.
+  Some S is not in P.
+
+  [Illustration: Circles of M and P touching,
+  each overlapped by circle of S]
+
+These four forms constitute what are known as the moods of the First
+Figure of the Syllogism. Seeing that all propositions may be reduced
+to one or other of the four forms, A, E, I, or O, we have in these
+premisses abstract types of every possible valid argument from
+general principles. It is all the same whatever be the matter of the
+proposition. Whether the subject of debate is mathematical, physical,
+social or political, once premisses in these forms are conceded, the
+conclusion follows irresistibly, _ex vi formae, ex necessitate formae_.
+If an argument can be analysed into these forms, and you admit
+its propositions, you are bound in consistency to admit the
+conclusion--unless you are prepared to deny that if one thing is in
+another and that other in a third, the first is in the third, or if
+one thing is in another and that other wholly outside a third, the
+first is also outside the third.
+
+This is called the AXIOM OF SYLLOGISM. The most common form of it in
+Logic is that known as the _Dictum_, or _Regula de Omni et Nullo:_
+"Whatever is predicated of All or None of a term, is predicated of
+whatever is contained in that term". It has been expressed with many
+little variations, and there has been a good deal of discussion as to
+the best way of expressing it, the relativity of the word best being
+often left out of sight. _Best_ for what purpose? Practically that
+form is the best which best commands general assent, and for this
+purpose there is little to choose between various ways of expressing
+it. To make it easy and obvious it is perhaps best to have two
+separate forms, one for affirmative conclusions and one for negative.
+Thus: "Whatever is affirmed of all M, is affirmed of whatever is
+contained in M: and whatever is denied of all M, is denied of whatever
+is contained in M". The only advantage of including the two forms in
+one expression, is compendious neatness. "A part of a part is a part
+of the whole," is a neat form, it being understood that an individual
+or a species is part of a genus. "What is said of a whole, is said
+of every one of its parts," is really a sufficient statement of the
+principle: the whole being the Middle Term, and the Minor being a
+part of it, the Major is predicable of the Minor affirmatively or
+negatively if it is predicable similarly of the Middle.
+
+This Axiom, as the name imports, is indemonstrable. As Aristotle
+pointed out in the case of the Axiom of Contradiction, it can be
+vindicated, if challenged, only by reducing the challenger to a
+practical absurdity. You can no more deny it than you can deny that
+if a leaf is in a book and the book is in your pocket, the leaf is in
+your pocket. If you say that you have a sovereign in your purse and
+your purse is in your pocket, and yet that the sovereign is not in
+your pocket: will you give me what is in your pocket for the value of
+the purse?
+
+
+II.--THE MINOR FIGURES OF THE SYLLOGISM, AND THEIR REDUCTION TO THE
+FIRST.
+
+The word Figure ([Greek: schema]) applies to the form or figure of
+the premisses, that is, the order of the terms in the statement of the
+premisses, when the Major Premiss is put first, and the Minor second.
+
+In the First Figure the order is
+
+  M  P
+  S  M
+
+But there are three other possible orders or figures, namely:--
+
+  Fig. ii.      Fig. iii.      Fig. iv.
+    PM            MP             PM
+    SM            MS             MS.
+
+It results from the doctrines of Conversion that valid arguments may
+be stated in these forms, inasmuch as a proposition in one order of
+terms may be equivalent to a proposition in another. Thus No M is in P
+is convertible with No P is in M: consequently the argument
+
+  No P is in M
+  All S is in M,
+
+in the Second Figure is as much valid as when it is stated in the
+First--
+
+  No M is in P
+  All S is in M.
+
+Similarly, since All M is in S is convertible into Some S is in M, the
+following arguments are equally valid:--
+
+     Fig. iii.             Fig. i.
+  All M is in P         All M is in P
+                   =
+  All M is in S         Some S is in M.
+
+Using both the above Converses in place of their Convertends, we
+have--
+
+     Fig. iv.             Fig. i.
+  No P is in M          No M is in P
+                  =
+  All M is in S         Some S is in M.
+
+It can be demonstrated (we shall see presently how) that altogether
+there are possible four valid forms or moods of the Second Figure, six
+of the Third, and five of the Fourth. An ingenious Mnemonic of
+these various moods and their reduction to the First Figure by the
+transposition of terms and premisses has come down from the thirteenth
+century. The first line names the moods of the First, Normal, or
+Standard Figure.
+
+  BA_rb_A_r_A, CE_l_A_r_E_nt_, DA_r_II, FE_r_IO_que_ prioris;
+  CE_s_A_r_E, CA_m_E_str_E_s_, FE_st_I_n_O, BA_r_O_k_O, secundae;
+  Tertia DA_r_A_pt_I, DI_s_A_m_I_s_, DA_t_I_s_I, FE_l_A_pt_O_n_,
+  BO_k_A_rd_O, FE_r_I_s_O_que_, habet; quarta insuper addit,
+  B_r_A_m_A_nt_IP, CA_m_E_n_E_s_, DI_m_A_r_I_s_, FE_s_A_p_O,
+          F_r_E_s_I_s_O_n_.
+
+The vowels in the names of the Moods indicate the propositions of the
+Syllogism in the four forms, A E I O. To write out any Mood at length
+you have only to remember the Figure, and transcribe the propositions
+in the order of Major Premiss, Minor Premiss, and Conclusion. Thus,
+the Second Figure being
+
+  PM
+  SM
+
+FE_st_I_n_O is written--
+
+  No P is in M.
+  Some S is in M.
+  Some S is not in P.
+
+The Fourth Figure being
+
+  PM
+  MS
+
+DI_m_A_r_I_s_ is
+
+  Some P is in M.
+  All M is in S.
+  Some S is in P.
+
+The initial letter in a Minor Mood indicates that Mood of the First to
+which it may be reduced. Thus Festino is reduced to Ferio, and Dimaris
+to Darii. In the cases of Baroko and Bokardo, B indicates that you
+may employ Barbara to bring any impugner to confusion, as shall be
+afterwards explained.
+
+The letters _s_, _m_, and _p_ are also significant. Placed after a
+vowel, _s_ indicates that the proposition has to be simply converted.
+Thus, FE_st_I_n_O:--
+
+  No P is in M.
+  Some S is in M.
+  Some S is not in P.
+
+Simply convert the Major Premiss, and you get FE_r_IO, of the First.
+
+  No M is in P.
+  Some S is in M.
+  Some S is not in P.
+
+_m_ (_muta_, or _move_) indicates that the premisses have to be
+transposed. Thus, in CA_m_E_str_E_s_, you have to transpose the
+premisses, as well as simply convert the Minor Premiss before reaching
+the figure of CE_l_A_r_E_nt_.
+
+  All P is in M       No M is in S
+                  =
+  No S is in M        All P is in M.
+
+From this it follows in CE_l_A_r_E_nt_ that No P is in S, and this
+simply converted yields No S is in P.
+
+A simple transposition of the premisses in DI_m_A_r_I_s_ of the Fourth
+
+  Some P is in M
+  All M is in S
+
+yields the premisses of DA_r_II
+
+  All M is in S
+  Some P is in M,
+
+but the conclusion Some P is in S has to be simply converted.
+
+Placed after a vowel, _p_ indicates that the proposition has to be
+converted _per accidens_. Thus in FE_l_A_pt_O_n_ of the Third (MP, MS)
+
+  No M is in P
+  All M is in S
+  Some S is not in P
+
+you have to substitute for All M is in S its converse by limitation to
+get the premisses of FE_r_IO.
+
+Two of the Minor Moods, Baroko of the Second Figure, and Bokardo
+of the Third, cannot be reduced to the First Figure by the ordinary
+processes of Conversion and Transposition. It is for dealing with
+these intractable moods that Contraposition is required. Thus in
+BA_r_O_k_O of the Second (PM, SM)
+
+  All P is in M.
+  Some S is not in M.
+
+Substitute for the Major Premiss its Converse by Contraposition, and
+for the Minor its Formal Obverse or Permutation, and you have FE_r_IO
+of the First, with not-M as the Middle.
+
+  No not-M is in P.
+  Some S is in not-M,
+  Some S is not in P.
+
+The processes might be indicated by the Mnemonic FA_cs_O_c_O, with
+_c_ indicating the contraposition of the predicate term or Formal
+Obversion.
+
+The reduction of BO_k_A_rd_O,
+
+  Some M is not in P
+  All M is in S
+  Some S is not in P,
+
+is somewhat more intricate. It may be indicated by DO_cs_A_m_O_sc_.
+You substitute for the Major Premiss its Converse by Contraposition,
+transpose the Premisses and you have DA_r_II.
+
+  All M is in S.
+  Some not-P is in M.
+  Some not-P is in S.
+
+Convert now the conclusion by Contraposition, and you have Some S is
+not in P.
+
+The author of the Mnemonic apparently did not recognise
+Contraposition, though it was admitted by Boethius; and, it being
+impossible without this to demonstrate the validity of Baroko and
+Bokardo by showing them to be equivalent with valid moods of the First
+Figure, he provided for their demonstration by the special process
+known as _Reductio ad absurdum_. B indicates that Barbara is the
+medium.
+
+The rationale of the process is this. It is an imaginary opponent that
+you reduce to an absurdity or self-contradiction. You show that it
+is impossible with consistency to admit the premisses and at the same
+time deny the conclusion. For, let this be done; let it be admitted as
+in BA_r_O_k_O that,
+
+  All P is in M
+  Some S is not in M,
+
+but denied that Some S is not in P. The denial of a proposition
+implies the admission of its Contradictory. If it is not true that
+Some S is not in P, it must be true that All S is in P. Take this
+along with the admission that All P is in M, and you have a syllogism
+in BA_rb_A_r_A,
+
+  All P is in M
+  All S is in P,
+
+yielding the conclusion All S is in M. If then the original conclusion
+is denied, it follows that All S is in M. But this contradicts the
+Minor Premiss, which has been admitted to be true. It is thus shown
+that an opponent cannot admit the premisses and deny the conclusion
+without contradicting himself.
+
+The same process may be applied to Bokardo.
+
+  Some M is not in P.
+  All M is in S.
+  Some S is not in P.
+
+Deny the conclusion, and you must admit that All S is in P. Syllogised
+in Barbara with All M is in S, this yields the conclusion that All M
+is in P, the contradictory of the Major Premiss.
+
+The beginner may be reminded that the argument _ad absurdum_ is not
+necessarily confined to Baroko and Bokardo. It is applied to them
+simply because they are not reducible by the ordinary processes to the
+First Figure. It might be applied with equal effect to other Moods,
+DI_m_A_r_I_s_, _e.g._, of the Third.
+
+  Some M is in P.
+  All M is in S.
+  Some S is in P.
+
+Let Some S is in P be denied, and No S is in P must be admitted. But
+if No S is in P and All M is in S, it follows (in Celarent) that No M
+is in P, which an opponent cannot hold consistently with his admission
+that Some M is in P.
+
+The beginner sometimes asks: What is the use of reducing the Minor
+Figures to the First? The reason is that it is only when the relations
+between the terms are stated in the First Figure that it is at once
+apparent whether or not the argument is valid under the Axiom or
+_Dictum de Omni_. It is then undeniably evident that if the Dictum
+holds the argument holds. And if the Moods of the First Figure hold,
+their equivalents in the other Figures must hold too.
+
+Aristotle recognised only two of the Minor Figures, the Second and
+Third, and thus had in all only fourteen valid moods.
+
+The recognition of the Fourth Figure is attributed by Averroes to
+Galen. Averroes himself rejects it on the ground that no arguments
+expressed naturally, that is, in accordance with common usage, fall
+into that form. This is a sufficient reason for not spending time upon
+it, if Logic is conceived as a science that has a bearing upon the
+actual practice of discussion or discursive thought. And this was
+probably the reason why Aristotle passed it over.
+
+If however the Syllogism of Terms is to be completed as an abstract
+doctrine, the Fourth Figure must be noticed as one of the forms of
+premisses that contain the required relation between the extremes.
+There is a valid syllogism between the extremes when the relations
+of the three terms are as stated in certain premisses of the Fourth
+Figure.
+
+
+III.--THE SORITES.
+
+A chain of Syllogisms is called a Sorites. Thus:--
+
+      All A is in B.
+      All B is in C.
+      All C is in D.
+          :
+          :
+          :
+          :
+      All X is in Z.
+  [.'.] All A is in Z.
+
+A Minor Premiss can thus be carried through a series of Universal
+Propositions each serving in turn as a Major to yield a conclusion
+which can be syllogised with the next. Obviously a Sorites may contain
+one particular premiss, provided it is the first; and one universal
+negative premiss, provided it is the last. A particular or a negative
+at any other point in the chain is an insuperable bar.
+
+    [Footnote 1: [Greek: Hotan oun horoi treis autos echosi pros
+    allelous oste ton eschaton en holo einai to meso, kai ton meson
+    en holo to kroto e einai e me einai, ananke ton
+    akron einai syllogismon teleion.] (Anal. Prior., i. 4.)]
+
+
+
+

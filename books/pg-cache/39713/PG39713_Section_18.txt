@@ -1,0 +1,200 @@
+CHAPTER III
+
+MATHEMATICS AND LOGIC
+
+
+INTRODUCTION
+
+Can mathematics be reduced to logic without having to appeal to
+principles peculiar to mathematics? There is a whole school, abounding
+in ardor and full of faith, striving to prove it. They have their own
+special language, which is without words, using only signs. This
+language is understood only by the initiates, so that commoners are
+disposed to bow to the trenchant affirmations of the adepts. It is
+perhaps not unprofitable to examine these affirmations somewhat closely,
+to see if they justify the peremptory tone with which they are
+presented.
+
+But to make clear the nature of the question it is necessary to enter
+upon certain historical details and in particular to recall the
+character of the works of Cantor.
+
+Since long ago the notion of infinity had been introduced into
+mathematics; but this infinite was what philosophers call a _becoming_.
+The mathematical infinite was only a quantity capable of increasing
+beyond all limit: it was a variable quantity of which it could not be
+said that it _had passed_ all limits, but only that it _could pass_
+them.
+
+Cantor has undertaken to introduce into mathematics an _actual
+infinite_, that is to say a quantity which not only is capable of
+passing all limits, but which is regarded as having already passed them.
+He has set himself questions like these: Are there more points in space
+than whole numbers? Are there more points in space than points in a
+plane? etc.
+
+And then the number of whole numbers, that of the points of space, etc.,
+constitutes what he calls a _transfinite cardinal number_, that is to
+say a cardinal number greater than all the ordinary cardinal numbers.
+And he has occupied himself in comparing these transfinite cardinal
+numbers. In arranging in a proper order the elements of an aggregate
+containing an infinity of them, he has also imagined what he calls
+transfinite ordinal numbers upon which I shall not dwell.
+
+Many mathematicians followed his lead and set a series of questions of
+the sort. They so familiarized themselves with transfinite numbers that
+they have come to make the theory of finite numbers depend upon that of
+Cantor's cardinal numbers. In their eyes, to teach arithmetic in a way
+truly logical, one should begin by establishing the general properties
+of transfinite cardinal numbers, then distinguish among them a very
+small class, that of the ordinary whole numbers. Thanks to this détour,
+one might succeed in proving all the propositions relative to this
+little class (that is to say all our arithmetic and our algebra) without
+using any principle foreign to logic. This method is evidently contrary
+to all sane psychology; it is certainly not in this way that the human
+mind proceeded in constructing mathematics; so its authors do not dream,
+I think, of introducing it into secondary teaching. But is it at least
+logic, or, better, is it correct? It may be doubted.
+
+The geometers who have employed it are however very numerous. They have
+accumulated formulas and they have thought to free themselves from what
+was not pure logic by writing memoirs where the formulas no longer
+alternate with explanatory discourse as in the books of ordinary
+mathematics, but where this discourse has completely disappeared.
+
+Unfortunately they have reached contradictory results, what are called
+the _cantorian antinomies_, to which we shall have occasion to return.
+These contradictions have not discouraged them and they have tried to
+modify their rules so as to make those disappear which had already shown
+themselves, without being sure, for all that, that new ones would not
+manifest themselves.
+
+It is time to administer justice on these exaggerations. I do not hope
+to convince them; for they have lived too long in this atmosphere.
+Besides, when one of their demonstrations has been refuted, we are sure
+to see it resurrected with insignificant alterations, and some of them
+have already risen several times from their ashes. Such long ago was the
+Lernæan hydra with its famous heads which always grew again. Hercules
+got through, since his hydra had only nine heads, or eleven; but here
+there are too many, some in England, some in Germany, in Italy, in
+France, and he would have to give up the struggle. So I appeal only to
+men of good judgment unprejudiced.
+
+
+I
+
+In these latter years numerous works have been published on pure
+mathematics and the philosophy of mathematics, trying to separate and
+isolate the logical elements of mathematical reasoning. These works have
+been analyzed and expounded very clearly by M. Couturat in a book
+entitled: _The Principles of Mathematics_.
+
+For M. Couturat, the new works, and in particular those of Russell and
+Peano, have finally settled the controversy, so long pending between
+Leibnitz and Kant. They have shown that there are no synthetic judgments
+a priori (Kant's phrase to designate judgments which can neither be
+demonstrated analytically, nor reduced to identities, nor established
+experimentally), they have shown that mathematics is entirely reducible
+to logic and that intuition here plays no rôle.
+
+This is what M. Couturat has set forth in the work just cited; this he
+says still more explicitly in his Kant jubilee discourse, so that I
+heard my neighbor whisper: "I well see this is the centenary of Kant's
+_death_."
+
+Can we subscribe to this conclusive condemnation? I think not, and I
+shall try to show why.
+
+
+II
+
+What strikes us first in the new mathematics is its purely formal
+character: "We think," says Hilbert, "three sorts of _things_, which we
+shall call points, straights and planes. We convene that a straight
+shall be determined by two points, and that in place of saying this
+straight is determined by these two points, we may say it passes through
+these two points, or that these two points are situated on this
+straight." What these _things_ are, not only we do not know, but we
+should not seek to know. We have no need to, and one who never had seen
+either point or straight or plane could geometrize as well as we. That
+the phrase _to pass through_, or the phrase _to be situated upon_ may
+arouse in us no image, the first is simply a synonym of to _be
+determined_ and the second of _to determine_.
+
+Thus, be it understood, to demonstrate a theorem, it is neither
+necessary nor even advantageous to know what it means. The geometer
+might be replaced by the _logic piano_ imagined by Stanley Jevons; or,
+if you choose, a machine might be imagined where the assumptions were
+put in at one end, while the theorems came out at the other, like the
+legendary Chicago machine where the pigs go in alive and come out
+transformed into hams and sausages. No more than these machines need the
+mathematician know what he does.
+
+I do not make this formal character of his geometry a reproach to
+Hilbert. This is the way he should go, given the problem he set himself.
+He wished to reduce to a minimum the number of the fundamental
+assumptions of geometry and completely enumerate them; now, in
+reasonings where our mind remains active, in those where intuition still
+plays a part, in living reasonings, so to speak, it is difficult not to
+introduce an assumption or a postulate which passes unperceived. It is
+therefore only after having carried back all the geometric reasonings to
+a form purely mechanical that he could be sure of having accomplished
+his design and finished his work.
+
+What Hilbert did for geometry, others have tried to do for arithmetic
+and analysis. Even if they had entirely succeeded, would the Kantians be
+finally condemned to silence? Perhaps not, for in reducing mathematical
+thought to an empty form, it is certainly mutilated.
+
+Even admitting it were established that all the theorems could be
+deduced by procedures purely analytic, by simple logical combinations of
+a finite number of assumptions, and that these assumptions are only
+conventions; the philosopher would still have the right to investigate
+the origins of these conventions, to see why they have been judged
+preferable to the contrary conventions.
+
+And then the logical correctness of the reasonings leading from the
+assumptions to the theorems is not the only thing which should occupy
+us. The rules of perfect logic, are they the whole of mathematics? As
+well say the whole art of playing chess reduces to the rules of the
+moves of the pieces. Among all the constructs which can be built up of
+the materials furnished by logic, choice must be made; the true geometer
+makes this choice judiciously because he is guided by a sure instinct,
+or by some vague consciousness of I know not what more profound and more
+hidden geometry, which alone gives value to the edifice constructed.
+
+To seek the origin of this instinct, to study the laws of this deep
+geometry, felt, not stated, would also be a fine employment for the
+philosophers who do not want logic to be all. But it is not at this
+point of view I wish to put myself, it is not thus I wish to consider
+the question. The instinct mentioned is necessary for the inventor, but
+it would seem at first we might do without it in studying the science
+once created. Well, what I wish to investigate is if it be true that,
+the principles of logic once admitted, one can, I do not say discover,
+but demonstrate, all the mathematical verities without making a new
+appeal to intuition.
+
+
+III
+
+I once said no to this question:[12] should our reply be modified by the
+recent works? My saying no was because "the principle of complete
+induction" seemed to me at once necessary to the mathematician and
+irreducible to logic. The statement of this principle is: "If a property
+be true of the number 1, and if we establish that it is true of _n_ + 1
+provided it be of _n_, it will be true of all the whole numbers."
+Therein I see the mathematical reasoning par excellence. I did not mean
+to say, as has been supposed, that all mathematical reasonings can be
+reduced to an application of this principle. Examining these reasonings
+closely, we there should see applied many other analogous principles,
+presenting the same essential characteristics. In this category of
+principles, that of complete induction is only the simplest of all and
+this is why I have chosen it as type.
+
+  [12] See _Science and Hypothesis_, chapter I.
+
+The current name, principle of complete induction, is not justified.
+This mode of reasoning is none the less a true mathematical induction
+which differs from ordinary induction only by its certitude.
+
+

@@ -1,0 +1,809 @@
+V
+
+THAT PARALLEL POSTULATE
+
+Modern Geometric Methods; the Dividing Line Between Euclidean and
+Non-Euclidean; and the Significance of the Latter
+
+BY THE EDITOR
+
+
+The science of geometry has undergone a revolution of which the
+outsider is not informed, but which it is necessary to understand
+if we are to attain any comprehension of the geometric formulation
+of Einstein's results; and especially if we are to appreciate why
+it is proper and desirable to formulate these results geometrically
+at all. The classical geometer regarded his science from a narrow
+viewpoint, as the study of a certain set of observed phenomena--those
+of the space about us, considered as an entity in itself and divorced
+from everything in it. It is clear that some things about that space
+are not as they appear (optical illusions), and that other things
+about it are true but by no means apparent (the sum-of-squares
+property of a right triangle, the formulæ for surface and volume
+of a sphere, etc.). While many things about space are "obvious,"
+these need in the one case disproof and in the other discovery and
+proof. With all their love of mental processes for their own sake,
+it is then not surprising that the Greeks should have set themselves
+the task of proving by logical process the properties of space,
+which a less thoughtful folk would have regarded as a subject only
+for observational and experimental determination.
+
+But, abstract or concrete, the logical structure must have a starting
+point; and it is fair to demand that this consist in a statement
+of the terms we are going to use and the meanings we are going to
+attach to them. In other words, the first thing on the program will
+be a definition, or more probably, several definitions.
+
+Now the modern scientist has a somewhat iconoclastic viewpoint toward
+definitions, and especially toward the definition of his very most
+fundamental ideas.
+
+We do not speak here in terms of dictionary definitions. These have
+for object the eminent necessity of explaining the meaning and use
+of a word to some one who has just met it for the first time. It
+is easy enough to do this, if the doer possesses a good command
+of the language. It is not even a matter of grave concern that the
+words used in the definition be themselves known to the reader; if
+they are not, he must make their acquaintance too. Dr. Johnson's
+celebrated definition of a needle stands as perpetual evidence
+that when he cannot define a simple thing in terms of things still
+simpler, the lexicographer is forced to define it in terms of things
+more complex. Or we might demonstrate this by noting that the best
+dictionaries are driven to define such words as "and" and "but"
+by using such complex notions as are embodied in "connective,"
+"continuative," "adversative," and "particle."
+
+It is otherwise with the scientist who undertakes to lay down a
+definition as the basis of further procedure in building up the
+tissue of his science. Here a degree of rigorous logic is called for
+which would be as superfluous in the dictionary as the effort there
+to attain it would be out of place. The scientist, in building up
+a logical structure that will withstand every assault, must define
+everything, not in terms of something which he is more or less
+warranted in supposing his audience to know about, but actually in
+terms of things that have already been defined. This really means that
+he must explain what he is talking about in terms of simpler ideas
+and simpler things, which is precisely what the lexicographer does
+not have to worry about. This is why it is quite trivial to quote a
+dictionary definition of time or space or matter or force or motion
+in settlement of a controversy of scientific or semi-scientific nature.
+
+
+
+
+TERMS WE CANNOT DEFINE
+
+But the scientist who attempts to carry out this ideal system of
+defining everything in terms of what precedes meets one obstacle
+which he cannot surmount directly. Even a layman can construct a
+passable definition of a complex thing like a parallelopiped, in
+terms of simpler concepts like point, line, plane and parallel. But
+who shall define point in terms of something simpler and something
+which precedes point in the formulation of geometry? The scientist is
+embarrassed, not in handling the complicated later parts of his work,
+but in the very beginning, in dealing with the simplest concepts with
+which he has to deal.
+
+Suppose a dictionary were to be compiled with the definitions
+arranged in logical rather than alphabetical order: every word to be
+defined by the use only of words that have already been defined. The
+further back toward the beginning we push this project, the harder it
+gets. Obviously we can never define the first word, or the second,
+save as synonymous with the first. In fact we should need a dozen
+words, more or less, to start with--God-given words which we cannot
+define and shall not try to define, but of which we must agree that
+we know the significance. Then we have tools for further procedure;
+we can start with, say, the thirteenth word and define all the rest
+of the words in the language, in strictly logical fashion.
+
+What we have said about definitions applies equally to statements
+of fact, of the sort which are going to constitute the body of our
+science. In the absence of simpler facts to cite as authority, we shall
+never be able to prove anything, however simple this may itself be;
+and in fact the simpler it be, the harder it is to find something
+simpler to underlie it. If we are to have a logical structure of any
+sort, we must begin by laying down certain terms which we shall not
+attempt to define, and certain statements which we shall not try to
+prove. Mathematics, physics, chemistry--in the large and in all their
+many minor fields--all these must start somewhere. Instead of deceiving
+ourselves as to the circumstances surrounding their start, we prefer to
+be quite frank in recognizing that they start where we decide to start
+them. If we don't like one set of undefined terms as the foundation,
+by all means let us try another. But always we must have such a set.
+
+The classical geometer sensed the difficulty of defining his first
+terms. But he supposed that he had met it when he defined these in
+words free of technical significance. "A point is that which has
+position without size" seemed to him an adequate definition, because
+"position" and "size" are words of the ordinary language with which
+we may all be assumed familiar. But today we feel that "position"
+and "size" represent ideas that are not necessarily more fundamental
+than those of "line" and "point," and that such a definition begs
+the question. We get nowhere by replacing the undefined terms "point"
+and "line" and "plane," which really everybody understands, by other
+undefined terms which nobody understands any better.
+
+In handling the facts that it was inconvenient to prove, the classical
+geometer came closer to modern practice. He laid down at the beginning
+a few statements which he called "axioms," and which he considered to
+be so self-evident that demonstration was superfluous. That the term
+"self-evident" left room for a vast amount of ambiguity appears to
+have escaped him altogether. His axioms were axioms solely because
+they were obviously true.
+
+
+
+
+LAYING THE FOUNDATION
+
+The modern geometer falls in with Euclid when he writes an elementary
+text, satisfying the beginner's demand for apparent rigor by defining
+point and line in some fashion. But when he addresses to his peers an
+effort to clarify the foundations of geometry to a further degree of
+rigor and lucidity than has ever before been attained, he meets these
+difficulties from another quarter. In the first place he is always
+in search of the utmost possible generality, for he has found this to
+be his most effective tool, enabling him as it does to make a single
+general statement take the place and do the work of many particular
+statements. The classical geometer attained generality of a sort,
+for all his statements were of any point or line or plane. But the
+modern geometer, confronted with a relation that holds among points
+or between points and lines, at once goes to speculating whether there
+are not other elements among or between which it holds. The classical
+geometer isn't interested in this question at all, because he is
+seeking the absolute truth about the points and lines and planes which
+he sees as the elements of space; to him it is actually an object so to
+circumscribe his statements that they may by no possibility refer to
+anything other than these elements. Whereas the modern geometer feels
+that his primary concern is with the fabric of logical propositions
+that he is building up, and not at all with the elements about which
+those propositions revolve.
+
+It is of obvious value if the mathematician can lay down a proposition
+true of points, lines and planes. But he would much rather lay down
+a proposition true at once of these and of numerous other things;
+for such a proposition will group more phenomena under a single
+principle. He feels that on pure scientific grounds there is quite
+as much interest in any one set of elements to which his proposition
+applies as there is in any other; that if any person is to confine
+his attention to the set that stands for the physicist's space,
+that person ought to be the physicist, not the geometer. If he has
+produced a tool which the physicist can use, the physicist is welcome
+to use it; but the geometer cannot understand why, on that ground,
+he should be asked to confine his attention to the materials on which
+the physicist employs that tool.
+
+It will be alleged that points and lines and planes lie in the
+mathematician's domain, and that the other things to which his
+propositions may apply may not so lie--and especially that if he will
+not name them in advance he cannot expect that they will so lie. But
+the mathematician will not admit this. If mathematics is defined on
+narrow grounds as the science of number, even the point and line
+and plane may be excluded from its field. If any wider definition
+be sought--and of course one must be--there is just one definition
+that the mathematician will accept: Dr. Keyser's statement that
+"mathematics is the art or science of rigorous thinking."
+
+The immediate concern of this science is the means of rigorous
+thinking--undefined terms and definitions, axioms and propositions. Its
+collateral concern is the things to which these may apply, the things
+which may be thought about rigorously--everything. But now the
+mathematician's domain is so vastly extended that it becomes more
+than ever important for him to attain the utmost generality in all
+his pronouncements.
+
+One barrier to such generalization is the very name "geometry,"
+with the restricted significance which its derivation and long usage
+carry. The geometer therefore must have it distinctly understood
+that for him "geometry" means simply the process of deducing a set
+of propositions from a set of undefined primitive terms and axioms;
+and that when he speaks of "a geometry" he means some particular set
+of propositions so deduced, together with the axioms, etc., on which
+they are based. If you take a new set of axioms you get a new geometry.
+
+The geometer will, if you insist, go on calling his undefined terms by
+the familiar names "point," "line," "plane." But you must distinctly
+understand that this is a concession to usage, and that you are not
+for a moment to restrict the application of his statements in any
+way. He would much prefer, however, to be allowed new names for his
+elements, to say "We start with three elements of different sorts,
+which we assume to exist, and to which we attach the names A, B and
+C--or if you prefer, primary, secondary and tertiary elements--or
+yet again, names possessing no intrinsic significance at all, such as
+ching, chang and chung." He will then lay down whatever statements he
+requires to serve the purposes of the ancient axioms, all of these
+referring to some one or more of his elements. Then he is ready for
+the serious business of proving that, all his hypotheses being granted,
+his elements A, B and C, or I, II and III, or ching, chang and chung,
+are subject to this and that and the other propositions.
+
+The objection will be urged that the mathematician who does all
+this usurps the place of the logician. A little reflection will
+show this not to be the case. The logician in fact occupies the same
+position with reference to the geometer that the geometer occupies
+with reference to the physicist, the chemist, the arithmetician,
+the engineer, or anybody else whose primary interest lies with some
+particular set of elements to which the geometer's system applies. The
+mathematician is the tool-maker of all science, but he does not make
+his own tools--these the logician supplies. The logician in turn
+never descends to the actual practice of rigorous thinking, save as
+he must necessarily do this in laying down the general procedures
+which govern rigorous thinking. He is interested in processes, not
+in their application. He tells us that if a proposition is true its
+converse may be true or false or ambiguous, but its contrapositive
+is always true, while its negative is always false. But he never,
+from a particular proposition "If A is B then C is D," draws the
+particular contrapositive inference "If C is not D then A is not
+B." That is the mathematician's business.
+
+
+
+
+THE RÔLE OF GEOMETRY
+
+The mathematician is the quantity-production man of science. In
+his absence, the worker in each narrower field where the elements
+under discussion take particular concrete forms could work out,
+for himself, the propositions of the logical structure that applies
+to those elements. But it would then be found that the engineer had
+duplicated the work of the physicist, and so for many other cases;
+for the whole trend of modern science is toward showing that the
+same background of principles lies at the root of all things. So the
+mathematician develops the fabric of propositions that follows from
+this, that and the other group of assumptions, and does this without
+in the least concerning himself as to the nature of the elements of
+which these propositions may be true. He knows only that they are true
+for any elements of which his assumptions are true, and that is all he
+needs to know. Whenever the worker in some particular field finds that
+a certain group of the geometer's assumptions is true for his elements,
+the geometry of those elements is ready at hand for him to use.
+
+Now it is all right purposely to avoid knowing what it is that we
+are talking about, so that the names of these things shall constitute
+mere blank forms which may be filled in, when and if we wish, by the
+names of any things in the universe of which our "axioms" turn out
+to be true. But what about these axioms themselves? When we lay them
+down in ignorance of the identity of the elements to which they may
+eventually apply, they cannot by any possibility be "self-evident." We
+may, at pleasure, accept as self-evident a statement about points and
+lines and planes; or one about electrons, centimeters and seconds;
+or one about integers, fractions, and irrational numbers; or one about
+any other concrete thing or things whatever. But we cannot accept as
+self-evident a statement about chings, changs and chungs. So we must
+base our "axioms" on some other ground than this; and our modern
+geometer has his ground ready and waiting. He accepts his axioms
+on the ground that it pleases him to do so. To avoid all suggestion
+that they are supposed to be self-evident, or even necessarily true,
+he drops the term "axiom" and substitutes for it the more color-less
+word "postulate." A postulate is merely something that we agreed to
+accept, for the time being, as a basis of further argument. If it
+turns out to be true, or if we can find circumstances under which and
+elements to which it applies, any conclusions which we deduce from it
+by trustworthy processes are valid within the same limitations. And
+the propositions which tell us that, if our postulates are true, such
+and such conclusions are true--they, too, are valid, but without any
+reservation at all!
+
+Perhaps an illustration of just what this means will not be out of
+place. Let it be admitted, as a postulate, that $7+20$ is greater, by
+1, than $7+19$. Let us then consider the statement: "If $7 + 19 = 65$,
+then $7 + 20 = 66$." We know--at least we are quite certain--that $7 +
+19$ is not equal to 65, if by "7" and "19" and "65" we mean what you
+think we mean. We are equally sure, on the same grounds, that $7 +
+20$ is not equal to 66. But, under the one assumption that we have
+permitted ourselves, it is unquestionable that if $7 + 19$ were equal
+to 65, then $7 + 20$ certainly would be equal to 66. So, while the
+conclusion of the proposition which I have put in quotation marks is
+altogether false, the proposition itself, under our assumption, is
+entirely true. I have taken an illustration designed to be striking
+rather than to possess scientific interest; I could just as easily
+have shown a true proposition leading to a false conclusion, but of
+such sort that it would be of decided scientific interest as telling
+us one of the consequences of a certain assumption.
+
+
+
+
+WHAT MAY WE TAKE FOR GRANTED?
+
+This is all very fine; but how does the geometer know what postulates
+to lay down? One is tempted to say that he is at liberty to postulate
+anything he pleases, and investigate the results; and that whether or
+not his postulate ever be realized, the propositions that he deduces
+from it, being true, are of scientific interest. Actually, however,
+it is not quite as simple as all that. If it were sufficient to make
+a single postulate it would be as simple as all that; but it turns
+out that this is not sufficient any more than it is sufficient to
+have a single undefined term. We must have several postulates; and
+they must be such, as a whole, that a geometry flows out of them. The
+requirements are three.
+
+In the first place, the system of postulates must be "categorical"
+or complete--there must be enough of them, and they must cover enough
+ground, for the support of a complete system of geometry. In practice
+the test for this is direct. If we got to a point in the building up
+of a geometry where we could not prove whether a certain thing was
+one way always, or always the other way, or sometimes one way and
+sometimes the other, we should conclude that we needed an additional
+postulate covering this ground directly or indirectly. And we should
+make that postulate--because it is precisely the things that we can't
+prove which, in practical work, we agree to assume. Even Euclid had
+to adopt this philosophy.
+
+In the second place, the system of postulates must be consistent--no
+one or more of them may lead, individually or collectively, to
+consequences that contradict the results or any other or others. If
+in the course of building up a geometry we find we have proved
+two propositions that deny one another, we search out the implied
+contradiction in our postulates and remedy it.
+
+Finally, the postulates ought to be independent. It should not be
+possible to prove any one of them as a consequence of the others. If
+this property fails, the geometry does not fail with it; but it is
+seriously disfigured by the superfluity of assumptions, and one of
+them should be eliminated. If we are to assume anything unnecessarily,
+we may as well assume the whole geometry and be done with it.
+
+The geometer's business then is to draw up a set of postulates. This
+he may do on any basis whatever. They may be suggested to him by
+the behavior of points, lines and planes, or by some other concrete
+phenomena; they may with equal propriety be the product of an
+inventive imagination. On proceeding to deduce their consequences,
+he will discover and remedy any lack of categoricity or consistence
+or independence which his original system of postulates may have
+lacked. In the end he will have so large a body of propositions without
+contradiction or failure that he will conclude the propriety of his
+postulates to have been established, and the geometry based on them
+to be a valid one.
+
+
+
+
+AND WHAT IS IT ALL ABOUT?
+
+Is this geometry ever realized? Strictly it is not the geometer's
+business to ask or answer this question. But research develops two
+viewpoints. There is always the man who indulges in the pursuit of
+facts for their sake alone, and equally the man who wants to see his
+new facts lead to something else. One great mathematician is quoted
+as enunciating a new theory of surpassing mathematical beauty with
+the climacteric remark "And, thank God, no one will ever be able to
+find any use for it." An equally distinguished contemporary, on being
+interrogated concerning possible applications for one of his most
+abstruse theorems, replied that he knew no present use for it; but that
+long experience had made him confident that the mathematician would
+never develop any tool, however remote from immediate utility, for
+which the delvers in other fields would not presently find some use.
+
+If we wish, however, we may inquire with perfect propriety, from the
+side lines, whether a given geometry is ever realized. We may learn
+that so far as has yet been discovered there are no elements for
+which all its postulates are verified, and that there is therefore no
+realization known. On the other hand, we may more likely find that
+many different sets of elements are such that the postulates can be
+interpreted as applying to them, and that we therefore have numerous
+realizations of the geometry. As a human being the geometer may be
+interested in all this, but as a geometer it really makes little
+difference to him.
+
+When we look at space about us, we see it, for some reason grounded
+in the psychological history of the human race, as made up in the
+small of points, which go to make up lines, which in turn constitute
+planes. Or we can start at the other end and break space down first
+into planes, then into lines, finally into points. Our perceptions
+and conceptions of these points, lines and planes are very definite
+indeed; it seems indeed, as the Greeks thought, that certain things
+about them are self-evident. If we wish to take these self-evident
+properties of point, line and plane, and combine with them enough
+additional hair-splitting specifications to assure the modern geometer
+that we have really a categorical system of assumptions, we shall
+have the basis of a perfectly good system of geometry. This will be
+what we unavoidably think of as the absolute truth with regard to
+the space about us; but you mustn't say so in the presence of the
+geometer. It will also be what we call the Euclidean geometry. It
+has been satisfactory in the last degree, because not only space,
+but pretty much every other system of two or three elements bearing
+any relations to one another can be made, by employing as a means
+of interpretation the Cartesian scheme of plotting, to fit into the
+framework of Euclidean geometry. But it is not the only thing in the
+world of conceptual possibilities, and it begins to appear that it
+may not even be the only thing in the world of cold hard fact that
+surrounds us. To see just how this is so we must return to Euclid,
+and survey the historical development of geometry from his day to
+the present time.
+
+
+
+
+EUCLID'S GEOMETRY
+
+Point, line and plane Euclid attempts to define. Modern objection
+to these efforts was made clear above. Against Euclid's specific
+performance we urge the further specific fault that his "definitions"
+are really assumptions bestowing certain properties upon points, lines
+and planes. These assumptions Euclid supplements in his axioms; and in
+the process of proving propositions he unconsciously supplements them
+still further. This is to be expected from one whose justification for
+laying down an axiom was the alleged obvious character of the statement
+made. If some things are too obvious to require demonstration, others
+may be admitted as too obvious to demand explicit statement at all.
+
+Thus, if Euclid has two points A and B in a plane, on opposite sides of
+a line M, he will draw the line AB and without further formality speak
+of the point C in which it intersects M. That it does so intercept M,
+rather than in some way dodges it, is really an assumption as to the
+nature of lines and planes. Or again, Euclid will speak of a point D
+on the line AB, between or outside the points A and B, without making
+the formal assumption necessary to insure that the line is "full" of
+points so that such a point as D must exist. That such assumptions as
+these are necessary follows from our previous remarks. If we think of
+our geometry as dealing with "chings," "changs," and "chungs," or with
+elements I, II and III, it is no longer in the least degree obvious
+that the simplest property in the world applies to these elements. If
+we wish any property to prevail we must state it explicitly.
+
+With the postulates embodied in his definitions, those stated in his
+axioms, and those which he reads into his structure by his methods of
+proof, Euclid has a categorical set--enough to serve as foundation
+for a geometry. We may then climb into Euclid's shoes and take the
+next step with him. We follow him while he proves a number of things
+about intersecting lines and about triangles. To be sure, when he
+proves that two triangles are identically constituted by moving one of
+them over on top of the other, we may protest on the ground that the
+admission of motion, especially of motion thus imposed from without,
+into a geometry of things is not beyond dispute. If Euclid has caught
+our modern viewpoint, he will rejoin that if we have any doubts as to
+the admissibility of motion he will lay down a postulate admitting it,
+and we shall be silenced.
+
+Having exhausted for the present the interest of intersecting lines,
+our guide now passes to a consideration of lines in the same plane
+that never meet. He defines such lines as parallel. If we object that
+he should show the existence of a derived concept like this before
+laying down a definition that calls for it to exist, he can show that
+two lines drawn perpendicular to the same line never meet. He will
+execute this proof by a special sort of superposition, which requires
+that the plane be folded over on itself, through the third dimension
+of surrounding space, rather than merely slid along upon itself.
+
+We remain quiet while Euclid demonstrates that if two lines are cut by
+any transversal in such a way as to make corresponding angles at the
+two intersections equal, the lines are parallel. It is then in order
+to investigate the converse: if the lines are parallel to begin with,
+are the angles equal?
+
+
+
+
+AXIOMS MADE TO ORDER
+
+This sounds innocent enough; but in no way was Euclid able to devise a
+proof--or, for that matter, a disproof. So he took the only way out,
+and said that if the lines were parallel, obviously they extended in
+the same direction and made the angles equal. The thing was so obvious,
+he argued, that it was really an axiom and he didn't have to prove
+it; so he stated it as an axiom and proceeded. He didn't state it
+in precisely the form I have used; he apparently cast about for the
+form in which it would appear most obvious, and found a statement that
+suited him better than this one, and that comes to the same thing. This
+statement tells us that if the transversal makes two corresponding
+angles unequal, the lines that it cuts are not parallel and do meet
+if sufficiently prolonged. But wisely enough, he did not transplant
+this axiom, once he had arrived at it, to the beginning of the book
+where the other axioms were grouped; he left it right where it was,
+following the proposition that if the angles were equal the lines were
+parallel. This of course was so that it might appeal back, for its
+claim to obviousness, to its demonstrated converse of the proposition.
+
+Euclid must have been dissatisfied with this cutting of the Gordian
+knot; his successors were acutely so. For twenty centuries the parallel
+axiom was regarded as the one blemish in an otherwise perfect work;
+every respectable mathematician had his shot at removing the defect by
+"proving" the objectionable axiom. The procedure was always the same:
+expunge the parallel axiom, in its place write another more or less
+"obvious" assumption, and from this derive the parallel statement more
+or less directly. Thus if we may assume that the sum of the angles
+of a triangle is always exactly 180 degrees, or that there can be
+drawn only one line through a given point parallel to a given line,
+we can prove Euclid's axiom. Sometimes the substitute assumption was
+openly made and stated, as in the two instances cited; as often it
+was admitted into the demonstration implicitly, as when it is quietly
+assumed that we can draw a triangle similar to any given triangle and
+with area as great as we please, or when parallels are "defined" as
+everywhere equidistant. But such "proofs" never satisfied anyone other
+than the man who made them; the search went merrily on for a valid
+"proof" that should not in substance assume the thing to be proved.
+
+
+
+
+LOCATING THE DISCREPANCY
+
+Saccheri, an Italian Jesuit, would have struck bottom if he had had a
+little more imagination. He gave an exhaustive reductio ad absurdum,
+on the basis of the angle-sum theorem. This sum must be (a) greater
+than or (b) equal to or (c) less than 180 degrees. Saccheri showed
+that if one of these alternatives occurs in a single triangle, it must
+occur in every triangle. The first case gave little trouble; admitting
+the possibility of superposing in the special manner mentioned above,
+which he did implicitly, he showed that this "obtuse-angled hypothesis"
+contradicted itself. He pursued the "acute-angled hypothesis" for
+a long time before he satisfied himself that he had caught it, too,
+in an inconsistency. This left only the "right-angled hypothesis,"
+proving the Euclidean angle-sum theory and through it the parallel
+postulate. But Saccheri was wrong: he had found no actual contradiction
+in the acute-angled hypothesis--for none exists therein.
+
+The full facts were probably first known to Gauss, who had a finger in
+every mathematical pie that had to do with the transition to modern
+times. They were first published by Lobatchewsky, the Russian, who
+anticipated the Hungarian John Bolyai by a narrow margin. All three
+worked independently of Saccheri, whose book, though theoretically
+available in Italian libraries, was actually lost to sight and had
+to be rediscovered in recent years.
+
+Like Saccheri, Lobatchewsky investigated alternative possibilities. But
+he chose another point of attack: through a given point it must be
+possible to draw, in the same plane with a given line (a) no lines or
+(b) one line or (c) a plurality of lines, which shall not meet the
+given line. The word parallel is defined only in terms of the second
+of these hypotheses, so we avoid it here. These three cases correspond,
+respectively, to those of Saccheri.
+
+The first case Lobatchewsky ruled out just as did Saccheri, but
+accepting consciously the proviso attached to its elimination;
+the third he could not rule out. He developed the consequences of
+this hypothesis as far as Euclid develops those of the second one,
+sketching in a full outline for a system of geometry and trigonometry
+based on a plurality of "non-cutters." This geometry constitutes a
+coherent whole, without a logical flaw.
+
+This made it plain what was the matter with Euclid's parallel
+axiom. Nobody could prove it from his other assumptions because it
+is not a consequence of these. True or false, it is independent of
+them. Trinity Church is in New York, Faneuil Hall is in Boston, but
+Faneuil Hall is not in Boston because Trinity is in New York; and we
+could not prove that Faneuil Hall was in Boston if we knew nothing
+about America save that Trinity is in New York. The mathematicians
+of 2,000 years had been pursuing, on a gigantic scale, a delusion of
+post hoc, ergo propter hoc.
+
+
+
+
+WHAT THE POSTULATE REALLY DOES
+
+Moreover, in the absence of an assumption covering the ground, we
+shall not know which of the alternatives (a), (b), (c) holds. But
+when one holds in a single case it holds permanently, as Saccheri and
+Lobatchewsky both showed. So we cannot proceed on this indefinite
+basis; we must know which one is to hold. Without the parallel
+postulate or a substitute therefor that shall tell us the same thing
+or tell us something different, we have not got a categorical set of
+assumptions--we cannot build a geometry at all. That is why Euclid
+had to have his parallel postulate before he could proceed. That is
+why his successors had to have an assumption equivalent to his.
+
+The reason why it took so long for this to percolate into the
+understanding of the mathematicians was that they were thinking,
+not in terms of the modern geometry and about undefined elements;
+but in terms of the old geometry and about strictly defined and
+circumscribed elements. If we understand what is meant by Euclidean
+line and plane, of course the parallel postulate, to use the old
+geometer's word, is true--of course, to adopt the modern viewpoint,
+if we agree to employ an element to which that assumption applies,
+the assumption is realized. The very fact of accepting the "straight"
+line and the "flat" plane of Euclid constitutes acceptance of his
+parallel postulate--the only thing that can separate his geometry
+from other geometries. But of course we can't prove it; the prior
+postulates which we would have to use in such an attempt apply where
+it does not apply, and hence it cannot possibly be consequences of.
+
+To all this the classical Euclidean rejoins that we seem to have
+in mind elements of some sort to which, with one reservation, his
+postulates apply. He wants to know what these elements look like. We
+can, and must, produce them--else our talk about generality is mere
+drivel. But we must take care that the Euclidean geometer does not
+try to apply to our elements the notions of straightness and flatness
+which inhere in the parallel postulate. We cannot satisfy and defy
+that postulate at the same time. If we do not insist on this point, we
+shall find that we are reading non-Euclidean properties into Euclidean
+geometry, and interpreting the elements of the latter as straight
+lines that are not straight, flat planes that are not flat. It is not
+the mission of non-Euclidean geometry thus to deny the possibility
+of Euclidean geometry; it merely demands a place of equal honor.
+
+
+
+
+THE GEOMETRY OF SURFACES
+
+Let us ask the Euclidean geometer whether he can recognize his plane
+after we have crumpled it up like a piece of paper en route to the
+waste basket. He will hesitate only long enough to recall that in
+the special case of superposition he has reserved for himself the
+privilege of deforming his own plane, and to realize that he can
+always iron his plane out smooth again after we are through with
+it. This emphasizes the true nature of the two-dimensionality which
+is the fundamental characteristic of the plane (and of other things,
+as we shall directly see). The plane is two-dimensional in points not
+because two sets of mutually perpendicular Euclidean straight lines
+can be drawn in it defining directions of north-south and east-west,
+but because a point in it can be located by means of two measures. The
+same statement may be made of anything whatever to which the term
+"surface" is applicable; anything, however crumpled or irregular it
+be, that possesses length and breadth without thickness. The surface
+of a sphere, of a cylinder, of an ellipsoid, of a cone, of a doughnut
+(mathematically known as a torus), of a gear wheel, of a French horn,
+all these possess two-dimensionality in points; on all of them we can
+draw lines and curves and derive a geometry of these figures. If we
+get away from the notion that geometry of two dimensions must deal
+with planes, and adopt in place of this idea the broader restriction
+that it shall deal with surfaces, we shall have the generalization
+which the Euclidean has demanded that we produce, and the one which
+in the hands of the modern geometer has shown results.
+
+In this two-dimensional geometry of surfaces in general, that of the
+plane is merely one special case. Certain of the features met in that
+case are general. If we agree that we know what we mean by distance,
+we find that on every surface there is a shortest distance between
+two points, together with a series of lines or curves along which
+such distances are taken. These lines or curves we call geodesics. On
+the plane the geodesic is the straight line. On surfaces in general
+the geodesic, whatever its particular and peculiar shape, plays
+the same rôle that is played by the straight line in the plane;
+it is the secondary element of the geometry, the surface itself
+and all other surfaces of its type are the tertiary elements. And
+it is a fact that we can take all the possible spheres, or all the
+possible French-horn surfaces, and conceive of space as we know it
+being broken down by analysis into these surfaces instead of into
+planes. The only reason we habitually decompose space into planes is
+because it comes natural to us to think that way. But geometric points,
+lines and surfaces must be recognized as abstractions without actual
+existence, for all of them lack one or more of the three dimensions
+which such existence implies. These figures exist in our minds but
+not in the external world about us. So any decomposition of space
+into geometric elements is a phenomenon of the mind only; it has no
+parallel and no significance in the external world, and is made in
+one way or in another purely at our pleasure. There isn't a true,
+honest-to-goodness geometrical plane in existence any more than there
+is an honest-to-goodness spherical surface: so on intrinsic grounds
+one decomposition is as reasonable as another.
+
+Certain of the most fundamental postulates are obeyed by all
+surfaces. As we attempt to discriminate between surfaces of different
+types, and get, for instance, a geometry that shall be valid for
+spheres and ellipsoids but not for conicoids in general, we must do
+so by bringing in additional postulates that embody the necessary
+restrictions. A characteristic shared by planes, spheres, and various
+other surfaces is that the geodesics can be freely slid along upon
+themselves and will coincide with themselves in all positions when
+thus slid; with a similar arrangement for the surface itself. But
+the plane stands almost unique among surfaces in that it does not
+force us to distinguish between its two sides; we can turn it over
+and still it will coincide with itself; and this property belongs
+also to the straight line. It does not belong to the sphere, or to
+the great circles which are the geodesics of spherical geometry;
+when we turn one of these over, through the three-dimensional space
+that surrounds it, we find that the curvature lies in the wrong way
+to make superposition possible. If we postulate that superposition be
+possible under such treatment, we throw out the sphere and spherical
+geometry; if we postulate that superposition be only by sliding the
+surface upon itself we admit that geometry--as Saccheri failed to
+see, as Lobatchewsky realized, and as Riemann showed at great length
+in rehabilitating the "obtuse-angled hypothesis." Lobatchewsky's
+acute-angled geometry is realized on a surface of the proper sort,
+which admits of unrestricted superposition; but it is not the sort
+of a surface that I care to discuss in an article of this scope.
+
+Euclidean geometry is the natural and easy one, I suppose, because it
+makes it easy to stop with three dimensions. If we take a secondary
+element, a geodesic, which is "curved" in the Euclidean sense, we
+get a tertiary element, a surface, which is likewise curved. Then
+unless we are to make an altogether abrupt and unreasonable break,
+we shall find that just as the curved geodesic generated a curved
+surface, the curved surface must give rise to a "curved space"; and
+just as the curved geodesic needed a second dimension to curve into,
+and the curved surface a third, so the curved three-space requires
+a fourth. Once started on this sort of thing, there doesn't really
+seem to be any end.
+
+
+
+
+EUCLIDEAN OR NON-EUCLIDEAN
+
+Nevertheless, we must face the possibility that the space we live
+in, or any other manifold of any sort whatever with which we deal on
+geometric principles, may turn out to be non-Euclidean. How shall we
+finally determine this? By measures--the Euclidean measures the angles
+of an actual triangle and finds the sum to be exactly 180 degrees;
+or he draws parallel lines of indefinite extent and finds them to
+be everywhere equally distant; and from these data he concludes that
+our space is really Euclidean. But he is not necessarily right.
+
+We ask him to level off a plot of ground by means of a plumb
+line. Since the line always points to the earth's center, the "level"
+plot is actually a very small piece of a spherical surface. Any test
+conducted on this plot will exhibit the numerical characteristics of
+the Euclidean geometry; yet we know the geometry of this surface is
+Riemannian. The angle-sum is really greater than 180 degrees; lines
+that are everywhere equidistant are not both geodesics.
+
+The trouble, of course, is that on this plot we deal with
+so minute a fraction of the whole sphere that we cannot make
+measurements sufficiently refined to detect the departure from
+Euclidean standards. So it is altogether sensible for us to ask:
+"Is the universe of space about us really Euclidean in whatever of
+realized geometry it presents to us? Or is it really non-Euclidean,
+but so vast in size that we have never yet been able to extend our
+measures to a sufficiently large portion of it to make the divergence
+from the Euclidean standard discernible to us?"
+
+This discussion is necessarily fragmentary, leaving out much that
+the writer would prefer to include. But it is hoped that it will
+nevertheless make it clear that when the contestants in the Einstein
+competition speak of a non-Euclidean universe as apparently having
+been revealed by Einstein, they mean simply that to Einstein has
+occurred a happy expedient for testing Euclideanism on a smaller
+scale than has heretofore been supposed possible. He has devised a
+new and ingenious sort of measure which, if his results be valid,
+enables us to operate in a smaller region while yet anticipating that
+any non-Euclidean characteristics of the manifold with which we deal
+will rise above the threshold of measurement. This does not mean that
+Euclidean lines and planes, as we picture them in our mind, are no
+longer non-Euclidean, but merely that these concepts do not quite so
+closely correspond with the external reality as we had supposed.
+
+As to the precise character of the non-Euclideanism which is revealed,
+we may leave this to later chapters and to the competing essayists. We
+need only point out here that it will not necessarily be restricted
+to the matter of parallelism. The parallel postulate is of extreme
+interest to us for two reasons; first because historically it was the
+means by which the possibilities and the importance of non-Euclidean
+geometry were forced upon our attention; and second because it happens
+to be the immediate ground of distinction between Euclidean geometry
+and two of the most interesting alternatives. But Euclidean geometry
+is characterized, not by a single postulate, but by a considerable
+number of postulates. We may attempt to omit any one of these so that
+its ground is not specifically covered at all, or to replace any one
+of them by a direct alternative. We might conceivably do away with the
+superposition postulate entirely, and demand that figures be proved
+equivalent, if at all, by some more drastic test. We might do away
+with the postulate, first properly formulated by Hilbert, on which our
+ideas of the property represented in the word "between" depend. We
+might do away with any single one of the Euclidean postulates, or
+with any combination of two or more of them. In some cases this would
+lead to a lack of categoricity and we should get no geometry at all;
+in most cases, provided we brought a proper degree of astuteness to
+the formulation of alternatives for the rejected postulates, we should
+get a perfectly good system of non-Euclidean geometry: one realized,
+if at all, by other elements than the Euclidean point, line and plane,
+and one whose elements behave toward one another differently from
+the Euclidean point, line and plane.
+
+Merely to add definiteness to this chapter, I annex here the
+statement that in the geometry which Einstein builds up as more
+nearly representing the true external world than does Euclid's, we
+shall dispense with Euclid's (implicit) assumption, underlying his
+(explicitly stated) superposition postulate, to the effect that the
+act of moving things about does not affect their lengths. We shall
+at the same time dispense with his parallel postulate. And we shall
+add a fourth dimension to his three--not, of course, anything in the
+nature of a fourth Euclidean straight line perpendicular, in Euclidean
+space, to three lines that are already perpendicular to each other,
+but something quite distinct from this, whose nature we shall see
+more exactly in the next chapter. If the present chapter has made it
+clear that it is proper for us to do this, and has prevented anyone
+from supposing that the results of doing it must be visualized in a
+Euclidean space of three dimensions or of any number of dimensions,
+it will have served its purpose.
+
+
+
+
+
+
+
+
+

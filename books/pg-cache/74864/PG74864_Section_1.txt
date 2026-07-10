@@ -1,0 +1,2698 @@
+<b>Transcriber’s notes</b>:
+
+The text of this book has been preserved as closely as practicable
+to its original form. However, the author used some unusual symbols,
+and I have taken the liberty of using Unicode characters with similar
+appearance (ꖌ ᔕ) as substitutes, disregarding their official meaning
+and aware that they might not display on all devices. An archaic symbol
+used by the author to indicate the mathematical ‘factorial’ function
+has been replaced by the modern equivalent, viz. ! Unusual placements
+of various sub- and superscripted symbols remain as in the original text.
+
+In this plain-text version, italic text is denoted by *asterisks*;
+superscripted and subscripted characters are enclosed within {curly}
+brackets preceded by a caret (^) or underline (_) respectively.
+
+Inconsistencies of punctuation have been corrected silently, but
+inconsistent spellings such as *Roemer, Römer, Rœmer* have not been
+altered. A list of corrected spellings is appended at the end of the
+book.
+
+Footnotes have been renumbered consecutively and positioned below the
+relevant paragraphs. A missing footnote marker has been inserted on
+p.751 after tracking down the original document. A missing negative
+symbol has been added to an exponent in a formula on p.327.
+
+There is a misleading calculation on p.194 and the table that follows,
+regarding progressive powers of two: ((2^{2})^{2})^{2} is equivalent to
+(16)^{2} which equals 256 not 65,356 as stated, but 2^{16} does equal
+65,356.
+
+[sic] has been inserted on p.179 alongside a statement that the
+alphabet contains 24 letters; however, the statement may well be
+correct given that it was written in 1704 by a Flemish author and the
+language is not specified.
+
+A large arithmetic triangle on p.184 cannot be displayed optimally in
+this plain-text version for lack of space
+
+
+
+
+THE PRINCIPLES OF SCIENCE.
+
+[Illustration]
+
+[Illustration: THE LOGICAL MACHINE.]
+
+
+
+                      THE PRINCIPLES OF SCIENCE:
+
+                         *A TREATISE ON LOGIC*
+
+                                 *AND*
+
+                         *SCIENTIFIC METHOD.*
+
+
+                                  BY
+
+                          W. STANLEY JEVONS,
+
+                 LL.D. (EDINB.), M.A. (LOND.), F.R.S.
+
+
+                                London:
+
+                           MACMILLAN AND CO.
+                                 1883.
+
+
+       *The Right of Translation and Reproduction is Reserved.*
+
+
+
+  LONDON:
+  R. Clay, Sons, & Taylor, Printers,
+  BREAD STREET HILL.
+
+
+  Stereotyped Edition.
+
+
+
+
+PREFACE
+
+*TO THE FIRST EDITION*.
+
+
+It may be truly asserted that the rapid progress of the physical
+sciences during the last three centuries has not been accompanied by
+a corresponding advance in the theory of reasoning. Physicists speak
+familiarly of Scientific Method, but they could not readily describe
+what they mean by that expression. Profoundly engaged in the study
+of particular classes of natural phenomena, they are usually too
+much engrossed in the immense and ever-accumulating details of their
+special sciences to generalise upon the methods of reasoning which they
+unconsciously employ. Yet few will deny that these methods of reasoning
+ought to be studied, especially by those who endeavour to introduce
+scientific order into less successful and methodical branches of
+knowledge.
+
+The application of Scientific Method cannot be restricted to the sphere
+of lifeless objects. We must sooner or later have strict sciences of
+those mental and social phenomena, which, if comparison be possible,
+are of more interest to us than purely material phenomena. But it
+is the proper course of reasoning to proceed from the known to the
+unknown--from the evident to the obscure--from the material and
+palpable to the subtle and refined. The physical sciences may therefore
+be properly made the practice-ground of the reasoning powers,
+because they furnish us with a great body-of precise and successful
+investigations. In these sciences we meet with happy instances of
+unquestionable deductive reasoning, of extensive generalisation, of
+happy prediction, of satisfactory verification, of nice calculation of
+probabilities. We can note how the slightest analogical clue has been
+followed up to a glorious discovery, how a rash generalisation has at
+length been exposed, or a conclusive *experimentum crucis* has decided
+the long-continued strife between two rival theories.
+
+In following out my design of detecting the general methods of
+inductive investigation, I have found that the more elaborate and
+interesting processes of quantitative induction have their necessary
+foundation in the simpler science of Formal Logic. The earlier, and
+probably by far the least attractive part of this work, consists,
+therefore, in a statement of the so-called Fundamental Laws of
+Thought, and of the all-important Principle of Substitution, of which,
+as I think, all reasoning is a development. The whole procedure of
+inductive inquiry, in its most complex cases, is foreshadowed in
+the combinational view of Logic, which arises directly from these
+fundamental principles. Incidentally I have described the mechanical
+arrangements by which the use of the important form called the Logical
+Alphabet, and the whole working of the combinational system of Formal
+Logic, may be rendered evident to the eye, and easy to the mind and
+hand.
+
+The study both of Formal Logic and of the Theory of Probabilities has
+led me to adopt the opinion that there is no such thing as a distinct
+method of induction as contrasted with deduction, but that induction
+is simply an inverse employment of deduction. Within the last century
+a reaction has been setting in against the purely empirical procedure
+of Francis Bacon, and physicists have learnt to advocate the use of
+hypotheses. I take the extreme view of holding that Francis Bacon,
+although he correctly insisted upon constant reference to experience,
+had no correct notions as to the logical method by which from
+particular facts we educe laws of nature. I endeavour to show that
+hypothetical anticipation of nature is an essential part of inductive
+inquiry, and that it is the Newtonian method of deductive reasoning
+combined with elaborate experimental verification, which has led to all
+the great triumphs of scientific research.
+
+In attempting to give an explanation of this view of Scientific Method,
+I have first to show that the sciences of number and quantity repose
+upon and spring from the simpler and more general science of Logic.
+The Theory of Probability, which enables us to estimate and calculate
+quantities of knowledge, is then described, and especial attention
+is drawn to the Inverse Method of Probabilities, which involves, as
+I conceive, the true principle of inductive procedure. No inductive
+conclusions are more than probable, and I adopt the opinion that the
+theory of probability is an essential part of logical method, so
+that the logical value of every inductive result must be determined
+consciously or unconsciously, according to the principles of the
+inverse method of probability.
+
+The phenomena of nature are commonly manifested in quantities of
+time, space, force, energy, &c., and the observation, measurement,
+and analysis of the various quantitative conditions or results
+involved, even in a simple experiment, demand much employment of
+systematic procedure. I devote a book, therefore, to a simple and
+general description of the devices by which exact measurement is
+effected, errors eliminated, a probable mean result attained, and
+the probable error of that mean ascertained. I then proceed to the
+principal, and probably the most interesting, subject of the book,
+illustrating successively the conditions and precautions requisite
+for accurate observation, for successful experiment, and for the sure
+detection of the quantitative laws of nature. As it is impossible to
+comprehend aright the value of quantitative laws without constantly
+bearing in mind the degree of quantitative approximation to the truth
+probably attained, I have devoted a special chapter to the Theory of
+Approximation, and however imperfectly I may have treated this subject,
+I must look upon it as a very essential part of a work on Scientific
+Method.
+
+It then remains to illustrate the sound use of hypothesis, to
+distinguish between the portions of knowledge which we owe to empirical
+observation, to accidental discovery, or to scientific prediction.
+Interesting questions arise concerning the accordance of quantitative
+theories and experiments, and I point out how the successive
+verification of an hypothesis by distinct methods of experiment yields
+conclusions approximating to but never attaining certainty. Additional
+illustrations of the general procedure of inductive investigations are
+given in a chapter on the Character of the Experimentalist, in which
+I endeavour to show, moreover, that the inverse use of deduction was
+really the logical method of such great masters of experimental inquiry
+as Newton, Huyghens, and Faraday.
+
+In treating Generalisation and Analogy, I consider the precautions
+requisite in inferring from one case to another, or from one part of
+the universe to another part; the validity of all such inferences
+resting ultimately upon the inverse method of probabilities. The
+treatment of Exceptional Phenomena appeared to afford an interesting
+subject for a further chapter illustrating the various modes in which
+an outstanding fact may eventually be explained. The formal part of
+the book closes with the subject of Classification, which is, however,
+very inadequately treated. I have, in fact, almost restricted myself to
+showing that all classification is fundamentally carried out upon the
+principles of Formal Logic and the Logical Alphabet described at the
+outset.
+
+In certain concluding remarks I have expressed the conviction which
+the study of Logic has by degrees forced upon my mind, that serious
+misconceptions are entertained by some scientific men as to the
+logical value of our knowledge of nature. We have heard much of
+what has been aptly called the Reign of Law, and the necessity and
+uniformity of natural forces has been not uncommonly interpreted as
+involving the non-existence of an intelligent and benevolent Power,
+capable of interfering with the course of natural events. Fears have
+been expressed that the progress of Scientific Method must therefore
+result in dissipating the fondest beliefs of the human heart. Even
+the ‘Utility of Religion’ is seriously proposed as a subject of
+discussion. It seemed to be not out of place in a work on Scientific
+Method to allude to the ultimate results and limits of that method. I
+fear that I have very imperfectly succeeded in expressing my strong
+conviction that before a rigorous logical scrutiny the Reign of Law
+will prove to be an unverified hypothesis, the Uniformity of Nature an
+ambiguous expression, the certainty of our scientific inferences to a
+great extent a delusion. The value of science is of course very high,
+while the conclusions are kept well within the limits of the data on
+which they are founded, but it is pointed out that our experience is
+of the most limited character compared with what there is to learn,
+while our mental powers seem to fall infinitely short of the task of
+comprehending and explaining fully the nature of any one object. I
+draw the conclusion that we must interpret the results of Scientific
+Method in an affirmative sense only. Ours must be a truly positive
+philosophy, not that false negative philosophy which, building on a few
+material facts, presumes to assert that it has compassed the bounds
+of existence, while it nevertheless ignores the most unquestionable
+phenomena of the human mind and feelings.
+
+It is approximately certain that in freely employing illustrations
+drawn from many different sciences, I have frequently fallen into
+errors of detail. In this respect I must throw myself upon the
+indulgence of the reader, who will bear in mind, as I hope, that the
+scientific facts are generally mentioned purely for the purpose of
+illustration, so that inaccuracies of detail will not in the majority
+of cases affect the truth of the general principles illustrated.
+
+  *December 15, 1873.*
+
+
+
+
+PREFACE
+
+*TO THE SECOND EDITION*.
+
+
+Few alterations of importance have been made in preparing this second
+edition. Nevertheless, advantage has been taken of the opportunity to
+revise very carefully both the language and the matter of the book.
+Correspondents and critics having pointed out inaccuracies of more
+or less importance in the first edition, suitable corrections and
+emendations have been made. I am under obligations to Mr. C. J. Monro,
+M.A., of Barnet, and to Mr. W. H. Brewer, M.A., one of Her Majesty’s
+Inspectors of Schools, for numerous corrections.
+
+Among several additions which have been made to the text, I may mention
+the abstract (p. 143) of Professor Clifford’s remarkable investigation
+into the number of types of compound statement involving four classes
+of objects. This inquiry carries forward the inverse logical problem
+described in the preceding sections. Again, the need of some better
+logical method than the old Barbara Celarent, &c., is strikingly shown
+by Mr. Venn’s logical problem, described at p. 90. A great number
+of candidates in logic and philosophy were tested by Mr. Venn with
+this problem, which, though simple in reality, was solved by very few
+of those who were ignorant of Boole’s Logic. Other evidence could
+be adduced by Mr. Venn of the need for some better means of logical
+training. To enable the logical student to test his skill in the
+solution of inductive logical problems, I have given (p. 127) a series
+of ten problems graduated in difficulty.
+
+To prevent misapprehension, it should be mentioned that, throughout
+this edition, I have substituted the name *Logical Alphabet* for
+*Logical Abecedarium*, the name applied in the first edition to the
+exhaustive series of logical combinations represented in terms of
+*A*, *B*, *C*, *D* (p. 94). It was objected by some readers that
+*Abecedarium* is a long and unfamiliar name.
+
+To the chapter on Units and Standards of Measurement, I have added two
+sections, one (p. 325) containing a brief statement of the Theory of
+Dimensions, and the other (p. 319) discussing Professor Clerk Maxwell’s
+very original suggestion of a Natural System of Standards for the
+measurement of space and time, depending upon the length and rapidity
+of waves of light.
+
+In my description of the Logical Machine in the *Philosophical
+Transactions* (vol. 160, p. 498), I said--“It is rarely indeed that
+any invention is made without some anticipation being sooner or later
+discovered; but up to the present time I am totally unaware of even
+a single previous attempt to devise or construct a machine which
+should perform the operations of logical inference; and it is only,
+I believe, in the satirical writings of Swift that an allusion to an
+actual reasoning machine is to be found.” Before the paper was printed,
+however, I was able to refer (p. 518) to the ingenious designs of the
+late Mr. Alfred Smee as attempts to represent thought mechanically. Mr.
+Smee’s machines indeed were never constructed, and, if constructed,
+would not have performed actual logical inference. It has now just
+come to light, however, that the celebrated Lord Stanhope actually did
+construct a mechanical device, capable of representing syllogistic
+inferences in a concrete form. It appears that logic was one of the
+favourite studies of this truly original and ingenious nobleman. There
+remain fragments of a logical work, printed by the Earl at his own
+press, which show that he had arrived, before the year 1800, at the
+principle of the quantified predicate. He puts forward this principle
+in the most explicit manner, and proposes to employ it throughout his
+syllogistic system. Moreover, he converts negative propositions into
+affirmative ones, and represents these by means of the copula “is
+identic with.” Thus he anticipated, probably by the force of his own
+unaided insight, the main points of the logical method originated in
+the works of George Bentham and George Boole, and developed in this
+work. Stanhope, indeed, has no claim to priority of discovery, because
+he seems never to have published his logical writings, although they
+were put into print. There is no trace of them in the British Museum
+Library, nor in any other library or logical work, so far as I am
+aware. Both the papers and the logical contrivance have been placed
+by the present Earl Stanhope in the hands of the Rev. Robert Harley,
+F.R.S., who will, I hope, soon publish a description of them.[1]
+
+  [1] Since the above was written Mr. Harley has read an account of
+  Stanhope’s logical remains at the Dublin Meeting (1878) of the
+  British Association. The paper will be printed in *Mind*. (Note added
+  November, 1878.)
+
+By the kindness of Mr. Harley, I have been able to examine Stanhope’s
+logical contrivance, called by him the Demonstrator. It consists of a
+square piece of bay-wood with a square depression in the centre, across
+which two slides can be pushed, one being a piece of red glass, and
+the other consisting of wood coloured gray. The extent to which each
+of these slides is pushed in is indicated by scales and figures along
+the edges of the aperture, and the simple rule of inference adopted
+by Stanhope is: “To the gray add the red and subtract the *holon*,”
+meaning by holon (ὅλον) the whole width of the aperture. This rule
+of inference is a curious anticipation of De Morgan’s numerically
+definite syllogism (see below, p. 168), and of inferences founded on
+what Hamilton called “Ultra-total distribution.” Another curious point
+about Stanhope’s device is, that one slide can be drawn out and pushed
+in again at right angles to the other, and the overlapping part of the
+slides then represents the probability of a conclusion, derived from
+two premises of which the probabilities are respectively represented
+by the projecting parts of the slides. Thus it appears that Stanhope
+had studied the logic of probability as well as that of certainty, here
+again anticipating, however obscurely, the recent progress of logical
+science. It will be seen, however, that between Stanhope’s Demonstrator
+and my Logical Machine there is no resemblance beyond the fact that
+they both perform logical inference.
+
+In the first edition I inserted a section (vol. i. p. 25), on
+“Anticipations of the Principle of Substitution,” and I have reprinted
+that section unchanged in this edition (p. 21). I remark therein that,
+“In such a subject as logic it is hardly possible to put forth any
+opinions which have not been in some degree previously entertained. The
+germ at least of every doctrine will be found in earlier writings, and
+novelty must arise chiefly in the mode of harmonising and developing
+ideas.” I point out, as Professor T. M. Lindsay had previously done,
+that Beneke had employed the name and principle of substitution, and
+that doctrines closely approximating to substitution were stated by the
+Port Royal Logicians more than 200 years ago.
+
+I have not been at all surprised to learn, however, that other
+logicians have more or less distinctly stated this principle of
+substitution during the last two centuries. As my friend and successor
+at Owens College, Professor Adamson, has discovered, this principle can
+be traced back to no less a philosopher than Leibnitz.
+
+The remarkable tract of Leibnitz,[2] entitled “Non inelegans Specimen
+Demonstrandi in Abstractis,” commences at once with a definition
+corresponding to the principle:--
+
+“Eadem sunt quorum unum potest substitui alteri salva veritate. Si sint
+*A* et *B*, et *A* ingrediatur aliquam propositionem veram, et ibi in
+aliquo loco ipsius *A* pro ipso substituendo *B* fiat nova propositio
+æque itidem vera, idque semper succedat in quacunque tali propositione,
+*A* et *B* dicuntur esse eadem; et contra, si eadem sint *A* et *B*,
+procedet substitutio quam dixi.”
+
+  [2] Leibnitii *Opera Philosophica quæ extant*. Erdmann, Pars I.
+  Berolini, 1840, p. 94.
+
+Leibnitz, then, explicitly adopts the principle of substitution, but
+he puts it in the form of a definition, saying that those things are
+the same which can be substituted one for the other, without affecting
+the truth of the proposition. It is only after having thus tested
+the sameness of things that we can turn round and say that *A* and
+*B*, being the same, may be substituted one for the other. It would
+seem as if we were here in a vicious circle; for we are not allowed
+to substitute *A* for *B*, unless we have ascertained by trial that
+the result is a true proposition. The difficulty does not seem to be
+removed by Leibnitz’ proviso, “idque semper succedat in quacunque
+tali propositione.” How can we learn that because *A* and *B* may
+be mutually substituted in some propositions, they may therefore
+be substituted in others; and what is the criterion of likeness of
+propositions expressed in the word “tali”? Whether the principle
+of substitution is to be regarded as a postulate, an axiom, or a
+definition, is just one of those fundamental questions which it seems
+impossible to settle in the present position of philosophy, but this
+uncertainty will not prevent our making a considerable step in logical
+science.
+
+Leibnitz proceeds to establish in the form of a theorem what is
+usually taken as an axiom, thus (*Opera*, p. 95): “Theorema I. Quæ
+sunt eadem uni tertio, eadem sunt inter se. Si *A* ∝ *B* et *B* ∝ *C*,
+erit *A* ∝ *C*. Nam si in propositione *A* ∝ *B* (vera ea hypothesi)
+substituitur *C* in locum *B* (quod facere licet per Def. I. quia *B* ∝
+*C* ex hypothesi) fiet *A* ∝ *C*. Q. E. Dem.” Thus Leibnitz precisely
+anticipates the mode of treating inference with two simple identities
+described at p. 51 of this work.
+
+Even the mathematical axiom that ‘equals added to equals make equals,’
+is deduced from the principle of substitution. At p. 95 of Erdmann’s
+edition, we find: “Si eidem addantur coincidentia fiunt coincidentia.
+Si *A* ∝ *B*, erit *A* + *C* ∝ *B* + *C*. Nam si in propositione *A*
++ *C* ∝ *A* + *C* (quæ est vera per se) pro *A* semel substituas *B*
+(quod facere licet per Def. I. quia *A* ∝ *B*) fiet *A* + *C* ∝ *B* +
+*C* Q. E. Dem.” This is unquestionably the mode of deducing the several
+axioms of mathematical reasoning from the higher axiom of substitution,
+which is explained in the section on mathematical inference (p. 162) in
+this work, and which had been previously stated in my *Substitution of
+Similars*, p. 16.
+
+There are one or two other brief tracts in which Leibnitz anticipates
+the modern views of logic. Thus in the eighteenth tract in Erdmann’s
+edition (p. 92), called “Fundamenta Calculi Ratiocinatoris”, he says:
+“Inter ea quorum unum alteri substitui potest, salvis calculi legibus,
+dicetur esse æquipollentiam.” There is evidence, also, that he had
+arrived at the quantification of the predicate, and that he fully
+understood the reduction of the universal affirmative proposition to
+the form of an equation, which is the key to an improved view of logic.
+Thus, in the tract entitled “Difficultates Quædam Logicæ,”[3] he says:
+“Omne *A* est *B*; id est æquivalent *AB* et *A*, seu *A* non *B* est
+non-ens.”
+
+  [3] Erdmann, p. 102.
+
+It is curious to find, too, that Leibnitz was fully acquainted with the
+Laws of Commutativeness and “Simplicity” (as I have called the second
+law) attaching to logical symbols. In the “Addenda ad Specimen Calculi
+Universalis” we read as follows.[4] “Transpositio literarum in eodem
+termino nihil mutat, ut *ab* coincidet cum *ba*, seu animal rationale
+et rationale animal.”
+
+“Repetitio ejusdem literæ in eodem termino est inutilis, ut *b* est
+*aa*; vel *bb* est *a*; homo est animal animal, vel homo homo est
+animal. Sufficit enim dici *a* est *b*, seu homo est animal.”
+
+  [4] Ibid. p. 98.
+
+Comparing this with what is stated in Boole’s *Mathematical Analysis of
+Logic*, pp. 17–18, in his *Laws of Thought*, p. 29, or in this work,
+pp. 32–35, we find that Leibnitz had arrived two centuries ago at a
+clear perception of the bases of logical notation. When Boole pointed
+out that, in logic, *xx* = *x*, this seemed to mathematicians to be a
+paradox, or in any case a wholly new discovery; but here we have it
+plainly stated by Leibnitz.
+
+The reader must not assume, however, that because Leibnitz correctly
+apprehended the fundamental principles of logic, he left nothing for
+modern logicians to do. On the contrary, Leibnitz obtained no useful
+results from his definition of substitution. When he proceeds to
+explain the syllogism, as in the paper on “Definitiones Logicæ,”[5]
+he gives up substitution altogether, and falls back upon the notion
+of inclusion of class in class, saying, “Includens includentis est
+includens inclusi, seu si *A* includit *B* et *B* includit *C*, etiam
+*A* includet *C*.” He proceeds to make out certain rules of the
+syllogism involving the distinction of subject and predicate, and
+in no important respect better than the old rules of the syllogism.
+Leibnitz’ logical tracts are, in fact, little more than brief memoranda
+of investigations which seem never to have been followed out. They
+remain as evidence of his wonderful sagacity, but it would be difficult
+to show that they have had any influence on the progress of logical
+science in recent times.
+
+  [5] Erdmann, p. 100.
+
+I should like to explain how it happened that these logical writings
+of Leibnitz were unknown to me, until within the last twelve months. I
+am so slow a reader of Latin books, indeed, that my overlooking a few
+pages of Leibnitz’ works would not have been in any case surprising.
+But the fact is that the copy of Leibnitz’ works of which I made
+occasional use, was one of the edition of Dutens, contained in Owens
+College Library. The logical tracts in question were not printed in
+that edition, and with one exception, they remained in manuscript in
+the Royal Library at Hanover, until edited by Erdmann, in 1839–40.
+The tract “Difficultates Quædam Logicæ,” though not known to Dutens,
+was published by Raspe in 1765, in his collection called *Œuvres
+Philosophiques de feu M^{r.} Leibnitz*; but this work had not come to
+my notice, nor does the tract in question seem to contain any explicit
+statement of the principle of substitution.
+
+It is, I presume, the comparatively recent publication of Leibnitz’
+most remarkable logical tracts which explains the apparent ignorance of
+logicians as regards their contents and importance. The most learned
+logicians, such as Hamilton and Ueberweg, ignore Leibnitz’ principle
+of substitution. In the Appendix to the fourth volume of Hamilton’s
+*Lectures on Metaphysics and Logic*, is given an elaborate compendium
+of the views of logical writers concerning the ultimate basis of
+deductive reasoning. Leibnitz is briefly noticed on p. 319, but without
+any hint of substitution. He is here quoted as saying, “What are the
+same with the same third, are the same with each other; that is, if *A*
+be the same with *B*, and *C* be the same with *B*, it is necessary
+that *A* and *C* should also be the same with one another. For this
+principle flows immediately from the principle of contradiction, and is
+the ground and basis of all logic; if that fail, there is no longer any
+way of reasoning with certainty.” This view of the matter seems to be
+inconsistent with that which he adopted in his posthumous tract.
+
+Dr. Thomson, indeed, was acquainted with Leibnitz’ tracts, and refers
+to them in his *Outline of the Necessary Laws of Thought*. He calls
+them valuable; nevertheless, he seems to have missed the really
+valuable point; for in making two brief quotations,[6] he omits all
+mention of the principle of substitution.
+
+  [6] Fifth Edition, 1860, p. 158.
+
+Ueberweg is probably considered the best authority concerning the
+history of logic, and in his well-known *System of Logic and History
+of Logical Doctrines*,[7] he gives some account of the principle of
+substitution, especially as it is implicitly stated in the *Port Royal
+Logic*. But he omits all reference to Leibnitz in this connection,
+nor does he elsewhere, so far as I can find, supply the omission.
+His English editor, Professor T. M. Lindsay, in referring to my
+*Substitution of Similars*, points out how I was anticipated by Beneke;
+but he also ignores Leibnitz. It is thus apparent that the most learned
+logicians, even when writing especially on the history of logic,
+displayed ignorance of Leibnitz’ most valuable logical writings.
+
+  [7] Section 120.
+
+It has been recently pointed out to me, however, that the Rev. Robert
+Harley did draw attention, at the Nottingham Meeting of the British
+Association, in 1866, to Leibnitz’ anticipations of Boole’s laws of
+logical notation,[8] and I am informed that Boole, about a year after
+the publication of his *Laws of Thought*, was made acquainted with
+these anticipations by R. Leslie Ellis.
+
+  [8] See his “Remarks on Boole’s Mathematical Analysis of Logic.”
+  *Report of the 36th Meeting of the British Association, Transactions
+  of the Sections*, pp. 3–6.
+
+There seems to have been at least one other German logician who
+discovered, or adopted, the principle of substitution. Reusch, in his
+*Systema Logicum*, published in 1734, laboured to give a broader basis
+to the *Dictum de Omni et Nullo*. He argues, that “the whole business
+of ordinary reasoning is accomplished by the substitution of ideas in
+place of the subject or predicate of the fundamental proposition. This
+some call the *equation of thoughts*.” But, in the hands of Reusch,
+substitution does not seem to lead to simplicity, since it has to be
+carried on according to the rules of Equipollence, Reciprocation,
+Subordination, and Co-ordination.[9] Reusch is elsewhere spoken of[10]
+as the “celebrated Reusch”; nevertheless, I have not been able to find
+a copy of his book in London, even in the British Museum Library; it is
+not mentioned in the printed catalogue of the Bodleian Library; Messrs.
+Asher have failed to obtain it for me by advertisement in Germany; and
+Professor Adamson has been equally unsuccessful. From the way in which
+the principle of substitution is mentioned by Reusch, it would seem
+likely that other logicians of the early part of the eighteenth century
+were acquainted with it; but, if so, it is still more curious that
+recent historians of logical science have overlooked the doctrine.
+
+  [9] Hamilton’s Lectures, vol. iv. p. 319.
+
+  [10] Ibid. p. 326.
+
+It is a strange and discouraging fact, that true views of logic should
+have been discovered and discussed from one to two centuries ago, and
+yet should have remained, like George Bentham’s work in this century,
+without influence on the subsequent progress of the science. It may be
+regarded as certain that none of the discoverers of the quantification
+of the predicate, Bentham, Hamilton, Thomson, De Morgan, and Boole,
+were in any way assisted by the hints of the principle contained in
+previous writers. As to my own views of logic, they were originally
+moulded by a careful study of Boole’s works, as fully stated in my
+first logical essay.[11] As to the process of substitution, it was
+not learnt from any work on logic, but is simply the process of
+substitution perfectly familiar to mathematicians, and with which I
+necessarily became familiar in the course of my long-continued study of
+mathematics under the late Professor De Morgan.
+
+  [11] *Pure Logic, or the Logic of Quality apart from Quantity;
+  with Remarks on Boole’s System, and on the Relation of Logic and
+  Mathematics.* London, 1864, p. 3.
+
+I find that the Theory of Number, which I explained in the eighth
+chapter of this work, is also partially anticipated in a single
+scholium of Leibnitz. He first gives as an axiom the now well-known law
+of Boole, as follows:--
+
+“Axioma I. Si idem secum ipso sumatur, nihil constituitur novum, seu
+*A* + *A* ∝ *A*.” Then follows this remarkable scholium: “Equidem in
+numeris 4 + 4 facit 8, seu bini nummi binis additi faciunt quatuor
+nummos, sed tunc bini additi sunt alii a prioribus; si iidem essent
+nihil novi prodiret et perinde esset ac si joco ex tribus ovis facere
+vellemus sex numerando, primum 3 ova, deinde uno sublato residua 2, ac
+denique uno rursus sublato residuum.”
+
+Translated this would read as follows:--
+
+“Axiom I. If the same thing is taken together with itself, nothing new
+arises, or *A* + *A* = *A*.
+
+“Scholium. In numbers, indeed, 4 + 4 makes 8, or two coins added to two
+coins make four coins, but then the two added are different from the
+former ones; if they were the same nothing new would be produced, and
+it would be just as if we tried in joke to make six eggs out of three,
+by counting firstly the three eggs, then, one being removed, counting
+the remaining two, and lastly, one being again removed, counting the
+remaining egg.”
+
+Compare the above with pp. 156 to 162 of the present work.
+
+M. Littré has quite recently pointed out[12] what he thinks is an
+analogy between the system of formal logic, stated in the following
+pages, and the logical devices of the celebrated Raymond Lully. Lully’s
+method of invention was described in a great number of mediæval books,
+but is best stated in his *Ars Compendiosa Inveniendi Veritatem, seu
+Ars Magna et Major*. This method consisted in placing various names
+of things in the sectors of concentric circles, so that when the
+circles were turned, every possible combination of the things was
+easily produced by mechanical means. It might, perhaps, be possible to
+discover in this method a vague and rude anticipation of combinational
+logic; but it is well known that the results of Lully’s method were
+usually of a fanciful, if not absurd character.
+
+  [12] *La Philosophie Positive*, Mai-Juin, 1877, tom. xviii. p. 456.
+
+A much closer analogue of the Logical Alphabet is probably to be found
+in the Logical Square, invented by John Christian Lange, and described
+in a rare and unnoticed work by him which I have recently found in the
+British Museum.[13] This square involved the principle of bifurcate
+classification, and was an improved form of the Ramean and Porphyrian
+tree (see below, p. 702). Lange seems, indeed, to have worked out his
+Logical Square into a mechanical form, and he suggests that it might
+be employed somewhat in the manner of Napier’s Bones (p. 65). There
+is much analogy between his Square and my Abacus, but Lange had not
+arrived at a logical system enabling him to use his invention for
+logical inference in the manner of the Logical Abacus. Another work
+of Lange is said to contain the first publication of the well known
+Eulerian diagrams of proposition and syllogism.[14]
+
+  [13] *Inventum Novum Quadrati Logici*, &c., Gissæ Hassorum, 1714, 8vo.
+
+  [14] See *Ueberweg’s System of Logic*, &c., translated by Lindsay,
+  p. 302.
+
+Since the first edition was published, an important work by Mr. George
+Lewes has appeared, namely, his *Problems of Life and Mind*, which
+to a great extent treats of scientific method, and formulates the
+rules of philosophising. I should have liked to discuss the bearing
+of Mr. Lewes’s views upon those here propounded, but I have felt it
+to be impossible in a book already filling nearly 800 pages, to enter
+upon the discussion of a yet more extensive book. For the same reason
+I have not been able to compare my own treatment of the subject of
+probability with the views expressed by Mr. Venn in his *Logic of
+Chance*. With Mr. J. J. Murphy’s profound and remarkable works on
+*Habit and Intelligence*, and on *The Scientific Basis of Faith*, I
+was unfortunately unacquainted when I wrote the following pages. They
+cannot safely be overlooked by any one who wishes to comprehend the
+tendency of philosophy and scientific method in the present day.
+
+It seems desirable that I should endeavour to answer some of the
+critics who have pointed out what they consider defects in the
+doctrines of this book, especially in the first part, which treats
+of deduction. Some of the notices of the work were indeed rather
+statements of its contents than critiques. Thus, I am much indebted
+to M. Louis Liard, Professor of Philosophy at Bordeaux, for the very
+careful exposition[15] of the substitutional view of logic which he
+gave in the excellent *Revue Philosophique*, edited by M. Ribot.
+(Mars, 1877, tom. iii. p. 277.) An equally careful account of the
+system was given by M. Riehl, Professor of Philosophy at Graz, in
+his article on “Die Englische Logik der Gegenwart,” published in the
+*Vierteljahrsschrift für wissenschaftliche Philosophie*. (1 Heft,
+Leipzig, 1876.) I should like to acknowledge also the careful and able
+manner in which my book was reviewed by the *New York Daily Tribune*
+and the *New York Times*.
+
+  [15] Since the above was written M. Liard has republished this
+  exposition as one chapter of an interesting and admirably lucid
+  account of the progress of logical science in England. After a brief
+  but clear introduction, treating of the views of Herschel, Mill, and
+  others concerning Inductive Logic, M. Liard describes in succession
+  the logical systems of George Bentham, Hamilton, De Morgan, Boole,
+  and that contained in the present work. The title of the book is as
+  follows:--*Les Logiciens Anglais Contemporains*. Par Louis Liard,
+  Professeur de Philosophie à la Faculté des Lettres de Bordeaux.
+  Paris: Librairie Germer Baillière. 1878. (Note added November, 1878.)
+
+The most serious objections which have been brought against my
+treatment of logic have regard to my failure to enter into an analysis
+of the ultimate nature and origin of the Laws of Thought. The
+*Spectator*,[16] for instance, in the course of a careful review, says
+of the principle of substitution, “Surely it is a great omission not
+to discuss whence we get this great principle itself; whether it is a
+pure law of the mind, or only an approximate lesson of experience; and
+if a pure product of the mind, whether there are any other products
+of the same kind, furnished by our knowing faculty itself.” Professor
+Robertson, in his very acute review,[17] likewise objects to the want
+of psychological and philosophical analysis. “If the book really
+corresponded to its title, Mr. Jevons could hardly have passed so
+lightly over the question, which he does not omit to raise, concerning
+those undoubted principles of knowledge commonly called the Laws of
+Thought.... Everywhere, indeed, he appears least at ease when he
+touches on questions properly philosophical; nor is he satisfactory
+in his psychological references, as on pp. 4, 5, where he cannot
+commit himself to a statement without an accompaniment of ‘probably,’
+‘almost,’ or ‘hardly.’ Reservations are often very much in place, but
+there are fundamental questions on which it is proper to make up one’s
+mind.”
+
+  [16] *Spectator*, September 19, 1874, p. 1178. A second portion of
+  the review appeared in the same journal for September 26, 1874,
+  p. 1204.
+
+  [17] *Mind*: a Quarterly Review of Psychology and Philosophy. No. II.
+  April 1876. Vol. I. p. 206.
+
+These remarks appear to me to be well founded, and I must state why
+it is that I have ventured to publish an extensive work on logic,
+without properly making up my mind as to the fundamental nature of the
+reasoning process. The fault after all is one of omission rather than
+of commission. It is open to me on a future occasion to supply the
+deficiency if I should ever feel able to undertake the task. But I do
+not conceive it to be an essential part of any treatise to enter into
+an ultimate analysis of its subject matter. Analyses must always end
+somewhere. There were good treatises on light which described the laws
+of the phenomenon correctly before it was known whether light consisted
+of undulations or of projected particles. Now we have treatises on the
+Undulatory Theory which are very valuable and satisfactory, although
+they leave us in almost complete doubt as to what the vibrating medium
+really is. So I think that, in the present day, we need a correct and
+scientific exhibition of the formal laws of thought, and of the forms
+of reasoning based on them, although we may not be able to enter into
+any complete analysis of the nature of those laws. What would the
+science of geometry be like now if the Greek geometers had decided that
+it was improper to publish any propositions before they had decided
+on the nature of an axiom? Where would the science of arithmetic be
+now if an analysis of the nature of number itself were a necessary
+preliminary to a development of the results of its laws? In recent
+times there have been enormous additions to the mathematical sciences,
+but very few attempts at psychological analysis. In the Alexandrian and
+early mediæval schools of philosophy, much attention was given to the
+nature of unity and plurality chiefly called forth by the question of
+the Trinity. In the last two centuries whole sciences have been created
+out of the notion of plurality, and yet speculation on the nature of
+plurality has dwindled away. This present treatise contains, in the
+eighth chapter, one of the few recent attempts to analyse the notion of
+number itself.
+
+If further illustration is needed, I may refer to the differential
+calculus. Nobody calls in question the formal truth of the results of
+that calculus. All the more exact and successful parts of physical
+science depend upon its use, and yet the mathematicians who have
+created so great a body of exact truths have never decided upon the
+basis of the calculus. What is the nature of a limit or the nature of
+an infinitesimal? Start the question among a knot of mathematicians,
+and it will be found that hardly two agree, unless it is in regarding
+the question itself as a trifling one. Some hold that there are no such
+things as infinitesimals, and that it is all a question of limits.
+Others would argue that the infinitesimal is the necessary outcome of
+the limit, but various shades of intermediate opinion spring up.
+
+Now it is just the same with logic. If the forms of deductive and
+inductive reasoning given in the earlier part of this treatise are
+correct, they constitute a definite addition to logical science, and
+it would have been absurd to decline to publish such results because I
+could not at the same time decide in my own mind about the psychology
+and philosophy of the subject. It comes in short to this, that my book
+is a book on Formal Logic and Scientific Method, and not a book on
+psychology and philosophy.
+
+It may be objected, indeed, as the *Spectator* objects, that Mill’s
+System of Logic is particularly strong in the discussion of the
+psychological foundations of reasoning, so that Mill would appear to
+have successfully treated that which I feel myself to be incapable of
+attempting at present. If Mill’s analysis of knowledge is correct, then
+I have nothing to say in excuse for my own deficiencies. But it is
+well to do one thing at a time, and therefore I have not occupied any
+considerable part of this book with controversy and refutation. What I
+have to say of Mill’s logic will be said in a separate work, in which
+his analysis of knowledge will be somewhat minutely analysed. It will
+then be shown, I believe, that Mill’s psychological and philosophical
+treatment of logic has not yielded such satisfactory results as some
+writers seem to believe.[18]
+
+  [18] Portions of this work have already been published in my
+  articles, entitled “John Stuart Mill’s Philosophy Tested,” printed
+  in the *Contemporary Review* for December, 1877, vol. xxxi. p. 167,
+  and for January and April, 1878, vol. xxxi. p. 256, and vol. xxxii.
+  p. 88. (Note added in November, 1878.)
+
+Various minor but still important criticisms were made by Professor
+Robertson, a few of which have been noticed in the text (pp. 27, 101).
+In other cases his objections hardly admit of any other answer than
+such as consists in asking the reader to judge between the work and the
+criticism. Thus Mr. Robertson asserts[19] that the most complex logical
+problems solved in this book (up to p. 102 of this edition) might be
+more easily and shortly dealt with upon the principles and with the
+recognised methods of the traditional logic. The burden of proof here
+lies upon Mr. Robertson, and his only proof consists in a single case,
+where he is able, as it seems to me accidentally, to get a special
+conclusion by the old form of dilemma. It would be a long labour to
+test the old logic upon every result obtained by my notation, and I
+must leave such readers as are well acquainted with the syllogistic
+logic to pronounce upon the comparative simplicity and power of the
+new and old systems. For other acute objections brought forward by Mr.
+Robertson, I must refer the reader to the article in question.
+
+  [19] *Mind*, vol. i. p. 222.
+
+One point in my last chapter, that on the Results and Limits of
+Scientific Method, has been criticised by Professor W. K. Clifford in
+his lecture[20] on “The First and the Last Catastrophe.” In vol. ii.
+p. 438 of the first edition (p. 744 of this edition) I referred to
+certain inferences drawn by eminent physicists as to a limit to
+the antiquity of the present order of things. “According to Sir W.
+Thomson’s deductions from Fourier’s *theory of heat*, we can trace down
+the dissipation of heat by conduction and radiation to an infinitely
+distant time when all things will be uniformly cold. But we cannot
+similarly trace the Heat-history of the Universe to an infinite
+distance in the past. For a certain negative value of the time, the
+formulæ give impossible values, indicating that there was some initial
+distribution of heat which could not have resulted, according to known
+laws of nature, from any previous distribution.”
+
+  [20] *Fortnightly Review*, New Series, April 1875, p. 480. Lecture
+  reprinted by the Sunday Lecture Society, p. 24.
+
+Now according to Professor Clifford I have here misstated Thomson’s
+results. “It is not according to the known laws of nature, it is
+according to the known laws of conduction of heat, that Sir William
+Thomson is speaking.... All these physical writers, knowing what they
+were writing about, simply drew such conclusions from the facts which
+were before them as could be reasonably drawn. They say, here is a
+state of things which could not have been produced by the circumstances
+we are at present investigating. Then your speculator comes, he reads
+a sentence and says, ‘Here is an opportunity for me to have my fling.’
+And he has his fling, and makes a purely baseless theory about the
+necessary origin of the present order of nature at some definite point
+of time, which might be calculated.”
+
+Professor Clifford proceeds to explain that Thomson’s formulæ only give
+a limit to the heat history of, say, the earth’s crust in the solid
+state. We are led back to the time when it became solidified from the
+fluid condition. There is discontinuity in the history of the solid
+matter, but still discontinuity which is within our comprehension.
+Still further back we should come to discontinuity again, when the
+liquid was formed by the condensation of heated gaseous matter. Beyond
+that event, however, there is no need to suppose further discontinuity
+of law, for the gaseous matter might consist of molecules which had
+been falling together from different parts of space through infinite
+past time. As Professor Clifford says (p. 481) of the bodies of the
+universe, “What they have actually done is to fall together and get
+solid. If we should reverse the process we should see them separating
+and getting cool, and as a limit to that, we should find that all these
+bodies would be resolved into molecules, and all these would be flying
+away from each other. There would be no limit to that process, and we
+could trace it as far back as ever we liked to trace it.”
+
+Assuming that I have erred, I should like to point out that I have
+erred in the best company, or more strictly, being a speculator, I
+have been led into error by the best physical writers. Professor Tait,
+in his *Sketch of Thermodynamics*, speaking of the laws discovered by
+Fourier for the motion of heat in a solid, says, “Their mathematical
+expressions point also to the fact that a uniform distribution of heat,
+or a distribution tending to become uniform, must have arisen from some
+primitive distribution of heat of a kind not capable of being produced
+by known laws from any previous distribution.” In the latter words it
+will be seen that there is no limitation to the laws of conduction,
+and, although I had carefully referred to Sir W. Thomson’s original
+paper, it is not unnatural that I should take Professor Tait’s
+interpretation of its meaning.[21]
+
+  [21] Sir W. Thomson’s words are as follows (*Cambridge Mathematical
+  Journal*, Nov. 1842, vol. iii. p. 174). “When *x* is negative, the
+  state represented cannot be the result of any *possible* distribution
+  of temperature which has previously existed.” There is no limitation
+  in the sentence to the laws of conduction, but, as the whole paper
+  treats of the results of conduction in a solid, it may no doubt be
+  understood that there is a *tacit* limitation. See also a second
+  paper on the subject in the same journal for February, 1844, vol. iv.
+  p. 67, where again there is no expressed limitation.
+
+In his new work *On some Recent Advances in Physical Science*,
+Professor Tait has recurred to the subject as follows:[22] “A profound
+lesson may be learned from one of the earliest little papers of Sir W.
+Thomson, published while he was an undergraduate at Cambridge, where
+he shows that Fourier’s magnificent treatment of the conduction of
+heat [in a solid body] leads to formulæ for its distribution which
+are intelligible (and of course capable of being fully verified by
+experiment) for all time future, but which, except in particular
+cases, when extended to time past, remain intelligible for a finite
+period only, and *then* indicate a state of things which could
+not have resulted under known laws from any conceivable previous
+distribution [of heat in the body]. So far as heat is concerned, modern
+investigations have shown that a previous distribution of the *matter*
+involved may, by its potential energy, be capable of producing such
+a state of things at the moment of its aggregation; but the example
+is now adduced not for its bearing on heat alone, but as a simple
+illustration of the fact that all portions of our Science, especially
+that beautiful one, the Dissipation of Energy, point unanimously to a
+beginning, to a state of things incapable of being derived by present
+laws [of tangible matter and its energy] from any conceivable previous
+arrangement.” As this was published nearly a year after Professor
+Clifford’s lecture, it may be inferred that Professor Tait adheres to
+his original opinion that the theory of heat does give evidence of “a
+beginning.”
+
+  [22] Pp. 25–26. The parentheses are in the original, and show
+  Professor Tait’s corrections in the verbatim reports of his lectures.
+  The subject is treated again on pp. 168–9.
+
+I may add that Professor Clerk Maxwell’s words seem to countenance the
+same view, for he says,[23] “This is only one of the cases in which a
+consideration of the dissipation of energy leads to the determination
+of a superior limit to the antiquity of the observed order of things.”
+The expression “observed order of things” is open to much ambiguity,
+but in the absence of qualification I should take it to include the
+aggregate of the laws of nature known to us. I should interpret
+Professor Maxwell as meaning that the theory of heat indicates the
+occurrence of some event of which our science cannot give any further
+explanation. The physical writers thus seem not to be so clear about
+the matter as Professor Clifford assumes.
+
+  [23] *Theory of Heat* 1871, p. 245.
+
+So far as I may venture to form an independent opinion on the subject,
+it is to the effect that Professor Clifford is right, and that the
+known laws of nature do not enable us to assign a “beginning.” Science
+leads us backwards into infinite past duration. But that Professor
+Clifford is right on this point, is no reason why we should suppose
+him to be right in his other opinions, some of which I am sure are
+wrong. Nor is it a reason why other parts of my last chapter should be
+wrong. The question only affects the single paragraph on pp. 744–5 of
+this book, which might, I believe, be struck out without necessitating
+any alteration in the rest of the text. It is always to be remembered
+that the failure of an argument in favour of a proposition does not,
+generally speaking, add much, if any, probability to the contradictory
+proposition. I cannot conclude without expressing my acknowledgments
+to Professor Clifford for his kind expressions regarding my work as a
+whole.
+
+  2, The Chestnuts,
+  West Heath,
+  Hampstead, N. W.
+
+  *August 15, 1877.*
+
+
+
+
+CONTENTS.
+
+
+  BOOK I.
+
+  FORMAL LOGIC, DEDUCTIVE AND INDUCTIVE.
+
+
+  CHAPTER I.
+
+  INTRODUCTION.
+
+  SECTION      PAGE
+
+  1. Introduction                                                 1
+
+  2. The Powers of Mind concerned in the Creation of Science      4
+
+  3. Laws of Identity and Difference                              5
+
+  4. The Nature of the Laws of Identity and Difference            6
+
+  5. The Process of Inference                                     9
+
+  6. Deduction and Induction                                     11
+
+  7. Symbolic Expression of Logical Inference                    13
+
+  8. Expression of Identity and Difference                       14
+
+  9. General Formula of Logical Inference                        17
+
+  10. The Propagating Power of Similarity                        20
+
+  11. Anticipations of the Principle of Substitution             21
+
+  12. The Logic of Relatives                                     22
+
+
+  CHAPTER II.
+
+  TERMS.
+
+  1. Terms                                                       24
+
+  2. Twofold meaning of General Names                            25
+
+  3. Abstract Terms                                              27
+
+  4. Substantial Terms                                           28
+
+  5. Collective Terms                                            29
+
+  6. Synthesis of Terms                                          30
+
+  7. Symbolic Expression of the Law of Contradiction             31
+
+  8. Certain Special Conditions of Logical Symbols               32
+
+
+  CHAPTER III.
+
+  PROPOSITIONS.
+
+  1. Propositions                                                36
+
+  2. Simple Identities                                           37
+
+  3. Partial Identities                                          40
+
+  4. Limited Identities                                          42
+
+  5. Negative Propositions                                       43
+
+  6. Conversion of Propositions                                  46
+
+  7. Twofold Interpretation of Propositions                      47
+
+
+  CHAPTER IV.
+
+  DEDUCTIVE REASONING.
+
+  1. Deductive Reasoning                                         49
+
+  2. Immediate Inference                                         50
+
+  3. Inference with Two Simple Identities                        51
+
+  4. Inference with a Simple and a Partial Identity              53
+
+  5. Inference of a Partial from Two Partial Identities          55
+
+  6. On the Ellipsis of Terms in Partial Identities              57
+
+  7. Inference of a Simple from Two Partial Identities           58
+
+  8. Inference of a Limited from Two Partial Identities          59
+
+  9. Miscellaneous Forms of Deductive Inference                  60
+
+  10. Fallacies                                                  62
+
+
+  CHAPTER V.
+
+  DISJUNCTIVE PROPOSITIONS.
+
+  1. Disjunctive Propositions                                    66
+
+  2. Expression of the Alternative Relation                      67
+
+  3. Nature of the Alternative Relation                          68
+
+  4. Laws of the Disjunctive Relation                            71
+
+  5. Symbolic Expression of the Law of Duality                   73
+
+  6. Various Forms of the Disjunctive Proposition                74
+
+  7. Inference by Disjunctive Propositions                       76
+
+
+  CHAPTER VI.
+
+  THE INDIRECT METHOD OF INFERENCE.
+
+  1. The Indirect Method of Inference                            81
+
+  2. Simple Illustrations                                        83
+
+  3. Employment of the Contrapositive Proposition                84
+
+  4. Contrapositive of a Simple Identity                         86
+
+  5. Miscellaneous Examples of the Method                        88
+
+  6. Mr. Venn’s Problem                                          90
+
+  7. Abbreviation of the Process                                 91
+
+  8. The Logical Alphabet                                        94
+
+  9. The Logical Slate                                           95
+
+  10. Abstraction of Indifferent Circumstances                   97
+
+  11. Illustrations of the Indirect Method                       98
+
+  12. Second Example                                             99
+
+  13. Third Example                                             100
+
+  14. Fourth Example                                            101
+
+  15. Fifth Example                                             101
+
+  16. Fallacies Analysed by the Indirect Method                 102
+
+  17. The Logical Abacus                                        104
+
+  18. The Logical Machine                                       107
+
+  19. The Order of Premises                                     114
+
+  20. The Equivalence of Propositions                           115
+
+  21. The Nature of Inference                                   118
+
+
+  CHAPTER VII.
+
+  INDUCTION.
+
+  1. Induction                                                  121
+
+  2. Induction an Inverse Operation                             122
+
+  3. Inductive Problems for Solution by the Reader              126
+
+  4. Induction of Simple Identities                             127
+
+  5. Induction of Partial Identities                            130
+
+  6. Solution of the Inverse or Inductive Problem, involving
+       Two Classes                                              134
+
+  7. The Inverse Logical Problem, involving Three Classes       137
+
+  8. Professor Clifford on the Types of Compound Statement
+       involving Four Classes                                   143
+
+  9. Distinction between Perfect and Imperfect Induction        146
+
+  10. Transition from Perfect to Imperfect Induction            149
+
+
+  BOOK II.
+
+  NUMBER, VARIETY, AND PROBABILITY.
+
+
+  CHAPTER VIII.
+
+  PRINCIPLES OF NUMBER.
+
+  1. Principles of Number                                       153
+
+  2. The Nature of Numbe                                        156
+
+  3. Of Numerical Abstraction                                   158
+
+  4. Concrete and Abstract Number                               159
+
+  5. Analogy of Logical and Numerical Terms                     160
+
+  6. Principle of Mathematical Inference                        162
+
+  7. Reasoning by Inequalities                                  165
+
+  8. Arithmetical Reasoning                                     167
+
+  9. Numerically Definite Reasoning                             168
+
+  10. Numerical meaning of Logical Conditions                   171
+
+
+  CHAPTER IX.
+
+  THE VARIETY OF NATURE, OR THE DOCTRINE OF COMBINATIONS
+  AND PERMUTATIONS.
+
+  1. The Variety of Nature                                      173
+
+  2. Distinction of Combinations and Permutations               177
+
+  3. Calculation of Number of Combinations                      180
+
+  4. The Arithmetical Triangle                                  182
+
+  5. Connexion between the Arithmetical Triangle and the
+       Logical Alphabet                                         189
+
+  6. Possible Variety of Nature and Art                         190
+
+  7. Higher Orders of Variety                                   192
+
+
+  CHAPTER X.
+
+  THEORY OF PROBABILITY.
+
+  1. Theory of Probability                                      197
+
+  2. Fundamental Principles of the Theory                       200
+
+  3. Rules for the Calculation of Probabilities                 203
+
+  4. The Logical Alphabet in questions of Probability           205
+
+  5. Comparison of the Theory with Experience                   206
+
+  6. Probable Deductive Arguments                               209
+
+  7. Difficulties of the Theory                                 213
+
+
+  CHAPTER XI.
+
+  PHILOSOPHY OF INDUCTIVE INFERENCE.
+
+  1. Philosophy of Inductive Inference                          218
+
+  2. Various Classes of Inductive Truths                        219
+
+  3. The Relation of Cause and Effect                           220
+
+  4. Fallacious Use of the Term Cause                           221
+
+  5. Confusion of Two Questions                                 222
+
+  6. Definition of the Term Cause                               224
+
+  7. Distinction of Inductive and Deductive Results             226
+
+  8. The Grounds of Inductive Inference                         228
+
+  9. Illustrations of the Inductive Process                     229
+
+  10. Geometrical Reasoning                                     233
+
+  11. Discrimination of Certainty and Probability               235
+
+
+  CHAPTER XII.
+
+  THE INDUCTIVE OR INVERSE APPLICATION OF THE THEORY
+  OF PROBABILITY.
+
+  1. The Inductive or Inverse Application of the Theory         240
+
+  2. Principle of the Inverse Method                            242
+
+  3. Simple Applications of the Inverse Method                  244
+
+  4. The Theory of Probability in Astronomy                     247
+
+  5. The General Inverse Problem                                250
+
+  6. Simple Illustration of the Inverse Problem                 253
+
+  7. General Solution of the Inverse Problem                    255
+
+  8. Rules of the Inverse Method                                257
+
+  9. Fortuitous Coincidences                                    261
+
+  10. Summary of the Theory of Inductive Inference              265
+
+
+  BOOK III.
+
+  METHODS OF MEASUREMENT.
+
+
+  CHAPTER XIII.
+
+  THE EXACT MEASUREMENT OF PHENOMENA.
+
+  1. The Exact Measurement of Phenomena                         270
+
+  2. Division of the Subject                                    274
+
+  3. Continuous quantity                                        274
+
+  4. The Fallacious Indications of the Senses                   276
+
+  5. Complexity of Quantitative Questions                       278
+
+  6. The Methods of Accurate Measurement                        282
+
+  7. Conditions of Accurate Measurement                         282
+
+  8. Measuring Instruments                                      284
+
+  9. The Method of Repetition                                   288
+
+  10. Measurements by Natural Coincidence                       292
+
+  11. Modes of Indirect Measurement                             296
+
+  12. Comparative Use of Measuring Instruments                  299
+
+  13. Systematic Performance of Measurements                    300
+
+  14. The Pendulum                                              302
+
+  15. Attainable Accuracy of Measurement                        303
+
+
+  CHAPTER XIV.
+
+  UNITS AND STANDARDS OF MEASUREMENT.
+
+  1. Units and Standards of Measurement                         305
+
+  2. Standard Unit of Time                                      307
+
+  3. The Unit of Space and the Bar Standard                     312
+
+  4. The Terrestrial Standard                                   314
+
+  5. The Pendulum Standard                                      315
+
+  6. Unit of Density                                            316
+
+  7. Unit of Mass                                               317
+
+  8. Natural System of Standards                                319
+
+  9. Subsidiary Units                                           320
+
+  10. Derived Units                                             321
+
+  11. Provisional Units                                         323
+
+  12. Theory of Dimensions                                      325
+
+  13. Natural Constants                                         328
+
+  14. Mathematical Constants                                    330
+
+  15. Physical Constants                                        331
+
+  16. Astronomical Constants                                    332
+
+  17. Terrestrial Numbers                                       333
+
+  18. Organic Numbers                                           333
+
+  19. Social Numbers                                            334
+
+
+  CHAPTER XV.
+
+  ANALYSIS OF QUANTITATIVE PHENOMENA.
+
+  1. Analysis of Quantitative Phenomena                         335
+
+  2. Illustrations of the Complication of Effects               336
+
+  3. Methods of Eliminating Error                               339
+
+  4. Method of Avoidance of Error                               340
+
+  5. Differential Method                                        344
+
+  6. Method of Correction                                       346
+
+  7. Method of Compensation                                     350
+
+  8. Method of Reversal                                         354
+
+
+  CHAPTER XVI.
+
+  THE METHOD OF MEANS.
+
+  1. The Method of Means                                        357
+
+  2. Several Uses of the Mean Result                            359
+
+  3. The Mean and the Average                                   360
+
+  4. On the Average or Fictitious Mean                          363
+
+  5. The Precise Mean Result                                    365
+
+  6. Determination of the Zero Point                            368
+
+  7. Determination of Maximum Points                            371
+
+
+  CHAPTER XVII.
+
+  THE LAW OF ERROR.
+
+  1. The Law of Error                                           374
+
+  2. Establishment of the Law of Error                          375
+
+  3. Herschel’s Geometrical Proof                               377
+
+  4. Laplace’s and Quetelet’s Proof of the Law                  378
+
+  5. Logical Origin of the Law of Error                         383
+
+  6. Verification of the Law of Error                           383
+
+  7. The Probable Mean Result                                   385
+
+  8. The Probable Error of Results                              386
+
+  9. Rejection of the Mean Result                               389
+
+  10. Method of Least Squares                                   393
+
+  11. Works upon the Theory of Probability                      394
+
+  12. Detection of Constant Errors                              396
+
+
+  BOOK IV.
+
+  INDUCTIVE INVESTIGATION.
+
+
+  CHAPTER XVIII.
+
+  OBSERVATION.
+
+  1. Observation                                                399
+
+  2. Distinction of Observation and Experiment                  400
+
+  3. Mental Conditions of Correct Observation                   402
+
+  4. Instrumental and Sensual Conditions of Correct Observation 404
+
+  5. External Conditions of Correct Observation                 407
+
+  6. Apparent Sequence of Events                                409
+
+  7. Negative Arguments from Non-Observation                    411
+
+
+  CHAPTER XIX.
+
+  EXPERIMENT.
+
+  1. Experiment                                                 416
+
+  2. Exclusion of Indifferent Circumstances                     419
+
+  3. Simplification of Experiments                              422
+
+  4. Failure in the Simplification of Experiments               424
+
+  5. Removal of Usual Conditions                                426
+
+  6. Interference of Unsuspected Conditions                     428
+
+  7. Blind or Test Experiments                                  433
+
+  8. Negative Results of Experiment                             434
+
+  9. Limits of Experiment                                       437
+
+
+  CHAPTER XX.
+
+  METHOD OF VARIATIONS.
+
+  1. Method of Variations                                       439
+
+  2. The Variable and the Variant                               440
+
+  3. Measurement of the Variable                                441
+
+  4. Maintenance of Similar Conditions                          443
+
+  5. Collective Experiments                                     445
+
+  6. Periodic Variations                                        447
+
+  7. Combined Periodic Changes                                  450
+
+  8. Principle of Forced Vibrations                             451
+
+  9. Integrated Variations                                      452
+
+
+  CHAPTER XXI.
+
+  THEORY OF APPROXIMATION.
+
+  1. Theory of Approximation                                    456
+
+  2. Substitution of Simple Hypotheses                          458
+
+  3. Approximation to Exact Laws                                462
+
+  4. Successive Approximations to Natural Conditions            465
+
+  5. Discovery of Hypothetically Simple Laws                    470
+
+  6. Mathematical Principles of Approximation                   471
+
+  7. Approximate Independence of Small Effects                  475
+
+  8. Four Meanings of Equality                                  479
+
+  9. Arithmetic of Approximate Quantities                       481
+
+
+  CHAPTER XXII.
+
+  QUANTITATIVE INDUCTION.
+
+  1. Quantitative Induction                                     483
+
+  2. Probable Connexion of Varying Quantities                   484
+
+  3. Empirical Mathematical Laws                                487
+
+  4. Discovery of Rational Formulæ                              489
+
+  5. The Graphical Method                                       492
+
+  6. Interpolation and Extrapolation                            495
+
+  7. Illustrations of Empirical Quantitative Laws               499
+
+  8. Simple Proportional Variation                              501
+
+
+  CHAPTER XXIII.
+
+  THE USE OF HYPOTHESIS.
+
+  1. The Use of Hypothesis                                      504
+
+  2. Requisites of a good Hypothesis                            510
+
+  3. Possibility of Deductive Reasoning                         511
+
+  4. Consistency with the Laws of Nature                        514
+
+  5. Conformity with Facts                                      516
+
+  6. Experimentum Crucis                                        518
+
+  7. Descriptive Hypotheses                                     522
+
+
+  CHAPTER XXIV.
+
+  EMPIRICAL KNOWLEDGE, EXPLANATION AND PREDICTION.
+
+  1. Empirical Knowledge, Explanation and Prediction            525
+
+  2. Empirical Knowledge                                        526
+
+  3. Accidental Discovery                                       529
+
+  4. Empirical Observations subsequently Explained              532
+
+  5. Overlooked Results of Theory                               534
+
+  6. Predicted Discoveries                                      536
+
+  7. Predictions in the Science of Light                        538
+
+  8. Predictions from the Theory of Undulations                 540
+
+  9. Prediction in other Sciences                               542
+
+  10. Prediction by Inversion of Cause and Effect               545
+
+  11. Facts known only by Theory                                547
+
+
+  CHAPTER XXV.
+
+  ACCORDANCE OF QUANTITATIVE THEORIES.
+
+  1. Accordance of Quantitative Theories                        551
+
+  2. Empirical Measurements                                     552
+
+  3. Quantities indicated by Theory, but Empirically Measured   553
+
+  4. Explained Results of Measurement                           554
+
+  5. Quantities determined by Theory and verified by
+       Measurement                                              555
+
+  6. Quantities determined by Theory and not verified           556
+
+  7. Discordance of Theory and Experiment                       558
+
+  8. Accordance of Measurements of Astronomical Distances       560
+
+  9. Selection of the best Mode of Measurement                  563
+
+  10. Agreement of Distinct Modes of Measurement                564
+
+  11. Residual Phenomena                                        569
+
+
+  CHAPTER XXVI.
+
+  CHARACTER OF THE EXPERIMENTALIST.
+
+  1. Character of the Experimentalist                           574
+
+  2. Error of the Baconian Method                               576
+
+  3. Freedom of Theorising                                      577
+
+  4. The Newtonian Method, the True Organum                     581
+
+  5. Candour and Courage of the Philosophic Mind                586
+
+  6. The Philosophic Character of Faraday                       587
+
+  7. Reservation of Judgment                                    592
+
+
+  BOOK V.
+
+  GENERALISATION, ANALOGY, AND CLASSIFICATION.
+
+
+  CHAPTER XXVII.
+
+  GENERALISATION.
+
+  1. Generalisation                                             594
+
+  2. Distinction of Generalisation and Analogy                  596
+
+  3. Two Meanings of Generalisation                             597
+
+  4. Value of Generalisation                                    599
+
+  5. Comparative Generality of Properties                       600
+
+  6. Uniform Properties of all Matter                           603
+
+  7. Variable Properties of Matter                              606
+
+  8. Extreme Instances of Properties                            607
+
+  9. The Detection of Continuity                                610
+
+  10. The Law of Continuity                                     615
+
+  11. Failure of the Law of Continuity                          619
+
+  12. Negative Arguments on the Principle of Continuity         621
+
+  13. Tendency to Hasty Generalisation                          623
+
+
+  CHAPTER XXVIII.
+
+  ANALOGY.
+
+  1. Analogy                                                    627
+
+  2. Analogy as a Guide in Discovery                            629
+
+  3. Analogy in the Mathematical Sciences                       631
+
+  4. Analogy in the Theory of Undulations                       635
+
+  5. Analogy in Astronomy                                       638
+
+  6. Failures of Analogy                                        641
+
+
+  CHAPTER XXIX.
+
+  EXCEPTIONAL PHENOMENA.
+
+  1. Exceptional Phenomena                                      644
+
+  2. Imaginary or False Exceptions                              647
+
+  3. Apparent but Congruent Exceptions                          649
+
+  4. Singular Exceptions                                        652
+
+  5. Divergent Exceptions                                       655
+
+  6. Accidental Exceptions                                      658
+
+  7. Novel and Unexplained Exceptions                           661
+
+  8. Limiting Exceptions                                        663
+
+  9. Real Exceptions to Supposed Laws                           666
+
+  10. Unclassed Exceptions                                      668
+
+
+  CHAPTER XXX.
+
+  CLASSIFICATION.
+
+  1. Classification                                             673
+
+  2. Classification involving Induction                         675
+
+  3. Multiplicity of Modes of Classification                    677
+
+  4. Natural and Artificial Systems of Classification           679
+
+  5. Correlation of Properties                                  681
+
+  6. Classification in Crystallography                          685
+
+  7. Classification an Inverse and Tentative Operation          689
+
+  8. Symbolic Statement of the Theory of Classification         692
+
+  9. Bifurcate Classification                                   694
+
+  10. The Five Predicates                                       698
+
+  11. Summum Genus and Infima Species                           701
+
+  12. The Tree of Porphyry                                      702
+
+  13. Does Abstraction imply Generalisation?                    704
+
+  14. Discovery of Marks or Characteristics                     708
+
+  15. Diagnostic Systems of Classification                      710
+
+  16. Index Classifications                                     714
+
+  17. Classification in the Biological Sciences                 718
+
+  18. Classification by Types                                   722
+
+  19. Natural Genera and Species                                724
+
+  20. Unique or Exceptional Objects                             728
+
+  21. Limits of Classification                                  730
+
+
+  BOOK VI.
+
+  CHAPTER XXXI.
+
+  REFLECTIONS ON THE RESULTS AND LIMITS OF SCIENTIFIC METHOD.
+
+  1. Reflections on the Results and Limits of Scientific Method 735
+
+  2. The Meaning of Natural Law                                 737
+
+  3. Infiniteness of the Universe                               738
+
+  4. The Indeterminate Problem of Creation                      740
+
+  5. Hierarchy of Natural Laws                                  742
+
+  6. The Ambiguous Expression--“Uniformity of Nature”           745
+
+  7. Possible States of the Universe                            749
+
+  8. Speculations on the Reconcentration of Energy              751
+
+  9. The Divergent Scope for New Discovery                      752
+
+  10. Infinite Incompleteness of the Mathematical Sciences      754
+
+  11. The Reign of Law in Mental and Social Phenomena           759
+
+  12. The Theory of Evolution                                   761
+
+  13. Possibility of Divine Interference                        765
+
+  14. Conclusion                                                766
+
+
+  INDEX                                                         773
+
+
+
+
+THE PRINCIPLES OF SCIENCE.
+
+
+
+
+CHAPTER I.
+
+INTRODUCTION.
+
+
+Science arises from the discovery of Identity amidst Diversity. The
+process may be described in different words, but our language must
+always imply the presence of one common and necessary element. In
+every act of inference or scientific method we are engaged about a
+certain identity, sameness, similarity, likeness, resemblance, analogy,
+equivalence or equality apparent between two objects. It is doubtful
+whether an entirely isolated phenomenon could present itself to our
+notice, since there must always be some points of similarity between
+object and object. But in any case an isolated phenomenon could be
+studied to no useful purpose. The whole value of science consists
+in the power which it confers upon us of applying to one object the
+knowledge acquired from like objects; and it is only so far, therefore,
+as we can discover and register resemblances that we can turn our
+observations to account.
+
+Nature is a spectacle continually exhibited to our senses, in which
+phenomena are mingled in combinations of endless variety and novelty.
+Wonder fixes the mind’s attention; memory stores up a record of each
+distinct impression; the powers of association bring forth the record
+when the like is felt again. By the higher faculties of judgment and
+reasoning the mind compares the new with the old, recognises essential
+identity, even when disguised by diverse circumstances, and expects to
+find again what was before experienced. It must be the ground of all
+reasoning and inference that *what is true of one thing will be true
+of its equivalent*, and that under carefully ascertained conditions
+*Nature repeats herself*.
+
+Were this indeed a Chaotic Universe, the powers of mind employed in
+science would be useless to us. Did Chance wholly take the place of
+order, and did all phenomena come out of an *Infinite Lottery*, to use
+Condorcet’s expression, there could be no reason to expect the like
+result in like circumstances. It is possible to conceive a world in
+which no two things should be associated more often, in the long run,
+than any other two things. The frequent conjunction of any two events
+would then be purely fortuitous, and if we expected conjunctions to
+recur continually, we should be disappointed. In such a world we might
+recognise the same kind of phenomenon as it appeared from time to time,
+just as we might recognise a marked ball as it was occasionally drawn
+and re-drawn from a ballot-box; but the approach of any phenomenon
+would be in no way indicated by what had gone before, nor would it be a
+sign of what was to come after. In such a world knowledge would be no
+more than the memory of past coincidences, and the reasoning powers, if
+they existed at all, would give no clue to the nature of the present,
+and no presage of the future.
+
+Happily the Universe in which we dwell is not the result of chance,
+and where chance seems to work it is our own deficient faculties which
+prevent us from recognising the operation of Law and of Design. In
+the material framework of this world, substances and forces present
+themselves in definite and stable combinations. Things are not in
+perpetual flux, as ancient philosophers held. Element remains element;
+iron changes not into gold. With suitable precautions we can calculate
+upon finding the same thing again endowed with the same properties.
+The constituents of the globe, indeed, appear in almost endless
+combinations; but each combination bears its fixed character, and
+when resolved is found to be the compound of definite substances.
+Misapprehensions must continually occur, owing to the limited extent
+of our experience. We can never have examined and registered possible
+existences so thoroughly as to be sure that no new ones will occur and
+frustrate our calculations. The same outward appearances may cover
+any amount of hidden differences which we have not yet suspected. To
+the variety of substances and powers diffused through nature at its
+creation, we should not suppose that our brief experience can assign
+a limit, and the necessary imperfection of our knowledge must be ever
+borne in mind.
+
+Yet there is much to give us confidence in Science. The wider our
+experience, the more minute our examination of the globe, the
+greater the accumulation of well-reasoned knowledge,--the fewer in
+all probability will be the failures of inference compared with the
+successes. Exceptions to the prevalence of Law are gradually reduced
+to Law themselves. Certain deep similarities have been detected among
+the objects around us, and have never yet been found wanting. As the
+means of examining distant parts of the universe have been acquired,
+those similarities have been traced there as here. Other worlds and
+stellar systems may be almost incomprehensively different from ours in
+magnitude, condition and disposition of parts, and yet we detect there
+the same elements of which our own limbs are composed. The same natural
+laws can be detected in operation in every part of the universe within
+the scope of our instruments; and doubtless these laws are obeyed
+irrespective of distance, time, and circumstance.
+
+It is the prerogative of Intellect to discover what is uniform and
+unchanging in the phenomena around us. So far as object is different
+from object, knowledge is useless and inference impossible. But so
+far as object resembles object, we can pass from one to the other. In
+proportion as resemblance is deeper and more general, the commanding
+powers of knowledge become more wonderful. Identity in one or other
+of its phases is thus always the bridge by which we pass in inference
+from case to case; and it is my purpose in this treatise to trace out
+the various forms in which the one same process of reasoning presents
+itself in the ever-growing achievements of Scientific Method.
+
+
+*The Powers of Mind concerned in the Creation of Science.*
+
+It is no part of the purpose of this work to investigate the nature
+of mind. People not uncommonly suppose that logic is a branch of
+psychology, because reasoning is a mental operation. On the same
+ground, however, we might argue that all the sciences are branches
+of psychology. As will be further explained, I adopt the opinion of
+Mr. Herbert Spencer, that logic is really an objective science, like
+mathematics or mechanics. Only in an incidental manner, then, need
+I point out that the mental powers employed in the acquisition of
+knowledge are probably three in number. They are substantially as
+Professor Bain has stated them[24]:--
+
+  [24] *The Senses and the Intellect*, Second Ed., pp. 5, 325, &c.
+
+  1. The Power of Discrimination.
+  2. The Power of Detecting Identity.
+  3. The Power of Retention.
+
+
+We exert the first power in every act of perception. Hardly can we have
+a sensation or feeling unless we discriminate it from something else
+which preceded. Consciousness would almost seem to consist in the break
+between one state of mind and the next, just as an induced current of
+electricity arises from the beginning or the ending of the primary
+current. We are always engaged in discrimination; and the rudiment of
+thought which exists in the lower animals probably consists in their
+power of feeling difference and being agitated by it.
+
+Yet had we the power of discrimination only, Science could not be
+created. To know that one feeling differs from another gives purely
+negative information. It cannot teach us what will happen. In such a
+state of intellect each sensation would stand out distinct from every
+other; there would be no tie, no bridge of affinity between them. We
+want a unifying power by which the present and the future may be linked
+to the past; and this seems to be accomplished by a different power of
+mind. Lord Bacon has pointed out that different men possess in very
+different degrees the powers of discrimination and identification. It
+may be said indeed that discrimination necessarily implies the action
+of the opposite process of identification; and so it doubtless does in
+negative points. But there is a rare property of mind which consists
+in penetrating the disguise of variety and seizing the common elements
+of sameness; and it is this property which furnishes the true measure
+of intellect. The name of “intellect” expresses the interlacing of the
+general and the single, which is the peculiar province of mind.[25] To
+*cogitate* is the Latin *coagitare*, resting on a like metaphor. Logic,
+also, is but another name for the same process, the peculiar work of
+reason; for λογος is derived from λεγειν, which like the Latin *legere*
+meant originally to gather. Plato said of this unifying power, that if
+he met the man who could detect *the one in the many*, he would follow
+him as a god.
+
+  [25] Max Müller, *Lectures on the Science of Language*, Second
+  Series, vol. ii. p. 63; or Sixth Edition, vol. ii. p. 67. The view
+  of the etymological meaning of “intellect” is given above on the
+  authority of Professor Max Müller. It seems to be opposed to the
+  ordinary opinion, according to which the Latin *intelligere* means to
+  choose between, to see a difference between, to discriminate, instead
+  of to unite.
+
+
+*Laws of Identity and Difference.*
+
+At the base of all thought and science must lie the laws which express
+the very nature and conditions of the discriminating and identifying
+powers of mind. These are the so-called Fundamental Laws of Thought,
+usually stated as follows:--
+
+  1. The Law of Identity. *Whatever is, is.*
+
+  2. The Law of Contradiction. *A thing cannot both be and not be.*
+
+  3. The Law of Duality. *A thing must either be or not be.*
+
+The first of these statements may perhaps be regarded as a description
+of identity itself, if so fundamental a notion can admit of
+description. A thing at any moment is perfectly identical with itself,
+and, if any person were unaware of the meaning of the word “identity,”
+we could not better describe it than by such an example.
+
+The second law points out that contradictory attributes can never be
+joined together. The same object may vary in its different parts;
+here it may be black, and there white; at one time it may be hard and
+at another time soft; but at the same time and place an attribute
+cannot be both present and absent. Aristotle truly described this law
+as the first of all axioms--one of which we need not seek for any
+demonstration. All truths cannot be proved, otherwise there would be an
+endless chain of demonstration; and it is in self-evident truths like
+this that we find the simplest foundations.
+
+The third of these laws completes the other two. It asserts that at
+every step there are two possible alternatives--presence or absence,
+affirmation or negation. Hence I propose to name this law the Law of
+Duality, for it gives to all the formulæ of reasoning a dual character.
+It asserts also that between presence and absence, existence and
+non-existence, affirmation and negation, there is no third alternative.
+As Aristotle said, there can be no mean between opposite assertions: we
+must either affirm or deny. Hence the inconvenient name by which it has
+been known--The Law of Excluded Middle.
+
+It may be allowed that these laws are not three independent and
+distinct laws; they rather express three different aspects of the
+same truth, and each law doubtless presupposes and implies the other
+two. But it has not hitherto been found possible to state these
+characters of identity and difference in less than the threefold
+formula. The reader may perhaps desire some information as to the
+mode in which these laws have been stated, or the way in which they
+have been regarded, by philosophers in different ages of the world.
+Abundant information on this and many other points of logical history
+will be found in Ueberweg’s *System of Logic*, of which an excellent
+translation has been published by Professor T. M. Lindsay (see
+pp. 228–281).
+
+
+*The Nature of the Laws of Identity and Difference.*
+
+I must at least allude to the profoundly difficult question concerning
+the nature and authority of these Laws of Identity and Difference.
+Are they Laws of Thought or Laws of Things? Do they belong to mind or
+to material nature? On the one hand it may be said that science is a
+purely mental existence, and must therefore conform to the laws of
+that which formed it. Science is in the mind and not in the things,
+and the properties of mind are therefore all important. It is true
+that these laws are verified in the observation of the exterior world;
+and it would seem that they might have been gathered and proved by
+generalisation, had they not already been in our possession. But
+on the other hand, it may well be urged that we cannot prove these
+laws by any process of reasoning or observation, because the laws
+themselves are presupposed, as Leibnitz acutely remarked, in the very
+notion of a proof. They are the prior conditions of all thought and
+all knowledge, and even to question their truth is to allow them true.
+Hartley ingeniously refined upon this argument, remarking that if the
+fundamental laws of logic be not certain, there must exist a logic of
+a second order whereby we may determine the degree of uncertainty: if
+the second logic be not certain, there must be a third; and so on *ad
+infinitum*. Thus we must suppose either that absolutely certain laws of
+thought exist, or that there is no such thing as certainty whatever.[26]
+
+  [26] Hartley on Man, vol. i. p. 359.
+
+Logicians, indeed, appear to me to have paid insufficient attention to
+the fact that mistakes in reasoning are always possible, and of not
+unfrequent occurrence. The Laws of Thought are often called necessary
+laws, that is, laws which cannot but be obeyed. Yet as a matter of
+fact, who is there that does not often fail to obey them? They are
+the laws which the mind ought to obey rather than what it always does
+obey. Our thoughts cannot be the criterion of truth, for we often
+have to acknowledge mistakes in arguments of moderate complexity,
+and we sometimes only discover our mistakes by collision between our
+expectations and the events of objective nature.
+
+Mr. Herbert Spencer holds that the laws of logic are objective
+laws,[27] and he regards the mind as being in a state of constant
+education, each act of false reasoning or miscalculation leading to
+results which are likely to prevent similar mistakes from being again
+committed. I am quite inclined to accept such ingenious views; but at
+the same time it is necessary to distinguish between the accumulation
+of knowledge, and the constitution of the mind which allows of the
+acquisition of knowledge. Before the mind can perceive or reason at
+all it must have the conditions of thought impressed upon it. Before
+a mistake can be committed, the mind must clearly distinguish the
+mistaken conclusion from all other assertions. Are not the Laws of
+Identity and Difference the prior conditions of all consciousness and
+all existence? Must they not hold true, alike of things material and
+immaterial? and if so, can we say that they are only subjectively true
+or objectively true? I am inclined, in short, to regard them as true
+both “in the nature of thought and things,” as I expressed it in my
+first logical essay;[28] and I hold that they belong to the common
+basis of all existence. But this is one of the most difficult questions
+of psychology and metaphysics which can be raised, and it is hardly
+one for the logician to decide. As the mathematician does not inquire
+into the nature of unity and plurality, but develops the formal laws of
+plurality, so the logician, as I conceive, must assume the truth of the
+Laws of Identity and Difference, and occupy himself in developing the
+variety of forms of reasoning in which their truth may be manifested.
+
+  [27] *Principles of Psychology*, Second Ed., vol. ii. p. 86.
+
+  [28] *Pure Logic, or the Logic of Quality apart from Quantity*, 1864,
+  pp. 10, 16, 22, 29, 36, &c.
+
+Again, I need hardly dwell upon the question whether logic treats of
+language, notions, or things. As reasonably might we debate whether a
+mathematician treats of symbols, quantities, or things. A mathematician
+certainly does treat of symbols, but only as the instruments whereby
+to facilitate his reasoning concerning quantities; and as the axioms
+and rules of mathematical science must be verified in concrete objects
+in order that the calculations founded upon them may have any validity
+or utility, it follows that the ultimate objects of mathematical
+science are the things themselves. In like manner I conceive that
+the logician treats of language so far as it is essential for the
+embodiment and exhibition of thought. Even if reasoning can take place
+in the inner consciousness of man without the use of any signs, which
+is doubtful, at any rate it cannot become the subject of discussion
+until by some system of material signs it is manifested to other
+persons. The logician then uses words and symbols as instruments of
+reasoning, and leaves the nature and peculiarities of language to the
+grammarian. But signs again must correspond to the thoughts and things
+expressed, in order that they shall serve their intended purpose. We
+may therefore say that logic treats ultimately of thoughts and things,
+and immediately of the signs which stand for them. Signs, thoughts, and
+exterior objects may be regarded as parallel and analogous series of
+phenomena, and to treat any one of the three series is equivalent to
+treating either of the other series.
+
+
+*The Process of Inference.*
+
+The fundamental action of our reasoning faculties consists in inferring
+or carrying to a new instance of a phenomenon whatever we have
+previously known of its like, analogue, equivalent or equal. Sameness
+or identity presents itself in all degrees, and is known under various
+names; but the great rule of inference embraces all degrees, and
+affirms that *so far as there exists sameness, identity or likeness,
+what is true of one thing will be true of the other*. The great
+difficulty doubtless consists in ascertaining that there does exist
+a sufficient degree of likeness or sameness to warrant an intended
+inference; and it will be our main task to investigate the conditions
+under which reasoning is valid. In this place I wish to point out that
+there is something common to all acts of inference, however different
+their apparent forms. The one same rule lends itself to the most
+diverse applications.
+
+The simplest possible case of inference, perhaps, occurs in the use of
+a *pattern*, *example*, or, as it is commonly called, a *sample*. To
+prove the exact similarity of two portions of commodity, we need not
+bring one portion beside the other. It is sufficient that we take a
+sample which exactly represents the texture, appearance, and general
+nature of one portion, and according as this sample agrees or not with
+the other, so will the two portions of commodity agree or differ.
+Whatever is true as regards the colour, texture, density, material of
+the sample will be true of the goods themselves. In such cases likeness
+of quality is the condition of inference.
+
+Exactly the same mode of reasoning holds true of magnitude and figure.
+To compare the sizes of two objects, we need not lay them beside each
+other. A staff, string, or other kind of measure may be employed to
+represent the length of one object, and according as it agrees or not
+with the other, so must the two objects agree or differ. In this case
+the proxy or sample represents length; but the fact that lengths can
+be added and multiplied renders it unnecessary that the proxy should
+always be as large as the object. Any standard of convenient size, such
+as a common foot-rule, may be made the medium of comparison. The height
+of a church in one town may be carried to that in another, and objects
+existing immovably at opposite sides of the earth may be vicariously
+measured against each other. We obviously employ the axiom that
+whatever is true of a thing as regards its length, is true of its equal.
+
+To every other simple phenomenon in nature the same principle of
+substitution is applicable. We may compare weights, densities, degrees
+of hardness, and degrees of all other qualities, in like manner. To
+ascertain whether two sounds are in unison we need not compare them
+directly, but a third sound may be the go-between. If a tuning-fork is
+in unison with the middle C of York Minster organ, and we afterwards
+find it to be in unison with the same note of the organ in Westminster
+Abbey, then it follows that the two organs are tuned in unison. The
+rule of inference now is, that what is true of the tuning-fork as
+regards the tone or pitch of its sound, is true of any sound in unison
+with it.
+
+The skilful employment of this substitutive process enables us to
+make measurements beyond the powers of our senses. No one can count
+the vibrations, for instance, of an organ-pipe. But we can construct
+an instrument called the *siren*, so that, while producing a sound of
+any pitch, it shall register the number of vibrations constituting the
+sound. Adjusting the sound of the siren in unison with an organ-pipe,
+we measure indirectly the number of vibrations belonging to a sound
+of that pitch. To measure a sound of the same pitch is as good as to
+measure the sound itself.
+
+Sir David Brewster, in a somewhat similar manner, succeeded in
+measuring the refractive indices of irregular fragments of transparent
+minerals. It was a troublesome, and sometimes impracticable work to
+grind the minerals into prisms, so that the power of refracting light
+could be directly observed; but he fell upon the ingenious device
+of compounding a liquid possessing the same refractive power as the
+transparent fragment under examination. The moment when this equality
+was attained could be known by the fragments ceasing to reflect or
+refract light when immersed in the liquid, so that they became almost
+invisible in it. The refractive power of the liquid being then measured
+gave that of the solid. A more beautiful instance of representative
+measurement, depending immediately upon the principle of inference,
+could not be found.[29]
+
+  [29] Brewster, *Treatise on New Philosophical Instruments*, p. 273.
+  Concerning this method see also Whewell, *Philosophy of the Inductive
+  Sciences*, vol. ii. p. 355; Tomlinson, *Philosophical Magazine*,
+  Fourth Series, vol. xl. p. 328; Tyndall, in Youmans’ *Modern
+  Culture*, p. 16.
+
+Throughout the various logical processes which we are about
+to consider--Deduction, Induction, Generalisation, Analogy,
+Classification, Quantitative Reasoning--we shall find the one same
+principle operating in a more or less disguised form.
+
+
+*Deduction and Induction.*
+
+The processes of inference always depend on the one same principle of
+substitution; but they may nevertheless be distinguished according as
+the results are inductive or deductive. As generally stated, deduction
+consists in passing from more general to less general truths; induction
+is the contrary process from less to more general truths. We may
+however describe the difference in another manner. In deduction we are
+engaged in developing the consequences of a law. We learn the meaning,
+contents, results or inferences, which attach to any given proposition.
+Induction is the exactly inverse process. Given certain results or
+consequences, we are required to discover the general law from which
+they flow.
+
+In a certain sense all knowledge is inductive. We can only learn the
+laws and relations of things in nature by observing those things. But
+the knowledge gained from the senses is knowledge only of particular
+facts, and we require some process of reasoning by which we may
+collect out of the facts the laws obeyed by them. Experience gives
+us the materials of knowledge: induction digests those materials, and
+yields us general knowledge. When we possess such knowledge, in the
+form of general propositions and natural laws, we can usefully apply
+the reverse process of deduction to ascertain the exact information
+required at any moment. In its ultimate foundation, then, all knowledge
+is inductive--in the sense that it is derived by a certain inductive
+reasoning from the facts of experience.
+
+It is nevertheless true,--and this is a point to which insufficient
+attention has been paid, that all reasoning is founded on the
+principles of deduction. I call in question the existence of any method
+of reasoning which can be carried on without a knowledge of deductive
+processes. I shall endeavour to show that *induction is really the
+inverse process of deduction*. There is no mode of ascertaining the
+laws which are obeyed in certain phenomena, unless we have the power
+of determining what results would follow from a given law. Just as the
+process of division necessitates a prior knowledge of multiplication,
+or the integral calculus rests upon the observation and remembrance
+of the results of the differential calculus, so induction requires a
+prior knowledge of deduction. An inverse process is the undoing of
+the direct process. A person who enters a maze must either trust to
+chance to lead him out again, or he must carefully notice the road by
+which he entered. The facts furnished to us by experience are a maze of
+particular results; we might by chance observe in them the fulfilment
+of a law, but this is scarcely possible, unless we thoroughly learn the
+effects which would attach to any particular law.
+
+Accordingly, the importance of deductive reasoning is doubly supreme.
+Even when we gain the results of induction they would be of no use
+unless we could deductively apply them. But before we can gain them
+at all we must understand deduction, since it is the inversion of
+deduction which constitutes induction. Our first task in this work,
+then, must be to trace out fully the nature of identity in all its
+forms of occurrence. Having given any series of propositions we must be
+prepared to develop deductively the whole meaning embodied in them, and
+the whole of the consequences which flow from them.
+
+
+*Symbolic Expression of Logical Inference.*
+
+In developing the results of the Principle of Inference we require to
+use an appropriate language of signs. It would indeed be quite possible
+to explain the processes of reasoning by the use of words found in the
+dictionary. Special examples of reasoning, too, may seem to be more
+readily apprehended than general symbolic forms. But it has been shown
+in the mathematical sciences that the attainment of truth depends
+greatly upon the invention of a clear, brief, and appropriate system
+of symbols. Not only is such a language convenient, but it is almost
+essential to the expression of those general truths which are the very
+soul of science. To apprehend the truth of special cases of inference
+does not constitute logic; we must apprehend them as cases of more
+general truths. The object of all science is the separation of what is
+common and general from what is accidental and different. In a system
+of logic, if anywhere, we should esteem this generality, and strive to
+exhibit clearly what is similar in very diverse cases. Hence the great
+value of *general symbols* by which we can represent the form of a
+reasoning process, disentangled from any consideration of the special
+subject to which it is applied.
+
+The signs required in logic are of a very simple kind. As sameness or
+difference must exist between two things or notions, we need signs to
+indicate the things or notions compared, and other signs to denote the
+relations between them. We need, then, (1) symbols for terms, (2) a
+symbol for sameness, (3) a symbol for difference, and (4) one or two
+symbols to take the place of conjunctions.
+
+Ordinary nouns substantive, such as *Iron*, *Metal*, *Electricity*,
+*Undulation*, might serve as terms, but, for the reasons explained
+above, it is better to adopt blank letters, devoid of special
+signification, such as A, B, C, &c. Each letter must be understood to
+represent a noun, and, so far as the conditions of the argument allow,
+*any noun*. Just as in Algebra, *x*, *y*, *z*, *p*, *q*, &c. are used
+for *any quantities*, undetermined or unknown, except when the special
+conditions of the problem are taken into account, so will our letters
+stand for undetermined or unknown things.
+
+These letter-terms will be used indifferently for nouns substantive
+and adjective. Between these two kinds of nouns there may perhaps
+be differences in a metaphysical or grammatical point of view.
+But grammatical usage sanctions the conversion of adjectives into
+substantives, and *vice versâ*; we may avail ourselves of this latitude
+without in any way prejudging the metaphysical difficulties which may
+be involved. Here, as throughout this work, I shall devote my attention
+to truths which I can exhibit in a clear and formal manner, believing
+that in the present condition of logical science, this course will lead
+to greater advantage than discussion upon the metaphysical questions
+which may underlie any part of the subject.
+
+Every noun or term denotes an object, and usually implies the
+possession by that object of certain qualities or circumstances common
+to all the objects denoted. There are certain terms, however, which
+imply the absence of qualities or circumstances attaching to other
+objects. It will be convenient to employ a special mode of indicating
+these *negative terms*, as they are called. If the general name A
+denotes an object or class of objects possessing certain defined
+qualities, then the term Not A will denote any object which does not
+possess the whole of those qualities; in short, Not A is the sign for
+anything which differs from A in regard to any one or more of the
+assigned qualities. If A denote “transparent object,” Not A will denote
+“not transparent object.” Brevity and facility of expression are of
+no slight importance in a system of notation, and it will therefore
+be desirable to substitute for the negative term Not A a briefer
+symbol. De Morgan represented negative terms by small Roman letters,
+or sometimes by small italic letters;[30] as the latter seem to be
+highly convenient, I shall use *a*, *b*, *c*, ... *p*, *q*, &c., as the
+negative terms corresponding to A, B, C, ... P, Q, &c. Thus if A means
+“fluid,” *a* will mean “not fluid.”
+
+  [30] *Formal Logic*, p. 38.
+
+
+*Expression of Identity and Difference.*
+
+To denote the relation of sameness or identity I unhesitatingly adopt
+the sign =, so long used by mathematicians to denote equality. This
+symbol was originally appropriated by Robert Recorde in his *Whetstone
+of Wit*, to avoid the tedious repetition of the words “is equal to;”
+and he chose a pair of parallel lines, because no two things can be
+more equal.[31] The meaning of the sign has however been gradually
+extended beyond that of equality of quantities; mathematicians have
+themselves used it to indicate equivalence of operations. The force
+of analogy has been so great that writers in most other branches
+of science have employed the same sign. The philologist uses it to
+indicate the equivalence of meaning of words: chemists adopt it to
+signify identity in kind and equality in weight of the elements which
+form two different compounds. Not a few logicians, for instance
+Lambert, Drobitsch, George Bentham,[32] Boole,[33] have employed it
+as the copula of propositions. De Morgan declined to use it for this
+purpose, but still further extended its meaning so as to include the
+equivalence of a proposition with the premises from which it can be
+inferred;[34] and Herbert Spencer has applied it in a like manner.[35]
+
+  [31] Hallam’s *Literature of Europe*, First Ed., vol. ii. p. 444.
+
+  [32] *Outline of a New System of Logic*, London, 1827, pp. 133, &c.
+
+  [33] *An Investigation of the Laws of Thought*, pp. 27, &c.
+
+  [34] *Formal Logic*, pp. 82, 106. In his later work, *The Syllabus of
+  a New System of Logic*, he discontinued the use of the sign.
+
+  [35] *Principles of Psychology*, Second Ed., vol. ii. pp. 54, 55.
+
+Many persons may think that the choice of a symbol is a matter of
+slight importance or of mere convenience; but I hold that the common
+use of this sign = in so many different meanings is really founded
+upon a generalisation of the widest character and of the greatest
+importance--one indeed which it is a principal purpose of this work to
+explain. The employment of the same sign in different cases would be
+unphilosophical unless there were some real analogy between its diverse
+meanings. If such analogy exists, it is not only allowable, but highly
+desirable and even imperative, to use the symbol of equivalence with a
+generality of meaning corresponding to the generality of the principles
+involved. Accordingly De Morgan’s refusal to use the symbol in logical
+propositions indicated his opinion that there was a want of analogy
+between logical propositions and mathematical equations. I use the sign
+because I hold the contrary opinion.
+
+I conceive that the sign = as commonly employed, always denotes
+some form or degree of sameness, and the particular form is usually
+indicated by the nature of the terms joined by it. Thus “6,720 pounds =
+3 tons” is evidently an equation of quantities. The formula - × - = +
+expresses the equivalence of operations. “Exogens = Dicotyledons” is a
+logical identity expressing a profound truth concerning the character
+and origin of a most important group of plants.
+
+We have great need in logic of a distinct sign for the copula, because
+the little verb *is* (or *are*), hitherto used both in logic and
+ordinary discourse, is thoroughly ambiguous. It sometimes denotes
+identity, as in “St. Paul’s is the *chef-d’œuvre* of Sir Christopher
+Wren;” but it more commonly indicates inclusion of class within class,
+or partial identity, as in “Bishops are members of the House of
+Lords.” This latter relation involves identity, but requires careful
+discrimination from simple identity, as will be shown further on.
+
+When with this sign of equality we join two nouns or logical terms, as
+in
+
+  Hydrogen = The least dense element,
+
+we signify that the object or group of objects denoted by one term is
+identical with that denoted by the other, in everything except the
+names. The general formula
+
+  A = B
+
+must be taken to mean that A and B are symbols for the same object
+or group of objects. This identity may sometimes arise from the mere
+imposition of names, but it may also arise from the deepest laws of the
+constitution of nature; as when we say
+
+  Gravitating matter = Matter possessing inertia,
+  Exogenous plants = Dicotyledonous plants,
+  Plagihedral quartz crystals = Quartz crystals causing
+    the plane of polarisation of light to rotate.
+
+We shall need carefully to distinguish between relations of terms which
+can be modified at our own will and those which are fixed as expressing
+the laws of nature; but at present we are considering only the mode of
+expression which may be the same in either case.
+
+Sometimes, but much less frequently, we require a symbol to indicate
+difference or the absence of complete sameness. For this purpose we
+may generalise in like manner the symbol ~, which was introduced by
+Wallis to signify difference between quantities. The general formula
+
+  B ~ C
+
+denotes that B and C are the names of two objects or groups which are
+not identical with each other. Thus we may say
+
+  Acrogens ~ Flowering plants.
+  Snowdon ~ The highest mountain in Great Britain.
+
+I shall also occasionally use the sign ᔕ to signify in the most general
+manner the existence of any relation between the two terms connected by
+it. Thus ᔕ might mean not only the relations of equality or inequality,
+sameness or difference, but any special relation of time, place, size,
+causation, &c. in which one thing may stand to another. By A ᔕ B I
+mean, then, any two objects of thought related to each other in any
+conceivable manner.
+
+
+*General Formula of Logical Inference.*
+
+The one supreme rule of inference consists, as I have said, in the
+direction to affirm of anything whatever is known of its like, equal
+or equivalent. The *Substitution of Similars* is a phrase which seems
+aptly to express the capacity of mutual replacement existing in any
+two objects which are like or equivalent to a sufficient degree.
+It is matter for further investigation to ascertain when and for
+what purposes a degree of similarity less than complete identity is
+sufficient to warrant substitution. For the present we think only of
+the exact sameness expressed in the form
+
+  A = B.
+
+Now if we take the letter C to denote any third conceivable object, and
+use the sign ᔕ in its stated meaning of *indefinite relation*, then the
+general formula of all inference may be thus exhibited:--
+
+  From       A = B ᔕ C
+  we may infer   A ᔕ C
+
+or, in words--*In whatever relation a thing stands to a second thing,
+in the same relation it stands to the like or equivalent of that second
+thing.* The identity between A and B allows us indifferently to place
+A where B was, or B where A was; and there is no limit to the variety
+of special meanings which we can bestow upon the signs used in this
+formula consistently with its truth. Thus if we first specify only the
+meaning of the sign ᔕ, we may say that if *C is the weight of B*, then
+*C is also the weight of A*. Similarly
+
+  If C is the father of B, C is the father of A;
+  If C is a fragment of B, C is a fragment of A;
+  If C is a quality of B, C is a quality of A;
+  If C is a species of B, C is a species of A;
+  If C is the equal of B, C is the equal of A;
+
+and so on *ad infinitum*.
+
+We may also endow with special meanings the letter-terms A, B, and C,
+and the process of inference will never be false. Thus let the sign
+ᔕ mean “is height of,” and let
+
+  A = Snowdon,
+  B = Highest mountain in England or Wales,
+  C = 3,590 feet;
+
+then it obviously follows since “3,590 feet is the height of Snowdon,”
+and “Snowdon = the highest mountain in England or Wales,” that, “3,590
+feet is the height of the highest mountain in England or Wales.”
+
+One result of this general process of inference is that we may in any
+aggregate or complex whole replace any part by its equivalent without
+altering the whole. To alter is to make a difference; but if in
+replacing a part I make no difference, there is no alteration of the
+whole. Many inferences which have been very imperfectly included in
+logical formulas at once follow. I remember the late Prof. De Morgan
+remarking that all Aristotle’s logic could not prove that “Because a
+horse is an animal, the head of a horse is the head of an animal.” I
+conceive that this amounts merely to replacing in the complete notion
+*head of a horse*, the term “horse,” by its equivalent *some animal* or
+*an animal*. Similarly, since
+
+  The Lord Chancellor = The Speaker of the House of Lords,
+
+it follows that
+
+  The death of the Lord Chancellor = The death of the Speaker of the
+  House of Lords;
+
+and any event, circumstance or thing, which stands in a certain
+relation to the one will stand in like relation to the other. Milton
+reasons in this way when he says, in his Areopagitica, “Who kills a
+man, kills a reasonable creature, God’s image.” If we may suppose him
+to mean
+
+  God’s image = man = some reasonable creature,
+
+it follows that “The killer of a man is the killer of some reasonable
+creature,” and also “The killer of God’s image.”
+
+This replacement of equivalents may be repeated over and over again to
+any extent. Thus if *person* is identical in meaning with *individual*,
+it follows that
+
+  Meeting of persons = meeting of individuals;
+
+and if *assemblage* = *meeting*, we may make a new replacement and show
+that
+
+  Meeting of persons = assemblage of individuals.
+
+We may in fact found upon this principle of substitution a most general
+axiom in the following terms[36]:--
+
+  [36] *Pure Logic, or the Logic of Quality*, p. 14.
+
+  *Same parts samely related make same wholes.*
+
+If, for instance, exactly similar bricks and other materials be used
+to build two houses, and they be similarly placed in each house, the
+two houses must be similar. There are millions of cells in a human
+body, but if each cell of one person were represented by an exactly
+similar cell similarly placed in another body, the two persons would
+be undistinguishable, and would be only *numerically* different. It
+is upon this principle, as we shall see, that all accurate processes
+of measurement depend. If for a weight in a scale of a balance we
+substitute another weight, and the equilibrium remains entirely
+unchanged, then the weights must be exactly equal. The general test of
+equality is substitution. Objects are equally bright when on replacing
+one by the other the eye perceives no difference. Objects are equal in
+dimensions when tested by the same gauge they fit in the same manner.
+Generally speaking, two objects are alike so far as when substituted
+one for another no alteration is produced, and *vice versâ* when alike
+no alteration is produced by the substitution.
+
+
+*The Propagating Power of Similarity.*
+
+The relation of similarity in all its degrees is reciprocal. So far
+as things are alike, either may be substituted for the other; and
+this may perhaps be considered the very meaning of the relation. But
+it is well worth notice that there is in similarity a peculiar power
+of extending itself among all the things which are similar. To render
+a number of things similar to each other we need only render them
+similar to one standard object. Each coin struck from a pair of dies
+not only resembles the matrix or original pattern from which the dies
+were struck, but resembles every other coin manufactured from the same
+original pattern. Among a million such coins there are not less than
+499,999,500,000 *pairs of coins* resembling each other. Similars to
+the same are similars to all. It is one great advantage of printing
+that all copies of a document struck from the same type are necessarily
+identical each with each, and whatever is true of one copy will be true
+of every copy. Similarly, if fifty rows of pipes in an organ be tuned
+in perfect unison with one row, usually the Principal, they must be
+in unison with each other. Similarity can also reproduce or propagate
+itself *ad infinitum*: for if a number of tuning-forks be adjusted in
+perfect unison with one standard fork, all instruments tuned to any one
+fork will agree with any instrument tuned to any other fork. Standard
+measures of length, capacity, weight, or any other measurable quality,
+are propagated in the same manner. So far as copies of the original
+standard, or copies of copies, or copies again of those copies, are
+accurately executed, they must all agree each with every other.
+
+It is the capability of mutual substitution which gives such great
+value to the modern methods of mechanical construction, according
+to which all the parts of a machine are exact facsimiles of a fixed
+pattern. The rifles used in the British army are constructed on the
+American interchangeable system, so that any part of any rifle can be
+substituted for the same part of another. A bullet fitting one rifle
+will fit all others of the same bore. Sir J. Whitworth has extended
+the same system to the screws and screw-bolts used in connecting
+together the parts of machines, by establishing a series of standard
+screws.
+
+
+*Anticipations of the Principle of Substitution.*
+
+In such a subject as logic it is hardly possible to put forth any
+opinions which have not been in some degree previously entertained. The
+germ at least of every doctrine will be found in earlier writers, and
+novelty must arise chiefly in the mode of harmonising and developing
+ideas. When I first employed the process and name of *substitution*
+in logic,[37] I was led to do so from analogy with the familiar
+mathematical process of substituting for a symbol its value as given in
+an equation. In writing my first logical essay I had a most imperfect
+conception of the importance and generality of the process, and I
+described, as if they were of equal importance, a number of other laws
+which now seem to be but particular cases of the one general rule of
+substitution.
+
+  [37] *Pure Logic*, pp. 18, 19.
+
+My second essay, “The Substitution of Similars,” was written shortly
+after I had become aware of the great simplification which may be
+effected by a proper application of the principle of substitution. I
+was not then acquainted with the fact that the German logician Beneke
+had employed the principle of substitution, and had used the word
+itself in forming a theory of the syllogism. My imperfect acquaintance
+with the German language had prevented me from acquiring a complete
+knowledge of Beneke’s views; but there is no doubt that Professor
+Lindsay is right in saying that he, and probably other logicians,
+were in some degree familiar with the principle.[38] Even Aristotle’s
+dictum may be regarded as an imperfect statement of the principle of
+substitution; and, as I have pointed out, we have only to modify that
+dictum in accordance with the quantification of the predicate in order
+to arrive at the complete process of substitution.[39] The Port-Royal
+logicians appear to have entertained nearly equivalent views, for
+they considered that all moods of the syllogism might be reduced
+under one general principle.[40] Of two premises they regard one as
+the *containing proposition* (propositio continens), and the other as
+the *applicative proposition*. The latter proposition must always be
+affirmative, and represents that by which a substitution is made; the
+former may or may not be negative, and is that in which a substitution
+is effected. They also show that this method will embrace certain cases
+of complex reasoning which had no place in the Aristotelian syllogism.
+Their views probably constitute the greatest improvement in logical
+doctrine made up to that time since the days of Aristotle. But a true
+reform in logic must consist, not in explaining the syllogism in one
+way or another, but in doing away with all the narrow restrictions of
+the Aristotelian system, and in showing that there exists an infinite
+variety of logical arguments immediately deducible from the principle
+of substitution of which the ancient syllogism forms but a small and
+not even the most important part.
+
+  [38] Ueberweg’s *System of Logic*, transl. by Lindsay, pp. 442–446,
+  571, 572. The anticipations of the principle of substitution to be
+  found in the works of Leibnitz, Reusch, and perhaps other German
+  logicians, will be noticed in the preface to this second edition.
+
+  [39] *Substitution of Similars* (1869), p. 9.
+
+  [40] *Port-Royal Logic*, transl. by Spencer Baynes, pp. 212–219. Part
+  III. chap. x. and xi.
+
+
+*The Logic of Relatives.*
+
+There is a difficult and important branch of logic which may be
+called the Logic of Relatives. If I argue, for instance, that because
+Daniel Bernoulli was the son of John, and John the brother of James,
+therefore Daniel was the nephew of James, it is not possible to prove
+this conclusion by any simple logical process. We require at any rate
+to assume that the son of a brother is a nephew. A simple logical
+relation is that which exists between properties and circumstances of
+the same object or class. But objects and classes of objects may also
+be related according to all the properties of time and space. I believe
+it may be shown, indeed, that where an inference concerning such
+relations is drawn, a process of substitution is really employed and an
+identity must exist; but I will not undertake to prove the assertion
+in this work. The relations of time and space are logical relations
+of a complicated character demanding much abstract and difficult
+investigation. The subject has been treated with such great ability by
+Peirce,[41] De Morgan,[42] Ellis,[43] and Harley, that I will not in
+the present work attempt any review of their writings, but merely refer
+the reader to the publications in which they are to be found.
+
+  [41] *Description of a Notation for the Logic of Relatives, resulting
+  from an Amplification of the Conceptions of Boole’s Calculus of
+  Logic.* By C. S. Peirce. *Memoirs of the American Academy*, vol. ix.
+  Cambridge, U.S., 1870.
+
+  [42] *On the Syllogism No IV., and on the Logic of Relations.* By
+  Augustus De Morgan. *Transactions of the Cambridge Philosophical
+  Society*, vol. x. part ii., 1860.
+
+  [43] *Observations on Boole’s Laws of Thought.* By the late R. Leslie
+  Ellis; communicated by the Rev. Robert Harley, F.R.S. *Report of the
+  British Association*, 1870. *Report of Sections*, p. 12. Also, *On
+  Boole’s Laws of Thought*. By the Rev. Robert Harley, F.R.S., *ibid.*
+  p. 14.
+
+
+
+

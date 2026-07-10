@@ -1,0 +1,115 @@
+BOOK II.
+
+PROPOSITIONS.
+
+
+
+CHAPTER I.
+
+_PROPOSITIONS GENERALLY._
+
+
+§ 1.
+
+_Introductory._
+
+Note that the word "some" is to be regarded, henceforward, as meaning
+"one or more."
+
+The word 'Proposition,' as used in ordinary conversation, may be applied
+to _any_ word, or phrase, which conveys any information whatever.
+
+    [Thus the words "yes" and "no" are Propositions in the ordinary
+    sense of the word; and so are the phrases "you owe me five
+    farthings" and "I don't!"
+
+    Such words as "oh!" or "never!", and such phrases as "fetch me
+    that book!" "which book do you mean?" do not seem, at first
+    sight, to convey any _information_; but they can easily be
+    turned into equivalent forms which do so, viz. "I am surprised,"
+    "I will never consent to it," "I order you to fetch me that
+    book," "I want to know which book you mean."]
+
+But a '=Proposition=,' as used in this First Part of "Symbolic Logic,"
+has a peculiar form, which may be called its '=Normal form='; and if any
+Proposition, which we wish to use in an argument, is not in normal form,
+we must reduce it to such a form, before we can use it.
+                                                                   pg009
+A '=Proposition=,' when in normal form, asserts, as to certain two
+Classes, which are called its '=Subject=' and '=Predicate=,' either
+
+    (1) that _some_ Members of its Subject are Members
+    of its Predicate;
+
+    or (2) that _no_ Members of its Subject are Members
+    of its Predicate;
+
+    or (3) that _all_ Members of its Subject are Members
+    of its Predicate.
+
+The Subject and the Predicate of a Proposition are called its '=Terms=.'
+
+Two Propositions, which convey the _same_ information, are said to be
+'=equivalent='.
+
+    [Thus, the two Propositions, "I see John" and "John is seen by
+    me," are equivalent.]
+
+
+§ 2.
+
+_Normal form of a Proposition._
+
+A Proposition, in normal form, consists of four parts, viz.--
+
+    (1) The word "some," or "no," or "all." (This word,
+    which tells us _how many_ Members of the Subject
+    are also Members of the Predicate, is called the
+    '=Sign of Quantity=.')
+
+    (2) Name of Subject.
+
+    (3) The verb "are" (or "is"). (This is called the
+    '=Copula=.')
+
+    (4) Name of Predicate.
+
+                                                                   pg010
+§ 3.
+
+_Various kinds of Propositions._
+
+A Proposition, that begins with "Some", is said to be '=Particular=.' It
+is also called 'a Proposition =in I=.'
+
+    [Note, that it is called 'Particular,' because it refers to a
+    _part_ only of the Subject.]
+
+A Proposition, that begins with "No", is said to be '=Universal
+Negative=.' It is also called 'a Proposition =in E=.'
+
+A Proposition, that begins with "All", is said to be '=Universal
+Affirmative=.' It is also called 'a Proposition =in A=.'
+
+    [Note, that they are called 'Universal', because they refer to
+    the _whole_ of the Subject.]
+
+A Proposition, whose Subject is an _Individual_, is to be regarded as
+_Universal_.
+
+    [Let us take, as an example, the Proposition "John is not well".
+    This of course implies that there is an _Individual_, to whom
+    the speaker refers when he mentions "John", and whom the
+    listener _knows_ to be referred to. Hence the Class "men
+    referred to by the speaker when he mentions 'John'" is a
+    one-Member Class, and the Proposition is equivalent to "_All_
+    the men, who are referred to by the speaker when he mentions
+    'John', are not well."]
+
+Propositions are of two kinds, 'Propositions of Existence' and
+'Propositions of Relation.'
+
+These shall be discussed separately.
+
+                                                                   pg011
+

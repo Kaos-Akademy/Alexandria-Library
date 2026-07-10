@@ -1,0 +1,130 @@
+VII
+
+PASIGRAPHY
+
+The symbolic language created by Peano plays a very grand rôle in these
+new researches. It is capable of rendering some service, but I think M.
+Couturat attaches to it an exaggerated importance which must astonish
+Peano himself.
+
+The essential element of this language is certain algebraic signs which
+represent the different conjunctions: if, and, or, therefore. That these
+signs may be convenient is possible; but that they are destined to
+revolutionize all philosophy is a different matter. It is difficult to
+admit that the word _if_ acquires, when written C, a virtue it had not
+when written if. This invention of Peano was first called _pasigraphy_,
+that is to say the art of writing a treatise on mathematics without
+using a single word of ordinary language. This name defined its range
+very exactly. Later, it was raised to a more eminent dignity by
+conferring on it the title of _logistic_. This word is, it appears,
+employed at the Military Academy, to designate the art of the
+quartermaster of cavalry, the art of marching and cantoning troops; but
+here no confusion need be feared, and it is at once seen that this new
+name implies the design of revolutionizing logic.
+
+We may see the new method at work in a mathematical memoir by
+Burali-Forti, entitled: _Una Questione sui numeri transfiniti_, inserted
+in Volume XI of the _Rendiconti del circolo matematico di Palermo_.
+
+I begin by saying this memoir is very interesting, and my taking it here
+as example is precisely because it is the most important of all those
+written in the new language. Besides, the uninitiated may read it,
+thanks to an Italian interlinear translation.
+
+What constitutes the importance of this memoir is that it has given the
+first example of those antinomies met in the study of transfinite
+numbers and making since some years the despair of mathematicians. The
+aim, says Burali-Forti, of this note is to show there may be two
+transfinite numbers (ordinals), _a_ and _b_, such that _a_ is neither
+equal to, greater than, nor less than _b_.
+
+To reassure the reader, to comprehend the considerations which follow,
+he has no need of knowing what a transfinite ordinal number is.
+
+Now, Cantor had precisely proved that between two transfinite numbers as
+between two finite, there can be no other relation than equality or
+inequality in one sense or the other. But it is not of the substance of
+this memoir that I wish to speak here; that would carry me much too far
+from my subject; I only wish to consider the form, and just to ask if
+this form makes it gain much in rigor and whether it thus compensates
+for the efforts it imposes upon the writer and the reader.
+
+First we see Burali-Forti define the number 1 as follows:
+
+  1 = [iota]T'{Ko[(n_](u, h)[epsilon](u[epsilon]Un)},
+
+a definition eminently fitted to give an idea of the number 1 to persons
+who had never heard speak of it.
+
+I understand Peanian too ill to dare risk a critique, but still I fear
+this definition contains a petitio principii, considering that I see the
+figure 1 in the first member and Un in letters in the second.
+
+However that may be, Burali-Forti starts from this definition and, after
+a short calculation, reaches the equation:
+
+  (27)  1[epsilon]No,
+
+which tells us that One is a number.
+
+And since we are on these definitions of the first numbers, we recall
+that M. Couturat has also defined 0 and 1.
+
+What is zero? It is the number of elements of the null class. And what
+is the null class? It is that containing no element.
+
+To define zero by null, and null by no, is really to abuse the wealth of
+language; so M. Couturat has introduced an improvement in his
+definition, by writing:
+
+  0 = [iota][Lambda]:[phi]x = [Lambda]·[inverted c]·[Lambda]
+                            = (x[epsilon][phi]x),
+
+which means: zero is the number of things satisfying a condition never
+satisfied.
+
+But as never means _in no case_ I do not see that the progress is great.
+
+I hasten to add that the definition M. Couturat gives of the number 1 is
+more satisfactory.
+
+One, says he in substance, is the number of elements in a class in which
+any two elements are identical.
+
+It is more satisfactory, I have said, in this sense that to define 1, he
+does not use the word one; in compensation, he uses the word two. But I
+fear, if asked what is two, M. Couturat would have to use the word one.
+
+
+
+VIII
+
+But to return to the memoir of Burali-Forti; I have said his conclusions
+are in direct opposition to those of Cantor. Now, one day M. Hadamard
+came to see me and the talk fell upon this antinomy.
+
+"Burali-Forti's reasoning," I said, "does it not seem to you
+irreproachable?" "No, and on the contrary I find nothing to object to in
+that of Cantor. Besides, Burali-Forti had no right to speak of the
+aggregate of _all_ the ordinal numbers."
+
+"Pardon, he had the right, since he could always put
+
+  [Omega] = T'(No,[epsilon]>).
+
+I should like to know who was to prevent him, and can it be said a thing
+does not exist, when we have called it [Omega]?"
+
+It was in vain, I could not convince him (which besides would have been
+sad, since he was right). Was it merely because I do not speak the
+Peanian with enough eloquence? Perhaps; but between ourselves I do not
+think so.
+
+Thus, despite all this pasigraphic apparatus, the question was not
+solved. What does that prove? In so far as it is a question only of
+proving one a number, pasigraphy suffices, but if a difficulty presents
+itself, if there is an antinomy to solve, pasigraphy becomes impotent.
+
+
+
+

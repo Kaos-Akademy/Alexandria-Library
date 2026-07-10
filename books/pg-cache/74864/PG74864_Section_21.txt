@@ -1,0 +1,993 @@
+CHAPTER XXI.
+
+THEORY OF APPROXIMATION.
+
+
+In order that we may gain a true understanding of the kind, degree, and
+value of the knowledge which we acquire by experimental investigation,
+it is requisite that we should be fully conscious of its approximate
+character. We must learn to distinguish between what we can know
+and cannot know--between the questions which admit of solution, and
+those which only seem to be solved. Many persons may be misled by the
+expression *exact science*, and may think that the knowledge acquired
+by scientific methods admits of our reaching absolutely true laws,
+exact to the last degree. There is even a prevailing impression that
+when once mathematical formulæ have been successfully applied to a
+branch of science, this portion of knowledge assumes a new nature, and
+admits of reasoning of a higher character than those sciences which are
+still unmathematical.
+
+The very satisfactory degree of accuracy attained in the science of
+astronomy gives a certain plausibility to erroneous notions of this
+kind. Some persons no doubt consider it to be *proved* that planets
+move in ellipses, in such a manner that all Kepler’s laws hold exactly
+true; but there is a double error in any such notions. In the first
+place, Kepler’s laws are *not proved*, if by proof we mean certain
+demonstration of their exact truth. In the next place, even assuming
+Kepler’s laws to be exactly true in a theoretical point of view, the
+planets never move according to those laws. Even if we could observe
+the motions of a planet, of a perfect globular form, free from all
+perturbing or retarding forces, we could never prove that it moved
+in a perfect ellipse. To prove the elliptical form we should have to
+measure infinitely small angles, and infinitely small fractions of a
+second; we should have to perform impossibilities. All we can do is to
+show that the motion of an unperturbed planet approaches *very nearly*
+to the form of an ellipse, and more nearly the more accurately our
+observations are made. But if we go on to assert that the path *is* an
+ellipse we pass beyond our data, and make an assumption which cannot be
+verified by observation.
+
+But, secondly, as a matter of fact no planet does move in a perfect
+ellipse, or manifest the truth of Kepler’s laws exactly. The law of
+gravity prevents its own results from being clearly exhibited, because
+the mutual perturbations of the planets distort the elliptical paths.
+Those laws, again, hold exactly true only of infinitely small bodies,
+and when two great globes, like the sun and Jupiter, attract each
+other, the law must be modified. The periodic time is then shortened
+in the ratio of the square root of the number expressing the sun’s
+mass, to that of the sum of the numbers expressing the masses of the
+sun and planet, as was shown by Newton.[374] Even at the present day
+discrepancies exist between the observed dimensions of the planetary
+orbits and their theoretical magnitudes, after making allowance for
+all disturbing causes.[375] Nothing is more certain in scientific
+method than that approximate coincidence alone can be expected. In
+the measurement of continuous quantity perfect correspondence must
+be accidental, and should give rise to suspicion rather than to
+satisfaction.
+
+  [374] *Principia*, bk. iii. Prop. 15.
+
+  [375] Lockyer’s *Lessons in Elementary Astronomy*, p. 301.
+
+One remarkable result of the approximate character of our observations
+is that we could never prove the existence of perfectly circular or
+parabolic movement, even if it existed. The circle is a singular case
+of the ellipse, for which the eccentricity is zero; it is infinitely
+improbable that any planet, even if undisturbed by other bodies, would
+have a circle for its orbit; but if the orbit were a circle we could
+never prove the entire absence of eccentricity. All that we could
+do would be to declare the divergence from the circular form to be
+inappreciable. Delambre was unable to detect the slightest ellipticity
+in the orbit of Jupiter’s first satellite, but he could only infer
+that the orbit was *nearly* circular. The parabola is the singular
+limit between the ellipse and the hyperbola. As there are elliptic and
+hyperbolic comets, so we might conceive the existence of a parabolic
+comet. Indeed if an undisturbed comet fell towards the sun from an
+infinite distance it would move in a parabola; but we could never prove
+that it so moved.
+
+
+*Substitution of Simple Hypotheses.*
+
+In truth men never can solve problems fulfilling the complex
+circumstances of nature. All laws and explanations are in a certain
+sense hypothetical, and apply exactly to nothing which we can know
+to exist. In place of the actual objects which we see and feel, the
+mathematician substitutes imaginary objects, only partially resembling
+those represented, but so devised that the discrepancies are not of
+an amount to alter seriously the character of the solution. When we
+probe the matter to the bottom physical astronomy is as hypothetical as
+Euclid’s elements. There may exist in nature perfect straight lines,
+triangles, circles, and other regular geometrical figures; to our
+science it is a matter of indifference whether they do or do not exist,
+because in any case they must be beyond our powers of perception. If
+we submitted a perfect circle to the most rigorous scrutiny, it is
+impossible that we should discover whether it were perfect or not.
+Nevertheless in geometry we argue concerning perfect curves, and
+rectilinear figures, and the conclusions apply to existing objects so
+far as we can assure ourselves that they agree with the hypothetical
+conditions of our reasoning. This is in reality all that we can do in
+the most perfect of the sciences.
+
+Doubtless in astronomy we meet with the nearest approximation to
+actual conditions. The law of gravity is not a complex one in itself,
+and we believe it with much probability to be exactly true; but we
+cannot calculate out in any real case its accurate results. The law
+asserts that every particle of matter in the universe attracts every
+other particle, with a force depending on the masses of the particles
+and their distances. We cannot know the force acting on any particle
+unless we know the masses and distances and positions of all other
+particles in the universe. The physical astronomer has made a sweeping
+assumption, namely, that all the millions of existing systems exert no
+perturbing effects on our planetary system, that is to say, no effects
+in the least appreciable. The problem at once becomes hypothetical,
+because there is little doubt that gravitation between our sun and
+planets and other systems does exist. Even when they consider the
+relations of our planetary bodies *inter se*, all their processes are
+only approximate. In the first place they assume that each of the
+planets is a perfect ellipsoid, with a smooth surface and a homogeneous
+interior. That this assumption is untrue every mountain and valley,
+every sea, every mine affords conclusive evidence. If astronomers are
+to make their calculations perfect, they must not only take account
+of the Himalayas and the Andes, but must calculate separately the
+attraction of every hill, nay, of every ant-hill. So far are they
+from having considered any local inequality of the surface, that they
+have not yet decided upon the general form of the earth; it is still
+a matter of speculation whether or not the earth is an ellipsoid with
+three unequal axes. If, as is probable, the globe is irregularly
+compressed in some directions, the calculations of astronomers will
+have to be repeated and refined, in order that they may approximate
+to the attractive power of such a body. If we cannot accurately learn
+the form of our own earth, how can we expect to ascertain that of
+the moon, the sun, and other planets, in some of which probably are
+irregularities of greater proportional amount?
+
+In a further way the science of physical astronomy is merely
+approximate and hypothetical. Given homogeneous ellipsoids acting upon
+each other according to the law of gravity, the best mathematicians
+have never and perhaps never will determine exactly the resulting
+movements. Even when three bodies simultaneously attract each other the
+complication of effects is so great that only approximate calculations
+can be made. Astronomers have not even attempted the general problem
+of the simultaneous attractions of four, five, six, or more bodies;
+they resolve the general problem into so many different problems of
+three bodies. The principle upon which the calculations of physical
+astronomy proceed, is to neglect every quantity which does not seem
+likely to lead to an effect appreciable in observation, and the
+quantities rejected are far more numerous and complex than the few
+larger terms which are retained. All then is merely approximate.
+
+Concerning other branches of physical science the same statements are
+even more evidently true. We speak and calculate about inflexible
+bars, inextensible lines, heavy points, homogeneous substances,
+uniform spheres, perfect fluids and gases, and we deduce a great
+number of beautiful theorems; but all is hypothetical. There is no
+such thing as an inflexible bar, an inextensible line, nor any one
+of the other perfect objects of mechanical science; they are to be
+classed with those mythical existences, the straight line, triangle,
+circle, &c., about which Euclid so freely reasoned. Take the simplest
+operation considered in statics--the use of a crowbar in raising a
+heavy stone, and we shall find, as Thomson and Tait have pointed
+out, that we neglect far more than we observe.[376] If we suppose
+the bar to be quite rigid, the fulcrum and stone perfectly hard, and
+the points of contact real points, we may give the true relation of
+the forces. But in reality the bar must bend, and the extension and
+compression of different parts involve us in difficulties. Even if
+the bar be homogeneous in all its parts, there is no mathematical
+theory capable of determining with accuracy all that goes on; if, as
+is infinitely more probable, the bar is not homogeneous, the complete
+solution will be immensely more complicated, but hardly more hopeless.
+No sooner had we determined the change of form according to simple
+mechanical principles, than we should discover the interference of
+thermodynamic principles. Compression produces heat and extension
+cold, and thus the conditions of the problem are modified throughout.
+In attempting a fourth approximation we should have to allow for the
+conduction of heat from one part of the bar to another. All these
+effects are utterly inappreciable in a practical point of view, if
+the bar be a good stout one; but in a theoretical point of view they
+entirely prevent our saying that we have solved a natural problem. The
+faculties of the human mind, even when aided by the wonderful powers
+of abbreviation conferred by analytical methods, are utterly unable to
+cope with the complications of any real problem. And had we exhausted
+all the known phenomena of a mechanical problem, how can we tell that
+hidden phenomena, as yet undetected, do not intervene in the commonest
+actions? It is plain that no phenomenon comes within the sphere of
+our senses unless it possesses a momentum capable of irritating the
+appropriate nerves. There may then be worlds of phenomena too slight to
+rise within the scope of our consciousness.
+
+  [376] *Treatise on Natural Philosophy*, vol. i. pp. 337, &c.
+
+All the instruments with which we perform our measurements are faulty.
+We assume that a plumb-line gives a vertical line; but this is never
+true in an absolute sense, owing to the attraction of mountains
+and other inequalities in the surface of the earth. In an accurate
+trigonometrical survey, the divergencies of the plumb-line must be
+approximately determined and allowed for. We assume a surface of
+mercury to be a perfect plane, but even in the breadth of 5 inches
+there is a calculable divergence from a true plane of about one
+ten-millionth part of an inch; and this surface further diverges from
+true horizontality as the plumb-line does from true verticality.
+That most perfect instrument, the pendulum, is not theoretically
+perfect, except for infinitely small arcs of vibration, and the
+delicate experiments performed with the torsion balance proceed on the
+assumption that the force of torsion of a wire is proportional to the
+angle of torsion, which again is only true for infinitely small angles.
+
+Such is the purely approximate character of all our operations that it
+is not uncommon to find the theoretically worse method giving truer
+results than the theoretically perfect method. The common pendulum
+which is not isochronous is better for practical purposes than the
+cycloidal pendulum, which is isochronous in theory but subject to
+mechanical difficulties. The spherical form is not the correct form for
+a speculum or lense, but it differs so slightly from the true form, and
+is so much more easily produced mechanically, that it is generally
+best to rest content with the spherical surface. Even in a six-feet
+mirror the difference between the parabola and the sphere is only about
+one ten-thousandth part of an inch, a thickness which would be taken
+off in a few rubs of the polisher. Watts’ ingenious parallel motion was
+intended to produce rectilinear movement of the piston-rod. In reality
+the motion was always curvilinear, but for his purposes a certain part
+of the curve approximated sufficiently to a straight line.
+
+
+*Approximation to Exact Laws.*
+
+Though we can not prove numerical laws with perfect accuracy, it would
+be a great mistake to suppose that there is any inexactness in the laws
+of nature. We may even discover a law which we believe to represent
+the action of forces with perfect exactness. The mind may seem to pass
+in advance of its data, and choose out certain numerical results as
+absolutely true. We can never really pass beyond our data, and so far
+as assumption enters in, so far want of certainty will attach to our
+conclusions; nevertheless we may sometimes rightly prefer a probable
+assumption of a precise law to numerical results, which are at the best
+only approximate. We must accordingly draw a strong distinction between
+the laws of nature which we believe to be accurately stated in our
+formulas, and those to which our statements only make an approximation,
+so that at a future time the law will be differently stated.
+
+The law of gravitation is expressed in the form F = Mm/D^{2},
+meaning that gravity is proportional directly to the product of
+the gravitating masses, and indirectly to the square of their
+distance. The latent heat of steam is expressed by the equation
+log F = *a* + *b*α^{t} + *c*β^{t}, in which are five quantities *a*,
+*b*, *c*, α, β, to be determined by experiment. There is every reason
+to believe that in the progress of science the law of gravity will
+remain entirely unaltered, and the only effect of further inquiry will
+be to render it a more and more probable expression of the absolute
+truth. The law of the latent heat of steam on the other hand, will be
+modified by every new series of experiments, and it may not improbably
+be shown that the assumed law can never be made to agree exactly with
+the results of experiment.
+
+Philosophers have not always supposed that the law of gravity was
+exactly true. Newton, though he had the highest confidence in its
+truth, admitted that there were motions in the planetary system which
+he could not reconcile with the law. Euler and Clairaut who were, with
+D’Alembert, the first to apply the full powers of mathematical analysis
+to the theory of gravitation as explaining the perturbations of the
+planets, did not think the law sufficiently established to attribute
+all discrepancies to the errors of calculation and observation. They
+did not feel certain that the force of gravity exactly obeyed the
+well-known rule. The law might involve other powers of the distance. It
+might be expressed in the form
+
+  F = ... + *a*/D + *b*/D^{2} + *c*/D^{3} + ...
+
+and the coefficients *a* and *c* might be so small that those terms
+would become apparent only in very accurate comparisons with fact.
+Attempts have been made to account for difficulties, by attributing
+value to such neglected terms. Gauss at one time thought the even more
+fundamental principle of gravity, that the force is dependent only on
+mass and distance, might not be exactly true, and he undertook accurate
+pendulum experiments to test this opinion. Only as repeated doubts have
+time after time been resolved in favour of the law of Newton, has it
+been assumed as precisely correct. But this belief does not rest on
+experiment or observation only. The calculations of physical astronomy,
+however accurate, could never show that the other terms of the above
+expression were absolutely devoid of value. It could only be shown that
+they had such slight value as never to become apparent.
+
+There are, however, other reasons why the law is probably complete
+and true as commonly stated. Whatever influence spreads from a point,
+and expands uniformly through space, will doubtless vary inversely
+in intensity as the square of the distance, because the area over
+which it is spread increases as the square of the radius. This part
+of the law of gravity may be considered as due to the properties of
+space, and there is a perfect analogy in this respect between gravity
+and all other *emanating* forces, as was pointed out by Keill.[377]
+Thus the undulations of light, heat, and sound, and the attractions
+of electricity and magnetism obey the very same law so far as we
+can ascertain. If the molecules of a gas or the particles of matter
+constituting odour were to start from a point and spread uniformly,
+their distances would increase and their density decrease according to
+the same principle.
+
+  [377] *An Introduction to Natural Philosophy*, 3rd edit. 1733, p. 5.
+
+Other laws of nature stand in a similar position. Dalton’s laws of
+definite combining proportions never have been, and never can be,
+exactly proved; but chemists having shown, to a considerable degree of
+approximation, that the elements combine together as if each element
+had atoms of an invariable mass, assume that this is exactly true. They
+go even further. Prout pointed out in 1815 that the equivalent weights
+of the elements appeared to be simple numbers; and the researches of
+Dumas, Pelouze, Marignac, Erdmann, Stas, and others have gradually
+rendered it likely that the atomic weights of hydrogen, carbon, oxygen,
+nitrogen, chlorine, and silver, are in the ratios of the numbers 1,
+12, 16, 14, 35·5, and 108. Chemists then step beyond their data; they
+throw aside their actual experimental numbers, and assume that the true
+ratios are not those exactly indicated by any weighings, but the simple
+ratios of these numbers. They boldly assume that the discrepancies are
+due to experimental errors, and they are justified by the fact that
+the more elaborate and skilful the researches on the subject, the more
+nearly their assumption is verified. Potassium is the only element
+whose atomic weight has been determined with great care, but which has
+not shown an approach to a simple ratio with the other elements. This
+exception may be due to some unsuspected cause of error.[378] A similar
+assumption is made in the law of definite combining volumes of gases,
+and Brodie has clearly pointed out the line of argument by which the
+chemist, observing that the discrepancies between the law and fact are
+within the limits of experimental error, assumes that they are due to
+error.[379]
+
+  [378] Watts, *Dictionary of Chemistry*, vol. i. p. 455.
+
+  [379] *Philosophical Transactions*, (1866) vol. clvi. p. 809.
+
+Faraday, in one of his researches, expressly makes an assumption
+of the same kind. Having shown, with some degree of experimental
+precision, that there exists a simple proportion between quantities of
+electrical energy and the quantities of chemical substances which it
+can decompose, so that for every atom dissolved in the battery cell an
+atom ought theoretically, that is without regard to dissipation of some
+of the energy, to be decomposed in the electrolytic cell, he does not
+stop at his numerical results. “I have not hesitated,” he says,[380]
+“to apply the more strict results of chemical analysis to correct the
+numbers obtained as electrolytic results. This, it is evident, may be
+done in a great number of cases, without using too much liberty towards
+the due severity of scientific research.”
+
+  [380] *Experimental Researches in Electricity*, vol. i. p. 246.
+
+The law of the conservation of energy, one of the widest of all
+physical generalisations, rests upon the same footing. The most that
+we can do by experiment is to show that the energy entering into any
+experimental combination is almost equal to what comes out of it,
+and more nearly so the more accurately we perform the measurements.
+Absolute equality is always a matter of assumption. We cannot even
+prove the indestructibility of matter; for were an exceedingly minute
+fraction of existing matter to vanish in any experiment, say one part
+in ten millions, we could never detect the loss.
+
+
+*Successive Approximations to Natural Conditions.*
+
+When we examine the history of scientific problems, we find that one
+man or one generation is usually able to make but a single step at
+a time. A problem is solved for the first time by making some bold
+hypothetical simplification, upon which the next investigator makes
+hypothetical modifications approaching more nearly to the truth. Errors
+are successively pointed out in previous solutions, until at last there
+might seem little more to be desired. Careful examination, however,
+will show that a series of minor inaccuracies remain to be corrected
+and explained, were our powers of reasoning sufficiently great, and the
+purpose adequate in importance.
+
+Newton’s successful solution of the problem of the planetary movements
+entirely depended at first upon a great simplification. The law of
+gravity only applies directly to two infinitely small particles, so
+that when we deal with vast globes like the earth, Jupiter, and the
+sun, we have an immense aggregate of separate attractions to deal with,
+and the law of the aggregate need not coincide with the law of the
+elementary particles. But Newton, by a great effort of mathematical
+reasoning, was able to show that two homogeneous spheres of matter act
+as if the whole of their masses were concentrated at the centres; in
+short, that such spheres are centrobaric bodies (p. 364). He was then
+able with comparative ease to calculate the motions of the planets on
+the hypothesis of their being spheres, and to show that the results
+roughly agreed with observation. Newton, indeed, was one of the few men
+who could make two great steps at once. He did not rest contented with
+the spherical hypothesis; having reason to believe that the earth was
+really a spheroid with a protuberance around the equator, he proceeded
+to a second approximation, and proved that the attraction of the
+protuberant matter upon the moon accounted for the precession of the
+equinoxes, and led to various complicated effects. But, (p. 459), even
+the spheroidal hypothesis is far from the truth. It takes no account
+of the irregularities of surface, the great protuberance of land in
+Central Asia and South America, and the deficiency in the bed of the
+Atlantic.
+
+To determine the law according to which a projectile, such as a cannon
+ball, moves through the atmosphere is a problem very imperfectly
+solved at the present day, but in which many successive advances have
+been made. So little was known concerning the subject three or four
+centuries ago that a cannon ball was supposed to move at first in a
+straight line, and after a time to be deflected into a curve. Tartaglia
+ventured to maintain that the path was curved throughout, as by the
+principle of continuity it should be; but the ingenuity of Galileo
+was required to prove this opinion, and to show that the curve was
+approximately a parabola. It is only, however, under forced hypotheses
+that we can assert the path of a projectile to be truly a parabola: the
+path must be through a perfect vacuum, where there is no resisting
+medium of any kind; the force of gravity must be uniform and act in
+parallel lines; or else the moving body must be either a mere point, or
+a perfect centrobaric body, that is a body possessing a definite centre
+of gravity. These conditions cannot be really fulfilled in practice.
+The next great step in the problem was made by Newton and Huyghens, the
+latter of whom asserted that the atmosphere would offer a resistance
+proportional to the velocity of the moving body, and concluded that
+the path would have in consequence a logarithmic character. Newton
+investigated in a general manner the subject of resisting media, and
+came to the conclusion that the resistance is more nearly proportional
+to the square of the velocity. The subject then fell into the hands
+of Daniel Bernoulli, who pointed out the enormous resistance of the
+air in cases of rapid movement, and calculated that a cannon ball, if
+fired vertically in a vacuum, would rise eight times as high as in the
+atmosphere. In recent times an immense amount both of theoretical and
+experimental investigation has been spent upon the subject, since it is
+one of importance in the art of war. Successive approximations to the
+true law have been made, but nothing like a complete and final solution
+has been achieved or even hoped for.[381]
+
+  [381] Hutton’s *Mathematical Dictionary*, vol. ii. pp. 287–292.
+
+It is quite to be expected that the earliest experimenters in any
+branch of science will overlook errors which afterwards become most
+apparent. The Arabian astronomers determined the meridian by taking the
+middle point between the places of the sun when at equal altitudes on
+the same day. They overlooked the fact that the sun has its own motion
+in the time between the observations. Newton thought that the mutual
+disturbances of the planets might be disregarded, excepting perhaps the
+effect of the mutual attraction of the greater planets, Jupiter and
+Saturn, near their conjunction.[382] The expansion of quicksilver was
+long used as the measure of temperature, no clear idea being possessed
+of temperature apart from some of its more obvious effects. Rumford,
+in the first experiment leading to a determination of the mechanical
+equivalent of heat, disregarded the heat absorbed by the apparatus,
+otherwise he would, in Dr. Joule’s opinion, have come nearly to the
+correct result.
+
+  [382] *Principia*, bk. iii. Prop. 13.
+
+It is surprising to learn the number of causes of error which enter
+into the simplest experiment, when we strive to attain rigid accuracy.
+We cannot accurately perform the simple experiment of compressing gas
+in a bent tube by a column of mercury, in order to test the truth
+of Boyle’s Law, without paying regard to--(1) the variations of
+atmospheric pressure, which are communicated to the gas through the
+mercury; (2) the compressibility of mercury, which causes the column
+of mercury to vary in density; (3) the temperature of the mercury
+throughout the column; (4) the temperature of the gas, which is with
+difficulty maintained invariable; (5) the expansion of the glass tube
+containing the gas. Although Regnault took all these circumstances
+into account in his examination of the law,[383] there is no reason to
+suppose that he exhausted the sources of inaccuracy.
+
+  [383] Jamin, *Cours de Physique*, vol. i. pp. 282, 283.
+
+The early investigations concerning the nature of waves in elastic
+media proceeded upon the assumption that waves of different lengths
+would travel with equal speed. Newton’s theory of sound led him to
+this conclusion, and observation (p. 295) had verified the inference.
+When the undulatory theory came to be applied at the commencement of
+this century to explain the phenomena of light, a great difficulty was
+encountered. The angle at which a ray of light is refracted in entering
+a denser medium depends, according to that theory, on the velocity
+with which the wave travels, so that if all waves of light were to
+travel with equal velocity in the same medium, the dispersion of mixed
+light by the prism and the production of the spectrum could not take
+place. Some most striking phenomena were thus in direct conflict with
+the theory. Cauchy first pointed out the explanation, namely, that all
+previous investigators had made an arbitrary assumption for the sake
+of simplifying the calculations. They had assumed that the particles
+of the vibrating medium are so close together that the intervals are
+inconsiderable compared with the length of the wave. This hypothesis
+happened to be approximately true in the case of air, so that no error
+was discovered in experiments on sound. Had it not been so, the earlier
+analysts would probably have failed to give any solution, and the
+progress of the subject might have been retarded. Cauchy was able to
+make a new approximation under the more difficult supposition, that
+the particles of the vibrating medium are situated at considerable
+distances, and act and react upon the neighbouring particles by
+attractive and repulsive forces. To calculate the rate of propagation
+of disturbance in such a medium is a work of excessive difficulty. The
+complete solution of the problem appears indeed to be beyond human
+power, so that we must be content, as in the case of the planetary
+motions, to look forward to successive approximations. All that Cauchy
+could do was to show that certain quantities, neglected in previous
+theories, became of considerable amount under the new conditions of
+the problem, so that there will exist a relation between the length
+of the wave, and the velocity at which it travels. To remove, then,
+the difficulties in the way of the undulatory theory of light, a new
+approach to probable conditions was needed.[384]
+
+  [384] Lloyd’s *Lectures on the Wave Theory*, pp. 22, 23.
+
+In a similar manner Fourier’s theory of the conduction and radiation
+of heat was based upon the hypothesis that the quantity of heat
+passing along any line is simply proportional to the rate of change
+of temperature. But it has since been shown by Forbes that the
+conductivity of a body diminishes as its temperature increases. All
+the details of Fourier’s solution therefore require modification, and
+the results are in the meantime to be regarded as only approximately
+true.[385]
+
+  [385] Tait’s *Thermodynamics*, p. 10.
+
+We ought to distinguish between those problems which are physically and
+those which are merely mathematically incomplete. In the latter case
+the physical law is correctly seized, but the mathematician neglects,
+or is more often unable to follow out the law in all its results.
+The law of gravitation and the principles of harmonic or undulatory
+movement, even supposing the data to be correct, can never be followed
+into all their ultimate results. Young explained the production of
+Newton’s rings by supposing that the rays reflected from the upper and
+lower surfaces of a thin film of a certain thickness were in opposite
+phases, and thus neutralised each other. It was pointed out, however,
+that as the light reflected from the nearer surface must be undoubtedly
+a little brighter than that from the further surface, the two rays
+ought not to neutralise each other so completely as they are observed
+to do. It was finally shown by Poisson that the discrepancy arose only
+from incomplete solution of the problem; for the light which has once
+got into the film must be to a certain extent reflected backwards and
+forwards *ad infinitum*; and if we follow out this course of the light
+by perfect mathematical analysis, absolute darkness may be shown to
+result from the interference of the rays.[386] In this case the natural
+laws concerned, those of reflection and refraction, are accurately
+known, and the only difficulty consists in developing their full
+consequences.
+
+  [386] Lloyd’s *Lectures on the Wave Theory*, pp. 82, 83.
+
+
+*Discovery of Hypothetically Simple Laws.*
+
+In some branches of science we meet with natural laws of a simple
+character which are in a certain point of view exactly true and yet can
+never be manifested as exactly true in natural phenomena. Such, for
+instance, are the laws concerning what is called a *perfect gas*. The
+gaseous state of matter is that in which the properties of matter are
+exhibited in the simplest manner. There is much advantage accordingly
+in approaching the question of molecular mechanics from this side.
+But when we ask the question--What is a gas? the answer must be a
+hypothetical one. Finding that gases *nearly* obey the law of Boyle
+and Mariotte; that they *nearly* expand by heat at the uniform rate of
+one part in 272·9 of their volume at 0° for each degree centigrade;
+and that they *more nearly* fulfil these conditions the more distant
+the point of temperature at which we examine them from the liquefying
+point, we pass by the principle of continuity to the conception of a
+perfect gas. Such a gas would probably consist of atoms of matter at
+so great a distance from each other as to exert no attractive forces
+upon each other; but for this condition to be fulfilled the distances
+must be infinite, so that an absolutely perfect gas cannot exist. But
+the perfect gas is not merely a limit to which we may approach, it is a
+limit passed by at least one real gas. It has been shown by Despretz,
+Pouillet, Dulong, Arago, and finally Regnault, that all gases diverge
+from the Boylean law, and in nearly all cases the density of the gas
+increases in a somewhat greater ratio than the pressure, indicating
+a tendency on the part of the molecules to approximate of their own
+accord. In the more condensable gases such as sulphurous acid, ammonia,
+and cyanogen, this tendency is strongly apparent near the liquefying
+point. Hydrogen, on the contrary, diverges from the law of a perfect
+gas in the opposite direction, that is, the density increases less than
+in the ratio of the pressure.[387] This is a singular exception, the
+bearing of which I am unable to comprehend.
+
+  [387] Jamin, *Cours de Physique*, vol. i. pp. 283–288.
+
+All gases diverge again from the law of uniform expansion by heat, but
+the divergence is less as the gas in question is less condensable, or
+examined at a temperature more removed from its liquefying point. Thus
+the perfect gas must have an infinitely high temperature. According
+to Dalton’s law each gas in a mixture retains its own properties
+unaffected by the presence of any other gas.[388] This law is probably
+true only by approximation, but it is obvious that it would be true of
+the perfect gas with infinitely distant particles.[389]
+
+  [388] Joule and Thomson, *Philosophical Transactions*, 1854,
+  vol. cxliv. p. 337.
+
+  [389] The properties of a perfect gas have been described by Rankine,
+  *Transactions of the Royal Society of Edinburgh*, vol. xxv. p. 561.
+
+
+*Mathematical Principles of Approximation.*
+
+The approximate character of physical science will be rendered more
+plain if we consider it from a mathematical point of view. Throughout
+quantitative investigations we deal with the relation of one quantity
+to other quantities, of which it is a function; but the subject is
+sufficiently complicated if we view one quantity as a function of
+one other. Now, as a general rule, a function can be developed or
+expressed as the sum of quantities, the values of which depend upon the
+successive powers of the variable quantity. If *y* be a function of *x*
+then we may say that
+
+  *y* = A + B*x* + C*x*^{2} + D*x*^{3} + E*x*^{4} ....
+
+In this equation, A, B, C, D, &c., are fixed quantities, of different
+values in different cases. The terms may be infinite in number or
+after a time may cease to have any value. Any of the coefficients A,
+B, C, &c., may be zero or negative; but whatever they be they are
+fixed. The quantity *x* on the other hand may be made what we like,
+being variable. Suppose, in the first place, that *x* and *y* are both
+lengths. Let us assume that 1/10,000 part of an inch is the least that
+we can take note of. Then when *x* is one hundredth of an inch, we have
+*x*^{2} = 1/10,000, and if C be less than unity, the term C*x*^{2} will
+be inappreciable, being less than we can measure. Unless any of the
+quantities D, E, &c., should happen to be very great, it is evident
+that all the succeeding terms will also be inappreciable, because the
+powers of *x* become rapidly smaller in geometrical ratio. Thus when
+*x* is made small enough the quantity *y* seems to obey the equation
+
+  *y* = A + B*x*.
+
+If *x* should be still less, if it should become as small, for
+instance, as 1/1,000,000 of an inch, and B should not be very great,
+then *y* would appear to be the fixed quantity A, and would not seem to
+vary with *x* at all. On the other hand, were x to grow greater, say
+equal to 1/10 inch, and C not be very small, the term C*x*^{2} would
+become appreciable, and the law would now be more complicated.
+
+We can invert the mode of viewing this question, and suppose that
+while the quantity *y* undergoes variations depending on many powers
+of *x*, our power of detecting the changes of value is more or less
+acute. While our powers of observation remain very rude we may be
+unable to detect any change in the quantity at all, that is to say,
+B*x* may always be too small to come within our notice, just as in
+former days the fixed stars were so called because they remained at
+apparently fixed distances from each other. With the use of telescopes
+and micrometers we become able to detect the existence of some motion,
+so that the distance of one star from another may be expressed by
+A + B*x*, the term including *x*^{2} being still inappreciable. Under
+these circumstances the star will seem to move uniformly, or in simple
+proportion to the time *x*. With much improved means of measurement it
+will probably be found that this uniformity of motion is only apparent,
+and that there exists some acceleration or retardation. More careful
+investigation will show the law to be more and more complicated than
+was previously supposed.
+
+There is yet another way of explaining the apparent results of a
+complicated law. If we take any curve and regard a portion of it free
+from any kind of discontinuity, we may represent the character of such
+portion by an equation of the form
+
+  *y* = A + B*x* + C*x*^{2} + D*x*^{3} + ....
+
+Restrict the attention to a very small portion of the curve, and the
+eye will be unable to distinguish its difference from a straight
+line, which amounts to saying that in the portion examined the term
+C*x*^{2} has no value appreciable by the eye. Take a larger portion of
+the curve and it will be apparent that it possesses curvature, but it
+will be possible to draw a parabola or ellipse so that the curve shall
+apparently coincide with a portion of that parabola or ellipse. In the
+same way if we take larger and larger arcs of the curve it will assume
+the character successively of a curve of the third, fourth, and perhaps
+higher degrees; that is to say, it corresponds to equations involving
+the third, fourth, and higher powers of the variable quantity.
+
+We have arrived then at the conclusion that every phenomenon, when its
+amount can only be rudely measured, will either be of fixed amount,
+or will seem to vary uniformly like the distance between two inclined
+straight lines. More exact measurement may show the error of this first
+assumption, and the variation will then appear to be like that of the
+distance between a straight line and a parabola or ellipse. We may
+afterwards find that a curve of the third or higher degrees is really
+required to represent the variation. I propose to call the variation
+of a quantity *linear*, *elliptic*, *cubic*, *quartic*, *quintic*, &c.,
+according as it is discovered to involve the first, second, third,
+fourth, fifth, or higher powers of the variable. It is a general
+rule in quantitative investigation that we commence by discovering
+linear, and afterwards proceed to elliptic or more complicated laws of
+variation. The approximate curves which we employ are all, according
+to De Morgan’s use of the name, parabolas of some order or other; and
+since the common parabola of the second order is approximately the same
+as a very elongated ellipse, and is in fact an infinitely elongated
+ellipse, it is convenient and proper to call variation of the second
+order *elliptic*. It might also be called *quadric* variation.
+
+As regards many important phenomena we are yet only in the first stage
+of approximation. We know that the sun and many so-called fixed stars,
+especially 61 Cygni, have a proper motion through space, and the
+direction of this motion at the present time is known with some degree
+of accuracy. But it is hardly consistent with the theory of gravity
+that the path of any body should really be a straight line. Hence, we
+must regard a rectilinear path as only a provisional description of
+the motion, and look forward to the time when its curvature will be
+detected, though centuries perhaps must first elapse.
+
+We are accustomed to assume that on the surface of the earth the force
+of gravity is uniform, because the variation is of so slight an amount
+that we are scarcely able to detect it. But supposing we could measure
+the variation, we should find it simply proportional to the height.
+Taking the earth’s radius to be unity, let *h* be the height at which
+we measure the force of gravity. Then by the well-known law of the
+inverse square, that force will be proportional to
+
+  *g*/(1 + *h*)^{2}, or to *g*(1 - 2*h* + 3*h*^{2} - 4*h*^{3} + ...).
+
+But at all heights to which we can attain *h* will be so small a
+fraction of the earth’s radius that 3*h*^{2} will be inappreciable, and
+the force of gravity will seem to follow the law of linear variation,
+being proportional to 1 - 2*h*.
+
+When the circumstances of an experiment are much altered, different
+powers of the variable may become prominent. The resistance of a liquid
+to a body moving through it may be approximately expressed as the sum
+of two terms respectively involving the first and second powers of the
+velocity. At very low velocities the first power is of most importance,
+and the resistance, as Professor Stokes has shown, is nearly in simple
+proportion to the velocity. When the motion is rapid the resistance
+increases in a still greater degree, and is more nearly proportional to
+the square of the velocity.
+
+
+*Approximate Independence of Small Effects.*
+
+One result of the theory of approximation possesses such importance
+in physical science, and is so often applied, that we may consider
+it separately. The investigation of causes and effects is immensely
+simplified when we may consider each cause as producing its own effect
+invariably, whether other causes are acting or not. Thus, if the
+body P produces *x*, and Q produces *y*, the question is whether P
+and Q acting together will produce the sum of the separate effects,
+*x* + *y*. It is under this supposition that we treated the methods of
+eliminating error (Chap. XV.), and errors of a less amount would still
+remain if the supposition was a forced one. There are probably some
+parts of science in which the supposition of independence of effects
+holds rigidly true. The mutual gravity of two bodies is entirely
+unaffected by the presence of other gravitating bodies. People do not
+usually consider that this important principle is involved in such a
+simple thing as putting two pound weights in the scale of a balance.
+How do we know that two pounds together will weigh twice as much as
+one? Do we know it to be exactly so? Like other results founded on
+induction we cannot prove it absolutely, but all the calculations of
+physical astronomy proceed upon the assumption, so that we may consider
+it proved to a very high degree of approximation. Had not this been
+true, the calculations of physical astronomy would have been infinitely
+more complex than they actually are, and the progress of knowledge
+would have been much slower.
+
+It is a general principle of scientific method that if effects be of
+small amount, comparatively to our means of observation, all joint
+effects will be of a higher order of smallness, and may therefore
+be rejected in a first approximation. This principle was employed
+by Daniel Bernoulli in the theory of sound, under the title of *The
+Principle of the Coexistence of Small Vibrations*. He showed that if
+a string is affected by two kinds of vibrations, we may consider each
+to be going on as if the other did not exist. We cannot perceive that
+the sounding of one musical instrument prevents or even modifies the
+sound of another, so that all sounds would seem to travel through the
+air, and act upon the ear in independence of each other. A similar
+assumption is made in the theory of tides, which are great waves. One
+wave is produced by the attraction of the moon, and another by the
+attraction of the sun, and the question arises, whether when these
+waves coincide, as at the time of spring tides, the joint wave will be
+simply the sum of the separate waves. On the principle of Bernoulli
+this will be so, because the tides on the ocean are very small compared
+with the depth of the ocean.
+
+The principle of Bernoulli, however, is only approximately true. A wave
+never is exactly the same when another wave is interfering with it,
+but the less the displacement of particles due to each wave, the less
+in a still higher degree is the effect of one wave upon the other. In
+recent years Helmholtz was led to suspect that some of the phenomena
+of sound might after all be due to resultant effects overlooked by the
+assumption of previous physicists. He investigated the secondary waves
+which would arise from the interference of considerable disturbances,
+and was able to show that certain summation of resultant tones ought to
+be heard, and experiments subsequently devised for the purpose showed
+that they might be heard.
+
+[Illustration]
+
+Throughout the mechanical sciences the *Principle of the Superposition
+of Small Motions* is of fundamental importance,[390] and it may be
+thus explained. Suppose that two forces, acting from the points B and
+C, are simultaneously moving a body A. Let the force acting from B be
+such that in one second it would move A to *p*, and similarly let the
+second force, acting alone, move A to *r*. The question arises, then,
+whether their joint action will urge A to *q* along the diagonal of the
+parallelogram. May we say that A will move the distance A*p* in the
+direction AB, and A*r* in the direction AC, or, what is the same thing,
+along the parallel line *pq*? In strictness we cannot say so; for when
+A has moved towards *p*, the force from C will no longer act along the
+line AC, and similarly the motion of A towards *r* will modify the
+action of the force from B. This interference of one force with the
+line of action of the other will evidently be greater the larger is
+the extent of motion considered; on the other hand, as we reduce the
+parallelogram A*pqr*, compared with the distances AB and AC, the less
+will be the interference of the forces. Accordingly mathematicians
+avoid all error by considering the motions as infinitely small, so that
+the interference becomes of a still higher order of infinite smallness,
+and may be entirely neglected. By the resources of the differential
+calculus it is possible to calculate the motion of the particle A, as
+if it went through an infinite number of infinitely small diagonals
+of parallelograms. The great discoveries of Newton really arose from
+applying this method of calculation to the movements of the moon round
+the earth, which, while constantly tending to move onward in a straight
+line, is also deflected towards the earth by gravity, and moves
+through an elliptic curve, composed as it were of the infinitely small
+diagonals of infinitely numerous parallelograms. The mathematician,
+in his investigation of a curve, always treats it as made up of a
+great number of straight lines, and it may be doubted whether he could
+treat it in any other manner. There is no error in the final results,
+because having obtained the formulæ flowing from this supposition, each
+straight line is then regarded as becoming infinitely small, and the
+polygonal line becomes undistinguishable from a perfect curve.[391]
+
+  [390] Thomson and Tait’s *Natural Philosophy*, vol. i. p. 60.
+
+  [391] Challis, *Notes on the Principles of Pure and Applied
+  Calculation*, 1869, p. 83.
+
+In abstract mathematical theorems the approximation to absolute truth
+is perfect, because we can treat of infinitesimals. In physical
+science, on the contrary, we treat of the least quantities which are
+perceptible. Nevertheless, while carefully distinguishing between these
+two different cases, we may fearlessly apply to both the principle
+of the superposition of small effects. In physical science we have
+only to take care that the effects really are so small that any joint
+effect will be unquestionably imperceptible. Suppose, for instance,
+that there is some cause which alters the dimensions of a body in the
+ratio of 1 to 1 + α, and another cause which produces an alteration in
+the ratio of 1 to 1 + β. If they both act at once the change will be
+in the ratio of 1 to (1 + α)(1 + β), or as 1 to 1 + α + β + αβ. But if
+α and β be both very small fractions of the total dimensions, αβ will
+be yet far smaller and may be disregarded; the ratio of change is then
+approximately that of 1 to 1 + α + β, or the joint effect is the sum of
+the separate effects. Thus if a body were subjected to three strains,
+at right angles to each other, the total change in the volume of the
+body would be approximately equal to the sum of the changes produced
+by the separate strains, provided that these are very small. In like
+manner not only is the expansion of every solid and liquid substance
+by heat approximately proportional to the change of temperature, when
+this change is very small in amount, but the cubic expansion may also
+be considered as being three times as great as the linear expansion.
+For if the increase of temperature expands a bar of metal in the ratio
+of 1 to 1 + α, and the expansion be equal in all directions, then a
+cube of the same metal would expand as 1 to (1 + α)^{3}, or as 1 to
+1 + 3α + 3α^{2} + α^{3}. When α is a very small quantity the third term
+3α^{2} will be imperceptible, and still more so the fourth term α^{3}.
+The coefficients of expansion of solids are in fact so small, and so
+imperfectly determined, that physicists seldom take into account their
+second and higher powers.
+
+It is a result of these principles that all small errors may be assumed
+to vary in simple proportion to their causes--a new reason why, in
+eliminating errors, we should first of all make them as small as
+possible. Let us suppose that there is a right-angled triangle of which
+the two sides containing the right angle are really of the lengths 3
+and 4, so that the hypothenuse is √(3^{2} + 4^{2}) or 5. Now,
+if in two measurements of the first side we commit slight errors,
+making it successively 4·001 and 4·002, then calculation will give the
+lengths of the hypothenuse as almost exactly 5·0008 and 5·0016, so that
+the error in the hypothenuse will seem to vary in simple proportion
+to that of the side, although it does not really do so with perfect
+exactness. The logarithm of a number does not vary in proportion to
+that number--nevertheless we find the difference between the logarithms
+of the numbers 100000 and 100001 to be almost exactly equal to that
+between the numbers 100001 and 100002. It is thus a general rule that
+very small differences between successive values of a function are
+approximately proportional to the small differences of the variable
+quantity.
+
+On these principles it is easy to draw up a series of rules such as
+those given by Kohlrausch[392] for performing calculations in an
+abbreviated form when the variable quantity is very small compared with
+unity. Thus for 1 ÷ (1 + α) we may substitute 1 - α; for 1 ÷ (1 - α) we
+may put 1 + α; 1 ÷ √(1 + α) becomes 1 - (1/2)α, and so forth.
+
+  [392] *An Introduction to Physical Measurements*, translated by
+  Waller and Procter, 1873, p. 10.
+
+
+*Four Meanings of Equality.*
+
+Although it might seem that there are few terms more free from
+ambiguity than the term *equal*, yet scientific men do employ it with
+at least four meanings, which it is desirable to distinguish. These
+meanings I may describe as
+
+  (1) Absolute Equality.
+  (2) Sub-equality.
+  (3) Apparent Equality.
+  (4) Probable Equality.
+
+By *absolute equality* we signify that which is complete and perfect
+to the last degree; but it is obvious that we can only know such
+equality in a theoretical or hypothetical manner. The areas of two
+triangles standing upon the same base and between the same parallels
+are absolutely equal. Hippocrates beautifully proved that the area
+of a lunula or figure contained between two segments of circles was
+absolutely equal to that of a certain right-angled triangle. As a
+general rule all geometrical and other elementary mathematical theorems
+involve absolute equality.
+
+De Morgan proposed to describe as *sub-equal* those quantities which
+are equal within an infinitely small quantity, so that *x* is sub-equal
+to *x* + *dx*. The differential calculus may be said to arise out
+of the neglect of infinitely small quantities, and in mathematical
+science other subtle distinctions may have to be drawn between kinds of
+equality, as De Morgan has shown in a remarkable memoir “On Infinity;
+and on the sign of Equality.”[393]
+
+  [393] *Cambridge Philosophical Transactions* (1865), vol. xi. Part I.
+
+*Apparent equality* is that with which physical science deals. Those
+magnitudes are apparently equal which differ only by an imperceptible
+quantity. To the carpenter anything less than the hundredth part of
+an inch is non-existent; there are few arts or artists to which the
+hundred-thousandth of an inch is of any account. Since all coincidence
+between physical magnitudes is judged by one or other sense, we must be
+restricted to a knowledge of apparent equality.
+
+In reality even apparent equality is rarely to be expected. More
+commonly experiments will give only *probable equality*, that is
+results will come so near to each other that the difference may be
+ascribed to unimportant disturbing causes. Physicists often assume
+quantities to be equal provided that they fall within the limits of
+probable error of the processes employed. We cannot expect observations
+to agree with theory more closely than they agree with each other, as
+Newton remarked of his investigations concerning Halley’s Comet.
+
+
+*Arithmetic of Approximate Quantities.*
+
+Considering that almost all the quantities which we treat in physical
+and social science are approximate only, it seems desirable that
+attention should be paid in the teaching of arithmetic to the correct
+interpretation and treatment of approximate numerical statements. We
+seem to need notation for expressing the approximateness or exactness
+of decimal numbers. The fraction ·025 may mean either precisely one
+40th part, or it may mean anything between ·0245 and ·0255. I propose
+that when a decimal fraction is completely and exactly given, a *small
+cipher* or circle should be added to indicate that there is nothing
+more to come, as in ·025◦. When the first figure of the decimals
+rejected is 5 or more, the first figure retained should be raised by
+a unit, according to a rule approved by De Morgan, and now generally
+recognised. To indicate that the fraction thus retained is more than
+the truth, a point has been placed over the last figure in some tables
+of logarithms; but a similar point is used to denote the period of a
+repeating decimal, and I should therefore propose to employ a colon
+*after* the figure; thus ·025: would mean that the true quantity lies
+between ·0245° and ·025° inclusive of the lower but not the higher
+limit. When the fraction is less than the truth, two dots might be
+placed horizontally as in 025.. which would mean anything between ·025°
+and ·0255° not inclusive.
+
+When approximate numbers are added, subtracted, multiplied, or divided,
+it becomes a matter of some complexity to determine the degree of
+accuracy of the result. There are few persons who could assert off-hand
+that the sum of the approximate numbers 34·70, 52·693, 80·1, is 167·5
+*within less than* ·07. Mr. Sandeman has traced out the rules of
+approximate arithmetic in a very thorough manner, and his directions
+are worthy of careful attention.[394] The third part of Sonnenschein
+and Nesbitt’s excellent book on arithmetic[395] describes fully all
+kinds of approximate calculations, and shows both how to avoid needless
+labour and how to take proper account of inaccuracy in operating with
+approximate decimal fractions. A simple investigation of the subject is
+to be found in Sonnet’s *Algèbre Elémentaire* (Paris, 1848) chap. xiv.,
+“Des Approximations Absolues et Relatives.” There is also an American
+work on the subject.[396]
+
+  [394] Sandeman, *Pelicotetics*, p. 214.
+
+  [395] *The Science and Art of Arithmetic for the Use of Schools.*
+  (Whitaker and Co.)
+
+  [396] *Principles of Approximate Calculations*, by J. J. Skinner,
+  C.E. (New York, Henry Holt), 1876.
+
+Although the accuracy of measurement has so much advanced since the
+time of Leslie, it is not superfluous to repeat his protest against
+the unfairness of affecting by a display of decimal fractions a
+greater degree of accuracy than the nature of the case requires and
+admits.[397] I have known a scientific man to register the barometer
+to a second of time when the nearest quarter of an hour would have
+been amply sufficient. Chemists often publish results of analysis to
+the ten-thousandth or even the millionth part of the whole, when in
+all probability the processes employed cannot be depended on beyond
+the hundredth part. It is seldom desirable to give more than one
+place of figures of uncertain amount; but it must be allowed that a
+nice perception of the degree of accuracy possible and desirable is
+requisite to save misapprehension and needless computation on the one
+hand, and to secure all attainable exactness on the other hand.
+
+  [397] Leslie, *Inquiry into the Nature of Heat*, p. 505.
+
+
+
+

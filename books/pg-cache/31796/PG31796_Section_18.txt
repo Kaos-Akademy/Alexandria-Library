@@ -1,0 +1,340 @@
+CHAPTER VII.
+
+CONDITIONAL ARGUMENTS.--HYPOTHETICAL SYLLOGISM, DISJUNCTIVE SYLLOGISM,
+AND DILEMMA.
+
+The justification of including these forms of argument in Logic is
+simply that they are sometimes used in debate, and that confusion
+may arise unless the precise meaning of the premisses employed
+is understood. Aristotle did not include them as now given in his
+exposition of the Syllogism, probably because they have no connexion
+with the mode of reasoning together to which he appropriated the
+title. The fallacies connected with them are of such a simple kind
+that to discuss as a question of method the precise place they should
+occupy in a logical treatise is a waste of ingenuity.[1]
+
+I.--HYPOTHETICAL SYLLOGISMS.
+
+      If A is B, C is D  |
+         A is B          } MODUS
+    [.'.]C is D          | PONENS.
+
+      If A is B, C is D  |
+         C is not D      } MODUS
+    [.'.]A is not B      | TOLLENS.
+
+A so-called Hypothetical Syllogism is thus seen to be a Syllogism in
+which the major premiss is a HYPOTHETICAL PROPOSITION, that is to
+say, a complex proposition in which two propositions are given as so
+related that the truth of one follows necessarily from the truth of
+the other.
+
+Two propositions so related are technically called the ANTECEDENT or
+Reason, and the CONSEQUENT.
+
+The meaning and implication of the form, If A is B, C is D, is
+expressed in what is known as the LAW OF REASON AND CONSEQUENT:--
+
+"_When two propositions are related as Reason and Consequent, the
+truth of the Consequent follows from the truth of the Antecedent,
+and the falsehood of the Antecedent, from the falsehood of the
+Consequent_".
+
+If A is B, C is D, implies that If C is not D, A is not B. If this
+subject is educative, it quickens the wits; if it does not quicken the
+wits, it is not educative.
+
+Admitted, then, that the law of Reason and Consequent holds
+between two propositions--that If A is B, C is D: admitted also the
+Antecedent, the truth of the Consequent follows. This is the MODUS
+PONENS or Positive Mode, where you reach a conclusion by obtaining the
+admission of the Antecedent. Admit the Antecedent and the truth of the
+Consequent follows.
+
+With the same Major Premiss, you may also, under the Law of Reason
+and Consequent reach a conclusion by obtaining the denial of the
+Consequent. This is the MODUS TOLLENS or Negative Mode. Deny the
+Consequent and one is bound to deny the Antecedent.
+
+But to guard against the fallacy technically known as FALLACIA
+CONSEQUENTIS, we must observe what the relation of Reason and
+Consequent does not imply. The truth of the Consequent does not
+involve the truth of the Antecedent, and the falsehood of the
+Antecedent does not involve the falsehood of the Consequent.
+
+"If the harbour is frozen, the ships cannot come in." If the harbour
+is not frozen, it does not follow that the ships can come in: they may
+be excluded by other causes. And so, though they cannot come in, it
+does not follow that the harbour is frozen.
+
+
+QUESTIONS CONNECTED WITH HYPOTHETICAL SYLLOGISMS.
+
+(1) _Are they properly called Syllogisms?_ This is purely a question
+of Method and Definition. If we want a separate technical name for
+forms of argument in which two terms are reasoned together by means of
+a third, the Hypothetical Syllogism, not being in such a form, is
+not properly so called. The fact is that for the purposes of the
+Hypothetical Argument, we do not require an analysis into terms at
+all: it is superfluous: we are concerned only with the affirmation or
+denial of the constituent propositions as wholes.
+
+But if we extend the word Syllogism to cover all arguments in which
+two propositions necessarily involve a third, the Hypothetical
+Argument is on this understanding properly enough called a Syllogism.
+
+(2) _Is the inference in the Hypothetical Syllogism Mediate or
+Immediate?_
+
+To answer this question we have to consider whether the Conclusion
+can be drawn from either of the two premisses without the help of the
+other. If it is possible immediately, it must be educible directly
+either from the Major Premiss or from the Minor.
+
+(_a_) Some logicians argue as if the Conclusion were immediately
+possible from the Major Premiss. The Minor Premiss and the Conclusion,
+they urge, are simply equivalent to the Major Premiss. But this is a
+misunderstanding. "If A is B, C is D," is not equivalent to "A is B,
+_therefore_ C is D". "If the harbour is frozen, the ships cannot come
+in" is not to say that "the harbour is frozen, and therefore," etc.
+The Major Premiss merely affirms the existence of the relation of
+Reason and Consequent between the two propositions. But we cannot
+thereupon assert the Conclusion unless the Minor Premiss is also
+conceded; that is, the inference of the Conclusion is Mediate, as
+being from two premisses and not from one alone.
+
+(_b_) Similarly with Hamilton's contention that the Conclusion
+is inferrible immediately from the Minor Premiss, inasmuch as the
+Consequent is involved in the Reason. True, the Consequent is involved
+in the Reason: but we cannot infer from "A is B" to "C is D," unless
+it is conceded that the relation of Reason and Consequent holds
+between them; that is, unless the Major Premiss is conceded as well as
+the Minor.
+
+(3) _Can Hypothetical Syllogism be reduced to the Categorical Form?_
+
+To oppose Hypothetical Syllogisms to Categorical is misleading, unless
+we take note of the precise difference between them. It is only in
+the form of the Major Premiss that they differ: Minor Premiss and
+Conclusion are categorical in both. And the meaning of a Hypothetical
+Major Premiss (unless it is a mere arbitrary convention between two
+disputants, to the effect that the Consequent will be admitted if the
+Antecedent is proved, or that the Antecedent will be relinquished
+if the Consequent is disproved), can always be put in the form of a
+general proposition, from which, with the Minor Premiss as applying
+proposition, a conclusion identical with the original can be drawn in
+regular Categorical form.
+
+Thus:--
+
+        If the harbour is frozen, the ships cannot come in.
+        The harbour is frozen.
+  [.'.] The ships cannot come in.
+
+This is a Hypothetical Syllogism, _Modus Ponens_. Express the
+Hypothetical Major in the form of the general proposition which it
+implies, and you reach a conclusion (in _Barbara_) which is only
+grammatically different from the original.
+
+        All frozen harbours exclude ships.
+        The harbour is frozen.
+  [.'.] It excludes ships.
+
+Again, take an example of the _Modus Tollens_--
+
+        If rain has fallen, the streets are wet.
+        The streets are not wet.
+  [.'.] Rain has not fallen.
+
+This is reducible, by formulating the underlying proposition, to
+_Camestres_ or _Baroko_ of the Second Figure.
+
+        All streets rained upon are wet.
+        The streets are not wet.
+  [.'.] They are not streets rained upon.
+
+Hypothetical Syllogisms are thus reducible, by merely grammatical
+change[2], or by the statement of self-evident implications, to the
+Categorical form. And, similarly, any Categorical Syllogism may be
+reduced to the Hypothetical form. Thus:--
+
+        All men are mortal.
+        Socrates is a man.
+  [.'.] Socrates is mortal.
+
+This argument is not different, except in the expression of the Major
+and the Conclusion, from the following:--
+
+        If Socrates is a man, death will overtake him.
+        Socrates is a man.
+  [.'.] Death will overtake him.
+
+The advantage of the Hypothetical form in argument is that it is
+simpler. It was much used in Mediaeval Disputation, and is still more
+popular than the Categorical Syllogism. Perhaps the prominence
+given to Hypothetical Syllogisms as syllogisms in Post-Renaissance
+text-books is due to the use of them in the formal disputations of
+graduands in the Universities. It was the custom for the Disputant to
+expound his argument in this form:--
+
+        If so and so is the case, such and such follows.
+        So and so is the case.
+  [.'.] Such and such follows.
+
+To which the Respondent would reply: _Accipio antecedentem, nego
+consequentiam_, and argue accordingly. Petrus Hispanus does not give
+the Hypothetical Syllogism as a Syllogism: he merely explains the
+true law of Reason and Consequent in connexion with the Fallacia
+Consequentis in the section on Fallacies. (_Summulae. Tractatus
+Sextus._)
+
+
+II.--DISJUNCTIVE SYLLOGISMS.
+
+A Disjunctive Syllogism is a syllogism in which the Major Premiss is
+a DISJUNCTIVE PROPOSITION, _i.e._, one in which two propositions are
+declared to be mutually incompatible. It is of the form Either A is B,
+or C is D.[3]
+
+If the disjunction between the alternatives is really complete, the
+form implies four hypothetical propositions:--
+
+  (1) If A is B, C is not D.
+  (2) If A is not B, C is D.
+  (3) If C is D, A is not B.
+  (4) If C is not D, A is B.
+
+Suppose then that an antagonist has granted you a Disjunctive
+Proposition, you can, using this as a Major Premiss, extract from
+him four different Conclusions, if you can get him also to admit the
+requisite Minors. The Mode of two of these is technically called MODUS
+PONENDO TOLLENS, the mode that denies the one alternative by granting
+the other--A is B, _therefore_ C is not D; C is D, _therefore_ A is
+not B. The other Mode is also twice open, the MODUS TOLLENDO PONENS--A
+is not B, _therefore_ C is D; C is not D, _therefore_ A is B.
+
+Fallacy is sometimes committed through the Disjunctive form owing to
+the fact that in common speech there is a tendency to use it in place
+of a mere hypothetical, when there are not really two incompatible
+alternatives. Thus it may be said "Either the witness is perjured,
+or the prisoner is guilty," when the meaning merely is that if the
+witness is not perjured the prisoner is guilty. But really there is
+not a valid disjunction and a correct use of the disjunctive form,
+unless four hypotheticals are implied, that is, unless the concession
+of either involves the denial of the other, and the denial of either
+the concession of the other. Now the prisoner may be guilty and
+yet the witness be perjured; so that two of the four hypotheticals,
+namely--
+
+  If the witness is perjured, the prisoner is not guilty,
+  If the prisoner is guilty, the witness is not perjured--
+
+do not necessarily hold. If, then, we would guard against fallacy, we
+must always make sure before assenting to a disjunctive proposition
+that there is really a complete disjunction or mutual incompatibility
+between the alternatives.
+
+
+III.--THE DILEMMA.
+
+A Dilemma is a combination of Hypothetical and Disjunctive
+propositions.
+
+The word has passed into common speech, and its ordinary use is a clue
+to the logical structure. We are said to be in a dilemma when we
+have only two courses open to us and both of them are attended by
+unpleasant consequences. In argument we are in this position when we
+are shut into a choice between two admissions, and either admission
+leads to a conclusion which we do not like. The statement of the
+alternatives as the consequences hypothetically of certain conditions
+is the major premiss of the dilemma: once we admit that the relations
+of Antecedent and Consequent are as stated, we are in a trap, if trap
+it is: we are on the horns of the dilemma, ready to be tossed from one
+to the other.
+
+For example:--
+
+    If A is B, A is C, and if A is not B, A is D. But A either is
+    or is not B. Therefore, A either is C or is D.
+
+    If A acted of his own motive, he is a knave; if A did not act
+    of his own motive, he is a catspaw. But A either acted of his
+    own motive or he did not. Thereupon A is either a knave or a
+    catspaw.
+
+This is an example of the _Constructive_ Dilemma, the form of it
+corresponding to the common use of the word as a choice between
+equally unpleasant alternatives. The standard example is the dilemma
+in which the custodians of the Alexandrian Library are said to have
+been put by the Caliph Omar in 640 A.D.
+
+    If your books are in conformity with the Koran, they are
+    superfluous; if they are at variance with it, they are
+    pernicious. But they must either be in conformity with the
+    Koran or at variance with it. Therefore they are either
+    superfluous or pernicious.
+
+Where caution has to be exercised is in accepting the clauses of the
+Major. We must make sure that the asserted relations of Reason and
+Consequent really hold. It is there that fallacy is apt to creep in
+and hide its head. The Alexandrian Librarians were rash in accepting
+the first clause of the conqueror's Major: it does not follow that the
+books are superfluous unless the doctrines of the Koran are not merely
+sound but contain all that is worth knowing. The propounder of the
+dilemma covertly assumes this. It is in the facility that it affords
+for what is technically known as _Petitio Principii_ that the Dilemma
+is a useful instrument for the Sophist. We shall illustrate it further
+under that head.
+
+What is known as the _Destructive_ Dilemma is of a somewhat different
+form. It proceeds upon the denial of the Consequent as involving the
+denial of the Antecedent. In the Major you obtain the admission that
+if a certain thing holds, it must be followed by one or other of
+two consequences. You then prove by way of Minor that neither of the
+alternatives is true. The conclusion is that the antecedent is false.
+
+We had an example of this in discussing whether the inference in the
+Hypothetical Syllogism is Immediate. Our argument was in this form:--
+
+    If the inference is immediate, it must be drawn either from
+    the Major alone or from the Minor alone. But it cannot be
+    drawn from the Major alone, neither can it be drawn from the
+    Minor alone. Therefore, it is not immediate.
+
+In this form of Dilemma, which is often serviceable for clearness
+of exposition, we must as in the other make sure of the truth of the
+Major: we must take care that the alternatives are really the only two
+open. Otherwise the imposing form of the argument is a convenient mask
+for sophistry. Zeno's famous dilemma, directed to prove that motion is
+impossible, covers a _petitio principii_.
+
+    If a body moves, it must move either where it is or where it
+    is not. But a body cannot move where it is: neither can it
+    move where it is not. Conclusion, it cannot move at all,
+    _i.e._, Motion is impossible.
+
+The conclusion is irresistible if we admit the Major, because the
+Major covertly assumes the point to be proved. In truth, _if_ a body
+moves, it moves neither where it is nor where it is not, but from
+where it is to where it is not. Motion consists in change of place:
+the Major assumes that the place is unchanged, that is, that there is
+no motion.
+
+    [Footnote 1: For the history of Hypothetical Syllogism see
+    Mansel's _Aldrich_, Appendix I.]
+
+    [Footnote 2: It may be argued that the change is not merely
+    grammatical, and that the implication of a general proposition
+    in a hypothetical and _vice versa_ is a strictly logical
+    concern. At any rate such an implication exists, whether it is
+    the function of the Grammarian or the Logician to expound it.]
+
+    [Footnote 3: Some logicians prefer the form Either A is, or B
+    is. But the two alternatives are propositions, and if "A is"
+    represents a proposition, the "is" is not the Syllogistic
+    copula. If this is understood it does not matter: the analysis
+    of the alternative propositions is unessential.]
+
+
+
+

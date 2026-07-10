@@ -1,0 +1,2087 @@
+CHAPTER XIX.
+
+
+_THE THEORY OF THE AVERAGE AS A MEANS OF APPROXIMATION TO THE TRUTH._
+
+1. In the last chapter we were occupied with the Average
+mainly under its qualitative rather than its quantitative
+aspect. That is, we discussed its general nature, its principal
+varieties, and the main uses to which it could be put in
+ordinary life or in reasoning processes which did not claim to
+be very exact. It is now time to enter more minutely into
+the specific question of the employment of the average in
+the way peculiarly appropriate to Probability. That is, we
+must be supposed to have a certain number of measurements,--in
+the widest sense of that term,--placed before us,
+and to be prepared to answer such questions as; Why do we
+take their average? With what degree of confidence?
+Must we in all cases take the average, and, if so, one always
+of the same kind?
+
+The subject upon which we are thus entering is one
+which, under its most general theoretic treatment, has perhaps
+given rise to more profound investigation, to a greater
+variety of opinion, and in consequence to a more extensive
+history and literature, than any other single problem within
+the range of mathematics.[1] But, in spite of this, the main
+logical principles underlying the methods and processes in
+question are not, I apprehend, particularly difficult to grasp:
+though, owing to the extremely technical style of treatment
+adopted even in comparatively elementary discussions of the
+subject, it is far from easy for those who have but a moderate
+command of mathematical resources to disentangle these
+principles from the symbols in which they are clothed. The
+present chapter contains an attempt to remove these difficulties,
+so far as a general comprehension of the subject is concerned.
+As the treatment thus adopted involves a considerable
+number of subdivisions, the reader will probably
+find it convenient to refer back occasionally to the table of
+contents at the commencement of this volume.
+
+2. The subject, in the form in which we shall discuss
+it, will be narrowed to the consideration of the _average_, on
+account of the comparative simplicity and very wide prevalence
+of this aspect of the problem. The problem is however
+very commonly referred to, even in non-mathematical treatises,
+as the Rule or Method of Least Squares; the fact being
+that, in such cases as we shall be concerned with, the Rule
+of Least Squares resolves itself into the simpler and more
+familiar process of taking the arithmetical average. A very
+simple example,--one given by Herschel,--will explain the
+general nature of the task under a slightly wider treatment,
+and will serve to justify the familiar designation.
+
+Suppose that a man had been firing for some time with a
+pistol at a small mark, say a wafer on a wall. We may take
+it for granted that the shot-marks would tend to group
+themselves about the wafer as a centre, with a density varying
+in some way inversely with the distance from the centre.
+But now suppose that the wafer which marked the centre
+was removed, so that we could see nothing but the surface of
+the wall spotted with the shot-marks; and that we were
+asked to guess the position of the wafer. Had there been
+only _one_ shot, common sense would suggest our assuming
+(of course very precariously) that this marked the real centre.
+Had there been two, common sense would suggest our taking
+the mid-point between them. But if three or more were
+involved, common sense would be at a loss. It would feel
+that some intermediate point ought to be selected, but
+would not see its way to a more precise determination, because
+its familiar reliance,--the arithmetical average,--does
+not seem at hand here. The rule in question tells us how to
+proceed. It directs us to select that point which will render
+the sum of the squares of all the distances of the various
+shot-marks from it the least possible.[2]
+
+This is merely by way of illustration, and to justify the
+familiar designation of the rule. The sort of cases with
+which we shall be exclusively occupied are those comparatively
+simple ones in which only linear magnitude, or some
+quality which can be adequately represented by linear magnitude,
+is the object under consideration. In respect of these
+the Rule of Least Squares reduces itself to the process of
+taking the average, in the most familiar sense of that term,
+viz. the arithmetical mean; and a single Law of Error, or its
+graphical equivalent, a Curve of Facility, will suffice accurately
+to indicate the comparative frequency of the different
+amounts of the one variable magnitude involved.
+
+3. We may conveniently here again call attention to a
+misconception or confusion which has been already noticed
+in a former chapter. It is that of confounding the Law of
+Error with the Method of Least Squares. These are things
+of an entirely distinct kind. The former is of the nature of
+a physical fact, and its production is one which in many
+cases is entirely beyond our control. The latter,--or any
+simplified application of it, such as the arithmetical average,--is
+no law whatever in the physical sense. It is rather a
+precept or rule for our guidance. The Law states, in any
+given case, how the errors tend to occur in respect of their
+magnitude and frequency. The Method directs us how to
+treat these errors when any number of them are presented
+to us. No doubt there is a relation between the two, as will
+be pointed out in the course of the following pages; but
+there is nothing really to prevent us from using the same
+method for different laws of error, or different methods for
+the same law. In so doing, the question of distinct right
+and wrong would seldom be involved, but rather one of more
+or less propriety.
+
+4. The reader must understand,--as was implied in
+the illustration about the pistol shots,--that the ultimate
+problem before us is an _inverse_ one. That is, we are supposed
+to have a moderate number of 'errors' before us and
+we are to undertake to say whereabouts is the centre from
+which they diverge. This resembles the determination of a
+cause from the observation of an effect. But, as mostly
+happens in inverse problems, we must commence with the
+consideration of the direct problem. In other words, so far
+as concerns the case before us, we shall have to begin by
+supposing that the ultimate object of our aim,--that is, the
+true centre of our curve of frequency,--is already known to
+us: in which case all that remains to be done is to study the
+consequences of taking averages of the magnitudes which
+constitute the errors.
+
+5. We shall, for the present, confine our remarks to
+what must be regarded as the typical case where considerations
+of Probability are concerned; viz. that in which
+the law of arrangement or development is of the Binomial
+kind. The nature of this law was explained in Chap. II.,
+where it was shown that the frequency of the respective
+numbers of occurrences was regulated in accordance with
+the magnitude of the successive terms of the expansion of
+the binomial (1 + 1)^{n}. It was also pointed out that when n becomes
+very great, that is, when the number of influencing
+circumstances is very large, and their relative individual
+influence correspondingly small, the form assumed by a
+curve drawn through the summits of ordinates representing
+these successive terms of the binomial tends towards that
+assigned by the equation y = Ae^{-h^{2}x^{2}}.
+
+For all practical purposes therefore we may talk indifferently
+of the Binomial or Exponential law; if only on
+the ground that the arrangement of the actual phenomena
+on one or other of these two schemes would soon become
+indistinguishable when the numbers involved are large.
+But there is another ground than this. Even when the
+phenomena themselves represent a continuous magnitude,
+our measurements of them,--which are all with which we
+can deal,--are discontinuous. Suppose we had before us the
+accurate heights of a million adult men. For all practical
+purposes these would represent the variations of a continuous
+magnitude, for the differences between two successive
+magnitudes, especially near the mean, would be
+inappreciably small. But our tables will probably represent
+them only to the nearest inch. We have so many assigned
+as 69 inches; so many as 70; and so on. The tabular
+statement in fact is of much the same character as if we
+were assigning the number of 'heads' in a toss of a handful
+of pence; that is, as if we were dealing with discontinuous
+numbers on the binomial, rather than with a continuous
+magnitude on the exponential arrangement.
+
+6. Confining ourselves then, for the present, to this
+general head, of the binomial or exponential law, we must
+distinguish two separate cases in respect of the knowledge
+we may possess as to the generating circumstances of the
+variable magnitudes.
+
+(1) There is, first, the case in which the conditions of
+the problem are determinable _à priori_: that is, where we are
+able to say, prior to specific experience, how frequently each
+combination will occur in the long run. In this case the
+main or ultimate object for which we are supposing that the
+average is employed,--i.e. that of discovering the true mean
+value,--is superseded. We are able to say what the mean
+or central value in the long run will be; and therefore there
+is no occasion to set about determining it, with some trouble
+and uncertainty, from a small number of observations. Still
+it is necessary to discuss this case carefully, because its
+assumption is a necessary link in the reasoning in other
+cases.
+
+This comparatively _à priori_ knowledge may present itself
+in two different degrees as respects its completeness. In the
+first place it may, so far as the circumstances in question
+are concerned, be absolutely complete. Consider the results
+when a handful of ten pence is repeatedly tossed up. We
+know precisely what the mean value is here, viz. equal
+division of heads and tails: we know also the chance of six
+heads and four tails, and so on. That is, if we had to plot
+out a diagram showing the relative frequency of each combination,
+we could do so without appealing to experience.
+We could draw the appropriate binomial curve from the
+generating conditions given in the statement of the problem.
+
+But now consider the results of firing at a target consisting
+of a long and narrow strip, of which one point is
+marked as the centre of aim.[3] Here (assuming that there
+are no causes at work to produce permanent bias) we know
+that this centre will correspond to the mean value. And we
+know also, in a general way, that the dispersion on each side
+of this will follow _a_ binomial law. But if we attempted to
+plot out the proportions, as in the preceding case, by erecting
+ordinates which should represent each degree of frequency
+as we receded further from the mean, we should find that
+we could not do so. Fresh data must be given or inferred.
+A good marksman and a bad marksman will both distribute
+their shot according to the same general law; but the
+rapidity with which the shots thin off as we recede from the
+centre will be different in the two cases. Another 'constant'
+is demanded before the curve of frequency could be correctly
+traced out.
+
+7. (2) The second division, to be next considered,
+corresponds for all logical purposes to the first. It comprises
+the cases in which though we have no à priori knowledge
+as to the situation about which the values will tend to
+cluster in the long run, yet we have sufficient experience at
+hand to assign it with practical certainty. Consider for
+instance the tables of human stature. These are often very
+extensive, including tens or hundreds of thousands. In such
+cases the mean or central value is determinable with just as
+great certainty as by any _à priori_ rule. That is, if we took
+another hundred thousand measurements from the same
+class of population, we should feel secure that the average
+would not be altered by any magnitude which our measuring
+instruments could practically appreciate.
+
+8. But the mere assignment of the mean or central
+value does not here, any more than in the preceding case,
+give us all that we want to know. It _might_ so happen that
+the mean height of two populations was the same, but that
+the law of dispersion about that mean was very different:
+so that a man who in one series was an exceptional giant or
+dwarf should, in the other, be in no wise remarkable.
+
+To explain the process of thus determining the actual magnitude of the
+dispersion would demand too much mathematical detail; but some
+indication may be given. What we have to do is to determine the
+constant h in the equation[4] y = (h/sqrt{π}) e^{-h^{2} x^{2}}. In
+technical language, what we have to do is to determine the _modulus_
+of this equation. The quantity 1/h in the above expression is called
+the modulus. It measures the degree of contraction or dispersion about
+the mean indicated by this equation. When it is large the dispersion
+is considerable; that is the magnitudes are not closely crowded up
+towards the centre, when it is small they are thus crowded up. The
+smaller the modulus in the curve representing the thickness with which
+the shot-marks clustered about the centre of the target, the better
+the marksman.
+
+9. There are several ways of determining the modulus. In the first of
+the cases discussed above, where our theoretical knowledge is
+complete, we are able to calculate it _à priori_ from our knowledge of
+the chances. We should naturally adopt this plan if we were tossing up
+a large handful of pence.
+
+The usual _à posteriori_ plan, when we have the measurements
+of the magnitudes or observations before us, is this:--Take
+the mean square of the errors, and double this; the result
+gives the square of the modulus. Suppose, for instance,
+that we had the five magnitudes, 4, 5, 6, 7, 8. The mean of
+these is 6: the 'errors' are respectively 2, 1, 0, 1, 2. Therefore
+the 'modulus squared' is equal to 10/5; i.e. the modulus is sqrt{2}.
+Had the magnitudes been 2, 4, 6, 8, 10; representing
+the same mean (6) as before, but displaying a greater dispersion
+about it, the modulus would have been larger, viz. sqrt{8}
+instead of sqrt{2}.
+
+Mr Galton's method is more of a graphical nature. It
+is described in a paper on Statistics by Intercomparison
+(_Phil. Mag._ 1875), and elsewhere. It may be indicated as
+follows. Suppose that we were dealing with a large number
+of measurements of human stature, and conceive that all the
+persons in question were marshalled in the order of their
+height. Select the average height, as marked by the central
+man of the row. Suppose him to be 69 inches. Then raise
+(or depress) the scale from this point until it stands at such
+a height as just to include one half of the men above (or
+below) the mean. (In practice this would be found to require
+about 1.71 inches: that is, one quarter of any large
+group of such men will fall between 69 and 70.71 inches.)
+Divide this number by 0.4769 and we have the modulus. In
+the case in question it would be equal to about 3.6 inches.
+
+Under the assumption with which we start, viz. that the law of error
+displays itself in the familiar binomial form, or in some form
+approximating to this, the three methods indicated above will coincide
+in their result. Where there is any doubt on this head, or where we do
+not feel able to calculate beforehand what will be the rate of
+dispersion, we must adopt the second plan of determining the modulus.
+This is the only universally applicable mode of calculation: in fact
+that it should yield the modulus is a truth of definition; for in
+determining the error of mean square we are really doing nothing else
+than determining the modulus, as was pointed out in the last chapter.
+
+10. The position then which we have now reached is this. Taking it for
+granted that the Law of Error will fall into the symbolic form
+expressed by the equation y = (h/sqrt{π}) e^{-h^{2} x^{2}}, we have
+rules at hand by which h may be determined. We therefore, for the
+purposes in question, know all about the curve of frequency: we can
+trace it out on paper: given one value,--say the central one,--we can
+determine any other value at any distance from this. That is, knowing
+how many men in a million, say, are 69 inches high, we can determine
+without direct observation how many will be 67, 68, 70, 71, and so on.
+
+We can now adequately discuss the principal question of logical
+interest before us; viz. _why_ do we take averages or means? What is
+the exact nature and amount of the advantage gained by so doing? The
+advanced student would of course prefer to work out the answers to
+these questions by appealing at once to the Law of Error in its
+ultimate or exponential form. But I feel convinced that the best
+method for those who wish to gain a clear conception of the logical
+nature of the process involved, is to begin by treating it as a
+question of combinations such as we are familiar with in elementary
+algebra; in other words to take a finite number of errors and to see
+what comes of averaging these. We can then proceed to work out
+arithmetically the results of combining two or more of the errors
+together so as to get a new series, not contenting ourselves with the
+general character merely of the new law of error, but actually
+calculating what it is in the given case. For the sake of simplicity
+we will not take a series with a very large number of terms in it, but
+it will be well to have enough of them to secure that our law of error
+shall roughly approximate in its form to the standard or exponential
+law.
+
+For this purpose the law of error or divergence given by supposing our
+effort to be affected by ten causes, each of which produces an equal
+error, but which error is equally likely to be positive and negative
+(or, as it might perhaps be expressed, 'ten equal and indifferently
+additive and subtractive causes') will suffice. This is the lowest
+number formed according to the Binomial law, which will furnish to the
+eye a fair indication of the limiting or Exponential law.[5] The whole
+number of possible cases here is 2^{10} or 1024; that is, this is the
+number required to exhibit not only all the cases which can occur (for
+there are but eleven really distinct cases), but also the relative
+frequency with which each of these cases occurs in the long run. Of
+this total, 252 will be situated at the mean, representing the 'true'
+result, or that given when five of the causes of disturbance just
+neutralize the other five. Again, 210 will be at what we will call one
+unit's distance from the mean, or that given by six causes combining
+against four; and so on; until at the extreme distance of five places
+from the mean we get but one result, since in only one case out of the
+1024 will all the causes combine together in the same direction. The
+set of 1024 efforts is therefore a fair representation of the
+distribution of an infinite number of such efforts. A graphical
+representation of the arrangement is given here.
+
+[Figure: Binomial distribution for the tenth power.]
+
+11. This representing a complete set of single observations or
+efforts, what will be the number and arrangement in the corresponding
+set of combined or reduced observations, say of two together? With
+regard to the number we must bear in mind that this is not a case of
+the combinations of things which cannot be repeated; for any given
+error, say the extreme one at F, can obviously be repeated twice
+running. Such a repetition would be a piece of very bad luck no doubt,
+but being possible it must have its place in the set. Now the possible
+number of ways of combining 1024 things two together, where the same
+thing may be repeated twice running, is 1024 × 1024 or 1048576. This
+then is the number in a complete cycle of the results taken two and
+two together.
+
+12. So much for their number; now for their arrangement or
+distribution. What we have to ascertain is, firstly, how many times
+each possible pair of observations will present itself; and, secondly,
+where the new results, obtained from the combination of each pair, are
+to be placed. With regard to the first of these enquiries;--it will be
+readily seen that on one occasion we shall have F repeated twice; on
+20 occasions we shall have F combined with E (for F coming first we
+may have it followed by any one of the 10 at E, or any one of these
+may be followed by F); E can be repeated in 10 × 10, or 100 ways, and
+so on.
+
+Now for the position of each of these reduced observations, the
+relative frequency of whose component elements has thus been pointed
+out. This is easy to determine, for when we take two errors there is
+(as was seen) scarcely any other mode of treatment than that of
+selecting the mid-point between them; this mid-point of course
+becoming identical with each of them when the two happen to
+coincide. It will be seen therefore that F will recur once on the new
+arrangement, viz. by its being repeated twice on the old one. G midway
+between E and F, will be given 20 times. E, on our new arrangement,
+can be got at in two ways, viz. by its being repeated twice (which
+will happen 100 times), and by its being obtained as the mid-point
+between D and F (which will happen 90 times). Hence E will occur 190
+times altogether.
+
+The reader who chooses to take the trouble may work out the frequency
+of all possible occurrences in this way, and if the object were simply
+to illustrate the principle in accordance with which they occur, this
+might be the best way of proceeding. But as he may soon be able to
+observe, and as the mathematician would at once be able to prove, the
+new 'law of facility of error' can be got at more quickly deductively,
+viz. by taking the successive terms of the expansion of (1 + 1)^{20}.
+They are given, below the line, in the figure on p. 476.
+
+13. There are two apparent obstacles to any direct comparison between
+the distribution of the old set of simple observations, and the new
+set of combined or reduced ones. In the first place, the number of
+the latter is much greater. This, however, is readily met by reducing
+them both to the same scale, that is by making the same total number
+of each. In the second place, half of the new positions have no
+representatives amongst the old, viz. those which occur midway between
+F and E, E and D, and so on. This can be met by the usual plan of
+interpolation, viz. by filling in such gaps by estimating what would
+have been the number at the missing points, on the same scale, had
+they been occupied. Draw a curve through the vertices of the
+ordinates at A, B, C, &c., and the lengths of the ordinates at the
+intermediate points will very fairly represent the corresponding
+frequency of the errors of those magnitudes respectively. When the
+gaps are thus filled up, and the numbers thus reduced to the same
+scale, we have a perfectly fair basis of comparison. (See figure on
+next page.)
+
+Similarly we might proceed to group or 'reduce' three observations, or
+any greater number. The number of possible groupings naturally becomes
+very much larger, being (1024)^{3} when they are taken three
+together. As soon as we get to three or more observations, we have (as
+already pointed out) a variety of possible modes of treatment or
+reduction, of which that of taking the arithmetical mean is but one.
+
+14. The following figure is intended to illustrate the nature of the
+advantage secured by thus taking the arithmetical mean of several
+observations.
+
+The curve ABCD represents the arrangement of a given number of
+'errors' supposed to be disposed according to the binomial law already
+mentioned, when the angles have been smoothed off by drawing a curve
+through them. A'CD' represents the similar arrangement of the same
+number when given not as simple errors, but as averages of pairs of
+errors. A"BD", again, represents the similar arrangement obtained as
+averages of errors taken three together. They are drawn as carefully
+to scale as the small size of the figure permits.
+
+[Figure: Gaussian distributions for two or three observations.]
+
+15. A glance at the above figure will explain to the reader, better
+than any verbal description, the full significance of the statement
+that the result of combining two or more measurements or observations
+together and taking the average of them, instead of stopping short at
+the single elements, is to make large errors comparatively more
+scarce. The advantage is of the same general description as that of
+fishing in a lake where, of the same number of fish, there are more
+big and fewer little ones than in another water: of dipping in a bag
+where of the same number of coins there are more sovereigns and fewer
+shillings; and so on. The extreme importance, however, of obtaining a
+perfectly clear conception of the subject may render it desirable to
+work this out a little more fully in detail.
+
+For one thing, then, it must be clearly understood that the result of
+a set of 'averages' of errors is nothing else than another set of
+'errors,' No device can make the attainment of the true result
+certain,--to suppose the contrary would be to misconceive the very
+foundations of Probability,--no device even can obviate the
+possibility of being actually worse off as the result of our
+labour. The average of two, three, or any larger number of single
+results, may give a worse result, i.e. one further from the ultimate
+average, than was given by the first observation we made. We must
+simply fall back upon the justification that big deviations are
+rendered scarcer in the long run.
+
+Again; it may be pointed out that though, in the above investigation,
+we have spoken only of the arithmetical average as commonly understood
+and employed, the same general results would be obtained by resorting
+to almost any symmetrical and regular mode of combining our
+observations or errors. The two main features of the regularity
+displayed by the Binomial Law of facility were (1) ultimate symmetry
+about the central or true result, and (2) increasing relative
+frequency as this centre was approached. A very little consideration
+will show that it is no peculiar prerogative of the arithmetical mean
+to retain the former of these and to increase the latter. In saying
+this, however, a distinction must be attended to for which it will be
+convenient to refer to a figure.
+
+16. Suppose that O, in the line D'OD, was the point aimed at by any
+series of measurements; or, what comes to the same thing for our
+present purpose, was the ultimate average of all the measurements
+made. What we mean by a symmetrical arrangement of the values in
+regard to O, is that for every error OB, there shall be in the long
+run a precisely corresponding opposite one OB'; so that when we erect
+the ordinate BQ, indicating the frequency with which B is yielded, we
+must erect an equal one B'Q'. Accordingly the two halves of the curve
+on each side of P, viz. PQ and PQ' are precisely alike.
+
+[Figure: Symmetry of a distribution.]
+
+It then readily follows that the secondary curve, viz. that marking
+the law of frequency of the averages of two or more simple errors,
+will also be symmetrical. Consider any three points B, C, D: to these
+correspond another three B', C', D'. It is obvious therefore that any
+regular and symmetrical mode of dealing with all the groups, of which
+BCD is a sample, will result in symmetrical arrangement about the
+centre O. The ordinary familiar arithmetical average is but one out of
+many such modes. One way of describing it is by saying that the
+average of B, C, D, is assigned by choosing a point such that the sum
+of the squares of its distances from B, C, D, is a minimum. But we
+might have selected a point such that the cubes, or the fourth powers,
+or any higher powers should be a minimum. These would all yield curves
+resembling in a general way the dotted line in our figure. Of course
+there would be insuperable practical objections to any such courses as
+these; for the labour of calculation would be enormous, and the
+results so far from being better would be worse than those afforded by
+the employment of the ordinary average. But so far as concerns the
+general principle of dealing with discordant and erroneous results, it
+must be remembered that the familiar average is but one out of
+innumerable possible resources, all of which would yield the same sort
+of help.
+
+17. Once more. We saw that a resort to the average had the effect of
+'humping up' our curve more towards the centre, expressive of the fact
+that the errors of averages are of a better, i.e. smaller kind. But it
+must be noticed that exactly the same characteristics will follow, as
+a general rule, from any other such mode of dealing with the
+individual errors. No strict proof of this fact can be given here, but
+a reference to one of the familiar results of taking combinations of
+things will show whence this tendency arises. Extreme results, as
+yielded by an average of any kind, can only be got in one way, viz. by
+repetitions of extremes in the individuals from which the averages
+were obtained. But intermediate results can be got at in two ways,
+viz. either by intermediate individuals, or by combinations of
+individuals in opposite directions. In the case of the Binomial Law of
+Error this tendency to thicken towards the centre was already strongly
+predominant in the individual values before we took them in hand for
+our average; but owing to this characteristic of combinations we may
+lay it down (broadly speaking) that any sort of average applied to any
+sort of law of distribution will give a result which bears the same
+general relation to the individual values that the dotted lines above
+bear to the black line.[6]
+
+18. This being so, the speculative advantages of one method of
+combining, or averaging, or reducing, our observations, over another
+method,--irrespective, that is, of the practical conveniences in
+carrying them out,--will consist solely in the degree of rapidity with
+which it tends thus to cluster the result about the centre. We shall
+have to subject this merit to a somewhat further analysis, but for the
+present purpose it will suffice to say that if one kind of average
+gave the higher dotted line in the figure on p. 479 and another gave
+the lower dotted line, we should say that the former was the better
+one. The advantage is of the same general kind as that which is
+furnished in algebraical calculation, by a series which converges
+rapidly towards the true value as compared with one which converges
+slowly. We can do the work sooner or later by the aid of either; but
+we get nearer the truth by the same amount of labour, or get as near
+by a less amount of labour, on one plan than on the other.
+
+As we are here considering the case in which the individual
+observations are supposed to be grouped in accordance with the
+Binomial Law, it will suffice to say that in this case there is no
+doubt that the arithmetical average is not only the simplest and
+easiest to deal with, but is also the best in the above sense of the
+term. And since this Binomial Law, or something approximating to it,
+is of very wide prevalence, a strong _primâ facie_ case is made out
+for the general employment of the familiar average.
+
+19. The analysis of a few pages back carried the results of the
+averaging process as far as could be conveniently done by the help of
+mere arithmetic. To go further we must appeal to higher mathematics,
+but the following indication of the sort of results obtained will
+suffice for our present purpose. After all, the successive steps,
+though demanding intricate reasoning for their proof, are nothing more
+than generalizations of processes which could be established by simple
+arithmetic.[7] Briefly, what we do is this:--
+
+(1) We first extend the proof from the binomial form, with its finite
+number of elements, to the limiting or exponential form. Instead of
+confining ourselves to a small number of discrete errors, we then
+recognize the possibility of any number of errors of any magnitude
+whatever.
+
+(2) In the next place, instead of confining ourselves to the
+consideration of an average of two or three only,--already, as we have
+seen, a tedious piece of arithmetic,--we calculate the result of an
+average of any number, n. The actual result is extremely simple. If
+the modulus of the single errors is c, that of the average of n of
+these will be c ÷ sqrt{n}.
+
+(3) Finally we draw similar conclusions in reference to the _sum or
+difference_ of two averages of any numbers. Suppose, for instance,
+that m errors were first taken and averaged, and then n similarly
+taken and averaged. These averages will be nearly, but not quite,
+equal. Their sum or difference,--these, of course, are
+indistinguishable in the end, since positive and negative errors are
+supposed to be equal and opposite,--will itself be an 'error', every
+magnitude of which will have a certain assignable probability or
+facility of occurrence. What we do is to assign the modulus of _these_
+errors. The actual result again is simple. If c had been the modulus
+of the single errors, that of the sum or difference of the averages of
+m and n of them will be c sqrt{1/m + 1/n}.
+
+20. So far, the problem under investigation has been of a direct
+kind. We have supposed that the ultimate mean value or central
+position has been given to us; either _à priori_ (as in many games of
+chance), or from more immediate physical considerations (as in aiming
+at a mark), or from extensive statistics (as in tables of human
+stature). In all such cases therefore the main desideratum is already
+taken for granted, and it may reasonably be asked what remains to be
+done. The answers are various. For one thing we may want to estimate
+the value of an average of many when compared with an average of a
+few. Suppose that one man has collected statistics including 1000
+instances, and another has collected 4000 similar instances. Common
+sense can recognize that the latter are better than the former; but it
+has no idea _how much_ better they are. Here, as elsewhere,
+quantitative precision is the privilege of science. The answer we
+receive from this quarter is that, in the long run, the modulus,--and
+with this the probable error, the mean error, and the error of mean
+square, which all vary in proportion,--diminishes inversely as the
+square root of the number of measurements or observations. (This
+follows from the second of the above formulæ.) Accordingly the
+probable error of the more extensive statistics here is one half that
+of the less extensive. Take another instance. Observation shows that
+"the mean height of 2,315 criminals differs from the mean height of
+8,585 members of the general adult population by about two inches"
+(v. Edgeworth, Methods of Statistics: _Stat. Soc. Journ._ 1885). As
+before, common sense would feel little doubt that such a difference
+was significant, but it could give no numerical estimate of the
+significance. Appealing to science, we see that this is an
+illustration of the third of the above formulæ. What we really want to
+know is the odds against the averages of two large batches differing
+by an assigned amount: in this case by an amount equalling twenty-five
+times the modulus of the variable quantity. The odds against this are
+many billions to one.
+
+21. The number of direct problems which will thus admit of solution is
+very great, but we must confine ourselves here to the main inverse
+problem to which the foregoing discussion is a preliminary. It is
+this. Given _a few only_ of one of these groups of measurements or
+observations; what can we do with these, in the way of determining
+that mean about which they would ultimately be found to cluster?
+Given a large number of them, they would betray the position of their
+ultimate centre with constantly increasing certainty: but we are now
+supposing that there are only a few of them at hand, say half a dozen,
+and that we have no power at present to add to the number.
+
+In other words,--expressing ourselves by the aid of graphical
+illustration, which is perhaps the best method for the novice and for
+the logical student,--in the direct problem we merely have to draw the
+curve of frequency from a knowledge of its determining elements;
+viz. the position of the centre, and the numerical value of the
+modulus. In the inverse problem, on the other hand, we have three
+elements at least, to determine. For not only must we, (1), as before,
+determine whereabouts the centre may be assumed to lie; and (2), as
+before, determine the value of the modulus or degree of dispersion
+about this centre. This does not complete our knowledge. Since neither
+of these two elements is assigned with certainty, we want what is
+always required in the Theory of Chances, viz. some estimate of their
+probable truth. That is, after making the best assignment we can as to
+the value of these elements, we want also to assign numerically the
+'probable error' committed in such assignment. Nothing more than this
+can be attained in Probability, but nothing less than this should be
+set before us.
+
+22. (1) As regards the first of these questions, the answer is very
+simple. Whether the number of measurements or observations be few or
+many, we must make the assumption that their average _is_ the point we
+want; that is, that the average of the few will coincide with the
+ultimate average. This is the best, in fact the only assumption we can
+make. We should adopt this plan, of course, in the extreme case of
+there being only _one_ value before us, by just taking that one; and
+our confidence increases slowly with the number of values before
+us. The only difference therefore here between knowledge resting upon
+such data, and knowledge resting upon complete data, lies not in the
+result obtained but in the confidence with which we entertain it.
+
+23. (2) As regards the second question, viz. the determination of the
+modulus or degree of dispersion about the mean, much the same may be
+said. That is, we adopt the same rule for the determination of the
+E.M.S. (error of mean square) by which the modulus is assigned, as we
+should adopt if we possessed full Information. Or rather we are
+confined to _one_ of the rules given on p. 473, viz. the second, for
+by supposition we have neither the _à priori_ knowledge which would be
+able to supply the first, nor a sufficient number of observations to
+justify the third. That is, we reckon the errors, measured from the
+average, and calculate their mean square: twice this is equal to the
+square of the modulus of the probable curve of facility.[8]
+
+24. (3) The third question demands for its solution somewhat advanced
+mathematics; but the results can be indicated without much
+difficulty. A popular way of stating our requirement would be to say
+that we want to know how likely it is that the mean of the few, which
+we have thus accepted, shall coincide with the true mean. But this
+would be to speak loosely, for the chances are of course indefinitely
+great against such precise coincidence. What we really do is to assign
+the 'probable error'; that is, to assign a limit which it is as likely
+as not that the discrepancy between the inferred mean and the true
+mean should exceed.[9] To take a numerical example: suppose we had
+made several measurements of a wall with a tape, and that the average
+of these was 150 feet. The scrupulous surveyor would give us this
+result, with some such correction as this added,--'probable error 3
+inches'. All that this means is that we may assume that the true value
+is 150 feet, with a confidence that in half the cases (of this
+description) in which we did so, we should really be within three
+inches of the truth.
+
+The expression for this probable error is a simple multiple of the
+modulus: it is the modulus multiplied by 0.4769.... That it should be
+some function of the modulus, or E.M.S., seems plausible enough; for
+the greater the errors,--in other words the wider the observed
+discrepancy amongst our measurements,--the less must be the confidence
+we can feel in the accuracy of our determination of the mean. But, of
+course, without mathematics we should be quite unable to attempt any
+numerical assignment.
+
+25. The general conclusion therefore is that the determination of the
+curve of facility,--and therefore ultimately of every conclusion which
+rests upon a knowledge of this curve,--where only a few observations
+are available, is of just the same kind as where an infinity are
+available. The rules for obtaining it are the same, but the confidence
+with which it can be accepted is less.
+
+The knowledge, therefore, obtainable by an average of a small number
+of measurements of any kind, hardly differs except in degree from that
+which would be attainable by an indefinitely extensive series of
+them. We know the same sort of facts, only we are less certain about
+them. But, on the other hand, the knowledge yielded by an average even
+of a small number differs in kind from that which is yielded by a
+single measurement. Revert to our marksman, whose bullseye is supposed
+to have been afterwards removed. If he had fired only a single shot,
+not only should we be less certain of the point he had aimed at, but
+we should have no means whatever of guessing at the quality of his
+shooting, or of inferring in consequence anything about the probable
+remoteness of the next shot from that which had gone before. But
+directly we have a plurality of shots before us, we not merely feel
+more confident as to whereabouts the centre of aim was, but we also
+gain some knowledge as to how the future shots will cluster about the
+spot thus indicated. The quality of his shooting begins at once to be
+betrayed by the results.
+
+26. Thus far we have been supposing the Law of Facility to be of the
+Binomial type. There are several reasons for discussing this at such
+comparative length. For one thing it is the only type which,--or
+something approximately resembling which,--is actually prevalent over
+a wide range of phenomena. Then again, in spite of its apparent
+intricacy, it is really one of the simplest to deal with; owing to the
+fact that every curve of facility derived from it by taking averages
+simply repeats the same type again. The curve of the average only
+differs from that of the single elements in having a smaller modulus;
+and its modulus is smaller in a ratio which is exceedingly easy to
+give. If that of the one is c, that of the other (derived by averaging
+n single elements) is c/sqrt{n}.
+
+But for understanding the theory of averages we must consider other
+cases as well. Take then one which is intrinsically as simple as it
+possibly can be, viz. that in which all values within certain assigned
+limits are equally probable. This is a case familiar enough in
+abstract Probability, though, as just remarked, not so common in
+natural phenomena. It is the state of things when we act at random
+directly upon the objects of choice;[10] as when, for instance, we
+choose digits at random out of a table of logarithms.
+
+The reader who likes to do so can without much labour work out the
+result of taking an average of two or three results by proceeding in
+exactly the same way which we adopted on p. 476. The 'curve of
+facility' with which we have to start in this case has become of
+course simply a finite straight line. Treating the question as one of
+simple combinations, we may divide the line into a number of equal
+parts, by equidistant points; and then proceed to take these two and
+two together in every possible way, as we did in the case discussed
+some pages back.
+
+If we did so, what we should find would be this. When an average of
+_two_ is taken, the 'curve of facility' of the average becomes a
+triangle with the initial straight line for base; so that the ultimate
+mean or central point becomes the likeliest result even with this
+commencement of the averaging process. If we were to take averages of
+three, four, and so on, what we should find would be that the Binomial
+law begins to display itself here. The familiar bell shape of the
+exponential curve would be more and more closely approximated to,
+until we obtained something quite indistinguishable from it.
+
+27. The conclusion therefore is that when we are dealing with averages
+involving a considerable number it is not necessary, in general, to
+presuppose the binomial law of distribution in our original data. The
+law of arrangement of what we may call the derived curve, viz. that
+corresponding to the averages, will not be appreciably affected
+thereby. Accordingly we seem to be justified in bringing to bear all
+the same apparatus of calculation as in the former case. We take the
+initial average as the probable position of the true centre or
+ultimate average: we estimate the probability that we are within an
+assignable distance of the truth in so doing by calculating the 'error
+of mean square'; and we appeal to this same element to determine the
+modulus, i.e. the amount of contraction or dispersion, of our derived
+curve of facility.
+
+The same general considerations will apply to most other kinds of Law
+of Facility. Broadly speaking,--we shall come to the examination of
+certain exceptions immediately,--whatever may have been the primitive
+arrangement (i.e. that of the single results) the arrangement of the
+derived results (i.e. that of the averages) will be more crowded up
+towards the centre. This follows from the characteristic of
+combinations already noticed, viz. that extreme values can only be got
+at by a repetition of several extremes, whereas intermediate values
+can be got at either by repetition of intermediates or through the
+counteraction of opposite extremes. Provided the original
+distribution be symmetrical about the centre, and provided the limits
+of possible error be finite, or if infinite, that the falling off of
+frequency as we recede from the mean be very rapid, then the results
+of taking averages will be better than those of trusting to single
+results.
+
+28. We will now take notice of an exceptional case. We shall do so,
+not because it is one which can often actually occur, but because the
+consideration of it will force us to ask ourselves with some
+minuteness what we mean in the above instances by calling the results
+of the averages 'better' than those of the individual values. A
+diagram will bring home to us the point of the difficulty better than
+any verbal or symbolic description.
+
+[Figure: Distribution for two samples from a non-Gaussian distribution.]
+
+The black line represents a Law of Error easily stated in words, and
+one which, as we shall subsequently see, can be conceived as occurring
+in practice. It represents a state of things under which up to a
+certain distance from O, on each side, viz. to A and B, the
+probability of an error diminishes uniformly with the distance from O;
+whilst beyond these points, up to E and F, the probability of error
+remains constant. The dotted line represents the resultant Law of
+Error obtained by taking the average of the former two and two
+together. Now is the latter 'better' than the former?  Under it,
+certainly, great errors are less frequent and intermediate ones more
+frequent; but then on the other hand the _small_ errors are less
+frequent: is this state of things on the whole an improvement or not?
+This requires us to reconsider the whole question.
+
+29. In all the cases discussed in the previous sections the
+superiority of the curve of averages over that of the single results
+showed itself at every point. The big errors were scarcer and the
+small errors were commoner; it was only just at one intermediate point
+that the two were on terms of equality, and this point was not
+supposed to possess any particular significance or
+importance. Accordingly we had no occasion to analyse the various
+cases included under the general relation. It was enough to say that
+one was better than the other, and it was sufficient for all purposes
+to take the 'modulus' as the measure of this superiority. In fact we
+are quite safe in simply saying that the _average_ of those average
+results is better than that of the individual ones.
+
+When however we proceed in what Hume calls "the sifting humour," and
+enquire _why_ it is sufficient thus to trust to the average; we find,
+in addition to the considerations hitherto advanced, that some
+postulate was required as to the _consequences_ of the errors we
+incur. It involved an estimate of what is sometimes called the
+'detriment' of an error. It seemed to take for granted that large and
+small errors all stand upon the same general footing of being
+mischievous in their consequences, but that their evil effects
+increase in a greater ratio than that of their own magnitude.
+
+30. Suppose, for comparison, a case in which the importance of an
+error is directly proportional to its magnitude (of course we suppose
+positive and negative errors to balance each other in the long run):
+it does not appear that any advantage would be gained by taking
+averages. Something of this sort may be considered to prevail in cases
+of mere purchase and sale. Suppose that any one had to buy a very
+large number of yards of cloth at a constant price per yard: that he
+had to do this, say, five times a day for many days in succession. And
+conceive that the measurement of the cloth was roughly estimated on
+each separate occasion, with resultant errors which are as likely to
+be in excess as in defect. Would it make the slightest difference to
+him whether he paid separately for each piece; or whether the five
+estimated lengths were added together, their average taken, and he
+were charged with this average price for each piece? In the latter
+case the errors which will be made in the estimation of each piece
+will of course be less in the long run than they would be in the
+former: will this be of any consequence? The answer surely is that it
+will not make the slightest difference to either party in the
+bargain. In the long run, since the same parties are concerned, it
+will not matter whether the intermediate errors have been small or
+large.
+
+Of course nothing of this sort can be regarded as the general rule. In
+almost every case in which we have to make measurements we shall find
+that large errors are much more mischievous than small ones, that is,
+mischievous in a greater ratio than that of their mere magnitude. Even
+in purchase and sale, where _different_ purchasers are concerned, this
+must be so, for the pleasure of him who is overserved will hardly
+equal the pain of him who is underserved. And in many cases of
+scientific measurement large errors may be simply fatal, in the sense
+that if there were no reasonable prospect of avoiding them we should
+not care to undertake the measurement at all.
+
+31. If we were only concerned with practical considerations we might
+stop at this point; but if we want to realize the full logical import
+of average-taking as a means to this particular end, viz. of
+estimating some assigned magnitude, we must look more closely into
+such an exceptional case as that which was indicated in the figure on
+p. 493. What we there assumed was a state of things in reference to
+which extremely small errors were very frequent, but that when once we
+got beyond a certain small range all other errors, within considerable
+limits, were equally likely.
+
+It is not difficult to imagine an example which will aptly illustrate
+the case in point: at worst it may seem a little far-fetched.
+Conceive then that some firm in England received a hurried order to
+supply a portion of a machine, say a steam-engine, to customers at a
+distant place; and that it was absolutely essential that the work
+should be true to the tenth of an inch for it to be of any use. But
+conceive also that two specifications had been sent, resting on
+different measurements, in one of which the length of the requisite
+piece was described as sixty and in the other sixty-one inches. On the
+assumption of any ordinary law of error, whether of the binomial type
+or not, there can be no doubt that the firm would make the best of a
+very bad job by constructing a piece of 60 inches and a half:
+i.e. they would have a better chance of being within the requisite
+tenth of an inch by so doing, than by taking either of the two
+specifications at random and constructing it accurately to this. But
+if the law were of the kind indicated in our diagram,[11] then it
+seems equally certain that they would be less likely to be within the
+requisite narrow margin by so doing. As a mere question of
+probability,--that is, if such estimates were acted upon again and
+again,--there would be fewer failures encountered by simply choosing
+one of the conflicting measurements at random and working exactly to
+this, than by trusting to the average of the two.
+
+This suggests some further reflections as to the taking of
+averages. We will turn now to another exceptional case,
+but one involving somewhat different considerations than
+those which have been just discussed. As before, it may be
+most conveniently introduced by commencing with an example.
+
+32. Suppose then that two scouts were sent to take the calibre of a
+gun in a hostile fort,--we may conceive that the fort was to be
+occupied next day, and used against the enemy, and that it was
+important to have a supply of shot or shell,--and that the result is
+that one of them reports the calibre to be 8 inches and the other 9.
+Would it be wise to assume that the mean of these two, viz. 8-1/2
+inches, was a likelier value than either separately?
+
+The answer seems to be this. If we have reason to suppose that the
+possible calibres partake of the nature of a _continuous_
+magnitude,--i.e. that all values, with certain limits, are to be
+considered as admissible, (an assumption which we always make in our
+ordinary inverse step from an observation or magnitude to the thing
+observed or measured)--then we should be justified in selecting the
+average as the likelier value. But if, on the other hand, we had
+reason to suppose that _whole_ inches are always or generally
+preferred, as is in fact the case now with heavy guns, we should do
+better to take, even at hazard, one of the two estimates set before
+us, and trust this alone instead of taking an average of the two.
+
+33. The principle upon which we act here may be stated thus. Just as
+in the direct process of calculating or displaying the 'errors',
+whether in an algebraic formula or in a diagram, we generally assume
+that their possibility is continuous, i.e. that all intermediate
+values are possible; so, in the inverse process of determining the
+probable position of the original from the known value of two or more
+errors, we assume that that position is capable of falling at any
+point whatever between certain limits. In such an example as the
+above, where we know or suspect a discontinuity of that possibility of
+position, the value of the average may be entirely destroyed.
+
+In the above example we were supposed to know that the calibre of the
+guns was likely to run in English inches or in some other recognized
+units. But if the battery were in China or Japan, and we knew nothing
+of the standards of length in use there, we could no longer appeal to
+this principle. It is doubtless highly probable that those calibres
+are not of the nature of continuously varying magnitudes; but in an
+entire ignorance of the standards actually adopted, we are to all
+intents and purposes in the same position as if they were of that
+continuous nature. When this is so the objections to trusting to the
+average would no longer hold good, and if we had only one opportunity,
+or a very few opportunities, we should do best to adhere to the
+customary practice.
+
+34. When however we are able to collect and compare a large number of
+measurements of various objects, this consideration of the probable
+discontinuity of the objects we thus measure,--that is, their tendency
+to assume some one or other of a finite number of distinct magnitudes,
+instead of showing an equal readiness to adapt themselves to all
+intermediate values,--again assumes importance. In fact, given a
+sufficient number of measurable objects, we can actually deduce with
+much probability the standard according to which the things in
+question were made.
+
+This is the problem which Mr Flinders Petrie has attacked with so much
+acuteness and industry in his work on _Inductive Metrology_, a work
+which, merely on the ground of its speculative interest, may well be
+commended to the student of Probability. The main principles on which
+the reasoning is based are these two:--(1) that all artificers are
+prone to construct their works according to round numbers, or simple
+fractions, of their units of measurement; and (2) that, aiming to
+secure this, they will stray from it in tolerable accordance with the
+law of error. The result of these two assumptions is that if we
+collect a very large number of measurements of the different parts and
+proportions of some ancient building,--say an Egyptian temple,--whilst
+no assignable length is likely to be permanently unrepresented, yet we
+find a marked tendency for the measurements to cluster about certain
+determinate points in our own, or any other standard scale of
+measurement. These points mark the length of the standard, or of some
+multiple or submultiple of the standard, employed by the old
+builders. It need hardly be said that there are a multitude of
+practical considerations to be taken into account before this method
+can be expected to give trustworthy results, but the leading
+principles upon which it rests are comparatively simple.
+
+35. The case just considered is really nothing else than the
+recurrence, under a different application, of one which occupied our
+attention at a very early stage. We noticed (Chap. II.) the
+possibility of a curve of facility which instead of having a single
+vertex like that corresponding to the common law of error, should
+display two humps or vertices. It can readily be shown that this
+problem of the measurements of ancient buildings, is nothing more than
+the reopening of the same question, in a slightly more complex form,
+in reference to the question of the functions of an average.
+
+Take a simple example. Suppose an instance in which great errors, of a
+certain approximate magnitude, are distinctly more likely to be
+committed than small ones, so that the curve of facility, instead of
+rising into one peak towards the centre, as in that of the familiar
+law of error, shows a depression or valley there. Imagine, in fact,
+two binomial curves, with a short interval between their centres. Now
+if we were to calculate the result of taking averages here we should
+find that this at once tends to fill up the valley; and if we went on
+long enough, that is, if we kept on taking averages of sufficiently
+large numbers, a peak would begin to arise in the centre. In fact the
+familiar single binomial curve would begin to make its appearance.
+
+36. The question then at once suggests itself, ought we to do this?
+Shall we give the average free play to perform its allotted function
+of thus crowding things up towards the centre? To answer this question
+we must introduce a distinction. If that peculiar double-peaked curve
+had been, as it conceivably might, a true error-curve,--that is, if it
+had represented the divergences actually made in aiming at the real
+centre,--the result would be just what we should want. It would
+furnish an instance of the advantages to be gained by taking averages
+even in circumstances which were originally unfavourable. It is not
+difficult to suggest an appropriate illustration. Suppose a man firing
+at a mark from some sheltered spot, but such that the range crossed a
+broad exposed valley up or down which a strong wind was generally
+blowing. If the shot-marks were observed we should find them
+clustering about two centres to the right and left of the
+bullseye. And if the results were plotted out in a curve they would
+yield such a double-peaked curve as we have described. But if the
+winds were equally strong and prevalent in opposite directions, we
+should find that the averaging process redressed the consequent
+disturbance.
+
+If however the curve represented, as it is decidedly more likely to
+do, some outcome of natural phenomena in which there was, so to say, a
+real double aim on the part of nature, it would be otherwise. Take,
+for instance, the results of measuring a large number of people who
+belonged to two very heterogeneous races. The curve of facility would
+here be of the kind indicated on p. 45, and if the numbers of the two
+commingled races were equal it would display a pair of twin
+peaks. Again the question arises, 'ought' we to involve the whole
+range within the scope of a single average?  The answer is that the
+obligation depends upon the purpose we have in view. If we want to
+compare that heterogeneous race, as a whole, with some other, or with
+itself at some other time, we shall do well to average without
+analysis. All statistics of population, as we have already seen
+(v. p. 47), are forced to neglect a multitude of discriminating
+characteristics of the kind in question. But if our object were to
+interpret the causes of this abnormal error-curve we should do well to
+break up the statistics into corresponding parts, and subject these to
+analysis separately.
+
+Similarly with the measurements of the ancient buildings. In this
+case if all our various 'errors' were thrown together into one group
+of statistics we should find that the resultant curve of facility
+displayed, not two peaks only, but a succession of them; and these of
+various magnitudes, corresponding to the frequency of occurrence of
+each particular measurement. We _might_ take an average of the whole,
+but hardly any rational purpose could be subserved in so doing;
+whereas each separate point of maximum frequency of occurrence has
+something significant to teach us.
+
+37. One other peculiar case may be noticed in conclusion. Suppose a
+distinctly asymmetrical, or lop-sided curve of facility, such as
+this:--
+
+[Figure: An asymmetric (lop-sided) distribution.]
+
+Laws of error, of which this is a graphical representation, are, I
+apprehend, far from uncommon. The curve in question, is, in fact, but
+a slight exaggeration of that of barometrical heights as referred to
+in the last chapter; when it was explained that in such cases the
+mean, the median, and the maximum ordinate would show a mutual
+divergence. The doubt here is not, as in the preceding instances,
+whether or not a single average should be taken, but rather what kind
+of average should be selected. As before, the answer must depend upon
+the special purpose we have in view. For all ordinary purposes of
+comparison between one time or place and another, any average will
+answer, and we should therefore naturally take the arithmetical, as
+the most familiar, or the median, as the simplest.
+
+38. Cases might however arise under which other kinds of average could
+justify themselves, with a momentary notice of which we may now
+conclude. Suppose, for instance, that the question involved here were
+one of desirability of climate. The ordinary mean, depending as it
+does so largely upon the number and magnitude of extreme values, might
+very reasonably be considered a less appropriate test than that of
+judging simply by the relatively most frequent value: in other words,
+by the maximum ordinate. And various other points of view can be
+suggested in respect of which this particular value would be the most
+suitable and significant.
+
+In the foregoing case, viz. that of the weather curve, there was no
+objective or 'true' value aimed at. But a curve closely resembling
+this would be representative of that particular class of estimates
+indicated by Mr Galton, and for which, as he has pointed out, the
+_geometrical_ mean becomes the only appropriate one. In this case the
+curve of facility ends abruptly at O: it resembles a much
+foreshortened modification of the common exponential form. Its
+characteristics have been discussed in the paper by Dr Macalister
+already referred to, but any attempt to examine its properties here
+would lead us into far too intricate details.
+
+39. The general conclusion from all this seems quite in accordance
+with the nature and functions of an average as pointed out in the last
+chapter. Every average, it was urged, is but a single representative
+intermediate value substituted for a plurality of actual values. It
+must accordingly let slip the bulk of the information involved in
+these latter. Occasionally, as in most ordinary measurements, the one
+thing which it represents is obviously the thing we are in want of;
+and then the only question can be, which mean will most accord with
+the 'true' value we are seeking. But when, as may happen in most of
+the common applications of statistics, there is really no 'true value'
+of an objective kind behind the phenomena, the problem may branch out
+in various directions. We may have a variety of purposes to work out,
+and these may demand some discrimination as regards the average most
+appropriate for them. Whenever therefore we have any doubt whether the
+familiar arithmetical average is suitable for the purpose in hand we
+must first decide precisely what that purpose is.
+
+
+1. Mr Mansfield Merriman published in 1877 (_Trans. of the Connecticut
+  Acad._) a list of 408 writings on the subject of Least Squares.
+
+2. In other words, we are to take the "centre of gravity" of the
+  shot-marks, regarding them as all of equal weight. This is, in
+  reality, the 'average' of all the marks, as the elementary
+  geometrical construction for obtaining the centre of gravity of a
+  system of points will show; but it is not familiarly so regarded. Of
+  course, when we are dealing with such cases as occur in Mensuration,
+  where we have to combine or reconcile three or more inconsistent
+  equations, some such rule as that of Least Squares becomes
+  imperative. No taking of an average will get us out of the
+  difficulty.
+
+3. The only reason for supposing this exceptional shape is to secure
+  simplicity. The ordinary target, allowing errors in two dimensions,
+  would yield slightly more complicated results.
+
+4. When first referred to, the _general_ form of this equation was
+  given (v. p. 29). The special form here assigned, in which
+  (h/sqrt{π}) is substituted for A, is commonly employed in
+  Probability, because the integral of y dx, between +infinity and
+  -infinity, becomes equal to unity. That is, the sum of all the
+  mutually exclusive possibilities is represented, as usual, by
+  unity. In this form of expression h is a quantity of the order
+  x^{-1}; for hx is to be a numerical quantity, standing as it does as
+  an index. The modulus, being the reciprocal of this, is of the same
+  order of quantities as the errors themselves. In fact, if we
+  multiply it by 0.4769... we have the so-called 'probable error.'
+
+5. See, for the explanation of this, and of the graphical method of
+  illustrating it, the note on p. 29.
+
+6. Broadly speaking, we may say that the above remarks hold good of
+  any law of frequency of error in which there are actual limits,
+  however wide, to the possible magnitude of an error. If there are no
+  limits to the possible errors, this characteristic of an average to
+  heap its results up towards the centre will depend upon
+  circumstances. When, as in the exponential curve, the approximation
+  to the base, as asymptote, is exceedingly rapid,--that is, when the
+  extreme errors are relatively very few,--it still holds good. But if
+  we were to take as our law of facility such an equation as
+  y = π/(1 + x^{2}), (as hinted by De Morgan and noted by Mr Edgeworth:
+  _Camb. Phil. Trans._ vol. X. p. 184, and vol. XIV. p. 160) it does
+  not hold good. The result of averaging is to _diminish_ the tendency
+  to cluster towards the centre.
+
+7. The reader will find the proofs of these and other similar formulæ
+  in Galloway _on Probability_, and in Airy _on Errors_.
+
+8. The formula commonly used for the E.M.S. in this case is
+  (sum e^{2})/(n - 1) and not (sum e^{2})/n. The difference is trifling,
+  unless n be small; the justification has been offered for it that
+  since the sum of the squares measured from the true centre is a
+  minimum (that centre being the ultimate arithmetical mean) the sum
+  of the squares measured from the somewhat incorrectly assigned
+  centre will be somewhat larger.
+
+9. It appears to me that in strict logical propriety we should like to
+  know the probable error committed in _both_ the assignments of the
+  preceding two sections. But the profound mathematicians who have
+  discussed this question, and who alone are competent to treat it,
+  have mostly written with the practical wants of Astronomy in view;
+  and for this purpose it is sufficient to take account of the one
+  great desideratum, viz. the true values sought. Accordingly the only
+  rules commonly given refer to the probable error of the mean.
+
+10. i.e. as distinguished from acting upon them indirectly. This
+  latter proceeding, as explained in the chapter on Randomness, may
+  result in giving a non-uniform distribution.
+
+11. There is no difficulty in conceiving circumstances under which a
+  law very closely resembling this would prevail. Suppose, e.g., that
+  one of the two measurements had been made by a careful and skilled
+  mechanic, and the other by a man who to save himself trouble had put
+  in the estimate at random (within certain limits),--the firm having
+  a knowledge of this fact but being of course unable to assign the
+  two to their authors,--we should get very much such a Law of Error
+  as is supposed above.
+
+
+
+
+INDEX.
+
+Accidents 342
+
+Airy, G. B. 447, 484
+
+Anticipations, tacit 287
+
+Arbuthnott 258
+
+Aristotle 205, 307
+
+Average
+  arithmetical 437
+  geometrical 439
+  median 442
+  consequences of 482
+  necessary results of 457
+  uses of 439, 489
+
+Babbage 343
+
+Bags and balls 180, 411
+
+Belief
+  correctness of 125, 131, 178
+  gradations of 139
+  growth of 199
+  language of 143
+  measurement of 119, 125, 146
+  quantity of 133
+  test of 140, 149, 294
+  undue 129
+  vagueness of 127
+
+Bentham 319, 323
+
+Bernoulli 91, 117, 389
+
+Bertillon 435
+
+Births, male and female 90, 258, 263
+
+Boat race, Oxford and Cambridge 339
+
+Boole 183
+
+Buckle 237
+
+Buffon 153, 205, 352, 389
+
+Burgersdyck 311
+
+Butler 209, 281, 333, 366
+
+Carlisle Tables 169
+
+Casual, meaning of 245
+
+Causation
+  need of 237
+  proof of 244
+
+Centre of gravity 467
+
+Certainty, in Law 324
+  reasonable 327
+  hypothetical 210
+
+Chance
+  and Causation 244
+    Creation 258
+    Design 256
+    Genius 353
+  neglect of small 363
+  selections 338
+
+Chauvenet 352
+
+Classification, numerical scheme of 48
+
+Coincidences 245
+
+Combinations and Permutations 87
+
+Communism 375, 392
+
+Conceptualism 275
+
+Conflict of chances 418
+
+Consumptives, insurance of 227
+
+Cournot 245, 255, 338
+
+Crackanthorpe 312, 320
+
+Craig, J. 192
+
+Crofton, M. W. 61, 101, 104
+
+Dante 285
+
+Deflection
+  causes of 57
+  from aim 38
+
+De Morgan 83, 106, 119, 122, 135, 177, 179, 197, 236, 247, 296, 308,
+350, 379, 382, 483
+
+De Ros trial 255
+
+Digits, random 111, 114
+
+Discontinuity 116
+
+Distribution, random 106
+
+Diagrams 29, 45, 118, 443, 476, 481, 493, 501
+
+Dialectic 302, 320
+
+Donkin 123, 188, 283
+
+Duration of life 15, 441
+
+Düsing 259
+
+Ebbinghaus 199
+
+Edgeworth, F. Y. 34, 119, 256, 339, 393, 435, 483
+
+Ellis, L. 9
+
+Epidemics 62
+
+Error, law of 29
+  asymmetrical 34, 441, 443
+  binomial 37, 457, 469, 480
+  geometrical 34, 502
+  heterogeneous 45
+  production of 36
+
+Error
+  mean 446
+  probable 446, 472, 488
+  of mean square 447, 488
+
+Escapes, narrow 341
+
+Expectation, moral 388
+
+Experience and probability 74
+
+Exponential curve 29
+
+Extraordinary
+  sense of 159, 423
+  stories 407, 421
+
+Fallacies in Logic and Probability 367
+
+Fatalism 243
+
+Fechner 34, 389, 435, 441
+
+Fluctuation 448
+  unlimited 73
+
+Forbes, J. D. 188, 262
+
+Formal Logic 123
+
+Formal and Material treatment 86
+
+Free will 240
+
+Galloway 248, 448, 484
+
+Galton, F. 33, 50, 70, 318, 442, 451, 473, 502
+
+Gambling
+  and Insurance 370
+  disadvantage of 384
+  final results of 385, 391
+
+Godfray, H. 99
+
+Grote, G. 307
+
+Guy 6
+
+Hamilton, W. 266, 297
+
+Happiness, human 382
+
+Heads and Tails 77
+
+Heredity 50, 357
+
+Herschel 30, 466
+
+Houdin 361
+
+Hume 236, 419, 433
+
+Hypotheses 268
+
+Immediate inferences 121
+
+Independent events 175, 246
+
+Induction
+  and Probability 194, 201, 208, 233, 358
+  difficulty of 213
+  pure 200
+
+Inequality of wealth 382
+
+Inference, rules of 167
+
+Inoculation 374
+
+Insurance
+  justification of 149
+  difficulties of 221
+  life 151
+  peculiar case 224
+  theory of 372
+  varieties of 374
+
+Inverse probability 179, 196, 249
+
+Irregularity, absolute and relative 6
+
+Jacobs, J. 199
+
+Jackson, J. G. 253
+
+Jevons 37, 83, 136, 198, 201, 209, 247
+
+Kant 310, 317
+
+Keckermann 298, 316
+
+Kinds, natural 55
+
+Krug 324
+
+Lambert 309
+
+Language of Chance 159
+
+Laplace 89, 120, 197, 237, 424
+
+Law
+  absence of 101
+  empirical 160
+  of causation 206
+
+Least squares 41, 467
+
+Leibnitz 309, 320
+
+Letters
+  lost 162, 368
+  misdirected 67, 237, 241
+
+Lexis, W. 263, 441
+
+Limit
+  conception of 18, 109, 164
+  of possible fluctuation 32
+
+Lines, random 113
+
+Lister's method 187
+
+Lotteries 128
+
+Lunn, J. R. 248
+
+Likely, equally 77, 183
+
+McAlister, D. 34, 187, 502
+
+Mansel, H. L. 299, 301, 320
+
+Martingale 343
+
+Material and Formal Logic 265
+
+Maximum ordinate 441, 455
+
+Measurement of
+  Belief 119
+  Memory 192
+
+Mental qualities, measurement of 49
+
+Merriman, M. 352, 448, 460, 465
+
+Mill, J. S. 131, 207, 266, 282, 402
+
+Milton, chance production of 353
+
+Miracles 428
+
+Michell, J. 260
+
+Modality 295
+  divisions of 307
+  false 297
+  formal 298
+  in Law 319
+
+Modulus 464, 472, 484
+
+Monro, C. J. 325, 416
+
+Names, reference of 270
+
+Nations, comparison of 51
+
+Natural Kinds 55, 63, 71
+
+Necessary and impossible matter 310
+
+Objects and agencies 53
+
+Occam 314
+
+Paley 433
+
+Penny, tosses of 144
+
+Petrie, F. 498
+
+Petersburg Problem 19, 154
+
+Poisson 405
+
+Prantl 311
+
+Presumption, legal 329
+
+Prévost 348
+
+Probability
+  definition of 165
+  relative 290
+  integral 463
+
+Probable
+  facts 269
+  value 441
+  error 446, 472
+
+Problem, Three point 104
+
+Proctor, R. A. 262, 378
+
+Prophecies, suicidal 226
+
+Providence 89, 431
+
+Propositions, proportional 2
+
+Psychical research 256
+
+Pyramid, the great 251
+
+π, digits in 111, 247
+
+Quartiles 446
+
+Quetelet 23, 30, 43, 91, 259, 330, 348, 454
+
+Randomness
+  etymology of 96
+  in firing 98
+  proof of 107
+
+Rare events 349
+
+Realism 92
+
+Reason, sufficient 82
+
+Residuals 460
+
+Roberts, C. 25
+
+Rod
+  broken at random 98
+  thrown at random 103
+
+Rules
+  Inductive and Deductive 176
+  of Succession 191
+  conflict of 222
+  plurality of 217
+
+Series
+  definite proportions in 11
+  fixed and variable 16
+  ideal 95
+  peculiar 12
+
+Shanks 248
+
+Skeat, W. W. 96
+
+Smiglecius 306, 316
+
+Smyth, P. 251
+
+Socialism 392
+
+Spiritualism 365
+
+Stars, random arrangement of 108, 260
+
+Statistics
+  by Intercomparison 473
+  unconscious appeal to 400
+
+Statistical Journal 6
+
+Stature
+  human 25, 471
+  French and English 44
+
+Stephen, J. F. 282, 323, 326
+
+Stewart, D. 209, 237
+
+Subjective and objective terms 160
+
+Succession
+  long 360
+  Rule of 190, 362
+
+Suffield, G. 248
+
+Suicides 67, 237
+
+Surnames, extinction of 387
+
+Surprise, emotion of 157
+
+Syllogisms, pure and modal 316
+
+Taylor 329
+
+Testimony
+  single 411
+  combined 426
+  two kinds of 409
+  worthless 416
+
+Thomson, W. 153, 314, 419
+
+Time
+  influence of 191
+  in Probability 279
+
+Todhunter 415
+
+Tontines 380
+
+Triangle, random 103
+
+Tucker, A. 127
+
+Types
+  existence of 42, 60, 453
+  fixed and fluctuating 64, 93
+
+Ueberweg 311
+
+Uncertainty in life 370
+
+Uniformity 240
+
+Units of calculation 464
+
+Voluntary agency 65, 68, 85
+
+Watford 374
+
+Wallis, J. 312
+
+Watson, H. W. 387
+
+Whately 297, 307
+
+Whist 401
+
+Whitworth, W. A. 87, 183, 384
+
+Wilson, J. M. 104
+
+Witnesses, independent 405
+
+Wolf 309
+
+Woolhouse 101
+
+CAMBRIDGE: PRINTED BY C.J. CLAY, M.A. AND SONS, AT THE UNIVERSITY PRESS.
+
+
+
+
+
+End of Project Gutenberg's The Logic of Chance, 3rd edition, by John Venn
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE LOGIC OF CHANCE, 3RD EDITION ***
+
+***** This file should be named 57359-0.txt or 57359-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/7/3/5/57359/
+
+Produced by Juliet Sutherland, Andrew D. Hwang, and the
+Online Distributed Proofreading Team at http://www.pgdp.net.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

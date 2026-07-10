@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 211,
+      "title": "The Aspern Papers",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Venice (Italy) -- Fiction; Psychological fiction; Man-woman relationships -- Fiction; Poets -- Fiction; Manuscripts -- Collectors and collecting -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 213,
+      "title": "The Man from Snowy River",
+      "author": "Paterson, A. B. (Andrew Barton), 1864-1941",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Frontier and pioneer life -- Australia -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 214,
+      "title": "In the Days When the World Was Wide, and Other Verses",
+      "author": "Lawson, Henry, 1867-1922",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Frontier and pioneer life -- Australia -- Poetry; Australian poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 215,
+      "title": "The call of the wild",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Dogs -- Fiction; Adventure stories; Nature stories; Klondike River Valley (Yukon) -- Fiction; Sled dogs -- Fiction; Pet theft -- Fiction; Feral dogs -- Fiction; Animal welfare -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 217,
+      "title": "Sons and Lovers",
+      "author": "Lawrence, D. H. (David Herbert), 1885-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Autobiographical fiction; England -- Fiction; Domestic fiction; Bildungsromans; Young men -- Fiction; Working class families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 219,
+      "title": "Heart of Darkness",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Africa -- Fiction; Europeans -- Africa -- Fiction; Trading posts -- Fiction; Degeneration -- Fiction; Imperialism -- Fiction; Psychological fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 220,
+      "title": "The Secret Sharer",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Psychological fiction; Ship captains -- Fiction; Fugitives from justice -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 222,
+      "title": "The Moon and Sixpence",
+      "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Psychological fiction; Painters -- Fiction; Tahiti (French Polynesia : Island) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 223,
+      "title": "The wisdom of Father Brown",
+      "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "England -- Fiction; Clergy -- Fiction; Detective and mystery stories, English; Catholics -- Fiction; Brown, Father (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 224,
+      "title": "A pair of blue eyes",
+      "author": "Hardy, Thomas, 1840-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Triangles (Interpersonal relations) -- Fiction; Wessex (England) -- Fiction; Separation (Psychology) -- Fiction; Elopement -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 225,
+      "title": "At the Back of the North Wind",
+      "author": "MacDonald, George, 1824-1905",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 233,
+      "title": "Sister Carrie: A Novel",
+      "author": "Dreiser, Theodore, 1871-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; Didactic fiction; Young women -- Fiction; Chicago (Ill.) -- Fiction; Mistresses -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 234,
+      "title": "Child Christopher and Goldilind the Fair",
+      "author": "Morris, William, 1834-1896",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 235,
+      "title": "William Gibson Interviewed",
+      "author": "Salza, Giuseppe",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Gibson, William, 1914-2008",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 236,
+      "title": "The Jungle Book",
+      "author": "Kipling, Rudyard, 1865-1936",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Short stories; Animals -- Fiction; Jungles -- Fiction; India -- Fiction; Jungle animals -- Fiction; Mowgli (Fictitious character) -- Fiction; Adventure stories, English; Feral children -- Fiction; India -- History -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 238,
+      "title": "Dear Enemy",
+      "author": "Webster, Jean, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 240,
+      "title": "Stories from the Old Attic",
+      "author": "Harris, Robert A. (Robert Alan), 1950-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Fables",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 241,
+      "title": "Clotelle; Or, The Colored Heroine, a tale of the Southern States; Or, The President's Daughter",
+      "author": "Brown, William Wells, 1814?-1884",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children of presidents -- Fiction; Enslaved women -- Fiction; Jefferson, Thomas, 1743-1826 -- Relations with women -- Fiction; Domestic fiction; Illegitimate children -- Fiction; African American women -- Fiction; African American families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 242,
+      "title": "My \u00c1ntonia",
+      "author": "Cather, Willa, 1873-1947",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Nebraska -- Fiction; Frontier and pioneer life -- Nebraska -- Fiction; Western stories; Domestic fiction; Friendship -- Fiction; Married women -- Fiction; Farm life -- Fiction; Women pioneers -- Fiction; Women immigrants -- Fiction; Farmers' spouses -- Fiction; Czech Americans -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 243,
+      "title": "The forged coupon, and other stories",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Wright, C. T. Hagberg (Charles Theodore Hagberg), 1862-1940 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, Russian -- Translations into English; Russian fiction -- Translations into English; Tolstoy, Leo, graf, 1828-1910 -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 244,
+      "title": "A Study in Scarlet",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Holmes, Sherlock (Fictitious character) -- Fiction; Private investigators -- England -- Fiction; Detective and mystery stories; England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 245,
+      "title": "Life on the Mississippi",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mississippi River -- Description and travel; Mississippi River Valley -- Social life and customs -- 19th century; Authors, American -- 19th century -- Biography; Pilots and pilotage -- Mississippi River; Twain, Mark, 1835-1910 -- Travel -- Mississippi River",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 257,
+      "title": "Troilus and Criseyde",
+      "author": "Chaucer, Geoffrey, 1343?-1400",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Troilus (Legendary character) -- Poetry; Trojan War -- Poetry; Cressida (Fictitious character) -- Poetry; Troy (Extinct city) -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 258,
+      "title": "Poems by Adam Lindsay Gordon",
+      "author": "Gordon, Adam Lindsay, 1833-1870; Clarke, Marcus Andrew Hislop, 1846-1881 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Gordon, Adam Lindsay, 1833-1870; Australia -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 259,
+      "title": "Ballads of a Cheechako",
+      "author": "Service, Robert W. (Robert William), 1874-1958",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Frontier and pioneer life -- Yukon -- Poetry; Klondike River Valley (Yukon) -- Gold discoveries -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 261,
+      "title": "A Dome of Many-Coloured Glass",
+      "author": "Lowell, Amy, 1874-1925",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 262,
+      "title": "The Collected Poems of Rupert Brooke",
+      "author": "Brooke, Rupert, 1887-1915; Woodberry, George Edward, 1855-1930 [Author of introduction, etc.]; Lavington, Margaret [Contributor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Poets, English -- 20th century -- Biography; Brooke, Rupert, 1887-1915",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 263,
+      "title": "Trees, and Other Poems",
+      "author": "Kilmer, Joyce, 1886-1918",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry, Modern -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 264,
+      "title": "Main Street, and Other Poems",
+      "author": "Kilmer, Joyce, 1886-1918",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "City and town life -- Poetry; Poetry, Modern -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 267,
+      "title": "The Touchstone",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Rejection (Psychology) -- Fiction; Married people -- Fiction; Triangles (Interpersonal relations) -- Fiction; Women novelists -- Fiction; Love-letters -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 268,
+      "title": "The Octopus : A Story of California",
+      "author": "Norris, Frank, 1870-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Farm life -- Fiction; Mussel Slough Tragedy, 1880 -- Fiction; Wheat farmers -- Fiction; Farmers -- Fiction; San Joaquin Valley (Calif.) -- Fiction; California -- Fiction; Railroad stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 269,
+      "title": "Beasts and Super-Beasts",
+      "author": "Saki, 1870-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Supernatural -- Fiction; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 270,
+      "title": "Dream Days",
+      "author": "Grahame, Kenneth, 1859-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Siblings -- Fiction; Country life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 271,
+      "title": "Black Beauty",
+      "author": "Sewell, Anna, 1820-1878",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Horses -- Juvenile fiction; Human-animal relationships -- Juvenile fiction; Great Britain -- History -- 19th century -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 283,
+      "title": "The Reef",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Domestic fiction; France -- Fiction; Man-woman relationships -- Fiction; Americans -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 284,
+      "title": "The House of Mirth",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; Psychological fiction; Single women -- Fiction; Social classes -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 286,
+      "title": "Laddie: A True Blue Story",
+      "author": "Stratton-Porter, Gene, 1863-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Indiana -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 287,
+      "title": "Remember the Alamo",
+      "author": "Barr, Amelia E., 1831-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Texas -- History -- Revolution, 1835-1836 -- Fiction; Western stories; War stories; Alamo (San Antonio, Tex.) -- Siege, 1836 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 288,
+      "title": "The Certain Hour (Dizain des Po\u00ebtes)",
+      "author": "Cabell, James Branch, 1879-1958",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Fantasy fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 289,
+      "title": "The Wind in the Willows",
+      "author": "Grahame, Kenneth, 1859-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Animals -- Fiction; Humorous stories; England -- Fiction; Friendship -- Fiction; Pastoral fiction; Country life -- Fiction; River life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 290,
+      "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Epistolary fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 291,
+      "title": "The Golden Age",
+      "author": "Grahame, Kenneth, 1859-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Bildungsromans; Pastoral fiction; Siblings -- Fiction; Country life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 293,
+      "title": "Paul Prescott's Charge",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Runaway teenagers -- Fiction; Conduct of life -- Fiction; New York (N.Y.) -- History -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 294,
+      "title": "The Captain of the Polestar, and Other Tales",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Social life and customs -- 19th century -- Fiction; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 295,
+      "title": "The Early Short Fiction of Edith Wharton \u2014 Part 1",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 296,
+      "title": "The Cash Boy",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adoptees -- Juvenile fiction; Orphans -- Juvenile fiction; Didactic fiction; Baseball -- Juvenile fiction; Adventure stories; Boys -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 297,
+      "title": "The Flirt",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Swindlers and swindling -- Fiction; Courtship -- Fiction; Forgery -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 298,
+      "title": "The Market-Place",
+      "author": "Frederic, Harold, 1856-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Swindlers and swindling -- Fiction; Nobility -- Fiction; Capitalists and financiers -- Fiction; Stock exchanges -- Fiction; Jews -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 299,
+      "title": "Tales from Two Hemispheres",
+      "author": "Boyesen, Hjalmar Hjorth, 1848-1895",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Norwegian Americans -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 301,
+      "title": "The Ballad of Reading Gaol",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Imprisonment -- Poetry; Prisoners -- Poetry; Prisons -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

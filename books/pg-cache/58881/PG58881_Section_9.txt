@@ -1,0 +1,472 @@
+CHAPTER X.
+
+_APPLICATION OF THE CALCULUS OF PROBABILITIES TO THE MORAL SCIENCES._
+
+
+We have just seen the advantages of the analysis of probabilities in the
+investigation of the laws of natural phenomena whose causes are unknown
+or so complicated that their results cannot be submitted to calculus.
+This is the case of nearly all subjects of the moral sciences. So many
+unforeseen causes, either hidden or inappreciable, influence human
+institutions that it is impossible to judge _à priori_ the results. The
+series of events which time brings about develops these results and
+indicates the means of remedying those that are harmful. Wise laws have
+often been made in this regard; but because we had neglected to conserve
+the motives many have been abrogated as useless, and the fact that
+vexatious experiences have made the need felt anew ought to have
+reëstablished them.
+
+It is very important to keep in each branch of the public administration
+an exact register of the results which the various means used have
+produced, and which are so many experiences made on a large scale by
+governments. Let us apply to the political and moral sciences the method
+founded upon observation and upon calculus, the method which has served
+us so well in the natural sciences. Let us not offer in the least a
+useless and often dangerous resistance to the inevitable effects of the
+progress of knowledge; but let us change only with an extreme
+circumspection our institutions and the usages to which we have already
+so long conformed. We should know well by the experience of the past the
+difficulties which they present; but we are ignorant of the extent of
+the evils which their change can produce. In this ignorance the theory
+of probability directs us to avoid all change; especially is it
+necessary to avoid the sudden changes which in the moral world as well
+as in the physical world never operate without a great loss of vital
+force.
+
+Already the calculus of probabilities has been applied with success to
+several subjects of the moral sciences. I shall present here the
+principal results.
+
+
+
+
+CHAPTER XI.
+
+_CONCERNING THE PROBABILITIES OF TESTIMONIES._
+
+
+The majority of our opinions being founded on the probability of proofs
+it is indeed important to submit it to calculus. Things it is true often
+become impossible by the difficulty of appreciating the veracity of
+witnesses and by the great number of circumstances which accompany the
+deeds they attest; but one is able in several cases to resolve the
+problems which have much analogy with the questions which are proposed
+and whose solutions may be regarded as suitable approximations to guide
+and to defend us against the errors and the dangers of false reasoning
+to which we are exposed. An approximation of this kind, when it is well
+made, is always preferable to the most specious reasonings. Let us try
+then to give some general rules for obtaining it.
+
+A single number has been drawn from an urn which contains a thousand of
+them. A witness to this drawing announces that number 79 is drawn; one
+asks the probability of drawing this number. Let us suppose that
+experience has made known that this witness deceives one time in ten, so
+that the probability of his testimony is 1/10. Here the event observed
+is the witness attesting that number 79 is drawn. This event may result
+from the two following hypotheses, namely: that the witness utters the
+truth or that he deceives. Following the principle that has been
+expounded on the probability of causes drawn from events observed it is
+necessary first to determine _à priori_ the probability of the event in
+each hypothesis. In the first, the probability that the witness will
+announce number 79 is the probability itself of the drawing of this
+number, that is to say, 1/1000. It is necessary to multiply it by the
+probability 6/10 of the veracity of the witness; one will have then
+9/10000 for the probability of the event observed in this hypothesis. If
+the witness deceives, number 79 is not drawn, and the probability of
+this case is 999/1000. But to announce the drawing of this number the
+witness has to choose it among the 999 numbers not drawn; and as he is
+supposed to have no motive of preference for the ones rather than the
+others, the probability that he will choose number 79 is 1/999;
+multiplying, then, this probability by the preceding one, we shall have
+1/1000 for the probability that the witness will announce number 79 in
+the second hypothesis. It is necessary again to multiply this
+probability by 1/10 of the hypothesis itself, which gives 1/10000 for
+the probability of the event relative to this hypothesis. Now if we form
+a fraction whose numerator is the probability relative to the first
+hypothesis, and whose denominator is the sum of the probabilities
+relative to the two hypotheses, we shall have, by the sixth principle,
+the probability of the first hypothesis, and this probability will be
+9/10; that is to say, the veracity itself of the witness. This is
+likewise the probability of the drawing of number 79. The probability of
+the falsehood of the witness and of the failure of drawing this number
+is 1/10.
+
+If the witness, wishing to deceive, has some interest in choosing number
+79 among the numbers not drawn,—if he judges, for example, that having
+placed upon this number a considerable stake, the announcement of its
+drawing will increase his credit, the probability that he will choose
+this number will no longer be as at first, 1/999, it will then be ½, ⅓,
+etc., according to the interest that he will have in announcing its
+drawing. Supposing it to be 1/9, it will be necessary to multiply by
+this fraction the probability 999/1000 in order to get in the hypothesis
+of the falsehood the probability of the event observed, which it is
+necessary still to multiply by 1/10, which gives 111/10000 for the
+probability of the event in the second hypothesis. Then the probability
+of the first hypothesis, or of the drawing of number 79, is reduced by
+the preceding rule to 9/120. It is then very much decreased by the
+consideration of the interest which the witness may have in announcing
+the drawing of number 79. In truth this same interest increases the
+probability 9/10 that the witness will speak the truth if number 79 is
+drawn. But this probability cannot exceed unity or 10/10; thus the
+probability of the drawing of number 79 will not surpass 10/121. Common
+sense tells us that this interest ought to inspire distrust, but
+calculus appreciates the influence of it.
+
+The probability _à priori_ of the number announced by the witness is
+unity divided by the number of the numbers in the urn; it is changed by
+virtue of the proof into the veracity itself of the witness; it may then
+be decreased by the proof. If, for example, the urn contains only two
+numbers, which gives ½ for the probability _à priori_ of the drawing of
+number 1, and if the veracity of a witness who announces it is 4/10,
+this drawing becomes less probable. Indeed it is apparent, since the
+witness has then more inclination towards a falsehood than towards the
+truth, that his testimony ought to decrease the probability of the fact
+attested every time that this probability equals or surpasses ½. But if
+there are three numbers in the urn the probability _à priori_ of the
+drawing of number 1 is increased by the affirmation of a witness whose
+veracity surpasses ⅓.
+
+Suppose now that the urn contains 999 black balls and one white ball,
+and that one ball having been drawn a witness of the drawing announces
+that this ball is white. The probability of the event observed,
+determined _à priori_ in the first hypothesis, will be here, as in the
+preceding question, equal to 9/10000. But in the hypothesis where the
+witness deceives, the white ball is not drawn and the probability of
+this case is 999/1000. It is necessary to multiply it by the probability
+1/10 of the falsehood, which gives 999/10000 for the probability of the
+event observed relative to the second hypothesis. This probability was
+only 1/10000 in the preceding question; this great difference results
+from this—that a black ball having been drawn the witness who wishes to
+deceive has no choice at all to make among the 999 balls not drawn in
+order to announce the drawing of a white ball. Now if one forms two
+fractions whose numerators are the probabilities relative to each
+hypothesis, and whose common denominator is the sum of these
+probabilities, one will have 9/1008 for the probability of the first
+hypothesis and of the drawing of a white ball, and 999/1008 for the
+probability of the second hypothesis and of the drawing of a black ball.
+This last probability strongly approaches certainty; it would approach
+it much nearer and would become 999999/1000008 if the urn contained a
+million balls of which one was white, the drawing of a white ball
+becoming then much more extraordinary. We see thus how the probability
+of the falsehood increases in the measure that the deed becomes more
+extraordinary.
+
+We have supposed up to this time that the witness was not mistaken at
+all; but if one admits, however, the chance of his error the
+extraordinary incident becomes more improbable. Then in place of the two
+hypotheses one will have the four following ones, namely: that of the
+witness not deceiving and not being mistaken at all; that of the witness
+not deceiving at all and being mistaken; the hypothesis of the witness
+deceiving and not being mistaken at all; finally, that of the witness
+deceiving and being mistaken. Determining _à priori_ in each of these
+hypotheses the probability of the event observed, we find by the sixth
+principle the probability that the fact attested is false equal to a
+fraction whose numerator is the number of black balls in the urn
+multiplied by the sum of the probabilities that the witness does not
+deceive at all and is mistaken, or that he deceives and is not mistaken,
+and whose denominator is this numerator augmented by the sum of the
+probabilities that the witness does not deceive at all and is not
+mistaken at all, or that he deceives and is mistaken at the same time.
+We see by this that if the number of black balls in the urn is very
+great, which renders the drawing of the white ball extraordinary, the
+probability that the fact attested is not true approaches most nearly to
+certainty.
+
+Applying this conclusion to all extraordinary deeds it results from it
+that the probability of the error or of the falsehood of the witness
+becomes as much greater as the fact attested is more extraordinary. Some
+authors have advanced the contrary on this basis that the view of an
+extraordinary fact being perfectly similar to that of an ordinary fact
+the same motives ought to lead us to give the witness the same credence
+when he affirms the one or the other of these facts. Simple common sense
+rejects such a strange assertion; but the calculus of probabilities,
+while confirming the findings of common sense, appreciates the greatest
+improbability of testimonies in regard to extraordinary facts.
+
+These authors insist and suppose two witnesses equally worthy of belief,
+of whom the first attests that he saw an individual dead fifteen days
+ago whom the second witness affirms to have seen yesterday full of life.
+The one or the other of these facts offers no improbability. The
+reservation of the individual is a result of their combination; but the
+testimonies do not bring us at all directly to this result, although the
+credence which is due these testimonies ought not to be decreased by the
+fact that the result of their combination is extraordinary.
+
+But if the conclusion which results from the combination of the
+testimonies was impossible one of them would be necessarily false; but
+an impossible conclusion is the limit of extraordinary conclusions, as
+error is the limit of improbable conclusions; the value of the
+testimonies which becomes zero in the case of an impossible conclusion
+ought then to be very much decreased in that of an extraordinary
+conclusion. This is indeed confirmed by the calculus of probabilities.
+
+In order to make it plain let us consider two urns, A and B, of which
+the first contains a million white balls and the second a million black
+balls. One draws from one of these urns a ball, which he puts back into
+the other urn, from which one then draws a ball. Two witnesses, the one
+of the first drawing, the other of the second, attest that the ball
+which they have seen drawn is white without indicating the urn from
+which it has been drawn. Each testimony taken alone is not improbable;
+and it is easy to see that the probability of the fact attested is the
+veracity itself of the witness. But it follows from the combination of
+the testimonies that a white ball has been extracted from the urn A at
+the first draw, and that then placed in the urn B it has reappeared at
+the second draw, which is very extraordinary; for this second urn,
+containing then one white ball among a million black balls, the
+probability of drawing the white ball is 1/1000001. In order to
+determine the diminution which results in the probability of the thing
+announced by the two witnesses we shall notice that the event observed
+is here the affirmation by each of them that the ball which he has seen
+extracted is white. Let us represent by 9/10 the probability that he
+announces the truth, which can occur in the present case when the
+witness does not deceive and is not mistaken at all, and when he
+deceives and is mistaken at the same time. One may form the four
+following hypotheses:
+
+1st. The first and second witness speak the truth. Then a white ball has
+at first been drawn from the urn A, and the probability of this event is
+½, since the ball drawn at the first draw may have been drawn either
+from the one or the other urn. Consequently the ball drawn, placed in
+the urn B, has reappeared at the second draw; the probability of this
+event is 1/1000001, the probability of the fact announced is then
+1/2000002. Multiplying it by the product of the probabilities 9/10 and
+9/10 that the witnesses speak the truth one will have 81/200000200 for
+the probability of the event observed in this first hypothesis.
+
+2d. The first witness speaks the truth and the second does not, whether
+he deceives and is not mistaken or he does not deceive and is mistaken.
+Then a white ball has been drawn from the urn A at the first draw, and
+the probability of this event is ½. Then this ball having been placed in
+the urn B a black ball has been drawn from it: the probability of such
+drawing is 1000000/1000001; one has then 1000000/2000002 for the
+probability of the compound event. Multiplying it by the product of the
+two probabilities 9/10 and 1/10 that the first witness speaks the truth
+and that the second does not, one will have 9000000/200000200 for the
+probability for the event observed in the second hypothesis.
+
+3d. The first witness does not speak the truth and the second announces
+it. Then a black ball has been drawn from the urn B at the first
+drawing, and after having been placed in the urn A a white ball has been
+drawn from this urn. The probability of the first of these events is ½
+and that of the second is 1000000/1000001; the probability of the
+compound event is then 1000000/2000002. Multiplying it by the product of
+the probabilities 1/10 and 9/10 that the first witness does not speak
+the truth and that the second announces it, one will have
+9000000/200000200 for the probability of the event observed relative to
+this hypothesis.
+
+4th. Finally, neither of the witnesses speaks the truth. Then a black
+ball has been drawn from the urn B at the first draw; then having been
+placed in the urn A it has reappeared at the second drawing: the
+probability of this compound event is 1/2000002. Multiplying it by the
+product of the probabilities 1/10 and 1/10 that each witness does not
+speak the truth one will have 1/200000200 for the probability of the
+event observed in this hypothesis.
+
+Now in order to obtain the probability of the thing announced by the two
+witnesses, namely, that a white ball has been drawn at each draw, it is
+necessary to divide the probability corresponding to the first
+hypothesis by the sum of the probabilities relative to the four
+hypotheses; and then one has for this probability 81/18000082, an
+extremely small fraction.
+
+If the two witnesses affirm the first, that a white ball has been drawn
+from one of the two urns A and B; the second that a white ball has been
+likewise drawn from one of the two urns A´ and B´, quite similar to the
+first ones, the probability of the thing announced by the two witnesses
+will be the product of the probabilities of their testimonies, or
+81/100; it will then be at least a hundred and eighty thousand times
+greater than the preceding one. One sees by this how much, in the first
+case, the reappearance at the second draw of the white ball drawn at the
+first draw, the extraordinary conclusion of the two testimonies
+decreases the value of it.
+
+We would give no credence to the testimony of a man who should attest to
+us that in throwing a hundred dice into the air they had all fallen on
+the same face. If we had ourselves been spectators of this event we
+should believe our own eyes only after having carefully examined all the
+circumstances, and after having brought in the testimonies of other eyes
+in order to be quite sure that there had been neither hallucination nor
+deception. But after this examination we should not hesitate to admit it
+in spite of its extreme improbability; and no one would be tempted, in
+order to explain it, to recur to a denial of the laws of vision. We
+ought to conclude from it that the probability of the constancy of the
+laws of nature is for us greater than this, that the event in question
+has not taken place at all—a probability greater than that of the
+majority of historical facts which we regard as incontestable. One may
+judge by this the immense weight of testimonies necessary to admit a
+suspension of natural laws, and how improper it would be to apply to
+this case the ordinary rules of criticism. All those who without
+offering this immensity of testimonies support this when making recitals
+of events contrary to those laws, decrease rather than augment the
+belief which they wish to inspire; for then those recitals render very
+probable the error or the falsehood of their authors. But that which
+diminishes the belief of educated men increases often that of the
+uneducated, always greedy for the wonderful.
+
+There are things so extraordinary that nothing can balance their
+improbability. But this, by the effect of a dominant opinion, can be
+weakened to the point of appearing inferior to the probability of the
+testimonies; and when this opinion changes an absurd statement admitted
+unanimously in the century which has given it birth offers to the
+following centuries only a new proof of the extreme influence of the
+general opinion upon the more enlightened minds. Two great men of the
+century of Louis XIV.—Racine and Pascal—are striking examples of this.
+It is painful to see with what complaisance Racine, this admirable
+painter of the human heart and the most perfect poet that has ever
+lived, reports as miraculous the recovery of Mlle. Perrier, a niece of
+Pascal and a day pupil at the monastery of Port-Royal; it is painful to
+read the reasons by which Pascal seeks to prove that this miracle should
+be necessary to religion in order to justify the doctrine of the monks
+of this abbey, at that time persecuted by the Jesuits. The young Perrier
+had been afflicted for three years and a half by a lachrymal fistula;
+she touched her afflicted eye with a relic which was pretended to be one
+of the thorns of the crown of the Saviour and she had faith in instant
+recovery. Some days afterward the physicians and the surgeons attest the
+recovery, and they declare that nature and the remedies have had no part
+in it. This event, which took place in 1656, made a great sensation, and
+"all Paris rushed," says Racine, "to Port-Royal. The crowd increased
+from day to day, and God himself seemed to take pleasure in authorizing
+the devotion of the people by the number of miracles which were
+performed in this church." At this time miracles and sorcery did not yet
+appear improbable, and one did not hesitate at all to attribute to them
+the singularities of nature which could not be explained otherwise.
+
+This manner of viewing extraordinary results is found in the most
+remarkable works of the century of Louis XIV.; even in the Essay on the
+Human Understanding by the philosopher Locke, who says, in speaking of
+the degree of assent: "Though the common experience and the ordinary
+course of things have justly a mighty influence on the minds of men, to
+make them give or refuse credit to anything proposed to their belief;
+yet there is one case, wherein the strangeness of the fact lessens not
+the assent to a fair testimony of it. For where such supernatural events
+are suitable to ends aimed at by him who has the power to change the
+course of nature, there, under such circumstances, they may be the
+fitter to procure belief, by how much the more they are beyond or
+contrary to ordinary observation." The true principles of the
+probability of testimonies having been thus misunderstood by
+philosophers to whom reason is principally indebted for its progress, I
+have thought it necessary to present at length the results of calculus
+upon this important subject.
+
+There comes up naturally at this point the discussion of a famous
+argument of Pascal, that Craig, an English mathematician, has produced
+under a geometric form. Witnesses declare that they have it from
+Divinity that in conforming to a certain thing one will enjoy not one or
+two but an infinity of happy lives. However feeble the probability of
+the proofs may be, provided that it be not infinitely small, it is clear
+that the advantage of those who conform to the prescribed thing is
+infinite since it is the product of this probability and an infinite
+good; one ought not to hesitate then to procure for oneself this
+advantage.
+
+This argument is based upon the infinite number of happy lives promised
+in the name of the Divinity by the witnesses; it is necessary then to
+prescribe them, precisely because they exaggerate their promises beyond
+all limits, a consequence which is repugnant to good sense. Also
+calculus teaches us that this exaggeration itself enfeebles the
+probability of their testimony to the point of rendering it infinitely
+small or zero. Indeed this case is similar to that of a witness who
+should announce the drawing of the highest number from an urn filled
+with a great number of numbers, one of which has been drawn and who
+would have a great interest in announcing the drawing of this number.
+One has already seen how much this interest enfeebles his testimony. In
+evaluating only at ½ the probability that if the witness deceives he
+will choose the largest number, calculus gives the probability of his
+announcement as smaller than a fraction whose numerator is unity and
+whose denominator is unity plus the half of the product of the number of
+the numbers by the probability of falsehood considered _à priori_ or
+independently of the announcement. In order to compare this case to that
+of the argument of Pascal it is sufficient to represent by the numbers
+in the urn all the possible numbers of happy lives which the number of
+these numbers renders infinite; and to observe that if the witnesses
+deceive they have the greatest interest, in order to accredit their
+falsehood, in promising an eternity of happiness. The expression of the
+probability of their testimony becomes then infinitely small.
+Multiplying it by the infinite number of happy lives promised, infinity
+would disappear from the product which expresses the advantage resultant
+from this promise which destroys the argument of Pascal.
+
+Let us consider now the probability of the totality of several
+testimonies upon an established fact. In order to fix our ideas let us
+suppose that the fact be the drawing of a number from an urn which
+contains a hundred of them, and of which one single number has been
+drawn. Two witnesses of this drawing announce that number 2 has been
+drawn, and one asks for the resultant probability of the totality of
+these testimonies. One may form these two hypotheses: the witnesses
+speak the truth; the witnesses deceive. In the first hypothesis the
+number 2 is drawn and the probability of this event is 1/100. It is
+necessary to multiply it by the product of the veracities of the
+witnesses, veracities which we will suppose to be 9/10 and 7/10: one
+will have then 63/10000 for the probability of the event observed in
+this hypothesis. In the second, the number 2 is not drawn and the
+probability of this event is 99/100. But the agreement of the witnesses
+requires then that in seeking to deceive they both choose the number 2
+from the 99 numbers not drawn: the probability of this choice if the
+witnesses do not have a secret agreement is the product of the fraction
+1/99 by itself; it becomes necessary then to multiply these two
+probabilities together, and by the product of the probabilities 1/10 and
+3/10 that the witnesses deceive; one will have thus 1/330000 for the
+probability of the event observed in the second hypothesis. Now one will
+have the probability of the fact attested or of the drawing of number 2
+in dividing the probability relative to the first hypothesis by the sum
+of the probabilities relative to the two hypotheses; this probability
+will be then 2079/2080, and the probability of the failure to draw this
+number and of the falsehood of the witnesses will be 1/2080.
+
+If the urn should contain only the numbers 1 and 2 one would find in the
+same manner 21/22 for the probability of the drawing of number 2, and
+consequently 1/22 for the probability of the falsehood of the witnesses,
+a probability at least ninety-four times larger than the preceding one.
+One sees by this how much the probability of the falsehood of the
+witnesses diminishes when the fact which they attest is less probable in
+itself. Indeed one conceives that then the accord of the witnesses, when
+they deceive, becomes more difficult, at least when they do not have a
+secret agreement, which we do not suppose here at all.
+
+In the preceding case where the urn contained only two numbers the _à
+priori_ probability of the fact attested is ½, the resultant probability
+of the testimonies is the product of the veracities of the witnesses
+divided by this product added to that of the respective probabilities of
+their falsehood.
+
+It now remains for us to consider the influence of time upon the
+probability of facts transmitted by a traditional chain of witnesses. It
+is clear that this probability ought to diminish in proportion as the
+chain is prolonged. If the fact has no probability itself, such as the
+drawing of a number from an urn which contains an infinity of them, that
+which it acquires by the testimonies decreases according to the
+continued product of the veracity of the witnesses. If the fact has a
+probability in itself; if, for example, this fact is the drawing of the
+number 2 from an urn which contains an infinity of them, and of which it
+is certain that one has drawn a single number; that which the
+traditional chain adds to this probability decreases, following a
+continued product of which the first factor is the ratio of the number
+of numbers in the urn less one to the same number, and of which each
+other factor is the veracity of each witness diminished by the ratio of
+the probability of his falsehood to the number of the numbers in the urn
+less one; so that the limit of the probability of the fact is that of
+this fact considered _à priori_, or independently of the testimonies, a
+probability equal to unity divided by the number of the numbers in the
+urn.
+
+The action of time enfeebles then, without ceasing, the probability of
+historical facts just as it changes the most durable monuments. One can
+indeed diminish it by multiplying and conserving the testimonies and the
+monuments which support them. Printing offers for this purpose a great
+means, unfortunately unknown to the ancients. In spite of the infinite
+advantages which it procures the physical and moral revolutions by which
+the surface of this globe will always be agitated will end, in
+conjunction with the inevitable effect of time, by rendering doubtful
+after thousands of years the historical facts regarded to-day as the
+most certain.
+
+Craig has tried to submit to calculus the gradual enfeebling of the
+proofs of the Christian religion; supposing that the world ought to end
+at the epoch when it will cease to be probable, he finds that this ought
+to take place 1454 years after the time when he writes. But his analysis
+is as faulty as his hypothesis upon the duration of the moon is bizarre.
+
+
+
+

@@ -1,0 +1,295 @@
+XVI
+
+THE QUEST OF THE ABSOLUTE
+
+Modern Developments in Theoretical Physics, and the Climax Supplied
+by Einstein
+
+BY DR. FRANCIS D. MURNAGHAN,
+JOHNS HOPKINS UNIVERSITY
+BALTIMORE
+
+
+We shall discuss the more important aspects of the theory popularly
+known as the "Einstein Theory of Gravitation" and shall try to show
+clearly that this theory is a natural outcome of ideas long held by
+physicists in general. These ideas are:
+
+(a) The impossibility of "action at a distance;" in other words we
+find an instinctive repugnance to admit that one body can affect
+another, remote from it, instantaneously and without the existence
+of an intervening medium.
+
+(b) The independence of natural, i.e., physical, laws of their
+mathematical mode of expression. Thus, when an equation is written down
+as the expression of a physical law it must be satisfied, no matter
+what units we choose in order to measure the quantities occurring in
+the equation. As our physics teacher used to say "the expression of the
+law must have in every term the same dimensions." More than this the
+choice of the quantities used to express the law--if there be a choice
+open--must have no effect on its correctness. As we were told--"all
+physical laws are capable of expression as relations between vectors or
+else as relations between magnitudes of the same dimensions." We shall
+hope to make this clearer in its proper place in the essay, as its
+obvious generalization is Einstein's cardinal principle of relativity.
+
+The measurements which an experimental physicist makes are always the
+expression of a coincidence of two points in space at the same time. If
+we ask such an experimenter what he means by a point in space he tells
+us that, for him, the term has no meaning until he has a material
+body with reference to which he can locate the point by measurements;
+in general it requires three measurements and he expresses this by
+saying that space has three dimensions. He measures his distance,
+as a rule, parallel to three mutually perpendicular lines fixed in
+the material body--a Cartesian reference-frame so-called. So that a
+"point in space" is equivalent to a given material reference-frame
+and three numbers or coordinates. If, for any reason, we prefer to
+use a new material reference-frame the coordinates or measurements
+will change and, if we know the relative positions of the two material
+reference-frames, there is a definite relation between the two sets of
+three coordinates which is termed a transformation of coordinates. But
+which particular material reference-frame shall we use? The first
+choice would, we think, be that attached to the earth. But, even yet,
+we are in doubt as there are numberless Cartesian frameworks attached
+to the earth (as to any material body) and it is here that our idea
+(b) begins to function. We say it must be immaterial which of these
+Cartesian frames we use. In each frame a vector has three components
+and when we change from one frame to another the components change
+in such a way that if two vectors have their three components equal
+in one framework they will be equal in any other attached to the
+same material system. So our idea (b), which says that our physical
+equations must be vector equations, is equivalent to saying that the
+choice of the framework attached to any given material body can have
+no effect on the mode of expression of a natural law.
+
+Shall we carry over our idea (b) to answer the next question: "To
+which material body shall we attach our framework?" To this question
+Newton gave one answer and Einstein another. We shall first consider
+Newton's position and then we may hope to see clearly where the new
+theory diverges from the classical or Newtonian mechanics. Newton's
+answer was that there is a particular material frame with reference
+to which the laws of mechanics have a remarkably simple form commonly
+known as "Newton's laws of motion" and so it is preferable to use
+this framework which is called an absolute frame.
+
+What is the essential peculiarity of an absolute frame? Newton was
+essentially an empiricist of Bacon's school and he observed the
+following facts. Let us suppose we have a framework of reference
+attached to the earth. Then a small particle of matter under the
+gravitational influence of surrounding bodies, including the earth,
+takes on a certain acceleration $A_1$. Now suppose the surrounding
+bodies removed (since we cannot remove the earth we shall have to
+view the experiment as an abstraction), and another set introduced;
+the particle, being again at its original position, will begin to
+move with an acceleration $A_2$. If both sets of surrounding bodies
+are present simultaneously the particle begins to move with an
+acceleration which is approximately but not quite the sum of $A_1$
+and $A_2$. Newton postulated there there is a certain absolute
+reference frame in which the approximation would be an equality;
+and so the acceleration, relative to the material frame, furnishes
+a convenient measure of the effect of the surrounding bodies--which
+effect we call their gravitational force. Notice that if the effect
+of the surrounding bodies is small the acceleration is small and
+so we obtain as a limiting case, Newton's law of inertia which says
+that a body subject to no forces has no acceleration; a law which,
+as Poincaré justly observed, can never be subjected to experimental
+justification. The natural questions then arise: which is the
+absolute and privileged reference-frame and how must the simple laws
+be modified when we use a frame more convenient for us--one attached
+to the earth let us say? The absolute frame is one attached to the
+fixed stars; and to the absolute or real force defined as above,
+we must add certain terms, usually called centrifugal forces. These
+are referred to as fictitious forces because, as it is explained,
+they are due to the motion of the reference-frame with respect to
+the absolute frame and in no way depend on the distribution of the
+surrounding bodies. Gravitational force and centrifugal forces have
+in common the remarkable property that they depend in no way on the
+material of the attracted body nor on its chemical state; they act
+on all matter and are in this way different from other forces met
+with in nature, such as magnetic or electric forces. Further Newton
+found that he could predict the facts of observation accurately on the
+hypothesis that two small particles of matter attracted each other,
+in the direction of the line joining them, with a force varying
+inversely as the square of the distance between them. This law is an
+"action at a distance" law and so is opposed to the idea (a).
+
+We have tacitly supposed that the space in which we make our
+measurements is that made familiar to us by the study of Euclid's
+elements. The characteristic property of this space is that
+stated by the theorem of Pythagoras that the distance between two
+points is found by extracting the square root of the sum of the
+squares of the differences of the Cartesian coordinates of the two
+points. Mathematicians have long recognized the possibility of other
+types of space and Einstein has followed their lead. He abandons
+the empiricist method and when asked what he means by a point in
+space replies that to him a point in space is equivalent to four
+numbers how obtained it is unnecessary to know a priori; in certain
+special cases they may be the three Cartesian coordinates of the
+experimenter (measured with reference to a definite material framework)
+together with the time. Accordingly he says his space is of four
+dimensions. Between any two "points" we may insert a sequence of sets
+of four numbers, varying continuously from the first set to the second,
+thus forming what we call a curve joining the two points. Now we define
+the "length" of this curve in a manner which involves all the points
+on it and stipulate that this length has a physical reality, i.e.,
+according to our idea (b) its value is independent of the particular
+choice of coordinates we make in describing the space. Among all
+the joining curves there will be one with the property of having
+the smallest length; this is called a geodesic and corresponds to
+the straight line in Euclidean space. We must now, for lack of an
+a priori description of the actual significance of our coordinates,
+extend the idea of vector so that we may speak of the components of
+a vector no matter what our coordinates may actually signify. In
+this way are introduced what are known as tensors; if two tensors
+are equal, i.e., have all their components equal, in any one set of
+coordinates they are equal in any other and the fundamental demand of
+the new physics is that all physical equations which are not merely
+the expression of equality of magnitudes must state the equality of
+tensors. In this way no one system of coordinates is privileged above
+any other and the laws of physics are expressed in a form independent
+of the actual coordinates chosen; they are written, as we may say,
+in an absolute form.
+
+
+
+
+THE GRAVITATIONAL HYPOTHESIS
+
+Einstein flatly denies Newton's hypothesis that there is an absolute
+system (and, indeed, many others before him had found it difficult
+to admit that so insignificant a part of the universe as our fixed
+star system should have such a privileged position as that accorded
+to it in the Newtonian Mechanics). In any system, he says, we have no
+reason to distinguish between the so-called real gravitational force
+and the so-called fictitious centrifugal forces--if we wish so to
+express it gravitational force is fictitious force. [10] A particle
+moving in the neighborhood of material bodies moves according to a law
+of inertia--a physical law expressible, therefore, in a manner quite
+independent of the choice of coordinates. The law of inertia is that
+a particle left to itself moves along the geodesics or shortest lines
+in the space. If the particle is remote from other bodies the space
+has the Euclidean character and we have Newton's law of inertia;
+otherwise the particle is in a space of a non-Euclidean character
+(the space being always the four-dimensional space) and the path of
+the particle is along a geodesic in that space. Einstein, in order
+to make the theory more concrete, makes a certain stipulation as to
+the nature of the gravitational space which stipulation is expressed,
+as are all physical laws, by means of a tensor equation--and this is
+sometimes called his law of gravitation.
+
+Perhaps it will be well, in exemplification, to explain why light
+rays, which pass close to the sun, should be bent according to the new
+theory. It is assumed that light rays travel along certain geodesics
+known as minimal geodesics. The sun has an intense gravitational field
+near it--or, as we now say, the departure of the four-dimensional
+space from the Euclidean is very marked for points near the sun--but
+for points so remote as the earth this departure is so small as
+to be negligible. Hence the form of the geodesics near the sun is
+different from that near the earth. If the space surrounding the
+sun were Euclidean the actual paths of the light rays would appear
+different from geodesics or straight-lines. Hence Einstein speaks
+of the curvature of the light rays due to the gravitational field of
+the sun; but we must not be misled by a phrase. Light always travels
+along geodesics (or straight lines--the only definition we have of a
+straight line is that it is a geodesic); but, owing to the "distortion"
+of the space they traverse, due to the sun, these geodesics reach us
+with a direction different from that they would have if they did not
+pass through the markedly non-Euclidean space near the sun.
+
+The consideration of the fundamental four-dimensional space as
+being non-Euclidean where matter is present gives a possibility of
+an answer to the world old question: Is space finite or infinite? Is
+time eternal or finite? The fascinating possibility arises that the
+space may be like the two-dimensional surface of a sphere which to a
+limited experience seems infinite in extent and flat or Euclidean in
+character. A new Columbus now asks us to consider other possibilities
+in which we should have a finite universe--finite not only as to space
+measurement but as to time (for the space may be such that all of the
+four coordinates of its points are bounded in magnitude). However,
+although Einstein speaks of the possibility of a finite universe, we
+do not, personally, think his argument convincing. Points on a sphere
+may be located by the Cartesian coordinates of their stereographic
+projections on the equatorial plane and these coordinates, which
+might well be those actually measured, are not bounded.
+
+
+
+
+THE SPECIAL RELATIVITY THEORY
+
+In our account of the Einstein theory we have not followed its
+historical order of development for two reasons. Firstly, the
+earlier Special Relativity Theory properly belongs to a school
+of thought diametrically opposed to that furnishing the "General
+Theory of Relativity" and, secondly, the latter cannot be obtained
+from the former by the process of generalization as commonly
+understood. Einstein, when proposing the earlier theory, adopted
+the position of the empiricist so that to him the phrase, a point in
+space, had no meaning without a material framework of reference in
+which to measure space distances. When he came to investigate what
+is meant by time and when he asked the question "what is meant by
+the statement that two remote events are simultaneous?" it became
+evident that some mode of communication between the two places is
+necessary; the mode adopted was that by means of light-signals. The
+fundamental hypothesis was then made that the velocity of such signals
+is independent of the velocity of their source (some hypothesis is
+necessary if we wish to compare the time associated with events, when
+one material reference-system is used, and the corresponding time when
+another in motion relative to the first is adopted). It develops that
+time and space measurements are inextricably interwoven; there is no
+such thing as the length of a body or the duration of an event but
+rather these are relative to the reference-system. [11] Minkowski
+introduced the idea of the space of events--of four dimensions--but
+this space was supposed Euclidean like the three-dimensional space
+of his predecessors. To Einstein belongs the credit of taking from
+this representation a purely formal mathematical character and of
+insisting that the "real" space--whose distances have a physical
+significance--is the four-dimensional space. But we cannot insist
+too strongly on the fact that in the gravitational space of the
+general theory there is no postulate of the constancy of velocity of a
+light-signal and accordingly no method of assigning a time to events
+corresponding to that adopted in the special theory. In this latter
+theory attention was confined to material systems moving with uniform
+velocity with respect to each other and it developed that the velocity
+of light was the ultimate velocity faster than which no system could
+move--a result surprising and a priori rather repugnant. It is merely
+a consequence of our mode of comparing times of events; if some other
+method--thought transference, let us say--were possible the velocity
+of this would be the "limiting velocity."
+
+In conclusion we should remark that the postulated equivalence of
+"gravitational" and "centrifugal" forces demands that anything
+possessed of inertia will be acted upon by a gravitational field and
+this leads to a possible identification of matter and energy. Further
+our guiding idea (a) will prompt us to say, following the example
+of Faraday in his electrical researches, that the geodesics of a
+gravitational space have a physical existence as distinct from a mere
+mathematical one. The four-dimensional space we may call the ether, and
+so restore this bearer of physical forces to the position it lost when,
+as a three-dimensional idea in the Special Relativity Theory, it had to
+bear an identical relation to a multitude of relatively moving material
+systems. The reason for our seemingly paradoxical title for an essay on
+Relativity will be clear when it is remembered that in the new theory
+we consider those space-time properties which are absolute or devoid
+of reference to any particular material reference-frame. Nevertheless,
+although the general characteristics of the theory are thus described,
+without reference to experiment, when the theory is to be tested it
+is necessary to state what the four coordinates discussed actually
+are--how they are determined by measurement. It is our opinion that
+much remains to be done to place this portion of the subject on a
+satisfactory basis. For example, in the derivation of the nature
+of the gravitational space, surrounding a single attracting body,
+most of the accounts use Cartesian coordinates as if the space were
+Euclidean and step from these to polar coordinates by the formulæ
+familiar in Euclidean geometry. But these details are, perhaps,
+like matters of elegance, if we shall be allowed to give Einstein's
+quotation from Boltzmann, to be left to the "tailor and the cobbler."
+
+
+
+
+
+
+
+
+

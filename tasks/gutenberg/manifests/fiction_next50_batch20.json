@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1518,
+      "title": "King Henry IV, Part 2",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry IV, King of England, 1367-1413 -- Drama; Historical drama; Great Britain -- History -- Henry IV, 1399-1413 -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1519,
+      "title": "Much Ado about Nothing",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Rejection (Psychology) -- Drama; Conspiracies -- Drama; Courtship -- Drama; Messina (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1520,
+      "title": "Much Ado about Nothing",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Rejection (Psychology) -- Drama; Conspiracies -- Drama; Courtship -- Drama; Messina (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1521,
+      "title": "King Henry V",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry V, King of England, 1387-1422 -- Drama; Great Britain -- Kings and rulers -- Drama; Great Britain -- History -- Henry V, 1413-1422 -- Drama; Historical drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1522,
+      "title": "Julius Caesar",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Conspiracies -- Drama; Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama; Caesar, Julius -- Assassination -- Drama; Assassins -- Drama; Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1523,
+      "title": "As You Like It",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Fathers and daughters -- Drama; Exiles -- Drama; Pastoral drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1524,
+      "title": "Hamlet",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Hamlet (Legendary character) -- Drama; Kings and rulers -- Succession -- Drama; Murder victims' families -- Drama; Fathers -- Death -- Drama; Revenge -- Drama; Princes -- Drama; Denmark -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1525,
+      "title": "The Phoenix and the Turtle",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1526,
+      "title": "Twelfth Night",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Mistaken identity -- Drama; Twins -- Drama; Siblings -- Drama; Shipwreck survival -- Drama; Illyria -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1527,
+      "title": "Twelfth Night",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Mistaken identity -- Drama; Twins -- Drama; Siblings -- Drama; Shipwreck survival -- Drama; Illyria -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1528,
+      "title": "Troilus and Cressida",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Trojan War -- Drama; Tragicomedy; Troilus (Legendary character) -- Drama; Cressida (Fictitious character) -- Drama; Troy (Extinct city) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1529,
+      "title": "All's Well That Ends Well",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Married women -- Drama; Runaway husbands -- Drama; Florence (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1530,
+      "title": "Measure for Measure",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Siblings -- Drama; Chastity -- Drama; Vienna (Austria) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1531,
+      "title": "Othello",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Othello (Fictitious character) -- Drama; Jealousy -- Drama; Interracial marriage -- Drama; Venice (Italy) -- Drama; Muslims -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1532,
+      "title": "King Lear",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Fathers and daughters -- Drama; Inheritance and succession -- Drama; Lear, King (Legendary character) -- Drama; Britons -- Drama; Kings and rulers -- Drama; Aging parents -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

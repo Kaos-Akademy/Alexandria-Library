@@ -1,0 +1,337 @@
+XVIII
+
+THE PRACTICAL SIGNIFICANCE OF RELATIVITY
+
+The Best Discussion of the Special Theory Among All the Competing
+Essays
+
+BY PROFESSOR HENRY NORRIS RUSSELL, PRINCETON UNIVERSITY
+
+
+Can a small child catch a baseball moving sixty miles an hour without
+getting hurt? We should probably answer "No"--but suppose that the boy
+and his father were sitting side by side in an express train, and the
+ball was tossed lightly from one to the other. Then there would be
+no trouble about it, whether the train was standing still, or going
+at full speed. Only the relative motion of ball and boy would count.
+
+This every-day experience is a good illustration of the much discussed
+Principle of Relativity, in its simplest form. If there were no
+jolting, the motion of the train, straight ahead at a uniform speed,
+would have no effect at all upon the relative motions of objects
+inside it, nor on the forces required to produce or change these
+motions. Indeed, the motion of the earth in its orbit, which is free
+from all jar, but a thousand times faster, does not influence even
+the most delicate apparatus. We are quite unconscious of it, and
+would not know that the earth was moving, if we could not see other
+bodies outside it. This sort of relativity has been recognized for
+more than two centuries and lies at the bottom of all our ordinary
+dynamical reasoning, upon which both science and engineering are based.
+
+But there are other things in nature besides moving bodies,--above
+all, light, which is intimately related to electricity and magnetism,
+and can travel through empty space, between the stars. It moves at
+the enormous speed of 186,000 miles per second, and behaves exactly
+like a series of vibrations or "waves." We naturally think of it as
+travelling through some medium, and call this thing, which carries
+the light, the "ether."
+
+Can we tell whether we are moving through this ether, even though all
+parts of our apparatus move together, and at the same rate? Suppose
+that we have two mirrors, $M$ and $N$, at equal distances, $d$, from a
+point $O$, but in directions at right angles to one another, and send
+out a flash of light from $O$. If everything is at rest, the reflected
+flashes will evidently come back to $O$ at the same instant, and the
+elapsed time will be $2d/c$ seconds if $c$ is the velocity of light.
+
+But suppose that $O$, $M$, and $N$ are fastened to a rigid frame work,
+and all moving in the direction $O M$, with velocity $V$. The light
+which goes from $O$ toward $M$, at the speed $c$, will overtake it
+with the difference of their speeds, $c-v$, taking $d/(c-v)$ seconds to
+reach $M$. On the way back, $O$ will be advancing to meet it, and the
+return trip will occupy $d/(c+v)$ seconds. The elapsed time for the
+round trip comes out $2cd/(c^2-v^2)$ seconds, which is longer than
+when the system was at rest--the loss of time in the "stern chase"
+exceeding the saving on the return.
+
+The light which is reflected from N has a different history. When
+it starts, $O$ and $N$ have certain positions in the ether, $O_1$
+and $N_1$. By the time it reaches the mirror, this is at $N_2$, and
+$O$ is at $O_2$, and when it returns, it finds $O$ at $O_3$. The
+distances for the outward and inward journeys are now equal, but
+(as is obvious from the figure), each of them is greater than $d$,
+or $O_2N_2$, and the time for the round trip will be correspondingly
+increased. A simple calculation shows that it is $2d/\sqrt{c^2-v^2}$.
+
+The increase above the time required when the system was at rest
+is less in this case than the preceding. Hence, if the apparatus
+is moving through the ether, the flashes reflected from $M$ and $N$
+will not return at the same instant.
+
+For such velocities as are attainable--even the 18 miles per second of
+the earth in its orbit--the difference is less than a hundred-millionth
+of the elapsed time. Nevertheless, Michelson and Morley tried to
+detect it in their famous experiment.
+
+A beam of light was allowed to fall obliquely upon a clear glass
+mirror (placed at $O$ in the diagram) which reflected part of it
+toward the mirror, $M$, and let the rest pass through to the mirror
+$N$. By reuniting the beams after their round trips, it was possible
+to tell whether one had gained upon the other by even a small fraction
+of the time of vibration of a single light wave. The apparatus was
+so sensitive that the predicted difference, though amounting to less
+than a millionth part of a billionth of a second, could easily have
+been measured; but they actually found no difference at all--though
+the earth is certainly in motion.
+
+Other optical experiments, more intricate, and even more delicate,
+were attempted, with the same object of detecting the motion of the
+earth through the ether; and they all failed.
+
+
+
+
+THE SPECIAL THEORY AND ITS SURPRISING CONSEQUENCES
+
+It was upon these facts that Einstein based his original, or "special"
+theory of Relativity. He assumed boldly that the universe is so
+constituted that uniform straight-ahead motion of an observer and all
+his apparatus will not produce any difference whatever in the result
+of any physical process or experiment of any kind. Granting this,
+it follows that if all objects in the visible universe were moving
+uniformly together in any direction, no matter how fast, we could
+not find this out at all. We cannot determine whether the universe,
+as a whole, is at rest or in motion, and may as well make one guess
+as another. Only the relative motions of its parts can be detected
+or studied.
+
+This seems simple and easy enough to understand. But the consequences
+which follow from it are extraordinary, and at first acquaintance
+seem almost absurd.
+
+In the first place, if an observer measures the velocity of light,
+he must always get the same result, no matter how fast he and his
+apparatus are moving, or in what direction (so long as the motion is
+uniform and rectilinear). This sounds harmless; but let us go back to
+the Michelson-Morley experiment where the light came back in exactly
+the same time from the two mirrors. If the observer supposes himself
+to be at rest, he will say that the distances $O M$ and $O N$ were
+equal. But if he fancies that the whole universe is moving in the
+direction $O M$, he will conclude that $M$ is nearer to $O$ than $N$
+is--for if they were equidistant, the round-trip would take longer in
+the first case, as we have proved. If once more he fancies that the
+universe is moving in the direction $O N$, he will conclude that N is
+nearer to $O$ than $M$ is. His answer to the question which of the
+two distances, $O M$ or $O N$, is the greater will therefore depend
+on his assumption about the motion of the universe as a whole.
+
+Similar complications arise in the measurement of time. Suppose that
+we have two observers, $A$ and $B$, provided with clocks which run
+with perfect uniformity, and mirrors to reflect light signals to one
+another. At noon exactly by his clock, $A$ sends a flash of light
+towards $B$. $B$ sees it come in at 12:01 by his clock. The flash
+reflected from $B$'s mirror reaches $A$ at 12:02 by $A$'s clock. They
+communicate these observations to one another.
+
+If $A$ and $B$ regard themselves as being at rest, they will agree that
+the light took as long to go out as it did to come back, and therefore
+that it reached $B$ at just 12:01 by $A$'s clock, and that the two
+clocks are synchronized. But they may, if they please, suppose that
+they (and the whole universe) are moving in the direction from $A$
+towards $B$, with half the speed of light. They will then say that
+the light had a "stern chase" to reach $B$, and took three times as
+long to go out as to come back. This means that it got to $B$ at 1
+1/2 minutes past noon by $A$'s clock, and that $B$'s clock is slow
+compared with $A$'s. If they should assume that they were moving with
+the same speed in the opposite direction, they would conclude that
+$B$'s clock is half a minute fast.
+
+Hence their answer to the question whether two events at different
+places happen at the same time, or at different times, will depend
+on their assumption about the motion of the universe as a whole.
+
+Once more, let us suppose that $A$ and $B$, with their clocks and
+mirrors, are in relative motion, with half the speed of light, and pass
+one another at noon by both clocks. At 12:02 by $A$'s clock, he sends a
+flash of light, which reaches $B$ at 12:04 by his clock, is reflected,
+and gets back to $A$'s clock at 12:06. They signal these results to
+each other, and sit down to work them out. $A$ thinks that he is at
+rest, and $B$ moving. He therefore concludes that the light had the
+same distance to go out as to return to him and took two seconds each
+way, reaching $B$ at 12:04 by $A$'s clock, and that the two clocks,
+which agreed then, as well as at noon, are running at the same rate.
+
+$B$, on the contrary, thinks that he is at rest and $A$ in motion. He
+then concludes that $A$ was much nearer when he sent out the flash
+than when he got it back, and that the light had three times as far to
+travel on the return journey. This means that it was 12:03 by $A$'s
+clock at the instant when the light reached $B$ and $B$'s clock read
+12:04. Hence $A$'s clock is running slow, compared with $B$'s.
+
+Hence the answer to the question whether two intervals of time,
+measured by observers who are in motion relative to one another, are
+of the same or of different durations, depends upon their assumptions
+about the motion of the universe as a whole.
+
+Now we must remember that one assumption about the motion of the
+universe as a whole is exactly as good--or bad--as another. No
+possible experiment can distinguish between them. Hence on the
+Principle of Relativity, we have left no absolute measurement of
+time or space. Whether two distances in different directions are to
+be called equal or not--whether two events in different places are
+to be called simultaneous or not--depends on our arbitrary choice of
+such an assumption, or "frame of reference." All the various schemes
+of measurement corresponding to these assumptions will, when applied
+to any imaginable experiment, predict exactly the same phenomena. But,
+in certain important cases, these predictions differ from those of the
+old familiar theory, and, every time that such experiments have been
+tried, the result has agreed with the new theory, and not with the old.
+
+We are therefore driven to accept the theory of relativity, strange
+as it is, as being more nearly "true to nature" than our older
+ideas. Fortunately, the difference between the results of the two
+become important only when we assume that the whole visible universe is
+moving together much faster than any of its parts are moving relatively
+to one another. Unless we make such an unwarranted assumption, the
+differences are so small that it takes the most ingenious and precise
+experiments to reveal them.
+
+
+
+
+THE GENERALIZATION
+
+Not content with all this, Einstein proceeded, a few years ago, to
+develop a "general" theory of relativity, which includes the effects
+of gravitation.
+
+To make this idea clear, let us imagine two observers, each, with
+his measuring instruments, in a large and perfectly impervious box,
+which forms his "closed system."
+
+The first observer, with his box and its contents, alone in space,
+is entirely at rest.
+
+The second observer, with his box and its contents, is, it may be
+imagined, near the earth or the sun or some star, and falling freely
+under the influence of its gravitation.
+
+This second box and its contents, including the observer, will then
+fall under the gravitational force, that is, get up an ever-increasing
+speed, but at exactly the same rate, so that there will be no tendency
+for their relative positions to be altered.
+
+According to Newton's principles, this will make not the slightest
+difference in the motions of the physical objects comprising the system
+or their attractions on one another, so that no dynamical experiment
+can distinguish between the condition of the freely falling observer
+in the second box and the observer at rest in the first.
+
+But once more the question arises: What could be done by an optical
+experiment?
+
+Einstein assumed that the principle of relativity still applied in
+this case, so that it would be impossible to distinguish between the
+conditions of the observers in the two boxes by any optical experiment.
+
+It can easily be seen that it follows from this new generalized
+relativity that light cannot travel in a straight line in a
+gravitational field.
+
+Imagine that the first observer sets up three slits, all in a straight
+line. A ray of light which passes through the first and second will
+obviously pass exactly through the third.
+
+Suppose the observer in the freely falling system attempts the same
+experiment, having his slits $P$, $Q$, $R$, equally spaced, and placing
+them at right angles to the direction in which he is falling. When
+the light passes through $P$, the slits will be in certain position
+$P_1 Q_1 R_1$ (Figure). By the time it reaches $Q$, they will have
+fallen to a lower level, $P_2 Q_2 R_2$, and when it reaches $R$,
+they will be still lower, $P_3 Q_3 R_3$. The times which the light
+takes to move from $P$ to $Q$ and $Q$ to $R$ will be the same: but,
+since the system is falling ever faster and faster the distance $R_2
+R_3$ will be greater than $Q_1 Q_2$. Hence, if the light which has
+passed through $P$ and $Q$ moves in a straight line, it will strike
+above $R$, as is illustrated by the straight line in the figure. But,
+on Einstein's assumption, the light must go through the third slit,
+as it would do in the system at rest, and must therefore move in a
+curved line, like the curved line in the figure, and bend downward
+in the direction of the gravitational force.
+
+
+
+
+THE TESTS
+
+Calculation shows that the deviation of light by the moon or planets
+would be too small to detect. But for a ray which had passed near
+the sun, the deflection comes out 1.7'', which the modern astronomer
+regards as a large quantity, easy to measure. Observations to test
+this can be made only at a total eclipse, when we can photograph stars
+near the sun, on a nearly dark sky. A very fine chance came in May,
+1919, and two English expeditions were sent to Brazil and the African
+coast. These photographs were measured with extreme care, and they
+show that the stars actually appear to be shifted, in almost exactly
+the way predicted by Einstein's theory.
+
+Another consequence of "general relativity" is that Newton's law of
+gravitation needs a minute correction. This is so small that there is
+but a single case in which it can be tested. On Newton's theory, the
+line joining the sun to the nearest point upon a planet's orbit (its
+perihelion) should remain fixed in direction, (barring certain effects
+of the attraction of the other planets, which can be allowed for). On
+Einstein's theory it should move slowly forward. It has been known for
+years that the perihelion of Mercury was actually moving forward, and
+all explanations had failed. But Einstein's theory not only predicts
+the direction of the motion, but exactly the observed amount.
+
+Einstein also predicts that the lines of any element in the solar
+spectrum should be slightly shifted towards the red, as compared
+with those produced in our laboratories. Different observers have
+investigated this, and so far they disagree. The trouble is that
+there are several other influences which may shift the lines, such
+as pressure in the sun's atmosphere, motion of currents on the sun's
+surface, etc., and it is very hard to disentangle this Gordian knot. At
+present, the results of these observations can neither be counted
+for or against the theory, while those in the other two cases are
+decisively favorable.
+
+The mathematical expression of this general relativity is intricate
+and difficult. Mathematicians--who are used to conceptions which
+are unfamiliar, if not incomprehensible, to most of us--find that
+these expressions may be described (to the trained student) in terms
+of space of four dimensions and of the non-Euclidean geometry. We
+therefore hear such phrases as "time as a sort of fourth dimension,"
+"curvature of space" and others. But these are simply attempts--not
+altogether successful--to put mathematical relationships into ordinary
+language, instead of algebraic equations.
+
+More important to the general reader are the physical bearings of
+the new theory, and these are far easier to understand.
+
+Various assumptions which we may make about the motion of the universe
+as a whole, though they do not influence the observed facts of nature,
+will lead us to different ways of interpreting our observations as
+measurements of space and time.
+
+Theoretically, one of these assumptions is as good as any other. Hence
+we no longer believe in absolute space and time. This is of great
+interest philosophically. Practically, it is unimportant, for,
+unless our choice of an assumption is very wild, our conclusions and
+measurements will agree substantially with those which are already
+familiar.
+
+Finally, the "general" relativity shows that gravitation and
+electro-magnetic phenomena--(including light) do not form two
+independent sides of nature, as we once supposed, but influence one
+another (though slightly) and are parts of one greater whole.
+
+
+
+
+
+
+
+
+

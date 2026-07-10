@@ -1,0 +1,716 @@
+BOOK I.
+
+ANALYSIS.
+
+
+
+
+CHAPTER I.
+
+GENERAL VIEW OF MATHEMATICAL ANALYSIS.
+
+
+In the historical development of mathematical science since the time of
+Descartes, the advances of its abstract portion have always been
+determined by those of its concrete portion; but it is none the less
+necessary, in order to conceive the science in a manner truly logical,
+to consider the Calculus in all its principal branches before proceeding
+to the philosophical study of Geometry and Mechanics. Its analytical
+theories, more simple and more general than those of concrete
+mathematics, are in themselves essentially independent of the latter;
+while these, on the contrary, have, by their nature, a continual need of
+the former, without the aid of which they could make scarcely any
+progress. Although the principal conceptions of analysis retain at
+present some very perceptible traces of their geometrical or mechanical
+origin, they are now, however, mainly freed from that primitive
+character, which no longer manifests itself except in some secondary
+points; so that it is possible (especially since the labours of
+Lagrange) to present them in a dogmatic exposition, by a purely abstract
+method, in a single and continuous system. It is this which will be
+undertaken in the present and the five following chapters, limiting our
+investigations to the most general considerations upon each principal
+branch of the science of the calculus.
+
+The definite object of our researches in concrete mathematics being the
+discovery of the _equations_ which express the mathematical laws of the
+phenomenon under consideration, and these equations constituting the
+true starting point of the calculus, which has for its object to obtain
+from them the determination of certain quantities by means of others, I
+think it indispensable, before proceeding any farther, to go more deeply
+than has been customary into that fundamental idea of _equation_, the
+continual subject, either as end or as beginning, of all mathematical
+labours. Besides the advantage of circumscribing more definitely the
+true field of analysis, there will result from it the important
+consequence of tracing in a more exact manner the real line of
+demarcation between the concrete and the abstract part of mathematics,
+which will complete the general exposition of the fundamental division
+established in the introductory chapter.
+
+
+
+
+THE TRUE IDEA OF AN EQUATION.
+
+
+We usually form much too vague an idea of what an _equation_ is, when we
+give that name to every kind of relation of equality between _any_ two
+functions of the magnitudes which we are considering. For, though every
+equation is evidently a relation of equality, it is far from being true
+that, reciprocally, every relation of equality is a veritable
+_equation_, of the kind of those to which, by their nature, the methods
+of analysis are applicable.
+
+This want of precision in the logical consideration of an idea which is
+so fundamental in mathematics, brings with it the serious inconvenience
+of rendering it almost impossible to explain, in general terms, the
+great and fundamental difficulty which we find in establishing the
+relation between the concrete and the abstract, and which stands out so
+prominently in each great mathematical question taken by itself. If the
+meaning of the word _equation_ was truly as extended as we habitually
+suppose it to be in our definition of it, it is not apparent what great
+difficulty there could really be, in general, in establishing the
+equations of any problem whatsoever; for the whole would thus appear to
+consist in a simple question of form, which ought never even to exact
+any great intellectual efforts, seeing that we can hardly conceive of
+any precise relation which is not immediately a certain relation of
+equality, or which cannot be readily brought thereto by some very easy
+transformations.
+
+Thus, when we admit every species of _functions_ into the definition of
+_equations_, we do not at all account for the extreme difficulty which
+we almost always experience in putting a problem into an equation, and
+which so often may be compared to the efforts required by the analytical
+elaboration of the equation when once obtained. In a word, the ordinary
+abstract and general idea of an _equation_ does not at all correspond to
+the real meaning which geometers attach to that expression in the actual
+development of the science. Here, then, is a logical fault, a defect of
+correlation, which it is very important to rectify.
+
+
+_Division of Functions into Abstract and Concrete._ To succeed in doing
+so, I begin by distinguishing two sorts of _functions_, _abstract_ or
+analytical functions, and _concrete_ functions. The first alone can
+enter into veritable _equations_. We may, therefore, henceforth define
+every _equation_, in an exact and sufficiently profound manner, as a
+relation of equality between two _abstract_ functions of the magnitudes
+under consideration. In order not to have to return again to this
+fundamental definition, I must add here, as an indispensable complement,
+without which the idea would not be sufficiently general, that these
+abstract functions may refer not only to the magnitudes which the
+problem presents of itself, but also to all the other auxiliary
+magnitudes which are connected with it, and which we will often be able
+to introduce, simply as a mathematical artifice, with the sole object of
+facilitating the discovery of the equations of the phenomena. I here
+anticipate summarily the result of a general discussion of the highest
+importance, which will be found at the end of this chapter. We will now
+return to the essential distinction of functions as abstract and
+concrete.
+
+This distinction may be established in two ways, essentially different,
+but complementary of each other, _à priori_ and _à posteriori_; that is
+to say, by characterizing in a general manner the peculiar nature of
+each species of functions, and then by making the actual enumeration of
+all the abstract functions at present known, at least so far as relates
+to the elements of which they are composed.
+
+_À priori_, the functions which I call _abstract_ are those which
+express a manner of dependence between magnitudes, which can be
+conceived between numbers alone, without there being need of indicating
+any phenomenon whatever in which it is realized. I name, on the other
+hand, _concrete_ functions, those for which the mode of dependence
+expressed cannot be defined or conceived except by assigning a
+determinate case of physics, geometry, mechanics, &c., in which it
+actually exists.
+
+Most functions in their origin, even those which are at present the most
+purely _abstract_, have begun by being _concrete_; so that it is easy to
+make the preceding distinction understood, by citing only the successive
+different points of view under which, in proportion as the science has
+become formed, geometers have considered the most simple analytical
+functions. I will indicate powers, for example, which have in general
+become abstract functions only since the labours of Vieta and Descartes.
+The functions _x²_, _x³_, which in our present analysis are so well
+conceived as simply _abstract_, were, for the geometers of antiquity,
+perfectly _concrete_ functions, expressing the relation of the
+superficies of a square, or the volume of a cube to the length of their
+side. These had in their eyes such a character so exclusively, that it
+was only by means of the geometrical definitions that they discovered
+the elementary algebraic properties of these functions, relating to the
+decomposition of the variable into two parts, properties which were at
+that epoch only real theorems of geometry, to which a numerical meaning
+was not attached until long afterward.
+
+I shall have occasion to cite presently, for another reason, a new
+example, very suitable to make apparent the fundamental distinction
+which I have just exhibited; it is that of circular functions, both
+direct and inverse, which at the present time are still sometimes
+concrete, sometimes abstract, according to the point of view under
+which they are regarded.
+
+_À posteriori_, the general character which renders a function abstract
+or concrete having been established, the question as to whether a
+certain determinate function is veritably abstract, and therefore
+susceptible of entering into true analytical equations, becomes a simple
+question of fact, inasmuch as we are going to enumerate all the
+functions of this species.
+
+
+_Enumeration of Abstract Functions._ At first view this enumeration
+seems impossible, the distinct analytical functions being infinite in
+number. But when we divide them into _simple_ and _compound_, the
+difficulty disappears; for, though the number of the different functions
+considered in mathematical analysis is really infinite, they are, on the
+contrary, even at the present day, composed of a very small number of
+elementary functions, which can be easily assigned, and which are
+evidently sufficient for deciding the abstract or concrete character of
+any given function; which will be of the one or the other nature,
+according as it shall be composed exclusively of these simple abstract
+functions, or as it shall include others.
+
+We evidently have to consider, for this purpose, only the functions of a
+single variable, since those relative to several independent variables
+are constantly, by their nature, more or less _compound_.
+
+Let _x_ be the independent variable, _y_ the correlative variable which
+depends upon it. The different simple modes of abstract dependence,
+which we can now conceive between _y_ and _x_, are expressed by the ten
+following elementary formulas, in which each function is coupled with
+its _inverse_, that is, with that which would be obtained from the
+direct function by referring _x_ to _y_, instead of referring _y_ to
+_x_.
+
+            FUNCTION.                   ITS NAME.
+
+1st couple {1° _y_ = _a_ + _x_             _Sum._
+           {2° _y_ = _a_ - _x_             _Difference._
+
+2d couple  {1° _y_ = _ax_                  _Product._
+           {2° _y_ = _a/x_                 _Quotient._
+
+3d couple  {1° _y_ = _x^a_                 _Power._
+           {2° _y_ = _[ath root]x_            _Root._
+
+4th couple {1° _y_ = _a^x_                 _Exponential._
+           {2° _y_ = _[log a]x_            _Logarithmic._
+
+5th couple {1° _y_ = sin. _x_              _Direct Circular._
+           {2° _y_ = arc(sin. = _x_).      _Inverse Circular._[3]
+
+  [Footnote 3: With the view of increasing as much as possible the
+  resources and the extent (now so insufficient) of mathematical
+  analysis, geometers count this last couple of functions among the
+  analytical elements. Although this inscription is strictly
+  legitimate, it is important to remark that circular functions are
+  not exactly in the same situation as the other abstract elementary
+  functions. There is this very essential difference, that the
+  functions of the four first couples are at the same time simple and
+  abstract, while the circular functions, which may manifest each
+  character in succession, according to the point of view under which
+  they are considered and the manner in which they are employed,
+  never present these two properties simultaneously.
+
+  Some other concrete functions may be usefully introduced into the
+  number of analytical elements, certain conditions being fulfilled.
+  It is thus, for example, that the labours of M. Legendre and of M.
+  Jacobi on _elliptical_ functions have truly enlarged the field of
+  analysis; and the same is true of some definite integrals obtained
+  by M. Fourier in the theory of heat.]
+
+Such are the elements, very few in number, which directly compose all
+the abstract functions known at the present day. Few as they are, they
+are evidently sufficient to give rise to an infinite number of
+analytical combinations.
+
+No rational consideration rigorously circumscribes, _à priori_, the
+preceding table, which is only the actual expression of the present
+state of the science. Our analytical elements are at the present day
+more numerous than they were for Descartes, and even for Newton and
+Leibnitz: it is only a century since the last two couples have been
+introduced into analysis by the labours of John Bernouilli and Euler.
+Doubtless new ones will be hereafter admitted; but, as I shall show
+towards the end of this chapter, we cannot hope that they will ever be
+greatly multiplied, their real augmentation giving rise to very great
+difficulties.
+
+We can now form a definite, and, at the same time, sufficiently extended
+idea of what geometers understand by a veritable _equation_. This
+explanation is especially suited to make us understand how difficult it
+must be really to establish the _equations_ of phenomena, since we have
+effectually succeeded in so doing only when we have been able to
+conceive the mathematical laws of these phenomena by the aid of
+functions entirely composed of only the mathematical elements which I
+have just enumerated. It is clear, in fact, that it is then only that
+the problem becomes truly abstract, and is reduced to a pure question of
+numbers, these functions being the only simple relations which we can
+conceive between numbers, considered by themselves. Up to this period of
+the solution, whatever the appearances may be, the question is still
+essentially concrete, and does not come within the domain of the
+_calculus_. Now the fundamental difficulty of this passage from the
+_concrete_ to the _abstract_ in general consists especially in the
+insufficiency of this very small number of analytical elements which we
+possess, and by means of which, nevertheless, in spite of the little
+real variety which they offer us, we must succeed in representing all
+the precise relations which all the different natural phenomena can
+manifest to us. Considering the infinite diversity which must
+necessarily exist in this respect in the external world, we easily
+understand how far below the true difficulty our conceptions must
+frequently be found, especially if we add that as these elements of our
+analysis have been in the first place furnished to us by the
+mathematical consideration of the simplest phenomena, we have, _à
+priori_, no rational guarantee of their necessary suitableness to
+represent the mathematical law of every other class of phenomena. I will
+explain presently the general artifice, so profoundly ingenious, by
+which the human mind has succeeded in diminishing, in a remarkable
+degree, this fundamental difficulty which is presented by the relation
+of the concrete to the abstract in mathematics, without, however, its
+having been necessary to multiply the number of these analytical
+elements.
+
+
+
+
+THE TWO PRINCIPAL DIVISIONS OF THE CALCULUS.
+
+
+The preceding explanations determine with precision the true object and
+the real field of abstract mathematics. I must now pass to the
+examination of its principal divisions, for thus far we have considered
+the calculus as a whole.
+
+The first direct consideration to be presented on the composition of the
+science of the _calculus_ consists in dividing it, in the first place,
+into two principal branches, to which, for want of more suitable
+denominations, I will give the names of _Algebraic calculus_, or
+_Algebra_, and of _Arithmetical calculus_, or _Arithmetic_; but with
+the caution to take these two expressions in their most extended logical
+acceptation, in the place of the by far too restricted meaning which is
+usually attached to them.
+
+The complete solution of every question of the _calculus_, from the most
+elementary up to the most transcendental, is necessarily composed of two
+successive parts, whose nature is essentially distinct. In the first,
+the object is to transform the proposed equations, so as to make
+apparent the manner in which the unknown quantities are formed by the
+known ones: it is this which constitutes the _algebraic_ question. In
+the second, our object is to _find the values_ of the formulas thus
+obtained; that is, to determine directly the values of the numbers
+sought, which are already represented by certain explicit functions of
+given numbers: this is the _arithmetical_ question.[4] It is apparent
+that, in every solution which is truly rational, it necessarily follows
+the algebraical question, of which it forms the indispensable
+complement, since it is evidently necessary to know the mode of
+generation of the numbers sought for before determining their actual
+values for each particular case. Thus the stopping-place of the
+algebraic part of the solution becomes the starting point of the
+arithmetical part.
+
+  [Footnote 4: Suppose, for example, that a question gives the
+  following equation between an unknown magnitude x, and two known
+  magnitudes, _a_ and _b_,
+
+  _x³_ + 3_ax_ = 2_b_,
+
+  as is the case in the problem of the trisection of an angle. We see
+  at once that the dependence between _x_ on the one side, and _ab_ on
+  the other, is completely determined; but, so long as the equation
+  preserves its primitive form, we do not at all perceive in what
+  manner the unknown quantity is derived from the data. This must be
+  discovered, however, before we can think of determining its value.
+  Such is the object of the algebraic part of the solution. When, by a
+  series of transformations which have successively rendered that
+  derivation more and more apparent, we have arrived at presenting the
+  proposed equation under the form
+
+  _x_ = ∛(_b_ + √(_b²_ + _a³_)) + ∛(_b_ - √(_b²_ + _a³_)),
+
+  the work of _algebra_ is finished; and even if we could not perform
+  the arithmetical operations indicated by that formula, we would
+  nevertheless have obtained a knowledge very real, and often very
+  important. The work of _arithmetic_ will now consist in taking that
+  formula for its starting point, and finding the number _x_ when the
+  values of the numbers _a_ and _b_ are given.]
+
+We thus see that the _algebraic_ calculus and the _arithmetical_
+calculus differ essentially in their object. They differ no less in the
+point of view under which they regard quantities; which are considered
+in the first as to their _relations_, and in the second as to their
+_values_. The true spirit of the calculus, in general, requires this
+distinction to be maintained with the most severe exactitude, and the
+line of demarcation between the two periods of the solution to be
+rendered as clear and distinct as the proposed question permits. The
+attentive observation of this precept, which is too much neglected, may
+be of much assistance, in each particular question, in directing the
+efforts of our mind, at any moment of the solution, towards the real
+corresponding difficulty. In truth, the imperfection of the science of
+the calculus obliges us very often (as will be explained in the next
+chapter) to intermingle algebraic and arithmetical considerations in the
+solution of the same question. But, however impossible it may be to
+separate clearly the two parts of the labour, yet the preceding
+indications will always enable us to avoid confounding them.
+
+In endeavouring to sum up as succinctly as possible the distinction just
+established, we see that ALGEBRA may be defined, in general, as having
+for its object the _resolution of equations_; taking this expression in
+its full logical meaning, which signifies the transformation of
+_implicit_ functions into equivalent _explicit_ ones. In the same way,
+ARITHMETIC may be defined as destined to _the determination of the
+values of functions_. Henceforth, therefore, we will briefly say that
+ALGEBRA is the _Calculus of Functions_, and ARITHMETIC the _Calculus of
+Values_.
+
+We can now perceive how insufficient and even erroneous are the ordinary
+definitions. Most generally, the exaggerated importance attributed to
+Signs has led to the distinguishing the two fundamental branches of the
+science of the Calculus by the manner of designating in each the
+subjects of discussion, an idea which is evidently absurd in principle
+and false in fact. Even the celebrated definition given by Newton,
+characterizing _Algebra_ as _Universal Arithmetic_, gives certainly a
+very false idea of the nature of algebra and of that of arithmetic.[5]
+
+  [Footnote 5: I have thought that I ought to specially notice this
+  definition, because it serves as the basis of the opinion which
+  many intelligent persons, unacquainted with mathematical science,
+  form of its abstract part, without considering that at the time of
+  this definition mathematical analysis was not sufficiently
+  developed to enable the general character of each of its principal
+  parts to be properly apprehended, which explains why Newton could
+  at that time propose a definition which at the present day he would
+  certainly reject.]
+
+Having thus established the fundamental division of the calculus into
+two principal branches, I have now to compare in general terms the
+extent, the importance, and the difficulty of these two sorts of
+calculus, so as to have hereafter to consider only the _Calculus of
+Functions_, which is to be the principal subject of our study.
+
+
+
+
+THE CALCULUS OF VALUES, OR ARITHMETIC.
+
+
+_Its Extent._ The _Calculus of Values, or Arithmetic_, would appear, at
+first view, to present a field as vast as that of _algebra_, since it
+would seem to admit as many distinct questions as we can conceive
+different algebraic formulas whose values are to be determined. But a
+very simple reflection will show the difference. Dividing functions into
+_simple_ and _compound_, it is evident that when we know how to
+determine the _value_ of simple functions, the consideration of compound
+functions will no longer present any difficulty. In the algebraic point
+of view, a compound function plays a very different part from that of
+the elementary functions of which it consists, and from this, indeed,
+proceed all the principal difficulties of analysis. But it is very
+different with the Arithmetical Calculus. Thus the number of truly
+distinct arithmetical operations is only that determined by the number
+of the elementary abstract functions, the very limited list of which has
+been given above. The determination of the values of these ten functions
+necessarily gives that of all the functions, infinite in number, which
+are considered in the whole of mathematical analysis, such at least as
+it exists at present. There can be no new arithmetical operations
+without the creation of really new analytical elements, the number of
+which must always be extremely small. The field of _arithmetic_ is,
+then, by its nature, exceedingly restricted, while that of algebra is
+rigorously indefinite.
+
+It is, however, important to remark, that the domain of the _calculus of
+values_ is, in reality, much more extensive than it is commonly
+represented; for several questions truly _arithmetical_, since they
+consist of determinations of values, are not ordinarily classed as such,
+because we are accustomed to treat them only as incidental in the midst
+of a body of analytical researches more or less elevated, the too high
+opinion commonly formed of the influence of signs being again the
+principal cause of this confusion of ideas. Thus not only the
+construction of a table of logarithms, but also the calculation of
+trigonometrical tables, are true arithmetical operations of a higher
+kind. We may also cite as being in the same class, although in a very
+distinct and more elevated order, all the methods by which we determine
+directly the value of any function for each particular system of values
+attributed to the quantities on which it depends, when we cannot express
+in general terms the explicit form of that function. In this point of
+view the _numerical_ solution of questions which we cannot resolve
+algebraically, and even the calculation of "Definite Integrals," whose
+general integrals we do not know, really make a part, in spite of all
+appearances, of the domain of _arithmetic_, in which we must necessarily
+comprise all that which has for its object the _determination of the
+values of functions_. The considerations relative to this object are, in
+fact, constantly homogeneous, whatever the _determinations_ in question,
+and are always very distinct from truly _algebraic_ considerations.
+
+To complete a just idea of the real extent of the calculus of values, we
+must include in it likewise that part of the general science of the
+calculus which now bears the name of the _Theory of Numbers_, and which
+is yet so little advanced. This branch, very extensive by its nature,
+but whose importance in the general system of science is not very
+great, has for its object the discovery of the properties inherent in
+different numbers by virtue of their values, and independent of any
+particular system of numeration. It forms, then, a sort of
+_transcendental arithmetic_; and to it would really apply the definition
+proposed by Newton for algebra.
+
+The entire domain of arithmetic is, then, much more extended than is
+commonly supposed; but this _calculus of values_ will still never be
+more than a point, so to speak, in comparison with the _calculus of
+functions_, of which mathematical science essentially consists. This
+comparative estimate will be still more apparent from some
+considerations which I have now to indicate respecting the true nature
+of arithmetical questions in general, when they are more profoundly
+examined.
+
+
+_Its true Nature._ In seeking to determine with precision in what
+_determinations of values_ properly consist, we easily recognize that
+they are nothing else but veritable _transformations_ of the functions
+to be valued; transformations which, in spite of their special end, are
+none the less essentially of the same nature as all those taught by
+analysis. In this point of view, the _calculus of values_ might be
+simply conceived as an appendix, and a particular application of the
+_calculus of functions_, so that _arithmetic_ would disappear, so to
+say, as a distinct section in the whole body of abstract mathematics.
+
+In order thoroughly to comprehend this consideration, we must observe
+that, when we propose to determine the _value_ of an unknown number
+whose mode of formation is given, it is, by the mere enunciation of the
+arithmetical question, already defined and expressed under a certain
+form; and that in _determining its value_ we only put its expression
+under another determinate form, to which we are accustomed to refer the
+exact notion of each particular number by making it re-enter into the
+regular system of _numeration_. The determination of values consists so
+completely of a simple _transformation_, that when the primitive
+expression of the number is found to be already conformed to the regular
+system of numeration, there is no longer any determination of value,
+properly speaking, or, rather, the question is answered by the question
+itself. Let the question be to add the two numbers _one_ and _twenty_,
+we answer it by merely repeating the enunciation of the question,[6] and
+nevertheless we think that we have _determined the value_ of the sum.
+This signifies that in this case the first expression of the function
+had no need of being transformed, while it would not be thus in adding
+twenty-three and fourteen, for then the sum would not be immediately
+expressed in a manner conformed to the rank which it occupies in the
+fixed and general scale of numeration.
+
+
+  [Footnote 6: This is less strictly true in the English system of
+  numeration than in the French, since "twenty-one" is our more usual
+  mode of expressing this number.]
+
+To sum up as comprehensively as possible the preceding views, we may
+say, that to determine the _value_ of a number is nothing else than
+putting its primitive expression under the form
+
+  _a_ + _bz_ + _cz²_ + _dz³_ + _ez⁴_ . . . . . + _pz^m_,
+
+_z_ being generally equal to 10, and the coefficients _a_, _b_, _c_,
+_d_, &c., being subjected to the conditions of being whole numbers less
+than _z_; capable of becoming equal to zero; but never negative. Every
+arithmetical question may thus be stated as consisting in putting under
+such a form any abstract function whatever of different quantities,
+which are supposed to have themselves a similar form already. We might
+then see in the different operations of arithmetic only simple
+particular cases of certain algebraic transformations, excepting the
+special difficulties belonging to conditions relating to the nature of
+the coefficients.
+
+It clearly follows that abstract mathematics is essentially composed of
+the _Calculus of Functions_, which had been already seen to be its most
+important, most extended, and most difficult part. It will henceforth be
+the exclusive subject of our analytical investigations. I will therefore
+no longer delay on the _Calculus of Values_, but pass immediately to the
+examination of the fundamental division of the _Calculus of Functions_.
+
+
+
+
+THE CALCULUS OF FUNCTIONS, OR ALGEBRA.
+
+
+_Principle of its Fundamental Division._ We have determined, at the
+beginning of this chapter, wherein properly consists the difficulty
+which we experience in putting mathematical questions into _equations_.
+It is essentially because of the insufficiency of the very small number
+of analytical elements which we possess, that the relation of the
+concrete to the abstract is usually so difficult to establish. Let us
+endeavour now to appreciate in a philosophical manner the general
+process by which the human mind has succeeded, in so great a number of
+important cases, in overcoming this fundamental obstacle to _The
+establishment of Equations_.
+
+
+1. _By the Creation of new Functions._ In looking at this important
+question from the most general point of view, we are led at once to the
+conception of one means of facilitating the establishment of the
+equations of phenomena. Since the principal obstacle in this matter
+comes from the too small number of our analytical elements, the whole
+question would seem to be reduced to creating new ones. But this means,
+though natural, is really illusory; and though it might be useful, it is
+certainly insufficient.
+
+In fact, the creation of an elementary abstract function, which shall be
+veritably new, presents in itself the greatest difficulties. There is
+even something contradictory in such an idea; for a new analytical
+element would evidently not fulfil its essential and appropriate
+conditions, if we could not immediately _determine its value_. Now, on
+the other hand, how are we to _determine the value_ of a new function
+which is truly _simple_, that is, which is not formed by a combination
+of those already known? That appears almost impossible. The introduction
+into analysis of another elementary abstract function, or rather of
+another couple of functions (for each would be always accompanied by its
+_inverse_), supposes then, of necessity, the simultaneous creation of a
+new arithmetical operation, which is certainly very difficult.
+
+If we endeavour to obtain an idea of the means which the human mind
+employs for inventing new analytical elements, by the examination of the
+procedures by the aid of which it has actually conceived those which we
+already possess, our observations leave us in that respect in an entire
+uncertainty, for the artifices which it has already made use of for that
+purpose are evidently exhausted. To convince ourselves of it, let us
+consider the last couple of simple functions which has been introduced
+into analysis, and at the formation of which we have been present, so
+to speak, namely, the fourth couple; for, as I have explained, the fifth
+couple does not strictly give veritable new analytical elements. The
+function _a^x_, and, consequently, its inverse, have been formed by
+conceiving, under a new point of view, a function which had been a long
+time known, namely, powers--when the idea of them had become
+sufficiently generalized. The consideration of a power relatively to the
+variation of its exponent, instead of to the variation of its base, was
+sufficient to give rise to a truly novel simple function, the variation
+following then an entirely different route. But this artifice, as simple
+as ingenious, can furnish nothing more; for, in turning over in the same
+manner all our present analytical elements, we end in only making them
+return into one another.
+
+We have, then, no idea as to how we could proceed to the creation of new
+elementary abstract functions which would properly satisfy all the
+necessary conditions. This is not to say, however, that we have at
+present attained the effectual limit established in that respect by the
+bounds of our intelligence. It is even certain that the last special
+improvements in mathematical analysis have contributed to extend our
+resources in that respect, by introducing within the domain of the
+calculus certain definite integrals, which in some respects supply the
+place of new simple functions, although they are far from fulfilling all
+the necessary conditions, which has prevented me from inserting them in
+the table of true analytical elements. But, on the whole, I think it
+unquestionable that the number of these elements cannot increase except
+with extreme slowness. It is therefore not from these sources that the
+human mind has drawn its most powerful means of facilitating, as much
+as is possible, the establishment of equations.
+
+
+2. _By the Conception of Equations between certain auxiliary
+Quantities._ This first method being set aside, there remains evidently
+but one other: it is, seeing the impossibility of finding directly the
+equations between the quantities under consideration, to seek for
+corresponding ones between other auxiliary quantities, connected with
+the first according to a certain determinate law, and from the relation
+between which we may return to that between the primitive magnitudes.
+Such is, in substance, the eminently fruitful conception, which the
+human mind has succeeded in establishing, and which constitutes its most
+admirable instrument for the mathematical explanation of natural
+phenomena; the _analysis_, called _transcendental_.
+
+As a general philosophical principle, the auxiliary quantities, which
+are introduced in the place of the primitive magnitudes, or concurrently
+with them, in order to facilitate the establishment of equations, might
+be derived according to any law whatever from the immediate elements of
+the question. This conception has thus a much more extensive reach than
+has been commonly attributed to it by even the most profound geometers.
+It is extremely important for us to view it in its whole logical extent,
+for it will perhaps be by establishing a general mode of _derivation_
+different from that to which we have thus far confined ourselves
+(although it is evidently very far from being the only possible one)
+that we shall one day succeed in essentially perfecting mathematical
+analysis as a whole, and consequently in establishing more powerful
+means of investigating the laws of nature than our present processes,
+which are unquestionably susceptible of becoming exhausted.
+
+But, regarding merely the present constitution of the science, the only
+auxiliary quantities habitually introduced in the place of the primitive
+quantities in the _Transcendental Analysis_ are what are called, 1⁰,
+_infinitely small_ elements, the _differentials_ (of different orders)
+of those quantities, if we regard this analysis in the manner of
+LEIBNITZ; or, 2⁰, the _fluxions_, the limits of the ratios of the
+simultaneous increments of the primitive quantities compared with one
+another, or, more briefly, the _prime and ultimate ratios_ of these
+increments, if we adopt the conception of NEWTON; or, 3⁰, the
+_derivatives_, properly so called, of those quantities, that is, the
+coefficients of the different terms of their respective increments,
+according to the conception of LAGRANGE.
+
+These three principal methods of viewing our present transcendental
+analysis, and all the other less distinctly characterized ones which
+have been successively proposed, are, by their nature, necessarily
+identical, whether in the calculation or in the application, as will be
+explained in a general manner in the third chapter. As to their relative
+value, we shall there see that the conception of Leibnitz has thus far,
+in practice, an incontestable superiority, but that its logical
+character is exceedingly vicious; while that the conception of Lagrange,
+admirable by its simplicity, by its logical perfection, by the
+philosophical unity which it has established in mathematical analysis
+(till then separated into two almost entirely independent worlds),
+presents, as yet, serious inconveniences in the applications, by
+retarding the progress of the mind. The conception of Newton occupies
+nearly middle ground in these various relations, being less rapid, but
+more rational than that of Leibnitz; less philosophical, but more
+applicable than that of Lagrange.
+
+This is not the place to explain the advantages of the introduction of
+this kind of auxiliary quantities in the place of the primitive
+magnitudes. The third chapter is devoted to this subject. At present I
+limit myself to consider this conception in the most general manner, in
+order to deduce therefrom the fundamental division of the _calculus of
+functions_ into two systems essentially distinct, whose dependence, for
+the complete solution of any one mathematical question, is invariably
+determinate.
+
+In this connexion, and in the logical order of ideas, the transcendental
+analysis presents itself as being necessarily the first, since its
+general object is to facilitate the establishment of equations, an
+operation which must evidently precede the _resolution_ of those
+equations, which is the object of the ordinary analysis. But though it
+is exceedingly important to conceive in this way the true relations of
+these two systems of analysis, it is none the less proper, in conformity
+with the regular usage, to study the transcendental analysis after
+ordinary analysis; for though the former is, at bottom, by itself
+logically independent of the latter, or, at least, may be essentially
+disengaged from it, yet it is clear that, since its employment in the
+solution of questions has always more or less need of being completed by
+the use of the ordinary analysis, we would be constrained to leave the
+questions in suspense if this latter had not been previously studied.
+
+
+_Corresponding Divisions of the Calculus of Functions._ It follows from
+the preceding considerations that the _Calculus of Functions_, or
+_Algebra_ (taking this word in its most extended meaning), is composed
+of two distinct fundamental branches, one of which has for its immediate
+object the _resolution_ of equations, when they are directly established
+between the magnitudes themselves which are under consideration; and the
+other, starting from equations (generally much easier to form) between
+quantities indirectly connected with those of the problem, has for its
+peculiar and constant destination the deduction, by invariable
+analytical methods, of the corresponding equations between the direct
+magnitudes which we are considering; which brings the question within
+the domain of the preceding calculus.
+
+The former calculus bears most frequently the name of _Ordinary
+Analysis_, or of _Algebra_, properly so called. The second constitutes
+what is called the _Transcendental Analysis_, which has been designated
+by the different denominations of _Infinitesimal Calculus_, _Calculus of
+Fluxions and of Fluents_, _Calculus of Vanishing Quantities_, the
+_Differential and Integral Calculus_, &c., according to the point of
+view in which it has been conceived.
+
+In order to remove every foreign consideration, I will propose to name
+it CALCULUS OF INDIRECT FUNCTIONS, giving to ordinary analysis the title
+of CALCULUS OF DIRECT FUNCTIONS. These expressions, which I form
+essentially by generalizing and epitomizing the ideas of Lagrange, are
+simply intended to indicate with precision the true general character
+belonging to each of these two forms of analysis.
+
+Having now established the fundamental division of mathematical
+analysis, I have next to consider separately each of its two parts,
+commencing with the _Calculus of Direct Functions_, and reserving more
+extended developments for the different branches of the _Calculus of
+Indirect Functions_.
+
+
+
+

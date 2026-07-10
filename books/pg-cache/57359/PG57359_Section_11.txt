@@ -1,0 +1,773 @@
+CHAPTER VII.
+
+
+_THE RULES OF INFERENCE IN PROBABILITY._
+
+1. In the previous chapter, an investigation was made into
+what may be called, from the analogy of Logic, Immediate
+Inferences. Given that nine men out of ten, of any assigned
+age, live to forty, what could be inferred about the prospect
+of life of any particular man? It was shown that, although
+this step was very far from being so simple as it is frequently
+supposed to be, and as the corresponding step really is in
+Logic, there was nevertheless an intelligible sense in which
+we might speak of the amount of our belief in any one of
+these 'proportional propositions,' as they may succinctly be
+termed, and justify that amount. We must now proceed to
+the consideration of inferences more properly so called, I
+mean inferences of the kind analogous to those which form the
+staple of ordinary logical treatises. In other words, having
+ascertained in what manner particular propositions could be
+inferred from the general propositions which included them,
+we must now examine in what cases one general proposition
+can be inferred from another. By a general proposition here
+is meant, of course, a general proposition of the statistical
+kind contemplated in Probability. The rules of such inference
+being very few and simple, their consideration will not
+detain us long. From the data now in our possession we are
+able to deduce the rules of probability given in ordinary
+treatises upon the science. It would be more correct to say
+that we are able to deduce _some_ of these rules, for, as will
+appear on examination, they are of two very different kinds,
+resting on entirely distinct grounds. They might be divided
+into those which are formal, and those which are more or less
+experimental. This may be otherwise expressed by saying
+that, from the kind of series described in the first chapters,
+some rules will follow necessarily by the mere application of
+arithmetic; whilst others either depend upon peculiar hypotheses,
+or demand for their establishment continually renewed
+appeals to experience, and extension by the aid of the
+various resources of Induction. We shall confine our attention
+at present principally to the former class; the latter can
+only be fully understood when we have considered the connection
+of our science with Induction.
+
+2. The fundamental rules of Probability strictly so
+called, that is the formal rules, may be divided into two
+classes,--those obtained by addition or subtraction on the
+one hand, corresponding to what are generally termed the
+connection of exclusive or incompatible events;[1] and those
+obtained by multiplication or division, on the other hand,
+corresponding to what are commonly termed dependent
+events. We will examine these in order.
+
+(1) We can make inferences by simple addition. If,
+for instance, there are two distinct properties observable in
+various members of the series, which properties do not occur
+in the same individual; it is plain that in any batch the
+number that are of one kind or the other will be equal to the
+sum of those of the two kinds separately. Thus 36.4 infants
+in 100 live to over sixty, 35.4 in 100 die before they are
+ten;[2] take a large number, say 10,000, then there will be
+about 3640 who live to over sixty, and about 3540 who do
+not reach ten; hence the total number who do not die within
+the assigned limits will be about 2820 altogether. Of course
+if these proportions were accurately assigned, the resultant
+sum would be equally accurate: but, as the reader knows, in
+Probability this proportion is merely the limit towards which
+the numbers tend in the long run, not the precise result
+assigned in any particular case. Hence we can only venture
+to say that this is the limit towards which we tend as the
+numbers become greater and greater.
+
+This rule, in its general algebraic form, would be expressed
+in the language of Probability as follows:--If the
+chances of two exclusive or incompatible events be respectively
+1/m and 1/n the chance of one or other of them
+happening will be 1/m + 1/n or (m + n)/mn. Similarly if there were
+more than two events of the kind in question. On the principles
+adopted in this work, the rule, when thus algebraically
+expressed, means precisely the same thing as when it is
+expressed in the statistical form. It was shown at the conclusion
+of the last chapter that to say, for example, that the
+chance of a given event happening in a certain way is 1/6, is
+only another way of saying that in the long run it does tend
+to happen in that way once in six times.
+
+It is plain that a sort of corollary to this rule might be
+obtained, in precisely the same way, by subtraction instead of
+addition. Stated generally it would be as follows:--If the
+chance of one or other of two incompatible events be 1/m and
+the chance of one alone be 1/n, the chance of the remaining
+one will be 1/m - 1/n or (n - m)/nm.
+
+For example, if the chance of any one dying in a year is 1/10,
+and his chance of dying of some particular disease is 1/100,
+his chance of dying of any other disease is 9/100.
+
+The reader will remark here that there are two apparently
+different modes of stating this rule, according as we speak
+of 'one or other of two or more events happening,' or of 'the
+same event happening in one or other of two or more ways.'
+But no confusion need arise on this ground; either way of
+speaking is legitimate, the difference being merely verbal,
+and depending (as was shown in the first chapter, §8) upon
+whether the distinctions between the 'ways' are or are not
+too deep and numerous to entitle the event to be conventionally
+regarded as the same.
+
+We may also here point out the justification for the common
+doctrine that certainty is represented by unity, just as
+any given degree of probability is represented by its appropriate
+fraction. If the statement that an event happens once
+in m times, is equivalently expressed by saying that its chance
+is 1/m, it follows that to say that it happens m times in m times,
+or every time without exception, is equivalent to
+saying that its chance is m/m or 1. Now an event that happens
+every time is of course one of whose occurrence we are
+certain; hence the fraction which represents the 'chance' of
+an event which is certain becomes unity.
+
+It will be equally obvious that given that the chance that
+an event will happen is 1/m, the chance that it will not happen
+is 1 - 1/m or (m - 1)/m.
+
+3. (2) We can also make inferences by multiplication
+or division. Suppose that two events instead of being
+incompatible, are connected together in the sense that one
+is contingent upon the occurrence of the other. Let us be
+told that a given proportion of the members of the series
+possess a certain property, and a given proportion again of
+these possess another property, then the proportion of the
+whole which possess both properties will be found by multiplying
+together the two fractions which represent the above
+two proportions. Of the inhabitants of London, twenty-five
+in a thousand, say, will die in the course of the year; we
+suppose it to be known also that one death in five is due to
+fever; we should then infer that one in 200 of the inhabitants
+will die of fever in the course of the year. It would of course
+be equally simple, by division, to make a sort of converse
+inference. Given the total mortality per cent. of the population
+from fever, and the proportion of fever cases to the
+aggregate of other cases of mortality, we might have inferred,
+by dividing one fraction by the other, what was the total
+mortality per cent. from all causes.
+
+The rule as given above is variously expressed in the
+language of Probability. Perhaps the simplest and best
+statement is that it gives us the rule of dependent events.
+That is; if the chance of one event is 1/m, and the chance that
+if it happens another will also happen 1/n, then the chance
+of the latter is 1/mn. In this case it is assumed that the latter
+is so entirely dependent upon the former that though it does
+not always happen with it, it certainly will not happen without
+it; the necessity of this assumption however may be
+obviated by saying that what we are speaking of in the
+latter case is the _joint_ event, viz. both together if they are
+simultaneous events, or the latter _in consequence of_ the
+former, if they are successive.
+
+4. The above inferences are necessary, in the sense in
+which arithmetical inferences are necessary, and they do not
+demand for their establishment any arbitrary hypothesis.
+We assume in them no more than is warranted, and in fact
+necessitated by the data actually given to us, and make our
+inferences from these data by the help of arithmetic. In the
+simple examples given above nothing is required beyond
+arithmetic in its most familiar form, but it need hardly be
+added that in practice examples may often present themselves
+which will require much profounder methods than
+these. It may task all the resources of that higher and more
+abstract arithmetic known as algebra to extract a solution.
+But as the necessity of appeal to such methods as these does
+not touch the principles of this part of the subject we need
+not enter upon them here.
+
+5. The formula next to be discussed stands upon a
+somewhat different footing from the above in respect of its
+cogency and freedom from appeal to experience, or to hypothesis.
+In the two former instances we considered cases in
+which the data were supposed to be given under the conditions
+that the properties which distinguished the different kinds of
+events whose frequency was discussed, were respectively
+known to be disconnected and known to be connected. Let
+us now suppose that no such conditions are given to us.
+One man in ten, say, has black hair, and one in twelve
+is short-sighted; what conclusions could we then draw as
+to the chance of any given man having one only of these
+two attributes, or neither, or both? It is clearly possible
+that the properties in question might be inconsistent with
+one another, so as never to be found combined in the same
+person; or all the short-sighted might have black hair; or
+the properties might be allotted[3] in almost any other proportion
+whatever. If we are perfectly ignorant upon these
+points, it would seem that no inferences whatever could be
+drawn about the required chances.
+
+Inferences however _are_ drawn, and practically, in most
+cases, quite justly drawn. An escape from the apparent
+indeterminateness of the problem, as above described, is
+found by assuming that, not merely will one-tenth of the
+whole number of men have black hair (for this was given as
+one of the data), but also that one-tenth alike of those who
+are and who are not short-sighted have black hair. Let us
+take a batch of 1200, as a sample of the whole. Now, from
+the data which were originally given to us, it will easily be
+seen that in every such batch there will be on the average
+120 who have black hair, and therefore 1080 who have not.
+And here in strict right we ought to stop, at least until we
+have appealed again to experience; but we do not stop here.
+From data which we assume, we go on to infer that of the 120,
+10 (i.e. one-twelfth of 120) will be short-sighted, and
+110 (the remainder) will not. Similarly we infer that of the 1080,
+90 are short-sighted, and 990 are not. On the whole,
+then, the 1200 are thus divided:--black-haired short-sighted, 10;
+short-sighted without black hair, 90; black-haired men
+who are not short-sighted, 110; men who are neither short-sighted
+nor have black hair, 990.
+
+This rule, expressed in its most general form, in the
+language of Probability, would be as follows:--If the chances
+of a thing being p and q are respectively 1/m and 1/n, then the
+chance of its being both p and q is 1/mn, p and not q is (n - 1)/mn,
+q and not p is (m - 1)/mn, not p and not q is ((m - 1)(n - 1))/mn,
+where p and q are independent. The sum of these chances
+is obviously unity; as it ought to be, since one or other of
+the four alternatives must necessarily exist.
+
+6. I have purposely emphasized the distinction between
+the inference in this case, and that in the two preceding,
+to an extent which to many readers may seem unwarranted.
+But it appears to me that where a science makes
+use, as Probability does, of two such very distinct sources of
+conviction as the necessary rules of arithmetic and the
+merely more or less cogent ones of Induction, it is hardly
+possible to lay too much stress upon the distinction. Few
+will be prepared to deny that very arbitrary assumptions
+have been made by many writers on the subject, and none
+will deny that in the case of what are called 'inverse probabilities'
+assumptions are sometimes made which are at least
+decidedly open to question. The best course therefore is to
+make a pause and stringent enquiry at the point at which the
+possibility of such error and doubtfulness first exhibits itself.
+These remarks apply to some of the best writers on the subject;
+in the case of inferior writers, or those who appeal to
+Probability without having properly mastered its principles,
+we may go further. It would really not be asserting too
+much to say that they seem to think themselves justified in
+assuming that where we know nothing about the distribution
+of the properties alluded to we must assume them to be distributed
+as above described, and therefore apportion our
+belief in the same ratio. This is called 'assuming the events
+to be independent,' the supposition being made that the rule
+will certainly follow from this independence, and that we
+have a right, if we know nothing to the contrary, to assume
+that the events are independent.
+
+The validity of this last claim has already been discussed
+in the first chapter; it is only another of the attempts to
+construct _à priori_ the series which experience will present to
+us, and one for which no such strong defence can be made as
+for the equality of heads and tails in the throws of a penny.
+But the meaning to be assigned to the 'independence' of the
+events in question demands a moment's consideration.
+
+The circumstances of the problem are these. There are
+two different qualities, by the presence and absence respectively
+of each of which, amongst the individuals of a series,
+two distinct pairs of classes of these individuals are produced.
+For the establishment of the rule under discussion
+it was found that one supposition was both necessary and
+sufficient, namely, that the division into classes caused by
+each of the above distinctions should subdivide each of the
+classes created by the other distinction in the same ratio
+in which it subdivides the whole. If the independence be
+granted and so defined as to mean this, the rule of course
+will stand, but, without especial attention being drawn to
+the point, it does not seem that the word would naturally
+be so understood.
+
+7. The above, then, being the fundamental rules of
+inference in probability, the question at once arises, What is
+their relation to the great body of formulæ which are made
+use of in treatises upon the science, and in practical applications
+of it? The reply would be that these formulæ, in so
+far as they properly belong to the science, are nothing else
+in reality than applications of the above fundamental rules.
+Such applications may assume any degree of complexity, for
+owing to the difficulty of particular examples, in the form in
+which they actually present themselves, recourse must sometimes
+be made to the profoundest theorems of mathematics.
+Still we ought not to regard these theorems as being anything
+else than convenient and necessary abbreviations of
+arithmetical processes, which in practice have become too
+cumbersome to be otherwise performed.
+
+This explanation will account for some of the rules as
+they are ordinarily given, but by no means for all of them.
+It will account for those which are demonstrable by the certain
+laws of arithmetic, but not for those which in reality
+rest only upon inductive generalizations. And it can hardly
+be doubted that many rules of the latter description have
+become associated with those of the former, so that in popular
+estimation they have been blended into one system, of
+which all the separate rules are supposed to possess a similar
+origin and equal certainty. Hints have already been frequently
+given of this tendency, but the subject is one of
+such extreme importance that a separate chapter (that on
+Induction) must be devoted to its consideration.
+
+8. In establishing the validity of the above rules, we
+have taken as the basis of our investigations, in accordance
+with the general scheme of this work, the statistical frequency
+of the events referred to; but it was also shown that each
+formula, when established, might with equal propriety be expressed
+in the more familiar form of a fraction representing
+the 'chance' of the occurrence of the particular event. The
+question may therefore now be raised, Can those writers who
+(as described in the last chapter) take as the primary subject
+of the science not the degree of statistical frequency, but the
+quantity of belief, with equal consistency make this the basis
+of their rules, and so also regard the fraction expressive of
+the chance as a merely synonymous expression? De Morgan
+maintains that whereas in ordinary logic we suppose the
+premises to be absolutely true, the province of Probability is
+to study 'the effect which partial belief of the premises produces
+with respect to the conclusion.' It would appear
+therefore as if in strictness we ought on this view to be able
+to determine this consequent diminution at first hand, from
+introspection of the mind, that is of the conceptions and
+beliefs which it entertains; instead of making any recourse
+to statistics to tell us how much we ought to believe the
+conclusion.
+
+Any readers who have concurred with me in the general
+results of the last chapter, will naturally agree in the conclusion
+that nothing deserving the name of logical science can
+be extracted from any results of appeal to our consciousness
+as to the quantity of belief we entertain of this or that proposition.
+Suppose, for example, that one person in 100 dies
+on the sea passage out to India, and that one in 9 dies during
+a 5 years residence there. It would commonly be said
+that the chance that any one, who is now going out, has of
+living to start homewards 5 years hence, is 88/100; for his chance
+of getting there is 99/100; and of his surviving, if he gets
+there, 8/9; hence the result or dependent event is got by
+multiplying these fractions together, which gives 88/100. Here
+the real basis of the reasoning is statistical, and the processes
+or results are merely translated afterwards into fractions.
+But can we say the same when we look at the belief side of
+the question? I quite admit the psychological fact that we
+have degrees of belief, more or less corresponding to the
+frequency of the events to which they refer. In the above example,
+for instance, we should undoubtedly admit on enquiry
+that our belief in the man's return was affected by each of
+the risks in question, so that we had less expectation of it
+than if he were subject to either risk separately; that is, we
+should in some way compound the risks. But what I cannot
+recognise is that we should be able to perform the process
+with any approach to accuracy without appeal to the statistics,
+or that, even supposing we could do so, we should
+have any guarantee of the correctness of the result without
+similar appeal. It appears to me in fact that but little
+meaning, and certainly no security, can be attained by so
+regarding the process of inference. The probabilities expressed
+as degrees of belief, just as those which are expressed
+as fractions, must, when we are put upon our justification,
+first be translated into their corresponding facts of statistical
+frequency of occurrence of the events, and then the inferences
+must be drawn and justified there. This part of
+the operation, as we have already shown, is mostly carried
+on by the ordinary rules of arithmetic. When we have
+obtained our conclusion we may, if we please, translate it
+back again into the subjective form, just as we can and do
+for convenience into the fractional, but I do not see how the
+process of inference can be conceived as taking place in that
+form, and still less how any proof of it can thus be given. If
+therefore the process of inference be so expressed it must be
+regarded as a symbolical process, symbolical of such an inference
+about things as has been described above, and it
+therefore seems to me more advisable to state and expound
+it in this latter form.
+
+
+_On Inverse Probability and the Rules required for it._
+
+9. It has been already stated that the only fundamental
+rules of inference in Probability are the two described
+in §§2, 3, but there are of course abundance of derivative
+rules, the nature and use of which are best obtained from the
+study of any manual upon the subject. One class of these
+derivative rules, however, is sufficiently distinct in respect of
+the questions to which it may give rise, to deserve special
+examination. It involves the distinction commonly recognised
+as that between Direct and Inverse Probability. It is
+thus introduced by De Morgan:--
+
+"In the preceding chapter we have calculated the chances
+of an event, knowing the circumstances under which it is to
+happen or fail. We are now to place ourselves in an inverted
+position: we know the event, and ask what is the probability
+which results from the event in favour of any set of circumstances
+under which the same might have happened."[4] The
+distinction might therefore be summarily described as that
+between finding an effect when we are given the causes, and
+finding a cause when we are given effects.
+
+On the principles of the science involved in the definition
+which was discussed and adopted in the earlier chapters of
+this work, the reader will easily infer that no such distinction
+as this can be regarded as fundamental. One common feature
+was traced in all the objects which were to be referred to
+Probability, and from this feature the possible rules of
+inference can be immediately derived. All other distinctions
+are merely those of arrangement or management.
+
+But although the distinction is not by any means fundamental,
+it is nevertheless true that the practical treatment
+of such problems as those principally occurring in Inverse
+Probability, does correspond to a very serious source of
+ambiguity and perplexity. The arbitrary assumptions which
+appear in Direct Probability are not by any means serious,
+but those which invade us in a large proportion of the problems
+offered by Inverse Probability are both serious and
+inevitable.
+
+10. This will be best seen by the examination of
+special examples; as any, however simple, will serve our
+purpose, let us take the two following:--
+
+(1) A ball is drawn from a bag containing nine black
+balls and one white: what is the chance of its being the
+white ball?
+
+(2) A ball is drawn from a bag containing ten balls, and
+is found to be white; what is the chance of there having
+been but that one white ball in the bag?
+
+The class of which the first example is a simple instance
+has been already abundantly discussed. The interpretation
+of it is as follows: If balls be continually drawn and replaced,
+the proportion of white ones to the whole number
+drawn will tend towards the fraction 1/10. The contemplated
+action is a single one, but we view it as one of the above
+series; at least our opinion is formed upon that assumption.
+We conclude that we are going to take one of a series of
+events which may appear individually fortuitous, but in
+which, in the long run, those of a given kind are one-tenth of
+the whole; this kind (white) is then singled out by anticipation.
+By stating that its chance is 1/10, we merely mean to
+assert this physical fact, together with such other mental
+facts, emotions, inferences, &c., as may be properly associated
+with it.
+
+11. Have we to interpret the second example in a
+different way? Here also we have a single instance, but the
+nature of the question would seem to decide that the only
+series to which it can properly be referred is the following:--Balls
+are continually drawn from _different_ bags each containing
+ten, and are always found to be white; what is ultimately
+the proportion of cases in which they will be found to have
+been taken from bags with only one white ball in them?
+Now it may be readily shown[5] that time has nothing to
+do with the question; omitting therefore the consideration
+of this element, we have for the two series from which our
+opinions in these two examples respectively are to be
+formed:--(1) balls of different colours presented to us in a
+given ultimate ratio; (2) bags with different contents similarly
+presented. From these data respectively we have to
+assign their due weight to our anticipations of (1) a white
+ball; (2) a bag containing but one white ball. So stated the
+problems would appear to be formally identical.
+
+When, however, we begin the practical work of solving
+them we perceive a most important distinction. In the first
+example there is not much that is arbitrary; balls would
+under such circumstance really come out more or less accurately
+in the proportion expected. Moreover, in case it
+should be objected that it is difficult to prove that they will
+do so, it does not seem an unfair demand to say that the balls
+are to be 'well-mixed' or 'fairly distributed,' or to introduce
+any of the other conditions by which, under the semblance of
+judging _à priori_, we take care to secure our prospect of a
+series of the desired kind. But we cannot say the same in
+the case of the second example.
+
+12. The line of proof by which it is generally attempted
+to solve the second example is of this kind;--It is
+shown that there being one white ball for certain in the bag,
+the only possible antecedents are of ten kinds, viz. bags,
+each of which contains ten balls, but in which the white
+balls range respectively from one to ten in number. This of
+course imposes limits upon the kind of terms to be found
+in our series. But we want more than such limitations, we
+must know the proportions in which these terms are ultimately
+found to arrange themselves in the series. Now this
+requires an experience about bags which may not, and indeed
+in a large proportion of similar cases, cannot, be given
+to us. If therefore we are to solve the question at all we
+must make an assumption; let us make the following;--_that
+each of the bags described above occurs equally often_,--and see
+what follows. The bags being drawn from equally often, it
+does not follow that they will each yield equal numbers of
+white balls. On the contrary they will, as in the last
+example, yield them in direct proportion to the number of
+such balls which they contain. The bag with one white
+and nine black will yield a white ball once in ten times; that
+with two white, twice; and so on. The result of this, it will
+be easily seen, is that in 100 drawings there will be obtained
+on the average 55 white balls and 45 black. Now with
+those drawings that do not yield white balls we have, by the
+question, nothing to do, for that question postulated the
+drawing of a white ball as an accomplished fact. The series
+we want is therefore composed of those which do yield white.
+Now what is the additional attribute which is found in some
+members, and in some members only, of this series, and
+which we mentally anticipate? Clearly it is the attribute of
+having been drawn from a bag which only contained one of
+these white balls. Of these there is, out of the 55 drawings,
+but one. Accordingly the required chance is 1/55. That is to
+say, the white ball will have been drawn from the bag containing
+only that one white, once in 55 times.
+
+13. Now, with the exception of the passage in italics,
+the process here is precisely the same as in the other example;
+it is somewhat longer only because we are not able to
+appeal immediately to experience, but are forced to try to
+deduce what the result will be, though the validity of this
+deduction itself rests, of course, ultimately upon experience.
+But the above passage is a very important one. It is scarcely
+necessary to point out how arbitrary it is.
+
+For _is_ the supposition, that the different specified kinds
+of bags are equally likely, the most reasonable supposition
+under the circumstances in question? One man may think
+it is, another may take a contrary view. In fact in an excellent
+manual[6] upon the subject a totally different supposition
+is made, at any rate in one example; it is taken for granted
+in that instance, not that every possible number of black and
+white balls respectively is equally likely, but that every
+possible way of getting each number is equally likely, whence
+it follows that bags with an intermediate number of black
+and white balls are far more likely than those with an extreme
+number of either. On this supposition five black
+and five white being obtainable in 252 ways against the
+ten ways of obtaining one white and nine black, it follows
+that the chance that we have drawn from a bag of
+the latter description is much less than on the hypothesis
+first made. The chance, in fact, becomes now 1/512 instead
+of 1/55. In the one case each distinct result is considered
+equally likely, in the other every distinct way of getting
+each result.
+
+14. Uncertainties of this kind are peculiarly likely to
+arise in these inverse probabilities, because when we are
+merely given an effect and told to look out for the chance of
+some assigned cause, we are often given no clue as to the relative
+prevalence of these causes, but are left to determine them
+on general principles. Give us either their actual prevalence
+in statistics, or the conditions by which such prevalence is
+brought about, and we know what to do; but without the
+help of such data we are reduced to guessing. In the above
+example, if we had been told how the bag had been originally
+filled, that is by what process, or under what circumstances,
+we should have known what to do. If it had been filled at
+random from a box containing equal numbers of black and
+white balls, the supposition in Mr Whitworth's example is
+the most reasonable; but in the absence of any such information
+as this we are entirely in the dark, and the supposition
+made in §12 is neither more nor less trustworthy and
+reasonable than many others, though it doubtless possesses
+the merit of superior simplicity.[7] If the reader will recur to
+Ch. V. §§4, 5, he will find this particular difficulty fully
+explained. Everybody practically admits that a certain
+characteristic arrangement or distribution has to be introduced
+at some prior stage; and that, as soon as this stage
+has been selected, there are no further theoretic difficulties
+to be encountered. But when we come to decide, in examples
+of the class in question, at what stage it is most reasonable
+to make our postulate, we are often left without any very
+definite or rational guidance.
+
+15. When, however, we take what may be called, by
+comparison with the above purely artificial examples, instances
+presented by nature, much of this uncertainty will disappear,
+and then all real distinction between direct and inverse
+probability will often vanish. In such cases the causes are
+mostly determined by tolerably definite rules, instead of
+being a mere cloud-land of capricious guesses. We may
+either find their relative frequency of occurrence by reference
+to tables, or may be able to infer it by examination of
+the circumstances under which they are brought about.
+Almost any simple example would then serve to illustrate
+the fact that under such circumstances the distinction
+between direct and inverse probability disappears altogether,
+or merely resolves itself into one of _time_, which, as will be
+more fully shown in a future chapter, is entirely foreign to
+our subject.
+
+It is not of course intended to imply that difficulties
+similar to those mentioned above do not occasionally invade
+us here also. As already mentioned, they are, if not inherent
+in the subject, at any rate almost unavoidable in comparison
+with the simpler and more direct procedure of determining
+what is likely to follow from assigned conditions. What is
+meant is that so long as we confine ourselves within the
+comparatively regular and uniform field of natural sequences
+and co-existences, statistics of causes may be just as readily
+available as those of effects. There will not be much more
+that is arbitrary in the one than in the other. But of course
+this security is lost when, as will be almost immediately
+noticed, what may be called metaphysical rather than natural
+causes are introduced into the enquiry.
+
+For instance, it is known that in London about 20 people
+die per thousand each year. Suppose it also known that of
+every 100 deaths there are about 4 attributable to bronchitis.
+The odds therefore against any unknown person dying of
+bronchitis in a given year are 1249 to 1. Exactly the same
+statistics are available to solve the inverse problem:--A man
+is dead, what is the chance that he died of bronchitis? Here,
+since the man's death is taken for granted, we do not require
+to know the general average mortality. All that we want is
+the proportional mortality from the disease in question as
+given above. If Probability dealt only with inferences
+founded in this way upon actual statistics, and these tolerably
+extensive, it is scarcely likely that any distinction such
+as this between direct and inverse problems would ever have
+been drawn.
+
+16. Considered therefore as a contribution to the theory
+of the subject, the distinction between Direct and Inverse Probability
+must be abandoned. When the appropriate statistics
+are at hand the two classes of problems become identical
+in method of treatment, and when they are not we have no
+more right to extract a solution in one case than in the other.
+The discussion however may serve to direct renewed attention
+to another and far more important distinction. It will
+remind us that there is one class of examples to which the
+calculus of Probability is rightfully applied, because statistical
+data are all we have to judge by; whereas there are other
+examples in regard to which, if we will insist upon making
+use of these rules, we may either be deliberately abandoning
+the opportunity of getting far more trustworthy information
+by other means, or we may be obtaining solutions about
+matters on which the human intellect has no right to any
+definite quantitative opinion.
+
+17. The nearest approach to any practical justification
+of such judgments that I remember to have seen is afforded
+by cases of which the following example is a specimen:--
+"Of 10 cases treated by Lister's method, 7 did well and 3 suffered
+from blood-poisoning: of 14 treated with ordinary
+dressings, 9 did well and 5 had blood-poisoning; what are
+the odds that the success of Lister's method was due to
+chance?".[8] Or, to put it into other words, a short experience
+has shown an actual superiority in one method over the
+other: what are the chances that an indefinitely long experience,
+under similar conditions, will confirm this superiority?
+
+The proposer treated this as a 'bag and balls' problem,
+analogous to the following: 10 balls from one bag gave
+7 white and 3 black, 14 from another bag gave 9 white and
+5 black: what is the chance that the actual ratio of white to
+black balls was greater in the former than in the latter?--this
+actual ratio being of course considered a true indication
+of what would be the ultimate proportions of white and black
+drawings. This seems to me to be the only reasonable way
+of treating the problem, if it is to be considered capable of
+numerical solution at all.
+
+Of course the inevitable assumption has to be made here
+about the equal prevalence of the different possible kinds of
+bag,--or, as the supporters of the justice of the calculation
+would put it, of the obligation to assume the equal _à priori_
+likelihood of each kind,--but I think that in this particular
+example the arbitrariness of the assumption is less than
+usual. This is because the problem discusses simply a
+balance between two extremely similar cases, and there is a
+certain set-off against each other of the objectionable assumptions
+on each side. Had _one_ set of experiments only been
+proposed, and had we been asked to evaluate the probability
+of continued repetition of them confirming their verdict, I
+should have felt all the scruples I have already mentioned.
+But here we have got two sets of experiments carried on
+under almost exactly similar circumstances, and there is
+therefore less arbitrariness in assuming that their unknown
+conditions are tolerably equally prevalent.
+
+18. Examples of the description commonly introduced
+seem objectionable enough, but if we wish to realize to its
+full extent the vagueness of some of the problems submitted
+to this Inverse Probability, we have not far to seek. In
+natural as in artificial examples, where statistics are unattainable
+the enquiry becomes utterly hopeless, and all attempts
+at laying down rules for calculation must be abandoned.
+Take, for instance, the question which has given rise to some
+discussion,[9] whether such and such groups of stars are or are
+not to be regarded as the results of an accidental distribution;
+or the still wider and vaguer question, whether such and
+such things, or say the world itself, have been produced by
+chance?
+
+In cases of this kind the insuperable difficulty is in determining
+what sense exactly is to be attached to the words
+'accidental' and 'random' which enter into the discussion.
+Some account was given, in the fourth chapter, of their
+scientific and conventional meaning in Probability. There
+seem to be the same objections to generalizing them out of
+such relation, as there is in metaphysics to talking of the
+Infinite or the Absolute. Infinite magnitude, or infinite
+power, one can to some extent comprehend, or at least one
+may understand what is being talked about, but '_the_ infinite'
+seems to me a term devoid of meaning. So of anything
+supposed to have been produced at random: tell us the
+nature of the agency, the limits of its randomness and so on,
+and we can venture upon the problem, but without such data
+we know not what to do. The further consideration of such
+a problem might, I think, without arrogance be relegated to
+the Chapter on Fallacies. Accordingly any further remarks
+which I have to make upon the subject will be found there,
+and at the conclusion of the chapter on Causation and
+Design.
+
+
+1. It might be more accurate to speak of 'incompatible hypotheses with
+  respect to any individual case', or 'mutually exclusive classes of
+  events'.
+
+2. The examples, of this kind, referring to human mortality are taken
+  from the Carlisle tables. These differ considerably, as is well
+  known, from other tables, but we have the high authority of De
+  Morgan for regarding them as the best representative of the average
+  mortality of the English middle classes at the present day.
+
+3. I say, _almost_ any proportion, because, as may easily be seen,
+  arithmetic imposes certain restrictions upon the assumptions that
+  can be made. We could not, for instance, suppose that all the
+  black-haired men are short-sighted, for in any given batch of men
+  the former are more numerous. But the range of these restrictions is
+  limited, and their existence is not of importance in the above
+  discussion.
+
+4. _Essay on Probabilities_, p. 53. I have been reminded that in his
+  article on Probability in the _Encyclopædia Metropolitana_ he has
+  stated that such rules involve no new principle.
+
+5. This point will be fully discussed in a future chapter, after the
+  general stand-point of an objective system of logic has been
+  explained and illustrated.
+
+6. Whitworth's _Choice and Chance_, Ed. II., p. 123. See also Boole's
+  _Laws of Thought_, p. 370.
+
+7. Opinions differ about the defence of such suppositions, as they do
+  about the nature of them. Some writers, admitting the above
+  assumption to be doubtful, call it the most impartial
+  hypothesis. Others regard it as a sort of mean hypothesis.
+
+8. _Educational Times_; Reprint, Vol. xxxvii. p. 40. The question was
+  proposed by Dr. Macalister and gave rise to considerable controversy.
+  As usual with problems of this inverse kind hardly any two of the
+  writers were in agreement as to the assumptions to be made, or
+  therefore as to the numerical estimate of the odds.
+
+9. See Todhunter's _History_, pp. 333, 4.
+
+  There is an interesting discussion upon this question by the late
+  J. D. Forbes in a paper in the _Philosophical Magazine_ for
+  Dec. 1850. It was replied to in a subsequent number by Prof. Donkin.
+
+
+
+

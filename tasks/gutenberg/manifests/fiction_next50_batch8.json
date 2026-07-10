@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 596,
+      "title": "Rivers to the Sea",
+      "author": "Teasdale, Sara, 1884-1933",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Love poetry; Nature -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 599,
+      "title": "Vanity Fair",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; England -- Fiction; Married women -- Fiction; Female friendship -- Fiction; Social classes -- Fiction; British -- Europe -- Fiction; Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 600,
+      "title": "Notes from the Underground",
+      "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Political fiction; Russia -- History -- 1801-1917 -- Fiction; Russia -- Officials and employees -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 601,
+      "title": "The Monk: A Romance",
+      "author": "Lewis, M. G. (Matthew Gregory), 1775-1818",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Horror tales; Gothic fiction; Monks -- Fiction; Madrid (Spain) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 604,
+      "title": "Gulliver of Mars",
+      "author": "Arnold, Edwin Lester, 1857-1935",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Martians -- Fiction; Mars (Planet) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 605,
+      "title": "Pellucidar",
+      "author": "Burroughs, Edgar Rice, 1875-1950",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Adventure stories; Earth (Planet) -- Core -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 610,
+      "title": "Idylls of the King",
+      "author": "Tennyson, Alfred Tennyson, Baron, 1809-1892",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Arthur, King -- Poetry; Arthurian romances -- Adaptations; Knights and knighthood -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 611,
+      "title": "Prester John",
+      "author": "Buchan, John, 1875-1940",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "South Africa -- Fiction; Clergy -- Fiction; Adventure stories; Scots -- South Africa -- Fiction; Zulu (African people) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 614,
+      "title": "Across the Plains, with Other Memories and Essays",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; West (U.S.) -- Description and travel; Monterey (Calif.) -- Description and travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 617,
+      "title": "Poems",
+      "author": "Seeger, Alan, 1888-1916",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Poetry; American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 618,
+      "title": "Codex Junius 11",
+      "author": "Unknown",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Bible -- History of Biblical events -- Poetry; English poetry -- Old English, ca. 450-1100",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 619,
+      "title": "The Warden",
+      "author": "Trollope, Anthony, 1815-1882",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Domestic fiction; Clergy -- Fiction; Barsetshire (England : Imaginary place) -- Fiction; Almshouses -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 620,
+      "title": "Sylvie and Bruno",
+      "author": "Carroll, Lewis, 1832-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 622,
+      "title": "The Letters of Robert Louis Stevenson \u2014 Volume 1",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Stevenson, Robert Louis, 1850-1894 -- Correspondence; Authors, Scottish -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 623,
+      "title": "The Battle of the Books, and other Short Pieces",
+      "author": "Swift, Jonathan, 1667-1745; Morley, Henry, 1822-1894 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays; Satire, English; Ancients and moderns, Quarrel of",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 624,
+      "title": "Looking Backward, 2000 to 1887",
+      "author": "Bellamy, Edward, 1850-1898",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Utopias -- Fiction; Social problems -- Fiction; Time travel -- Fiction; Boston (Mass.) -- Fiction; Utopian fiction; Two thousand, A.D. -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 625,
+      "title": "Ponkapog Papers",
+      "author": "Aldrich, Thomas Bailey, 1836-1907",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 627,
+      "title": "Essays of Travel",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Stevenson, Robert Louis, 1850-1894 -- Travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 637,
+      "title": "The Letters of Robert Louis Stevenson \u2014 Volume 2",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Stevenson, Robert Louis, 1850-1894 -- Correspondence; Authors, Scottish -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 638,
+      "title": "An Outcast of the Islands",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Clerks -- Fiction; Europeans -- Southeast Asia -- Fiction; Trading companies -- Fiction; Betrayal -- Fiction; Lingard, Tom (Fictitious character) -- Fiction; Southeast Asia -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 642,
+      "title": "The Altar of the Dead",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Death -- Fiction; Forgiveness -- Fiction; Memory -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 643,
+      "title": "The Death of the Lion",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authors -- Fiction; Authorship -- Fiction; Manners and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 644,
+      "title": "The Haunted Man and the Ghost's Bargain",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; Ghost stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 645,
+      "title": "The Figure in the Carpet",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, American; Interpersonal relations -- Fiction; Women novelists -- Fiction; Critics -- Fiction; Secrecy -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 646,
+      "title": "The Coral Island: A Tale of the Pacific Ocean",
+      "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Shipwreck survival -- Juvenile fiction; Islands -- Juvenile fiction; Pirates -- Juvenile fiction; Camping -- Juvenile fiction; Natural history -- Juvenile fiction; Survival skills -- Juvenile fiction; Shipwrecks -- Juvenile fiction; Outdoor life -- Juvenile fiction; Oceania -- Juvenile fiction; Robinsonades",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 647,
+      "title": "The Dynamiter",
+      "author": "Stevenson, Robert Louis, 1850-1894; Stevenson, Fanny Van de Grift, 1840-1914",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Adventure stories; Mystery fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 649,
+      "title": "Ancient Poems, Ballads, and Songs of the Peasantry of England",
+      "author": "Bell, Robert, 1800-1867 [Editor]; Dixon, James Henry, 1803-1876 [Contributor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Songs, English -- England -- Texts; Ballads, English -- England -- Texts",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 651,
+      "title": "Phantasmagoria and Other Poems",
+      "author": "Carroll, Lewis, 1832-1898; Frost, A. B. (Arthur Burdett), 1851-1928 [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- 19th century; Ghosts -- Poetry; Fantasy poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 653,
+      "title": "The Chimes\r\nA Goblin Story of Some Bells That Rang an Old Year out and a New Year In",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; Holidays -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 654,
+      "title": "Grace Abounding to the Chief of Sinners",
+      "author": "Bunyan, John, 1628-1688; Copping, Harold, 1863-1932 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Bunyan, John, 1628-1688; Authors, English -- Early modern, 1500-1700 -- Biography; Puritans -- England -- Biography; Christian biography -- England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 655,
+      "title": "Life and Letters of Robert Browning",
+      "author": "Orr, Sutherland, Mrs., 1828-1903; Browning, Robert, 1812-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Browning, Robert, 1812-1889; Poets, English -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 656,
+      "title": "Life of Robert Browning",
+      "author": "Sharp, William, 1855-1905",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Browning, Robert, 1812-1889; Poets, English -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 659,
+      "title": "Paul the Peddler; Or, The Fortunes of a Young Street Merchant",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; New York (N.Y.) -- History -- 19th century -- Juvenile fiction; Business enterprises -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 671,
+      "title": "Phil, the Fiddler",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Violinists -- Juvenile fiction; New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction; Child abuse -- Juvenile fiction; Runaways -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 676,
+      "title": "The Battle of Life",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Christmas stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 677,
+      "title": "The Heroes; Or, Greek Fairy Tales for My Children",
+      "author": "Kingsley, Charles, 1819-1875",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mythology, Greek -- Juvenile literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 678,
+      "title": "The Cricket on the Hearth: A Fairy Tale of Home",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Christmas stories, English; Holidays -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 679,
+      "title": "Poems",
+      "author": "Harper, Frances Ellen Watkins, 1825-1911",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 681,
+      "title": "Creatures That Once Were Men",
+      "author": "Gorky, Maksim, 1868-1936; Chesterton, G. K. (Gilbert Keith), 1874-1936 [Commentator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 687,
+      "title": "A Personal Record",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Novelists, English -- 20th century -- Biography; Conrad, Joseph, 1857-1924",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 688,
+      "title": "The Goodness of St. Rocque, and Other Stories",
+      "author": "Dunbar-Nelson, Alice Moore, 1875-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; New Orleans (La.) -- Fiction; City and town life -- Fiction; African Americans -- Fiction; United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 689,
+      "title": "The Kreutzer Sonata and Other Stories",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Tucker, Benjamin Ricketson, 1854-1939 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Russia -- Social life and customs -- Fiction; Murder -- Fiction; Jealousy -- Fiction; Tolstoy, Leo, graf, 1828-1910 -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 691,
+      "title": "The Complete Works of James Whitcomb Riley \u2014 Volume 1",
+      "author": "Riley, James Whitcomb, 1849-1916",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 692,
+      "title": "The Complete Works of James Whitcomb Riley \u2014 Volume 10",
+      "author": "Riley, James Whitcomb, 1849-1916",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Short stories, American; American essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 693,
+      "title": "The Autobiography of a Quack, and The Case of George Dedlow",
+      "author": "Mitchell, S. Weir (Silas Weir), 1829-1914",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Social problems -- Fiction; Political fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 696,
+      "title": "The Castle of Otranto",
+      "author": "Walpole, Horace, 1717-1797; Morley, Henry, 1822-1894 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Horror tales; Inheritance and succession -- Fiction; Gothic fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 697,
+      "title": "The Light Princess",
+      "author": "MacDonald, George, 1824-1905",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Children's stories, English; Fairy tales -- Great Britain",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 700,
+      "title": "The Old Curiosity Shop",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; England -- Fiction; Domestic fiction; Grandparent and child -- Fiction; Antique dealers -- Fiction; Grandfathers -- Fiction; Gamblers -- Fiction; Girls -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 701,
+      "title": "The King of the Golden River",
+      "author": "Ruskin, John, 1819-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Fairy tales; Didactic fiction; Conduct of life -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 702,
+      "title": "Somebody's Little Girl",
+      "author": "Young, Martha, 1868-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Girls -- Juvenile fiction; Orphanages -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

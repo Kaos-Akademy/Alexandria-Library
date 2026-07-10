@@ -1,0 +1,1647 @@
+CHAPTER VI.[1]
+
+
+_THE SUBJECTIVE SIDE OF PROBABILITY. MEASUREMENT OF BELIEF._
+
+1. Originally written in somewhat of a spirit of protest against what
+  seemed to me the prevalent disposition to follow De Morgan in taking
+  too subjective a view of the science. In reading it through now I
+  cannot find any single sentence to which I could take distinct
+  objection, though I must admit that if I were writing it entirely
+  afresh I should endeavour to express myself with less emphasis, and
+  I have made alterations in that direction. The reader who wishes to
+  see a view not substantially very different from mine, but expressed
+  with a somewhat opposite emphasis, can refer to Mr F. Y. Edgeworth's
+  article on "The Philosophy of Chance" (_Mind_, Vol. IX.)
+
+
+1. Having now obtained a clear conception of a
+certain kind of series, the next enquiry is, What is to be
+done with this series? How is it to be employed as a means
+of making inferences? The general step that we are now
+about to take might be described as one from the objective
+to the subjective, from the things themselves to the state of
+our minds in contemplating them.
+
+The reader should observe that a substitution has, in a
+great number of cases, already been made as a first stage
+towards bringing the things into a shape fit for calculation.
+This substitution, as described in former chapters, is, in a
+measure, a process of _idealization_. The series we actually
+meet with are apt to show a changeable type, and the individuals
+of them will sometimes transgress their licensed irregularity.
+Hence they have to be pruned a little into shape, as
+natural objects almost always have before they are capable of
+being accurately reasoned about. The form in which the
+series emerges is that of a series with a fixed type. This
+imaginary or ideal series is the basis of our calculation.
+
+2. It must not be supposed that this is at all at variance
+with the assertion previously made, that Probability is a
+science of inference about real things; it is only by a substitution
+of the above kind that we are enabled to reason about
+the things. In nature nearly all phenomena present themselves
+in a form which departs from that rigorously accurate
+one which scientific purposes mostly demand, so we have to
+introduce an imaginary series, which shall be free from any
+such defects. The only condition to be fulfilled is, that the
+substitution is to be as little arbitrary, that is, to vary from
+the truth as slightly, as possible. This kind of substitution
+generally passes without notice when natural objects of any
+kind are made subjects of exact science. I direct distinct
+attention to it here simply from the apprehension that want
+of familiarity with the subject-matter might lead some readers
+to suppose that it involves, in this case, an exceptional deflection
+from accuracy in the formal process of inference.
+
+It may be remarked also that the adoption of this imaginary
+series offers no countenance whatever to the doctrine
+criticised in the last chapter, in accordance with which it was
+supposed that our series possessed a fixed unchangeable type
+which was merely the "development of the probabilities" of
+things, to use Laplace's expression. It differs from anything
+contemplated on that hypothesis by the fact that it is to be
+recognized as a necessary substitution of our own for the
+actual series, and to be kept in as close conformity with facts as
+possible. It is a mere fiction or artifice necessarily resorted
+to for the purpose of calculation, and for this purpose only.
+
+This caution is the more necessary, because in the example
+that I shall select, and which belongs to the most favourite
+class of examples in this subject, the substitution becomes
+accidentally unnecessary. The things, as has been repeatedly
+pointed out, may sometimes need no trimming, because in
+the form in which they actually present themselves they _are_
+almost idealized. In most cases a good deal of alteration is
+necessary to bring the series into shape, but in some--prominently
+in the case of games of chance--we find the alterations,
+for all practical purposes, needless.
+
+3. We start then, from such a series as this, upon the
+enquiry, What kind of inference can be made about it? It
+may assist the logical reader to inform him that our first step
+will be analogous to one class of what are commonly known
+as _immediate_ inferences,--inferences, that is, of the type,--'All
+men are mortal, therefore any particular man or men
+are mortal.' This case, simple and obvious as it is in Logic,
+requires very careful consideration in Probability.
+
+It is obvious that we must be prepared to form an opinion
+upon the propriety of taking the step involved in making
+such an inference. Hitherto we have had as little to do as
+possible with the irregular individuals; we have regarded
+them simply as fragments of a regular series. But we cannot
+long continue to neglect all consideration of them. Even if
+these events in the gross be tolerably certain, it is not only
+in the gross that we have to deal with them; they constantly
+come before us a few at a time, or even as individuals,
+and we have to form some opinion about them in this
+state. An insurance office, for instance, deals with numbers
+large enough to obviate most of the uncertainty, but
+each of their transactions has another party interested in
+it--What has the man who insures to say to their proceedings?
+for to him this question becomes an individual one.
+And even the office itself receives its cases singly, and would
+therefore like to have as clear views as possible about these
+single cases. Now, the remarks made in the preceding chapters
+about the subjects which Probability discusses might seem to
+preclude all enquiries of this kind, for was not ignorance of
+the individual presupposed to such an extent that even (as
+will be seen hereafter) causation might be denied, within
+considerable limits, without affecting our conclusions? The
+answer to this enquiry will require us to turn now to the
+consideration of a totally distinct side of the question, and
+one which has not yet come before us. Our best introduction
+to it will be by the discussion of a special example.
+
+4. Let a penny be tossed up a very great many
+times; we may then be supposed to know for certain this
+fact (amongst many others) that in the long run head and
+tail will occur about equally often. But suppose we consider
+only a moderate number of throws, or fewer still, and so
+continue limiting the number until we come down to three
+or two, or even one? We have, as the extreme cases, certainty
+or something undistinguishably near it, and utter
+uncertainty. Have we not, between these extremes, all
+gradations of belief? There is a large body of writers, including
+some of the most eminent authorities upon this
+subject, who state or imply that we are distinctly conscious of
+such a variation of the amount of our belief, and that this
+state of our minds can be measured and determined with
+almost the same accuracy as the external events to which
+they refer. The principal mathematical supporter of this
+view is De Morgan, who has insisted strongly upon it in all
+his works on the subject. The clearest exposition of his
+opinions will be found in his _Formal Logic_, in which work he
+has made the view which we are now discussing the basis of
+his system. He holds that we have a certain amount of belief
+of every proposition which may be set before us, an amount
+which in its nature admits of determination, though we may
+practically find it difficult in any particular case to determine
+it. He considers, in fact, that Probability is a sort of sister
+science to Formal Logic,[1] speaking of it in the following
+words: "I cannot understand why the study of the effect,
+which partial belief of the premises produces with respect to
+the conclusion, should be separated from that of the consequences
+of supposing the former to be absolutely true."[2]
+In other words, there is a science--Formal Logic--which investigates
+the rules according to which one proposition can be
+necessarily inferred from another; in close correspondence
+with this there is a science which investigates the rules according
+to which the amount of our belief of one proposition
+varies with the amount of our belief of other propositions
+with which it is connected.
+
+The same view is also supported by another high authority,
+the late Prof. Donkin, who says (_Phil. Mag._ May, 1851), "It
+will, I suppose, be generally admitted, and has often been
+more or less explicitly stated, that the subject-matter of
+calculation in the mathematical theory of Probabilities is
+_quantity of belief_."
+
+5. Before proceeding to criticise this opinion, one remark
+may be made upon it which has been too frequently
+overlooked. It should be borne in mind that, even were this
+view of the subject not actually incorrect, it might be objected
+to as insufficient for the purpose of a definition, on the ground
+that variation of belief is not confined to Probability. It is
+a property with which that science is concerned, no doubt,
+but it is a property which meets us in other directions as
+well. In every case in which we extend our inferences by
+Induction or Analogy, or depend upon the witness of others,
+or trust to our own memory of the past, or come to a conclusion
+through conflicting arguments, or even make a long and
+complicated deduction by mathematics or logic, we have a
+result of which we can scarcely feel as certain as of the premises
+from which it was obtained. In all these cases then
+we are conscious of varying quantities of belief, but are the
+laws according to which the belief is produced and varied the
+same? If they cannot be reduced to one harmonious scheme,
+if in fact they can at best be brought to nothing but a number
+of different schemes, each with its own body of laws and rules,
+then it is vain to endeavour to force them into one science.
+
+This opinion is strengthened by observing that most of
+the writers who adopt the definition in question do practically
+dismiss from consideration most of the above-mentioned
+examples of diminution of belief, and confine their attention
+to classes of events which have the property discussed in
+Chap I., viz. 'ignorance of the few, knowledge of the many.'
+It is quite true that considerable violence has to be done to
+some of these examples, by introducing exceedingly arbitrary
+suppositions into them, before they can be forced to assume
+a suitable form. But still there is little doubt that, if we
+carefully examine the language employed, we shall find that
+in almost every case assumptions are made which virtually
+imply that our knowledge of the individual is derived from
+propositions given in the typical form described in Chap I.
+This will be more fully proved when we come to consider
+some common misapplications of the science.
+
+6. Even then, if the above-mentioned view of the
+subject were correct, it would yet, I consider, be insufficient
+for the purpose of a definition; but it is at least very doubtful
+whether it is correct. Before we could properly assign to
+the belief side of the question the prominence given to it by
+De Morgan and others, certainly before the science could be
+defined from that side, it would be necessary, it appears, to
+establish the two following positions, against both of which
+strong objections can be brought.
+
+(1) That our belief of every proposition is a thing which
+we can, strictly speaking, be said to measure; that
+there must be a certain amount of it in every case,
+which we can realize somehow in consciousness and
+refer to some standard so as to pronounce upon its
+value.
+
+(2) That the value thus apprehended is the correct one
+according to the theory, viz. that it is the exact
+fraction of full conviction that it should be. This
+statement will perhaps seem somewhat obscure at
+first; it will be explained presently.
+
+7. (I.) Now, in the first place, as regards the difficulty
+of obtaining any measure of the amount of our belief. One
+source of this difficulty is too obvious to have escaped notice;
+this is the disturbing influence produced on the quantity of
+belief by any strong emotion or passion. A deep interest in
+the matter at stake, whether it excite hope or fear, plays great
+havoc with the belief-meter, so that we must assume the
+mind to be quite unimpassioned in weighing the evidence.
+This is noticed and acknowledged by Laplace and others;
+but these writers seem to me to assume it to be the only
+source of error, and also to be of comparative unimportance.
+Even if it were the only source of error I cannot see that it
+would be unimportant. We experience hope or fear in so
+very many instances, that to omit such influences from consideration
+would be almost equivalent to saying that whilst
+we profess to consider the whole quantity of our belief we
+will in reality consider only a portion of it. Very strong
+feelings are, of course, exceptional, but we should nevertheless
+find that the emotional element, in some form or other,
+makes itself felt on almost every occasion. It is very seldom
+that we cannot speak of our surprise or expectation in reference
+to any particular event. Both of these expressions, but
+especially the former, seem to point to something more than
+mere belief. It is true that the word 'expectation' is generally
+defined in treatises on Probability as equivalent to
+belief; but it seems doubtful whether any one who attends
+to the popular use of the terms would admit that they were
+exactly synonymous. Be this however as it may, the emotional
+element is present upon almost every occasion, and its
+disturbing influence therefore is constantly at work.
+
+8. Another cause, which co-operates with the former,
+is to be found in the extreme complexity and variety of the
+evidence on which our belief of any proposition depends.
+Hence it results that our actual belief at any given moment
+is one of the most fugitive and variable things possible, so
+that we can scarcely ever get sufficiently clear hold of it to
+measure it. This is not confined to the times when our
+minds are in a turmoil of excitement through hope or fear.
+In our calmest moments we shall find it no easy thing to
+give a precise answer to the question, How firmly do I hold
+this or that belief? There may be one or two prominent
+arguments in its favour, and one or two corresponding objections
+against it, but this is far from comprising all the
+causes by which our state of belief is produced. Because
+such reasons as these are all that can be practically introduced
+into oral or written controversies, we must not conclude
+that it is by these only that our conviction is influenced.
+On the contrary, our conviction generally rests upon a sort
+of chaotic basis composed of an infinite number of inferences
+and analogies of every description, and these moreover distorted
+by our state of feeling at the time, dimmed by the
+degree of our recollection of them afterwards, and probably
+received from time to time with varying force according to
+the way in which they happen to combine in our consciousness
+at the moment. To borrow a striking illustration from
+Abraham Tucker, the substructure of our convictions is not
+so much to be compared to the solid foundations of an ordinary
+building, as to the piles of the houses of Rotterdam
+which rest somehow in a deep bed of soft mud. They bear
+their weight securely enough, but it would not be easy to
+point out accurately the dependence of the different parts
+upon one another. Directly we begin to think of the amount
+of our belief, we have to think of the arguments by which it
+is produced--in fact, these arguments will intrude themselves
+without our choice. As each in turn flashes through the
+mind, it modifies the strength of our conviction; we are like
+a person listening to the confused hubbub of a crowd, where
+there is always something arbitrary in the particular sound
+we choose to listen to. There may be reasons enough to
+suffice abundantly for our ultimate choice, but on examination
+we shall find that they are by no means apprehended
+with the same force at different times. The belief produced
+by some strong argument may be very decisive at the moment,
+but it will often begin to diminish when the argument
+is not actually before the mind. It is like being dazzled by
+a strong light; the impression still remains, but begins almost
+immediately to fade away. I think that this is the
+case, however we try to limit the sources of our conviction.
+
+9. (II.) But supposing that it were possible to strike
+a sort of average of this fluctuating state, should we find this
+average to be of the amount assigned by theory? In other
+words, is our natural belief in the happening of two different
+events in direct proportion to the frequency with which those
+events happen in the long run? There is a lottery with 100
+tickets and ten prizes; is a man's belief that he will get a
+prize fairly represented by one-tenth of certainty? The mere
+reference to a lottery should be sufficient to disprove this.
+Lotteries have flourished at all times, and have never failed
+to be abundantly supported, in spite of the most perfect conviction,
+on the part of many, if not of most, of those who put
+into them, that in the long run all will lose. Deductions
+should undoubtedly be made for those who act from superstitious
+motives, from belief in omens, dreams, and so on.
+But apart from these, and supposing any one to come fortified
+by all that mathematics can do for him, it is difficult to
+believe that his natural impressions about single events would
+be always what they should be according to theory. Are
+there many who can honestly declare that they would have
+no desire to buy a single ticket? They would probably say
+to themselves that the sum they paid away was nothing
+worth mentioning to lose, and that there was a chance of
+gaining a great deal; in other words, they are not apportioning
+their belief in the way that theory assigns.
+
+What bears out this view is, that the same persons who
+would act in this way in single instances would often not
+think of doing so in any but single instances. In other
+words, the natural tendency here is to attribute too great an
+amount of belief where it is or should be small; i.e. to depreciate
+the risk in proportion to the contingent advantage.
+They would very likely, when argued with, attach disparaging
+epithets to this state of feeling, by calling it an unaccountable
+fascination, or something of that kind, but of
+its existence there can be little doubt. We are speaking
+now of what is the natural tendency of our minds, not of
+that into which they may at length be disciplined by education
+and thought. If, however, educated persons have succeeded
+for the most part in controlling this tendency in
+games of chance, the spirit of reckless speculation has
+scarcely yet been banished from commerce. On examination,
+this tendency will be found so prevalent in all ages, ranks,
+and dispositions, that it would be inadmissible to neglect it in
+order to bring our supposed instincts more closely into accordance
+with the commonly received theories of Probability.
+
+10. There is another aspect of this question which has
+been often overlooked, but which seems to deserve some
+attention. Granted that we have an instinct of credence,
+why should it be assumed that this must be just of that intensity
+which subsequent experience will justify? Our
+instincts are implanted in us for good purposes, and are intended
+to act immediately and unconsciously. They are,
+however, subject to control, and have to be brought into
+accordance with what we believe to be true and right. In
+other departments of psychology we do not assume that
+every spontaneous prompting of nature is to be left just as
+we find it, or even that on the average, omitting individual
+variations, it is set at that pitch that will be found in the
+end to be the best when we come to think about it and assign
+its rules. Take, for example, the case of resentment. Here
+we have an instinctive tendency, and one that on the whole
+is good in its results. But moralists are agreed that almost
+all our efforts at self-control are to be directed towards subduing
+it and keeping it in its right direction. It is assumed
+to be given as a sort of rough protection, and to be set, if
+one might so express oneself, at too high a pitch to be
+deliberately and consciously acted on in society. May not
+something of this kind be the case also with our belief?
+I only make a passing reference to this point here, as on
+the theory of Probability adopted in this work it does not
+appear to be at all material to the science. But it seems
+a strong argument against the expediency of commencing
+the study of the science from the subjective side, or even of
+assigning any great degree of prominence to this side.
+
+That men _do_ not believe in exact accordance with this
+theory must have struck almost every one, but this has
+probably been considered as mere exception and irregularity;
+the assumption being made that on the average, and in far
+the majority of cases, they do so believe. As stated above,
+it is very doubtful whether the tendency which has just
+been discussed is not so widely prevalent that it might with
+far more propriety be called the rule than the exception.
+And it may be better that this should be so: many good
+results may follow from that cheerful disposition which induces
+a man sometimes to go on trying after some great
+good, the chance of which he overvalues. He will keep on
+through trouble and disappointment, without serious harm
+perhaps, when the cool and calculating bystander sees plainly
+that his 'measure of belief' is much higher than it should
+be. So, too, the tendency also so common, of underrating
+the chance of a great evil may also work for good. By many
+men death might be looked upon as an almost infinite evil,
+at least they would so regard it themselves; suppose they
+kept this contingency constantly before them at its right
+value, how would it be possible to get through the practical
+work of life? Men would be stopping indoors because if
+they went out they might be murdered or bitten by a mad
+dog. To say this is not to advocate a return to our instincts;
+indeed when we have once reached the critical and conscious
+state, it is hardly possible to do so; but it should be noticed
+that the advantage gained by correcting them is at best but
+a balanced one.[3] What is most to our present purpose, it
+suggests the inexpediency of attempting to found an exact
+theory on what may afterwards prove to be a mere instinct,
+unauthorized in its full extent by experience.
+
+11. It may be replied, that though people, as a matter
+of fact, do not apportion belief in this exact way, yet they
+_ought_ to do so. The purport of this remark will be examined
+presently; it need only be said here that it grants all that
+is now contended for. For it admits that the degree of our
+belief is capable of modification, and may need it. But in
+accordance with what is the belief to be modified? obviously
+in accordance with experience; it cannot be trusted to by
+itself, but the fraction at which it is to be rated must be
+determined by the comparative frequency of the events to
+which it refers. Experience then furnishing the standard, it
+is surely most reasonable to start from this experience, and to
+found the theory of our processes upon it.
+
+If we do not do this, it should be observed that we are
+detaching Probability altogether from the study of things
+external to us, and making it nothing else in effect than a
+portion of Psychology. If we refuse to be controlled by
+experience, but confine our attention to the laws according
+to which belief is naturally or instinctively compounded and
+distributed in our minds, we have no right then to appeal to
+experience afterwards even for illustrations, unless under the
+express understanding that we do not guarantee its accuracy.
+Our belief in some single events, for example, might be correct,
+and yet that in a compound of several (if derived merely
+from our instinctive laws of belief) very possibly might not
+be correct, but might lead us into practical mistakes if we
+determined to act upon it. Even if the two were in accordance,
+this accordance would have to be proved, which would
+lead us round, by what I cannot but think a circuitous
+process, to the point which has been already chosen for
+commencing with.
+
+12. De Morgan seems to imply that the doctrine
+criticised above finds a justification from the analogy of
+Formal Logic. If the laws of necessary inference can be
+studied apart from all reference to external facts (except
+by way of illustration), why not those of probable inference?
+There does not, however, seem to be much force in any such
+analogy. Formal Logic, at any rate under its modern or
+Kantian mode of treatment, is based upon the assumption
+that there are laws of thought as distinguished from laws of
+things, and that these laws of thought can be ascertained and
+studied without taking into account their reference to any
+particular object. Now so long as we are confined to necessary
+or irreversible laws, as is of course the case in ordinary
+Formal Logic, this assumption leads to no special difficulties.
+We mean by this, that no conflict arises between these subjective
+and objective necessities. The two exist in perfect
+harmony side by side, the one being the accurate counterpart
+of the other. So precise is the correspondence between
+them, that few persons would notice, until study of metaphysics
+had called their attention to such points, that there
+were these two sides to the question. They would make
+their appeal to either with equal confidence, saying indifferently,
+'the thing must be so,' or, 'we cannot conceive its being
+otherwise.' In fact it is only since the time of Kant that
+this mental analysis has been to any extent appreciated and
+accepted. And even now the dominant experience school of
+philosophy would not admit that there are here two really
+distinct sides to the phenomenon; they maintain either that
+the subjective necessity is nothing more than the consequence
+by inveterate association of the objective uniformity,
+or else that this so-called necessity (say in the Law of Contradiction)
+is after all merely verbal, merely a different way of
+saying the same thing over again in other words. Whatever
+the explanation adopted, the general result is that fallacies,
+as real acts of thought, are impossible within the domain of
+pure logic; error within that province is only possibly by a
+momentary lapse of attention, that is of consciousness.
+
+13. But though this perfect harmony between subjective
+and objective uniformities or laws may exist within
+the domain of pure logic, it is far from existing within that
+of probability. The moment we make the _quantity_ of our
+belief an integral part of the subject to be studied, any such
+invariable correspondence ceases to exist. In the former
+case, we could not consciously think erroneously even though
+we might try to do so; in the latter, we not only can believe
+erroneously but constantly do so. Far from the quantity of
+our belief being so exactly adjusted in conformity with the
+facts to which it refers that we cannot even in imagination
+go astray, we find that it frequently exists in excess or defect
+of that which subsequent judgment will approve. Our instincts
+of credence are unquestionably in frequent hostility
+with experience; and what do we do then? We simply
+modify the instincts into accordance with the things. We
+are constantly performing this practice, and no cultivated
+mind would find it possible to do anything else. No man
+would think of divorcing his belief from the things on which
+it was exercised, or would suppose that the former had anything
+else to do than to follow the lead of the latter. Hence
+it results that that separation of the subjective necessity from
+the objective, and that determination to treat the former
+as a science apart by itself, for which a plausible defence
+could be made in the case of pure logic, is entirely inadmissible
+in the case of probability. However we might
+contrive to '_think_' aright without appeal to facts, we cannot
+_believe_ aright without incessantly checking our proceedings
+by such appeals. Whatever then may be the
+claims of Formal Logic to rank as a separate science, it
+does not appear that it can furnish any support to the
+theory of Probability at present under examination.
+
+14. The point in question is sometimes urged as
+follows. Suppose a man with two, and only two, alternatives
+before him, one of which he knows must involve
+success and the other failure. He knows nothing more
+about them than this, and he is forced to act. Would he
+not regard them with absolutely similar and equal feelings
+of confidence, without the necessity of referring them to any
+real or imaginary series? If so, is not this equivalent to
+saying that his belief of either, since one of them must
+come to pass, is equal to that of the other, and therefore that
+his belief of each is one-half of full confidence? Similarly
+if there are more than two alternatives: let it be supposed
+that there are any number of them, amongst which no
+distinctions whatever can be discerned except in such particulars
+as we know for certain will not affect the result;
+should we not feel equally confident in respect of each of
+them? and so here again should we riot have a fractional
+estimate of our absolute amount of belief? It is thus
+attempted to lay the basis of a pure science of Probability,
+determining the distribution and combination of our belief
+hypothetically; viz. _if_ the contingencies are exactly alike,
+then our belief is so apportioned, the question whether the
+contingencies are equal being of course decided as the objective
+data of Logic or Mathematics are decided.
+
+To discuss this question fully would require a statement
+at some length of the reasons in favour of the objective or
+material view of Logic, as opposed to the Formal or Conceptualist.
+I shall have to speak on this subject in another
+chapter, and will not therefore enter upon it here. But one
+conclusive objection which is applicable more peculiarly to
+Probability may be offered at once. To pursue the line of
+enquiry just indicated, is, as already remarked, to desert
+the strictly logical ground, and to take up that appropriate
+to psychology; the proper question, in all these cases, being
+not what _do_ men believe, but what ought they to believe?
+Admitting, as was done above, that in the case of Formal
+Logic these two enquiries, or rather those corresponding to
+them, practically run into one, owing to the fact that men
+cannot consciously 'think' wrongly; it cannot be too strongly
+insisted on that in Probability the two are perfectly separable
+and distinct. It is of no use saying what men do or
+will believe, we want to know what they will be right in
+believing; and this can never be settled without an appeal
+to the phenomena themselves.
+
+15. But apart from the above considerations, this way
+of putting the case does not seem to me at all conclusive.
+Take the following example. A man[4] finds himself on the
+sands of the Wash or Morecambe Bay, in a dense mist, when
+the spring-tide is coming in; and knows therefore that to
+be once caught by the tide would be fatal. He hears a
+church-bell at a distance, but has no means of knowing
+whether it is on the same side of the water with himself or
+on the opposite side. He cannot tell therefore whether by
+following its sound he will be led out into the mid-stream
+and be lost, or led back to dry land and safety. Here there
+can be no repetition of the event, and the cases are indistinguishably
+alike, to him, in the only circumstances which
+can affect the issue: is not then his prospect of death, it
+will be said, necessarily equal to one-half? A proper analysis
+of his state of mind would be a psychological rather than
+a logical enquiry, and in any case, as above remarked, the
+decision of this question does not touch our logical position.
+But according to the best introspection I can give I should
+say that what really passes through the mind in such a case
+is something of this kind: In most doubtful positions and
+circumstances we are accustomed to decide our conduct by
+a consideration of the relative advantages and disadvantages
+of each side, that is by the observed or inferred frequency
+with which one or the other alternative has succeeded. In
+proportion as these become more nearly balanced, we are
+more frequently mistaken in the individual cases; that is, it
+becomes more and more nearly what would be called 'a
+mere toss up' whether we are right or wrong. The case
+in question seems merely the limiting case, in which it has
+been contrived that there shall be no appreciable difference
+between the alternatives, by which to decide in favour of
+one or other, and we accordingly feel no confidence in the
+particular result. Having to decide, however, we decide according
+to the precedent of similar cases which have occurred
+before. To stand still and wait for better information is
+certain death, and we therefore appeal to and employ the
+only rule we know of; or rather we feel, or endeavour to
+feel, as we have felt before when acting in the presence of
+alternatives as nearly balanced as possible. But I can
+neither perceive in my own case, nor feel convinced in that
+of others, that this appeal, in a case which cannot be repeated,[5]
+to a rule acted on and justified in cases which can be
+and are repeated, at all forces us to admit that our state of
+mind is the same in each case.
+
+16. This example serves to bring out very clearly a point
+which has been already mentioned, and which will have to be
+insisted upon again, viz. that all which Probability discusses
+is the statistical frequency of events, or, if we prefer so to
+put it, the quantity of belief with which any one of these
+events should be individually regarded, but leaves all the
+subsequent conduct dependent upon that frequency, or that
+belief, to the choice of the agents. Suppose there are two
+travellers in the predicament in question: shall they keep
+together, or separate in opposite directions? In either case
+alike the chance of safety to each is the same, viz. one-half,
+but clearly their circumstances must decide which course it
+is preferable to adopt. If they are husband and wife, they will
+probably prefer to remain together; if they are sole depositaries
+of an important state secret, they may decide to part.
+In other words, we have to select here between the two alternatives
+of the certainty of a single loss, and the even chance
+of a double loss; alternatives which the common mathematical
+statement of their chances has a decided tendency
+to make us regard as indistinguishable from one another.
+But clearly the decision must be grounded on the desires,
+feelings, and conscience of the agents. Probability cannot
+say a word upon this question. As I have pointed out elsewhere,
+there has been much confusion on this matter in
+applications of the science to betting, and in the discussion
+of the Petersburg problem.
+
+We have thus examined the doctrine in question with
+a minuteness which may seem tedious, but in consequence of
+the eminence of its supporters it would have been presumptuous
+to have rejected it without the strongest grounds. The
+objections which have been urged might be summarised as
+follows:--the amount of our belief of any given proposition,
+supposing it to be in its nature capable of accurate determination
+(which does not seem to be the case), depends upon a
+great variety of causes, of which statistical frequency--the
+subject of Probability--is but one. That even if we confine
+our attention to this one cause, the natural amount of our
+belief is not necessarily what theory would assign, but has to
+be checked by appeal to experience. The subjective side of
+Probability therefore, though very interesting and well deserving
+of examination, seems a mere appendage of the objective,
+and affords in itself no safe ground for a science of
+inference.
+
+17. The conception then of the science of Probability
+as a science of the laws of belief seems to break down at
+every point. We must not however rest content with such
+merely negative criticism. The degree of belief we entertain
+of a proposition may be hard to get at accurately, and
+when obtained may be often wrong, and may need therefore
+to be checked by an appeal to the objects of belief. Still in
+popular estimation we do seem to be able with more or less
+accuracy to form a graduated scale of intensity of belief.
+What we have to examine now is whether this be possible,
+and, if so, what is the explanation of the fact?
+
+That it is generally believed that we can form such a
+scale scarcely admits of doubt. There is a whole vocabulary
+of common expressions such as, 'I feel almost sure,' 'I do not
+feel quite certain,' 'I am less confident of this than of that,'
+and so on. When we make use of any one of these phrases
+we seldom doubt that we have a distinct meaning to convey
+by means of it. Nor do we feel much at a loss, under any
+given circumstances, as to which of these expressions we
+should employ in preference to the others. If we were asked
+to arrange in order, according to the intensity of the belief
+with which we respectively hold them, things broadly marked
+off from one another, we could do it from our consciousness
+of belief alone, without a fresh appeal to the evidence upon
+which the belief depended. Passing over the looser propositions
+which are used in common conversation, let us take but
+one simple example from amongst those which furnish numerical
+data. Do I not feel more certain that some one will die
+this week in the whole town, than in the particular street in
+which I live? and if the town is known to contain a population
+one hundred times greater than that in the street, would
+not almost any one be prepared to assert on reflection that
+he felt a hundred times more sure of the first proposition
+than of the second? Or to take a non-numerical example, are
+we not often able to say unhesitatingly which of two propositions
+we believe the most, and to some rough degree how
+much more we believe one than the other, at a time when all
+the evidence upon which each rests has faded from the
+mind, so that each has to be judged, as we may say, solely on
+its own merits?
+
+Here then a problem proposes itself. If popular opinion,
+as illustrated in common language, be correct,--and very
+considerable weight must of course be attributed to it,--there
+does exist something which we call partial belief in reference
+to any proposition of the numerical kind described
+above. Now what we want to do is to find some test or
+justification of this belief, to obtain in fact some intelligible
+answer to the question, Is it correct? We shall find incidentally
+that the answer to this question will throw a good deal
+of light upon another question nearly as important and far
+more intricate, viz. What is the meaning of this partial belief?
+
+18. We shall find it advisable to commence by ascertaining
+how such enquiries as the above would be answered
+in the case of ordinary full belief. Such a step would not
+offer the slightest difficulty. Suppose, to take a simple
+example, that we have obtained the following proposition,--whether
+by induction, or by the rules of ordinary deductive
+logic, does not matter for our present purpose,--that a certain
+mixture of oxygen and hydrogen is explosive. Here we have
+an inference, and consequent belief of a proposition. Now
+suppose there were any enquiry as to whether our belief
+were correct, what should we do? The simplest way of
+settling the matter would be to find out by a distinct appeal
+to experience whether the proposition was true. Since we
+are reasoning about things, the justification of the belief, that
+is, the test of its correctness, would be most readily found in
+the truth of the proposition. If by any process of inference
+I have come to believe that a certain mixture will explode, I
+consider my belief to be justified, that is to be correct, if
+under proper circumstances the explosion always does occur;
+if it does not occur the belief was wrong.
+
+Such an answer, no doubt, goes but a little way, or rather
+no way at all, towards explaining what is the nature of belief
+in itself; but it is sufficient for our present purpose, which is
+merely that of determining what is meant by the correctness
+of our belief, and by the test of its correctness. In all inferences
+about things, in which the _amount_ of our belief is not
+taken into account, such an explanation as the above is quite
+sufficient; it would be the ordinary one in any question of
+science. It is moreover perfectly intelligible, whether the
+conclusion is particular or universal. Whether we believe
+that 'some men die', or that 'all men die', our belief may with
+equal ease be tested by the appropriate train of experience.
+
+19. But when we attempt to apply the same test to
+_partial_ belief, we shall find ourselves reduced to an awkward
+perplexity. A difficulty now emerges which has been singularly
+overlooked by those who have treated of the subject.
+As a simple example will serve our purpose, we will take the
+case of a penny. I am about to toss one up, and I therefore
+half believe, to adopt the current language, that it will give
+head. Now it seems to be overlooked that if we appeal to
+the event, as we did in the case last examined, our belief
+must inevitably be wrong, and therefore the test above mentioned
+will fail. For the thing must either happen or not
+happen: i.e. in this case the penny must either give head, or
+not give it; there is no third alternative. But whichever
+way it occurs, our half-belief, so far as such a state of mind
+admits of interpretation, must be wrong. If head does come,
+I am wrong in not having expected it enough; for I only half
+believed in its occurrence. If it does not happen, I am
+equally wrong in having expected it too much; for I half
+believed in its occurrence, when in fact it did not occur at all.
+
+The same difficulty will occur in every case in which we
+attempt to justify our state of partial belief in a single contingent
+event. Let us take another example, slightly differing
+from the last. A man is to receive £1 if a die gives six,
+to pay 1_s_. if it gives any other number. It will generally be
+admitted that he ought to give 2_s_. 6_d_. for the chance, and
+that if he does so he will be paying a fair sum. This example
+only differs from the last in the fact that instead of
+simple belief in a proposition, we have taken what mathematicians
+call 'the _value_ of the expectation'. In other words,
+we have brought into a greater prominence, not merely the belief,
+but the conduct which is founded upon the belief. But
+precisely the same difficulty recurs here. For appealing to the
+event,--the single event, that is,--we see that one or other
+party must lose his money without compensation. In what
+sense then can such an expectation be said to be a fair one?
+
+20. A possible answer to this, and so far as appears the
+only possible answer, will be, that what we really mean by
+saying that we half believe in the occurrence of head is to
+express our conviction that head will certainly happen on
+the average every other time. And similarly, in the second
+example, by calling the sum a fair one it is meant that in
+the long run neither party will gain or lose. As we shall
+recur presently to the point raised in this form of answer, the
+only notice that need be taken of it at this point is to call
+attention to the fact that it entirely abandons the whole
+question in dispute, for it admits that this partial belief does
+not in any strict sense apply to the individual event, since it
+clearly cannot be justified there. At such a result indeed we
+cannot be surprised; at least we cannot on the theory adopted
+throughout this Essay. For bearing in mind that the employment
+of Probability postulates ignorance of the single
+event, it is not easy to see how we are to justify any other
+opinion or statement about the single event than a confession
+of such ignorance.
+
+21. So far then we do not seem to have made the
+slightest approximation to a solution of the particular
+question now under examination. The more closely we have
+analysed special examples, the more unmistakeably are we
+brought to the conclusion that in the individual instance no
+justification of anything like quantitative belief is to be
+found; at least none is to be found in the same sense in
+which we expect it in ordinary scientific conclusions, whether
+Inductive or Deductive. And yet we have to face and
+account for the fact that common impressions, as attested by
+a whole vocabulary of common phrases, are in favour of the
+existence of this quantitative belief. How are we to account
+for this? If we appeal to an example again, and analyse it
+somewhat more closely, we may yet find our way to some
+satisfactory explanation.
+
+In our previous analysis (§18) we found it sufficient to stop
+at an early stage, and to give as the justification of our belief
+the fact of the proposition being true. Stopping however at
+that stage, we have found this explanation fail altogether to
+give a justification of partial belief; fail, that is, when applied
+to the individual instance. The two states of belief and disbelief
+correspond admirably to the two results of the event
+happening and not happening respectively, and unless for
+psychological purposes we saw no reason to analyse further;
+but to partial belief there is nothing corresponding in the result,
+for the event cannot partially happen in such cases as we
+are concerned with. Suppose then we advance a step further
+in the analysis, and ask again what is meant by the proposition
+being true? This introduces us, of course, to a very long
+and intricate path; but in the short distance along it which
+we shall advance, we shall not, it is to be hoped, find any
+very serious difficulty. As before, we will illustrate the
+analysis by first applying it to the case of ordinary full belief.
+
+22. Whatever opinion then may be held about the
+essential nature of belief, it will probably be admitted that a
+readiness to act upon the proposition believed is an inseparable
+accompaniment of that state of mind. There can be no
+alteration in our belief (at any rate in the case of sane persons)
+without a possible alteration in our conduct, nor anything in
+our conduct which is not connected with something in our
+belief. We will first take an example in connection with the
+penny, in which there is full belief; we will analyse it a step
+further than we did before, and then attempt to apply the
+same analysis to an example of a similar kind, but one in
+which the belief is partial instead of full.
+
+Suppose that I am about to throw a penny up, and contemplate
+the prospect of its falling upon one of its sides and
+not upon its edge. We feel perfectly confident that it will
+do so. Now whatever else may be implied in our belief, we
+certainly mean this; that we are ready to stake our conduct
+upon its falling thus. All our betting, and everything else
+that we do, is carried on upon this supposition. Any risk
+whatever that might ensue upon its falling otherwise will be
+incurred without fear. This, it must be observed, is equally
+the case whether we are speaking of a single throw or of a
+long succession of throws.
+
+But now let us take the case of a penny falling, not upon
+one side or the other, but upon a given side, _head_. To a
+certain extent this example resembles the last. We are perfectly
+ready to stake our conduct upon what comes to pass in
+the long run. When we are considering the result of a large
+number of throws, we are ready to act upon the supposition
+that head comes every other time. If e.g. we are betting
+upon it, we shall not object to paying £1 every time that
+head comes, on condition of receiving £1 every time that
+head does not come. This is nothing else than the _translation_,
+as we may call it, into practice, of our belief that head
+and tail occur equally often.
+
+Now it will be obvious, on a moment's consideration, that
+our conduct is capable of being slightly varied: of being
+varied, that is, in form, whilst it remains identical in respect
+of its results. It is clear that to pay £1 every time we lose,
+and to get £1 every time we gain, comes to precisely the same
+thing, in the case under consideration, as to pay ten shillings
+every time without exception, and to receive £1 every time
+that head occurs. It is so, because heads occur, on the
+average, every other time. In the long run the two results
+coincide; but there is a marked difference between the two
+cases, considered individually. The difference is two-fold.
+In the first place we depart from the notion of a payment
+every other time, and come to that of one made every time.
+In the second place, what we pay every time is half of what
+we get in the cases in which we do get anything. The difference
+may seem slight; but mark the effect when our conduct
+is translated back again into the subjective condition
+upon which it depends, viz. into our belief. It is in consequence
+of such a translation, as it appears to me, that the
+notion has been acquired that we have an accurately determinable
+amount of belief as to every such proposition. To
+have losses and gains of equal amount, and to incur them
+equally often, was the experience connected with our belief
+that the two events, head and tail, would occur equally often.
+This was quite intelligible, for it referred to the long run.
+To find that this could be commuted for a payment made
+every time without exception, a payment, observe, of half the
+amount of what we occasionally receive, has very naturally
+been interpreted to mean that there must be a state of half-belief
+which refers to each individual throw.
+
+23. One such example, of course, does not go far towards
+establishing a theory. But the reader will bear in
+mind that almost all our conduct tends towards the same
+result; that it is not in betting only, but in every course of
+action in which we have to count the events, that such a
+numerical apportionment of our conduct is possible. Hence,
+by the ordinary principles of association, it would appear
+exceedingly likely that, not exactly a numerical condition of
+mind, but rather numerical associations, become inseparably
+connected with each particular event which we know to occur
+in a certain proportion of times. Once in six times a die
+gives ace; a knowledge of this fact, taken in combination
+with all the practical results to which it leads, produces, one
+cannot doubt, an inseparable notion of one-sixth connected
+with each _single_ throw. But it surely cannot be called belief
+to the amount of one-sixth; at least it admits neither of
+justification nor explanation in these single cases, to which
+alone the fractional belief, if such existed, ought to apply.
+
+It is in consequence, I apprehend, of such association that
+we act in such an unhesitating manner in reference to any
+single contingent event, even when we have no expectation
+of its being repeated. A die is going to be thrown up once,
+and once only. I bet 5 to 1 against ace, not, as is commonly
+asserted, because I feel one-sixth part of certainty in the
+occurrence of ace; but because I know that such conduct
+would be justified in the long run of such cases, and I apply
+to the solitary individual the same rule that I should apply
+to it if I knew it were one of a long series. This accounts
+for my conduct being the same in the two cases; by association,
+moreover, we probably experience very similar feelings
+in regard to them both.
+
+24. And here, on the view of the subject adopted in
+this Essay, we might stop. We are bound to explain the
+'measure of our belief' in the occurrence of a single event
+when we judge solely from the statistical frequency with
+which such events occur, for such a series of events was our
+starting-point; but we are not bound to inquire whether in
+every case in which persons have, or claim to have, a certain
+measure of belief there must be such a series to which to
+refer it, and by which to justify it. Those who start from
+the subjective side, and regard Probability as the science of
+quantitative belief, are obliged to do this, but we are free
+from the obligation.
+
+Still the question is one which is so naturally raised in
+connection with this subject, that it cannot be altogether
+passed by. I think that to a considerable extent such a
+justification as that mentioned above will be found applicable
+in other cases. The fact is that we are very seldom called
+upon to decide and act upon a single contingency which cannot
+be viewed as being one of a series. Experience introduces
+us, it must be remembered, not merely to a succession
+of events neatly arranged in a single series (as we have
+hitherto assumed them to be for the purpose of illustration),
+but to an infinite number belonging to a vast variety of
+different series. A man is obliged to be acting, and therefore
+exercising his belief about one thing or another, almost
+the whole of every day of his life. Any one person will have
+to decide in his time about a multitude of events, each one
+of which may never recur again within his own experience.
+But by the very fact of there being a multitude, though they
+are all of different kinds, we shall still find that order is
+maintained, and so a course of conduct can be justified. In
+a plantation of trees we should find that there is order of a
+certain kind if we measure them in any one direction, the
+trees being on an average about the same distance from each
+other. But a somewhat similar order would be found if we
+were to examine them in any other direction whatsoever. So
+in nature generally; there is regularity in a succession of
+events of the same kind. But there may also be regularity
+if we form a series by taking successively a number out of
+totally distinct kinds.
+
+It is in this circumstance that we find an extension of the
+practical justification of the measure of our belief. A man,
+say, buys a life annuity, insures his life on a railway journey,
+puts into a lottery, and so on. Now we may make a series
+out of these acts of his, though each is in itself a single event
+which he may never intend to repeat. His conduct, and therefore
+his belief, measured by the result in each individual
+instance, will not be justified, but the reverse, as shown in §19.
+Could he indeed repeat each kind of action often
+enough it would be justified; but from this, by the conditions
+of life, he is debarred. Now it is perfectly conceivable that
+in the new series, formed by his successive acts of different
+kinds, there should be no regularity. As a matter of fact,
+however, it is found that there is regularity. In this way the
+equalization of his gains and losses, for which he cannot hope
+in annuities, insurances, and lotteries taken separately, may
+yet be secured to him out of these events taken collectively.
+If in each case he values his chance at its right proportion
+(and acts accordingly) he will in the course of his life neither
+gain nor lose. And in the same way if, whenever he has the
+alternative of different courses of conduct, he acts in accordance
+with the estimate of his belief described above, i.e.
+chooses the event whose chance is the best, he will in the end
+gain more in this way than by any other course. By the existence,
+therefore, of these _cross-series_, as we may term them,
+there is an immense addition to the number of actions which
+may be fairly considered to belong to those courses of conduct
+which offer many successive opportunities of equalizing
+gains and losses. All these cases then may be regarded as
+admitting of justification in the way now under discussion.
+
+25. In the above remarks it will be observed that we
+have been giving what is to be regarded as a justification of
+his belief from the point of view of the individual agent himself.
+If we suppose the existence of an enlarged fellow-feeling,
+the applicability of such a justification becomes still more
+extensive. We can assign a very intelligible sense to the
+assertion that it is 999 to 1 that I shall not get a prize in a
+lottery, even if this be stated in the form that my belief in
+my so doing is represented by the fraction 1/1000th of certainty.
+Properly it means that in a very large number of throws I
+should gain once in 1000 times. If we include other contingencies
+of the same kind, as described in the last section,
+each individual may be supposed to reach to something like
+this experience within the limits of his own life. He could
+not do it in this particular line of conduct alone, but he could
+do it in this line combined with others. Now introduce the
+possibility of each man feeling that the gain of others offers
+some analogy to his own gains, which we may conceive his
+doing except in the case of the gains of those against whom
+he is directly competing, and the above justification becomes
+still more extensively applicable.
+
+The following would be a fair illustration to test this
+view. I know that I must die on some day of the week, and
+there are but seven days. My belief, therefore, that I shall
+die on a Sunday is one-seventh. Here the contingent event
+is clearly one that does not admit of repetition; and yet
+would not the belief of every man have the value assigned it
+by the formula? It would appear that the same principle
+will be found to be at work here as in the former examples.
+It is quite true that I have only the opportunity of dying
+once myself, but I am a member of a class in which deaths
+occur with frequency, and I form my opinion upon evidence
+drawn from that class. If, for example, I had insured my
+life for £1000, I should feel a certain propriety in demanding
+£7000 in case the office declared that it would only pay in
+the event of my dying on a Sunday. _I_, indeed, for my own
+private part, might not find the arrangement an equitable
+one; but mankind at large, in case they acted on such a
+principle, might fairly commute their aggregate gains in such
+a way, whilst to the Insurance Office it would not make any
+difference at all.
+
+26. The results of the last few sections might be summarised
+as follows:--the different amounts of belief which
+we entertain upon different events, and which are recognized
+by various phrases in common use, have undoubtedly some
+meaning. But the greater part of their meaning, and certainly
+their only justification, are to be sought in the _series_
+of corresponding events to which they belong; in regard to
+which it may be shown that far more events are capable of
+being referred to a series than might be supposed at first
+sight. The test and justification of belief are to be found in
+conduct; in this test applied to the series as a whole, there
+is nothing peculiar, it differs in no way from the similar test
+when we are acting on our belief about any single event.
+But so applied, from the nature of the case it is applied
+successively to each of the individuals of the series; here our
+_conduct_ generally admits of being separately considered in
+reference to each particular event; and this has been understood
+to denote a certain amount of belief which should be a
+fraction of certainty. Probably on the principles of association,
+a peculiar condition of mind is produced in reference to
+each single event. And these associations are not unnaturally
+retained even when we contemplate any one of these single
+events isolated from any series to which it belongs. When
+it is found alone we treat it, and feel towards it, as we do
+when it is in company with the rest of the series.
+
+27. We may now see, more clearly than we could
+before, why it is that we are free from any necessity of assuming
+the existence of causation, in the sense of necessary
+invariable sequence, in the case of the events which compose
+our series. Against such a view it might very plausibly be
+urged, that we constantly talk of the probability of a single
+event; but how can this be done, it may reasonably be said,
+if we once admit the possibility of that event occurring fortuitously?
+Take an instance from human life; the average
+duration of the lives of a batch of men aged thirty will be
+about thirty-four years. We say therefore to any individual
+of them, Your expectation of life is thirty-four years. But
+how can this be said if we admit that the train of events
+composing his life is liable to be destitute of all regular
+sequence of cause and effect? To this it may be replied
+that the denial of causation enables us to say neither more
+nor less than its assertion, in reference to the length of the
+individual life, for of this we are ignorant in each case alike.
+By assigning, as above, an expectation in reference to the
+individual, we _mean_ nothing more than to make a statement
+about the average of his class. Whether there be causation
+or not in these individual cases does not affect our knowledge
+of the average, for this by supposition rests on independent
+experience. The legitimate inferences are the same on either
+hypothesis, and of equal value. The only difference is that
+on the hypothesis of non-causation we have forced upon our
+attention the impropriety of talking of the 'proper' expectation
+of the individual, owing to the fact that all knowledge of
+its amount is formally impossible; on the other hypothesis
+the impropriety is overlooked from the fact of such knowledge
+being only practically unattainable. As a matter of
+fact the amount of our knowledge is the same in each case;
+it is a knowledge of the average, and of that only.[6]
+
+28. We may conclude, then, that the limits within
+which we are thus able to justify the amount of our belief
+are far more extensive than might appear at first sight.
+Whether every case in which persons feel an amount of
+belief short of perfect confidence could be forced into the
+province of Probability is a wider question. Even, however,
+if the belief could be supposed capable of justification on its
+principles, its rules could never in such cases be made use of.
+Suppose, for example, that a father were in doubt whether
+to give a certain medicine to his sick child. On the one
+hand, the doctor declared that the child would die unless the
+medicine were given; on the other, through a mistake, the
+father cannot feel quite sure that the medicine he has is the
+right one. It is conceivable that some mathematicians, in
+their conviction that everything has its definite numerical
+probability, would declare that the man's belief had some
+'value' (if they could only find out what it is), say nine-tenths;
+by which they would mean that in nine cases out of
+ten in which he entertained a belief of that particular value
+he proved to be right. So with his belief and doubt on
+the other side of the question. Putting the two together,
+there is but one course which, as a prudent man and a good
+father, he can possibly follow. It may be so, but when (as
+here) the identification of an event in a series depends on
+purely subjective conditions, as in this case upon the degree
+of vividness of his conviction, of which no one else can judge,
+no test is possible, and therefore no proof can be found.
+
+29. So much then for the attempts, so frequently
+made, to found the science on a subjective basis; they can
+lead, as it has here been endeavoured to show, to no satisfactory
+result. Still our belief is so inseparably connected with
+our action, that something of a defence can be made for the
+attempts described above; but when it is attempted, as is
+often the case, to import other sentiments besides pure belief,
+and to find a justification for them also in the results of our
+science, the confusion becomes far worse. The following
+extract from Archbishop Thomson's _Laws of Thought_ (§122,
+Ed. II.) will show what kind of applications of the science are
+contemplated here: "In applying the doctrine of chances to
+that subject in connexion with which it was invented--games
+of chance,--the principles of what has been happily termed
+'moral arithmetic' must not be forgotten. Not only would
+it be difficult for a gamester to find an antagonist on terms,
+as to fortune and needs, precisely equal, but also it is impossible
+that with such an equality the advantage of a
+considerable gain should balance the harm of a serious loss.
+'If two men,' says Buffon, 'were to determine to play for
+their whole property, what would be the effect of this agreement?
+The one would only double his fortune, and the
+other reduce his to naught. What proportion is there between
+the loss and the gain? The same that there is between
+all and nothing. The gain of the one is but a moderate
+sum,--the loss of the other is numerically infinite, and
+morally so great that the labour of his whole life may not
+perhaps suffice to restore his property.'"
+
+As moral advice this is all very true and good. But if it
+be regarded as a contribution to the science of the subject it
+is quite inappropriate, and seems calculated to cause confusion.
+The doctrine of chances pronounces upon certain
+kinds of events in respect of number and magnitude; it has
+absolutely nothing to do with any particular person's feelings
+about these relations. We might as well append a corollary
+to the rules of arithmetic, to point out that although it is
+very true that twice two are four it does not follow that four,
+horses will give twice as much pleasure to the owner as two
+will. If two men play on equal terms their chances are
+equal; in other words, if they were often to play in this
+manner each would lose as frequently as he would gain. That
+is all that Probability can say; what under the circumstances
+may be the determination and opinions of the men in question,
+it is for them and them alone to decide. There are
+many persons who cannot bear mediocrity of any kind, and
+to whom the prospect of doubling their fortune would outweigh
+a greater chance of losing it altogether. They alone
+are the judges.
+
+If we will introduce such a balance of pleasure and pain
+the individual must make the calculation for himself. The
+supposition is that total ruin is very painful, partial loss
+painful in a less proportion than that assigned by the ratio
+of the losses themselves; the inference is therefore drawn
+that on the average more pain is caused by occasional great
+losses than by frequent small ones, though the money value
+of the losses in the long run may be the same in each case.
+But if we suppose a country where the desire of spending
+largely is very strong, and where owing to abundant production
+loss is easily replaced, the calculation might incline the
+other way. Under such circumstances it is quite possible
+that more happiness might result from playing for high than
+for low stakes. The fact is that all emotional considerations
+of this kind are irrelevant; they are, at most, mere applications
+of the theory, and such as each individual is alone
+competent to make for himself. Some more remarks will be
+made upon this subject in the chapter upon Insurance and
+Gambling.
+
+30. It is by the introduction of such considerations as
+these that the Petersburg Problem has been so perplexed.
+Having already given some description of this problem we
+will refer to it very briefly here. It presents us with a
+sequence of sets of throws for each of which sets I am to
+receive something, say a shilling, as the minimum receipt.
+My receipts increase in proportion to the rarity of each
+particular kind of set, and each kind is observed or inferred
+to grow more rare in a certain definite but unlimited order.
+By the wording of the problem, properly interpreted, I am
+supposed never to stop. Clearly therefore, however large a
+fee I pay for each of these sets, I shall be sure to make it up
+in time. The mathematical expression of this is, that I
+ought always to pay an infinite sum. To this the objection
+is opposed, that no sensible man would think of advancing
+even a large finite sum, say £50. Certainly he would not;
+but why? Because neither he nor those who are to pay
+him would be likely to live long enough for him to obtain
+throws good enough to remunerate him for one-tenth of his
+outlay; to say nothing of his trouble and loss of time. We
+must not suppose that the problem, as stated in the ideal
+form, will coincide with the practical form in which it
+presents itself in life. A carpenter might as well object to
+Euclid's second postulate, because his plane came to a stop
+in six feet on the plank on which he was at work. Many
+persons have failed to perceive this, and have assumed that,
+besides enabling us to draw numerical inferences about the
+members of a series, the theory ought also to be called upon
+to justify all the opinions which average respectable men
+might be inclined to form about them, as well as the conduct
+they might choose to pursue in consequence. It is obvious
+that to enter upon such considerations as these is to diverge
+from our proper ground. We are concerned, in these cases,
+with the actions of men only, as given in statistics; with the
+emotions they experience in the performance of these actions
+we have no direct concern whatever. The error is the same
+as if any one were to confound, in political economy, value in
+use with value in exchange, and object to measuring the
+value of a loaf by its cost of production, because bread is
+worth more to a man when he is hungry than it is just after
+his dinner.
+
+31. One class of emotions indeed ought to be excepted,
+which, from the apparent uniformity and consistency
+with which they show themselves in different persons
+and at different times, do really present some better claim to
+consideration. In connection with a science of inference
+they can never indeed be regarded as more than an accident
+of what is essential to the subject, but compared with other
+emotions they seem to be inseparable accidents.
+
+The reader will remember that attention was drawn in
+the earlier part of this chapter to the compound nature of
+the state of mind which we term belief. It is partly intellectual,
+partly also emotional; it professes to rest upon
+experience, but in reality the experience acts through the
+distorting media of hopes and fears and other disturbing
+agencies. So long as we confine our attention to the _state
+of mind_ of the person who believes, it appears to me that
+these two parts of belief are quite inseparable. Indeed, to
+speak of them as two parts may convey a wrong impression;
+for though they spring from different sources, they so entirely
+merge in one result as to produce what might be
+called an indistinguishable compound. Every kind of inference,
+whether in probability or not, is liable to be disturbed
+in this way. A timid man may honestly believe that he will
+be wounded in a coming battle, when others, with the same
+experience but calmer judgments, see that the chance is
+too small to deserve consideration. But such a man's belief,
+if we look only to that, will not differ in its nature from
+sound belief. His conduct also in consequence of his belief
+will by itself afford no ground of discrimination; he will
+make his will as sincerely as a man who is unmistakeably on
+his death-bed. The only resource is to check and correct
+his belief by appealing to past and current experience.[7] This
+was advanced as an objection to the theory on which probability
+is regarded as concerned primarily with laws of belief.
+But on the view taken in this Essay in which we are supposed
+to be concerned with laws of inference about things,
+error and difficulty from this source vanish. Let us bear clearly
+in mind that we are concerned with inferences about things,
+and whatever there may be in belief which does not depend
+on experience will disappear from notice.
+
+32. These emotions then can claim no notice as an
+integral portion of any science of inference, and should in
+strictness be rigidly excluded from it. But if any of them
+are uniform and regular in their production and magnitude,
+they may be fairly admitted as accidental and extraneous
+accompaniments. This is really the case to some extent
+with our surprise. This emotion does show a considerable
+degree of uniformity. The rarer any event is the more am I,
+in common with most other men, surprised at it when it does
+happen. This surprise may range through all degrees, from
+the most languid form of interest up to the condition which
+we term 'being startled'. And since the surprise seems
+to be pretty much the same, under similar circumstances,
+at different times, and in the case of different persons, it is
+free from that extreme irregularity which is found in most
+of the other mental conditions which accompany the contemplation
+of unexpected events. Hence our surprise, though,
+as stated above, having no proper claim to admission into
+the science of Probability, is such a constant and regular
+accompaniment of that which Probability is concerned with,
+that notice must often be taken of it. References will occasionally
+be found to this aspect of the question in the
+following chapters.
+
+It may be remarked in passing, for the sake of further
+illustration of the subject, that this emotional accompaniment
+of surprise, to which we are thus able to assign something
+like a fractional value, differs in two important respects
+from the commonly accepted fraction of belief. In the first
+place, it has what may be termed an independent existence;
+it is intelligible by itself. The belief, as we endeavoured to
+show, needs explanation and finds it in our consequent conduct.
+Not so with the emotion; this stands upon its own
+footing, and may be examined in and by itself. Hence, in
+the second place, it is as applicable, and as capable of any kind
+of justification, in relation to the _single event_, as to a series of
+events. In this respect, as will be remembered, it offers a
+complete contrast to our state of belief about any one contingent
+event. May not these considerations help to account
+for the general acceptance of the doctrine, that we have a
+certain definite and measurable amount of belief about these
+events? I cannot help thinking that what is so obviously
+true of the emotional portion of the belief, has been unconsciously
+transferred to the other or intellectual portion of the
+compound condition, to which it is not applicable, and where
+it cannot find a justification.
+
+33. A further illustration may now be given of the
+subjective view of Probability at present under discussion.
+
+An appeal to common language is always of service, as
+the employment of any distinct word is generally a proof
+that mankind have observed some distinct properties in the
+things, which have caused them to be singled out and have
+that name appropriated to them. There is such a class of
+words assigned by popular usage to the kind of events of
+which Probability takes account. If we examine them we
+shall find, I think, that they direct us unmistakeably to the
+two-fold aspect of the question,--the objective and the subjective,
+the quality in the events and the state of our minds
+in considering them,--that have occupied our attention
+during the former chapters.
+
+The word 'extraordinary', for instance, seems to point to
+the observed fact, that events are arranged in a sort of _ordo_
+or rank. No one of them might be so exactly placed that
+we could have inferred its position, but when we take a great
+many into account together, running our eye, as it were,
+along the line, we begin to see that they really do for the
+most part stand in order. Those which stand away from the
+line have this divergence observed, and are called extraordinary,
+the rest ordinary, or in the line. So too 'irregular'
+and 'abnormal' are doubtless used from the appearance
+of things, when examined in large numbers, being that
+of an arrangement by rule or measure. This only holds
+when there are a good many; we could not speak of the
+single events being so arranged. Again the word 'law', in
+its philosophical sense, has now become quite popularised.
+How the term became introduced is not certain, but
+there can be little doubt that it was somewhat in this
+way:--The effect of a law, in its usual application to
+human conduct, is to produce regularity where it did not
+previously exist; when then a regularity began to be perceived
+in nature, the same word was used, whether the cause
+was supposed to be the same or not. In each case there
+was the same generality of agreement, subject to occasional
+deflection.[8]
+
+On the other hand, observe the words 'wonderful', 'unexpected',
+'incredible'. Their connotation describes states
+of mind simply; they are of course not confined to Probability,
+in the sense of statistical frequency, but imply simply
+that the events they denote are such as from some cause we
+did not expect would happen, and at which therefore, when
+they do happen, we are surprised.
+
+Now when we bear in mind that these two classes of
+words are in their origin perfectly distinct;--the one denoting
+simply events of a certain character; the other,
+though also denoting events, _connoting_ simply states of
+mind;--and yet that they are universally applied to the
+same events, so as to be used as perfectly synonymous, we
+have in this a striking illustration of the two sides under
+which Probability may be viewed, and of the universal recognition
+of a close connection between them. The words are
+popularly used as synonymous, and we must not press their
+meaning too far; but if it were to be observed, as I am
+rather inclined to think it could, that the application of the
+words which denote mental states is wider than that of the
+others, we should have an illustration of what has been
+already observed, viz. that the province of Probability is not
+so extensive as that over which variation of belief might be
+observed. Probability only considers the case in which this
+variation is brought about in a certain definite statistical
+way.
+
+34. It will be found in the end both interesting and
+important to have devoted some attention to this subjective
+side of the question. In the first place, as a mere speculative
+inquiry the quantity of our belief of any proposition
+deserves notice. To study it at all deeply would be to trespass
+into the province of Psychology, but it is so intimately
+connected with our own subject that we cannot avoid all
+reference to it. We therefore discuss the laws under which
+our expectation and surprise at isolated events increases or
+diminishes, so as to account for these states of mind in any
+individual instance, and, if necessary, to correct them when
+they vary from their proper amount.
+
+But there is another more important reason than this.
+It is quite true that when the subjects of our discussion in
+any particular instance lie entirely within the province
+of Probability, they may be treated without any reference
+to our belief. We may or we may not employ this side of
+the question according to our pleasure. If, for example, I
+am asked whether it is more likely that A. B. will die this
+year, than that it will rain to-morrow, I may calculate the
+chance (which really is at bottom the same thing as my
+belief) of each, find them respectively, one-sixth and one-seventh,
+say, and therefore decide that my 'expectation' of
+the former is the greater, viz. that this is the more likely
+event. In this case the process is precisely the same whether
+we suppose our belief to be introduced or not; our mental
+state is, in fact, quite immaterial to the question. But, in
+other cases, it may be different. Suppose that we are comparing
+two things, of which one is wholly alien to Probability,
+in the sense that it is hopeless to attempt to assign
+any degree of numerical frequency to it, the only ground
+they have in common may be the amount of belief to which
+they are respectively entitled. We cannot compare the
+frequency of their occurrence, for one may occur too seldom
+to judge by, perhaps it may be unique. It has been already
+said, that our belief of many events rests upon a very complicated
+and extensive basis. My belief may be the product
+of many conflicting arguments, and many analogies more or
+less remote; these proofs themselves may have mostly faded
+from my mind, but they will leave their effect behind them
+in a weak or strong conviction. At the time, therefore, I
+may still be able to say, with some degree of accuracy,
+though a very slight degree, what amount of belief I entertain
+upon the subject. Now we cannot compare things that
+are heterogeneous: if, therefore, we are to decide between
+this and an event determined naturally and properly by
+Probability, it is impossible to appeal to chances or frequency
+of occurrence. The measure of belief is the only common
+ground, and we must therefore compare this quantity in each
+case. The test afforded will be an exceedingly rough one,
+for the reasons mentioned above, but it will be better than
+none; in some cases it will be found to furnish all we want.
+
+Suppose, for example, that one letter in a million is lost
+in the Post Office, and that in any given instance I wish to
+know which is more likely, that a letter has been so lost, or
+that my servant has stolen it? If the latter alternative
+could, like the former, be stated in a numerical form, the
+comparison would be simple. But it cannot be reduced to
+this form, at least not consciously and directly. Still, if we
+could feel that our belief in the man's dishonesty was greater
+than one-millionth, we should then have homogeneous things
+before us, and therefore comparison would be possible.
+
+35. We are now in a position to give a tolerably accurate
+definition of a phrase which we have frequently been
+obliged to employ, or incidentally to suggest, and of which
+the reader may have looked for a definition already, viz. the
+probability of an event, or what is equivalent to this, the
+chance of any given event happening. I consider that these
+terms presuppose a series; within the indefinitely numerous
+class which composes this series a smaller class is distinguished
+by the presence or absence of some attribute or
+attributes, as was fully illustrated and explained in a previous
+chapter. These larger and smaller classes respectively
+are commonly spoken of as instances of the 'event,' and of
+'its happening in a given particular way.' Adopting this
+phraseology, which with proper explanations is suitable
+enough, we may define the probability or chance (the terms
+are here regarded as synonymous) of the event happening
+in that particular way as the numerical fraction which represents
+the proportion between the two different classes in the
+long run. Thus, for example, let the probability be that
+of a given infant living to be eighty years of age. The
+larger series will comprise all infants, the smaller all who live
+to eighty. Let the proportion of the former to the latter be
+9 to 1; in other words, suppose that one infant in ten lives
+to eighty. Then the chance or probability that any given
+infant will live to eighty is the numerical fraction 1/10. This
+assumes that the series are of indefinite extent, and of the
+kind which we have described as possessing a fixed type.
+If this be not the case, but the series be supposed terminable,
+or regularly or irregularly fluctuating, as might be the
+case, for instance, in a society where owing to sanitary or
+other causes the average longevity was steadily undergoing
+a change, then in so far as this is the case the series ceases
+to be a subject of science. What we have to do under these
+circumstances, is to substitute a series of the right kind for
+the inappropriate one presented by nature, choosing it, of
+course, with as little deflection as possible from the observed
+facts. This is nothing more than has to be done, and invariably
+is done, whenever natural objects are made subjects
+of strict science.
+
+36. A word or two of explanation may be added about
+the expression employed above, 'the proportion in the long
+run.' The run must be supposed to be very long indeed, in
+fact never to stop. As we keep on taking more terms of the
+series we shall find the proportion still fluctuating a little,
+but its fluctuations will grow less. The proportion, in fact,
+will gradually approach towards some fixed numerical value,
+what mathematicians term its _limit_. This fractional value
+is the one spoken of above. In the cases in which deductive
+reasoning is possible, this fraction may be obtained without
+direct appeal to statistics, from reasoning about the conditions
+under which the events occur, as was explained in
+the fourth chapter.
+
+Here becomes apparent the full importance of the distinction
+so frequently insisted on, between the actual irregular
+series before us and the substituted one of calculation, and
+the meaning of the assertion (Ch. I. §13), that it was in the
+case of the latter only that strict scientific inferences could
+be made. For how can we have a 'limit' in the case of
+those series which ultimately exhibit irregular fluctuations?
+When we say, for instance, that it is an even chance that
+a given person recovers from the cholera, the meaning of
+this assertion is that in the long run one half of the persons
+attacked by that disease do recover. But if we examined
+a sufficiently extensive range of statistics, we might find
+that the manners and customs of society had produced such
+a change in the type of the disease or its treatment, that we
+were no nearer approaching towards a fixed limit than we
+were at first. The conception of an ultimate limit in the
+ratio between the numbers of the two classes in the series
+necessarily involves an absolute fixity of the type. When
+therefore nature does not present us with this absolute fixity,
+as she seldom or never does except in games of chance (and
+not demonstrably there), our only resource is to introduce
+such a series, in other words, as has so often been said, to
+substitute a series of the right kind.
+
+37. The above, which may be considered tolerably
+complete as a definition, might equally well have been
+given in the last chapter. It has been deferred however
+to the present place, in order to connect with it at once a
+proposition involving the conceptions introduced in this
+chapter; viz. the state of our own minds, in reference to the
+amount of belief we entertain in contemplating any one
+of the events whose probability has just been described.
+Reasons were given against the opinion that our belief admitted
+of any exact apportionment like the numerical one
+just mentioned. Still, it was shown that a reasonable explanation
+could be given of such an expression as, 'my belief is
+1/10th of certainty', though it was an explanation which pointed
+unmistakeably to a series of events, and ceased to be intelligible,
+or at any rate justifiable, when it was not viewed in
+such a relation to a series. In so far, then, as this explanation
+is adopted, we may say that our belief is in proportion
+to the above fraction. This referred to the purely
+intellectual part of belief which cannot be conceived to be
+separable, even in thought, from the things upon which it
+is exercised. With this intellectual part there are commonly
+associated various emotions. These we can to a
+certain extent separate, and, when separated, can measure
+with that degree of accuracy which is possible in the case of
+other emotions. They are moreover intelligible in reference
+to the individual events. They will be found to increase
+and diminish in accordance, to some extent, with the fraction
+which represents the scarcity of the event. The emotion of
+surprise does so with some degree of accuracy.
+
+The above investigation describes, though in a very brief
+form, the amount of truth which appears to me to be contained
+in the assertion frequently made, that the fraction
+expressive of the probability represents also the fractional
+part of full certainty to which our belief of the individual
+event amounts. Any further analysis of the matter would
+seem to belong to Psychology rather than to Probability.
+
+
+1. In the ordinary signification of this term. As De Morgan uses it he
+  makes Formal Logic _include_ Probability, as one of its branches, as
+  indicated in his title "Formal Logic, or the Calculus of Inference,
+  necessary and probable."
+
+2. _Formal Logic_. Preface, page v.
+
+3. An illustration of the points here insisted on has recently [1876]
+  been given in a quarter where few would have expected it; I allude,
+  as many readers will readily infer, to J. S. Mill's exceedingly
+  interesting Essays on Theism. It is not within our province here to
+  criticise any of their conclusions, but they have expressed in a
+  very significant way the conviction entertained by him that beliefs
+  which are not justified by evidence, and possibly may not be capable
+  of justification (those for instance of immortality and the
+  existence of the Deity), may nevertheless not only continue to exist
+  in cultivated minds, but may also be profitably encouraged there, at
+  any rate in the shape of hopes, for certain supposed advantages
+  attendant on their retention, irrespective even of their truth.
+
+4. It is necessary to take an example in which the man is forced to
+  act, or we should not be able to shew that he has any belief on the
+  subject at all. He may declare that he neither knows nor cares
+  anything about the matter, and that therefore there is nothing of
+  the nature of belief to be extracted out of his mental condition. He
+  very likely would take this ground if we asked him, as De Morgan
+  does, with a slightly different reference (_Formal Logic_, p. 183),
+  whether he considers that there are volcanoes on the unseen side of
+  the moon larger than those on the side turned towards us; or, with
+  Jevons (_Principles of Science_, Ed. II. p. 212) whether he
+  considers that a Platythliptic Coefficient is positive. These do not
+  therefore seem good instances to illustrate the position that we
+  always entertain a certain degree of belief on every question which
+  can be stated, and that utter inability to give a reason in favour
+  of either alternative corresponds to half belief.
+
+5. Except indeed on the principles indicated further on in §§24, 25.
+
+6. For a fuller discussion of this, see the Chapter on Causation.
+
+7. The best example I can recall of the distinction between judging
+  from the subjective and the objective side, in such cases as these,
+  occurred once in a railway train. I met a timid old lady who was in
+  much fear of accidents. I endeavoured to soothe her on the usual
+  statistical ground of the extreme rarity of such events. She
+  listened patiently, and then replied, "Yes, Sir, that is all very
+  well; but I don't see how the real danger will be a bit the less
+  because I don't believe in it."
+
+8. This would still hold of _empirical_ laws which may be capable of
+  being broken: we now have very much shifted the word, to denote an
+  _ultimate_ law which it is supposed cannot be broken.
+
+
+
+

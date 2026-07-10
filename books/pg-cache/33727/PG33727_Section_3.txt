@@ -1,0 +1,414 @@
+III
+
+CONTEMPORARY THOUGHT IN ARITHMETIC AND GEOMETRY
+
+To develop the complete history of arithmetic and geometry would be a
+task quite beyond the limits of this paper, and of the writer's
+knowledge. In arithmetic we were able to observe a stage in which
+spontaneous behavior led to the invention of number names and methods of
+counting. Then, by certain speculative and "play" impulses, there arose
+elementary arithmetical problems which began to be of interest in
+themselves. Geometry here also comes into consideration, and, in
+connection with positional number symbols, begin those interactions
+between arithmetic and geometry that result in the forms of our
+contemporary mathematics. The complex quantities represented by number
+symbols are no longer merely the necessary results of analyzing
+commercial relations or practical measurements, and geometry is no
+longer directly based upon the intuitively given line, point, and plane.
+If number relations are to be expressed in terms of empirical spatial
+positions, it is necessary to construct many imaginary surfaces, as is
+done by Riemann in his theory of functions, a construction representing
+the type of imagination which Poincare has called the intuitional in
+contradistinction to the logical (_Value of Science_, Ch. I). And
+geometry has not only been led to the construction of many non-Euclidian
+spaces, but has even, with Peano and his school, been freed from the
+bonds of any necessary spatial interpretation whatsoever.
+
+To trace in concrete detail the attainment of modern refinements of
+number theory would likewise exhibit nothing new in the building up of
+mathematical intelligence. We should find, here, a process carried out
+without thought of the consequences, there, an analogy suggesting an
+operation that might lead us beyond a difficulty that had blocked
+progress; here, a play interest leading to a combination of symbols out
+of which a new idea has sprung; there, a painstaking and methodical
+effort to overcome a difficulty recognized from the start. It is rather
+for us now to ask what it is that has been attained by these means, to
+inquire finally what are those things called "number" and "line" in the
+broad sense in which the terms are now used.
+
+In so far as the cardinal number at least is concerned, the answer
+generally accepted by Dedekind, Peano, Russell, and such writers is
+this: the number is a "class of similar classes" (Whitehead and Russell,
+_Prin. Math._, Vol. II, p. 4). To the interpretation of this answer, Mr.
+Russell, the most self-consciously philosophical of these
+mathematicians, has devoted his full dialectic skill. The definition has
+at least the merit of being free from certain arbitrary psychologizing
+that has vitiated many earlier attempts at the problem. Mr. Russell
+claims for it "(1) that the formal properties which we expect cardinal
+numbers to have result from it; (2) that unless we adopt this definition
+or some more complicated and practically equivalent definition, it is
+necessary to regard the cardinal number of a class as indefinable"
+(_loc. cit._, p. 4). That the definition's terms, however, are not
+without obscurity appears in Mr. Russell's struggles with the zigzag
+theory, the no-class theory, etc., and finally in his taking refuge in
+the theory of "logical types" (_loc. cit._, Vol. III, Part V. E.),
+whereby the contradiction that subverted Frege and drove Mr. Russell
+from the standpoint of the _Principles of Mathematics_ is finally
+overcome.
+
+The second of Mr. Russell's claims for his definition adds nothing to
+the first, for it merely asserts that unless we adopt some definition of
+the cardinal number from which its formal properties result, number is
+undefined. Any such definition would be, _ipso facto_, a practical
+equivalent of the first. We need only consider whether or not the
+formal properties of numbers clearly follow from this definition.
+
+Mr. Russell's own experience makes us hesitate. When he first adopted
+this definition from Frege, he was led to make the inference that the
+class of all possible classes might furnish a type for a greatest
+cardinal number. But this led to nothing but paradox and contradiction.
+The obvious conclusion was that something was wrong with the concept of
+class, and the obvious way out was to deny the possibility of any such
+all-inclusive class. Just why there should be such limitation, except
+that it enables one to escape the contradiction, is not clear from Mr.
+Russell's analysis (cf. Brown, "The Logic of Mr. Russell," _Journ. of
+Phil., Psych., and Sci. Meth._, Vol. VIII, No. 4, pp. 85-89).
+Furthermore, to pass to the theory of types on this ground is to give up
+the value of the first claim for the definition (quoted above), since
+the formal properties of numbers now merely follow from the definition
+because the terms of the definition are reinterpreted from the
+properties of number, so that these properties will follow from it. The
+definition has become circular.
+
+The real difficulty lies in the concept of the class. Dogmatic realism
+is prone to find here an entity for which, as it is obviously not a
+physical thing, a home must be provided in some region of "being." Hence
+arises the realm of subsistence, as for Plato the world of facts
+duplicated itself in a world of ideas. But the subsistent realm of the
+mathematician is even more astounding than the ideal realm of Plato, for
+the latter world is a prototype of the world of things, while the world
+of the mathematician is peopled by all sorts of entities that never were
+on land or sea. The transfinite numbers of Cantor have, without doubt,
+a definite mathematical meaning, but they have no known representatives
+in the world of things, nor in the imagination of man, and in spite of
+the efforts of philosophers it may even be doubted whether an entity
+correlative to the mathematical infinite has ever been or can ever be
+specified.
+
+Mr. Russell now teaches that "classes are merely symbolic" (_Sci. Meth.
+in Phil._, p. 208), but this expression still needs elucidation. It
+does, to be sure, avoid the earlier difficulty of admitting "new and
+mysterious metaphysical entities" (_loc. cit._, p. 204), but the
+"feeling of oddity" that accompanies it seems not without significance.
+What can be meant by a merely symbolic class of similar classes
+themselves merely symbolical? I do not know, unless it is that we are to
+throw overboard the effort aimed at arbitrary and creative definition
+and proceed in simple inductive and interpretative fashion. With classes
+as entities abandoned, we are left, until we have passed to a new point
+of view as to arithmetical entities, in the position of the intelligent
+ignoramus who defined a stock market operation as buying what you can't
+get with money you never had, and selling what you never owned for more
+than it was ever worth.
+
+The situation seems to be that we are now face to face with new
+generalizations. Just as number symbols arose to denote operations gone
+through in counting things when attention is diverted from the
+particular characteristics of the things counted, and remained a symbol
+for those operations with things, so now we are becoming self-conscious
+of the character of the operations we have been performing and are
+developing new symbols to express possible operations with operations.
+The infinity of the number series expresses the fact that it is possible
+to continue the enumerating process indefinitely, and when we are asked
+by certain mathematicians to practise ourselves in such thoughts as that
+for infinite series a proper part can be the equal of the whole, where
+equality is defined through the establishment of one-one correspondence,
+we are really merely informed that among the group of symbols used to
+denote the concrete steps of an ever open counting process are groups of
+symbols that can be used to indicate operations that are of the same
+type as the given one in so far as the characteristic of being an open
+series is concerned. If there were anywhere an infinity of things to
+count, an unintelligible supposition, it would by no means be true that
+any selection of things from that series would be the equivalent of all
+things in the series, except in so far as equivalence meant that they
+could be arranged in the same type of series as that from which they
+were drawn.
+
+Similarly the mathematical conception of the continuum is nothing but a
+formulation of the manner in which the cuts of a line or the numbers of
+a continuous series must be chosen so that there shall remain no
+possible cut or number of which the choice is not indicated.
+Correspondence is reached between elements of such series when the
+corresponding elements can be reached by an identical process. It seems
+to me, however, a mistake to _identify_ the number continuum with the
+linear continuum, for the latter must include the irrational numbers,
+whereas the irrational number can never represent a spatial position in
+a series. For example, the sqrt{2} is by nature a decimal involving an
+infinite, i.e., an ever increasing, number of digits to express it and,
+by virtue of the infinity of these digits, they can never be looked upon
+as all given. It is then truly a number, for it expresses a genuine
+numerical operation, but it is not a position, for it cannot be a
+determinate magnitude but merely a quantity approaching a determinate
+magnitude as closely as one may please. That is, without its complete
+expression, which would be analogous to the self-contradictory task of
+finding a greatest cardinal number, there can be no cut in the line
+which is symbolized by it. But the operations of translating algebraic
+expressions into geometrical ones and vice versa (operations which are
+so important in physical investigations) are facilitated by the notion
+of a one to one correspondence between number and space.
+
+When we pass to the transfinite numbers, we have nothing in the Alephs
+but the symbols of certain groupings of operations expressible in
+ordinary number series. And the many forms of numbers are all simply the
+result of recognizing value in naming definite groups of operations of a
+lower level, which may itself be a complication of processes indicated
+by the simple numerical signs. To create such symbols is by no means
+illegitimate and no paradox results in any forms as long as we remember
+that our numbers are not things but are signs of operations that may be
+performed directly upon things or upon other operations.
+
+For example, let us consider such a symbol as sqrt{-5}. -5 signifies
+the totality of a counting process carried on in an opposite sense from
+that denoted by +5. To take the square root is to symbolize a number,
+the totality of an operation, such that when the operation denoted by
+multiplying it by itself is performed the result is 5. Consequently the
+sqrt{-5} is merely the symbol of these processes combined in such a
+way that the whole operation is to be considered as opposite in some
+sense to that denoted by sqrt{5}. Hence, an easy method for the
+representation of such imaginaries is based on the principle of analytic
+geometry and a system of co-ordinates.
+
+The nature of this last generalization of mathematics is well shown by
+Mr. Whitehead in his monumental _Universal Algebra_. The work begins
+with the definition of a calculus as "The art of manipulating
+substitutive signs according to fixed rules, and the deduction therefrom
+of true propositions" (_loc. cit._, p. 4). The deduction itself is
+really a manipulation according to rules, and the truth consists
+essentially in the results being actually derived from the premises
+according to rule. Following Stout, substitutive signs are characterized
+thus: "a word is an instrument for thinking about the meaning which it
+expresses; a substitutive sign is a means of not thinking about the
+meaning which it symbolizes." Mathematical symbols have, then, become
+substitutive signs. But this is only possible because they were at an
+early stage of their history expressive signs, and the laws which
+connected them were derived from the relations of the things for which
+they stood. First it became possible to forget the things in their
+concreteness, and now they have become mere terms for the relations that
+had been generalized between them. Consequently, the things forgotten
+and the terms treated as mere elements of a relational complex, it is
+possible to state such relational complexes with the utmost freedom. But
+this does not mean that mathematics can be created in a purely arbitrary
+fashion. The mark of its origin is upon it in the need of exhibiting
+some existing situation through which the non-contradictory character of
+its postulates can be verified. The real advantage of the generalization
+is that of all generalizations in science, namely, that by looking away
+from practical applications (as appears in a historical survey) results
+are frequently obtained that would never have been attained if our labor
+had been consciously limited merely to those problems where the
+advantages of a solution were obvious. So the most fantastic forms of
+mathematics, which themselves seem to bear no relation to actual
+phenomena, just because the relations involved in them are the relations
+that have been derived from dealing with an actual world, may contribute
+to the solutions of problems in other forms of calculus, or even to the
+creation of new forms of mathematics. And these new forms may stand in a
+more intimate connection with aspects of the real world than the
+original mathematics.
+
+In 1836-39 there appeared in the _Gelehrte Schriften der Universitaet
+Kasan_, Lobatchewsky's epoch-making "New Elements of Geometry, with a
+Complete Theory of Parallels." After proving that "if a straight line
+falling on two other straight lines make the alternate angles equal to
+one another, the two straight lines shall be parallel to one another,"
+Euclid, finding himself unable to prove that in every other case they
+were not parallel, assumed it in an axiom. But it had never seemed
+obvious. Lobatchewsky's system amounted merely to developing a geometry
+on the basis of the contradictory axiom, that through a point outside a
+line an indefinite number of lines can be drawn, no one of which shall
+cut a given line in that plane. In 1832-33, similar results were
+attained by Johann Bolyai in an appendix to his father's "_Tentamen
+juventutem studiosam in elementa matheseosos purae ... introducendi_"
+entitled "The Science of Absolute Space." In 1824 the dissertation of
+Riemann, under Gauss, introduced the idea of an _n_-ply extended
+magnitude, or a study of _n_-dimensional manifolds and a new road was
+opened for mathematical intelligence.
+
+At first this new knowledge suggested all sorts of metaphysical
+hypotheses. If it is possible to build geometries of _n_-dimensions or
+geometries in which the axiom of parallels is no longer true, why may it
+not be that the space in which we make our measurements and on which we
+base our mechanics is some one of these "non-Euclidian" spaces? And
+indeed many experiments were conducted in search of some clue that this
+might be the case. Such experiments in relation to "curved spaces"
+seemed particularly alluring, but all have turned out to be fruitless in
+results. Failure leads to investigation of the causes of failure. If our
+space had been some one of these spaces how would it have been possible
+for us to know this fact? The traditional definition of a straight line
+has never been satisfactory from a physical point of view. To define it
+as the shortest distance between two points is to introduce the idea of
+distance, and the idea of distance itself has no meaning without the
+idea of straight line, and so the definition moves in a vicious circle.
+On the metaphysical side, Lotze (_Metaphysik_, p. 249) and others (Merz,
+_History of European Thought in the Nineteenth Century_, Vol. II, p.
+716) criticized these attempts, on the whole justly, but the best
+interpretation of the situation has been given by Poincare.
+
+Two lines of thought now lead to a recasting of our conceptions of the
+fundamental notions of geometry. On the one hand, that very
+investigation of postulates that had led to the discovery of the
+apparently strange non-Euclidian geometries was easily continued to an
+investigation of the simplest basis on which a geometry could be
+founded. Then by reaction it was continued with similar methods in
+dealing with algebra, and other forms of analysis, with the result that
+conceptions of mathematical entities have gradually emerged that
+represent a new stage of abstraction in the evolution of mathematics,
+soon to be discussed as the dominating conceptions in contemporary
+thought. On the other hand, there also developed the problem of the
+relations of these geometrical worlds to one another, which has been
+primarily significant in helping to clear up the relations of
+mathematics in its "pure" and "applied" forms.
+
+Geometry passed through a stage of abstraction like that examined in
+connection with arithmetic. Beginning with the discovery of
+non-Euclidian geometry, it has been becoming more and more evident that
+a line need not be a name for an aspect of a physical object such as the
+ridge-pole line of a house and the like, nor even for the more abstract
+mechanical characteristic of direction of movement;--although the
+persistency with which intuitionally minded geometers have sought to
+adapt such illustrations to their needs has somewhat obscured this fact.
+However, even a cursory examination of a modern treatise on geometry
+makes clear what has taken place. For example, Professor Hilbert begins
+his _Grundlagen der Geometrie_, not with definition of points, lines,
+and planes, but with the assumption of three different systems of things
+(Dinge) of which the first, called points, are denoted A, B, C, etc.,
+second, called straight lines (Gerade), are denoted a, b, c, etc., and
+the third, called planes, are denoted by [Greek: alpha], [Greek: beta],
+[Greek: gamma], etc. The relations between these things then receive
+"genaue und vollstaendige Beschreibung" through the axioms of the
+geometry. And the fact that these "things" are called points, lines, and
+planes is not to give to them any of the connotations ordinarily
+associated with these words further than are determined by the axiom
+groups that follow. Indeed, other geometers are even more explicit on
+this point. Thus for Peano (_I Principii di Geometria_, 1889) the line
+is a mere class of entities, the relations amongst which are no longer
+concrete relations but types of relations. The plane is a class of
+classes of entities, etc. And an almost unlimited number of examples,
+about which the theorems of the geometry will express truths, can be
+exhibited, not one of which has any close resemblance to spatial facts
+in the ordinary sense.
+
+Philosophers, it seems to me, have been slow to recognize the
+significance of the step involved in this last phase of mathematical
+thought. We have been so schooled in an arbitrary distinction between
+relations and concepts, that while long familiar with general ideas of
+concepts, we are not familiar with generalized ideas of relations. Yet
+this is exactly what mathematics is everywhere presenting. A transition
+has been made from relations to types of relations, so that instead of
+speaking in terms of quantitative, spatial and temporal relations,
+mathematicians can now talk in terms of symmetrical, asymmetrical,
+transitive, intransitive relational types and the like. These present,
+however, nothing but the empirical character that is common to such
+relations as that of father and son; debtor and creditor; master and
+servant; a is to the left of b, b of c; c of d; a is older than b, b
+than c, c than d, etc. Hence this is not abandonment of experience but a
+generalization of it, which results in a calculus potentially applicable
+not only to it but also to other subject-matter of thought. Indeed, if
+it were not for the possibility of this generalization, the almost
+unlimited applicability of diagrams, so useful in the classroom, to
+illustrate everything from the nature of reality to the categorical
+imperative, as well as to the more technical usages of the psychological
+and social sciences, would not be understandable.
+
+It would be a paradox, however, if starting out from processes of
+counting and measuring, generalizations had been attained that no longer
+had significance for counting or measuring, and the non-Euclidian
+hyper-dimensional geometries seem at first to present this paradox. But,
+as the outcome of our second line of thought proves, this is not the
+case. The investigation of the relations of different geometrical
+systems to each other has shown (cf. Brown, "The Work of H. Poincare,"
+_Journ. of Phil., Psy., and Sci. Meth._, Vol. XI, No. 9, p. 229) that
+these different systems have a correspondence with one another so that
+for any theorem stated in one of them there is a corresponding theorem
+that can be stated in another. In other words, given any factual
+situation that can be stated in Euclidian geometry, the aspect treated
+as a straight line in the Euclidian exposition will be treated as a
+curve in the non-Euclidian, and a situation treated as three-dimensional
+by Euclid's methods can be treated as of any number of dimensions when
+the proper fundamental element is chosen, and vice versa, although of
+course the element will not be the line or plane in our empirical usage
+of the term. This is what Poincare means by saying that our geometry is
+a free choice, but not arbitrary (_The Value of Science_, Pt. III, Ch.
+X, Sec. 3), for there are many limitations imposed by fact upon the
+choice, and usually there is some clear indication of convenience as to
+the system chosen, based on the fundamental ideal of simplicity.
+
+It is evident, then, that geometry and arithmetic have been drawing
+closer together, and that to-day the distinction between them is
+somewhat hard to maintain. The older arithmetic had limited itself
+largely to the study of the relations involved in serial orders as
+suggested by counting, whereas geometry had concerned itself primarily
+with the relations of groups of such series to each other when the
+series, or groups of series, are represented as lines or planes. But
+partly by interaction in analytic geometry, and partly in the
+generalization of their own methods, both have come to recognize the
+fundamental character of the relations involved in their thought, and
+arithmetic, through the complex number and the algebraic unknown
+quantities, has come to consider more complex serial types, while
+geometry has approached the analysis of its series through interaction
+with number theory. For both, the content of their entities and the
+relations involved have been brought to a minimum. And this is true even
+of such apparently essentially intuitional fields as projective
+geometry, where entities can be substituted for directional lines and
+the axioms be turned into relational postulates governing their
+configurations.
+
+Nevertheless, geometry like arithmetic, has remained true to the need
+that gave it initial impulse. As in the beginning it was only a method
+of dealing with a concrete situation, so in the end it is nothing but
+such a method, although, as in the case of arithmetic, from ever closer
+contact with the situation in question, it has been led, by refinements
+that thoughtful and continual contact bring, to dissect that situation
+and give heed to aspects of it which were undreamed of at the initial
+moment. In a sense, then, there are no such things as mathematical
+entities, as scholastic realism would conceive them. And yet,
+mathematics is not dealing with unrealities, for it is everywhere
+concerned with real rational types and systems where such types may be
+exemplified. Or we can say in a purely practical way that mathematical
+entities are constituted by their relations, but this phrase cannot here
+be interpreted in the Hegelian ontological sense in which it has played
+so great and so pernicious a part in contemporary philosophy. Such
+metaphysical interpretation and its consequences are the basis of
+paradoxical absolutisms, such as that arrived at by Professor Royce
+(_World and the Individual_, Vol. II, Supplementary Essay). The peculiar
+character of abstract or pure mathematics seems to be that its own
+operations on a lower level constitute material which serves for the
+subject-matter with which its later investigations deal. But mathematics
+is, after all, not fundamentally different from the other sciences. The
+concepts of all sciences alike constitute a special language peculiarly
+adapted for dealing with certain experience adjustments, and the
+differences in the development of the different sciences merely express
+different degrees of success with which such languages have been
+formulated with respect to making it possible to predict concerning not
+yet realized situations. Some sciences are still seeking their terms and
+fundamental concepts, others are formulating their first "grammar," and
+mathematics, still inadequate, yearly gains both in vocabulary and
+flexibility.
+
+But if we are to conceive mathematical entities as mere terminal points
+in a relational system, it is necessary that we should become clear as
+to just what is meant by relation, and what is the connection between
+relations and quantities. Modern thought has shown a strong tendency to
+insist, somewhat arbitrarily, on the "internal" or "external" character
+of relations. The former emphasis has been primarily associated with
+idealistic ontology, and has often brought with it complex dialectic
+questions as to the identity of an individual thing in passing from one
+relational situation to another. The latter insistence has meant
+primarily that things do not change with changing relations to other
+things. It has, however, often implied the independent existence, in
+some curiously metaphysical state, of relations that are not relating
+anything, and is hardly less paradoxical than the older view. In the
+field of physical phenomena, it seems to triumph, while the facts of
+social life, on the other hand, lend some countenance to the view of the
+"internalists." Like many such discussions, the best way around them is
+to forget their arguments, and turn to a fresh and independent
+investigation of the facts in question.
+
+

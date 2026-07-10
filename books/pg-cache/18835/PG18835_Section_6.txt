@@ -1,0 +1,642 @@
+CHAPTER VI
+
+CONGRUENCE
+
+
+The aim of this lecture is to establish a theory of congruence. You must
+understand at once that congruence is a controversial question. It is
+the theory of measurement in space and in time. The question seems
+simple. In fact it is simple enough for a standard procedure to have
+been settled by act of parliament; and devotion to metaphysical
+subtleties is almost the only crime which has never been imputed to any
+English parliament. But the procedure is one thing and its meaning is
+another.
+
+First let us fix attention on the purely mathematical question. When the
+segment between two points A and B is congruent to that between the
+two points C and D, the quantitative measurements of the two
+segments are equal. The equality of the numerical measures and the
+congruence of the two segments are not always clearly discriminated, and
+are lumped together under the term equality. But the procedure of
+measurement presupposes congruence. For example, a yard measure is
+applied successively to measure two distances between two pairs of
+points on the floor of a room. It is of the essence of the procedure of
+measurement that the yard measure remains unaltered as it is transferred
+from one position to another. Some objects can palpably alter as they
+move--for example, an elastic thread; but a yard measure does not alter
+if made of the proper material. What is this but a judgment of
+congruence applied to the train of successive positions of the yard
+measure? We know that it does not alter because we judge it to be
+congruent to itself in various positions. In the case of the thread we
+can observe the loss of self-congruence. Thus immediate judgments of
+congruence are presupposed in measurement, and the process of
+measurement is merely a procedure to extend the recognition of
+congruence to cases where these immediate judgments are not available.
+Thus we cannot define congruence by measurement.
+
+In modern expositions of the axioms of geometry certain conditions are
+laid down which the relation of congruence between segments is to
+satisfy. It is supposed that we have a complete theory of points,
+straight lines, planes, and the order of points on planes--in fact, a
+complete theory of non-metrical geometry. We then enquire about
+congruence and lay down the set of conditions--or axioms as they are
+called--which this relation satisfies. It has then been proved that
+there are alternative relations which satisfy these conditions equally
+well and that there is nothing intrinsic in the theory of space to lead
+us to adopt any one of these relations in preference to any other as the
+relation of congruence which we adopt. In other words there are
+alternative metrical geometries which all exist by an equal right so far
+as the intrinsic theory of space is concerned.
+
+Poincaré, the great French mathematician, held that our actual choice
+among these geometries is guided purely by convention, and that the
+effect of a change of choice would be simply to alter our expression of
+the physical laws of nature. By 'convention' I understand Poincaré to
+mean that there is nothing inherent in nature itself giving any peculiar
+_rôle_ to one of these congruence relations, and that the choice of one
+particular relation is guided by the volitions of the mind at the other
+end of the sense-awareness. The principle of guidance is intellectual
+convenience and not natural fact.
+
+This position has been misunderstood by many of Poincaré's expositors.
+They have muddled it up with another question, namely that owing to the
+inexactitude of observation it is impossible to make an exact statement
+in the comparison of measures. It follows that a certain subset of
+closely allied congruence relations can be assigned of which each member
+equally well agrees with that statement of observed congruence when the
+statement is properly qualified with its limits of error.
+
+This is an entirely different question and it presupposes a rejection of
+Poincaré's position. The absolute indetermination of nature in respect
+of all the relations of congruence is replaced by the indetermination of
+observation with respect to a small subgroup of these relations.
+
+Poincaré's position is a strong one. He in effect challenges anyone to
+point out any factor in nature which gives a preeminent status to the
+congruence relation which mankind has actually adopted. But undeniably
+the position is very paradoxical. Bertrand Russell had a controversy
+with him on this question, and pointed out that on Poincaré's principles
+there was nothing in nature to determine whether the earth is larger or
+smaller than some assigned billiard ball. Poincaré replied that the
+attempt to find reasons in nature for the selection of a definite
+congruence relation in space is like trying to determine the position of
+a ship in the ocean by counting the crew and observing the colour of
+the captain's eyes.
+
+In my opinion both disputants were right, assuming the grounds on which
+the discussion was based. Russell in effect pointed out that apart from
+minor inexactitudes a determinate congruence relation is among the
+factors in nature which our sense-awareness posits for us. Poincaré asks
+for information as to the factor in nature which might lead any
+particular congruence relation to play a preeminent _rôle_ among the
+factors posited in sense-awareness. I cannot see the answer to either of
+these contentions provided that you admit the materialistic theory of
+nature. With this theory nature at an instant in space is an independent
+fact. Thus we have to look for our preeminent congruence relation amid
+nature in instantaneous space; and Poincaré is undoubtedly right in
+saying that nature on this hypothesis gives us no help in finding it.
+
+On the other hand Russell is in an equally strong position when he
+asserts that, as a fact of observation, we do find it, and what is more
+agree in finding the same congruence relation. On this basis it is one
+of the most extraordinary facts of human experience that all mankind
+without any assignable reason should agree in fixing attention on just
+one congruence relation amid the indefinite number of indistinguishable
+competitors for notice. One would have expected disagreement on this
+fundamental choice to have divided nations and to have rent families.
+But the difficulty was not even discovered till the close of the
+nineteenth century by a few mathematical philosophers and philosophic
+mathematicians. The case is not like that of our agreement on some
+fundamental fact of nature such as the three dimensions of space. If
+space has only three dimensions we should expect all mankind to be aware
+of the fact, as they are aware of it. But in the case of congruence,
+mankind agree in an arbitrary interpretation of sense-awareness when
+there is nothing in nature to guide it.
+
+I look on it as no slight recommendation of the theory of nature which I
+am expounding to you that it gives a solution of this difficulty by
+pointing out the factor in nature which issues in the preeminence of one
+congruence relation over the indefinite herd of other such relations.
+
+The reason for this result is that nature is no longer confined within
+space at an instant. Space and time are now interconnected; and this
+peculiar factor of time which is so immediately distinguished among the
+deliverances of our sense-awareness, relates itself to one particular
+congruence relation in space.
+
+Congruence is a particular example of the fundamental fact of
+recognition. In perception we recognise. This recognition does not
+merely concern the comparison of a factor of nature posited by memory
+with a factor posited by immediate sense-awareness. Recognition takes
+place within the present without any intervention of pure memory. For
+the present fact is a duration with its antecedent and consequent
+durations which are parts of itself. The discrimination in
+sense-awareness of a finite event with its quality of passage is also
+accompanied by the discrimination of other factors of nature which do
+not share in the passage of events. Whatever passes is an event. But we
+find entities in nature which do not pass; namely we recognise
+samenesses in nature. Recognition is not primarily an intellectual act
+of comparison; it is in its essence merely sense-awareness in its
+capacity of positing before us factors in nature which do not pass. For
+example, green is perceived as situated in a certain finite event within
+the present duration. This green preserves its self-identity throughout,
+whereas the event passes and thereby obtains the property of breaking
+into parts. The green patch has parts. But in talking of the green patch
+we are speaking of the event in its sole capacity of being for us the
+situation of green. The green itself is numerically one self-identical
+entity, without parts because it is without passage.
+
+Factors in nature which are without passage will be called objects.
+There are radically different kinds of objects which will be considered
+in the succeeding lecture.
+
+Recognition is reflected into the intellect as comparison. The
+recognised objects of one event are compared with the recognised objects
+of another event. The comparison may be between two events in the
+present, or it may be between two events of which one is posited by
+memory-awareness and the other by immediate sense-awareness. But it is
+not the events which are compared. For each event is essentially unique
+and incomparable. What are compared are the objects and relations of
+objects situated in events. The event considered as a relation between
+objects has lost its passage and in this aspect is itself an object.
+This object is not the event but only an intellectual abstraction. The
+same object can be situated in many events; and in this sense even the
+whole event, viewed as an object, can recur, though not the very event
+itself with its passage and its relations to other events.
+
+Objects which are not posited by sense-awareness may be known to the
+intellect. For example, relations between objects and relations between
+relations may be factors in nature not disclosed in sense-awareness but
+known by logical inference as necessarily in being. Thus objects for our
+knowledge may be merely logical abstractions. For example, a complete
+event is never disclosed in sense-awareness, and thus the object which
+is the sum total of objects situated in an event as thus inter-related
+is a mere abstract concept. Again a right-angle is a perceived object
+which can be situated in many events; but, though rectangularity is
+posited by sense-awareness, the majority of geometrical relations are
+not so posited. Also rectangularity is in fact often not perceived when
+it can be proved to have been there for perception. Thus an object is
+often known merely as an abstract relation not directly posited in
+sense-awareness although it is there in nature.
+
+The identity of quality between congruent segments is generally of this
+character. In certain special cases this identity of quality can be
+directly perceived. But in general it is inferred by a process of
+measurement depending on our direct sense-awareness of selected cases
+and a logical inference from the transitive character of congruence.
+
+Congruence depends on motion, and thereby is generated the connexion
+between spatial congruence and temporal congruence. Motion along a
+straight line has a symmetry round that line. This symmetry is expressed
+by the symmetrical geometrical relations of the line to the family of
+planes normal to it.
+
+Also another symmetry in the theory of motion arises from the fact that
+rest in the points of {beta} corresponds to uniform motion along a
+definite family of parallel straight lines in the space of {alpha}. We
+must note the three characteristics, (i) of the uniformity of the motion
+corresponding to any point of {beta} along its correlated straight line
+in {alpha}, and (ii) of the equality in magnitude of the velocities
+along the various lines of {alpha} correlated to rest in the various
+points of {beta}, and (iii) of the parallelism of the lines of this
+family.
+
+We are now in possession of a theory of parallels and a theory of
+perpendiculars and a theory of motion, and from these theories the
+theory of congruence can be constructed. It will be remembered that a
+family of parallel levels in any moment is the family of levels in which
+that moment is intersected by the family of moments of some other
+time-system. Also a family of parallel moments is the family of moments
+of some one time-system. Thus we can enlarge our concept of a family of
+parallel levels so as to include levels in different moments of one
+time-system. With this enlarged concept we say that a complete family of
+parallel levels in a time-system {alpha} is the complete family of
+levels in which the moments of {alpha} intersect the moments of {beta}.
+This complete family of parallel levels is also evidently a family lying
+in the moments of the time-system {beta}. By introducing a third
+time-system {gamma}, parallel rects are obtained. Also all the points of
+any one time-system form a family of parallel point-tracks. Thus there
+are three types of parallelograms in the four-dimensional manifold of
+event-particles.
+
+In parallelograms of the first type the two pairs of parallel sides are
+both of them pairs of rects. In parallelograms of the second type one
+pair of parallel sides is a pair of rects and the other pair is a pair
+of point-tracks. In parallelograms of the third type the two pairs of
+parallel sides are both of them pairs of point-tracks.
+
+The first axiom of congruence is that the opposite sides of any
+parallelogram are congruent. This axiom enables us to compare the
+lengths of any two segments either respectively on parallel rects or on
+the same rect. Also it enables us to compare the lengths of any two
+segments either respectively on parallel point-tracks or on the same
+point-track. It follows from this axiom that two objects at rest in any
+two points of a time-system {beta} are moving with equal velocities in any
+other time-system {alpha} along parallel lines. Thus we can speak of the
+velocity in {alpha} due to the time-system {beta} without specifying any
+particular point in {beta}. The axiom also enables us to measure time in
+any time-system; but does not enable us to compare times in different
+time-systems.
+
+The second axiom of congruence concerns parallelograms on congruent
+bases and between the same parallels, which have also their other pairs
+of sides parallel. The axiom asserts that the rect joining the two
+event-particles of intersection of the diagonals is parallel to the rect
+on which the bases lie. By the aid of this axiom it easily follows that
+the diagonals of a parallelogram bisect each other.
+
+Congruence is extended in any space beyond parallel rects to all rects
+by two axioms depending on perpendicularity. The first of these axioms,
+which is the third axiom of congruence, is that if ABC is a triangle
+of rects in any moment and D is the middle event-particle of the base
+BC, then the level through D perpendicular to BC contains A when
+and only when AB is congruent to AC. This axiom evidently expresses
+the symmetry of perpendicularity, and is the essence of the famous pons
+asinorum expressed as an axiom.
+
+The second axiom depending on perpendicularity, and the fourth axiom of
+congruence, is that if r and A be a rect and an event-particle in the
+same moment and AB and AC be a pair of rectangular rects intersecting r
+in B and C, and AD and AE be another pair of rectangular rects
+intersecting r in D and E, then either D or E lies in the segment BC and
+the other one of the two does not lie in this segment. Also as a
+particular case of this axiom, if AB be perpendicular to r and in
+consequence AC be parallel to r, then D and E lie on opposite sides of B
+respectively. By the aid of these two axioms the theory of congruence
+can be extended so as to compare lengths of segments on any two rects.
+Accordingly Euclidean metrical geometry in space is completely
+established and lengths in the spaces of different time-systems are
+comparable as the result of definite properties of nature which indicate
+just that particular method of comparison.
+
+The comparison of time-measurements in diverse time-systems requires two
+other axioms. The first of these axioms, forming the fifth axiom of
+congruence, will be called the axiom of 'kinetic symmetry.' It expresses
+the symmetry of the quantitative relations between two time-systems when
+the times and lengths in the two systems are measured in congruent
+units.
+
+The axiom can be explained as follows: Let {alpha} and {beta} be the names
+of two time-systems. The directions of motion in the space of {alpha} due
+to rest in a point of {beta} is called the '{beta}-direction in {alpha}'
+and the direction of motion in the space of {beta} due to rest in a
+point of {alpha} is called the '{alpha}-direction in {beta}.' Consider a
+motion in the space of {alpha} consisting of a certain velocity in the
+{beta}-direction of {alpha} and a certain velocity at right-angles to
+it. This motion represents rest in the space of another time-system--call
+it {pi}. Rest in {pi} will also be represented in the space of {beta} by
+a certain velocity in the {alpha}-direction in {beta} and a certain
+velocity at right-angles to this {alpha}-direction. Thus a certain
+motion in the space of {alpha} is correlated to a certain motion in the
+space of {beta}, as both representing the same fact which can also be
+represented by rest in {pi}. Now another time-system, which I will name
+{sigma}, can be found which is such that rest in its space is
+represented by the same magnitudes of velocities along and perpendicular
+to the {alpha}-direction in {beta} as those velocities in {alpha}, along
+and perpendicular to the {beta}-direction, which represent rest in {pi}.
+The required axiom of kinetic symmetry is that rest in {sigma} will be
+represented in {alpha} by the same velocities along and perpendicular to
+the {beta}-direction in {alpha} as those velocities in {beta} along and
+perpendicular to the {alpha}-direction which represent rest in {pi}.
+
+A particular case of this axiom is that relative velocities are equal
+and opposite. Namely rest in {alpha} is represented in {beta} by a
+velocity along the {alpha}-direction which is equal to the velocity
+along the {beta}-direction in {alpha} which represents rest in {beta}.
+
+Finally the sixth axiom of congruence is that the relation of congruence
+is transitive. So far as this axiom applies to space, it is superfluous.
+For the property follows from our previous axioms. It is however
+necessary for time as a supplement to the axiom of kinetic symmetry. The
+meaning of the axiom is that if the time-unit of system {alpha} is
+congruent to the time-unit of system {beta}, and the time-unit of system
+{beta} is congruent to the time-unit of system {gamma}, then the
+time-units of {alpha} and {gamma} are also congruent.
+
+By means of these axioms formulae for the transformation of
+measurements made in one time-system to measurements of the same facts
+of nature made in another time-system can be deduced. These formulae
+will be found to involve one arbitrary constant which I will call k.
+
+It is of the dimensions of the square of a velocity. Accordingly four
+cases arise. In the first case k is zero. This case produces
+nonsensical results in opposition to the elementary deliverances of
+experience. We put this case aside.
+
+In the second case k is infinite. This case yields the ordinary
+formulae for transformation in relative motion, namely those formulae
+which are to be found in every elementary book on dynamics.
+
+In the third case, k is negative. Let us call it -c², where c
+will be of the dimensions of a velocity. This case yields the formulae
+of transformation which Larmor discovered for the transformation of
+Maxwell's equations of the electromagnetic field. These formulae were
+extended by H. A. Lorentz, and used by Einstein and Minkowski as the
+basis of their novel theory of relativity. I am not now speaking of
+Einstein's more recent theory of general relativity by which he deduces
+his modification of the law of gravitation. If this be the case which
+applies to nature, then c must be a close approximation to the
+velocity of light _in vacuo_. Perhaps it is this actual velocity. In
+this connexion '_in vacuo_' must not mean an absence of events, namely
+the absence of the all-pervading ether of events. It must mean the
+absence of certain types of objects.
+
+In the fourth case, k is positive. Let us call it h², where h
+will be of the dimensions of a velocity. This gives a perfectly possible
+type of transformation formulae, but not one which explains any facts
+of experience. It has also another disadvantage. With the assumption of
+this fourth case the distinction between space and time becomes unduly
+blurred. The whole object of these lectures has been to enforce the
+doctrine that space and time spring from a common root, and that the
+ultimate fact of experience is a space-time fact. But after all mankind
+does distinguish very sharply between space and time, and it is owing to
+this sharpness of distinction that the doctrine of these lectures is
+somewhat of a paradox. Now in the third assumption this sharpness of
+distinction is adequately preserved. There is a fundamental distinction
+between the metrical properties of point-tracks and rects. But in the
+fourth assumption this fundamental distinction vanishes.
+
+Neither the third nor the fourth assumption can agree with experience
+unless we assume that the velocity c of the third assumption, and the
+velocity h of the fourth assumption, are extremely large compared to
+the velocities of ordinary experience. If this be the case the formulae
+of both assumptions will obviously reduce to a close approximation to
+the formulae of the second assumption which are the ordinary formulae of
+dynamical textbooks. For the sake of a name, I will call these textbook
+formulae the 'orthodox' formulae.
+
+There can be no question as to the general approximate correctness of
+the orthodox formulae. It would be merely silly to raise doubts on this
+point. But the determination of the status of these formulae is by no
+means settled by this admission. The independence of time and space is
+an unquestioned presupposition of the orthodox thought which has
+produced the orthodox formulae. With this presupposition and given the
+absolute points of one absolute space, the orthodox formulae are
+immediate deductions. Accordingly, these formulae are presented to our
+imaginations as facts which cannot be otherwise, time and space being
+what they are. The orthodox formulae have therefore attained to the
+status of necessities which cannot be questioned in science. Any attempt
+to replace these formulae by others was to abandon the _rôle_ of
+physical explanation and to have recourse to mere mathematical formulae.
+
+But even in physical science difficulties have accumulated round the
+orthodox formulae. In the first place Maxwell's equations of the
+electromagnetic field are not invariant for the transformations of the
+orthodox formulae; whereas they are invariant for the transformations of
+the formulae arising from the third of the four cases mentioned above,
+provided that the velocity c is identified with a famous
+electromagnetic constant quantity.
+
+Again the null results of the delicate experiments to detect the earth's
+variations of motion through the ether in its orbital path are explained
+immediately by the formulae of the third case. But if we assume the
+orthodox formulae we have to make a special and arbitrary assumption as
+to the contraction of matter during motion. I mean the Fitzgerald-Lorentz
+assumption.
+
+Lastly Fresnel's coefficient of drag which represents the variation of
+the velocity of light in a moving medium is explained by the formulae of
+the third case, and requires another arbitrary assumption if we use the
+orthodox formulae.
+
+It appears therefore that on the mere basis of physical explanation
+there are advantages in the formulae of the third case as compared with
+the orthodox formulae. But the way is blocked by the ingrained belief
+that these latter formulae possess a character of necessity. It is
+therefore an urgent requisite for physical science and for philosophy to
+examine critically the grounds for this supposed necessity. The only
+satisfactory method of scrutiny is to recur to the first principles of
+our knowledge of nature. This is exactly what I am endeavouring to do in
+these lectures. I ask what it is that we are aware of in our
+sense-perception of nature. I then proceed to examine those factors in
+nature which lead us to conceive nature as occupying space and
+persisting through time. This procedure has led us to an investigation
+of the characters of space and time. It results from these
+investigations that the formulae of the third case and the orthodox
+formulae are on a level as possible formulae resulting from the basic
+character of our knowledge of nature. The orthodox formulae have thus
+lost any advantage as to necessity which they enjoyed over the serial
+group. The way is thus open to adopt whichever of the two groups best
+accords with observation.
+
+I take this opportunity of pausing for a moment from the course of my
+argument, and of reflecting on the general character which my doctrine
+ascribes to some familiar concepts of science. I have no doubt that some
+of you have felt that in certain aspects this character is very
+paradoxical.
+
+This vein of paradox is partly due to the fact that educated language
+has been made to conform to the prevalent orthodox theory. We are thus,
+in expounding an alternative doctrine, driven to the use of either
+strange terms or of familiar words with unusual meanings. This victory
+of the orthodox theory over language is very natural. Events are named
+after the prominent objects situated in them, and thus both in language
+and in thought the event sinks behind the object, and becomes the mere
+play of its relations. The theory of space is then converted into a
+theory of the relations of objects instead of a theory of the relations
+of events. But objects have not the passage of events. Accordingly space
+as a relation between objects is devoid of any connexion with time. It
+is space at an instant without any determinate relations between the
+spaces at successive instants. It cannot be one timeless space because
+the relations between objects change.
+
+A few minutes ago in speaking of the deduction of the orthodox formulae
+for relative motion I said that they followed as an immediate deduction
+from the assumption of absolute points in absolute space. This reference
+to absolute space was not an oversight. I know that the doctrine of the
+relativity of space at present holds the field both in science and
+philosophy. But I do not think that its inevitable consequences are
+understood. When we really face them the paradox of the presentation of
+the character of space which I have elaborated is greatly mitigated. If
+there is no absolute position, a point must cease to be a simple entity.
+What is a point to one man in a balloon with his eyes fixed on an
+instrument is a track of points to an observer on the earth who is
+watching the balloon through a telescope, and is another track of points
+to an observer in the sun who is watching the balloon through some
+instrument suited to such a being. Accordingly if I am reproached with
+the paradox of my theory of points as classes of event-particles, and of
+my theory of event-particles as groups of abstractive sets, I ask my
+critic to explain exactly what he means by a point. While you explain
+your meaning about anything, however simple, it is always apt to look
+subtle and fine spun. I have at least explained exactly what I do mean
+by a point, what relations it involves and what entities are the relata.
+If you admit the relativity of space, you also must admit that points
+are complex entities, logical constructs involving other entities and
+their relations. Produce your theory, not in a few vague phrases of
+indefinite meaning, but explain it step by step in definite terms
+referring to assigned relations and assigned relata. Also show that your
+theory of points issues in a theory of space. Furthermore note that the
+example of the man in the balloon, the observer on earth, and the
+observer in the sun, shows that every assumption of relative rest
+requires a timeless space with radically different points from those
+which issue from every other such assumption. The theory of the
+relativity of space is inconsistent with any doctrine of one unique set
+of points of one timeless space.
+
+The fact is that there is no paradox in my doctrine of the nature of
+space which is not in essence inherent in the theory of the relativity
+of space. But this doctrine has never really been accepted in science,
+whatever people say. What appears in our dynamical treatises is Newton's
+doctrine of relative motion based on the doctrine of differential motion
+in absolute space. When you once admit that the points are radically
+different entities for differing assumptions of rest, then the orthodox
+formulae lose all their obviousness. They were only obvious because you
+were really thinking of something else. When discussing this topic you
+can only avoid paradox by taking refuge from the flood of criticism in
+the comfortable ark of no meaning.
+
+The new theory provides a definition of the congruence of periods of
+time. The prevalent view provides no such definition. Its position is
+that if we take such time-measurements so that certain familiar
+velocities which seem to us to be uniform are uniform, then the laws of
+motion are true. Now in the first place no change could appear either as
+uniform or non-uniform without involving a definite determination of the
+congruence for time-periods. So in appealing to familiar phenomena it
+allows that there is some factor in nature which we can intellectually
+construct as a congruence theory. It does not however say anything about
+it except that the laws of motion are then true. Suppose that with some
+expositors we cut out the reference to familiar velocities such as the
+rate of rotation of the earth. We are then driven to admit that there is
+no meaning in temporal congruence except that certain assumptions make
+the laws of motion true. Such a statement is historically false. King
+Alfred the Great was ignorant of the laws of motion, but knew very well
+what he meant by the measurement of time, and achieved his purpose by
+means of burning candles. Also no one in past ages justified the use of
+sand in hour-glasses by saying that some centuries later interesting
+laws of motion would be discovered which would give a meaning to the
+statement that the sand was emptied from the bulbs in equal times.
+Uniformity in change is directly perceived, and it follows that mankind
+perceives in nature factors from which a theory of temporal congruence
+can be formed. The prevalent theory entirely fails to produce such
+factors.
+
+The mention of the laws of motion raises another point where the
+prevalent theory has nothing to say and the new theory gives a complete
+explanation. It is well known that the laws of motion are not valid for
+any axes of reference which you may choose to take fixed in any rigid
+body. You must choose a body which is not rotating and has no
+acceleration. For example they do not really apply to axes fixed in the
+earth because of the diurnal rotation of that body. The law which fails
+when you assume the wrong axes as at rest is the third law, that action
+and reaction are equal and opposite. With the wrong axes uncompensated
+centrifugal forces and uncompensated composite centrifugal forces
+appear, due to rotation. The influence of these forces can be
+demonstrated by many facts on the earth's surface, Foucault's pendulum,
+the shape of the earth, the fixed directions of the rotations of
+cyclones and anticyclones. It is difficult to take seriously the
+suggestion that these domestic phenomena on the earth are due to the
+influence of the fixed stars. I cannot persuade myself to believe that a
+little star in its twinkling turned round Foucault's pendulum in the
+Paris Exhibition of 1861. Of course anything is believable when a
+definite physical connexion has been demonstrated, for example the
+influence of sunspots. Here all demonstration is lacking in the form of
+any coherent theory. According to the theory of these lectures the axes
+to which motion is to be referred are axes at rest in the space of some
+time-system. For example, consider the space of a time-system {alpha}.
+There are sets of axes at rest in the space of {alpha}. These are
+suitable dynamical axes. Also a set of axes in this space which is
+moving with uniform velocity without rotation is another suitable set.
+All the moving points fixed in these moving axes are really tracing out
+parallel lines with one uniform velocity. In other words they are the
+reflections in the space of {alpha} of a set of fixed axes in the space
+of some other time-system {beta}. Accordingly the group of dynamical
+axes required for Newton's Laws of Motion is the outcome of the
+necessity of referring motion to a body at rest in the space of some one
+time-system in order to obtain a coherent account of physical
+properties. If we do not do so the meaning of the motion of one portion
+of our physical configuration is different from the meaning of the
+motion of another portion of the same configuration. Thus the meaning of
+motion being what it is, in order to describe the motion of any system
+of objects without changing the meaning of your terms as you proceed
+with your description, you are bound to take one of these sets of axes
+as axes of reference; though you may choose their reflections into the
+space of any time-system which you wish to adopt. A definite physical
+reason is thereby assigned for the peculiar property of the dynamical
+group of axes.
+
+On the orthodox theory the position of the equations of motion is most
+ambiguous. The space to which they refer is completely undetermined and
+so is the measurement of the lapse of time. Science is simply setting
+out on a fishing expedition to see whether it cannot find some procedure
+which it can call the measurement of space and some procedure which it
+can call the measurement of time, and something which it can call a
+system of forces, and something which it can call masses, so that these
+formulae may be satisfied. The only reason--on this theory--why anyone
+should want to satisfy these formulae is a sentimental regard for
+Galileo, Newton, Euler and Lagrange. The theory, so far from founding
+science on a sound observational basis, forces everything to conform to
+a mere mathematical preference for certain simple formulae.
+
+I do not for a moment believe that this is a true account of the real
+status of the Laws of Motion. These equations want some slight
+adjustment for the new formulae of relativity. But with these
+adjustments, imperceptible in ordinary use, the laws deal with
+fundamental physical quantities which we know very well and wish to
+correlate.
+
+The measurement of time was known to all civilised nations long before
+the laws were thought of. It is this time as thus measured that the laws
+are concerned with. Also they deal with the space of our daily life.
+When we approach to an accuracy of measurement beyond that of
+observation, adjustment is allowable. But within the limits of
+observation we know what we mean when we speak of measurements of space
+and measurements of time and uniformity of change. It is for science to
+give an intellectual account of what is so evident in sense-awareness.
+It is to me thoroughly incredible that the ultimate fact beyond which
+there is no deeper explanation is that mankind has really been swayed by
+an unconscious desire to satisfy the mathematical formulae which we call
+the Laws of Motion, formulae completely unknown till the seventeenth
+century of our epoch.
+
+The correlation of the facts of sense-experience effected by the
+alternative account of nature extends beyond the physical properties of
+motion and the properties of congruence. It gives an account of the
+meaning of the geometrical entities such as points, straight lines, and
+volumes, and connects the kindred ideas of extension in time and
+extension in space. The theory satisfies the true purpose of an
+intellectual explanation in the sphere of natural philosophy. This
+purpose is to exhibit the interconnexions of nature, and to show that
+one set of ingredients in nature requires for the exhibition of its
+character the presence of the other sets of ingredients.
+
+The false idea which we have to get rid of is that of nature as a mere
+aggregate of independent entities, each capable of isolation. According
+to this conception these entities, whose characters are capable of
+isolated definition, come together and by their accidental relations
+form the system of nature. This system is thus thoroughly accidental;
+and, even if it be subject to a mechanical fate, it is only accidentally
+so subject.
+
+With this theory space might be without time, and time might be without
+space. The theory admittedly breaks down when we come to the relations
+of matter and space. The relational theory of space is an admission that
+we cannot know space without matter or matter without space. But the
+seclusion of both from time is still jealously guarded. The relations
+between portions of matter in space are accidental facts owing to the
+absence of any coherent account of how space springs from matter or how
+matter springs from space. Also what we really observe in nature, its
+colours and its sounds and its touches are secondary qualities; in other
+words, they are not in nature at all but are accidental products of the
+relations between nature and mind.
+
+The explanation of nature which I urge as an alternative ideal to this
+accidental view of nature, is that nothing in nature could be what it is
+except as an ingredient in nature as it is. The whole which is present
+for discrimination is posited in sense-awareness as necessary for the
+discriminated parts. An isolated event is not an event, because every
+event is a factor in a larger whole and is significant of that whole.
+There can be no time apart from space; and no space apart from time; and
+no space and no time apart from the passage of the events of nature. The
+isolation of an entity in thought, when we think of it as a bare 'it,'
+has no counterpart in any corresponding isolation in nature. Such
+isolation is merely part of the procedure of intellectual knowledge.
+
+The laws of nature are the outcome of the characters of the entities
+which we find in nature. The entities being what they are, the laws must
+be what they are; and conversely the entities follow from the laws. We
+are a long way from the attainment of such an ideal; but it remains as
+the abiding goal of theoretical science.
+
+
+
+

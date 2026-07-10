@@ -1,0 +1,899 @@
+CHAPTER IV.
+
+
+THE DIFFERENTIAL AND INTEGRAL CALCULUS.
+
+
+ITS TWO FUNDAMENTAL DIVISIONS.
+
+
+The _calculus of indirect functions_, in accordance with the
+considerations explained in the preceding chapter, is necessarily
+divided into two parts (or, more properly, is decomposed into two
+different _calculi_ entirely distinct, although intimately connected by
+their nature), according as it is proposed to find the relations between
+the auxiliary magnitudes (the introduction of which constitutes the
+general spirit of this calculus) by means of the relations between the
+corresponding primitive magnitudes; or, conversely, to try to discover
+these direct equations by means of the indirect equations originally
+established. Such is, in fact, constantly the double object of the
+transcendental analysis.
+
+These two systems have received different names, according to the point
+of view under which this analysis has been regarded. The infinitesimal
+method, properly so called, having been the most generally employed for
+the reasons which have been given, almost all geometers employ
+habitually the denominations of _Differential Calculus_ and of _Integral
+Calculus_, established by Leibnitz, and which are, in fact, very
+rational consequences of his conception. Newton, in accordance with his
+method, named the first the _Calculus of Fluxions_, and the second the
+_Calculus of Fluents_, expressions which were commonly employed in
+England. Finally, following the eminently philosophical theory founded
+by Lagrange, one would be called the _Calculus of Derived Functions_,
+and the other the _Calculus of Primitive Functions_. I will continue to
+make use of the terms of Leibnitz, as being more convenient for the
+formation of secondary expressions, although I ought, in accordance with
+the suggestions made in the preceding chapter, to employ concurrently
+all the different conceptions, approaching as nearly as possible to that
+of Lagrange.
+
+
+
+
+THEIR RELATIONS TO EACH OTHER.
+
+
+The differential calculus is evidently the logical basis of the integral
+calculus; for we do not and cannot know how to integrate directly any
+other differential expressions than those produced by the
+differentiation of the ten simple functions which constitute the general
+elements of our analysis. The art of integration consists, then,
+essentially in bringing all the other cases, as far as is possible, to
+finally depend on only this small number of fundamental integrations.
+
+In considering the whole body of the transcendental analysis, as I have
+characterized it in the preceding chapter, it is not at first apparent
+what can be the peculiar utility of the differential calculus,
+independently of this necessary relation with the integral calculus,
+which seems as if it must be, by itself, the only one directly
+indispensable. In fact, the elimination of the _infinitesimals_ or of
+the _derivatives_, introduced as auxiliaries to facilitate the
+establishment of equations, constituting, as we have seen, the final and
+invariable object of the calculus of indirect functions, it is natural
+to think that the calculus which teaches how to deduce from the
+equations between these auxiliary magnitudes, those which exist between
+the primitive magnitudes themselves, ought strictly to suffice for the
+general wants of the transcendental analysis without our perceiving, at
+the first glance, what special and constant part the solution of the
+inverse question can have in such an analysis. It would be a real error,
+though a common one, to assign to the differential calculus, in order to
+explain its peculiar, direct, and necessary influence, the destination
+of forming the differential equations, from which the integral calculus
+then enables us to arrive at the finite equations; for the primitive
+formation of differential equations is not and cannot be, properly
+speaking, the object of any calculus, since, on the contrary, it forms
+by its nature the indispensable starting point of any calculus whatever.
+How, in particular, could the differential calculus, which in itself is
+reduced to teaching the means of _differentiating_ the different
+equations, be a general procedure for establishing them? That which in
+every application of the transcendental analysis really facilitates the
+formation of equations, is the infinitesimal _method_, and not the
+infinitesimal _calculus_, which is perfectly distinct from it, although
+it is its indispensable complement. Such a consideration would, then,
+give a false idea of the special destination which characterizes the
+differential calculus in the general system of the transcendental
+analysis.
+
+But we should nevertheless very imperfectly conceive the real peculiar
+importance of this first branch of the calculus of indirect functions,
+if we saw in it only a simple preliminary labour, having no other
+general and essential object than to prepare indispensable foundations
+for the integral calculus. As the ideas on this matter are generally
+confused, I think that I ought here to explain in a summary manner this
+important relation as I view it, and to show that in every application
+of the transcendental analysis a primary, direct, and necessary part is
+constantly assigned to the differential calculus.
+
+
+1. _Use of the Differential Calculus as preparatory to that of the
+Integral._ In forming the differential equations of any phenomenon
+whatever, it is very seldom that we limit ourselves to introduce
+differentially only those magnitudes whose relations are sought. To
+impose that condition would be to uselessly diminish the resources
+presented by the transcendental analysis for the expression of the
+mathematical laws of phenomena. Most frequently we introduce into the
+primitive equations, through their differentials, other magnitudes whose
+relations are already known or supposed to be so, and without the
+consideration of which it would be frequently impossible to establish
+equations. Thus, for example, in the general problem of the
+rectification of curves, the differential equation,
+
+  _ds_² = _dy_² + _dx_², or _ds_² = _dx_² + _dy_² + _dz_²,
+
+is not only established between the desired function s and the
+independent variable _x_, to which it is referred, but, at the same
+time, there have been introduced, as indispensable intermediaries, the
+differentials of one or two other functions, _y_ and _z_, which are
+among the data of the problem; it would not have been possible to form
+directly the equation between _ds_ and _dx_, which would, besides, be
+peculiar to each curve considered. It is the same for most questions.
+Now in these cases it is evident that the differential equation is not
+immediately suitable for integration. It is previously necessary that
+the differentials of the functions supposed to be known, which have
+been employed as intermediaries, should be entirely eliminated, in order
+that equations may be obtained between the differentials of the
+functions which alone are sought and those of the really independent
+variables, after which the question depends on only the integral
+calculus. Now this preparatory elimination of certain differentials, in
+order to reduce the infinitesimals to the smallest number possible,
+belongs simply to the differential calculus; for it must evidently be
+done by determining, by means of the equations between the functions
+supposed to be known, taken as intermediaries, the relations of their
+differentials, which is merely a question of differentiation. Thus, for
+example, in the case of rectifications, it will be first necessary to
+calculate _dy_, or _dy_ and _dz_, by differentiating the equation or the
+equations of each curve proposed; after eliminating these expressions,
+the general differential formula above enunciated will then contain only
+_ds_ and _dx_; having arrived at this point, the elimination of the
+infinitesimals can be completed only by the integral calculus.
+
+Such is, then, the general office necessarily belonging to the
+differential calculus in the complete solution of the questions which
+exact the employment of the transcendental analysis; to produce, as far
+as is possible, the elimination of the infinitesimals, that is, to
+reduce in each case the primitive differential equations so that they
+shall contain only the differentials of the really independent
+variables, and those of the functions sought, by causing to disappear,
+by elimination, the differentials of all the other known functions which
+may have been taken as intermediaries at the time of the formation of
+the differential equations of the problem which is under consideration.
+
+
+2. _Employment of the Differential Calculus alone._ For certain
+questions, which, although few in number, have none the less, as we
+shall see hereafter, a very great importance, the magnitudes which are
+sought enter directly, and not by their differentials, into the
+primitive differential equations, which then contain differentially only
+the different known functions employed as intermediaries, in accordance
+with the preceding explanation. These cases are the most favourable of
+all; for it is evident that the differential calculus is then entirely
+sufficient for the complete elimination of the infinitesimals, without
+the question giving rise to any integration. This is what occurs, for
+example, in the problem of _tangents_ in geometry; in that of
+_velocities_ in mechanics, &c.
+
+
+3. _Employment of the Integral Calculus alone._ Finally, some other
+questions, the number of which is also very small, but the importance of
+which is no less great, present a second exceptional case, which is in
+its nature exactly the converse of the preceding. They are those in
+which the differential equations are found to be immediately ready for
+integration, because they contain, at their first formation, only the
+infinitesimals which relate to the functions sought, or to the really
+independent variables, without its being necessary to introduce,
+differentially, other functions as intermediaries. If in these new cases
+we introduce these last functions, since, by hypothesis, they will enter
+directly and not by their differentials, ordinary algebra will suffice
+to eliminate them, and to bring the question to depend on only the
+integral calculus. The differential calculus will then have no special
+part in the complete solution of the problem, which will depend entirely
+upon the integral calculus. The general question of _quadratures_ offers
+an important example of this, for the differential equation being then
+_dA = ydx_, will become immediately fit for integration as soon as we
+shall have eliminated, by means of the equation of the proposed curve,
+the intermediary function _y_, which does not enter into it
+differentially. The same circumstances exist in the problem of
+_cubatures_, and in some others equally important.
+
+
+_Three classes of Questions hence resulting._ As a general result of the
+previous considerations, it is then necessary to divide into three
+classes the mathematical questions which require the use of the
+transcendental analysis; the _first_ class comprises the problems
+susceptible of being entirely resolved by means of the differential
+calculus alone, without any need of the integral calculus; the _second_,
+those which are, on the contrary, entirely dependent upon the integral
+calculus, without the differential calculus having any part in their
+solution; lastly, in the _third_ and the most extensive, which
+constitutes the normal case, the two others being only exceptional, the
+differential and the integral calculus have each in their turn a
+distinct and necessary part in the complete solution of the problem, the
+former making the primitive differential equations undergo a preparation
+which is indispensable for the application of the latter. Such are
+exactly their general relations, of which too indefinite and inexact
+ideas are generally formed.
+
+       *       *       *       *       *
+
+Let us now take a general survey of the logical composition of each
+calculus, beginning with the differential.
+
+
+
+
+THE DIFFERENTIAL CALCULUS.
+
+
+In the exposition of the transcendental analysis, it is customary to
+intermingle with the purely analytical part (which reduces itself to the
+treatment of the abstract principles of differentiation and integration)
+the study of its different principal applications, especially those
+which concern geometry. This confusion of ideas, which is a consequence
+of the actual manner in which the science has been developed, presents,
+in the dogmatic point of view, serious inconveniences in this respect,
+that it makes it difficult properly to conceive either analysis or
+geometry. Having to consider here the most rational co-ordination which
+is possible, I shall include, in the following sketch, only the calculus
+of indirect functions properly so called, reserving for the portion of
+this volume which relates to the philosophical study of _concrete_
+mathematics the general examination of its great geometrical and
+mechanical applications.
+
+
+_Two Cases: explicit and implicit Functions._ The fundamental division
+of the differential calculus, or of the general subject of
+differentiation, consists in distinguishing two cases, according as the
+analytical functions which are to be differentiated are _explicit_ or
+_implicit_; from which flow two parts ordinarily designated by the names
+of differentiation _of formulas_ and differentiation _of equations_. It
+is easy to understand, _à priori_, the importance of this
+classification. In fact, such a distinction would be illusory if the
+ordinary analysis was perfect; that is, if we knew how to resolve all
+equations algebraically, for then it would be possible to render every
+_implicit_ function _explicit_; and, by differentiating it in that
+state alone, the second part of the differential calculus would be
+immediately comprised in the first, without giving rise to any new
+difficulty. But the algebraical resolution of equations being, as we
+have seen, still almost in its infancy, and as yet impossible for most
+cases, it is plain that the case is very different, since we have,
+properly speaking, to differentiate a function without knowing it,
+although it is determinate. The differentiation of implicit functions
+constitutes then, by its nature, a question truly distinct from that
+presented by explicit functions, and necessarily more complicated. It is
+thus evident that we must commence with the differentiation of formulas,
+and reduce the differentiation of equations to this primary case by
+certain invariable analytical considerations, which need not be here
+mentioned.
+
+These two general cases of differentiation are also distinct in another
+point of view equally necessary, and too important to be left unnoticed.
+The relation which is obtained between the differentials is constantly
+more indirect, in comparison with that of the finite quantities, in the
+differentiation of implicit functions than in that of explicit
+functions. We know, in fact, from the considerations presented by
+Lagrange on the general formation of differential equations, that, on
+the one hand, the same primitive equation may give rise to a greater or
+less number of derived equations of very different forms, although at
+bottom equivalent, depending upon which of the arbitrary constants is
+eliminated, which is not the case in the differentiation of explicit
+formulas; and that, on the other hand, the unlimited system of the
+different primitive equations, which correspond to the same derived
+equation, presents a much more profound analytical variety than that of
+the different functions, which admit of one same explicit differential,
+and which are distinguished from each other only by a constant term.
+Implicit functions must therefore be regarded as being in reality still
+more modified by differentiation than explicit functions. We shall again
+meet with this consideration relatively to the integral calculus, where
+it acquires a preponderant importance.
+
+
+_Two Sub-cases: A single Variable or several Variables._ Each of the two
+fundamental parts of the Differential Calculus is subdivided into two
+very distinct theories, according as we are required to differentiate
+functions of a single variable or functions of several independent
+variables. This second case is, by its nature, quite distinct from the
+first, and evidently presents more complication, even in considering
+only explicit functions, and still more those which are implicit. As to
+the rest, one of these cases is deduced from the other in a general
+manner, by the aid of an invariable and very simple principle, which
+consists in regarding the total differential of a function which is
+produced by the simultaneous increments of the different independent
+variables which it contains, as the sum of the partial differentials
+which would be produced by the separate increment of each variable in
+turn, if all the others were constant. It is necessary, besides,
+carefully to remark, in connection with this subject, a new idea which
+is introduced by the distinction of functions into those of one variable
+and of several; it is the consideration of these different special
+derived functions, relating to each variable separately, and the number
+of which increases more and more in proportion as the order of the
+derivation becomes higher, and also when the variables become more
+numerous. It results from this that the differential relations belonging
+to functions of several variables are, by their nature, both much more
+indirect, and especially much more indeterminate, than those relating to
+functions of a single variable. This is most apparent in the case of
+implicit functions, in which, in the place of the simple arbitrary
+constants which elimination causes to disappear when we form the proper
+differential equations for functions of a single variable, it is the
+arbitrary functions of the proposed variables which are then eliminated;
+whence must result special difficulties when these equations come to be
+integrated.
+
+Finally, to complete this summary sketch of the different essential
+parts of the differential calculus proper, I should add, that in the
+differentiation of implicit functions, whether of a single variable or
+of several, it is necessary to make another distinction; that of the
+case in which it is required to differentiate at once different
+functions of this kind, _combined_ in certain primitive equations, from
+that in which all these functions are _separate_.
+
+The functions are evidently, in fact, still more implicit in the first
+case than in the second, if we consider that the same imperfection of
+ordinary analysis, which forbids our converting every implicit function
+into an equivalent explicit function, in like manner renders us unable
+to separate the functions which enter simultaneously into any system of
+equations. It is then necessary to differentiate, not only without
+knowing how to resolve the primitive equations, but even without being
+able to effect the proper eliminations among them, thus producing a new
+difficulty.
+
+
+_Reduction of the whole to the Differentiation of the ten elementary
+Functions._ Such, then, are the natural connection and the logical
+distribution of the different principal theories which compose the
+general system of differentiation. Since the differentiation of implicit
+functions is deduced from that of explicit functions by a single
+constant principle, and the differentiation of functions of several
+variables is reduced by another fixed principle to that of functions of
+a single variable, the whole of the differential calculus is finally
+found to rest upon the differentiation of explicit functions with a
+single variable, the only one which is ever executed directly. Now it is
+easy to understand that this first theory, the necessary basis of the
+entire system, consists simply in the differentiation of the ten simple
+functions, which are the uniform elements of all our analytical
+combinations, and the list of which has been given in the first chapter,
+on page 51; for the differentiation of compound functions is evidently
+deduced, in an immediate and necessary manner, from that of the simple
+functions which compose them. It is, then, to the knowledge of these ten
+fundamental differentials, and to that of the two general principles
+just mentioned, which bring under it all the other possible cases, that
+the whole system of differentiation is properly reduced. We see, by the
+combination of these different considerations, how simple and how
+perfect is the entire system of the differential calculus. It certainly
+constitutes, in its logical relations, the most interesting spectacle
+which mathematical analysis can present to our understanding.
+
+
+_Transformation of derived Functions for new Variables._ The general
+sketch which I have just summarily drawn would nevertheless present an
+important deficiency, if I did not here distinctly indicate a final
+theory, which forms, by its nature, the indispensable complement of the
+system of differentiation. It is that which has for its object the
+constant transformation of derived functions, as a result of determinate
+changes in the independent variables, whence results the possibility of
+referring to new variables all the general differential formulas
+primitively established for others. This question is now resolved in the
+most complete and the most simple manner, as are all those of which the
+differential calculus is composed. It is easy to conceive the general
+importance which it must have in any of the applications of the
+transcendental analysis, the fundamental resources of which it may be
+considered as augmenting, by permitting us to choose (in order to form
+the differential equations, in the first place, with more ease) that
+system of independent variables which may appear to be the most
+advantageous, although it is not to be finally retained. It is thus, for
+example, that most of the principal questions of geometry are resolved
+much more easily by referring the lines and surfaces to _rectilinear_
+co-ordinates, and that we may, nevertheless, have occasion to express
+these lines, etc., analytically by the aid of _polar_ co-ordinates, or
+in any other manner. We will then be able to commence the differential
+solution of the problem by employing the rectilinear system, but only as
+an intermediate step, from which, by the general theory here referred
+to, we can pass to the final system, which sometimes could not have been
+considered directly.
+
+
+_Different Orders of Differentiation._ In the logical classification of
+the differential calculus which has just been given, some may be
+inclined to suggest a serious omission, since I have not subdivided each
+of its four essential parts according to another general consideration,
+which seems at first view very important; namely, that of the higher or
+lower order of differentiation. But it is easy to understand that this
+distinction has no real influence in the differential calculus, inasmuch
+as it does not give rise to any new difficulty. If, indeed, the
+differential calculus was not rigorously complete, that is, if we did
+not know how to differentiate at will any function whatever, the
+differentiation to the second or higher order of each determinate
+function might engender special difficulties. But the perfect
+universality of the differential calculus plainly gives us the assurance
+of being able to differentiate, to any order whatever, all known
+functions whatever, the question reducing itself to a constantly
+repeated differentiation of the first order. This distinction,
+unimportant as it is for the differential calculus, acquires, however, a
+very great importance in the integral calculus, on account of the
+extreme imperfection of the latter.
+
+
+_Analytical Applications._ Finally, though this is not the place to
+consider the various applications of the differential calculus, yet an
+exception may be made for those which consist in the solution of
+questions which are purely analytical, which ought, indeed, to be
+logically treated in continuation of a system of differentiation,
+because of the evident homogeneity of the considerations involved. These
+questions may be reduced to three essential ones.
+
+Firstly, the _development into series_ of functions of one or more
+variables, or, more generally, the transformation of functions, which
+constitutes the most beautiful and the most important application of the
+differential calculus to general analysis, and which comprises, besides
+the fundamental series discovered by Taylor, the remarkable series
+discovered by Maclaurin, John Bernouilli, Lagrange, &c.:
+
+Secondly, the general _theory of maxima and minima_ values for any
+functions whatever, of one or more variables; one of the most
+interesting problems which analysis can present, however elementary it
+may now have become, and to the complete solution of which the
+differential calculus naturally applies:
+
+Thirdly, the general determination of the true value of functions which
+present themselves under an _indeterminate_ appearance for certain
+hypotheses made on the values of the corresponding variables; which is
+the least extensive and the least important of the three.
+
+The first question is certainly the principal one in all points of view;
+it is also the most susceptible of receiving a new extension hereafter,
+especially by conceiving, in a broader manner than has yet been done,
+the employment of the differential calculus in the transformation of
+functions, on which subject Lagrange has left some valuable hints.
+
+       *       *       *       *       *
+
+Having thus summarily, though perhaps too briefly, considered the chief
+points in the differential calculus, I now proceed to an equally rapid
+exposition of a systematic outline of the Integral Calculus, properly so
+called, that is, the abstract subject of integration.
+
+
+
+
+THE INTEGRAL CALCULUS.
+
+
+_Its Fundamental Division._ The fundamental division of the Integral
+Calculus is founded on the same principle as that of the Differential
+Calculus, in distinguishing the integration of _explicit_ differential
+formulas, and the integration of _implicit_ differentials or of
+differential equations. The separation of these two cases is even much
+more profound in relation to integration than to differentiation. In the
+differential calculus, in fact, this distinction rests, as we have seen,
+only on the extreme imperfection of ordinary analysis. But, on the other
+hand, it is easy to see that, even though all equations could be
+algebraically resolved, differential equations would none the less
+constitute a case of integration quite distinct from that presented by
+the explicit differential formulas; for, limiting ourselves, for the
+sake of simplicity, to the first order, and to a single function _y_ of
+a single variable _x_, if we suppose any differential equation between
+_x_, _y_, and _dy/dx_, to be resolved with reference to _dy/dx_, the
+expression of the derived function being then generally found to contain
+the primitive function itself, which is the object of the inquiry, the
+question of integration will not have at all changed its nature, and the
+solution will not really have made any other progress than that of
+having brought the proposed differential equation to be of only the
+first degree relatively to the derived function, which is in itself of
+little importance. The differential would not then be determined in a
+manner much less _implicit_ than before, as regards the integration,
+which would continue to present essentially the same characteristic
+difficulty. The algebraic resolution of equations could not make the
+case which we are considering come within the simple integration of
+explicit differentials, except in the special cases in which the
+proposed differential equation did not contain the primitive function
+itself, which would consequently permit us, by resolving it, to find
+_dy/dx_ in terms of _x_ only, and thus to reduce the question to the
+class of quadratures. Still greater difficulties would evidently be
+found in differential equations of higher orders, or containing
+simultaneously different functions of several independent variables.
+
+The integration of differential equations is then necessarily more
+complicated than that of explicit differentials, by the elaboration of
+which last the integral calculus has been created, and upon which the
+others have been made to depend as far as it has been possible. All the
+various analytical methods which have been proposed for integrating
+differential equations, whether it be the separation of the variables,
+the method of multipliers, &c., have in fact for their object to reduce
+these integrations to those of differential formulas, the only one
+which, by its nature, can be undertaken directly. Unfortunately,
+imperfect as is still this necessary base of the whole integral
+calculus, the art of reducing to it the integration of differential
+equations is still less advanced.
+
+
+_Subdivisions: one variable or several._ Each of these two fundamental
+branches of the integral calculus is next subdivided into two others (as
+in the differential calculus, and for precisely analogous reasons),
+according as we consider functions with a _single variable_, or
+functions with _several independent variables_.
+
+This distinction is, like the preceding one, still more important for
+integration than for differentiation. This is especially remarkable in
+reference to differential equations. Indeed, those which depend on
+several independent variables may evidently present this characteristic
+and much more serious difficulty, that the desired function may be
+differentially defined by a simple relation between its different
+special derivatives relative to the different variables taken
+separately. Hence results the most difficult and also the most extensive
+branch of the integral calculus, which is commonly named the _Integral
+Calculus of partial differences_, created by D'Alembert, and in which,
+according to the just appreciation of Lagrange, geometers ought to have
+seen a really new calculus, the philosophical character of which has not
+yet been determined with sufficient exactness. A very striking
+difference between this case and that of equations with a single
+independent variable consists, as has been already observed, in the
+arbitrary functions which take the place of the simple arbitrary
+constants, in order to give to the corresponding integrals all the
+proper generality.
+
+It is scarcely necessary to say that this higher branch of
+transcendental analysis is still entirely in its infancy, since, even in
+the most simple case, that of an equation of the first order between the
+partial derivatives of a single function with two independent variables,
+we are not yet completely able to reduce the integration to that of the
+ordinary differential equations. The integration of functions of several
+variables is much farther advanced in the case (infinitely more simple
+indeed) in which it has to do with only explicit differential formulas.
+We can then, in fact, when these formulas fulfil the necessary
+conditions of integrability, always reduce their integration to
+quadratures.
+
+
+_Other Subdivisions: different Orders of Differentiation._ A new general
+distinction, applicable as a subdivision to the integration of explicit
+or implicit differentials, with one variable or several, is drawn from
+the _higher or lower order of the differentials_: a distinction which,
+as we have above remarked, does not give rise to any special question in
+the differential calculus.
+
+Relatively to _explicit differentials_, whether of one variable or of
+several, the necessity of distinguishing their different orders belongs
+only to the extreme imperfection of the integral calculus. In fact, if
+we could always integrate every differential formula of the first order,
+the integration of a formula of the second order, or of any other, would
+evidently not form a new question, since, by integrating it at first in
+the first degree, we would arrive at the differential expression of the
+immediately preceding order, from which, by a suitable series of
+analogous integrations, we would be certain of finally arriving at the
+primitive function, the final object of these operations. But the little
+knowledge which we possess on integration of even the first order causes
+quite another state of affairs, so that a higher order of differentials
+produces new difficulties; for, having differential formulas of any
+order above the first, it may happen that we may be able to integrate
+them, either once, or several times in succession, and that we may still
+be unable to go back to the primitive functions, if these preliminary
+labours have produced, for the differentials of a lower order,
+expressions whose integrals are not known. This circumstance must occur
+so much the oftener (the number of known integrals being still very
+small), seeing that these successive integrals are generally very
+different functions from the derivatives which have produced them.
+
+With reference to _implicit differentials_, the distinction of orders is
+still more important; for, besides the preceding reason, the influence
+of which is evidently analogous in this case, and is even greater, it is
+easy to perceive that the higher order of the differential equations
+necessarily gives rise to questions of a new nature. In fact, even if we
+could integrate every equation of the first order relating to a single
+function, that would not be sufficient for obtaining the final integral
+of an equation of any order whatever, inasmuch as every differential
+equation is not reducible to that of an immediately inferior order.
+Thus, for example, if we have given any relation between _x_, _y_,
+_dx/dy_, and _d_²_y_/_dx_², to determine a function _y_ of a variable
+_x_, we shall not be able to deduce from it at once, after effecting a
+first integration, the corresponding differential relation between _x_,
+_y_, and _dy/dx_, from which, by a second integration, we could ascend
+to the primitive equations. This would not necessarily take place, at
+least without introducing new auxiliary functions, unless the proposed
+equation of the second order did not contain the required function _y_,
+together with its derivatives. As a general principle, differential
+equations will have to be regarded as presenting cases which are more
+and more _implicit_, as they are of a higher order, and which cannot be
+made to depend on one another except by special methods, the
+investigation of which consequently forms a new class of questions, with
+respect to which we as yet know scarcely any thing, even for functions
+of a single variable.[10]
+
+  [Footnote 10: The only important case of this class which has thus
+  far been completely treated is the general integration of _linear_
+  equations of any order whatever, with constant coefficients. Even
+  this case finally depends on the algebraic resolution of equations
+  of a degree equal to the order of differentiation.]
+
+_Another equivalent distinction._ Still farther, when we examine more
+profoundly this distinction of different orders of differential
+equations, we find that it can be always made to come under a final
+general distinction, relative to differential equations, which remains
+to be noticed. Differential equations with one or more independent
+variables may contain simply a single function, or (in a case evidently
+more complicated and more implicit, which corresponds to the
+differentiation of simultaneous implicit functions) we may have to
+determine at the same time several functions from the differential
+equations in which they are found united, together with their different
+derivatives. It is clear that such a state of the question necessarily
+presents a new special difficulty, that of separating the different
+functions desired, by forming for each, from the proposed differential
+equations, an isolated differential equation which does not contain the
+other functions or their derivatives. This preliminary labour, which is
+analogous to the elimination of algebra, is evidently indispensable
+before attempting any direct integration, since we cannot undertake
+generally (except by special artifices which are very rarely applicable)
+to determine directly several distinct functions at once.
+
+Now it is easy to establish the exact and necessary coincidence of this
+new distinction with the preceding one respecting the order of
+differential equations. We know, in fact, that the general method for
+isolating functions in simultaneous differential equations consists
+essentially in forming differential equations, separately in relation to
+each function, and of an order equal to the sum of all those of the
+different proposed equations. This transformation can always be
+effected. On the other hand, every differential equation of any order in
+relation to a single function might evidently always be reduced to the
+first order, by introducing a suitable number of auxiliary differential
+equations, containing at the same time the different anterior
+derivatives regarded as new functions to be determined. This method has,
+indeed, sometimes been actually employed with success, though it is not
+the natural one.
+
+Here, then, are two necessarily equivalent orders of conditions in the
+general theory of differential equations; the simultaneousness of a
+greater or smaller number of functions, and the higher or lower order of
+differentiation of a single function. By augmenting the order of the
+differential equations, we can isolate all the functions; and, by
+artificially multiplying the number of the functions, we can reduce all
+the equations to the first order. There is, consequently, in both cases,
+only one and the same difficulty from two different points of sight.
+But, however we may conceive it, this new difficulty is none the less
+real, and constitutes none the less, by its nature, a marked separation
+between the integration of equations of the first order and that of
+equations of a higher order. I prefer to indicate the distinction under
+this last form as being more simple, more general, and more logical.
+
+
+_Quadratures._ From the different considerations which have been
+indicated respecting the logical dependence of the various principal
+parts of the integral calculus, we see that the integration of explicit
+differential formulas of the first order and of a single variable is the
+necessary basis of all other integrations, which we never succeed in
+effecting but so far as we reduce them to this elementary case,
+evidently the only one which, by its nature, is capable of being treated
+directly. This simple fundamental integration is often designated by the
+convenient expression of _quadratures_, seeing that every integral of
+this kind, S_f_(_x_)_dx_, may, in fact, be regarded as representing the
+area of a curve, the equation of which in rectilinear co-ordinates would
+be _y_ = _f_(_x_). Such a class of questions corresponds, in the
+differential calculus, to the elementary case of the differentiation of
+explicit functions of a single variable. But the integral question is,
+by its nature, very differently complicated, and especially much more
+extensive than the differential question. This latter is, in fact,
+necessarily reduced, as we have seen, to the differentiation of the ten
+simple functions, the elements of all which are considered in analysis.
+On the other hand, the integration of compound functions does not
+necessarily follow from that of the simple functions, each combination
+of which may present special difficulties with respect to the integral
+calculus. Hence results the naturally indefinite extent, and the so
+varied complication of the question of _quadratures_, upon which, in
+spite of all the efforts of analysts, we still possess so little
+complete knowledge.
+
+In decomposing this question, as is natural, according to the different
+forms which may be assumed by the derivative function, we distinguish
+the case of _algebraic_ functions and that of _transcendental_
+functions.
+
+_Integration of Transcendental Functions._ The truly analytical
+integration of transcendental functions is as yet very little advanced,
+whether for _exponential_, or for _logarithmic_, or for _circular_
+functions. But a very small number of cases of these three different
+kinds have as yet been treated, and those chosen from among the
+simplest; and still the necessary calculations are in most cases
+extremely laborious. A circumstance which we ought particularly to
+remark in its philosophical connection is, that the different procedures
+of quadrature have no relation to any general view of integration, and
+consist of simple artifices very incoherent with each other, and very
+numerous, because of the very limited extent of each.
+
+One of these artifices should, however, here be noticed, which, without
+being really a method of integration, is nevertheless remarkable for its
+generality; it is the procedure invented by John Bernouilli, and known
+under the name of _integration by parts_, by means of which every
+integral may be reduced to another which is sometimes found to be more
+easy to be obtained. This ingenious relation deserves to be noticed for
+another reason, as having suggested the first idea of that
+transformation of integrals yet unknown, which has lately received a
+greater extension, and of which M. Fourier especially has made so new
+and important a use in the analytical questions produced by the theory
+of heat.
+
+_Integration of Algebraic Functions._ As to the integration of algebraic
+functions, it is farther advanced. However, we know scarcely any thing
+in relation to irrational functions, the integrals of which have been
+obtained only in extremely limited cases, and particularly by rendering
+them rational. The integration of rational functions is thus far the
+only theory of the integral calculus which has admitted of being treated
+in a truly complete manner; in a logical point of view, it forms, then,
+its most satisfactory part, but perhaps also the least important. It is
+even essential to remark, in order to have a just idea of the extreme
+imperfection of the integral calculus, that this case, limited as it is,
+is not entirely resolved except for what properly concerns integration
+viewed in an abstract manner; for, in the execution, the theory finds
+its progress most frequently quite stopped, independently of the
+complication of the calculations, by the imperfection of ordinary
+analysis, seeing that it makes the integration finally depend upon the
+algebraic resolution of equations, which greatly limits its use.
+
+To grasp in a general manner the spirit of the different procedures
+which are employed in quadratures, we must observe that, by their
+nature, they can be primitively founded only on the differentiation of
+the ten simple functions. The results of this, conversely considered,
+establish as many direct theorems of the integral calculus, the only
+ones which can be directly known. All the art of integration afterwards
+consists, as has been said in the beginning of this chapter, in reducing
+all the other quadratures, so far as is possible, to this small number
+of elementary ones, which unhappily we are in most cases unable to
+effect.
+
+_Singular Solutions._ In this systematic enumeration of the various
+essential parts of the integral calculus, considered in their logical
+relations, I have designedly neglected (in order not to break the chain
+of sequence) to consider a very important theory, which forms implicitly
+a portion of the general theory of the integration of differential
+equations, but which I ought here to notice separately, as being, so to
+speak, outside of the integral calculus, and being nevertheless of the
+greatest interest, both by its logical perfection and by the extent of
+its applications. I refer to what are called _Singular Solutions_ of
+differential equations, called sometimes, but improperly, _particular_
+solutions, which have been the subject of very remarkable investigations
+by Euler and Laplace, and of which Lagrange especially has presented
+such a beautiful and simple general theory. Clairaut, who first had
+occasion to remark their existence, saw in them a paradox of the
+integral calculus, since these solutions have the peculiarity of
+satisfying the differential equations without being comprised in the
+corresponding general integrals. Lagrange has since explained this
+paradox in the most ingenious and most satisfactory manner, by showing
+how such solutions are always derived from the general integral by the
+variation of the arbitrary constants. He was also the first to suitably
+appreciate the importance of this theory, and it is with good reason
+that he devoted to it so full a development in his "Calculus of
+Functions." In a logical point of view, this theory deserves all our
+attention by the character of perfect generality which it admits of,
+since Lagrange has given invariable and very simple procedures for
+finding the _singular_ solution of any differential equation which is
+susceptible of it; and, what is no less remarkable, these procedures
+require no integration, consisting only of differentiations, and are
+therefore always applicable. Differentiation has thus become, by a
+happy artifice, a means of compensating, in certain circumstances, for
+the imperfection of the integral calculus. Indeed, certain problems
+especially require, by their nature, the knowledge of these _singular_
+solutions; such, for example, in geometry, are all the questions in
+which a curve is to be determined from any property of its tangent or
+its osculating circle. In all cases of this kind, after having expressed
+this property by a differential equation, it will be, in its analytical
+relations, the _singular_ equation which will form the most important
+object of the inquiry, since it alone will represent the required curve;
+the general integral, which thenceforth it becomes unnecessary to know,
+designating only the system of the tangents, or of the osculating
+circles of this curve. We may hence easily understand all the importance
+of this theory, which seems to me to be not as yet sufficiently
+appreciated by most geometers.
+
+_Definite Integrals._ Finally, to complete our review of the vast
+collection of analytical researches of which is composed the integral
+calculus, properly so called, there remains to be mentioned one theory,
+very important in all the applications of the transcendental analysis,
+which I have had to leave outside of the system, as not being really
+destined for veritable integration, and proposing, on the contrary, to
+supply the place of the knowledge of truly analytical integrals, which
+are most generally unknown. I refer to the determination of _definite
+integrals_.
+
+The expression, always possible, of integrals in infinite series, may at
+first be viewed as a happy general means of compensating for the extreme
+imperfection of the integral calculus. But the employment of such
+series, because of their complication, and of the difficulty of
+discovering the law of their terms, is commonly of only moderate utility
+in the algebraic point of view, although sometimes very essential
+relations have been thence deduced. It is particularly in the
+arithmetical point of view that this procedure acquires a great
+importance, as a means of calculating what are called _definite
+integrals_, that is, the values of the required functions for certain
+determinate values of the corresponding variables.
+
+An inquiry of this nature exactly corresponds, in transcendental
+analysis, to the numerical resolution of equations in ordinary analysis.
+Being generally unable to obtain the veritable integral--named by
+opposition the _general_ or _indefinite_ integral; that is, the function
+which, differentiated, has produced the proposed differential
+formula--analysts have been obliged to employ themselves in determining
+at least, without knowing this function, the particular numerical values
+which it would take on assigning certain designated values to the
+variables. This is evidently resolving the arithmetical question without
+having previously resolved the corresponding algebraic one, which most
+generally is the most important one. Such an analysis is, then, by its
+nature, as imperfect as we have seen the numerical resolution of
+equations to be. It presents, like this last, a vicious confusion of
+arithmetical and algebraic considerations, whence result analogous
+inconveniences both in the purely logical point of view and in the
+applications. We need not here repeat the considerations suggested in
+our third chapter. But it will be understood that, unable as we almost
+always are to obtain the true integrals, it is of the highest importance
+to have been able to obtain this solution, incomplete and necessarily
+insufficient as it is. Now this has been fortunately attained at the
+present day for all cases, the determination of the value of definite
+integrals having been reduced to entirely general methods, which leave
+nothing to desire, in a great number of cases, but less complication in
+the calculations, an object towards which are at present directed all
+the special transformations of analysts. Regarding now this sort of
+_transcendental arithmetic_ as perfect, the difficulty in the
+applications is essentially reduced to making the proposed research
+depend, finally, on a simple determination of definite integrals, which
+evidently cannot always be possible, whatever analytical skill may be
+employed in effecting such a transformation.
+
+
+_Prospects of the Integral Calculus._ From the considerations indicated
+in this chapter, we see that, while the differential calculus
+constitutes by its nature a limited and perfect system, to which nothing
+essential remains to be added, the integral calculus, or the simple
+system of integration, presents necessarily an inexhaustible field for
+the activity of the human mind, independently of the indefinite
+applications of which the transcendental analysis is evidently
+susceptible. The general argument by which I have endeavoured, in the
+second chapter, to make apparent the impossibility of ever discovering
+the algebraic solution of equations of any degree and form whatsoever,
+has undoubtedly infinitely more force with regard to the search for a
+single method of integration, invariably applicable to all cases. "It
+is," says Lagrange, "one of those problems whose general solution we
+cannot hope for." The more we meditate on this subject, the more we
+will be convinced that such a research is utterly chimerical, as being
+far above the feeble reach of our intelligence; although the labours of
+geometers must certainly augment hereafter the amount of our knowledge
+respecting integration, and thus create methods of greater generality.
+The transcendental analysis is still too near its origin--there is
+especially too little time since it has been conceived in a truly
+rational manner--for us now to be able to have a correct idea of what it
+will hereafter become. But, whatever should be our legitimate hopes, let
+us not forget to consider, before all, the limits which are imposed by
+our intellectual constitution, and which, though not susceptible of a
+precise determination, have none the less an incontestable reality.
+
+I am induced to think that, when geometers shall have exhausted the most
+important applications of our present transcendental analysis, instead
+of striving to impress upon it, as now conceived, a chimerical
+perfection, they will rather create new resources by changing the mode
+of derivation of the auxiliary quantities introduced in order to
+facilitate the establishment of equations, and the formation of which
+might follow an infinity of other laws besides the very simple relation
+which has been chosen, according to the conception suggested in the
+first chapter. The resources of this nature appear to me susceptible of
+a much greater fecundity than those which would consist of merely
+pushing farther our present calculus of indirect functions. It is a
+suggestion which I submit to the geometers who have turned their
+thoughts towards the general philosophy of analysis.
+
+Finally, although, in the summary exposition which was the object of
+this chapter, I have had to exhibit the condition of extreme
+imperfection which still belongs to the integral calculus, the student
+would have a false idea of the general resources of the transcendental
+analysis if he gave that consideration too great an importance. It is
+with it, indeed, as with ordinary analysis, in which a very small amount
+of fundamental knowledge respecting the resolution of equations has been
+employed with an immense degree of utility. Little advanced as geometers
+really are as yet in the science of integrations, they have nevertheless
+obtained, from their scanty abstract conceptions, the solution of a
+multitude of questions of the first importance in geometry, in
+mechanics, in thermology, &c. The philosophical explanation of this
+double general fact results from the necessarily preponderating
+importance and grasp of _abstract_ branches of knowledge, the least of
+which is naturally found to correspond to a crowd of _concrete_
+researches, man having no other resource for the successive extension of
+his intellectual means than in the consideration of ideas more and more
+abstract, and still positive.
+
+       *       *       *       *       *
+
+In order to finish the complete exposition of the philosophical
+character of the transcendental analysis, there remains to be considered
+a final conception, by which the immortal Lagrange has rendered this
+analysis still better adapted to facilitate the establishment of
+equations in the most difficult problems, by considering a class of
+equations still more _indirect_ than the ordinary differential
+equations. It is the _Calculus_, or, rather, the _Method of Variations_;
+the general appreciation of which will be our next subject.
+
+
+
+

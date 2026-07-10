@@ -1,0 +1,361 @@
+XIV
+
+NEW CONCEPTS FOR OLD
+
+What the World Looks Like After Einstein Has Had His Way With It
+
+BY JOHN G. McHARDY, COMMANDER R.N.,
+LONDON
+
+                   "The new-created world, which fame in heaven
+                    Long had foretold, a fabric wonderful,
+                    Of absolute perfection."
+
+
+Einstein's Theory of Relativity has led to determining a key law
+of nature--the law of gravitation--which is also the basic law of
+mechanics. Thus it embraces a whole realm of physics, and promises,
+through the researches of Professor Weyl, to embrace another
+realm--electro-dynamics. Its limitations are not yet reached, for
+Einstein has already postulated therefrom a theory of a finite, yet
+unbounded, universe. This essay, however, is mainly concerned with
+mechanics, and electrical forces are not considered.
+
+To have synthesised Newton's two great principles--his law of motion
+and law of gravitation--interpreting in the process the empirical law
+of equality of gravitational and inertial mass, is alone an immense
+achievement; but Einstein's researches have opened up a new world
+to the physicist and philosopher which is of greater importance. He
+has given us a vision of the immaterial world, a geometrical or
+mathematical vision, which is more satisfying than the "ether"
+conceptions hitherto presented. The fabric of his vision is not
+baseless. It is this fabric we shall consider, touching on certain
+aspects of the Einstein theory in the endeavor to present an image in
+miniature of his edifice of thought and to show the firmness of its
+foundations. That they are well and truly laid was demonstrated by
+the verification, from observations made during the solar eclipse in
+1919, of Einstein's prediction of the displacement of a wave of light
+in a gravitational field, showing light to have the property of weight.
+
+The physical world is shown by Einstein to be a world of
+"relations." Underlying it there is an absolute world of which physical
+phenomena are the manifestation. "Give me matter and motion," says
+Descartes, "and I will construct the world." "Give me a world in
+which there are ordered relations," says the Relativist, "and I will
+show you the behavior of matter therein" (mechanics). We first view
+this underlying world as an abstraction, abstracting energy ("bound"
+as in matter and electrons, "free" as in light), and its attribute
+force. This abstraction we will call the "World-Frame." Later, we
+will study the underlying world in connection with energy, and will
+call this absolute world the "World-Fabric." The connection between
+the geometrical character of the World-Frame and the geometrical
+characters of the World-Fabric is the key to the law of gravitation.
+
+
+
+
+THE WORLD-FRAME
+
+This is our conception of a world, if such were possible, entirely free
+from the influence of energy. We may conceive of it as an amorphous
+immaterial something containing "point-events" (a point-event
+being an instant of time at a point in space--a conception, not a
+definition). These point-events have a fourfold order and definite
+relation in this Frame, i.e. they can be specified by four variables
+or coordinates in reference to some base called a reference system,
+with respect to which they are forward or backward, right or left,
+above or below, sooner or later. This shows the World-Frame to be
+four-dimensional. Thus an aggregate of point-events (or an "event,"
+which implies limited extension in space and limited duration
+in time) [7] would have what we familiarly describe as length,
+breadth, height and time. To express these metrical properties most
+simply we must choose a four-dimensional reference system having
+a particular form--rectilinear axes (Cartesian coordinates), and a
+particular motion--uniform and rectilinear, i.e. unaccelerated, and
+non-rotating with respect to the path of a light ray. We call this
+an inertial system because Newton's Law of Inertia holds for such
+a system alone. This system indicates how observers partition the
+World-Frame into space and time. It restricts observers to uniform
+rectilinear motion, and observations to bodies and light-pulses in
+such motion. Thus gravitational and other forces are discounted,
+and we obtain World-Frame conditions notwithstanding the fact that
+observers are in the presence of energy.
+
+Now the separation between point-events which have a definite relation
+to each other must be absolute. The separation between two points in
+a plane is defined by the unique distance between them (the straight
+line joining them). Between point-events the analogue of this unique
+distance, which we call the "separation-interval" (to indicate its
+time-like and space-like nature), is also unique. Its unique and
+absolute character give it great importance as thereby it is the same
+for all observers regardless of their reference system.
+
+If, in place of the rather cumbersome expression $X-x$ to indicate
+the difference between the $x$-coordinates of two points, we employ
+the more compact expression $dx$; if for the benefit of readers who
+have a little algebra but no analysis we state explicitly that this
+expression is a single symbol for a single quantity, and has nothing
+to do with any product of two quantities $d$ and $x$; and if we
+extend this notation to all our coordinates: then it is clear from
+previous essays that the distance $S$ between two points in a plane
+referred to a rectilinear system $OX$, $OY$, is given by the simple
+equation $S^2 = (dx)^2 + (dy)^2$. Einstein and Minkowski show that
+the value for the separation interval $\Omega$, the analogue of $S$,
+referred to an inertial system is given by the equation
+
+    $$\Omega^2 = (dx)^2 + (dy)^2 + (dz)^2 - (dt)^2\,,$$
+
+which is seen to be a modified extension to four dimensions of the
+equation for $S$. We must measure $t$ in the same units as $x$, $y$,
+$z$. By taking the constant velocity of light (300,000 kilometres
+per second) as unit velocity, we can measure in length or time
+indiscriminately. [8]
+
+We will analyse briefly this equation as it epitomizes the Special
+Theory of Relativity. If the World-Frame had been Euclidean the
+equation would have been
+
+    $$\Omega^2 = (dx)^2 + (dy)^2 + (dz)^2 + (dt)^2$$
+
+but this would not satisfy the "transformation equations" which
+resulted from the Special Theory. These transformation equations
+arose directly from a reconciliation between two observed facts; (a)
+the observed agreement of all natural phenomena with the "Restricted
+Principle of Relativity"--a principle which shows that absolute
+rectilinear motion cannot be established--(as regards mechanics this
+was recognized by Newton; the Michelson-Morley and other experiments
+showed this principle also applied to optical and electro-dynamical
+phenomena); and (b) the observed disagreement of optical and
+electro-dynamical phenomena (notably the constancy of light velocity)
+with the laws of dynamics as given by classical mechanics, e.g., in
+regard to the compounding of relative velocities. Einstein effected
+this reconciliation by detecting a flaw in classical mechanics. He
+showed that by regarding space and time measurements as relative
+to the observer--not absolute as Newton defined them--there was
+nothing incompatible between the Principle of Relativity and the
+laws of dynamics so modified. Newton's definitions were founded on
+conception. Einstein's recognition of the relativity of space and
+time is based on observation.
+
+Equation (1) shows that the geometry of the World-Frame referred to
+an inertial system is semi-Euclidean (hyperbolic), and that space and
+time measurements are relative to the observer's inertial reference
+system. The equation shows that the World-Frame has a certain
+geometrical character which we distinguish as four-dimensional
+"flatness." It is everywhere alike (homaloidal). Its flat character
+is shown by the straight line nature of the separation-interval and
+of the system to which it is most simply referred.
+
+Thus we have found two absolute features in the World-Frame--(1) Its
+geometrical character--"flatness"; (2) The separation-interval--which
+can be expressed in terms of measurable variables called space and time
+partitions, this partitioning being dependent on the observer's motion.
+
+We are now in a position to explore the World-Fabric. Already we see
+that, studied under inertial conditions (free of force), it agrees
+with the World-Frame.
+
+
+
+
+THE WORLD-FABRIC
+
+The General Theory of relativity is largely concerned with the
+investigation of the World-Fabric. Consider the World-Frame to be
+disturbed. We may regard this disturbance, which manifests itself in
+physical phenomena, as energy, or more correctly "action."
+
+When energy is thwarted in its natural flow, force is manifested,
+with which are associated non-uniform motions such as accelerations
+and rotations. This disturbed World-Frame we distinguish as the
+World-Fabric. It is found to have various non-Euclidean characters
+differing from the simple "flat" character of the World-Frame according
+to the degree of disturbance (action) in the region. Disturbance
+gives the fabric a geometrical character of "curvature"; the more
+considerable the disturbance, the greater the curvature. Thus an
+empty region (not containing energy, but under its influence) has
+less curvature than a region in which free energy abounds.
+
+Our problem, after showing the relativity of force (especially
+gravitational force), is to determine the law underlying the fabric's
+geometrical character; to ascertain how the degree of curvature is
+related to the energy influencing a region, and how the curvature of
+one region is linked by differential equations to that of neighboring
+regions. Such a law will be seen to be the law of gravitation.
+
+We study the World-Fabric by considering tracks on which material
+particles and light-pulses progress; we find such tracks regulated
+and defined by the Fabric's curvature, and not, as hitherto supposed,
+by attractive force inherent in matter. As a track is measurable by
+summing the separation-intervals between near-by point-events on it,
+all observers will agree which is the unique track between two distant
+point-events. Einstein postulates that freely progressing bodies
+will follow unique tracks, which are therefore called natural tracks
+(geodesics).
+
+If material bodies are prevented from following natural tracks by
+contact with matter or other causes, the phenomenon of gravitational
+force is manifested relative to them. Whenever the natural flow
+of energy is interrupted force is born. For example, when the
+piston interrupts the flow of steam, or golf ball flow of club,
+force results--the interruption is mutual, and the force relative
+to both. Likewise when the earth interrupts the natural track of a
+particle (or observer) gravitational force is manifested relative
+to both.
+
+So long as a body moves freely no force is appreciated by it. A
+falling aviator (neglecting air resistance) will not appreciate any
+gravitational force. He follows a natural track, thereby freeing
+himself from the force experienced in contact with matter. He
+acquires an accelerating motion with respect to an inertial system. By
+acquiring a particular accelerating motion an observer can annul any
+force experienced in any small region where the field of force can
+be considered constant.
+
+Thus Einstein, interpreting the equality of gravitational and inertial
+mass, showed that the same quality manifests itself according to
+circumstances as "weight" or as inertia, and that all force is purely
+relative and may be treated as one phenomenon (an interruption in
+energy flow). This "Principle of Equivalence" shows that small portions
+of the World-Fabric, observed from a freely moving particle (free of
+force), could be treated as small portions of the World-Frame. [9]
+
+If such observations were practicable, we could determine the Fabric
+curvature by referring point-event measurements to equation (1). We
+cannot observe from unique tracks but we can observe them from our
+restrained situation. Their importance is now apparent, because, by
+tracing them over a region, we are tracing something absolute in the
+Fabric--its geometrical character. We study this curvature by exploring
+separation-intervals on the tracks of freely moving bodies, relating
+these separation-intervals to actual measurements in terms of space
+and time components depending on the observer's reference system. The
+law of curvature must be the law of gravitation. To illustrate the
+lines on which Einstein proceeded to survey the World-Fabric from
+the earth we will consider a similar but more simple problem--the
+survey of the sea-surface curvature from an airship. We study this
+curvature by exploring small distances on the tracks of ships (which we
+must suppose can only move uniformly on unique tracks--arcs of great
+circles), relating such distances to actual measurements in terms of
+length and breadth components depending on the observer's reference
+system. This two-dimensional surface problem can be extended to the
+four-dimensional Fabric one.
+
+We consider the surface to be covered by two arbitrarily drawn
+intersecting series of curves: curves in one series not intersecting
+each other, vide figure. This Gaussian system of coordinates is
+appropriate only when the smaller the surface considered, the
+more nearly it approximates to Euclidean conditions. It admits of
+defining any point on the surface by two numbers indicating the curves
+intersecting at that point. $P$ is defined by $x_1$, $x_2$. $P_1$
+(very near $P$) is defined by $x_1 + dx_1$, $x_2 + dx_2$. The equation
+for the minute distance $s$ between two adjacent points in such a
+system is given by the general formula
+
+    $$s^2 = g_{11}d{x_1}^2 + g_{12}dx_1dx_2 + g_{22}d{x_2}^2\,.$$
+
+The $g$'s may be constants or functions of $x_1$, $x_2$. Their
+value is dependent on the observer's reference system and on the
+geometrical character of the surface observed. The curves being
+arbitrary, the formula is appropriate for any reference system,
+or even if the observer does not know exactly what his reference
+system is. (The Fabric observer does not know what his space and time
+partitioning actually is because he is in a gravitational field). It
+is the $g$'s which disclose the geometry of an observer's partitions,
+and their values also contain a reflection of the character of the
+region observed.
+
+We find $s$ by direct exploration with a moving ship ($\Omega$ is found
+by direct exploration with a freely moving particle); $dx_1$, $dx_2$
+are the observed length and breadth measurement differences which we
+have to relate to $s$. By making sufficient observations in a small
+area and referring them to the general formula we can find the values
+of the $g$'s for the observer's particular reference system. Different
+values for $g$'s will be found if the observer changes his reference
+system, but there is a limitation to the values so obtainable owing to
+the part played by the surface itself, which is diffidently expressing
+its intrinsic geometrical character in the $g$'s in each observation.
+
+
+
+
+EINSTEIN'S RESULTS
+
+Thus we approach the absolute character of the surface through
+the relative nature of the observer's reference system. There is a
+relationship common to all values of the $g$'s that belong to the
+same curvature. This relationship is expressed by a differential
+equation. It is this equation of curvature that the airship's observer
+must find. Einstein's problem was similar, but he was concerned with
+four dimensions, which entailed a general formula with ten $g$'s,
+and he had to find a set of differential equations of the second
+order to determine the law of Fabric curvature. He divided the Fabric
+into regions: I. World-Frame--beyond influence of energy. II. Empty
+region--free of energy, but under its influence. III. Region containing
+free energy only. Each region has a characteristic curvature. By
+means of an absolute differential calculus--a wonderful mathematical
+scaffolding erected by Riemann, Christoffel and others--involving the
+theory of tensors, he succeeded in finding such a set of equations. He
+kept the following points in view: (1) The equations must not only
+give the character of region II, but must satisfy the special case
+of region I; (2) They must be independent of any partitioning system,
+because the General Theory of Relativity demands that a law of nature
+be in a form appropriate for all observers whatever their position
+and motion; (3) They must be concerned with energy which is conserved,
+not mass which the Special Theory showed dependent on velocity. This
+set of differential equations which shows how the curvature of the
+Fabric at any point links to the curvature at neighboring points is
+the law of gravitation, a law which has been severely tested by the
+practical observation of the solar eclipse already referred to. At a
+first approximation these equations degenerate into Newton's Law. At
+a second approximation they account for the motion of the perihelion
+of Mercury, which had hitherto baffled astronomers. All the laws
+of mechanics are deducible from this law of World-Fabric curvature,
+i.e. conservation of energy (which includes conservation of mass since
+we re-define mass as energy) and conservation of momentum (re-defined
+by a relativist). It must be noted that this law and the General
+Theory show that the velocity of light is not absolutely constant,
+but, like everything else, a light-pulse is affected by the Fabric
+curvature in a gravitational field. In conclusion we will contrast
+some conspicuous differences in the old world view of classical
+mechanics and the new view presented by Einstein.
+
+1. A three-dimensional ether medium with variously conceived properties
+which communicated the supposed inherent attractive force in matter
+in some unexplained way, and transmitted electromagnetic waves,
+has been replaced by a four-dimensional external World-Fabric, the
+geometrical character of which controls the motion of matter (energy)
+and accounts for all mechanical laws.
+
+2. After separating the observer's subjective share in definitions
+from nature's share in the things defined, space, time, and force,
+hitherto regarded as absolute, have been shown to be purely relative
+and dependent on the observer's track. Mass has also proved to be
+relative to velocity unless re-defined as energy. As classical
+mechanics bases all definitions on space, time, and mass units,
+the relativity of such defined quantities is now apparent.
+
+3. Newton's laws of motion, his law of gravitation, and the laws of
+conservation, hitherto regarded as unrelated, are now synthesised in
+a basic law of mechanics.
+
+Einstein has not disturbed the electric theory of matter, and both the
+old and new physics have in common the "Principle of Least Action." We
+obtain a glimpse of this principle in the unique tracks pursued by
+freely moving bodies, which may be regarded as tracks of least effort,
+force only being manifested as an expression of the Fabric's resentment
+when bodies depart from these natural tracks. Einstein has approached
+nearer to the truth in regard to the laws underlying nature, and,
+as always, this means a simplification. His theory, which entails
+a readjustment of such fundamental conceptions as space and time,
+opens up fresh fields to scientific investigation and to philosophic
+thought. It reveals a bridge uniting the domains of physics and
+philosophy, and it heralds a new era in the history of science.
+
+
+
+
+
+
+
+
+

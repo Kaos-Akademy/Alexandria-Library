@@ -1,0 +1,1344 @@
+CHAPTER VII.
+
+INDUCTION.
+
+
+We enter in this chapter upon the second great department of logical
+method, that of Induction or the Inference of general from particular
+truths. It cannot be said that the Inductive process is of greater
+importance than the Deductive process already considered, because the
+latter process is absolutely essential to the existence of the former.
+Each is the complement and counterpart of the other. The principles
+of thought and existence which underlie them are at the bottom the
+same, just as subtraction of numbers necessarily rests upon the same
+principles as addition. Induction is, in fact, the inverse operation of
+deduction, and cannot be conceived to exist without the corresponding
+operation, so that the question of relative importance cannot arise.
+Who thinks of asking whether addition or subtraction is the more
+important process in arithmetic? But at the same time much difference
+in difficulty may exist between a direct and inverse operation; the
+integral calculus, for instance, is infinitely more difficult than the
+differential calculus of which it is the inverse. Similarly, it must
+be allowed that inductive investigations are of a far higher degree of
+difficulty and complexity than any questions of deduction; and it is
+this fact no doubt which led some logicians, such as Francis Bacon,
+Locke, and J. S. Mill, to erroneous opinions concerning the exclusive
+importance of induction.
+
+Hitherto we have been engaged in considering how from certain
+conditions, laws, or identities governing the combinations of
+qualities, we may deduce the nature of the combinations agreeing
+with those conditions. Our work has been to unfold the results of
+what is contained in any statements, and the process has been one of
+*Synthesis*. The terms or combinations of which the character has been
+determined have usually, though by no means always, involved more
+qualities, and therefore, by the relation of extension and intension,
+fewer objects than the terms in which they were described. The truths
+inferred were thus usually less general than the truths from which they
+were inferred.
+
+In induction all is inverted. The truths to be ascertained are more
+general than the data from which they are drawn. The process by which
+they are reached is *analytical*, and consists in separating the
+complex combinations in which natural phenomena are presented to us,
+and determining the relations of separate qualities. Given events
+obeying certain unknown laws, we have to discover the laws obeyed.
+Instead of the comparatively easy task of finding what effects will
+follow from a given law, the effects are now given and the law is
+required. We have to interpret the will by which the conditions of
+creation were laid down.
+
+
+*Induction an Inverse Operation*
+
+I have already asserted that induction is the inverse operation of
+deduction, but the difference is one of such great importance that I
+must dwell upon it. There are many cases in which we can easily and
+infallibly do a certain thing but may have much trouble in undoing
+it. A person may walk into the most complicated labyrinth or the
+most extensive catacombs, and turn hither and thither at his will;
+it is when he wishes to return that doubt and difficulty commence.
+In entering, any path served him; in leaving, he must select certain
+definite paths, and in this selection he must either trust to memory
+of the way he entered or else make an exhaustive trial of all possible
+ways. The explorer entering a new country makes sure his line of return
+by barking the trees.
+
+The same difficulty arises in many scientific processes. Given any
+two numbers, we may by a simple and infallible process obtain their
+product; but when a large number is given it is quite another
+matter to determine its factors. Can the reader say what two numbers
+multiplied together will produce the number 8,616,460,799? I think it
+unlikely that anyone but myself will ever know; for they are two large
+prime numbers, and can only be rediscovered by trying in succession
+a long series of prime divisors until the right one be fallen upon.
+The work would probably occupy a good computer for many weeks, but it
+did not occupy me many minutes to multiply the two factors together.
+Similarly there is no direct process for discovering whether any number
+is a prime or not; it is only by exhaustively trying all inferior
+numbers which could be divisors, that we can show there is none, and
+the labour of the process would be intolerable were it not performed
+systematically once for all in the process known as the Sieve of
+Eratosthenes, the results being registered in tables of prime numbers.
+
+The immense difficulties which are encountered in the solution of
+algebraic equations afford another illustration. Given any algebraic
+factors, we can easily and infallibly arrive at the product; but given
+a product it is a matter of infinite difficulty to resolve it into
+factors. Given any series of quantities however numerous, there is very
+little trouble in making an equation which shall have those quantities
+as roots. Let *a*, *b*, *c*, *d*, &c., be the quantities; then
+
+  (*x* - *a*)(*x* - *b*)(*x* - *c*)(*x* - d) ... = 0
+
+is the equation required, and we only need to multiply out the
+expression on the left hand by ordinary rules. But having given a
+complex algebraic expression equated to zero, it is a matter of
+exceeding difficulty to discover all the roots. Mathematicians have
+exhausted their highest powers in carrying the complete solution up to
+the fourth degree. In every other mathematical operation the inverse
+process is far more difficult than the direct process, subtraction than
+addition, division than multiplication, evolution than involution;
+but the difficulty increases vastly as the process becomes more
+complex. Differentiation, the direct process, is always capable of
+performance by fixed rules, but as these rules produce considerable
+variety of results, the inverse process of integration presents
+immense difficulties, and in an infinite majority of cases surpasses
+the present resources of mathematicians. There are no infallible and
+general rules for its accomplishment; it must be done by trial, by
+guesswork, or by remembering the results of differentiation, and using
+them as a guide.
+
+Coming more nearly to our own immediate subject, exactly the same
+difficulty exists in determining the law which certain things obey.
+Given a general mathematical expression, we can infallibly ascertain
+its value for any required value of the variable. But I am not aware
+that mathematicians have ever attempted to lay down the rules of a
+process by which, having given certain numbers, one might discover a
+rational or precise formula from which they proceed. The reader may
+test his power of detecting a law, by contemplation of its results, if
+he, not being a mathematician, will attempt to point out the law obeyed
+by the following numbers:
+
+  1/6, 1/30, 1/42, 1/30, 5/66, 691/2730, 7/6, 3617/510, 43867/798, etc.
+
+These numbers are sometimes in low terms, but unexpectedly spring up
+to high terms; in absolute magnitude they are very variable. They seem
+to set all regularity and method at defiance, and it is hardly to be
+supposed that anyone could, from contemplation of the numbers, have
+detected the relations between them. Yet they are derived from the
+most regular and symmetrical laws of relation, and are of the highest
+importance in mathematical analysis, being known as the numbers of
+Bernoulli.
+
+Compare again the difficulty of decyphering with that of cyphering.
+Anyone can invent a secret language, and with a little steady labour
+can translate the longest letter into the character. But to decypher
+the letter, having no key to the signs adopted, is a wholly different
+matter. As the possible modes of secret writing are infinite in number
+and exceedingly various in kind, there is no direct mode of discovery
+whatever. Repeated trial, guided more or less by knowledge of the
+customary form of cypher, and resting entirely on the principles of
+probability and logical induction, is the only resource. A peculiar
+tact or skill is requisite for the process, and a few men, such as
+Wallis or Wheatstone, have attained great success.
+
+Induction is the decyphering of the hidden meaning of natural
+phenomena. Given events which happen in certain definite combinations,
+we are required to point out the laws which govern those combinations.
+Any laws being supposed, we can, with ease and certainty, decide
+whether the phenomena obey those laws. But the laws which may exist
+are infinite in variety, so that the chances are immensely against
+mere random guessing. The difficulty is much increased by the fact
+that several laws will usually be in operation at the same time, the
+effects of which are complicated together. The only modes of discovery
+consist either in exhaustively trying a great number of supposed laws,
+a process which is exhaustive in more senses than one, or else in
+carefully contemplating the effects, endeavouring to remember cases
+in which like effects followed from known laws. In whatever manner we
+accomplish the discovery, it must be done by the more or less conscious
+application of the direct process of deduction.
+
+The Logical Alphabet illustrates induction as well as deduction. In
+considering the Indirect Process of Inference we found that from
+certain propositions we could infallibly determine the combinations
+of terms agreeing with those premises. The inductive problem is just
+the inverse. Having given certain combinations of terms, we need to
+ascertain the propositions with which the combinations are consistent,
+and from which they may have proceeded. Now, if the reader contemplates
+the following combinations,
+
+   ABC       *ab*C
+  *a*BC      *abc*,
+
+he will probably remember at once that they belong to the premises
+A = AB, B = BC (p. 92). If not, he will require a few trials before he
+meets with the right answer, and every trial will consist in assuming
+certain laws and observing whether the deduced results agree with the
+data. To test the facility with which he can solve this inductive
+problem, let him casually strike out any of the combinations of the
+fourth column of the Logical Alphabet, (p. 94), and say what laws
+the remaining combinations obey, observing that every one of the
+letter-terms and their negatives ought to appear in order to avoid
+self-contradiction in the premises (pp. 74, 111). Let him say, for
+instance, what laws are embodied in the combinations
+
+  ABC       *a*BC
+  A*bc*     *ab*C.
+
+The difficulty becomes much greater when more terms enter into the
+combinations. It would require some little examination to ascertain the
+complete conditions fulfilled in the combinations
+
+   AC*e*      *ab*C*e*
+  *a*BC*e*    *abc*E.
+  *a*B*cd*E
+
+The reader may discover easily enough that the principal laws are
+C = *e*, and A = A*e*; but he would hardly discover without some
+trouble the remaining law, namely, that BD = BD*e*.
+
+The difficulties encountered in the inductive investigations of
+nature, are of an exactly similar kind. We seldom observe any law in
+uninterrupted and undisguised operation. The acuteness of Aristotle and
+the ancient Greeks did not enable them to detect that all terrestrial
+bodies tend to fall towards the centre of the earth. A few nights of
+observation might have convinced an astronomer viewing the solar system
+from its centre, that the planets travelled round the sun; but the
+fact that our place of observation is one of the travelling planets,
+so complicates the apparent motions of the other bodies, that it
+required all the sagacity of Copernicus to prove the real simplicity of
+the planetary system. It is the same throughout nature; the laws may
+be simple, but their combined effects are not simple, and we have no
+clue to guide us through their intricacies. “It is the glory of God,”
+said Solomon, “to conceal a thing, but the glory of a king to search
+it out.” The laws of nature are the invaluable secrets which God has
+hidden, and it is the kingly prerogative of the philosopher to search
+them out by industry and sagacity.
+
+
+*Inductive Problems for Solution by the Reader.*
+
+In the first edition (vol. ii. p. 370) I gave a logical problem
+involving six terms, and requested readers to discover the laws
+governing the combinations given. I received satisfactory replies
+from readers both in the United States and in England. I formed
+the combinations deductively from four laws of correction, but my
+correspondents found that three simpler laws, equivalent to the four
+more complex ones, were the best answer; these laws are as follows:
+*a* = *ac*, *b* = *cd*, *d* = E*f*.
+
+In case other readers should like to test their skill in the inductive
+or inverse problem, I give below several series of combinations forming
+problems of graduated difficulty.
+
+  PROBLEM I.
+
+       A  B *c*
+       A *b* C
+      *a* B  C
+
+  PROBLEM II.
+
+       A  B  C
+       A *b* C
+      *a* B  C
+      *a* B *c*
+
+  PROBLEM III.
+
+       A   B   C
+       A  *b*  C
+      *a*  B   C
+      *a*  B  *c*
+      *a* *b* *c*
+
+  PROBLEM IV.
+
+       A   B   C   D
+       A  *b* *c*  D
+      *a*  B  *c* *d*
+      *a* *b*  C  *d*
+
+  PROBLEM V.
+
+       A   B   C   D
+       A   B   C  *d*
+       A   B  *c* *d*
+       A  *b*  C   D
+       A  *b* *c*  D
+      *a*  B   C   D
+      *a*  B  *c*  D
+      *a*  B  *c* *d*
+      *a* *b*  C  *d*
+
+  PROBLEM VI.
+
+       A   B   C   D   E
+       A   B   C  *d* *e*
+       A   B  *c*  D   E
+       A   B  *c* *d* *e*
+       A  *b*  C   D   E
+      *a*  B   C   D   E
+      *a*  B   C  *d* *e*
+      *a* *b*  C   D   E
+      *a* *b* *c* *d* *e*
+
+  PROBLEM VII.
+
+       A  *b* *c*  D  *e*
+      *a*  B   C  *d*  E
+      *a* *b*  C  *d*  E
+
+  PROBLEM VIII.
+
+       A   B   C   D   E
+       A   B   C   D  *e*
+       A   B   C  *d* *e*
+       A   B  *c* *d* *e*
+       A  *b*  C   D   E
+       A  *b* *c* *d*  E
+       A  *b* *c* *d* *e*
+      *a*  B   C   D  *e*
+      *a*  B   C  *d* *e*
+      *a*  B  *c*  D  *e*
+      *a* *b*  C   D  *e*
+      *a* *b*  C  *d*  E
+      *a* *b* *c*  D  *e*
+      *a* *b* *c* *d*  E
+
+  PROBLEM IX.
+
+       A   B  *c*  D   E   F
+       A   B  *c*  D  *e*  F
+       A  *b*  C   D  *e* *f*
+       A  *b* *c*  D   E  *f*
+       A  *b* *c*  D  *e* *f*
+       A  *b* *c* *d*  E   F
+       A  *b* *c* *d* *e*  F
+      *a*  B  *c*  D   E   F
+      *a*  B  *c*  D  *e*  F
+      *a*  B  *c* *d*  E   F
+      *a* *b*  C   D   E   F
+      *a* *b*  C   D  *e*  F
+      *a* *b*  C   D  *e* *f*
+      *a* *b* *c*  D  *e* *f*
+      *a* *b* *c*  D   E  *f*
+      *a* *b* *c* *d* *e*  F
+
+  PROBLEM X.
+
+       A   B   C   D  *e*  F
+       A   B  *c*  D   E  *f*
+       A  *b*  C   D   E   F
+       A  *b*  C   D  *e*  F
+       A  *b* *c*  D  *e*  F
+      *a*  B   C   D   E  *f*
+      *a*  B  *c*  D   E  *f*
+      *a* *b*  C   D  *e*  F
+      *a* *b*  C  *d* *e*  F
+      *a* *b* *c*  D  *e* *f*
+      *a* *b* *c* *d* *e* *f*
+
+
+*Induction of Simple Identities*.
+
+Many important laws of nature are expressible in the form of simple
+identities, and I can at once adduce them as examples to illustrate
+what I have said of the difficulty of the inverse process of induction.
+Two phenomena are conjoined. Thus all gravitating matter is exactly
+coincident with all matter possessing inertia; where one property
+appears, the other likewise appears. All crystals of the cubical
+system, are all the crystals which do not doubly refract light. All
+exogenous plants are, with some exceptions, those which have two
+cotyledons or seed-leaves.
+
+A little reflection will show that there is no direct and infallible
+process by which such complete coincidences may be discovered.
+Natural objects are aggregates of many qualities, and any one of
+those qualities may prove to be in close connection with some others.
+If each of a numerous group of objects is endowed with a hundred
+distinct physical or chemical qualities, there will be no less than
+(1/2)(100 × 99) or 4950 pairs of qualities, which may be connected,
+and it will evidently be a matter of great intricacy and labour to
+ascertain exactly which qualities are connected by any simple law.
+
+One principal source of difficulty is that the finite powers of the
+human mind are not sufficient to compare by a single act any large
+group of objects with another large group. We cannot hold in the
+conscious possession of the mind at any one moment more than five or
+six different ideas. Hence we must treat any more complex group by
+successive acts of attention. The reader will perceive by an almost
+individual act of comparison that the words *Roma* and *Mora* contain
+the same letters. He may perhaps see at a glance whether the same is
+true of *Causal* and *Casual*, and of *Logica* and *Caligo*. To assure
+himself that the letters in *Astronomers* make *No more stars*, that
+*Serpens in akuleo* is an anagram of *Joannes Keplerus*, or *Great gun
+do us a sum* an anagram of *Augustus de Morgan*, it will certainly be
+necessary to break up the act of comparison into several successive
+acts. The process will acquire a double character, and will consist in
+ascertaining that each letter of the first group is among the letters
+of the second group, and *vice versâ*, that each letter of the second
+is among those of the first group. In the same way we can only prove
+that two long lists of names are identical, by showing that each name
+in one list occurs in the other, and *vice versâ*.
+
+This process of comparison really consists in establishing two partial
+identities, which are, as already shown (p. 58), equivalent in
+conjunction to one simple identity. We first ascertain the truth of the
+two propositions A = AB, B = AB, and we then rise by substitution to
+the single law A = B.
+
+There is another process, it is true, by which we may get to exactly
+the same result; for the two propositions A = AB, *a* = *ab* are also
+equivalent to the simple identity A = B. If then we can show that
+all objects included under A are included under B, and also that all
+objects not included under A are not included under B, our purpose is
+effected. By this process we should usually compare two lists if we are
+allowed to mark them. For each name in the first list we should strike
+off one in the second, and if, when the first list is exhausted, the
+second list is also exhausted, it follows that all names absent from
+the first must be absent from the second, and the coincidence must be
+complete.
+
+These two modes of proving an identity are so closely allied that it
+is doubtful how far we can detect any difference in their powers and
+instances of application. The first method is perhaps more convenient
+when the phenomena to be compared are rare. Thus we prove that all the
+musical concords coincide with all the more simple numerical ratios, by
+showing that each concord arises from a simple ratio of undulations,
+and then showing that each simple ratio gives rise to one of the
+concords. To examine all the possible cases of discord or complex ratio
+of undulation would be impossible. By a happy stroke of induction Sir
+John Herschel discovered that all crystals of quartz which cause the
+plane of polarization of light to rotate are precisely those crystals
+which have plagihedral faces, that is, oblique faces on the corners of
+the prism unsymmetrical with the ordinary faces. This singular relation
+would be proved by observing that all plagihedral crystals possessed
+the power of rotation, and *vice versâ* all crystals possessing this
+power were plagihedral. But it might at the same time be noticed that
+all ordinary crystals were devoid of the power. There is no reason
+why we should not detect any of the four propositions A = AB, B = AB,
+*a* = *ab*, *b* = *ab*, all of which follow from A = B (p. 115).
+
+Sometimes the terms of the identity may be singular objects; thus we
+observe that diamond is a combustible gem, and being unable to discover
+any other that is, we affirm--
+
+  Diamond = combustible gem.
+
+In a similar manner we ascertain that
+
+  Mercury = metal liquid at ordinary temperatures,
+  Substance of least density = substance of least atomic weight.
+
+Two or three objects may occasionally enter into the induction, as when
+we learn that
+
+  Sodium ꖌ potassium = metal of less density than water,
+
+  Venus ꖌ Mercury ꖌ Mars = major planet devoid of satellites.
+
+
+*Induction of Partial Identities*.
+
+We found in the last section that the complete identity of two classes
+is almost always discovered not by direct observation of the fact,
+but by first establishing two partial identities. There are also a
+multitude of cases in which the partial identity of one class with
+another is the only relation to be discovered. Thus the most common
+of all inductive inferences consists in establishing the fact that
+all objects having the properties of A have also those of B, or that
+A = AB. To ascertain the truth of a proposition of this kind it is
+merely necessary to assemble together, mentally or physically, all the
+objects included under A, and then observe whether B is present in
+each of them, or, which is the same, whether it would be impossible
+to select from among them any not-B. Thus, if we mentally assemble
+together all the heavenly bodies which move with apparent rapidity,
+that is to say, the planets, we find that they all possess the property
+of not scintillating. We cannot analyse any vegetable substance without
+discovering that it contains carbon and hydrogen, but it is not true
+that all substances containing carbon and hydrogen are vegetable
+substances.
+
+The great mass of scientific truths consists of propositions of
+this form A = AB. Thus in astronomy we learn that all the planets
+are spheroidal bodies; that they all revolve in one direction round
+the sun; that they all shine by reflected light; that they all obey
+the law of gravitation. But of course it is not to be asserted that
+all bodies obeying the law of gravitation, or shining by reflected
+light, or revolving in a particular direction, or being spheroidal
+in form, are planets. In other sciences we have immense numbers of
+propositions of the same form, as, for instance, all substances in
+becoming gaseous absorb heat; all metals are elements; they are all
+good conductors of heat and electricity; all the alkaline metals are
+monad elements; all foraminifera are marine organisms; all parasitic
+animals are non-mammalian; lightning never issues from stratous clouds;
+pumice never occurs where only Labrador felspar is present; milkmaids
+do not suffer from small-pox; and, in the works of Darwin, scientific
+importance may attach even to such an apparently trifling observation
+as that “white tom-cats having blue eyes are deaf.”
+
+The process of inference by which all such truths are obtained may
+readily be exhibited in a precise symbolic form. We must have one
+premise specifying in a disjunctive form all the possible individuals
+which belong to a class; we resolve the class, in short, into its
+constituents. We then need a number of propositions, each of which
+affirms that one of the individuals possesses a certain property. Thus
+the premises must be of the forms
+
+  A = B ꖌ C ꖌ D ꖌ .... ꖌ P ꖌ Q
+                B = BX
+                C = CX
+                ... ...
+                ... ...
+                Q = QX.
+
+Now, if we substitute for each alternative of the first premise its
+description as found among the succeeding premises, we obtain
+
+  A = BX ꖌ CX ꖌ .... ꖌ PX ꖌ QX
+
+or
+
+  A = (B ꖌ C ꖌ .... ꖌ Q)X
+
+But for the aggregate of alternatives we may now substitute their
+equivalent as given in the first premise, namely A, so that we get the
+required result:
+
+  A = AX.
+
+We should have reached the same result if the first premise had been of
+the form
+
+  A = AB ꖌ AC ꖌ .... ꖌ AQ.
+
+We can always prove a proposition, if we find it more convenient, by
+proving its equivalent. To assert that all not-B’s are not-A’s, is
+exactly the same as to assert that all A’s are B’s. Accordingly we may
+ascertain that A = AB by first ascertaining that *b* = *ab*. If we
+observe, for instance, that all substances which are not solids are
+also not capable of double refraction, it follows necessarily that all
+double refracting substances are solids. We may convince ourselves that
+all electric substances are nonconductors of electricity, by reflecting
+that all good conductors do not, and in fact cannot, retain electric
+excitation. When we come to questions of probability it will be found
+desirable to prove, as far as possible, both the original proposition
+and its equivalent, as there is then an increased area of observation.
+
+The number of alternatives which may arise in the division of a class
+varies greatly, and may be any number from two upwards. Thus it is
+probable that every substance is either magnetic or diamagnetic, and no
+substance can be both at the same time. The division then must be made
+in the form
+
+  A = AB*c* ꖌ A*b*C.
+
+If now we can prove that all magnetic substances are capable of
+polarity, say B = BD, and also that all diamagnetic substances are
+capable of polarity, C = CD, it follows by substitution that all
+substances are capable of polarity, or A = AD. We commonly divide
+the class substance into the three subclasses, solid, liquid, and
+gas; and if we can show that in each of these forms it obeys Carnot’s
+thermodynamic law, it follows that all substances obey that law.
+Similarly we may show that all vertebrate animals possess red blood,
+if we can show separately that fish, reptiles, birds, marsupials, and
+mammals possess red blood, there being, as far as is known, only five
+principal subclasses of vertebrata.
+
+Our inductions will often be embarrassed by exceptions, real or
+apparent. We might affirm that all gems are incombustible were not
+diamonds undoubtedly combustible. Nothing seems more evident than that
+all the metals are opaque until we examine them in fine films, when
+gold and silver are found to be transparent. All plants absorb carbonic
+acid except certain fungi; all the bodies of the planetary system
+have a progressive motion from west to east, except the satellites of
+Uranus and Neptune. Even some of the profoundest laws of matter are not
+quite universal; all solids expand by heat except india-rubber, and
+possibly a few other substances; all liquids which have been tested
+expand by heat except water below 4° C. and fused bismuth; all gases
+have a coefficient of expansion increasing with the temperature, except
+hydrogen. In a later chapter I shall consider how such anomalous cases
+may be regarded and classified; here we have only to express them in a
+consistent manner by our notation.
+
+Let us take the case of the transparency of metals, and assign the
+terms thus:--
+
+  A = metal    D = iron
+  B = gold     E, F, &c. = copper, lead, &c.
+  C = silver   X = opaque.
+
+Our premises will be
+
+  A = B ꖌ C ꖌ D ꖌ E, &c.
+  B = B*x*
+  C = C*x*
+  D = DX
+  E = EX,
+
+and so on for the rest of the metals. Now evidently
+
+  A*bc* = (D ꖌ E ꖌ F ꖌ ...)*bc*,
+
+and by substitution as before we shall obtain
+
+  A*bc* = A*bc*X,
+
+or in words, “All metals not gold nor silver are opaque;” at the same
+time we have
+
+  A(B ꖌ C) = AB ꖌ AC = AB*x* ꖌ AC*x* = A(B ꖌ C)*x*,
+
+or “Metals which are either gold or silver are not opaque.”
+
+In some cases the problem of induction assumes a much higher degree of
+complexity. If we examine the properties of crystallized substances
+we may find some properties which are common to all, as cleavage or
+fracture in definite planes; but it would soon become requisite to
+break up the class into several minor ones. We should divide crystals
+according to the seven accepted systems--and we should then find
+that crystals of each system possess many common properties. Thus
+crystals of the Regular or Cubical system expand equally by heat,
+conduct heat and electricity with uniform rapidity, and are of like
+elasticity in all directions; they have but one index of refraction
+for light; and every facet is repeated in like relation to each of
+the three axes. Crystals of the system having one principal axis
+will be found to possess the various physical powers of conduction,
+refraction, elasticity, &c., uniformly in directions perpendicular
+to the principal axis; in other directions their properties vary
+according to complicated laws. The remaining systems in which the
+crystals possess three unequal axes, or have inclined axes, exhibit
+still more complicated results, the effects of the crystal upon light,
+heat, electricity, &c., varying in all directions. But when we pursue
+induction into the intricacies of its application to nature we really
+enter upon the subject of classification, which we must take up again
+in a later part of this work.
+
+
+*Solution of the Inverse or Inductive Problem, involving Two Classes*.
+
+It is now plain that Induction consists in passing back from a series
+of combinations to the laws by which such combinations are governed.
+The natural law that all metals are conductors of electricity really
+means that in nature we find three classes of objects, namely--
+
+  1. Metals, conductors;
+  2. Not-metals, conductors;
+  3. Not-metals, not-conductors.
+
+It comes to the same thing if we say that it excludes the existence
+of the class, “metals not-conductors.” In the same way every other
+law or group of laws will really mean the exclusion from existence
+of certain combinations of the things, circumstances or phenomena
+governed by those laws. Now in logic, strictly speaking, we treat not
+the phenomena, nor the laws, but the general forms of the laws; and a
+little consideration will show that for a finite number of things the
+possible number of forms or kinds of law governing them must also be
+finite. Using general terms, we know that A and B can be present or
+absent in four ways and no more--thus:
+
+  AB, A*b*, *a*B, *ab*;
+
+therefore every possible law which can exist concerning the relation
+of A and B must be marked by the exclusion of one or more of the above
+combinations. The number of possible laws then cannot exceed the
+number of selections which we can make from these four combinations.
+Since each combination may be present or absent, the number of cases
+to be considered is 2 × 2 × 2 × 2, or sixteen; and these cases are all
+shown in the following table, in which the sign 0 indicates absence or
+non-existence of the combination shown at the left-hand column in the
+same line, and the mark 1 its presence:--
+
+        1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16
+                          *  *     *     *     *  *  *
+   AB   0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1
+   A*b* 0  0  0  0  1  1  1  1  0  0  0  0  1  1  1  1
+  *a*B  0  0  1  1  0  0  1  1  0  0  1  1  0  0  1  1
+  *ab*  0  1  0  1  0  1  0  1  0  1  0  1  0  1  0  1
+
+Thus in column sixteen we find that all the conceivable combinations
+are present, which means that there are no special laws in existence
+in such a case, and that the combinations are governed only by the
+universal Laws of Identity and Difference. The example of metals and
+conductors of electricity would be represented by the twelfth column;
+and every other mode in which two things or qualities might present
+themselves is shown in one or other of the columns. More than half
+the cases may indeed be at once rejected, because they involve the
+entire absence of a term or its negative. It has been shown to be a
+logical principle that every term must have its negative (p. 111),
+and when this is not the case, inconsistency between the conditions
+of combination must exist. Thus if we laid down the two following
+propositions, “Graphite conducts electricity,” and “Graphite does not
+conduct electricity,” it would amount to asserting the impossibility
+of graphite existing at all; or in general terms, A is B and A is
+not B result in destroying altogether the combinations containing A,
+a case shown in the fourth column of the above table. We therefore
+restrict our attention to those cases which may be represented in
+natural phenomena when at least two combinations are present, and which
+correspond to those columns of the table in which each of A, *a*,
+B, *b* appears. These cases are shown in the columns marked with an
+asterisk.
+
+We find that seven cases remain for examination, thus characterised--
+
+  Four cases exhibiting three combinations,
+  Two cases exhibiting two combinations,
+  One case exhibiting four combinations.
+
+It has already been pointed out that a proposition of the form A =
+AB destroys one combination, A*b*, so that this is the form of law
+applying to the twelfth column. But by changing one or more of the
+terms in A = AB into its negative, or by interchanging A and B, *a* and
+*b*, we obtain no less than eight different varieties of the one form;
+thus--
+
+  12th case.    8th case.    15th case.    14th case.
+   A  =  AB     A =  A*b*    *a* = *a*B    *a* = *ab*
+  *b* = *ab*    B = *a*B     *b* =  A*b*    B  = AB
+
+The reader of the preceding sections will see that each proposition
+in the lower line is logically equivalent to, and is in fact the
+contrapositive of, that above it (p. 83). Thus the propositions
+A = A*b* and B = *a*B both give the same combinations, shown in the
+eighth column of the table, and trial shows that the twelfth, eighth,
+fifteenth and fourteenth columns are thus accounted for. We come to
+this conclusion then--*The general form of proposition* A = AB *admits
+of four logically distinct varieties, each capable of expression in two
+modes*.
+
+In two columns of the table, namely the seventh and tenth, we observe
+that two combinations are missing. Now a simple identity A = B renders
+impossible both A*b* and *a*B, accounting for the tenth case; and if we
+change B into *b* the identity A = *b* accounts for the seventh case.
+There may indeed be two other varieties of the simple identity, namely
+*a* = *b* and *a* = B; but it has already been shown repeatedly that
+these are equivalent respectively to A = B and A = *b* (p. 115). As
+the sixteenth column has already been accounted for as governed by no
+special conditions, we come to the following general conclusion:--The
+laws governing the combinations of two terms must be capable of
+expression either in a partial identity or a simple identity; the
+partial identity is capable of only four logically distinct varieties,
+and the simple identity of two. Every logical relation between two
+terms must be expressed in one of these six forms of law, or must be
+logically equivalent to one of them.
+
+In short, we may conclude that in treating of partial and complete
+identity, we have exhaustively treated the modes in which two terms or
+classes of objects can be related. Of any two classes it can be said
+that one must either be included in the other, or must be identical
+with it, or a like relation must exist between one class and the
+negative of the other. We have thus completely solved the inverse
+logical problem concerning two terms.[85]
+
+  [85] The contents of this and the following section nearly correspond
+  with those of a paper read before the Manchester Literary and
+  Philosophical Society on December 26th, 1871. See Proceedings of the
+  Society, vol. xi. pp. 65–68, and Memoirs, Third Series, vol. v. pp.
+  119–130.
+
+
+*The Inverse Logical Problem involving Three Classes.*
+
+No sooner do we introduce into the problem a third term C, than the
+investigation assumes a far more complex character, so that some
+readers may prefer to pass over this section. Three terms and their
+negatives may be combined, as we have frequently seen, in eight
+different combinations, and the effect of laws or logical conditions
+is to destroy any one or more of these combinations. Now we may make
+selections from eight things in 2^{8} or 256 ways; so that we have no
+less than 256 different cases to treat, and the complete solution is
+at least fifty times as troublesome as with two terms. Many series of
+combinations, indeed, are contradictory, as in the simpler problem,
+and may be passed over, the test of consistency being that each of the
+letters A, B, C, *a*, *b*, *c*, shall appear somewhere in the series of
+combinations.
+
+My mode of solving the problem was as follows:--Having written out the
+whole of the 256 series of combinations, I examined them separately and
+struck out such as did not fulfil the test of consistency. I then chose
+some form of proposition involving two or three terms, and varied it
+in every possible manner, both by the circular interchange of letters
+(A, B, C into B, C, A and then into C, A, B), and by the substitution
+for any one or more of the terms of the corresponding negative terms.
+For instance, the proposition AB = ABC can be first varied by circular
+interchange so as to give BC = BCA and then CA = CAB. Each of these
+three can then be thrown into eight varieties by negative change. Thus
+AB = ABC gives *a*B = *a*BC, A*b* = A*b*C, AB = AB*c*, *ab* = *ab*C,
+and so on. Thus there may possibly exist no less than twenty-four
+varieties of the law having the general form AB = ABC, meaning that
+whatever has the properties of A and B has those also of C. It by no
+means follows that some of the varieties may not be equivalent to
+others; and trial shows, in fact, that AB = ABC is exactly the same
+in meaning as A*c* = A*bc* or B*c* = B*ca*. Thus the law in question
+has but eight varieties of distinct logical meaning. I now ascertain
+by actual deductive reasoning which of the 256 series of combinations
+result from each of these distinct laws, and mark them off as soon as
+found. I then proceed to some other form of law, for instance A = ABC,
+meaning that whatever has the qualities of A has those also of B and
+C. I find that it admits of twenty-four variations, all of which are
+found to be logically distinct; the combinations being worked out, I am
+able to mark off twenty-four more of the list of 256 series. I proceed
+in this way to work out the results of every form of law which I can
+find or invent. If in the course of this work I obtain any series of
+combinations which had been previously marked off, I learn at once that
+the law giving these combinations is logically equivalent to some law
+previously treated. It may be safely inferred that every variety of the
+apparently new law will coincide in meaning with some variety of the
+former expression of the same law. I have sufficiently verified this
+assumption in some cases, and have never found it lead to error. Thus
+as AB = ABC is equivalent to A*c* = A*bc*, so we find that *ab* = *ab*C
+is equivalent to *ac* = *ac*B.
+
+Among the laws treated were the two A = AB and A = B which involve only
+two terms, because it may of course happen that among three things two
+only are in special logical relation, and the third independent; and
+the series of combinations representing such cases of relation are sure
+to occur in the complete enumeration. All single propositions which
+I could invent having been treated, pairs of propositions were next
+investigated. Thus we have the relations, “All A’s are B’s, and all
+B’s are C’s,” of which the old logical syllogism is the development.
+We may also have “all A’s are all B’s, and all B’s are C’s,” or even
+“all A’s are all B’s, and all B’s are all C’s.” All such premises admit
+of variations, greater or less in number, the logical distinctness
+of which can only be determined by trial in detail. Disjunctive
+propositions either singly or in pairs were also treated, but were
+often found to be equivalent to other propositions of a simpler form;
+thus A = ABC ꖌ A*bc* is exactly the same in meaning as AB = AC.
+
+This mode of exhaustive trial bears some analogy to that ancient
+mathematical process called the Sieve of Eratosthenes. Having taken
+a long series of the natural numbers, Eratosthenes is said to have
+calculated out in succession all the multiples of every number, and
+to have marked them off, so that at last the prime numbers alone
+remained, and the factors of every number were exhaustively discovered.
+My problem of 256 series of combinations is the logical analogue, the
+chief points of difference being that there is a limit to the number of
+cases, and that prime numbers have no analogue in logic, since every
+series of combinations corresponds to a law or group of conditions.
+But the analogy is perfect in the point that they are both inverse
+processes. There is no mode of ascertaining that a number is prime but
+by showing that it is not the product of any assignable factors. So
+there is no mode of ascertaining what laws are embodied in any series
+of combinations but trying exhaustively the laws which would give them.
+Just as the results of Eratosthenes’ method have been worked out to
+a great extent and registered in tables for the convenience of other
+mathematicians, I have endeavoured to work out the inverse logical
+problem to the utmost extent which is at present practicable or useful.
+
+I have thus found that there are altogether fifteen conditions or
+series of conditions which may govern the combinations of three
+terms, forming the premises of fifteen essentially different kinds
+of arguments. The following table contains a statement of these
+conditions, together with the numbers of combinations which are
+contradicted or destroyed by each, and the numbers of logically
+distinct variations of which the law is capable. There might be
+also added, as a sixteenth case, that case where no special logical
+condition exists, so that all the eight combinations remain.
+
+  +---------+-------------------------------+-----------+------------+
+  |         |                               | Number of |  Number of |
+  |Reference|  Propositions expressing the  | distinct  |combinations|
+  | Number. |  general type of the logical  |  logical  |contradicted|
+  |         |         conditions.           |variations.|  by each.  |
+  +---------+-------------------------------+-----------+------------+
+  |     I.  |  A = B                        |      6    |     4      |
+  |    II.  |  A = AB                       |     12    |     2      |
+  |   III.  |  A = B, B = C                 |      4    |     6      |
+  |    IV.  |  A = B, B = BC                |     24    |     5      |
+  |     V.  |  A = AB, B = BC               |     24    |     4      |
+  |    VI.  |  A = BC                       |     24    |     4      |
+  |   VII.  |  A = ABC                      |     24    |     3      |
+  |  VIII.  |  AB = ABC                     |      8    |     1      |
+  |    IX.  |  A = AB, *a*B = *a*B*c*       |     24    |     3      |
+  |     X.  |  A = ABC, *ab* = *ab*C        |      8    |     4      |
+  |    XI.  |  AB = ABC, *ab* = *abc*       |      4    |     2      |
+  |   XII.  |  AB = AC                      |     12    |     2      |
+  |  XIII.  |  A = BC ꖌ A*bc*             |      8    |     3      |
+  |   XIV.  |  A = BC ꖌ *bc*              |      2    |     4      |
+  |    XV.  |  A = ABC, *a* = B*c* ꖌ *b*C |      8    |     5      |
+  +---------+-------------------------------+-----------+------------+
+
+There are sixty-three series of combinations derived from
+self-contradictory premises, which with 192, the sum of the numbers of
+distinct logical variations stated in the third column of the table,
+and with the one case where there are no conditions or laws at all,
+make up the whole conceivable number of 256 series.
+
+We learn from this table, for instance, that two propositions of
+the form A = AB, B = BC, which are such as constitute the premises
+of the old syllogism Barbara, exclude as impossible four of the
+eight combinations in which three terms may be united, and that
+these propositions are capable of taking twenty-four variations by
+transpositions of the terms or the introduction of negatives. This
+table then presents the results of a complete analysis of all the
+possible logical relations arising in the case of three terms, and the
+old syllogism forms but one out of fifteen typical forms. Generally
+speaking, every form can be converted into apparently different
+propositions; thus the fourth type A = B, B = BC may appear in the
+form A = ABC, *a* = *ab*, or again in the form of three propositions
+A = AB, B = BC, *a*B = *a*B*c*; but all these sets of premises yield
+identically the same series of combinations, and are therefore of
+equivalent logical meaning. The fifth type, or Barbara, can also be
+thrown into the equivalent forms A = ABC, *a*B = *a*BC and A = AC,
+B = A ꖌ *a*BC. In other cases I have obtained the very same logical
+conditions in four modes of statements. As regards mere appearance and
+form of statement, the number of possible premises would be very great,
+and difficult to exhibit exhaustively.
+
+The most remarkable of all the types of logical condition is the
+fourteenth, namely, A = BC ꖌ *bc*. It is that which expresses the
+division of a genus into two doubly marked species, and might be
+illustrated by the example--“Component of the physical universe =
+matter, gravitating, or not-matter (ether), not-gravitating.” It is
+capable of only two distinct logical variations, namely, A = BC ꖌ *bc*
+and A = B*c* ꖌ *b*C. By transposition or negative change of the letters
+we can indeed obtain six different expressions of each of these
+propositions; but when their meanings are analysed, by working out the
+combinations, they are found to be logically equivalent to one or other
+of the above two. Thus the proposition A = BC ꖌ *bc* can be written in
+any of the following five other modes,
+
+  *a* = *b*C ꖌ B*c*, B = CA ꖌ *ca*, *b* = *c*A ꖌ C*a*,
+          C = AB ꖌ *ab*, *c* = *a*B ꖌ A*b*.
+
+I do not think it needful to publish at present the complete table of
+193 series of combinations and the premises corresponding to each. Such
+a table enables us by mere inspection to learn the laws obeyed by any
+set of combinations of three things, and is to logic what a table of
+factors and prime numbers is to the theory of numbers, or a table of
+integrals to the higher mathematics. The table already given (p. 140)
+would enable a person with but little labour to discover the law of any
+combinations. If there be seven combinations (one contradicted) the law
+must be of the eighth type, and the proper variety will be apparent.
+If there be six combinations (two contradicted), either the second,
+eleventh, or twelfth type applies, and a certain number of trials will
+disclose the proper type and variety. If there be but two combinations
+the law must be of the third type, and so on.
+
+The above investigations are complete as regards the possible logical
+relations of two or three terms. But when we attempt to apply the
+same kind of method to the relations of four or more terms, the labour
+becomes impracticably great. Four terms give sixteen combinations
+compatible with the laws of thought, and the number of possible
+selections of combinations is no less than 2^{16} or 65,536. The
+following table shows the extraordinary manner in which the number of
+possible logical relations increases with the number of terms involved.
+
+  +---------+-------------+---------------------------------------+
+  |Number of|  Number of  |Number of possible selections of combi-|
+  |  terms. |  possible   |  nations corresponding to consistent  |
+  |         |combinations.|   or inconsistent logical relations.  |
+  +-----------------------+---------------------------------------+
+  |    2    |       4     |                                    16 |
+  |    3    |       8     |                                   256 |
+  |    4    |      16     |                                65,536 |
+  |    5    |      32     |                         4,294,967,296 |
+  |    6    |      64     |            18,446,744,073,709,551,616 |
+  +---------+-------------+---------------------------------------+
+
+Some years of continuous labour would be required to ascertain the
+types of laws which may govern the combinations of only four things,
+and but a small part of such laws would be exemplified or capable of
+practical application in science. The purely logical inverse problem,
+whereby we pass from combinations to their laws, is solved in the
+preceding pages, as far as it is likely to be for a long time to come;
+and it is almost impossible that it should ever be carried more than a
+single step further.
+
+In the first edition, vol i. p. 158, I stated that I had not been
+able to discover any mode of calculating the number of cases in which
+inconsistency would be implied in the selection of combinations from
+the Logical Alphabet. The logical complexity of the problem appeared
+to be so great that the ordinary modes of calculating numbers of
+combinations failed, in my opinion, to give any aid, and exhaustive
+examination of the combinations in detail seemed to be the only method
+applicable. This opinion, however, was mistaken, for both Mr. R. B.
+Hayward, of Harrow, and Mr. W. H. Brewer have calculated the numbers
+of inconsistent cases both for three and for four terms, without much
+difficulty. In the case of four terms they find that there are 1761
+inconsistent selections and 63,774 consistent, which with one case
+where no condition exists, make up the total of 65,536 possible
+selections.
+
+The inconsistent cases are distributed in the manner shown in the
+following table:--
+
+  +--------------+---------------------------------------------------+
+  |  Number of   |                                                   |
+  | Combinations | 0   1    2    3    4    5    6   7  8  9  10, &c. |
+  |  remaining.  |                                                   |
+  +--------------+---------------------------------------------------+
+  |  Number of   |                                                   |
+  | Inconsistent | 1  16  112  352  536  448  224  64  8  0   0, &c. |
+  |    Cases.    |                                                   |
+  +--------------+---------------------------------------------------+
+
+When more than eight combinations of the Logical Alphabet (p. 94,
+column V.) remain unexcluded, there cannot be inconsistency. The whole
+numbers of ways of selecting 0, 1, 2, &c., combinations out of 16 are
+given in the 17th line of the Arithmetical Triangle given further on in
+the Chapter on Combinations and Permutations, the sum of the numbers in
+that line being 65,536.
+
+
+*Professor Clifford on the Types of Compound Statement involving Four
+Classes.*
+
+In the first edition (vol. i. p. 163), I asserted that some years of
+labour would be required to ascertain even the precise number of types
+of law governing the combinations of four classes of things. Though I
+still believe that some years’ labour would be required to work out the
+types themselves, it is clearly a mistake to suppose that the *numbers*
+of such types cannot be calculated with a reasonable amount of labour,
+Professor W. K. Clifford having actually accomplished the task. His
+solution of the numerical problem involves the use of a complete new
+system of nomenclature and is far too intricate to be fully described
+here. I can only give a brief abstract of the results, and refer
+readers, who wish to follow out the reasoning, to the Proceedings of
+the Literary and Philosophical Society of Manchester, for the 9th
+January, 1877, vol. xvi., p. 88, where Professor Clifford’s paper is
+printed in full.
+
+By a *simple statement* Professor Clifford means the denial of the
+existence of any single combination or *cross-division*, of the
+classes, as in ABCD = 0, or A*b*C*d* = 0. The denial of two or more
+such combinations is called a *compound statement*, and is further said
+to be *twofold*, *threefold*, &c., according to the number denied. Thus
+ABC = 0 is a twofold compound statement in regard to four classes,
+because it involves both ABCD = 0 and ABC*d* = 0. When two compound
+statements can be converted into one another by interchange of the
+classes, A, B, C, D, with each other or with their complementary
+classes, *a*, *b*, *c*, *d*, they are called *similar*, and all similar
+statements are said to belong to the same *type*.
+
+Two statements are called *complementary* when they deny between them
+all the sixteen combinations without both denying any one; or, which
+is the same thing, when each denies just those combinations which
+the other permits to exist. It is obvious that when two statements
+are similar, the complementary statements will also be similar,
+and consequently for every type of *n*-fold statement, there is a
+complementary type of (16--*n*)-fold statement. It follows that we need
+only enumerate the types as far as the eighth order; for the types
+of more-than-eight-fold statement will already have been given as
+complementary to types of lower orders.
+
+One combination, ABCD, may be converted into another A*b*C*d* by
+interchanging one or more of the classes with the complementary
+classes. The number of such changes is called the *distance*, which in
+the above case is 2. In two similar compound statements the distances
+of the combinations denied must be the same; but it does not follow
+that when all the distances are the same, the statements are similar.
+There is, however, only one example of two dissimilar statements having
+the same distances. When the distance is 4, the two combinations
+are said to be *obverse* to one another, and the statements denying
+them are called *obverse statements*, as in ABCD = 0 and *abcd* = 0
+or again A*b*C*d* = 0 and *a*B*c*D = 0. When any one combination is
+given, called the *origin*, all the others may be grouped in respect
+of their relations to it as follows:--Four are at distance *one* from
+it, and may be called *proximates*; six are at distance *two*, and may
+be called *mediates*; four are at distance *three*, and may be called
+*ultimates*; finally the obverse is at distance *four*.
+
+    Origin and               Six              Obverse and
+  four proximates.        mediates.         four ultimates.
+                           *ab*CD
+                              |
+        *a*BCD        A*bc*D  |  A*b*C*d*       A*bcd*
+         |                 \  |  /                |
+         |                  \ | /                 |
+         |                   \|/                  |
+  ABC*d*--ABCD--A*b*CD        +         *abc*D--*abcd*--*a*B*cd*
+         |                   /|\                  |
+         |                  / | \                 |
+         |                 /  |  \                |
+        AB*c*D      *a*B*c*D  |  *a*BC*d*      *ab*C*d*.
+                              |
+                            AB*cd*
+
+It will be seen that the four proximates are respectively obverse to
+the four ultimates, and that the mediates form three pairs of obverses.
+Every proximate or ultimate is distant 1 and 3 respectively from such a
+pair of mediates.
+
+Aided by this system of nomenclature Professor Clifford proceeds to an
+exhaustive enumeration of types, in which it is impossible to follow
+him. The results are as follows:--
+
+  1-fold statements         1 type }
+  2   "      "              4 types}
+  3   "      "              6   "  }
+  4   "      "             19   "  } 159
+  5   "      "             27   "  }
+  6   "      "             47   "  }
+  7   "      "             55   "  }
+  8-fold statements        78   "
+
+Now as each seven-fold or less-than-seven-fold statement is
+complementary to a nine-fold or more-than-nine-fold statement, it
+follows that the complete number of types will be 159 × 2 + 78 = 396.
+
+It appears then that the types of statement concerning four classes
+are only about 26 times as numerous as those concerning three classes,
+fifteen in number, although the number of possible combinations is 256
+times as great.
+
+Professor Clifford informs me that the knowledge of the possible
+groupings of subdivisions of classes which he obtained by this inquiry
+has been of service to him in some applications of hyper-elliptic
+functions to which he has subsequently been led. Professor Cayley has
+since expressed his opinion that this line of investigation should
+be followed out, owing to the bearing of the theory of compound
+combinations upon the higher geometry.[86] It seems likely that many
+unexpected points of connection will in time be disclosed between the
+sciences of logic and mathematics.
+
+  [86] *Proceedings of the Manchester Literary and Philosophical
+  Society*, 6th February, 1877, vol. xvi., p. 113.
+
+
+*Distinction between Perfect and Imperfect Induction.*
+
+We cannot proceed with advantage before noticing the extreme difference
+which exists between cases of perfect and those of imperfect induction.
+We call an induction *perfect* when all the objects or events which
+can possibly come under the class treated have been examined. But in
+the majority of cases it is impossible to collect together, or in any
+way to investigate, the properties of all portions of a substance or
+of all the individuals of a race. The number of objects would often
+be practically infinite, and the greater part of them might be beyond
+our reach, in the interior of the earth, or in the most distant parts
+of the Universe. In all such cases induction is *imperfect*, and is
+affected by more or less uncertainty. As some writers have fallen into
+much error concerning the functions and relative importance of these
+two branches of reasoning, I shall have to point out that--
+
+  1. Perfect Induction is a process absolutely requisite, both in the
+  performance of imperfect induction and in the treatment of large
+  bodies of facts of which our knowledge is complete.
+
+  2. Imperfect Induction is founded on Perfect Induction, but involves
+  another process of inference of a widely different character.
+
+It is certain that if I can draw any inference at all concerning
+objects not examined, it must be done on the data afforded by the
+objects which have been examined. If I judge that a distant star obeys
+the law of gravity, it must be because all other material objects
+sufficiently known to me obey that law. If I venture to assert that
+all ruminant animals have cloven hoofs, it is because all ruminant
+animals which have come under my notice have cloven hoofs. On the
+other hand, I cannot safely say that all cryptogamous plants possess
+a purely cellular structure, because some cryptogamous plants, which
+have been examined by botanists, have a partially vascular structure.
+The probability that a new cryptogam will be cellular only can be
+estimated, if at all, on the ground of the comparative numbers of
+known cryptogams which are and are not cellular. Thus the first step
+in every induction will consist in accurately summing up the number
+of instances of a particular phenomenon which have fallen under our
+observation. Adams and Leverrier, for instance, must have inferred
+that the undiscovered planet Neptune would obey Bode’s law, because
+*all the planets known at that time obeyed it*. On what principles the
+passage from the known to the apparently unknown is warranted, must be
+carefully discussed in the next section, and in various parts of this
+work.
+
+It would be a great mistake, however, to suppose that Perfect Induction
+is in itself useless. Even when the enumeration of objects belonging
+to any class is complete, and admits of no inference to unexamined
+objects, the statement of our knowledge in a general proposition is a
+process of so much importance that we may consider it necessary. In
+many cases we may render our investigations exhaustive; all the teeth
+or bones of an animal; all the cells in a minute vegetable organ; all
+the caves in a mountain side; all the strata in a geological section;
+all the coins in a newly found hoard, may be so completely scrutinized
+that we may make some general assertion concerning them without fear
+of mistake. Every bone might be proved to contain phosphate of lime;
+every cell to enclose a nucleus; every cave to hide remains of extinct
+animals; every stratum to exhibit signs of marine origin; every coin
+to be of Roman manufacture. These are cases where our investigation
+is limited to a definite portion of matter, or a definite area on the
+earth’s surface.
+
+There is another class of cases where induction is naturally and
+necessarily limited to a definite number of alternatives. Of the
+regular solids we can say without the least doubt that no one has
+more than twenty faces, thirty edges, and twenty corners; for by the
+principles of geometry we learn that there cannot exist more than five
+regular solids, of each of which we easily observe that the above
+statements are true. In the theory of numbers, an endless variety of
+perfect inductions might be made; we can show that no number less than
+sixty possesses so many divisors, and the like is true of 360; for it
+does not require a great amount of labour to ascertain and count all
+the divisors of numbers up to sixty or 360. I can assert that between
+60,041 and 60,077 no prime number occurs, because the exhaustive
+examination of those who have constructed tables of prime numbers
+proves it to be so.
+
+In matters of human appointment or history, we can frequently have
+a complete limitation of the number of instances to be included in
+an induction. We might show that the propositions of the third book
+of Euclid treat only of circles; that no part of the works of Galen
+mentions the fourth figure of the syllogism; that none of the other
+kings of England reigned so long as George III.; that Magna Charta has
+not been repealed by any subsequent statute; that the price of corn in
+England has never been so high since 1847 as it was in that year; that
+the price of the English funds has never been lower than it was on the
+23rd of January, 1798, when it fell to 47-1/4.
+
+It has been urged against this process of Perfect Induction that it
+gives no new information, and is merely a summing up in a brief form
+of a multitude of particulars. But mere abbreviation of mental labour
+is one of the most important aids we can enjoy in the acquisition
+of knowledge. The powers of the human mind are so limited that
+multiplicity of detail is alone sufficient to prevent its progress
+in many directions. Thought would be practically impossible if every
+separate fact had to be separately thought and treated. Economy of
+mental power may be considered one of the main conditions on which our
+elevated intellectual position depends. Mathematical processes are for
+the most part but abbreviations of the simpler acts of addition and
+subtraction. The invention of logarithms was one of the most striking
+additions ever made to human power: yet it was a mere abbreviation of
+operations which could have been done before had a sufficient amount
+of labour been available. Similar additions to our power will, it
+is hoped, be made from time to time; for the number of mathematical
+problems hitherto solved is but an indefinitely small fraction of those
+which await solution, because the labour they have hitherto demanded
+renders them impracticable. So it is throughout all regions of thought.
+The amount of our knowledge depends upon our power of bringing it
+within practicable compass. Unless we arrange and classify facts and
+condense them into general truths, they soon surpass our powers of
+memory, and serve but to confuse. Hence Perfect Induction, even as a
+process of abbreviation, is absolutely essential to any high degree of
+mental achievement.
+
+
+*Transition from Perfect to Imperfect Induction.*
+
+It is a question of profound difficulty on what grounds we are
+warranted in inferring the future from the present, or the nature
+of undiscovered objects from those which we have examined with our
+senses. We pass from Perfect to Imperfect Induction when once we
+allow our conclusion to apply, at all events apparently, beyond the
+data on which it was founded. In making such a step we seem to gain
+a net addition to our knowledge; for we learn the nature of what was
+unknown. We reap where we have never sown. We appear to possess the
+divine power of creating knowledge, and reaching with our mental arms
+far beyond the sphere of our own observation. I shall have, indeed, to
+point out certain methods of reasoning in which we do pass altogether
+beyond the sphere of the senses, and acquire accurate knowledge which
+observation could never have given; but it is not imperfect induction
+that accomplishes such a task. Of imperfect induction itself, I venture
+to assert that it never makes any real addition to our knowledge, in
+the meaning of the expression sometimes accepted. As in other cases
+of inference, it merely unfolds the information contained in past
+observations; it merely renders explicit what was implicit in previous
+experience. It transmutes, but certainly does not create knowledge.
+
+There is no fact which I shall more constantly keep before the reader’s
+mind in the following pages than that the results of imperfect
+induction, however well authenticated and verified, are never more than
+probable. We never can be sure that the future will be as the present.
+We hang ever upon the will of the Creator: and it is only so far as He
+has created two things alike, or maintains the framework of the world
+unchanged from moment to moment, that our most careful inferences can
+be fulfilled. All predictions, all inferences which reach beyond their
+data, are purely hypothetical, and proceed on the assumption that new
+events will conform to the conditions detected in our observation of
+past events. No experience of finite duration can give an exhaustive
+knowledge of the forces which are in operation. There is thus a
+double uncertainty; even supposing the Universe as a whole to proceed
+unchanged, we do not really know the Universe as a whole. We know only
+a point in its infinite extent, and a moment in its infinite duration.
+We cannot be sure, then, that our observations have not escaped some
+fact, which will cause the future to be apparently different from the
+past; nor can we be sure that the future really will be the outcome of
+the past. We proceed then in all our inferences to unexamined objects
+and times on the assumptions--
+
+  1. That our past observation gives us a complete knowledge of what
+  exists.
+
+  2. That the conditions of things which did exist will continue to be
+  the conditions which will exist.
+
+We shall often need to illustrate the character of our knowledge of
+nature by the simile of a ballot-box, so often employed by mathematical
+writers in the theory of probability. Nature is to us like an infinite
+ballot-box, the contents of which are being continually drawn, ball
+after ball, and exhibited to us. Science is but the careful observation
+of the succession in which balls of various character present
+themselves; we register the combinations, notice those which seem to
+be excluded from occurrence, and from the proportional frequency of
+those which appear we infer the probable character of future drawings.
+But under such circumstances certainty of prediction depends on two
+conditions:--
+
+  1. That we acquire a perfect knowledge of the comparative numbers of
+  balls of each kind within the box.
+
+  2. That the contents of the ballot-box remain unchanged.
+
+Of the latter assumption, or rather that concerning the constitution
+of the world which it illustrates, the logician or physicist can
+have nothing to say. As the Creation of the Universe is necessarily
+an act passing all experience and all conception, so any change in
+that Universe, or, it may be, a termination of it, must likewise be
+infinitely beyond the bounds of our mental faculties. No science
+no reasoning upon the subject, can have any validity; for without
+experience we are without the basis and materials of knowledge. It
+is the fundamental postulate accordingly of all inference concerning
+the future, that there shall be no arbitrary change in the subject
+of inference; of the probability or improbability of such a change I
+conceive that our faculties can give no estimate.
+
+The other condition of inductive inference--that we acquire an
+approximately complete knowledge of the combinations in which events
+do occur, is in some degree within our power. There are branches
+of science in which phenomena seem to be governed by conditions of
+a most fixed and general character. We have ground in such cases
+for believing that the future occurrence of such phenomena can be
+calculated and predicted. But the whole question now becomes one
+of probability and improbability. We seem to leave the region of
+logic to enter one in which the number of events is the ground of
+inference. We do not really leave the region of logic; we only leave
+that where certainty, affirmative or negative, is the result, and the
+agreement or disagreement of qualities the means of inference. For the
+future, number and quantity will commonly enter into our processes of
+reasoning; but then I hold that number and quantity are but portions
+of the great logical domain. I venture to assert that number is wholly
+logical, both in its fundamental nature and in its developments.
+Quantity in all its forms is but a development of number. That which is
+mathematical is not the less logical; if anything it is more logical,
+in the sense that it presents logical results in a higher degree of
+complexity and variety.
+
+Before proceeding then from Perfect to Imperfect Induction I must
+devote a portion of this work to treating the logical conditions
+of number. I shall then employ number to estimate the variety of
+combinations in which natural phenomena may present themselves, and
+the probability or improbability of their occurrence under definite
+circumstances. It is in later parts of the work that I must endeavour
+to establish the notions which I have set forth upon the subject of
+Imperfect Induction, as applied in the investigation of Nature, which
+notions maybe thus briefly stated:--
+
+  1. Imperfect Induction entirely rests upon Perfect Induction for its
+  materials.
+
+  2. The logical process by which we seem to pass directly from
+  examined to unexamined cases consists in an inverse application of
+  deductive inference, so that all reasoning may be said to be either
+  directly or inversely deductive.
+
+  3. The result is always of a hypothetical character, and is never
+  more than probable.
+
+  4. No net addition is ever made to our knowledge by reasoning; what
+  we know of future events or unexamined objects is only the unfolded
+  contents of our previous knowledge, and it becomes less probable as
+  it is more boldly extended to remote cases.
+
+
+
+

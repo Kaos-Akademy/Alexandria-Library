@@ -1,0 +1,619 @@
+PART I.
+
+THE ELEMENTS OF PROPOSITIONS.
+
+
+
+
+CHAPTER I.
+
+GENERAL NAMES AND ALLIED DISTINCTIONS.
+
+To discipline us against the errors we are liable to in receiving
+knowledge through the medium of words--such is one of the objects of
+Logic, the main object of what may be called the Logic of Consistency.
+
+Strictly speaking, we may receive knowledge about things through signs
+or single words, as a nod, a wink, a cry, a call, a command. But an
+assertory sentence, proposition, or predication, is the unit with
+which Logic concerns itself--a sentence in which a subject is
+named and something is said or predicated about it. Let a man once
+understand the errors incident to this regular mode of communication,
+and he may safely be left to protect himself against the errors
+incident to more rudimentary modes.
+
+A proposition, whether long or short, is a unit, but it is an
+analysable unit. And the key to syllogistic analysis is the General
+Name. Every proposition, every sentence in which we convey knowledge
+to another, contains a general name or its equivalent. That is to say,
+every proposition may be resolved into a form in which the predicate
+is a general name. A knowledge of the function of this element of
+speech is the basis of all logical discipline. Therefore, though we
+must always remember that the proposition is the real unit of speech,
+and the general name only an analytic element, we take the general
+name and its allied distinctions in thought and reality first.
+
+How propositions are analysed for syllogistic purposes will be shown
+by-and-by, but we must first explain various technical terms that
+logicians have devised to define the features of this cardinal
+element. The technical terms CLASS, CONCEPT, NOTION, ATTRIBUTE,
+EXTENSION or DENOTATION, INTENSION or CONNOTATION, GENUS, SPECIES,
+DIFFERENTIA, SINGULAR NAME, COLLECTIVE NAME, ABSTRACT NAME, all centre
+round it.
+
+A general name is a name applicable to a number of different things on
+the ground of some likeness among them, as _man_, _ratepayer_, _man of
+courage_, _man who fought at Waterloo_.
+
+From the examples it will be seen that a general name logically is
+not necessarily a single word. Any word or combination of words that
+serves a certain function is technically a general name. The different
+ways of making in common speech the equivalent of a general name
+logically are for the grammarian to consider.
+
+In the definition of a general name attention is called to two
+distinct considerations, the individual objects to each of which
+the name is applicable, and the points of resemblance among them, in
+virtue of which they have a common name. For those distinctions there
+are technical terms.
+
+CLASS is the technical term for the objects, different yet agreeing,
+to each of which a general name may be applied.
+
+The points of resemblance are called the common ATTRIBUTES of the
+class.
+
+A class may be constituted on one attribute or on several.
+_Ratepayer_, _woman ratepayer_, _unmarried woman ratepayer_;
+_soldier_, _British soldier_, _British soldier on foreign service_.
+But every individual to which the general name can be applied must
+possess the common attribute or attributes.
+
+These common attributes are also called the NOTION of the class,
+inasmuch as it is these that the mind notes or should note when the
+general name is applied. CONCEPT is a synonym perhaps in more common
+use than notion; the rationale of this term (derived from _con_ and
+_capere_, to take or grasp together) being that it is by means of
+the points of resemblance that the individuals are grasped or held
+together by the mind. These common points are the one in the many, the
+same amidst the different, the identity signified by the common name.
+The name of an attribute as thought of by itself without reference to
+any individual or class possessing it, is called an ABSTRACT name. By
+contradistinction, the name of an individual or a class is CONCRETE.
+
+Technical terms are wanted also to express the relation of the
+individuals and the attributes to the general name. The individuals
+jointly are spoken of as the DENOTATION, or EXTENSION or SCOPE of
+the name; the common attributes as its CONNOTATION, INTENSION,
+COMPREHENSION, or GROUND. The whole denotation, etc., is the class;
+the whole connotation, etc., is the concept.[1] The limits of a
+"class" in Logic are fixed by the common attributes. Any individual
+object that possesses these is a member. The statement of them is the
+DEFINITION.
+
+To predicate a general name of any object, as, "This is a cat," "This
+is a very sad affair," is to refer that object to a class, which is
+equivalent to saying that it has certain features of resemblance with
+other objects, that it reminds us of them by its likeness to them.
+Thus to say that the predicate of every proposition is a general name,
+expressed or implied, is the same as to say that every predication may
+be taken as a reference to a class.
+
+Ordinarily our notion or concept of the common features signified by
+general names is vague and hazy. The business of Logic is to make them
+clear. It is to this end that the individual objects of the class are
+summoned before the mind. In ordinary thinking there is no definite
+array or muster of objects: when we think of "dog" or "cat,"
+"accident," "book," "beggar," "ratepayer," we do not stop to call
+before the mind a host of representatives of the class, nor do we take
+precise account of their common attributes. The concept of "house" is
+what all houses have in common. To make this explicit would be no
+easy matter, and yet we are constantly referring objects to the
+class "house". We shall see presently that if we wish to make the
+connotation or concept clear we must run over the denotation or class,
+that is to say, the objects to which the general name is applied in
+common usage. Try, for example, to conceive clearly what is meant
+by house, tree, dog, walking-stick. You think of individual objects,
+so-called, and of what they have in common.
+
+A class may be constituted on one property or on many. There are
+several points common to all houses, enclosing walls, a roof, a means
+of exit and entrance. For the full concept of the natural kinds,
+_men_, _dogs_, _mice_, etc., we should have to go to the natural
+historian.
+
+DEGREES OF GENERALITY. One class is said to be of higher generality
+than another when it includes that other and more. Thus animal
+includes man, dog, horse, etc.; man includes Aryan, Semite, etc.;
+Aryan includes Hindoo, Teuton, Celt, etc.
+
+The technical names for higher and lower classes are GENUS and
+SPECIES. These terms are not fixed as in Natural History to certain
+grades, but are purely relative one to another, and movable up and
+down a scale of generality. A class may be a species relatively to one
+class, which is above it, and a genus relatively to one below it. Thus
+Aryan is a species of the genus man, Teuton a species of the genus
+Aryan.
+
+In the graded divisions of Natural History genus and species are fixed
+names for certain grades. Thus: Vertebrates form a "division"; the
+next subdivision, _e.g._, Mammals, Birds, Reptiles, etc., is called a
+"class"; the next, _e.g_., Rodents, Carnivora, Ruminants, an "order";
+the next, _e.g._, Rats, Squirrels, Beavers, a "genus"; the next,
+_e.g._, Brown rats, Mice, a "species".
+
+                Vertebrates (division).
+                      |
+             Mammals, Birds, Reptiles, etc. (class).
+                |
+         Rodents, Ruminants, Carnivors, etc. (order).
+            |
+     Rats, Squirrels, Beavers, etc. (genus).
+       |
+  Brown rats, Mice, etc. (species).
+
+If we subdivide a large class into smaller classes, and, again,
+subdivide these subdivisions, we come at last to single objects.
+
+              Men
+               |
+             ------------
+          Europeans, Asiatics, etc.
+              |
+          -------------
+      Englishmen, Frenchmen, etc.
+           |
+      ---------------------
+  John Doe, Richard Roe, etc.
+
+A table of higher and lower classes arranged in order has been known
+from of old as a _tree_ of division or classification. The following
+is Porphyry's "tree":--
+
+            Being
+           /     \
+  Corporeal       Incorporeal
+           \     /
+            (Body)
+           /     \
+    Animate       Inanimate
+           \     /
+         (Living Being)
+           /     \
+   Sensible       Insensible
+           \     /
+           (Animal)
+           /     \
+   Rational       Irrational
+           \     /
+            (Man)
+              |
+  ---------------------------------------
+  Socrates, Plato, and other individuals.
+
+The single objects are called INDIVIDUALS, because the division cannot
+be carried farther. The highest class is technically the SUMMUM GENUS,
+or _Genus generalissimum_; the next highest class to any species is
+the PROXIMUM GENUS; the lowest group before you descend to individuals
+is the INFIMA SPECIES, or _Species specialissima_.
+
+The attribute or attributes whereby a species is distinguished
+from other species of the same genus, is called its DIFFERENTIA or
+DIFFERENTIAE. The various species of houses are differentiated by their
+several uses, dwelling-house, town-house, ware-house, public-house.
+Poetry is a species of Fine Art, its differentia being the use of
+metrical language as its instrument.
+
+A lower class, indicated by the name of its higher class qualified by
+adjectives or adjective phrases expressing its differential property
+or properties, is said to be described PER GENUS ET DIFFERENTIAM.
+Examples: "Black-bird," "note-book," "clever man," "man of Kent,"
+"eminent British painter of marine subjects". By giving a combination
+of attributes common to him with nobody else, we may narrow down the
+application of a name to an individual: "The Commander-in-Chief of the
+British forces at the battle of Waterloo".
+
+Other attributes of classes as divided and defined, have received
+technical names.
+
+An attribute common to all the individuals of a class, found in that
+class only, and following from the essential or defining attributes,
+though not included among them, is called a PROPRIUM.
+
+An attribute that belongs to some, but not to all, or that belongs to
+all, but is not a necessary consequence of the essential attributes,
+is called an ACCIDENT.
+
+The clearest examples of Propria are found in mathematical figures.
+Thus, the defining property of an equilateral triangle is the equality
+of the sides: the equality of the angles is a proprium. That the
+three angles of a triangle are together equal to two right angles is
+a proprium, true of all triangles, and deducible from the essential
+properties of a triangle.
+
+Outside Mathematics, it is not easy to find _propria_ that satisfy
+the three conditions of the definition. It is a useful exercise of
+the wits to try for such. Educability--an example of the proprium
+in mediaeval text-books--is common to men, and results from man's
+essential constitution; but it is not peculiar; other animals are
+educable. That man cooks his food is probably a genuine proprium.
+
+That horses run wild in Thibet: that gold is found in California: that
+clergymen wear white ties, are examples of Accidents. Learning is an
+accident in man, though educability is a proprium.
+
+What is known technically as an INSEPARABLE ACCIDENT, such as the
+black colour of the crow or the Ethiopian, is not easy to distinguish
+from the Proprium. It is distinguished only by the third character,
+deducibility from the essence.[2]
+
+Accidents that are both common and peculiar are often useful for
+distinguishing members of a class. Distinctive dresses or badges, such
+as the gown of a student, the hood of a D.D., are accidents, but mark
+the class of the individual wearer. So with the colours of flowers.
+
+_Genus_, _Species_, _Differentia_, _Proprium_, and _Accidens_ have
+been known since the time of Porphyry as the FIVE PREDICABLES. They
+are really only terms used in dividing and defining. We shall return
+to them and endeavour to show that they have no significance except
+with reference to fixed schemes, scientific or popular, of Division or
+Classification.
+
+Given such a fixed scheme, very nice questions may be raised as to
+whether a particular attribute is a defining attribute, or a proprium,
+or an accident, or an inseparable accident. Such questions afford
+great scope for the exercise of the analytic intellect.
+
+
+We shall deal more particularly with degrees of generality when
+we come to Definition. This much has been necessary to explain an
+unimportant but much discussed point in Logic, what is known as the
+inverse variation of Connotation and Denotation.
+
+Connotation and Denotation are often said to vary inversely in
+quantity. The larger the connotation the smaller the denotation, and
+_vice versa_. With certain qualifications the statement is correct
+enough, but it is a rough compendious way of expressing the facts and
+it needs qualification.
+
+The main fact to be expressed is that the more general a name is, the
+thinner is its meaning. The wider the scope, the shallower the ground.
+As you rise in the scale of generality, your classes are wider but the
+number of common attributes is less. Inversely, the name of a species
+has a smaller denotation than the name of its genus, but a richer
+connotation. _Fruit-tree_ applies to fewer objects than _tree_,
+but the objects denoted have more in common: so with _apple_ and
+_fruit-tree_, _Ribston Pippin_ and _apple_.
+
+Again, as a rule, if you increase the connotation you contract the
+area within which the name is applicable. Take any group of things
+having certain attributes in common, say, _men of ability_: add
+_courage_, _beauty_, _height of six feet_, _chest measurement of 40
+inches_, and with each addition fewer individuals are to be found
+possessing all the common attributes.
+
+This is obvious enough, and yet the expression inverse variation is
+open to objection. For the denotation may be increased in a sense
+without affecting the connotation. The birth of an animal may be said
+to increase the denotation: every year thousands of new houses are
+built: there are swarms of flies in a hot summer and few in a cold.
+But all the time the connotation of _animal_, _house_, or _fly_
+remains the same: the word does not change its meaning.
+
+It is obviously wrong to say that they vary in inverse proportion.
+Double or treble the number of attributes, and you do not necessarily
+reduce the denotation by one-half or one-third.
+
+It is, in short, the meaning or connotation that is the main thing.
+This determines the application of a word. As a rule if you increase
+meaning, you restrict scope. Let your idea, notion, or concept of
+_culture_ be a knowledge of Mathematics, Latin and Greek: your _men of
+culture_ will be more numerous than if you require from each of them
+these qualifications _plus_ a modern language, an acquaintance with
+the Fine Arts, urbanity of manners, etc.
+
+It is just possible to increase the connotation without decreasing the
+denotation, to thicken or deepen the concept without diminishing
+the class. This is possible only when two properties are exactly
+co-extensive, as equilaterality and equiangularity in triangles.
+
+SINGULAR and PROPER NAMES. A Proper or Singular name is a name used to
+designate an individual. Its function, as distinguished from that of
+the general name, is to be used purely for the purpose of distinctive
+reference.
+
+A man is not called Tom or Dick because he is like in certain respects
+to other Toms or other Dicks. The Toms or the Dicks do not form a
+logical class. The names are given purely for purposes of distinction,
+to single out an individual subject. The Arabic equivalent for a
+Proper name, _alam_, "a mark," "a sign-post," is a recognition of
+this.
+
+In the expressions "a Napoleon," "a Hotspur," "a Harry," the names
+are not singular names logically, but general names logically, used to
+signify the possession of certain attributes.
+
+A man may be nicknamed on a ground, but if the name sticks and is
+often used, the original meaning is forgotten. If it suggests
+the individual in any one of his qualities, any point in which he
+resembles other individuals, it is no longer a Proper or Singular name
+logically, that is, in logical function. That function is fulfilled
+when it has called to mind the individual intended.
+
+To ask, as is sometimes done, whether Proper names are connotative or
+denotative, is merely a confusion of language. The distinction between
+connotation and denotation, extension and intension, applies only to
+general names. Unless a name is general, it has neither extension nor
+intension:[3] a Proper or Singular name is essentially the opposite of
+a general name and has neither the one nor the other.
+
+A nice distinction may be drawn between Proper and Singular names,
+though they are strict synonyms for the same logical function. It is
+not essential to the discharge of that function that the name should
+be strictly appropriated to one object. There are many Toms and many
+Dicks. It is enough that the word indicates the individual without
+confusion in the particular circumstances.
+
+This function may be discharged by words and combinations of words
+that are not Proper in the grammatical sense. "This man," "the cover
+of this book," "the Prime Minister of England," "the seer of Chelsea,"
+may be Singular names as much as Honolulu or Lord Tennyson.
+
+In common speech Singular names are often manufactured _ad hoc_
+by taking a general name and narrowing it down by successive
+qualifications till it applies only to one individual, as "The leading
+subject of the Sovereign of England at the present time". If it so
+happens that an individual has some attribute or combination peculiar
+to himself, he may be suggested by the mention of that attribute
+or combination:--"the inventor of the steam-engine," "the author of
+Hudibras".
+
+Have such names a connotation? The student may exercise his wits
+on the question. It is a nice one, an excellent subject of debate.
+Briefly, if we keep rigid hold of the meaning of connotation, this
+Singular name has none. The combination is a singular name only
+when it is the subject of a predication or an attribution, as in
+the sentences, "The position of the leading subject of etc., is a
+difficult one," or "The leading subject of etc., wears an eyeglass".
+In such a sentence as "So-and-so is the leading subject of etc.," the
+combined name has a connotation, but then it is a general and not a
+singular name.
+
+COLLECTIVE NAMES, as distinguished from General Names. A collective
+name is a name for a number of similar units taken as a whole--a name
+for a totality of similar units, as army, regiment, mob, mankind,
+patrimony, personal estate.
+
+A group or collection designated by a collective name is so far like
+a class that the individual objects have something in common: they
+are not heterogeneous but homogeneous. A mob is a collection of human
+beings; a regiment of soldiers; a library of books.
+
+The distinction lies in this, that whatever is said of a collective
+name is said about the collection as a whole, and does not apply to
+each individual; whatever is said of a general name applies to each
+individual. Further, the collective name can be predicated only of
+the whole group, as a whole; the general name is predicable of each,
+distributively. "Mankind has been in existence for thousands of
+years;" "The mob passed through the streets." In such expressions as
+"An honest man's the noblest work of God," the subject is functionally
+a collective name.
+
+A collective name may be used as a general name when it is extended on
+the ground of what is common to all such totalities as it designates.
+"An excited mob is dangerous;" "An army without discipline is
+useless." The collective name is then "connotative" of the common
+characters of the collection.
+
+MATERIAL OR SUBSTANTIAL NAMES. The question has been raised whether
+names of material, gold, water, snow, coal, are general or collective
+singular. In the case of pieces or bits of a material, it is true that
+any predicate made concerning the material, such as "Sugar is sweet,"
+or "Water quenches thirst," applies to any and every portion. But
+the separate portions are not individuals in the whole signified by
+a material name as individuals are in a class. Further, the name of
+material cannot be predicated of a portion as a class name can be of
+an individual. We cannot say, "This is a sugar". When we say, "This is
+a piece of sugar," sugar is a collective name for the whole material.
+There are probably words on the borderland between general names and
+collective names. In such expressions as "This is a _coal_," "The
+bonnie _water_ o' Urie," the material name is used as a general
+name. The real distinction is between the distributive use and the
+collective use of a name; as a matter of grammatical usage, the same
+word may be used either way, but logically in any actual proposition
+it must be either one or the other.
+
+ABSTRACT NAMES are names for the common attributes or concepts on
+which classes are constituted. A concrete name is a name directly
+applicable to an individual in all his attributes, that is, as he
+exists in the concrete. It may be written on a ticket and pinned to
+him. When we have occasion to speak of the point or points in which a
+number of individuals resemble one another, we use what is called an
+abstract name. "Generous man," "clever man," "timid man," are concrete
+names; "generosity," "cleverness," "timidity," are abstract names.
+
+It is disputed whether abstract names are connotative. The question
+is a confused one: it is like asking whether the name of a town is
+municipal. An abstract name is the name of a connotation as a separate
+object of thought or reference, conceived or spoken of in abstraction
+from individual accidents. Strictly speaking it is notative rather
+than _con_notative: it cannot be said to have a connotation because
+it is itself the symbol of what is called the connotation of a general
+name.[4]
+
+The distinction between abstract names and concrete names is
+virtually a grammatical distinction, that is, a distinction in mode
+of predication. We may use concrete names or abstract names at our
+pleasure to express the same meaning. To say that "John is a timid
+man" is the same thing as saying that "Timidity is one of the
+properties or characteristics or attributes of John". "Pride and
+cruelty generally go together;" "Proud men are generally cruel men."
+
+General names are predicable of individuals because they possess
+certain attributes: to predicate the possession of those attributes is
+the same thing as to predicate the general name.
+
+Abstract forms of predication are employed in common speech quite as
+frequently as concrete, and are, as we shall see, a great source of
+ambiguity and confusion.
+
+    [Footnote 1: It has been somewhat too hastily assumed on the
+    authority of Mansel (Note to Aldrich, pp. 16, 17) that Mill
+    inverted the scholastic tradition in his use of the word
+    _Connotative_. Mansel puts his statement doubtfully, and
+    admits that there was some licence in the use of the word
+    Connotative, but holds that in Scholastic Logic an adjective
+    was said to "signify _primarily_ the attribute, and to
+    _connote_ or _signify secondarily_ ([Greek: prossemainein])
+    the subject of inhesion". The truth is that Mansel's view was
+    a theory of usage not a statement of actual usage, and he had
+    good reason for putting it doubtfully.
+
+    As a matter of fact, the history of the distinction follows
+    the simple type of increasing precision and complexity, and
+    Mill was in strict accord with standard tradition. By the
+    Nominalist commentators on the _Summulae_ of Petrus Hispanus
+    certain names, adjectives grammatically, are called
+    _Connotativa_ as opposed to _Absoluta_, simply because they
+    have a double function. White is connotative as signifying
+    both a subject, such as Socrates, of whom "whiteness" is an
+    attribute, and an attribute "whiteness": the names "Socrates"
+    and "whiteness" are Absolute, as having but a single
+    signification. Occam himself speaks of the subject as the
+    primary signification, and the attribute as the secondary,
+    because the answer to "What is white?" is "Something informed
+    with whiteness," and the subject is in the nominative case
+    while the attribute is in an oblique case (_Logic_, part I.
+    chap. x.). Later on we find that Tataretus (_Expositio in
+    Summulas_, A.D. 1501), while mentioning (Tract. Sept. _De
+    Appellationibus_) that it is a matter of dispute among
+    Doctores whether a connotative name _connotat_ the subject or
+    the attribute, is perfectly explicit in his own definition,
+    "Terminus connotativus est qui praeter illud pro quo supponit
+    connotat aliquid adjacere vel non adjacere rei pro qua
+    supponit" (Tract. Sept. _De Suppositionibus_). And this
+    remained the standard usage as long as the distinction
+    remained in logical text-books. We find it very clearly
+    expressed by Clichtoveus, a Nominalist, quoted as an authority
+    by Guthutius in his _Gymnasium Speculativum_, Paris, 1607 (_De
+    Terminorum Cognitione_, pp. 78-9). "Terminus absolutus est,
+    qui solum illud pro quo in propositione supponit, significat.
+    Connotativus autem, qui ultra idipsum, aliud importat." Thus
+    _man_ and _animal_ are absolute terms, which simply stand
+    for (supponunt pro) the things they signify. _White_ is a
+    connotative name, because "it stands for (supponit pro) a
+    subject in which it is an accident: and beyond this, still
+    signifies an accident, which is in that subject, and is
+    expressed by an abstract name". Only Clichtoveus drops the
+    verb _connotat_, perhaps as a disputable term, and says simply
+    _ultra importat_.
+
+    So in the Port Royal Logic (1662), from which possibly Mill
+    took the distinction: "Les noms qui signifient les choses
+    comme modifiees, marquant premierement et directement la
+    chose, quoique plus confusement, et indirectement le mode,
+    quoique plus distinctement, sont appeles _adjectifs_ ou
+    _connotatifs_; comme rond, dur, juste, prudent" (part i. chap
+    ii.).
+
+    What Mill did was not to invert Scholastic usage but to revive
+    the distinction, and extend the word connotative to general
+    names on the ground that they also imported the possession
+    of attributes. The word has been as fruitful of meticulous
+    discussion as it was in the Renaissance of Logic, though
+    the ground has changed. The point of Mill's innovation was,
+    premising that general names are not absolute but are applied
+    in virtue of a meaning, to put emphasis on this meaning as
+    the cardinal consideration. What he called the connotation had
+    dropped out of sight as not being required in the Syllogistic
+    Forms. This was as it were the point at which he put in his
+    horn to toss the prevalent conception of Logic as Syllogistic.
+
+    The real drift of Mill's innovation has been obscured by
+    the fact that it was introduced among the preliminaries
+    of Syllogism, whereas its real usefulness and significance
+    belongs not to Syllogism in the strict sense but to
+    Definition. He added to the confusion by trying to devise
+    forms of Syllogism based on connotation, and by discussing
+    the Axiom of the Syllogism from this point of view. For
+    syllogistic purposes, as we shall see, Aristotle's forms are
+    perfect, and his conception of the proposition in extension
+    the only correct conception. Whether the centre of gravity in
+    Consistency Logic should not be shifted back from Syllogism to
+    Definition, the latter being the true centre of consistency,
+    is another question. The tendency of Mill's polemic was to
+    make this change. And possibly the secret of the support it
+    has recently received from Mr. Bradley and Mr. Bosanquet is
+    that they, following Hegel, are moving in the same direction.
+
+    In effect, Mill's doctrine of Connotation helped to fix
+    a conception of the general name first dimly suggested by
+    Aristotle when he recognised that names of genera and species
+    signify Quality, in showing what sort a thing is. Occam
+    carried this a step farther towards clear light by including
+    among Connotative Terms such general names as "monk," name of
+    classes that at once suggest a definite attribute. The third
+    step was made by Mill in extending the term Connotation to
+    such words as "man," "horse," the _Infimae Species_ of the
+    Schoolmen, the Species of modern science.
+
+    Whether connotation was the best term to use for this purpose,
+    rather than extension, may be questioned: but at least it was
+    in the line of tradition through Occam.]
+
+    [Footnote 2: The history of the definition of the _Proprium_
+    is an example of the tendency of distinctions to become more
+    minute and at the same time more purposeless. Aristotle's
+    [Greek: idion] was an attribute, such as the laugh of the man
+    or the bark of the dog, common to all of a class and peculiar
+    to the class (_quod convenit omni soli et semper_) yet not
+    comprised in the definition of the class. Porphyry recognised
+    three varieties of [Greek: idia] besides this, four in all,
+    as follows:--(1) an attribute peculiar to a species but not
+    possessed by all, as knowledge of medicine or geometry; (2)
+    possessed by a whole species but not peculiar to it, as being
+    a biped in man; (3) peculiar to a species, and possessed
+    by all at a certain time, as turning grey in old age; (4)
+    Aristotle's "proprium," peculiar and possessed by all, as
+    risibility. The idea of the Proprium as deducible from or
+    consequent on the essence would seem to have originated in
+    the desire to find something common to all Poryphyry's four
+    varieties.]
+
+    [Footnote 3: It is a plausible contention that in the case
+    of the Singular name the extension is at a minimum and the
+    intension at a maximum, the extension being one individual,
+    and the intension the totality of his attributes. But this is
+    an inexact and confused use of words. A name does not _extend_
+    beyond the individual except when it is used to signify one
+    or more of his prominent qualities, that is, is used with the
+    function of a general name. The _ex_tension of a Singular name
+    is zero: it has no extension. On the other hand, it suggests,
+    in its function as a Singular name, no properties or
+    qualities; it suggests only a subject; _i.e._, it has no
+    intension. The ambiguity of the term Denotation helps the
+    confusion in the case of Singular names. "Denote" in common
+    speech means to indicate, to distinguish. But when in Logic
+    we say that a general name denotes individuals, we have no
+    thought of indicating or distinguishing: we mean only that
+    it is applicable to any one, without respect of individuals,
+    either in predication or epithetic description.]
+
+    [Footnote 4: Strictly speaking, as I have tried to indicate
+    all along, the words Connotation and Denotation, or Extension
+    and Intension, apply only to general names. Outside general
+    names, they have no significance. An adjective with its noun
+    is a general name, of which the adjective gives part of the
+    Connotation. If we apply the word connotation to signify
+    merely the suggestion of an attribute in whatever grammatical
+    connexion, then an abstract name is undoubtedly as much
+    connotative as an adjective. The word _Sweetness_ has the same
+    meaning as _Sweet_: it indicates or signifies, conveys to the
+    mind of the reader the same attribute: the only difference is
+    that it does not at the same time indicate a subject in which
+    the attribute is found, as _sweet apple_. The meaning is not
+    _con_noted.]
+
+
+
+

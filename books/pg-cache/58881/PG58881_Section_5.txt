@@ -1,0 +1,705 @@
+CHAPTER V.
+
+_CONCERNING THE ANALYTICAL METHODS OF THE CALCULUS OF PROBABILITIES._
+
+
+The application of the principle which we have just expounded to the
+various questions of probability requires methods whose investigation
+has given birth to several methods of analysis and especially to the
+theory of combinations and to the calculus of finite differences.
+
+If we form the product of the binomials, unity plus the first letter,
+unity plus the second letter, unity plus the third letter, and so on up
+to _n_ letters, and subtract unity from this developed product, the
+result will be the sum of the combination of all these letters taken one
+by one, two by two, three by three, etc., each combination having unity
+for a coefficient. In order to have the number of combinations of these
+_n_ letters taken _s_ by _s_ times, we shall observe that if we suppose
+these letters equal among themselves, the preceding product will become
+the _n_th power of the binomial one plus the first letter; thus the
+number of combinations of _n_ letters taken _s_ by _s_ times will be the
+coefficient of the _s_th power of the first letter in the development in
+this binomial; and this number is obtained by means of the known
+binomial formula.
+
+Attention must be paid to the respective situations of the letters in
+each combination, observing that if a second letter is joined to the
+first it may be placed in the first or second position which gives two
+combinations. If we join to these combinations a third letter, we can
+give it in each combination the first, the second, and the third rank
+which forms three combinations relative to each of the two others, in
+all six combinations. From this it is easy to conclude that the number
+of arrangements of which _s_ letters are susceptible is the product of
+the numbers from unity to _s_. In order to pay regard to the respective
+positions of the letters it is necessary then to multiply by this
+product the number of combinations of _n_ letters _s_ by _s_ times,
+which is tantamount to taking away the denominator of the coefficient of
+the binomial which expresses this number.
+
+Let us imagine a lottery composed of _n_ numbers, of which _r_ are drawn
+at each draw. The probability is demanded of the drawing of _s_ given
+numbers in one draw. To arrive at this let us form a fraction whose
+denominator will be the number of all the cases possible or of the
+combinations of _n_ letters taken _r_ by _r_ times, and whose numerator
+will be the number of all the combinations which contain the given _s_
+numbers. This last number is evidently that of the combinations of the
+other numbers taken _n_ less _s_ by _n_ less _s_ times. This fraction
+will be the required probability, and we shall easily find that it can
+be reduced to a fraction whose numerator is the number of combinations
+of _r_ numbers taken _s_ by _s_ times, and whose denominator is the
+number of combinations of _n_ numbers taken similarly _s_ by _s_ times.
+Thus in the lottery of France, formed as is known of 90 numbers of which
+five are drawn at each draw, the probability of drawing a given
+combination is 5/90, or 1/18; the lottery ought then for the equality of
+the play to give eighteen times the stake. The total number of
+combinations two by two of the 90 numbers is 4005, and that of the
+combinations two by two of 5 numbers is 10. The probability of the
+drawing of a given pair is then 1/4005, and the lottery ought to give
+four hundred and a half times the stake; it ought to give 11748 times
+for a given tray, 511038 times for a quaternary, and 43949268 times for
+a quint. The lottery is far from giving the player these advantages.
+
+Suppose in an urn _a_ white balls, _b_ black balls, and after having
+drawn a ball it is put back into the urn; the probability is asked that
+in _n_ number of draws _m_ white balls and _n_ - _m_ black balls will be
+drawn. It is clear that the number of cases that may occur at each
+drawing is _a_ + _b_. Each case of the second drawing being able to
+combine with all the cases of the first, the number of possible cases in
+two drawings is the square of the binomial _a_ + _b_. In the development
+of this square, the square of a expresses the number of cases in which a
+white ball is twice drawn, the double product of _a_ by _b_ expresses
+the number of cases in which a white ball and a black ball are drawn.
+Finally, the square of _b_ expresses the number of cases in which two
+black balls are drawn. Continuing thus, we see generally that the _n_th
+power of the binomial _a_ + _b_ expresses the number of all the cases
+possible in _n_ draws; and that in the development of this power the
+term multiplied by the _m_th power of _a_ expresses the number of cases
+in which _m_ white balls and _n_ - _m_ black balls may be drawn.
+Dividing then this term by the entire power of the binomial, we shall
+have the probability of drawing _m_ white balls and _n_ - _m_ black
+balls. The ratio of the numbers _a_ and _a_ + _b_ being the probability
+of drawing one white ball at one draw; and the ratio of the numbers _b_
+and _a_ + _b_ being the probability of drawing one black ball; if we
+call these probabilities _p_ and _q_, the probability of drawing _m_
+white balls in _n_ draws will be the term multiplied by the _m_th power
+of _p_ in the development of the _n_th power of the binomial _p_ + _q_;
+we may see that the sum _p_ + _q_ is unity. This remarkable property of
+the binomial is very useful in the theory of probabilities. But the most
+general and direct method of resolving questions of probability consists
+in making them depend upon equations of differences. Comparing the
+successive conditions of the function which expresses the probability
+when we increase the variables by their respective differences, the
+proposed question often furnishes a very simple proportion between the
+conditions. This proportion is what is called _equation of ordinary or
+partial differentials_; _ordinary_ when there is only one variable,
+_partial_ when there are several. Let us consider some examples of this.
+
+Three players of supposed equal ability play together on the following
+conditions: that one of the first two players who beats his adversary
+plays the third, and if he beats him the game is finished. If he is
+beaten, the victor plays against the second until one of the players has
+defeated consecutively the two others, which ends the game. The
+probability is demanded that the game will be finished in a certain
+number _n_ of plays. Let us find the probability that it will end
+precisely at the _n_th play. For that the player who wins ought to enter
+the game at the play _n_ - 1 and win it thus at the following play. But
+if in place of winning the play _n_ - 1 he should be beaten by his
+adversary who had just beaten the other player, the game would end at
+this play. Thus the probability that one of the players will enter the
+game at the play _n_ - 1 and will win it is equal to the probability
+that the game will end precisely with this play; and as this player
+ought to win the following play in order that the game may be finished
+at the _n_th play, the probability of this last case will be only one
+half of the preceding one. This probability is evidently a function of
+the number _n_; this function is then equal to the half of the same
+function when _n_ is diminished by unity. This equality forms one of
+those equations called _ordinary finite differential equations_.
+
+We may easily determine by its use the probability that the game will
+end precisely at a certain play. It is evident that the play cannot end
+sooner than at the second play; and for this it is necessary that that
+one of the first two players who has beaten his adversary should beat at
+the second play the third player; the probability that the game will end
+at this play is ½. Hence by virtue of the preceding equation we conclude
+that the successive probabilities of the end of the game are ¼ for the
+third play, ⅛ for the fourth play, and so on; and in general ½ raised to
+the power _n_ - 1 for the _n_th play. The sum of all these powers of ½
+is unity less the last of these powers; it is the probability that the
+game will end at the latest in _n_ plays.
+
+Let us consider again the first problem more difficult which may be
+solved by probabilities and which Pascal proposed to Fermat to solve.
+Two players, A and B, of equal skill play together on the conditions
+that the one who first shall beat the other a given number of times
+shall win the game and shall take the sum of the stakes at the game;
+after some throws the players agree to quit without having finished the
+game: we ask in what manner the sum ought to be divided between them. It
+is evident that the parts ought to be proportional to the respective
+probabilities of winning the game. The question is reduced then to the
+determination of these probabilities. They depend evidently upon the
+number of points which each player lacks of having attained the given
+number. Hence the probability of A is a function of the two numbers
+which we will call _indices_. If the two players should agree to play
+one throw more (an agreement which does not change their condition,
+provided that after this new throw the division is always made
+proportionally to the new probabilities of winning the game), then
+either A would win this throw and in that case the number of points
+which he lacks would be diminished by unity, or the player B would win
+it and in that case the number of points lacking to this last player
+would be less by unity. But the probability of each of these cases is ½;
+the function sought is then equal to one half of this function in which
+we diminish by unity the first index plus the half of the same function
+in which the second variable is diminished by unity. This equality is
+one of those equations called _equations of partial differentials_.
+
+We are able to determine by its use the probabilities of A by dividing
+the smallest numbers, and by observing that the probability or the
+function which expresses it is equal to unity when the player A does not
+lack a single point, or when the first index is zero, and that this
+function becomes zero with the second index. Supposing thus that the
+player A lacks only one point, we find that his probability is ½, ¾, ⅞,
+etc., according as B lacks one point, two, three, etc. Generally it is
+then unity less the power of ½, equal to the number of points which B
+lacks. We will suppose then that the player A lacks two points and his
+probability will be found equal to ¼, ½, 11/16, etc., according as B
+lacks one point, two points, three points, etc. We will suppose again
+that the player A lacks three points, and so on.
+
+This manner of obtaining the successive values of a quantity by means of
+its equation of differences is long and laborious. The geometricians
+have sought methods to obtain the general function of indices that
+satisfies this equation, so that for any particular case we need only to
+substitute in this function the corresponding values of the indices. Let
+us consider this subject in a general way. For this purpose let us
+conceive a series of terms arranged along a horizontal line so that each
+of them is derived from the preceding one according to a given law. Let
+us suppose this law expressed by an equation among several consecutive
+terms and their index, or the number which indicates the rank that they
+occupy in the series. This equation I call the _equation of finite
+differences by a single index_. The order or the degree of this equation
+is the difference of rank of its two extreme terms. We are able by its
+use to determine successively the terms of the series and to continue it
+indefinitely; but for that it is necessary to know a number of terms of
+the series equal to the degree of the equation. These terms are the
+arbitrary constants of the expression of the general term of the series
+or of the integral of the equation of differences.
+
+Let us imagine now below the terms of the preceding series a second
+series of terms arranged horizontally; let us imagine again below the
+terms of the second series a third horizontal series, and so on to
+infinity; and let us suppose the terms of all these series connected by
+a general equation among several consecutive terms, taken as much in the
+horizontal as in the vertical sense, and the numbers which indicate
+their rank in the two senses. This equation is called the _equation of
+partial finite differences by two indices_.
+
+Let us imagine in the same way below the plan of the preceding series a
+second plan of similar series, whose terms should be placed respectively
+below those of the first plan; let us imagine again below this second
+plan a third plan of similar series, and so on to infinity; let us
+suppose all the terms of these series connected by an equation among
+several consecutive terms taken in the sense of length, width, and
+depth, and the three numbers which indicate their rank in these three
+senses. This equation I call the _equation of partial finite differences
+by three indices_.
+
+Finally, considering the matter in an abstract way and independently of
+the dimensions of space, let us imagine generally a system of
+magnitudes, which should be functions of a certain number of indices,
+and let us suppose among these magnitudes, their relative differences to
+these indices and the indices themselves, as many equations as there are
+magnitudes; these equations will be partial finite differences by a
+certain number of indices.
+
+We are able by their use to determine successively these magnitudes. But
+in the same manner as the equation by a single index requires for it
+that we know a certain number of terms of the series, so the equation by
+two indices requires that we know one or several lines of series whose
+general terms should be expressed each by an arbitrary function of one
+of the indices. Similarly the equation by three indices requires that we
+know one or several plans of series, the general terms of which should
+be expressed each by an arbitrary function of two indices, and so on. In
+all these cases we shall be able by successive eliminations to determine
+a certain term of the series. But all the equations among which we
+eliminate being comprised in the same system of equations, all the
+expressions of the successive terms which we obtain by these
+eliminations ought to be comprised in one general expression, a function
+of the indices which determine the rank of the term. This expression is
+the integral of the proposed equation of differences, and the search for
+it is the object of integral calculus.
+
+Taylor is the first who in his work entitled _Metodus incrementorum_ has
+considered linear equations of finite differences. He gives the manner
+of integrating those of the first order with a coefficient and a last
+term, functions of the index. In truth the relations of the terms of the
+arithmetical and geometrical progressions which have always been taken
+into consideration are the simplest cases of linear equations of
+differences; but they had not been considered from this point of view.
+It was one of those which, attaching themselves to general theories,
+lead to these theories and are consequently veritable discoveries.
+
+About the same time Moivre was considering under the name of recurring
+series the equations of finite differences of a certain order having a
+constant coefficient. He succeeded in integrating them in a very
+ingenious manner. As it is always interesting to follow the progress of
+inventors, I shall expound the method of Moivre by applying it to a
+recurring series whose relation among three consecutive terms is given.
+First he considers the relation among the consecutive terms of a
+geometrical progression or the equation of two terms which expresses it.
+Referring it to terms less than unity, he multiplies it in this state by
+a constant factor and subtracts the product from the first equation.
+Thus he obtains an equation among three consecutive terms of the
+geometrical progression. Moivre considers next a second progression
+whose ratio of terms is the same factor which he has just used. He
+diminishes similarly by unity the index of the terms of the equation of
+this new progression. In this condition he multiplies it by the ratio of
+the terms of the first progression, and he subtracts the product from
+the equation of the second progression, which gives him among three
+consecutive terms of this progression a relation entirely similar to
+that which he has found for the first progression. Then he observes that
+if one adds term by term the two progressions, the same ratio exists
+among any three of these consecutive terms. He compares the coefficients
+of this ratio to those of the relation of the terms of the proposed
+recurrent series, and he finds for determining the ratios of the two
+geometrical progressions an equation of the second degree, whose roots
+are these ratios. Thus Moivre decomposes the recurrent series into two
+geometrical progressions, each multiplied by an arbitrary constant which
+he determines by means of the first two terms of the recurrent series.
+This ingenious process is in fact the one that d'Alembert has since
+employed for the integration of linear equations of infinitely small
+differences with constant coefficients, and Lagrange has transformed
+into similar equations of finite differences.
+
+Finally, I have considered the linear equations of partial finite
+differences, first under the name of _recurro-recurrent_ series and
+afterwards under their own name. The most general and simplest manner of
+integrating all these equations appears to me that which I have based
+upon the consideration of discriminant functions, the idea of which is
+here given.
+
+If we conceive a function _V_ of a variable _t_ developed according to
+the powers of this variable, the coefficient of any one of these powers
+will be a function of the exponent or index of this power, which index I
+shall call _x_. _V_ is what I call the discriminant function of this
+coefficient or of the function of the index.
+
+Now if we multiply the series of the development of _V_ by a function of
+the same variable, such, for example, as unity plus two times this
+variable, the product will be a new discriminant function in which the
+coefficient of the power _x_ of the variable _t_ will be equal to the
+coefficient of the same power in _V_ plus twice the coefficient of the
+power less unity. Thus the function of the index _x_ in the product will
+be equal to the function of the index _x_ in _V_ plus twice the same
+function in which the index is diminished by unity. This function of the
+index _x_ is thus a derivative of the function of the same index in the
+development of _V_, a function which I shall call the _primitive
+function_ of the index. Let us designate the derivative function by the
+letter Alembert placed before the primitive function. The derivation
+indicated by this letter will depend upon the multiplier of _V_, which
+we will call _T_ and which we will suppose developed like _V_ by the
+ratio to the powers of the variable _t_. If we multiply anew by _T_ the
+product of _V_ by _T_, which is equivalent to multiplying _V_ by _T²_,
+we shall form a third discriminant function, in which the coefficient of
+the _x_th power of _t_ will be a derivative similar to the corresponding
+coefficient of the preceding product; it may be expressed by the same
+character _δ_ placed before the preceding derivative, and then this
+character will be written twice before the primitive function of _x_.
+But in place of writing it thus twice we give it 2 for an exponent.
+
+Continuing thus, we see generally that if we multiply _V_ by the _n_th
+power of _T_, we shall have the coefficient of the _x_th power of _t_ in
+the product of _V_ by the _n_th power of _T_ by placing before the
+primitive function the character _δ_ with _n_ for an exponent.
+
+Let us suppose, for example, that _T_ be unity divided by _t_; then in
+the product of _V_ by _T_ the coefficient of the _x_th power of _t_ will
+be the coefficient of the power greater by unity in _V_; this
+coefficient in the product of _V_ by the _n_th power of _T_ will then be
+the primitive function in which _x_ is augmented by _n_ units.
+
+Let us consider now a new function _Z_ of _t_, developed like _V_ and
+_T_ according to the powers of _t_; let us designate by the character
+_Δ_ placed before the primitive function the coefficient of the _x_th
+power of _t_ in the product of _V_ by _Z_; this coefficient in the
+product of _V_ by the _n_th power of _Z_ will be expressed by the
+character _Δ_ affected by the exponent _n_ and placed before the
+primitive function of _x_.
+
+If, for example, _Z_ is equal to unity divided by _t_ less one, the
+coefficient of the _x_th power of _t_ in the product of _V_ by _Z_ will
+be the coefficient of the _x_ + 1 power of _t_ in _V_ less the
+coefficient of the _x_th power. It will be then the finite difference of
+the primitive function of the index _x_. Then the character _Δ_
+indicates a finite difference of the primitive function in the case
+where the index varies by unity; and the _n_th power of this character
+placed before the primitive function will indicate the finite _n_th
+difference of this function. If we suppose that _T_ be unity divided by
+_t_, we shall have _T_ equal to the binomial _Z_ + 1. The product of _V_
+by the _n_th power of _T_ will then be equal to the product of _V_ by
+the _n_th power of the binomial _Z_ + 1. Developing this power in the
+ratio of the powers of _Z_, the product of _V_ by the various terms of
+this development will be the discriminant functions of these same terms
+in which we substitute in place of the powers of _Z_ the corresponding
+finite differences of the primitive function of the index.
+
+Now the product of _V_ by the _n_th power of _T_ is the primitive
+function in which the index _x_ is augmented by _n_ units; repassing
+from the discriminant functions to their coefficients, we shall have
+this primitive function thus augmented equal to the development of the
+_n_th power of the binomial _Z_ + 1, provided that in this development
+we substitute in place of the powers of _Z_ the corresponding
+differences of the primitive function and that we multiply the
+independent term of these powers by the primitive function. We shall
+thus obtain the primitive function whose index is augmented by any
+number _n_ by means of its differences.
+
+Supposing that _T_ and _Z_ always have the preceding values, we shall
+have _Z_ equal to the binomial _T_ - 1; the product of _V_ by the _n_th
+power of _Z_ will then be equal to the product of _V_ by the development
+of the _n_th power of the binomial _T_ - 1. Repassing from the
+discriminant functions to their coefficients as has just been done, we
+shall have the _n_th difference of the primitive function expressed by
+the development of the _n_th power of the binomial _T_ - 1, in which we
+substitute for the powers of _T_ this same function whose index is
+augmented by the exponent of the power, and for the independent term of
+_t_, which is unity, the primitive function, which gives this difference
+by means of the consecutive terms of this function.
+
+Placing _δ_ before the primitive function expressing the derivative of
+this function, which multiplies the _x_ power of _t_ in the product of
+_V_ by _T_, and _Δ_ expressing the same derivative in the product of _V_
+by _Z_, we are led by that which precedes to this general result:
+whatever may be the function of the variable _t_ represented by _T_ and
+_Z_, we may, in the development of all the identical equations
+susceptible of being formed among these functions, substitute the
+characters _δ_ and _Δ_ in place of _T_ and _Z_, provided that we write
+the primitive function of the index in series with the powers and with
+the products of the powers of the characters, and that we multiply by
+this function the independent terms of these characters.
+
+We are able by means of this general result to transform any certain
+power of a difference of the primitive function of the index _x_, in
+which _x_ varies by unity, into a series of differences of the same
+function in which _x_ varies by a certain number of units and
+reciprocally. Let us suppose that _T_ be the _i_ power of unity divided
+by _t_ - 1, and that _Z_ be always unity divided by _t_ - 1; then the
+coefficient of the _x_ power of _t_ in the product of _V_ by _T_ will be
+the coefficient of the _x_ + _i_ power of _t_ in _V_ less the
+coefficient of the _x_ power of _t_; it will then be the finite
+difference of the primitive function of the index _x_ in which we vary
+this index by the number _i_. It is easy to see that _T_ is equal to the
+difference between the _i_ power of the binomial _Z_ + 1 and unity. The
+_n_th power of _T_ is equal to the _n_th power of this difference. If in
+this equality we substitute in place of _T_ and _Z_ the characters _δ_
+and _Δ_, and after the development we place at the end of each term the
+primitive function of the index _x_, we shall have the _n_th difference
+of this function in which _x_ varies by _i_ units expressed by a series
+of differences of the same function in which _x_ varies by unity. This
+series is only a transformation of the difference which it expresses and
+which is identical with it; but it is in similar transformations that
+the power of analysis resides.
+
+The generality of analysis permits us to suppose in this expression that
+_n_ is negative. Then the negative powers of _δ_ and _Δ_ indicate the
+integrals. Indeed the _n_th difference of the primitive function having
+for a discriminant function the product of _V_ by the _n_th power of the
+binomial one divided by _t_ less unity, the primitive function which is
+the _n_th integral of this difference has for a discriminant function
+that of the same difference multiplied by the _n_th power taken less
+than the binomial one divided by _t_ minus one, a power to which the
+same power of the character _Δ_ corresponds; this power indicates then
+an integral of the same order, the index _x_ varying by unity; and the
+negative powers of _δ_ indicate equally the integrals _x_ varying by _i_
+units. We see, thus, in the clearest and simplest manner the rationality
+of the analysis observed among the positive powers and differences, and
+among the negative powers and the integrals.
+
+If the function indicated by _δ_ placed before the primitive function is
+zero, we shall have an equation of finite differences, and _V_ will be
+the discriminant function of its integral. In order to obtain this
+discriminant function we shall observe that in the product of _V_ by _T_
+all the powers of _t_ ought to disappear except the powers inferior to
+the order of the equation of differences; _V_ is then equal to a
+fraction whose denominator is _T_ and whose numerator is a polynomial in
+which the highest power of _t_ is less by unity than the order of the
+equation of differences. The arbitrary coefficients of the various
+powers of _t_ in this polynomial, including the power zero, will be
+determined by as many values of the primitive function of the index when
+we make successively _x_ equal to zero, to one, to two, etc. When the
+equation of differences is given we determine _T_ by putting all its
+terms in the first member and zero in the second; by substituting in the
+first member unity in place of the function which has the largest index;
+the first power of _t_ in place of the primitive function in which this
+index is diminished by unity; the second power of _t_ for the primitive
+function where this index is diminished by two units, and so on. The
+coefficient of the _x_th power of _t_ in the development of the
+preceding expression of _V_ will be the primitive function of _x_ or the
+integral of the equation of finite differences. Analysis furnishes for
+this development various means, among which we may choose that one which
+is most suitable for the question proposed; this is an advantage of this
+method of integration.
+
+Let us conceive now that _V_ be a function of the two variables _t_ and
+_t´_ developed according to the powers and products of these variables;
+the coefficient of any product of the powers _x_ and _x´_ of _t_ and
+_t´_ will be a function of the exponents or indices _x_ and _x´_ of
+these powers; this function I shall call the _primitive function_ of
+which _V_ is the discriminant function.
+
+Let us multiply _V_ by a function _T_ of the two variables _t_ and _t´_
+developed like _V_ in ratio of the powers and the products of these
+variables; the product will be the discriminant function of a derivative
+of the primitive function; if _T_, for example, is equal to the variable
+_t_ plus the variable _t´_ minus two, this derivative will be the
+primitive function of which we diminish by unity the index _x_ plus this
+same primitive function of which we diminish by unity the index _x´_
+less two times the primitive function. Designating whatever _T_ may be
+by the character _δ_ placed before the primitive function, this
+derivative, the product of _V_ by the _n_th power of _T_, will be the
+discriminant function of the derivative of the primitive function before
+which one places the _n_th power of the character _δ_. Hence result the
+theorems analogous to those which are relative to functions of a single
+variable.
+
+Suppose the function indicated by the character _δ_ be zero; one will
+have an equation of partial differences. If, for example, we make as
+before _T_ equal to the variable _t_ plus the variable _t´_ - 2, we have
+zero equal to the primitive function of which we diminish by unity the
+index _x_ plus the same function of which we diminish by unity the index
+_x´_ minus two times the primitive function. The discriminant function
+_V_ of the primitive function or of the integral of this equation ought
+then to be such that its product by _T_ does not include at all the
+products of _t_ by _t´_; but _V_ may include separately the powers of
+_t_ and those of _t´_, that is to say, an arbitrary function of _t_ and
+an arbitrary function of _t´_; _V_ is then a fraction whose numerator is
+the sum of these two arbitrary functions and whose denominator is _T_.
+The coefficient of the product of the _x_th power of _t_ by the _x´_
+power of _t´_ in the development of this fraction will then be the
+integral of the preceding equation of partial differences. This method
+of integrating this kind of equations seems to me the simplest and the
+easiest by the employment of the various analytical processes for the
+development of rational fractions.
+
+More ample details in this matter would be scarcely understood without
+the aid of calculus.
+
+Considering equations of infinitely small partial differences as
+equations of finite partial differences in which nothing is neglected,
+we are able to throw light upon the obscure points of their calculus,
+which have been the subject of great discussions among geometricians. It
+is thus that I have demonstrated the possibility of introducing
+discontinued functions in their integrals, provided that the
+discontinuity takes place only for the differentials of the order of
+these equations or of a superior order. The transcendent results of
+calculus are, like all the abstractions of the understanding, general
+signs whose true meaning may be ascertained only by repassing by
+metaphysical analysis to the elementary ideas which have led to them;
+this often presents great difficulties, for the human mind tries still
+less to transport itself into the future than to retire within itself.
+The comparison of infinitely small differences with finite differences
+is able similarly to shed great light upon the metaphysics of
+infinitesimal calculus.
+
+It is easily proven that the finite _n_th difference of a function in
+which the increase of the variable is _E_ being divided by the _n_th
+power of _E_, the quotient reduced in series by ratio to the powers of
+the increase _E_ is formed by a first term independent of _E._ In the
+measure that _E_ diminishes, the series approaches more and more this
+first term from which it can differ only by quantities less than any
+assignable magnitude. This term is then the limit of the series and
+expresses in differential calculus the infinitely small _n_th difference
+of the function divided by the _n_th power of the infinitely small
+increase.
+
+Considering from this point of view the infinitely small differences, we
+see that the various operations of differential calculus amount to
+comparing separately in the development of identical expressions the
+finite terms or those independent of the increments of the variables
+which are regarded as infinitely small; this is rigorously exact, these
+increments being indeterminant. Thus differential calculus has all the
+exactitude of other algebraic operations.
+
+The same exactitude is found in the applications of differential
+calculus to geometry and mechanics. If we imagine a curve cut by a
+secant at two adjacent points, naming _E_ the interval of the ordinates
+of these two points, _E_ will be the increment of the abscissa from the
+first to the second ordinate. It is easy to see that the corresponding
+increment of the ordinate will be the product of _E_ by the first
+ordinate divided by its subsecant; augmenting then in this equation of
+the curve the first ordinate by this increment, we shall have the
+equation relative to the second ordinate. The difference of these two
+equations will be a third equation which, developed by the ratio of the
+powers of _E_ and divided by _E_, will have its first term independent
+of _E_, which will be the limit of this development. This term, equal to
+zero, will give then the limit of the subsecants, a limit which is
+evidently the subtangent.
+
+This singularly happy method of obtaining the subtangent is due to
+Fermat, who has extended it to transcendent curves. This great
+geometrician expresses by the character _E_ the increment of the
+abscissa; and considering only the first power of this increment, he
+determines exactly as we do by differential calculus the subtangents of
+the curves, their points of inflection, the _maxima_ and _minima_ of
+their ordinates, and in general those of rational functions. We see
+likewise by his beautiful solution of the problem of the refraction of
+light inserted in the _Collection of the Letters of Descartes_ that he
+knows how to extend his methods to irrational functions in freeing them
+from irrationalities by the elevation of the roots to powers. Fermat
+should be regarded, then, as the true discoverer of Differential
+Calculus. Newton has since rendered this calculus more analytical in his
+_Method of Fluxions_, and simplified and generalized the processes by
+his beautiful theorem of the binomial. Finally, about the same time
+Leibnitz has enriched differential calculus by a notation which, by
+indicating the passage from the finite to the infinitely small, adds to
+the advantage of expressing the general results of calculus that of
+giving the first approximate values of the differences and of the sums
+of the quantities; this notation is adapted of itself to the calculus of
+partial differentials.
+
+We are often led to expressions which contain so many terms and factors
+that the numerical substitutions are impracticable. This takes place in
+questions of probability when we consider a great number of events.
+Meanwhile it is necessary to have the numerical value of the formulæ in
+order to know with what probability the results are indicated, which the
+events develop by multiplication. It is necessary especially to have the
+law according to which this probability continually approaches
+certainty, which it will finally attain if the number of events were
+infinite. In order to obtain this law I considered that the definite
+integrals of differentials multiplied by the factors raised to great
+powers would give by integration the formulæ composed of a great number
+of terms and factors. This remark brought me to the idea of transforming
+into similar integrals the complicated expressions of analysis and the
+integrals of the equation of differences. I fulfilled this condition by
+a method which gives at the same time the function comprised under the
+integral sign and the limits of the integration. It offers this
+remarkable thing, that the function is the same discriminant function of
+the expressions and the proposed equations; this attaches this method to
+the theory of discriminant functions of which it is thus the complement.
+Further, it would only be a question of reducing the definite integral
+to a converging series. This I have obtained by a process which makes
+the series converge with as much more rapidity as the formula which it
+represents is more complicated, so that it is more exact as it becomes
+more necessary. Frequently the series has for a factor the square root
+of the ratio of the circumference to the diameter; sometimes it depends
+upon other transcendents whose number is infinite.
+
+An important remark which pertains to great generality of analysis, and
+which permits us to extend this method to formulæ and to equations of
+difference which the theory of probability presents most frequently, is
+that the series to which one comes by supposing the limits of the
+definite integrals to be real and positive take place equally in the
+case where the equation which determines these limits has only negative
+or imaginary roots. These passages from the positive to the negative and
+from the real to the imaginary, of which I first have made use, have led
+me further to the values of many singular definite integrals, which I
+have accordingly demonstrated directly. We may then consider these
+passages as a means of discovery parallel to induction and analogy long
+employed by geometricians, at first with an extreme reserve, afterwards
+with entire confidence, since a great number of examples has justified
+its use. In the mean time it is always necessary to confirm by direct
+demonstrations the results obtained by these divers means.
+
+I have named the ensemble of the preceding methods the _Calculus of
+Discriminant Functions_; this calculus serves as a basis for the work
+which I have published under the title of the _Analytical Theory of
+Probabilities_. It is connected with the simple idea of indicating the
+repeated multiplications of a quantity by itself or its entire and
+positive powers by writing toward the top of the letter which expresses
+it the numbers which mark the degrees of these powers.
+
+This notation, employed by Descartes in his _Geometry_ and generally
+adopted since the publication of this important work, is a little thing,
+especially when compared with the theory of curves and variable
+functions by which this great geometrician has established the
+foundations of modern calculus. But the language of analysis, most
+perfect of all, being in itself a powerful instrument of discoveries,
+its notations, especially when they are necessary and happily conceived,
+are so many germs of new calculi. This is rendered appreciable by this
+example.
+
+Wallis, who in his work entitled _Arithmetica Infinitorum_, one of those
+which have most contributed to the progress of analysis, has interested
+himself especially in following the thread of induction and analogy,
+considered that if one divides the exponent of a letter by two, three,
+etc., the quotient will be accordingly the Cartesian notation, and when
+division is possible the exponent of the square, cube, etc., root of the
+quantity which represents the letter raised to the dividend exponent.
+Extending by analogy this result to the case where division is
+impossible, he considered a quantity raised to a fractional exponent as
+the root of the degree indicated by the denominator of this
+fraction—namely, of the quantity raised to a power indicated by the
+numerator. He observed then that, according to the Cartesian notation,
+the multiplication of two powers of the same letter amounts to adding
+their exponents, and that their division amounts to subtracting the
+exponents of the power of the divisor from that of the power of the
+dividend, when the second of these exponents is greater than the first.
+Wallis extended this result to the case where the first exponent is
+equal to or greater than the second, which makes the difference zero or
+negative. He supposed then that a negative exponent indicates unity
+divided by the quantity raised to the same exponent taken positively.
+These remarks led him to integrate generally the monomial differentials,
+whence he inferred the definite integrals of a particular kind of
+binomial differentials whose exponent is a positive integral number. The
+observation then of the law of the numbers which express these
+integrals, a series of interpolations and happy inductions where one
+perceives the germ of the calculus of definite integrals which has so
+much exercised geometricians and which is one of the fundaments of my
+new _Theory of Probabilities_, gave him the ratio of the area of the
+circle to the square of its diameter expressed by an infinite product,
+which, when one stops it, confines this ratio to limits more and more
+converging; this is one of the most singular results in analysis. But it
+is remarkable that Wallis, who had so well considered the fractional
+exponents of radical powers, should have continued to note these powers
+as had been done before him. Newton in his _Letters to Oldembourg_, if I
+am not mistaken, was the first to employ the notation of these powers by
+fractional exponents. Comparing by the way of induction, of which Wallis
+had made such a beautiful use, the exponents of the powers of the
+binomial with the coefficients of the terms of its development in the
+case where this exponent is integral and positive, he determined the law
+of these coefficients and extended it by analogy to fractional and
+negative powers. These various results, based upon the notation of
+Descartes, show his influence on the progress of analysis. It has still
+the advantage of giving the simplest and fairest idea of logarithms,
+which are indeed only the exponents of a magnitude whose successive
+powers, increasing by infinitely small degrees, can represent all
+numbers.
+
+But the most important extension that this notation has received is that
+of variable exponents, which constitutes exponential calculus, one of
+the most fruitful branches of modern analysis. Leibnitz was the first to
+indicate the transcendents by variable exponents, and thereby he has
+completed the system of elements of which a finite function can be
+composed; for every finite explicit function of a variable may be
+reduced in the last analysis to simple magnitudes, combined by the
+method of addition, subtraction, multiplication, and division and raised
+to constant or variable powers. The roots of the equations formed from
+these elements are the implicit functions of the variable. It is thus
+that a variable has for a logarithm the exponent of the power which is
+equal to it in the series of the powers of the number whose hyperbolic
+logarithm is unity, and the logarithm of a variable of it is an implicit
+function.
+
+Leibnitz thought to give to his differential character the same
+exponents as to magnitudes; but then in place of indicating the repeated
+multiplications of the same magnitude these exponents indicate the
+repeated differentiations of the same function. This new extension of
+the Cartesian notation led Leibnitz to the analogy of positive powers
+with the differentials, and the negative powers with the integrals.
+Lagrange has followed this singular analogy in all its developments; and
+by series of inductions which may be regarded as one of the most
+beautiful applications which have ever been made of the method of
+induction he has arrived at general formulæ which are as curious as
+useful on the transformations of differences and of integrals the ones
+into the others when the variables have divers finite increments and
+when these increments are infinitely small. But he has not given the
+demonstrations of it which appear to him difficult. The theory of
+discriminant functions extends the Cartesian notations to some of its
+characters; it shows with proof the analogy of the powers and operations
+indicated by these characters; so that it may still be regarded as the
+exponential calculus of characters. All that concerns the series and the
+integration of equations of differences springs from it with an extreme
+facility.
+
+
+
+

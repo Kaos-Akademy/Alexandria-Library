@@ -1,0 +1,633 @@
+CHAPTER XX.
+
+METHOD OF VARIATIONS.
+
+
+Experiments may be of two kinds, experiments of simple fact, and
+experiments of quantity. In the first class of experiments we combine
+certain conditions, and wish to ascertain whether or not a certain
+effect of any quantity exists. Hooke wished to ascertain whether or not
+there was any difference in the force of gravity at the top and bottom
+of St. Paul’s Cathedral. The chemist continually performs analyses for
+the purpose of ascertaining whether or not a given element exists in a
+particular mineral or mixture; all such experiments and analyses are
+qualitative rather than quantitative, because though the result may be
+more or less, the particular amount of the result is not the object of
+the inquiry.
+
+So soon, however, as a result is known to be discoverable, the
+scientific man ought to proceed to the quantitative inquiry, how great
+a result follows from a certain amount of the conditions which are
+supposed to constitute the cause? The possible numbers of experiments
+are now infinitely great, for every variation in a quantitative
+condition will usually produce a variation in the amount of the effect.
+The method of variation which thus arises is no narrow or special
+method, but it is the general application of experiment to phenomena
+capable of continuous variation. As Mr. Fowler has well remarked,[356]
+the observation of variations is really an integration of a supposed
+infinite number of applications of the so-called method of difference,
+that is of experiment in its perfect form.
+
+  [356] *Elements of Inductive Logic*, 1st edit. p. 175.
+
+In induction we aim at establishing a general law, and if we deal
+with quantities that law must really be expressed more or less
+obviously in the form of an equation, or equations. We treat as
+before of conditions, and of what happens under those conditions. But
+the conditions will now vary, not in quality, but quantity, and the
+effect will also vary in quantity, so that the result of quantitative
+induction is always to arrive at some mathematical expression involving
+the quantity of each condition, and expressing the quantity of the
+result. In other words, we wish to know what function the effect is
+of its conditions. We shall find that it is one thing to obtain the
+numerical results, and quite another thing to detect the law obeyed
+by those results, the latter being an operation of an inverse and
+tentative character.
+
+
+*The Variable and the Variant.*
+
+Almost every series of quantitative experiments is directed to obtain
+the relation between the different values of one quantity which is
+varied at will, and another quantity which is caused thereby to vary.
+We may conveniently distinguish these as respectively the *variable*
+and the *variant*. When we are examining the effect of heat in
+expanding bodies, heat, or one of its dimensions, temperature, is the
+variable, length the variant. If we compress a body to observe how much
+it is thereby heated, pressure, or it may be the dimensions of the
+body, forms the variable, heat the variant. In the thermo-electric pile
+we make heat the variable and measure electricity as the variant. That
+one of the two measured quantities which is an antecedent condition of
+the other will be the variable.
+
+It is always convenient to have the variable entirely under our
+command. Experiments may indeed be made with accuracy, provided we
+can exactly measure the variable at the moment when the quantity of
+the effect is determined. But if we have to trust to the action of
+some capricious force, there may be great difficulty in making exact
+measurements, and those results may not be disposed over the whole
+range of quantity in a convenient manner. It is one prime object of the
+experimenter, therefore, to obtain a regular and governable supply
+of the force which he is investigating. To determine correctly the
+efficiency of windmills, when the natural winds were constantly varying
+in force, would be exceedingly difficult. Smeaton, therefore, in his
+experiments on the subject, created a uniform wind of the required
+force by moving his models against the air on the extremity of a
+revolving arm.[357] The velocity of the wind could thus be rendered
+greater or less, it could be maintained uniform for any length of
+time, and its amount could be exactly ascertained. In determining the
+laws of the chemical action of light it would be out of the question
+to employ the rays of the sun, which vary in intensity with the
+clearness of the atmosphere, and with every passing cloud. One great
+difficulty in photometry and the investigation of the chemical action
+of light consists in obtaining a uniform and governable source of light
+rays.[358]
+
+  [357] *Philosophical Transactions*, vol. li. p. 138; abridgment,
+  vol. xi. p. 355.
+
+  [358] See Bunsen and Roscoe’s researches, in *Philosophical
+  Transactions* (1859), vol. cxlix. p. 880, &c., where they describe a
+  constant flame of carbon monoxide gas.
+
+Fizeau’s method of measuring the velocity of light enabled him
+to appreciate the time occupied by light in travelling through a
+distance of eight or nine thousand metres. But the revolving mirror
+of Wheatstone subsequently enabled Foucault and Fizeau to measure the
+velocity in a space of four metres. In this latter method there was
+the advantage that various media could be substituted for air, and the
+temperature, density, and other conditions of the experiment could be
+accurately governed and measured.
+
+
+*Measurement of the Variable.*
+
+There is little use in obtaining exact measurements of an effect unless
+we can also exactly measure its conditions.
+
+It is absurd to measure the electrical resistance of a piece of metal,
+its elasticity, tenacity, density, or other physical qualities, if
+these vary, not only with the minute impurities of the metal, but also
+with its physical condition. If the same bar changes its properties
+by being heated and cooled, and we cannot exactly define the state
+in which it is at any moment, our care in measuring will be wasted,
+because it can lead to no law. It is of little use to determine very
+exactly the electric conductibility of carbon, which as graphite or gas
+carbon conducts like a metal, as diamond is almost a non-conductor,
+and in several other forms possesses variable and intermediate
+powers of conduction. It will be of use only for immediate practical
+applications. Before measuring these we ought to have something to
+measure of which the conditions are capable of exact definition, and
+to which at a future time we can recur. Similarly the accuracy of our
+measurement need not much surpass the accuracy with which we can define
+the conditions of the object treated.
+
+The speed of electricity in passing through a conductor mainly depends
+upon the inductive capacity of the surrounding substances, and, except
+for technical or special purposes, there is little use in measuring
+velocities which in some cases are one hundred times as great as in
+other cases. But the maximum speed of electric conduction is probably
+a constant quantity of great scientific importance, and according
+to Prof. Clerk Maxwell’s determination in 1868 is 174,800 miles per
+second, or little less than that of light. The true boiling point of
+water is a point on which practical thermometry depends, and it is
+highly important to determine that point in relation to the absolute
+thermometric scale. But when water free from air and impurity is
+heated there seems to be no definite limit to the temperature it may
+reach, a temperature of 180° Cent. having been actually observed.
+Such temperatures, therefore, do not require accurate measurement.
+All meteorological measurements depending on the accidental condition
+of the sky are of far less importance than physical measurements in
+which such accidental conditions do not intervene. Many profound
+investigations depend upon our knowledge of the radiant energy
+continually poured upon the earth by the sun; but this must be measured
+when the sky is perfectly clear, and the absorption of the atmosphere
+at its minimum. The slightest interference of cloud destroys the value
+of such a measurement, except for meteorological purposes, which are of
+vastly less generality and importance. It is seldom useful, again, to
+measure the height of a snow-covered mountain within a foot, when the
+thickness of the snow alone may cause it to vary 25 feet or more, when
+in short the height itself is indefinite to that extent.[359]
+
+  [359] Humboldt’s *Cosmos* (Bohn), vol. i. p. 7.
+
+
+*Maintenance of Similar Conditions.*
+
+Our ultimate object in induction must be to obtain the complete
+relation between the conditions and the effect, but this relation
+will generally be so complex that we can only attack it in detail.
+We must, as far as possible, confine the variation to one condition
+at a time, and establish a separate relation between each condition
+and the effect. This is at any rate the first step in approximating
+to the complete law, and it will be a subsequent question how far the
+simultaneous variation of several conditions modifies their separate
+actions. In many experiments, indeed, it is only one condition which
+we wish to study, and the others are interfering forces which we would
+avoid if possible. One of the conditions of the motion of a pendulum is
+the resistance of the air, or other medium in which it swings; but when
+Newton was desirous of proving the equal gravitation of all substances,
+he had no interest in the air. His object was to observe a single force
+only, and so it is in a great many other experiments. Accordingly,
+one of the most important precautions in investigation consists in
+maintaining all conditions constant except that which is to be studied.
+As that admirable experimental philosopher, Gilbert, expressed it,[360]
+“There is always need of similar preparation, of similar figure, and
+of equal magnitude, for in dissimilar and unequal circumstances the
+experiment is doubtful.”
+
+  [360] Gilbert, *De Magnete*, p. 109.
+
+In Newton’s decisive experiment similar conditions were provided
+for, with the simplicity which characterises the highest art. The
+pendulums of which the oscillations were compared consisted of equal
+boxes of wood, hanging by equal threads, and filled with different
+substances, so that the total weights should be equal and the centres
+of oscillation at the same distance from the points of suspension.
+Hence the resistance of the air became approximately a matter of
+indifference; for the outward size and shape of the pendulums being
+the same, the absolute force of resistance would be the same, so long
+as the pendulums vibrated with equal velocity; and the weights being
+equal the resistance would diminish the velocity equally. Hence if any
+inequality were observed in the vibrations of the two pendulums, it
+must arise from the only circumstance which was different, namely the
+chemical nature of the matter within the boxes. No inequality being
+observed, the chemical nature of substances can have no appreciable
+influence upon the force of gravitation.[361]
+
+  [361] *Principia*, bk. iii. Prop. vi.
+
+A beautiful experiment was devised by Dr. Joule for the purpose of
+showing that the gain or loss of heat by a gas is connected, not
+with the mere change of its volume and density, but with the energy
+received or given out by the gas. Two strong vessels, connected by
+a tube and stopcock, were placed in water after the air had been
+exhausted from one vessel and condensed in the other to the extent
+of twenty atmospheres. The whole apparatus having been brought to a
+uniform temperature by agitating the water, and the temperature having
+been exactly observed, the stopcock was opened, so that the air at
+once expanded and filled the two vessels uniformly. The temperature
+of the water being again noted was found to be almost unchanged. The
+experiment was then repeated in an exactly similar manner, except that
+the strong vessels were placed in separate portions of the water. Now
+cold was produced in the vessel from which the air rushed, and an
+almost exactly equal quantity of heat appeared in that to which it was
+conducted. Thus Dr. Joule clearly proved that rarefaction produces
+as much heat as cold, and that only when there is disappearance of
+mechanical energy will there be production of heat.[362] What we have
+to notice, however, is not so much the result of the experiment, as the
+simple manner in which a single change in the apparatus, the separation
+of the portions of water surrounding the air vessels, is made to give
+indications of the utmost significance.
+
+  [362] *Philosophical Magazine*, 3rd Series, vol. xxvi. p. 375.
+
+
+*Collective Experiments.*
+
+There is an interesting class of experiments which enable us to observe
+a number of quantitative results in one act. Generally speaking, each
+experiment yields us but one number, and before we can approach the
+real processes of reasoning we must laboriously repeat measurement
+after measurement, until we can lay out a curve of the variation of
+one quantity as depending on another. We can sometimes abbreviate
+this labour, by making a quantity vary in different parts of the same
+apparatus through every required amount. In observing the height to
+which water rises by the capillary attraction of a glass vessel, we may
+take a series of glass tubes of different bore, and measure the height
+through which it rises in each. But if we take two glass plates, and
+place them vertically in water, so as to be in contact at one vertical
+side, and slightly separated at the other side, the interval between
+the plates varies through every intermediate width, and the water rises
+to a corresponding height, producing at its upper surface a hyperbolic
+curve.
+
+The absorption of light in passing through a coloured liquid may be
+beautifully shown by enclosing the liquid in a wedge-shaped glass, so
+that we have at a single glance an infinite variety of thicknesses in
+view. As Newton himself remarked, a red liquid viewed in this manner is
+found to have a pale yellow colour at the thinnest part, and it passes
+through orange into red, which gradually becomes of a deeper and darker
+tint.[363] The effect may be noticed in a conical wine-glass. The
+prismatic analysis of light from such a wedge-shaped vessel discloses
+the reason, by exhibiting the progressive absorption of different rays
+of the spectrum as investigated by Dr. J. H. Gladstone.[364]
+
+  [363] *Opticks*, 3rd edit. p. 159.
+
+  [364] Watts, *Dictionary of Chemistry*, vol. iii. p. 637.
+
+A moving body may sometimes be made to mark out its own course, like
+a shooting star which leaves a tail behind it. Thus an inclined jet
+of water exhibits in the clearest manner the parabolic path of a
+projectile. In Wheatstone’s Kaleidophone the curves produced by the
+combination of vibrations of different ratios are shown by placing
+bright reflective buttons on the tops of wires of various forms. The
+motions are performed so quickly that the eye receives the impression
+of the path as a complete whole, just as a burning stick whirled round
+produces a continuous circle. The laws of electric induction are
+beautifully shown when iron filings are brought under the influence of
+a magnet, and fall into curves corresponding to what Faraday called
+the Lines of Magnetic Force. When Faraday tried to define what he
+meant by his lines of force, he was obliged to refer to the filings.
+“By magnetic curves,” he says,[365] “I mean lines of magnetic forces
+which would be depicted by iron filings.” Robison had previously
+produced similar curves by the action of frictional electricity, and
+from a mathematical investigation of the forms of such curves we may
+infer that magnetic and electric attractions obey the general law of
+emanation, that of the inverse square of the distance. In the electric
+brush we have a similar exhibition of the laws of electric attraction.
+
+  [365] *Faraday’s Life*, by Bence Jones, vol. ii. p. 5.
+
+There are several branches of science in which collective experiments
+have been used with great advantage. Lichtenberg’s electric figures,
+produced by scattering electrified powder on an electrified resin cake,
+so as to show the condition of the latter, suggested to Chladni the
+notion of discovering the state of vibration of plates by strewing sand
+upon them. The sand collects at the points where the motion is least,
+and we gain at a glance a comprehension of the undulations of the
+plate. To this method of experiment we owe the beautiful observations
+of Savart. The exquisite coloured figures exhibited by plates of
+crystal, when examined by polarised light, afford a more complicated
+example of the same kind of investigation. They led Brewster and
+Fresnel to an explanation of the properties of the optic axes of
+crystals. The unequal conduction of heat in crystalline substances has
+also been shown in a similar manner, by spreading a thin layer of wax
+over the plate of crystal, and applying heat to a single point. The
+wax then melts in a circular or elliptic area according as the rate of
+conduction is uniform or not. Nor should we forget that Newton’s rings
+were an early and most important instance of investigations of the
+same kind, showing the effects of interference of light undulations
+of all magnitudes at a single view. Herschel gave to all such
+opportunities of observing directly the results of a general law, the
+name of *Collective Instances*,[366] and I propose to adopt the name
+*Collective Experiments*.
+
+  [366] *Preliminary Discourse*, &c., p. 185.
+
+Such experiments will in many subjects only give the first hint of
+the nature of the law in question, but will not admit of any exact
+measurements. The parabolic form of a jet of water may well have
+suggested to Galileo his views concerning the path of a projectile;
+but it would not serve now for the exact investigation of the laws of
+gravity. It is unlikely that capillary attraction could be exactly
+measured by the use of inclined plates of glass, and tubes would
+probably be better for precise investigation. As a general rule, these
+collective experiments would be most useful for popular illustration.
+But when the curves are of a precise and permanent character, as in
+the coloured figures produced by crystalline plates, they may admit of
+exact measurement. Newton’s rings and diffraction fringes allow of very
+accurate measurements.
+
+Under collective experiments we may perhaps place those in which we
+render visible the motions of gas or liquid by diffusing some opaque
+substance in it. The behaviour of a body of air may often be studied
+in a beautiful way by the use of smoke, as in the production of smoke
+rings and jets. In the case of liquids lycopodium powder is sometimes
+employed. To detect the mixture of currents or strata of liquid, I
+employed very dilute solutions of common salt and silver nitrate,
+which produce a visible cloud wherever they come into contact.[367]
+Atmospheric clouds often reveal to us the movements of great volumes of
+air which would otherwise be quite unapparent.
+
+  [367] *Philosophical Magazine*, July, 1857, 4th Series, vol. xiv.
+  p. 24.
+
+
+*Periodic Variations.*
+
+A large class of investigations is concerned with Periodic Variations.
+We may define a periodic phenomenon as one which, with the uniform
+change of the variable, returns time after time to the same value.
+If we strike a pendulum it presently returns to the point from which
+we disturbed it, and while time, the variable, progresses uniformly,
+it goes on making excursions and returning, until stopped by the
+dissipation of its energy. If one body in space approaches by gravity
+towards another, they will revolve round each other in elliptic
+orbits, and return for an indefinite number of times to the same
+relative positions. On the other hand a single body projected into
+empty space, free from the action of any extraneous force, would go
+on moving for ever in a straight line, according to the first law of
+motion. In the latter case the variation is called *secular*, because
+it proceeds during ages in a similar manner, and suffers no περίοδος
+or going round. It may be doubted whether there really is any motion
+in the universe which is not periodic. Mr. Herbert Spencer long since
+adopted the doctrine that all motion is ultimately rhythmical,[368] and
+abundance of evidence may be adduced in favour of his view.
+
+  [368] *First Principles*, 3rd edit. chap. x. p. 253.
+
+The so-called secular acceleration of the moon’s motion is certainly
+periodic, and as, so far as we can tell, no body is beyond the
+attractive power of other bodies, rectilinear motion becomes purely
+hypothetical, or at least infinitely improbable. All the motions of all
+the stars must tend to become periodic. Though certain disturbances
+in the planetary system seem to be uniformly progressive, Laplace is
+considered to have proved that they really have their limits, so that
+after an immense time, all the planetary bodies might return to the
+same places, and the stability of the system be established. Such a
+theory of periodic stability is really hypothetical, and does not
+take into account phenomena resulting in the dissipation of energy,
+which may be a really secular process. For our present purposes we
+need not attempt to form an opinion on such questions. Any change
+which does not present the appearance of a periodic character will be
+empirically regarded as a secular change, so that there will be plenty
+of non-periodic variations.
+
+The variations which we produce experimentally will often be
+non-periodic. When we communicate heat to a gas it increases in
+bulk or pressure, and as far as we can go the higher the temperature
+the higher the pressure. Our experiments are of course restricted
+in temperature both above and below, but there is every reason to
+believe that the bulk being the same, the pressure would never return
+to the same point at any two different temperatures. We may of course
+repeatedly raise and lower the temperature at regular or irregular
+intervals entirely at our will, and the pressure of the gas will vary
+in like manner and exactly at the same intervals, but such an arbitrary
+series of changes would not constitute Periodic Variation. It would
+constitute a succession of distinct experiments, which would place
+beyond reasonable doubt the connexion of cause and effect.
+
+Whenever a phenomenon recurs at equal or nearly equal intervals, there
+is, according to the theory of probability, considerable evidence
+of connexion, because if the recurrences were entirely casual it is
+unlikely that they would happen at equal intervals. The fact that a
+brilliant comet had appeared in the years 1301, 1378, 1456, 1531, 1607,
+and 1682 gave considerable presumption in favour of the identity of the
+body, apart from similarity of the orbit. There is nothing which so
+fascinates the attention of men as the recurrence time after time of
+some unusual event. Things and appearances which remain ever the same,
+like mountains and valleys, fail to excite the curiosity of a primitive
+people. It has been remarked by Laplace that even in his day the rising
+of Venus in its brightest phase never failed to excite surprise and
+interest. So there is little doubt that the first germ of science
+arose in the attention given by Eastern people to the changes of the
+moon and the motions of the planets. Perhaps the earliest astronomical
+discovery consisted in proving the identity of the morning and evening
+stars, on the grounds of their similarity of aspect and invariable
+alternation.[369] Periodical changes of a somewhat complicated kind
+must have been understood by the Chaldeans, because they were aware
+of the cycle of 6585 days or 19 years which brings round the new and
+full moon upon the same days, hours, and even minutes of the year.
+The earliest efforts of scientific prophecy were founded upon this
+knowledge, and if at present we cannot help wondering at the precise
+anticipations of the nautical almanack, we may imagine the wonder
+excited by such predictions in early times.
+
+  [369] Laplace, *System of the World*, vol. i. pp. 50, 54, &c.
+
+
+*Combined Periodic Changes.*
+
+We shall seldom find a body subject to a single periodic variation,
+and free from other disturbances. We may expect the periodic variation
+itself to undergo variation, which may possibly be secular, but is more
+likely to prove periodic; nor is there any limit to the complication of
+periods beyond periods, or periods within periods, which may ultimately
+be disclosed. In studying a phenomenon of rhythmical character we have
+a succession of questions to ask. Is the periodic variation uniform? If
+not, is the change uniform? If not, is the change itself periodic? Is
+that new period uniform, or subject to any other change, or not? and so
+on *ad infinitum*.
+
+In some cases there may be many distinct causes of periodic variations,
+and according to the principle of the superposition of small effects,
+to be afterwards considered, these periodic effects will be simply
+added together, or at least approximately so, and the joint result may
+present a very complicated subject of investigation. The tides of the
+ocean consist of a series of superimposed undulations. Not only are
+there the ordinary semi-diurnal tides caused by sun and moon, but a
+series of minor tides, such as the lunar diurnal, the solar diurnal,
+the lunar monthly, the lunar fortnightly, the solar annual and solar
+semi-annual are gradually being disentangled by the labours of Sir W.
+Thomson, Professor Haughton and others.
+
+Variable stars present interesting periodic phenomena; while some
+stars, δ Cephei for instance, are subject to very regular variations,
+others, like Mira Ceti, are less constant in the degrees of brilliancy
+which they attain or the rapidity of the changes, possibly on account
+of some longer periodic variation.[370] The star β Lyræ presents a
+double maximum and minimum in each of its periods of nearly 13 days,
+and since the discovery of this variation the period in a period has
+probably been on the increase. “At first the variability was more
+rapid, then it became gradually slower; and this decrease in the length
+of time reached its limit between the years 1840 and 1844. During that
+time its period was nearly invariable; at present it is again decidedly
+on the decrease.”[371] The tracing out of such complicated variations
+presents an unlimited field for interesting investigation. The number
+of such variable stars already known is considerable, and there is no
+reason to suppose that any appreciable fraction of the whole number has
+yet been detected.
+
+  [370] Herschel’s *Outlines of Astronomy*, 4th edit. pp. 555–557.
+
+  [371] Humboldt’s *Cosmos* (Bohn), vol. iii. p. 229.
+
+
+*Principle of Forced Vibrations.*
+
+Investigations of the connection of periodic causes and effects
+rest upon a principle, which has been demonstrated by Sir John
+Herschel for some special cases, and clearly explained by him in
+several of his works.[372] The principle may be formally stated in
+the following manner: “If one part of any system connected together
+either by material ties, or by the mutual attractions of its members,
+be continually maintained by any cause, whether inherent in the
+constitution of the system or external to it, in a state of regular
+periodic motion, that motion will be propagated throughout the whole
+system, and will give rise, in every member of it, and in every part
+of each member, to periodic movements executed in equal periods, with
+that to which they owe their origin, though not necessarily synchronous
+with them in their maxima and minima.” The meaning of the proposition
+is that the effect of a periodic cause will be periodic, and will recur
+at intervals equal to those of the cause. Accordingly when we find two
+phenomena which do proceed, time after time, through changes of the
+same period, there is much probability that they are connected. In
+this manner, doubtless, Pliny correctly inferred that the cause of the
+tides lies in the sun and the moon, the intervals between successive
+high tides being equal to the intervals between the moon’s passage
+across the meridian. Kepler and Descartes too admitted the connection
+previous to Newton’s demonstration of its precise nature. When Bradley
+discovered the apparent motion of the stars arising from the aberration
+of light, he was soon able to attribute it to the earth’s annual
+motion, because it went through its phases in a year.
+
+  [372] *Encyclopædia Metropolitana*, art. *Sound*, § 323; *Outlines
+  of Astronomy*, 4th edit., § 650. pp. 410, 487–88; *Meteorology,
+  Encyclopædia Britannica*, Reprint, p. 197.
+
+The most beautiful instance of induction concerning periodic changes
+which can be cited, is the discovery of an eleven-year period in
+various meteorological phenomena. It would be difficult to mention any
+two things apparently more disconnected than the spots upon the sun and
+auroras. As long ago as 1826, Schwabe commenced a regular series of
+observations of the spots upon the sun, which has been continued to the
+present time, and he was able to show that at intervals of about eleven
+years the spots increased much in size and number. Hardly was this
+discovery made known, when Lamont pointed out a nearly equal period of
+variation in the declination of the magnetic needle. Magnetic storms or
+sudden disturbances of the needle were next shown to take place most
+frequently at the times when sun-spots were prevalent, and as auroras
+are generally coincident with magnetic storms, these phenomena were
+brought into the cycle. It has since been shown by Professor Piazzi
+Smyth and Mr. E. J. Stone, that the temperature of the earth’s surface
+as indicated by sunken thermometers gives some evidence of a like
+period. The existence of a periodic cause having once been established,
+it is quite to be expected, according to the principle of forced
+vibrations, that its influence will be detected in all meteorological
+phenomena.
+
+
+*Integrated Variations.*
+
+In considering the various modes in which one effect may depend upon
+another, we must set in a distinct class those which arise from the
+accumulated effects of a constantly acting cause. When water runs out
+of a cistern, the velocity of motion depends, according to Torricelli’s
+theorem, on the height of the surface of the water above the vent;
+but the amount of water which leaves the cistern in a given time
+depends upon the aggregate result of that velocity, and is only to
+be ascertained by the mathematical process of integration. When one
+gravitating body falls towards another, the force of gravity varies
+according to the inverse square of the distance; to obtain the velocity
+produced we must integrate or sum the effects of that law; and to
+obtain the space passed over by the body in a given time, we must
+integrate again.
+
+In periodic variations the same distinction must be drawn. The heating
+power of the sun’s rays at any place on the earth varies every day with
+the height attained, and is greatest about noon; but the temperature of
+the air will not be greatest at the same time. This temperature is an
+integrated effect of the sun’s heating power, and as long as the sun
+is able to give more heat to the air than the air loses in other ways,
+the temperature continues to rise, so that the maximum is deferred
+until about 3 P.M. Similarly the hottest day of the year falls, on an
+average, about one month later than the summer solstice, and all the
+seasons lag about a month behind the motions of the sun. In the case
+of the tides, too, the effect of the moon’s attractive power is never
+greatest when the power is greatest; the effect always lags more or
+less behind the cause. Yet the intervals between successive tides are
+equal, in the absence of disturbance, to the intervals between the
+passages of the moon across the meridian. Thus the principle of forced
+vibrations holds true.
+
+In periodic phenomena, however, curious results sometimes follow from
+the integration of effects. If we strike a pendulum, and then repeat
+the stroke time after time at the same part of the vibration, all the
+strokes concur in adding to the momentum, and we can thus increase the
+extent and violence of the vibrations to any degree. We can stop the
+pendulum again by strokes applied when it is moving in the opposite
+direction, and the effects being added together will soon bring it to
+rest. Now if we alter the intervals of the strokes so that each two
+successive strokes act in opposite manners they will neutralise each
+other, and the energy expended will be turned into heat or sound at the
+point of percussion. Similar effects occur in all cases of rhythmical
+motion. If a musical note is sounded in a room containing a piano,
+the string corresponding to it will be thrown into vibration, because
+every successive stroke of the air-waves upon the string finds it in
+like position as regards the vibration, and thus adds to its energy of
+motion. But the other strings being incapable of vibrating with the
+same rapidity are struck at various points of their vibrations, and one
+stroke will soon be opposed by one contrary in effect. All phenomena of
+*resonance* arise from this coincidence in time of undulation. The air
+in a pipe closed at one end, and about 12 inches in length, is capable
+of vibrating 512 times in a second. If, then, the note C is sounded in
+front of the open end of the pipe, every successive vibration of the
+air is treasured up as it were in the motion of the air. In a pipe of
+different length the pulses of air would strike each other, and the
+mechanical energy being transmuted into heat would become no longer
+perceptible as sound.
+
+Accumulated vibrations sometimes become so intense as to lead to
+unexpected results. A glass vessel if touched with a violin bow at
+a suitable point may be fractured with the violence of vibration. A
+suspension bridge may be broken down if a company of soldiers walk
+across it in steps the intervals of which agree with the vibrations
+of the bridge itself. But if they break the step or march in either
+quicker or slower pace, they may have no perceptible effect upon the
+bridge. In fact if the impulses communicated to any vibrating body are
+synchronous with its vibrations, the energy of those vibrations will be
+unlimited, and may fracture any body.
+
+Let us now consider what will happen if the strokes be not exactly at
+the same intervals as the vibrations of the body, but, say, a little
+slower. Then a succession of strokes will meet the body in nearly but
+not quite the same position, and their efforts will be accumulated.
+Afterwards the strokes will begin to fall when the body is in the
+opposite phase. Imagine that one pendulum moving from one extreme
+point to another in a second, should be struck by another pendulum
+which makes 61 beats in a minute; then, if the pendulums commence
+together, they will at the end of 30-1/2 beats be moving in opposite
+directions. Hence whatever energy was communicated in the first half
+minute will be neutralised by the opposite effect of that given in the
+second half. The effect of the strokes of the second pendulum will
+therefore be alternately to increase and decrease the vibrations of
+the first, so that a new kind of vibration will be produced running
+through its phases in 61 seconds. An effect of this kind was actually
+observed by Ellicott, a member of the Royal Society, in the case of two
+clocks.[373] He found that through the wood-work by which the clocks
+were connected a slight impulse was transmitted, and each pendulum
+alternately lost and gained momentum. Each clock, in fact, tended to
+stop the other at regular intervals, and in the intermediate times to
+be stopped by the other.
+
+  [373] *Philosophical Transactions*, (1739), vol. xli. p. 126.
+
+Many disturbances in the planetary system depend upon the same
+principle; for if one planet happens always to pull another in the
+same direction in similar parts of their orbits, the effects, however
+slight, will be accumulated, and a disturbance of large ultimate
+amount and of long period will be produced. The long inequality in
+the motions of Jupiter and Saturn is thus due to the fact that five
+times the mean motion of Saturn is very nearly equal to twice the mean
+motion of Jupiter, causing a coincidence in their relative positions
+and disturbing powers. The rolling of ships depends mainly upon the
+question whether the period of vibration of the ship corresponds or
+not with the intervals at which the waves strike her. Much which seems
+at first sight unaccountable in the behaviour of vessels is thus
+explained, and the loss of the *Captain* is a sad case in point.
+
+
+
+

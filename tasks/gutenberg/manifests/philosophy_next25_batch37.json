@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 42880,
+      "title": "Philosophy and the Social Problem",
+      "author": "Durant, Will, 1885-1981",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy; Social problems",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42917,
+      "title": "The Eagle's Nest\nTen Lectures on the Relation of Natural Science to Art, Given Before the University of Oxford, in Lent Term, 1872",
+      "author": "Ruskin, John, 1819-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Art and science",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42930,
+      "title": "Plotinos: Complete Works, v. 1\nIn Chronological Order, Grouped in Four Periods",
+      "author": "Plotinus, 205?-270; Guthrie, Kenneth Sylvan, 1871-1940 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Plotinus",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42968,
+      "title": "The Riddle of the Universe at the close of the nineteenth century",
+      "author": "Haeckel, Ernst, 1834-1919; McCabe, Joseph, 1867-1955 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Soul; Religion and science; Evolution; Monism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42984,
+      "title": "Not Paul, but Jesus",
+      "author": "Bentham, Jeremy, 1748-1832; Crandall, John J., 1836-1922 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Paul, the Apostle, Saint; Bible. New Testament -- Criticism, interpretation, etc.; Christianity -- Origin",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42988,
+      "title": "Nursing as Caring: A Model for Transforming Practice",
+      "author": "Boykin, Anne, 1944-; Schoenhofer, Savina O'Bryan, 1940-; Pennell, Shawn [Illustrator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Nursing -- Philosophy; Caring; Empathy; Nursing models",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43040,
+      "title": "Consumers and Wage-Earners: The Ethics of Buying Cheap",
+      "author": "Ross, J. Elliot (John Elliot), 1884-1946",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Wages -- United States; Wages; Consumers -- United States",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43062,
+      "title": "Theoretical Ethics",
+      "author": "Valentine, M. (Milton), 1825-1906",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics; Christian ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43205,
+      "title": "Is the Devil a Myth?",
+      "author": "Wimberly, C. F. (Charles Franklin), 1866-1946",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Good and evil; Devil",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43237,
+      "title": "The Spirit Land",
+      "author": "Emmons, Samuel B. (Samuel Bulfinch)",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Spiritualism; Occultism -- Early works to 1900",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43240,
+      "title": "Alchemy: Ancient and Modern\nBeing a Brief Account of the Alchemistic Doctrines, and Their Relations, to Mysticism on the One Hand, and to Recent Discoveries in Physical Science on the Other Hand; Together with Some Particulars Regarding the Lives and Teachings of the Most Noted Alchemists",
+      "author": "Redgrove, H. Stanley (Herbert Stanley), 1887-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Alchemy -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43273,
+      "title": "Zen Buddhism, and Its Relation to Art",
+      "author": "Waley, Arthur, 1889-1966",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Zen Buddhism; Buddhist art",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43303,
+      "title": "Lures of Life",
+      "author": "Lucas, Joseph",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43328,
+      "title": "The Lost Faith, and Difficulties of the Bible, as Tested by the Laws of Evidence",
+      "author": "Childs, Thomas S. (Thomas Spencer), 1825-1914",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Bible and science",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43359,
+      "title": "Human Intercourse",
+      "author": "Hamerton, Philip Gilbert, 1834-1894",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Conduct of life; Manners and customs",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43365,
+      "title": "The Buke of the Order of Knyghthood\nTranslated from the French by Sir Gilbert Hay, Knight",
+      "author": "Llull, Ramon, 1232?-1316; Botfield, Beriah, 1807-1863 [Editor]; Hay, Gilbert,\u200f \u200eSir,\u200f active 1456 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Chivalry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43405,
+      "title": "Ethics and Modern Thought: A Theory of Their Relations",
+      "author": "Eucken, Rudolf, 1846-1926; Seydewitz, Margaret von [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43409,
+      "title": "The Kingdom of God is Within You; What is Art?",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Delano, Aline, 1845-1928 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christianity -- Controversial literature; Art; Evil, Non-resistance to; Christianity -- Essence, genius, nature; Nonviolence -- Religious aspects -- Christianity; Government, Resistance to -- Religious aspects -- Christianity; Art and morals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43439,
+      "title": "Short Studies in Ethics: An Elementary Text-Book for Schools",
+      "author": "Miller, John Ormsby, 1861-",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43453,
+      "title": "A Pickle for the Knowing Ones",
+      "author": "Dexter, Timothy, 1747-1806",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Dexter, Timothy, 1747-1806; Newburyport (Mass.) -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43466,
+      "title": "Not Guilty: A Defence of the Bottom Dog",
+      "author": "Blatchford, Robert, 1851-1943",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Criminals; Free will and determinism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43484,
+      "title": "Beauty and the Beast: An Essay in Evolutionary Aesthetic",
+      "author": "McDowall, Stewart Andrew, 1882-1935",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Aesthetics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43548,
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "De Laurence, L. W. (Lauron William), 1868-1936; Smith, Pamela Colman, 1878-1951 [Illustrator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Fortune-telling by cards; Tarot",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43550,
+      "title": "The Bible of Bibles; Or, Twenty-Seven \"Divine\" Revelations",
+      "author": "Graves, Kersey, 1813-1883; Graves, Lydia M.",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Free thought",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 43572,
+      "title": "A Commentary to Kant's 'Critique of Pure Reason'",
+      "author": "Smith, Norman Kemp, 1872-1958",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Kant, Immanuel, 1724-1804. Kritik der reinen Vernunft",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

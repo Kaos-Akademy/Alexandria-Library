@@ -1,0 +1,553 @@
+CHAPTER II.
+
+ORDINARY ANALYSIS, OR ALGEBRA.
+
+
+The _Calculus of direct Functions_, or _Algebra_, is (as was shown at
+the end of the preceding chapter) entirely sufficient for the solution
+of mathematical questions, when they are so simple that we can form
+directly the equations between the magnitudes themselves which we are
+considering, without its being necessary to introduce in their place, or
+conjointly with them, any system of auxiliary quantities _derived_ from
+the first. It is true that in the greatest number of important cases its
+use requires to be preceded and prepared by that of the _Calculus of
+indirect Functions_, which is intended to facilitate the establishment
+of equations. But, although algebra has then only a secondary office to
+perform, it has none the less a necessary part in the complete solution
+of the question, so that the _Calculus of direct Functions_ must
+continue to be, by its nature, the fundamental base of all mathematical
+analysis. We must therefore, before going any further, consider in a
+general manner the logical composition of this calculus, and the degree
+of development to which it has at the present day arrived.
+
+
+_Its Object._ The final object of this calculus being the _resolution_
+(properly so called) of _equations_, that is, the discovery of the
+manner in which the unknown quantities are formed from the known
+quantities, in accordance with the _equations_ which exist between them,
+it naturally presents as many different departments as we can conceive
+truly distinct classes of equations. Its appropriate extent is
+consequently rigorously indefinite, the number of analytical functions
+susceptible of entering into equations being in itself quite unlimited,
+although they are composed of only a very small number of primitive
+elements.
+
+
+_Classification of Equations._ The rational classification of equations
+must evidently be determined by the nature of the analytical elements of
+which their numbers are composed; every other classification would be
+essentially arbitrary. Accordingly, analysts begin by dividing equations
+with one or more variables into two principal classes, according as they
+contain functions of only the first three couples (see the table in
+chapter i., page 51), or as they include also exponential or circular
+functions. The names of _Algebraic_ functions and _Transcendental_
+functions, commonly given to these two principal groups of analytical
+elements, are undoubtedly very inappropriate. But the universally
+established division between the corresponding equations is none the
+less very real in this sense, that the resolution of equations
+containing the functions called _transcendental_ necessarily presents
+more difficulties than those of the equations called _algebraic_. Hence
+the study of the former is as yet exceedingly imperfect, so that
+frequently the resolution of the most simple of them is still unknown to
+us,[7] and our analytical methods have almost exclusive reference to the
+elaboration of the latter.
+
+  [Footnote 7: Simple as may seem, for example, the equation
+
+  _a^x_ + _b^x_ = _c^x_,
+
+  we do not yet know how to resolve it, which may give some idea of
+  the extreme imperfection of this part of algebra.]
+
+
+
+
+ALGEBRAIC EQUATIONS.
+
+
+Considering now only these _Algebraic_ equations, we must observe, in
+the first place, that although they may often contain _irrational_
+functions of the unknown quantities as well as _rational_ functions, we
+can always, by more or less easy transformations, make the first case
+come under the second, so that it is with this last that analysts have
+had to occupy themselves exclusively in order to resolve all sorts of
+_algebraic_ equations.
+
+
+_Their Classification._ In the infancy of algebra, these equations were
+classed according to the number of their terms. But this classification
+was evidently faulty, since it separated cases which were really
+similar, and brought together others which had nothing in common besides
+this unimportant characteristic.[8] It has been retained only for
+equations with two terms, which are, in fact, capable of being resolved
+in a manner peculiar to themselves.
+
+  [Footnote 8: The same error was afterward committed, in the infancy
+  of the infinitesimal calculus, in relation to the integration of
+  differential equations.]
+
+The classification of equations by what is called their _degrees_, is,
+on the other hand, eminently natural, for this distinction rigorously
+determines the greater or less difficulty of their _resolution_. This
+gradation is apparent in the cases of all the equations which can be
+resolved; but it may be indicated in a general manner independently of
+the fact of the resolution. We need only consider that the most general
+equation of each degree necessarily comprehends all those of the
+different inferior degrees, as must also the formula which determines
+the unknown quantity. Consequently, however slight we may suppose the
+difficulty peculiar to the _degree_ which we are considering, since it
+is inevitably complicated in the execution with those presented by all
+the preceding degrees, the resolution really offers more and more
+obstacles, in proportion as the degree of the equation is elevated.
+
+
+
+
+ALGEBRAIC RESOLUTION OF EQUATIONS.
+
+
+_Its Limits._ The resolution of algebraic equations is as yet known to
+us only in the four first degrees, such is the increase of difficulty
+noticed above. In this respect, algebra has made no considerable
+progress since the labours of Descartes and the Italian analysts of the
+sixteenth century, although in the last two centuries there has been
+perhaps scarcely a single geometer who has not busied himself in trying
+to advance the resolution of equations. The general equation of the
+fifth degree itself has thus far resisted all attacks.
+
+The constantly increasing complication which the formulas for resolving
+equations must necessarily present, in proportion as the degree
+increases (the difficulty of using the formula of the fourth degree
+rendering it almost inapplicable), has determined analysts to renounce,
+by a tacit agreement, the pursuit of such researches, although they are
+far from regarding it as impossible to obtain the resolution of
+equations of the fifth degree, and of several other higher ones.
+
+
+_General Solution._ The only question of this kind which would be really
+of great importance, at least in its logical relations, would be the
+general resolution of algebraic equations of any degree whatsoever. Now,
+the more we meditate on this subject, the more we are led to think, with
+Lagrange, that it really surpasses the scope of our intelligence. We
+must besides observe that the formula which would express the _root_ of
+an equation of the _m^{th}_ degree would necessarily include radicals of
+the _m^{th}_ order (or functions of an equivalent multiplicity), because
+of the _m_ determinations which it must admit. Since we have seen,
+besides, that this formula must also embrace, as a particular case, that
+formula which corresponds to every lower degree, it follows that it
+would inevitably also contain radicals of the next lower degree, the
+next lower to that, &c., so that, even if it were possible to discover
+it, it would almost always present too great a complication to be
+capable of being usefully employed, unless we could succeed in
+simplifying it, at the same time retaining all its generality, by the
+introduction of a new class of analytical elements of which we yet have
+no idea. We have, then, reason to believe that, without having already
+here arrived at the limits imposed by the feeble extent of our
+intelligence, we should not be long in reaching them if we actively and
+earnestly prolonged this series of investigations.
+
+It is, besides, important to observe that, even supposing we had
+obtained the resolution of _algebraic_ equations of any degree whatever,
+we would still have treated only a very small part of _algebra_,
+properly so called, that is, of the calculus of direct functions,
+including the resolution of all the equations which can be formed by the
+known analytical functions.
+
+Finally, we must remember that, by an undeniable law of human nature,
+our means for conceiving new questions being much more powerful than our
+resources for resolving them, or, in other words, the human mind being
+much more ready to inquire than to reason, we shall necessarily always
+remain _below_ the difficulty, no matter to what degree of development
+our intellectual labour may arrive. Thus, even though we should some day
+discover the complete resolution of all the analytical equations at
+present known, chimerical as the supposition is, there can be no doubt
+that, before attaining this end, and probably even as a subsidiary
+means, we would have already overcome the difficulty (a much smaller
+one, though still very great) of conceiving new analytical elements, the
+introduction of which would give rise to classes of equations of which,
+at present, we are completely ignorant; so that a similar imperfection
+in algebraic science would be continually reproduced, in spite of the
+real and very important increase of the absolute mass of our knowledge.
+
+
+_What we know in Algebra._ In the present condition of algebra, the
+complete resolution of the equations of the first four degrees, of any
+binomial equations, of certain particular equations of the higher
+degrees, and of a very small number of exponential, logarithmic, or
+circular equations, constitute the fundamental methods which are
+presented by the calculus of direct functions for the solution of
+mathematical problems. But, limited as these elements are, geometers
+have nevertheless succeeded in treating, in a truly admirable manner, a
+very great number of important questions, as we shall find in the course
+of the volume. The general improvements introduced within a century into
+the total system of mathematical analysis, have had for their principal
+object to make immeasurably useful this little knowledge which we have,
+instead of tending to increase it. This result has been so fully
+obtained, that most frequently this calculus has no real share in the
+complete solution of the question, except by its most simple parts;
+those which have reference to equations of the two first degrees, with
+one or more variables.
+
+
+
+
+NUMERICAL RESOLUTION OF EQUATIONS.
+
+
+The extreme imperfection of algebra, with respect to the resolution of
+equations, has led analysts to occupy themselves with a new class of
+questions, whose true character should be here noted. They have busied
+themselves in filling up the immense gap in the resolution of algebraic
+equations of the higher degrees, by what they have named the _numerical
+resolution_ of equations. Not being able to obtain, in general, the
+_formula_ which expresses what explicit function of the given quantities
+the unknown one is, they have sought (in the absence of this kind of
+resolution, the only one really _algebraic_) to determine, independently
+of that formula, at least the _value_ of each unknown quantity, for
+various designated systems of particular values attributed to the given
+quantities. By the successive labours of analysts, this incomplete and
+illegitimate operation, which presents an intimate mixture of truly
+algebraic questions with others which are purely arithmetical, has been
+rendered possible in all cases for equations of any degree and even of
+any form. The methods for this which we now possess are sufficiently
+general, although the calculations to which they lead are often so
+complicated as to render it almost impossible to execute them. We have
+nothing else to do, then, in this part of algebra, but to simplify the
+methods sufficiently to render them regularly applicable, which we may
+hope hereafter to effect. In this condition of the calculus of direct
+functions, we endeavour, in its application, so to dispose the proposed
+questions as finally to require only this numerical resolution of the
+equations.
+
+
+_Its limited Usefulness._ Valuable as is such a resource in the absence
+of the veritable solution, it is essential not to misconceive the true
+character of these methods, which analysts rightly regard as a very
+imperfect algebra. In fact, we are far from being always able to reduce
+our mathematical questions to depend finally upon only the _numerical_
+resolution of equations; that can be done only for questions quite
+isolated or truly final, that is, for the smallest number. Most
+questions, in fact, are only preparatory, and intended to serve as an
+indispensable preparation for the solution of other questions. Now, for
+such an object, it is evident that it is not the actual _value_ of the
+unknown quantity which it is important to discover, but the _formula_,
+which shows how it is derived from the other quantities under
+consideration. It is this which happens, for example, in a very
+extensive class of cases, whenever a certain question includes at the
+same time several unknown quantities. We have then, first of all, to
+separate them. By suitably employing the simple and general method so
+happily invented by analysts, and which consists in referring all the
+other unknown quantities to one of them, the difficulty would always
+disappear if we knew how to obtain the algebraic resolution of the
+equations under consideration, while the _numerical_ solution would then
+be perfectly useless. It is only for want of knowing the _algebraic_
+resolution of equations with a single unknown quantity, that we are
+obliged to treat _Elimination_ as a distinct question, which forms one
+of the greatest special difficulties of common algebra. Laborious as are
+the methods by the aid of which we overcome this difficulty, they are
+not even applicable, in an entirely general manner, to the elimination
+of one unknown quantity between two equations of any form whatever.
+
+In the most simple questions, and when we have really to resolve only a
+single equation with a single unknown quantity, this _numerical_
+resolution is none the less a very imperfect method, even when it is
+strictly sufficient. It presents, in fact, this serious inconvenience of
+obliging us to repeat the whole series of operations for the slightest
+change which may take place in a single one of the quantities
+considered, although their relations to one another remain unchanged;
+the calculations made for one case not enabling us to dispense with any
+of those which relate to a case very slightly different. This happens
+because of our inability to abstract and treat separately that purely
+algebraic part of the question which is common to all the cases which
+result from the mere variation of the given numbers.
+
+According to the preceding considerations, the calculus of direct
+functions, viewed in its present state, divides into two very distinct
+branches, according as its subject is the _algebraic_ resolution of
+equations or their _numerical_ resolution. The first department, the
+only one truly satisfactory, is unhappily very limited, and will
+probably always remain so; the second, too often insufficient, has, at
+least, the advantage of a much greater generality. The necessity of
+clearly distinguishing these two parts is evident, because of the
+essentially different object proposed in each, and consequently the
+peculiar point of view under which quantities are therein considered.
+
+
+_Different Divisions of the two Methods of Resolution._ If, moreover, we
+consider these parts with reference to the different methods of which
+each is composed, we find in their logical distribution an entirely
+different arrangement. In fact, the first part must be divided according
+to the nature of the equations which we are able to resolve, and
+independently of every consideration relative to the _values_ of the
+unknown quantities. In the second part, on the contrary, it is not
+according to the _degrees_ of the equations that the methods are
+naturally distinguished, since they are applicable to equations of any
+degree whatever; it is according to the numerical character of the
+_values_ of the unknown quantities; for, in calculating these numbers
+directly, without deducing them from general formulas, different means
+would evidently be employed when the numbers are not susceptible of
+having their values determined otherwise than by a series of
+approximations, always incomplete, or when they can be obtained with
+entire exactness. This distinction of _incommensurable_ and of
+_commensurable_ roots, which require quite different principles for
+their determination, important as it is in the numerical resolution of
+equations, is entirely insignificant in the algebraic resolution, in
+which the _rational_ or _irrational_ nature of the numbers which are
+obtained is a mere accident of the calculation, which cannot exercise
+any influence over the methods employed; it is, in a word, a simple
+arithmetical consideration. We may say as much, though in a less degree,
+of the division of the commensurable roots themselves into _entire_ and
+_fractional_. In fine, the case is the same, in a still greater degree,
+with the most general classification of roots, as _real_ and
+_imaginary_. All these different considerations, which are preponderant
+as to the numerical resolution of equations, and which are of no
+importance in their algebraic resolution, render more and more sensible
+the essentially distinct nature of these two principal parts of algebra.
+
+
+
+
+THE THEORY OF EQUATIONS.
+
+
+These two departments, which constitute the immediate object of the
+calculus of direct functions, are subordinate to a third one, purely
+speculative, from which both of them borrow their most powerful
+resources, and which has been very exactly designated by the general
+name of _Theory of Equations_, although it as yet relates only to
+_Algebraic_ equations. The numerical resolution of equations, because of
+its generality, has special need of this rational foundation.
+
+This last and important branch of algebra is naturally divided into two
+orders of questions, viz., those which refer to the _composition_ of
+equations, and those which concern their _transformation_; these latter
+having for their object to modify the roots of an equation without
+knowing them, in accordance with any given law, providing that this law
+is uniform in relation to all the parts.[9]
+
+  [Footnote 9: The fundamental principle on which reposes the theory
+  of equations, and which is so frequently applied in all
+  mathematical analysis--the decomposition of algebraic, rational,
+  and entire functions, of any degree whatever, into factors of the
+  first degree--is never employed except for functions of a single
+  variable, without any one having examined if it ought to be
+  extended to functions of several variables. The general
+  impossibility of such a decomposition is demonstrated by the author
+  in detail, but more properly belongs to a special treatise.]
+
+
+
+
+THE METHOD OF INDETERMINATE COEFFICIENTS.
+
+
+To complete this rapid general enumeration of the different essential
+parts of the calculus of direct functions, I must, lastly, mention
+expressly one of the most fruitful and important theories of algebra
+proper, that relating to the transformation of functions into series by
+the aid of what is called the _Method of indeterminate Coefficients_.
+This method, so eminently analytical, and which must be regarded as one
+of the most remarkable discoveries of Descartes, has undoubtedly lost
+some of its importance since the invention and the development of the
+infinitesimal calculus, the place of which it might so happily take in
+some particular respects. But the increasing extension of the
+transcendental analysis, although it has rendered this method much less
+necessary, has, on the other hand, multiplied its applications and
+enlarged its resources; so that by the useful combination between the
+two theories, which has finally been effected, the use of the method of
+indeterminate coefficients has become at present much more extensive
+than it was even before the formation of the calculus of indirect
+functions.
+
+       *       *       *       *       *
+
+Having thus sketched the general outlines of algebra proper, I have now
+to offer some considerations on several leading points in the calculus
+of direct functions, our ideas of which may be advantageously made more
+clear by a philosophical examination.
+
+
+
+
+IMAGINARY QUANTITIES.
+
+
+The difficulties connected with several peculiar symbols to which
+algebraic calculations sometimes lead, and especially to the expressions
+called _imaginary_, have been, I think, much exaggerated through purely
+metaphysical considerations, which have been forced upon them, in the
+place of regarding these abnormal results in their true point of view as
+simple analytical facts. Viewing them thus, we readily see that, since
+the spirit of mathematical analysis consists in considering magnitudes
+in reference to their relations only, and without any regard to their
+determinate value, analysts are obliged to admit indifferently every
+kind of expression which can be engendered by algebraic combinations.
+The interdiction of even one expression because of its apparent
+singularity would destroy the generality of their conceptions. The
+common embarrassment on this subject seems to me to proceed essentially
+from an unconscious confusion between the idea of _function_ and the
+idea of _value_, or, what comes to the same thing, between the
+_algebraic_ and the _arithmetical_ point of view. A thorough examination
+would show mathematical analysis to be much more clear in its nature
+than even mathematicians commonly suppose.
+
+
+
+
+NEGATIVE QUANTITIES.
+
+
+As to negative quantities, which have given rise to so many misplaced
+discussions, as irrational as useless, we must distinguish between their
+_abstract_ signification and their _concrete_ interpretation, which have
+been almost always confounded up to the present day. Under the first
+point of view, the theory of negative quantities can be established in a
+complete manner by a single algebraical consideration. The necessity of
+admitting such expressions is the same as for imaginary quantities, as
+above indicated; and their employment as an analytical artifice, to
+render the formulas more comprehensive, is a mechanism of calculation
+which cannot really give rise to any serious difficulty. We may
+therefore regard the abstract theory of negative quantities as leaving
+nothing essential to desire; it presents no obstacles but those
+inappropriately introduced by sophistical considerations.
+
+It is far from being so, however, with their concrete theory. This
+consists essentially in that admirable property of the signs + and-, of
+representing analytically the oppositions of directions of which certain
+magnitudes are susceptible. This _general theorem_ on the relation of
+the concrete to the abstract in mathematics is one of the most beautiful
+discoveries which we owe to the genius of Descartes, who obtained it as
+a simple result of properly directed philosophical observation. A great
+number of geometers have since striven to establish directly its general
+demonstration, but thus far their efforts have been illusory. Their vain
+metaphysical considerations and heterogeneous minglings of the abstract
+and the concrete have so confused the subject, that it becomes necessary
+to here distinctly enunciate the general fact. It consists in this: if,
+in any equation whatever, expressing the relation of certain quantities
+which are susceptible of opposition of directions, one or more of those
+quantities come to be reckoned in a direction contrary to that which
+belonged to them when the equation was first established, it will not be
+necessary to form directly a new equation for this second state of the
+phenomena; it will suffice to change, in the first equation, the sign of
+each of the quantities which shall have changed its direction; and the
+equation, thus modified, will always rigorously coincide with that which
+we would have arrived at in recommencing to investigate, for this new
+case, the analytical law of the phenomenon. The general theorem consists
+in this constant and necessary coincidence. Now, as yet, no one has
+succeeded in directly proving this; we have assured ourselves of it only
+by a great number of geometrical and mechanical verifications, which
+are, it is true, sufficiently multiplied, and especially sufficiently
+varied, to prevent any clear mind from having the least doubt of the
+exactitude and the generality of this essential property, but which, in
+a philosophical point of view, do not at all dispense with the research
+for so important an explanation. The extreme extent of the theorem must
+make us comprehend both the fundamental difficulties of this research
+and the high utility for the perfecting of mathematical science which
+would belong to the general conception of this great truth. This
+imperfection of theory, however, has not prevented geometers from making
+the most extensive and the most important use of this property in all
+parts of concrete mathematics.
+
+It follows from the above general enunciation of the fact, independently
+of any demonstration, that the property of which we speak must never be
+applied to magnitudes whose directions are continually varying, without
+giving rise to a simple opposition of direction; in that case, the sign
+with which every result of calculation is necessarily affected is not
+susceptible of any concrete interpretation, and the attempts sometimes
+made to establish one are erroneous. This circumstance occurs, among
+other occasions, in the case of a radius vector in geometry, and
+diverging forces in mechanics.
+
+
+
+
+PRINCIPLE OF HOMOGENEITY.
+
+
+A second general theorem on the relation of the concrete to the abstract
+is that which is ordinarily designated under the name of _Principle of
+Homogeneity_. It is undoubtedly much less important in its applications
+than the preceding, but it particularly merits our attention as having,
+by its nature, a still greater extent, since it is applicable to all
+phenomena without distinction, and because of the real utility which it
+often possesses for the verification of their analytical laws. I can,
+moreover, exhibit a direct and general demonstration of it which seems
+to me very simple. It is founded on this single observation, which is
+self-evident, that the exactitude of every relation between any concrete
+magnitudes whatsoever is independent of the value of the _units_ to
+which they are referred for the purpose of expressing them in numbers.
+For example, the relation which exists between the three sides of a
+right-angled triangle is the same, whether they are measured by yards,
+or by miles, or by inches.
+
+It follows from this general consideration, that every equation which
+expresses the analytical law of any phenomenon must possess this
+property of being in no way altered, when all the quantities which are
+found in it are made to undergo simultaneously the change corresponding
+to that which their respective units would experience. Now this change
+evidently consists in all the quantities of each sort becoming at once
+_m_ times smaller, if the unit which corresponds to them becomes _m_
+times greater, or reciprocally. Thus every equation which represents any
+concrete relation whatever must possess this characteristic of remaining
+the same, when we make _m_ times greater all the quantities which it
+contains, and which express the magnitudes between which the relation
+exists; excepting always the numbers which designate simply the mutual
+_ratios_ of these different magnitudes, and which therefore remain
+invariable during the change of the units. It is this property which
+constitutes the law of Homogeneity in its most extended signification,
+that is, of whatever analytical functions the equations may be composed.
+
+But most frequently we consider only the cases in which the functions
+are such as are called _algebraic_, and to which the idea of _degree_ is
+applicable. In this case we can give more precision to the general
+proposition by determining the analytical character which must be
+necessarily presented by the equation, in order that this property may
+be verified. It is easy to see, then, that, by the modification just
+explained, all the _terms_ of the first degree, whatever may be their
+form, rational or irrational, entire or fractional, will become _m_
+times greater; all those of the second degree, _m²_ times; those of the
+third, _m³_ times, &c. Thus the terms of the same degree, however
+different may be their composition, varying in the same manner, and the
+terms of different degrees varying in an unequal proportion, whatever
+similarity there may be in their composition, it will be necessary, to
+prevent the equation from being disturbed, that all the terms which it
+contains should be of the same degree. It is in this that properly
+consists the ordinary theorem of _Homogeneity_, and it is from this
+circumstance that the general law has derived its name, which, however,
+ceases to be exactly proper for all other functions.
+
+In order to treat this subject in its whole extent, it is important to
+observe an essential condition, to which attention must be paid in
+applying this property when the phenomenon expressed by the equation
+presents magnitudes of different natures. Thus it may happen that the
+respective units are completely independent of each other, and then the
+theorem of Homogeneity will hold good, either with reference to all the
+corresponding classes of quantities, or with regard to only a single one
+or more of them. But it will happen on other occasions that the
+different units will have fixed relations to one another, determined by
+the nature of the question; then it will be necessary to pay attention
+to this subordination of the units in verifying the homogeneity, which
+will not exist any longer in a purely algebraic sense, and the precise
+form of which will vary according to the nature of the phenomena. Thus,
+for example, to fix our ideas, when, in the analytical expression of
+geometrical phenomena, we are considering at once lines, areas, and
+volumes, it will be necessary to observe that the three corresponding
+units are necessarily so connected with each other that, according to
+the subordination generally established in that respect, when the first
+becomes _m_ times greater, the second becomes _m²_ times, and the third
+_m³_ times. It is with such a modification that homogeneity will exist
+in the equations, in which, if they are _algebraic_, we will have to
+estimate the degree of each term by doubling the exponents of the
+factors which correspond to areas, and tripling those of the factors
+relating to volumes.
+
+       *       *       *       *       *
+
+Such are the principal general considerations relating to the _Calculus
+of Direct Functions_. We have now to pass to the philosophical
+examination of the _Calculus of Indirect Functions_, the much superior
+importance and extent of which claim a fuller development.
+
+
+
+

@@ -1,0 +1,259 @@
+CHAPTER VI.
+
+THE CALCULUS OF FINITE DIFFERENCES.
+
+
+The different fundamental considerations indicated in the five preceding
+chapters constitute, in reality, all the essential bases of a complete
+exposition of mathematical analysis, regarded in the philosophical point
+of view. Nevertheless, in order not to neglect any truly important
+general conception relating to this analysis, I think that I should here
+very summarily explain the veritable character of a kind of calculus
+which is very extended, and which, though at bottom it really belongs to
+ordinary analysis, is still regarded as being of an essentially distinct
+nature. I refer to the _Calculus of Finite Differences_, which will be
+the special subject of this chapter.
+
+
+_Its general Character._ This calculus, created by Taylor, in his
+celebrated work entitled _Methodus Incrementorum_, consists essentially
+in the consideration of the finite increments which functions receive as
+a consequence of analogous increments on the part of the corresponding
+variables. These increments or _differences_, which take the
+characteristic Δ, to distinguish them from _differentials_, or
+infinitely small increments, may be in their turn regarded as new
+functions, and become the subject of a second similar consideration, and
+so on; from which results the notion of differences of various
+successive orders, analogous, at least in appearance, to the consecutive
+orders of differentials. Such a calculus evidently presents, like the
+calculus of indirect functions, two general classes of questions:
+
+1°. To determine the successive differences of all the various
+analytical functions of one or more variables, as the result of a
+definite manner of increase of the independent variables, which are
+generally supposed to augment in arithmetical progression.
+
+2°. Reciprocally, to start from these differences, or, more generally,
+from any equations established between them, and go back to the
+primitive functions themselves, or to their corresponding relations.
+
+Hence follows the decomposition of this calculus into two distinct ones,
+to which are usually given the names of the _Direct_, and the _Inverse
+Calculus of Finite Differences_, the latter being also sometimes called
+the _Integral Calculus of Finite Differences_. Each of these would,
+also, evidently admit of a logical distribution similar to that given in
+the fourth chapter for the differential and the integral calculus.
+
+
+_Its true Nature._ There is no doubt that Taylor thought that by such a
+conception he had founded a calculus of an entirely new nature,
+absolutely distinct from ordinary analysis, and more general than the
+calculus of Leibnitz, although resting on an analogous consideration. It
+is in this way, also, that almost all geometers have viewed the analysis
+of Taylor; but Lagrange, with his usual profundity, clearly perceived
+that these properties belonged much more to the forms and to the
+notations employed by Taylor than to the substance of his theory. In
+fact, that which constitutes the peculiar character of the analysis of
+Leibnitz, and makes of it a truly distinct and superior calculus, is the
+circumstance that the derived functions are in general of an entirely
+different nature from the primitive functions, so that they may give
+rise to more simple and more easily formed relations: whence result the
+admirable fundamental properties of the transcendental analysis, which
+have been already explained. But it is not so with the _differences_
+considered by Taylor; for these differences are, by their nature,
+functions essentially similar to those which have produced them, a
+circumstance which renders them unsuitable to facilitate the
+establishment of equations, and prevents their leading to more general
+relations. Every equation of finite differences is truly, at bottom, an
+equation directly relating to the very magnitudes whose successive
+states are compared. The scaffolding of new signs, which produce an
+illusion respecting the true character of these equations, disguises it,
+however, in a very imperfect manner, since it could always be easily
+made apparent by replacing the _differences_ by the equivalent
+combinations of the primitive magnitudes, of which they are really only
+the abridged designations. Thus the calculus of Taylor never has
+offered, and never can offer, in any question of geometry or of
+mechanics, that powerful general aid which we have seen to result
+necessarily from the analysis of Leibnitz. Lagrange has, moreover, very
+clearly proven that the pretended analogy observed between the calculus
+of differences and the infinitesimal calculus was radically vicious, in
+this way, that the formulas belonging to the former calculus can never
+furnish, as particular cases, those which belong to the latter, the
+nature of which is essentially distinct.
+
+From these considerations I am led to think that the calculus of finite
+differences is, in general, improperly classed with the transcendental
+analysis proper, that is, with the calculus of indirect functions. I
+consider it, on the contrary, in accordance with the views of Lagrange,
+to be only a very extensive and very important branch of ordinary
+analysis, that is to say, of that which I have named the calculus of
+direct functions, the equations which it considers being always, in
+spite of the notation, simple _direct_ equations.
+
+
+
+
+GENERAL THEORY OF SERIES.
+
+
+To sum up as briefly as possible the preceding explanation, the calculus
+of Taylor ought to be regarded as having constantly for its true object
+the general theory of _Series_, the most simple cases of which had alone
+been considered before that illustrious geometer. I ought, properly, to
+have mentioned this important theory in treating, in the second chapter,
+of Algebra proper, of which it is such an extensive branch. But, in
+order to avoid a double reference to it, I have preferred to notice it
+only in the consideration of the calculus of finite differences, which,
+reduced to its most simple general expression, is nothing but a complete
+logical study of questions relating to _series_.
+
+Every _Series_, or succession of numbers deduced from one another
+according to any constant law, necessarily gives rise to these two
+fundamental questions:
+
+1°. The law of the series being supposed known, to find the expression
+for its general term, so as to be able to calculate immediately any term
+whatever without being obliged to form successively all the preceding
+terms.
+
+2°. In the same circumstances, to determine the _sum_ of any number of
+terms of the series by means of their places, so that it can be known
+without the necessity of continually adding these terms together.
+
+These two fundamental questions being considered to be resolved, it may
+be proposed, reciprocally, to find the law of a series from the form of
+its general term, or the expression of the sum. Each of these different
+problems has so much the more extent and difficulty, as there can be
+conceived a greater number of different _laws_ for the series, according
+to the number of preceding terms on which each term directly depends,
+and according to the function which expresses that dependence. We may
+even consider series with several variable indices, as Laplace has done
+in his "Analytical Theory of Probabilities," by the analysis to which he
+has given the name of _Theory of Generating Functions_, although it is
+really only a new and higher branch of the calculus of finite
+differences or of the general theory of series.
+
+These general views which I have indicated give only an imperfect idea
+of the truly infinite extent and variety of the questions to which
+geometers have risen by means of this single consideration of series, so
+simple in appearance and so limited in its origin. It necessarily
+presents as many different cases as the algebraic resolution of
+equations, considered in its whole extent; and it is, by its nature,
+much more complicated, so much, indeed, that it always needs this last
+to conduct it to a complete solution. We may, therefore, anticipate what
+must still be its extreme imperfection, in spite of the successive
+labours of several geometers of the first order. We do not, indeed,
+possess as yet the complete and logical solution of any but the most
+simple questions of this nature.
+
+
+_Its identity with this Calculus._ It is now easy to conceive the
+necessary and perfect identity, which has been already announced,
+between the calculus of finite differences and the theory of series
+considered in all its bearings. In fact, every differentiation after the
+manner of Taylor evidently amounts to finding the _law_ of formation of
+a series with one or with several variable indices, from the expression
+of its general term; in the same way, every analogous integration may be
+regarded as having for its object the summation of a series, the general
+term of which would be expressed by the proposed difference. In this
+point of view, the various problems of the calculus of differences,
+direct or inverse, resolved by Taylor and his successors, have really a
+very great value, as treating of important questions relating to series.
+But it is very doubtful if the form and the notation introduced by
+Taylor really give any essential facility in the solution of questions
+of this kind. It would be, perhaps, more advantageous for most cases,
+and certainly more logical, to replace the _differences_ by the terms
+themselves, certain combinations of which they represent. As the
+calculus of Taylor does not rest on a truly distinct fundamental idea,
+and has nothing peculiar to it but its system of signs, there could
+never really be any important advantage in considering it as detached
+from ordinary analysis, of which it is, in reality, only an immense
+branch. This consideration of _differences_, most generally useless,
+even if it does not cause complication, seems to me to retain the
+character of an epoch in which, analytical ideas not being sufficiently
+familiar to geometers, they were naturally led to prefer the special
+forms suitable for simple numerical comparisons.
+
+
+
+
+PERIODIC OR DISCONTINUOUS FUNCTIONS.
+
+
+However that may be, I must not finish this general appreciation of the
+calculus of finite differences without noticing a new conception to
+which it has given birth, and which has since acquired a great
+importance. It is the consideration of those periodic or discontinuous
+functions which preserve the same value for an infinite series of values
+of the corresponding variables, subjected to a certain law, and which
+must be necessarily added to the integrals of the equations of finite
+differences in order to render them sufficiently general, as simple
+arbitrary constants are added to all quadratures in order to complete
+their generality. This idea, primitively introduced by Euler, has since
+been the subject of extended investigation by M. Fourier, who has made
+new and important applications of it in his mathematical theory of heat.
+
+
+
+
+APPLICATIONS OF THIS CALCULUS.
+
+
+_Series._ Among the principal general applications which have been made
+of the calculus of finite differences, it would be proper to place in
+the first rank, as the most extended and the most important, the
+solution of questions relating to series; if, as has been shown, the
+general theory of series ought not to be considered as constituting, by
+its nature, the actual foundation of the calculus of Taylor.
+
+
+_Interpolations._ This great class of problems being then set aside, the
+most essential of the veritable applications of the analysis of Taylor
+is, undoubtedly, thus far, the general method of _interpolations_, so
+frequently and so usefully employed in the investigation of the
+empirical laws of natural phenomena. The question consists, as is well
+known, in intercalating between certain given numbers other intermediate
+numbers, subjected to the same law which we suppose to exist between the
+first. We can abundantly verify, in this principal application of the
+calculus of Taylor, how truly foreign and often inconvenient is the
+consideration of _differences_ with respect to the questions which
+depend on that analysis. Indeed, Lagrange has replaced the formulas of
+interpolation, deduced from the ordinary algorithm of the calculus of
+finite differences, by much simpler general formulas, which are now
+almost always preferred, and which have been found directly, without
+making any use of the notion of _differences_, which only complicates
+the question.
+
+
+_Approximate Rectification, &c._ A last important class of applications
+of the calculus of finite differences, which deserves to be
+distinguished from the preceding, consists in the eminently useful
+employment made of it in geometry for determining by approximation the
+length and the area of any curve, and in the same way the cubature of a
+body of any form whatever. This procedure (which may besides be
+conceived abstractly as depending on the same analytical investigation
+as the question of interpolation) frequently offers a valuable
+supplement to the entirely logical geometrical methods which often lead
+to integrations, which we do not yet know how to effect, or to
+calculations of very complicated execution.
+
+       *       *       *       *       *
+
+Such are the various principal considerations to be noticed with respect
+to the calculus of finite differences. This examination completes the
+proposed philosophical outline of ABSTRACT MATHEMATICS.
+
+
+CONCRETE MATHEMATICS will now be the subject of a similar labour. In it
+we shall particularly devote ourselves to examining how it has been
+possible (supposing the general science of the calculus to be perfect),
+by invariable procedures, to reduce to pure questions of analysis all
+the problems which can be presented by _Geometry_ and _Mechanics_, and
+thus to impress on these two fundamental bases of natural philosophy a
+degree of precision and especially of unity; in a word, a character of
+high perfection, which could be communicated to them by such a course
+alone.
+
+
+
+

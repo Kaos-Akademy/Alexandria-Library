@@ -1,0 +1,1096 @@
+CHAPTER IX.
+
+
+_INDUCTION AND ITS CONNECTION WITH PROBABILITY._
+
+1. We were occupied, during the last chapter, with the
+examination of a rule, the object of which was to enable
+us to make inferences about instances as yet unexamined.
+It was professedly, therefore, a rule of an inductive character.
+But, in the form in which it is commonly expressed,
+it was found to fail utterly. It is reasonable therefore to
+enquire at this point whether Probability is entirely a formal
+or deductive science, or whether, on the other hand, we are
+able, by means of it, to make valid inferences about instances
+as yet unexamined. This question has been already in part
+answered by implication in the course of the last two chapters.
+It is proposed in the present chapter to devote a fuller
+investigation to this subject, and to describe, as minutely as
+limits will allow, the nature of the connection between Probability
+and Induction. We shall find it advisable for clearness
+of conception to commence our enquiry at a somewhat
+early stage. We will travel over the ground, however, as
+rapidly as possible, until we approach the boundary of what
+can properly be termed Probability.
+
+2. Let us then conceive some one setting to work to
+investigate nature, under its broadest aspect, with the view
+of systematizing the facts of experience that are known, and
+thence (in case he should find that this is possible) discovering
+others which are at present unknown. He observes a
+multitude of phenomena, physical and mental, contemporary
+and successive. He enquires what connections are there
+between them? what rules can be found, so that some of
+these things being observed I can infer others from them?
+We suppose him, let it be observed, deliberately resolving to
+investigate the things themselves, and not to be turned
+aside by any prior enquiry as to there being laws under
+which the mind is compelled to judge of the things. This
+may arise either from a disbelief in the existence of any
+independent and necessary mental laws, and a consequent
+conviction that the mind is perfectly competent to observe
+and believe anything that experience offers, and should
+believe nothing else, or simply from a preference for investigations
+of the latter kind. In other words, we suppose him
+to reject Formal Logic, and to apply himself to a study of
+objective existences.
+
+It must not for a moment be supposed that we are here
+doing more than conceiving a fictitious case for the purpose
+of more vividly setting before the reader the nature of the
+inductive process, the assumptions it has to make, and the
+character of the materials to which it is applied. It is not
+psychologically possible that any one should come to the study
+of nature with all his mental faculties in full perfection, but
+void of all materials of knowledge, and free from any bias as
+to the uniformities which might be found to prevail around
+him. In practice, of course, the form and the matter--the
+laws of belief or association, and the objects to which they
+are applied--act and react upon one another, and neither
+can exist in any but a low degree without presupposing the
+existence of the other. But the supposition is perfectly legitimate
+for the purpose of calling attention to the requirements
+of such a system of Logic, and is indeed nothing more
+than what has to be done at almost every step in psychological
+enquiry.[1]
+
+3. His task at first might be conceived to be a slow
+and tedious one. It would consist of a gradual accumulation
+of individual instances, as marked out from one another
+by various points of distinction, and connected with one
+another by points of resemblance. These would have to be
+respectively distinguished and associated in the mind, and
+the consequent results would then be summed up in general
+propositions, from which inferences could afterwards be
+drawn. These inferences could, of course, contain no new
+facts, they would only be repetitions of what he or others
+had previously observed. All that we should have so far
+done would have been to make our classifications of things
+and then to appeal to them again. We should therefore be
+keeping well within the province of ordinary logic, the processes
+of which (whatever their ultimate explanation) may
+of course always be expressed, in accordance with Aristotle's
+Dictum, as ways of determining whether or not we can show
+that one given class is included wholly or partly within
+another, or excluded from it, as the case may be.
+
+4. But a very short course of observation would suggest
+the possibility of a wide extension of his information.
+Experience itself would soon detect that events were connected
+together in a regular way; he would ascertain that
+there are 'laws of nature.' Coming with no _à priori_ necessity
+of believing in them, he would soon find that as a matter
+of fact they do exist, though he could not feel any certainty
+as to the extent of their prevalence. The discovery of this
+arrangement in nature would at once alter the plan of his proceedings,
+and set the tone to the whole range of his methods
+of investigation. His main work now would be to find out
+by what means he could best discover these laws of nature.
+
+An illustration may assist. Suppose I were engaged in
+breaking up a vast piece of rock, say slate, into small pieces.
+I should begin by wearily working through it inch by inch.
+But I should soon find the process completely changed owing
+to the existence of _cleavage_. By this arrangement of things
+a very few blows would do the work--not, as I might possibly
+have at first supposed, to the extent of a few inches--but
+right through the whole mass. In other words, by the
+process itself of cutting, as shown in experience, and by
+nothing else, a constitution would be detected in the things
+that would make that process vastly more easy and extensive.
+Such a discovery would of course change our tactics.
+Our principal object would thenceforth be to ascertain the
+extent and direction of this cleavage.
+
+Something resembling this is found in Induction. The
+discovery of laws of nature enables the mind to dart with its
+inferences from a few facts completely through a whole class
+of objects, and thus to acquire results the successive individual
+attainment of which would have involved long and
+wearisome investigation, and would indeed in multitudes
+of instances have been out of the question. We have no
+demonstrative proof that this state of things is universal;
+but having found it prevail extensively, we go on with the
+resolution at least to try for it everywhere else, and we are
+not disappointed. From propositions obtained in this way,
+or rather from the original facts on which these propositions
+rest, we can make _new_ inferences, not indeed with absolute
+certainty, but with a degree of conviction that is of the
+utmost practical use. We have gained the great step of
+being able to make trustworthy generalizations. We conclude,
+for instance, not merely that John and Henry die,
+but that all men die.
+
+5. The above brief investigation contains, it is hoped,
+a tolerably correct outline of the nature of the Inductive
+inference, as it presents itself in Material or Scientific Logic.
+It involves the distinction drawn by Mill, and with which
+the reader of his _System of Logic_ will be familiar, between
+an inference drawn _according_ to a formula and one drawn
+_from_ a formula. We do in reality make our inference from
+the data afforded by experience directly to the conclusion;
+it is a mere arrangement of convenience to do so by passing
+through the generalization. But it is one of such extreme
+convenience, and one so necessarily forced upon us when we
+are appealing to our own past experience or to that of others
+for the grounds of our conclusion, that practically we find it
+the best plan to divide the process of inference into two
+parts. The first part is concerned with establishing the
+generalization; the second (which contains the rules of ordinary
+logic) determines what conclusions can be drawn from
+this generalization.
+
+6. We may now see our way to ascertaining the province
+of Probability and its relation to kindred sciences.
+Inductive Logic gives rules for discovering such generalizations
+as those spoken of above, and for testing their correctness.
+If they are expressed in universal propositions it is
+the part of ordinary logic to determine what inferences can
+be made from and by them; if, on the other hand, they are
+expressed in proportional propositions, that is, propositions
+of the kind described in our first chapter, they are handed
+over to Probability. We find, for example, that three infants
+out of ten die in their first four years. It belongs to Induction
+to say whether we are justified in generalizing our observation
+into the assertion, All infants die in that proportion.
+When such a proposition is obtained, whatever may be the
+value to be assigned to it, we recognize in it a series of a
+familiar kind, and it is at once claimed by Probability.
+
+In this latter case the division into two parts, the inductive
+and the ratiocinative, seems decidedly more than one of
+convenience; it is indeed imperatively necessary for clearness
+of thought and cogency of treatment. It is true that in
+almost every example that can be selected we shall find
+both of the above elements existing together and combining
+to determine the degree of our conviction, but when we come
+to examine them closely it appears to me that the grounds
+of their cogency, the kind of conviction they produce, and
+consequently the rules which they give rise to, are so entirely
+distinct that they cannot possibly be harmonized into
+a single consistent system.
+
+The opinion therefore according to which certain Inductive
+formulæ are regarded as composing a portion of
+Probability, and which finds utterance in the Rule of Succession
+criticised in our last chapter, cannot, I think, be
+maintained. It would be more correct to say, as stated
+above, that Induction is quite distinct from Probability, yet
+co-operates in almost all its inferences. By Induction we
+determine, for example, whether, and how far, we can safely
+generalize the proposition that four men in ten live to be
+fifty-six; supposing such a proposition to be safely generalized,
+we hand it over to Probability to say what sort of inferences
+can be deduced from it.
+
+7. So much then for the opinion which tends to regard
+pure Induction as a subdivision of Probability. By the
+majority of philosophical and logical writers a widely different
+view has of course been entertained. They are mostly disposed
+to distinguish these sciences very sharply from, not to
+say to contrast them with, one another; the one being
+accepted as philosophical or logical, and the other rejected
+as mathematical. This may without offence be termed the
+popular prejudice against Probability.
+
+A somewhat different view, however, must be noticed
+here, which, by a sort of reaction against the latter, seems
+even to go beyond the former; and which occasionally finds
+expression in the statement that all inductive reasoning of
+every kind is merely a matter of Probability. Two examples
+of this may be given.
+
+Beginning with the older authority, there is an often
+quoted saying by Butler at the commencement of his _Analogy_,
+that 'probability is the very guide of life'; a saying
+which seems frequently to be understood to signify that the
+rules or principles of Probability are thus all-prevalent when
+we are drawing conclusions in practical life. Judging by
+the drift of the context, indeed, this seems a fair interpretation
+of his meaning, in so far of course as there could
+be said to be any such thing as a science of Probability in
+those days. Prof. Jevons, in his _Principles of Science_
+(p. 197), has expressed a somewhat similar view, of course
+in a way more consistent with the principles of modern
+science, physical and mathematical. He says, "I am convinced
+that it is impossible to expound the methods of induction
+in a sound manner, without resting them on the
+theory of Probability. Perfect knowledge alone can give
+certainty, and in nature perfect knowledge would be infinite
+knowledge, which is clearly beyond our capacities. We have,
+therefore, to content ourselves with partial knowledge,--knowledge
+mingled with ignorance, producing doubt."[2]
+
+8. There are two senses in which this disposition to
+merge the two sciences into one may be understood. Using
+the word Probability in its vague popular signification,
+nothing more may be intended than to call attention to the
+fact, that in every case alike our conclusions are nothing
+more than 'probable,' that is, that they are not, and cannot
+be, absolutely certain. This must be fully admitted, for of
+course no one acquainted with the complexity of physical
+and other evidence would seriously maintain that absolute
+ideal certainty can be attained in any branch of applied
+logic. Hypothetical certainty, in abstract science, may be
+possible, but not absolute certainty in the domain of the
+concrete. This has been already noticed in a former chapter,
+where, however, it was pointed out that whatever justification
+may exist, on the subjective view of logic, for regarding
+this common prevalence of absence of certainty as warranting
+us in fusing the sciences into one, no such justification is
+admitted when we take the objective view.
+
+9. What may be meant, however, is that the _grounds_
+of this absence of certainty are always of the same general
+character. This argument, if admitted, would have real
+force, and must therefore be briefly noticed. We have seen
+abundantly that when we say of a conclusion within the
+strict province of Probability, that it is not certain, all that
+we mean is that in some proportion of cases only will such
+conclusion be right, in the other cases it will be wrong.
+Now when we say, in reference to any inductive conclusion,
+that we feel uncertain about its absolute cogency, are we
+conscious of the same interpretation? It seems to me that
+we are not. It is indeed quite possible that on ultimate
+analysis it might be proved that experience of failure in
+the past employment of our methods of investigation was
+the main cause of our present want of perfect confidence in
+them. But this, as we have repeatedly insisted, does not
+belong to the province of logical, but to that of Psychological
+enquiry. It is surely not the case that we are, as a rule,
+consciously guided by such occasional or repeated instances
+of past failure. In so far as they are at all influential, they
+seem to do their work by infusing a vague want of confidence
+which cannot be referred to any statistical grounds for
+its justification, at least not in a quantitative way. Part of
+our want of confidence is derived sympathetically from those
+who have investigated the matter more nearly at first hand.
+Here again, analysis might detect that a given proportion of
+past failures lay at the root of the distrust, but it does not
+show at the surface. Moreover, one reason why we cannot
+feel perfectly certain about our inductions is, that the
+_memory_ has to be appealed to for some of our data; and will
+any one assert that the only reason why we do not place
+absolute reliance on our memory of events long past is that
+we have been deceived in that way before?
+
+In any other sense, therefore, than as a needful protest
+against attaching too great demonstrative force to the conclusions
+of Inductive Logic, it seems decidedly misleading to
+speak of its reasonings as resting upon Probability.
+
+10. We may now see clearly the reasons for the
+limits within which causation[3] is necessarily required, but
+beyond which it is not needed. To be able to generalize
+a formula so as to extend it from the observed to the unobserved,
+it is clearly essential that there should be a certain
+permanence in the order of nature; this permanence is one
+form of what is implied in the term causation. If the
+circumstances under which men live and die remaining the
+same, we did not feel warranted in inferring that four men
+out of ten would continue to live to fifty, because in the case
+of those whom we had observed this proportion had hitherto
+done so, it is clear that we should be admitting that the
+same antecedents need not be followed by the same consequents.
+This uniformity being what the Law of Causation
+asserts, the truth of the law is clearly necessary to enable us
+to obtain our generalizations: in other words, it is necessary
+for the Inductive part of the process. But it seems to be
+equally clear that causation is not necessary for that part of
+the process which belongs to Probability. Provided only
+that the truth of our generalizations is secured to us, in the
+way just mentioned, what does it matter to us whether or
+not the individual members are subject to causation? For
+it is not in reality about these individuals that we make
+inferences. As this last point has been already fully treated
+in Chapter VI., any further allusion to it need not be made here.
+
+11. The above description, or rather indication, of the
+process of obtaining these generalizations must suffice for the
+present. Let us now turn and consider the means by which
+we are practically to make use of them when they are obtained.
+The point which we had reached in the course of the
+investigations entered into in the sixth and seventh chapters
+was this:--Given a series of a certain kind, we could draw
+inferences about the members which composed it; inferences,
+that is, of a peculiar kind, the value and meaning of which
+were fully discussed in their proper place.
+
+We must now shift our point of view a little; instead of
+starting, as in the former chapters, with a determinate series
+supposed to be given to us, let us assume that the individual
+only is given, and that the work is imposed upon us of finding
+out the appropriate series. How are we to set about the
+task? In the former case our data were of this kind:--Eight
+out of ten men, aged fifty, will live eleven years more,
+and we ascertained in what sense, and with what certainty,
+we could infer that, say, John Smith, aged fifty, would live
+to sixty-one.
+
+12. Let us then suppose, instead, that John Smith
+presents himself, how should we in this case set about obtaining
+a series for him? In other words, how should we
+collect the appropriate statistics? It should be borne in
+mind that when we are attempting to make real inferences
+about things as yet unknown, it is in this form that the
+problem will practically present itself.
+
+At first sight the answer to this question may seem to be
+obtained by a very simple process, viz. by counting how
+many men of the age of John Smith, respectively do and do
+not live for eleven years. In reality however the process is
+far from being so simple as it appears. For it must be remembered
+that each individual thing has not one distinct
+and appropriate class or group, to which, and to which alone,
+it properly belongs. We may indeed be practically in the
+habit of considering it under such a single aspect, and it may
+therefore seem to us more familiar when it occupies a place
+in one series rather than in another; but such a practice is
+merely customary on our part, not obligatory. It is obvious
+that every individual thing or event has an indefinite
+number of properties or attributes observable in it, and
+might therefore be considered as belonging to an indefinite
+number of different classes of things. By belonging to any
+one class it of course becomes at the same time a member of
+all the higher classes, the genera, of which that class was a
+species. But, moreover, by virtue of each accidental attribute
+which it possesses, it becomes a member of a class
+intersecting, so to say, some of the other classes. John Smith
+is a consumptive man say, and a native of a northern climate.
+Being a man he is of course included in the class of vertebrates,
+also in that of animals, as well as in any higher
+such classes that there may be. The property of being consumptive
+refers him to another class, narrower than any of
+the above; whilst that of being born in a northern climate
+refers him to a new and distinct class, not conterminous with
+any of the rest, for there are things born in the north which
+are not men.
+
+13. When therefore John Smith presents himself to
+our notice without, so to say, any particular label attached to
+him informing us under which of his various aspects he is to
+be viewed, the process of thus referring him to a class becomes
+to a great extent arbitrary. If he had been indicated
+to us by a general name, that, of course, would have been
+some clue; for the name having a determinate connotation
+would specify at any rate a fixed group of attributes within
+which our selection was to be confined. But names and
+attributes being connected together, we are here supposed
+to be just as much in ignorance what name he is to be
+called by, as what group out of all his innumerable attributes
+is to be taken account of; for to tell us one of these things
+would be precisely the same in effect as to tell us the other.
+In saying that it is thus arbitrary under which class he is
+placed, we mean, of course, that there are no logical grounds
+of decision; the selection must be determined by some extraneous
+considerations. Mere inspection of the individual
+would simply show us that he could equally be referred
+to an indefinite number of classes, but would in itself give
+no inducement to prefer, for our special purpose, one of these
+classes to another.
+
+This variety of classes to which the individual may be
+referred owing to his possession of a multiplicity of attributes,
+has an important bearing on the process of inference
+which was indicated in the earlier sections of this chapter,
+and which we must now examine in more special reference
+to our particular subject.
+
+14. It will serve to bring out more clearly the nature
+of some of those peculiarities of the step which we are now
+about to take in the case of Probability, if we first examine
+the form which the corresponding step assumes in the case
+of ordinary Logic. Suppose then that we wished to ascertain
+whether a certain John Smith, a man of thirty, who is
+amongst other things a resident in India, and distinctly
+affected with cancer, will continue to survive there for
+twenty years longer. The terms in which the man is thus
+introduced to us refer him to different classes in the way
+already indicated. Corresponding to these classes there will
+be a number of propositions which have been obtained by
+previous observations and inductions, and which we may
+therefore assume to be available and ready at hand when
+we want to make use of them. Let us conceive them to
+be such as these following:--Some men live to fifty; some
+Indian residents live to fifty; no man suffering thus from
+cancer lives for five years. From the first and second of these
+premises nothing whatever can be inferred, for they are both[4]
+particular propositions, and therefore lead to no conclusion
+in this case. The third answers our enquiry decisively.
+
+To the logical reader it will hardly be necessary to point
+out that the process here under consideration is that of
+finding middle terms which shall serve to connect the
+subject and predicate of our conclusion. This subject and
+predicate in the case in question, are the individual before
+us and his death within the stated period. Regarded by
+themselves there is nothing in common between them, and
+therefore no link by which they may be connected or disconnected
+with each other. The various classes above
+referred to are a set of such middle terms, and the propositions
+belonging to them are a corresponding set of major
+premises. By the help of any one of them we are enabled,
+under suitable circumstances, to connect together the subject
+and predicate of the conclusion, that is, to infer whether the
+man will or will not live twenty years.
+
+15. Now in the performance of such a logical process
+there are two considerations to which the reader's attention
+must for a moment be directed. They are simple enough in
+this case, but will need careful explanation in the corresponding
+case in Probability. In the first place, it is clear that
+whenever we can make any inference at all, we can do so
+with absolute certainty. Logic, within its own domain,
+knows nothing of hesitation or doubt. If the middle term
+is appropriate it serves to connect the extremes in such a
+way as to preclude all uncertainty about the conclusion;
+if it is not, there is so far an end of the matter: no conclusion
+can be drawn, and we are therefore left where we were.
+Assuming our premises to be correct, we either know our
+conclusion for certain, or we know nothing whatever about
+it. In the second place, it should be noticed that none of
+the possible alternatives in the shape of such major premises
+as those given above can ever contradict any of the others,
+or be at all inconsistent with them. Regarded as isolated
+propositions, there is of course nothing to secure such harmony;
+they have very different predicates, and may seem
+quite out of each other's reach for either support or opposition.
+But by means of the other premise they are in each
+case brought into relation with one another, and the general
+interests of truth and consistency prevent them therefore
+from contradicting one another. As isolated propositions
+it might have been the case that all men live to fifty, and
+that no Indian residents do so, but having recognised that
+some men are residents in India, we see at once that these
+premises are inconsistent, and therefore that one or other
+of them must be rejected. In all applied logic this necessity
+of avoiding self-contradiction is so obvious and imperious
+that no one would think it necessary to lay down the formal
+postulate that all such possible major premises are to be
+mutually consistent. To suppose that this postulate is not
+complied with, would be in effect to make two or more contradictory
+assumptions about matters of fact.
+
+16. But now observe the difference when we attempt
+to take the corresponding step in Probability. For ordinary
+propositions, universal or particular, substitute statistical
+propositions of what we have been in the habit of calling
+the 'proportional' kind. In other words, instead of asking
+whether the man will live for twenty years, let us ask whether
+he will live for one year? We shall be unable to find any
+universal propositions which will cover the case, but we may
+without difficulty obtain an abundance of appropriate proportional
+ones. They will be of the following description:--Of
+men aged 30, 98 in 100 live another year; of residents in
+India a smaller proportion survive, let us for example say
+90 in 100; of men suffering from cancer a smaller proportion
+still, let us say 20 in 100.
+
+Now in both of the respects to which attention has just
+been drawn, propositions of this kind offer a marked contrast
+with those last considered. In the first place, they do
+not, like ordinary propositions, either assert unequivocally
+yes or no, or else refuse to open their lips; but they give
+instead a sort of qualified or hesitating answer concerning
+the individuals included in them. This is of course nothing
+more than the familiar characteristic of what may be called
+'probability propositions.' But it leads up to, and indeed
+renders possible, the second and more important point;
+viz. that these various answers, though they cannot directly
+and formally contradict each other (this their nature as proportional
+propositions, will not as a rule permit), may yet, in
+a way which will now have to be pointed out, be found to be
+more or less in conflict with each other.
+
+Hence it follows that in the attempt to draw a conclusion
+from premises of the kind in question, we may be placed
+in a position of some perplexity; but it is a perplexity
+which may present itself in two forms, a mild and an aggravated
+form. We will notice them in turn.
+
+17. The mild form occurs when the different classes
+to which the individual case may be appropriately referred
+are successively included one within another; for here our
+sets of statistics, though leading to different results, will
+not often be found to be very seriously at variance with
+one another. All that comes of it is that as we ascend in the
+scale by appealing to higher and higher genera, the statistics
+grow continually less appropriate to the particular
+case in point, and such information therefore as they afford
+becomes gradually less explicit and accurate.
+
+The question that we originally wanted to determine,
+be it remembered, is whether John Smith will die within
+one year. But all knowledge of this fact being unattainable,
+owing to the absence of suitable inductions, we felt
+justified (with the explanation, and under the restrictions
+mentioned in Chap VI.), in substituting, as the only available
+equivalent for such individual knowledge, the answer to the
+following statistical enquiry, What proportion of men in his
+circumstances die?
+
+18. But then at once there begins to arise some doubt
+and ambiguity as to what exactly is to be understood by his
+circumstances. We may know very well what these circumstances
+are in themselves, and yet be in perplexity as to
+how many of them we ought to take into account when
+endeavouring to estimate his fate. We might conceivably,
+for a beginning, choose to confine our attention to those
+properties only which he has in common with all animals.
+If so, and statistics on the subject were attainable, they
+would presumably be of some such character as this, Ninety-nine
+animals out of a hundred die within a year. Unusual as
+such a reference would be, we should, logically speaking, be
+doing nothing more than taking a wider class than the one
+we were accustomed to. Similarly we might, if we pleased,
+take our stand at the class of vertebrates, or at that of
+mammalia, if zoologists were able to give us the requisite
+information. Of course we reject these wide classes and
+prefer a narrower one. If asked why we reject them, the
+natural answer is that they are so general, and resemble the
+particular case before us in so few points, that we should be
+exceedingly likely to go astray in trusting to them. Though
+accuracy cannot be insured, we may at least avoid any needless
+exaggeration of the relative number and magnitude of
+our errors.
+
+19. The above answer is quite valid; but whilst cautioning
+us against appealing to too wide a class, it seems to
+suggest that we cannot go wrong in the opposite direction,
+that is in taking too narrow a class. And yet we do avoid
+any such extremes. John Smith is not only an Englishman;
+he may also be a native of such a part of England, be living
+in such a Presidency, and so on. An indefinite number of
+such additional characteristics might be brought out into
+notice, many of which at any rate have some bearing upon
+the question of vitality. Why do we reject any consideration
+of these narrower classes? We do reject them, but it is for
+what may be termed a practical rather than a theoretical
+reason. As was explained in the first chapters, it is essential
+that our series should contain a considerable number of terms
+if they are to be of any service to us. Now many of the
+attributes of any individual are so rare that to take them
+into account would be at variance with the fundamental
+assumption of our science, viz. that we are properly concerned
+only with the averages of large numbers. The more special
+and minute our statistics the better, provided only that we
+can get enough of them, and so make up the requisite large
+number of instances. This is, however, impossible in many
+cases. We are therefore obliged to neglect one attribute
+after another, and so to enlarge the contents of our class; at
+the avowed risk of somewhat increased variety and unsuitability
+in the members of it, for at each step of this kind we
+diverge more and more from the sort of instances that we
+really want. We continue to do so, until we no longer gain
+more in quantity than we lose in quality. We finally take
+our stand at the point where we first obtain statistics drawn
+from a sufficiently large range of observation to secure the
+requisite degree of stability and uniformity.
+
+20. In such an example as the one just mentioned,
+where one of the successive classes--man--is a well-defined
+natural kind or species, there is such a complete break in
+each direction at this point, that every one is prompted to
+take his stand here. On the one hand, no enquirer would
+ever think of introducing any reference to the higher classes
+with fewer attributes, such as animal or organized being:
+and on the other hand, the inferior classes, created by our
+taking notice of his employment or place of residence, &c.,
+do not as a rule differ sufficiently in their characteristics
+from the class _man_ to make it worth our while to attend
+to them.
+
+Now and then indeed these characteristics do rise into
+importance, and whenever this is the case we concentrate
+our attention upon the class to which they correspond, that
+is, the class which is marked off by their presence. Thus,
+for instance, the quality of consumptiveness separates any
+one off so widely from the majority of his fellow-men in all
+questions pertaining to mortality, that statistics about the
+lives of consumptive men differ materially from those which
+refer to men in general. And we see the result; if a consumptive
+man can effect an insurance at all, he must do it
+for a much higher premium, calculated upon his special
+circumstances. In other words, the attribute is sufficiently
+important to mark off a fresh class or series. So with insurance
+against accident. It is not indeed attempted to
+make a special rate of insurance for the members of each
+separate trade, but the differences of risk to which they are
+liable oblige us to take such facts to some degree into
+account. Hence, trades are roughly divided into two or
+three classes, such as the ordinary, the hazardous, and the
+extra-hazardous, each having to pay its own rate of premium.
+
+21. Where one or other of the classes thus corresponds
+to natural kinds, or involves distinctions of co-ordinate importance
+with those of natural kinds, the process is not
+difficult; there is almost always some one of these classes
+which is so universally recognised to be the appropriate one,
+that most persons are quite unaware of there being any
+necessity for a process of selection. Except in the cases
+where a man has a sickly constitution, or follows a dangerous
+employment, we seldom have occasion to collect statistics for
+him from any class but that of men in general of his age in
+the country.
+
+When, however, these successive classes are not ready
+marked out for us by nature, and thence arranged in easily
+distinguishable groups, the process is more obviously arbitrary.
+Suppose we were considering the chance of a man's
+house being burnt down, with what collection of attributes
+should we rest content in this instance? Should we include
+all kinds of buildings, or only dwelling-houses, or confine
+ourselves to those where there is much wood, or those which
+have stoves? All these attributes, and a multitude of others
+may be present, and, if so, they are all circumstances which
+help to modify our judgment. We must be guided here by
+the statistics which we happen to be able to obtain in
+sufficient numbers. Here again, rough distinctions of this
+kind are practically drawn in Insurance Offices, by dividing
+risks into ordinary, hazardous, and extra-hazardous. We
+examine our case, refer it to one or other of these classes,
+and then form our judgment upon its prospects by the statistics
+appropriate to its class.
+
+22. So much for what may be called the mild form in
+which the ambiguity occurs; but there is an aggravated form
+in which it may show itself, and which at first sight seems
+to place us in far greater perplexity.
+
+Suppose that the different classes mentioned above are
+not included successively one within the other. We may
+then be quite at a loss which of the statistical tables to
+employ. Let us assume, for example, that nine out of ten
+Englishmen are injured by residence in Madeira, but that
+nine out of ten consumptive persons are benefited by such a
+residence. These statistics, though fanciful, are conceivable
+and perfectly compatible. John Smith is a consumptive
+Englishman; are we to recommend a visit to Madeira in his
+case or not? In other words, what inferences are we to
+draw about the probability of his death? Both of the statistical
+tables apply to his case, but they would lead us to
+directly contradictory conclusions. This does not mean, of
+course, contradictory precisely in the logical sense of that
+word, for one of these propositions does not assert that an
+event must happen and the other deny that it must; but
+contradictory in the sense that one would cause us in some
+considerable degree to believe what the other would cause us
+in some considerable degree to disbelieve. This refers, of
+course, to the individual events; the statistics are by supposition
+in no degree contradictory. Without further data,
+therefore, we can come to no decision.
+
+23. Practically, of course, if we were forced to a decision
+with only these data before us, we should make our
+choice by the consideration that the state of a man's lungs
+has probably more to do with his health than the place of
+his birth has; that is, we should conclude that the duration
+of life of consumptive Englishmen corresponds much more
+closely with that of consumptive persons in general than
+with that of their healthy countrymen. But this is, of
+course, to import empirical considerations into the question.
+The data, as they are given to us, and if we confine ourselves
+to them, leave us in absolute uncertainty upon the
+point. It may be that the consumptive Englishmen almost
+all die when transported into the other climate; it may be
+that they almost all recover. If they die, this is in obvious
+accordance with the first set of statistics; it will be found in
+accordance with the second set through the fact of the
+foreign consumptives profiting by the change of climate in
+more than what might be termed their due proportion.
+A similar explanation will apply to the other alternative,
+viz. to the supposition that the consumptive Englishmen
+mostly recover. The problem is, therefore, left absolutely
+indeterminate, for we cannot here appeal to any general rule
+so simple and so obviously applicable as that which, in a
+former case, recommended us always to prefer the more
+special statistics, when sufficiently extensive, to those which
+are wider and more general. We have no means here of
+knowing whether one set is more special than the other.
+
+And in this no difficulty can be found, so long as we
+confine ourselves to a just view of the subject. Let me
+again recall to the reader's mind what our present position
+is; we have substituted for knowledge of the individual
+(finding that unattainable) a knowledge of what occurs in
+the average of similar cases. This step had to be taken the
+moment the problem was handed over to Probability. But
+the conception of similarity in the cases introduces us to a
+perplexity; we manage indeed to evade it in many instances,
+but here it is inevitably forced upon our notice.
+There are here two aspects of this similarity, and they
+introduce us to two distinct averages. Two assertions are
+made as to what happens in the long run, and both of these
+assertions, by supposition, are verified. Of their truth there
+need be no doubt, for both were supposed to be obtained
+from experience.
+
+24. It may perhaps be supposed that such an example
+as this is a _reductio ad absurdum_ of the principle upon which
+Life and other Insurances are founded. But a moment's
+consideration will show that this is quite a mistake, and
+that the principle of insurance is just as applicable to
+examples of this kind as to any other. An office need find
+no difficulty in the case supposed. They _might_ (for a reason
+to be mentioned presently, they probably _would_ not) insure
+the individual without inconsistency at a rate determined
+by either average. They might say to him, "You are an
+Englishman. Out of the multitude of English who come to
+us nine in ten die if they go to Madeira. We will insure
+you at a rate assigned by these statistics, knowing that in
+the long run all will come right so far as we are concerned.
+You are also consumptive, it is true, and we do not know
+what proportion of the English are consumptive, nor what
+proportion of English consumptives die in Madeira. But
+this does not really matter for our purpose. The formula,
+nine in ten die, is in reality calculated by taking into account
+these unknown proportions; for, though we do not know
+them in themselves, statistics tell us all that we care to
+know about their results. In other words, whatever unknown
+elements may exist, must, in regard to all the effects
+which they can produce, have been already taken into
+account, so that our ignorance about them cannot in the
+least degree invalidate such conclusions as we are able to
+draw. And this is sufficient for our purpose." But precisely
+the same language might be held to him if he presented
+himself as a consumptive man; that is to say, the office
+could safely carry on its proceedings upon either alternative.
+
+This would, of course, be a very imperfect state for the
+matter to be left in. The only rational plan would be to
+isolate the case of consumptive Englishmen, so as to make
+a separate calculation for their circumstances. This calculation
+would then at once supersede all other tables so
+far as they were concerned; for though, _in the end_, it could
+not arrogate to itself any superiority over the others, it
+would in the mean time be marked by fewer and slighter
+aberrations from the truth.
+
+25. The real reason why the Insurance office could
+not long work on the above terms is of a very different
+kind from that which some readers might contemplate, and
+belongs to a class of considerations which have been much
+neglected in the attempts to construct sciences of the different
+branches of human conduct. It is nothing else than
+that annoying contingency to which prophets since the time
+of Jonah have been subject, of uttering _suicidal_ prophecies;
+of publishing conclusions which are perfectly certain when
+every condition and cause but one have been taken into
+account, that one being the effect of the prophecy itself
+upon those to whom it refers.
+
+In our example above, the office (in so far as the particular
+cases in Madeira are concerned) would get on very well
+until the consumptive Englishmen in question found out
+what much better terms they could make by announcing
+themselves as consumptives, and paying the premium appropriate
+to that class, instead of announcing themselves as
+Englishmen. But if they did this they would of course be
+disturbing the statistics. The tables were based upon the
+assumption that a certain fixed proportion (it does not
+matter what proportion) of the English lives would continue
+to be consumptive lives, which, under the supposed circumstances,
+would probably soon cease to be true. When it is
+said that nine Englishmen out of ten die in Madeira, it is
+meant that of those who come to the office, as the phrase is,
+at random, or in their fair proportions, nine-tenths die. The
+consumptives are supposed to go there just like red-haired
+men, or poets, or any other special class. Or they might go
+in any proportions greater or less than those of other classes,
+so long as they adhered to the same proportion throughout.
+The tables are then calculated on the continuance of this
+state of things; the practical contradiction is in supposing
+such a state of things to continue after the people had once
+had a look at the tables. If we merely make the assumption
+that the publication of these tables made no such alteration
+in the conduct of those to whom it referred, no hitch of
+this kind need occur.
+
+26. The assumptions here made, as has been said, are
+not in any way contradictory, but they need some explanation.
+It will readily be seen that, taken together, they are
+inconsistent with the supposition that each of these classes is
+homogeneous, that is, that the statistical proportions which
+hold of the whole of either of them will also hold of any
+portion of them which we may take. There are certain
+individuals (viz. the consumptive Englishmen) who belong
+to each class, and of course the two different sets of statistics
+cannot both be true of them taken by themselves. They
+might coincide in their characteristics with either class, but
+not with both; probably in most practical cases they will
+coincide with neither, but be of a somewhat intermediate
+character. Now when it is said of any such heterogeneous
+body that, say, nine-tenths die, what is meant (or rather
+implied) is that the class might be broken up into smaller
+subdivisions of a more homogeneous character, in some of
+which, of course, more than nine-tenths die, whilst in others
+less, the differences depending upon their character, constitution,
+profession, &c.; the number of such divisions and the
+amount of their divergence from one another being perhaps
+very considerable.
+
+Now when we speak of either class as a whole and say
+that nine-tenths die, the most natural and soundest meaning
+is that that would be the proportion if all without
+exception went abroad, or (what comes to the same thing) if
+each of these various subdivisions was represented in fair
+proportion to its numbers. Or it might only be meant that
+they go in some other proportion, depending upon their
+tastes, pursuits, and so on. But whatever meaning be adopted
+one condition is necessary, viz. that the proportion of each
+class that went at the time the statistics were drawn up
+must be adhered to throughout. When the class is homogeneous
+this is not needed, but when it is heterogeneous the
+statistics would be interfered with unless this condition were
+secured.
+
+We are here supposed to have two sets of statistics, one
+for the English and one for the consumptives, so that the
+consumptive English are in a sense counted twice over. If
+their mortality is of an intermediate amount, therefore, they
+serve to keep down the mortality of one class and to keep
+up that of the other. If the statistics are supposed to be
+exhaustive, by referring to the whole of each class, it follows
+that actually the same individuals must be counted each
+time; but if representatives only of each class are taken, the
+same individuals need not be inserted in each set of tables.
+
+27. When therefore they come to insure (our remarks
+are still confined to our supposed Madeira case), we have
+some English consumptives counted as English, and paying
+the high rate; and others counted as consumptives and paying
+the low rate. Logically indeed we may suppose them all
+entered in each class, and paying therefore each rate. What
+we have said above is that any individual may be conceived
+to present himself for either of these classes. Conceive that
+some one else pays his premium for him, so that it is a
+matter of indifference to him personally at which rate he
+insures, and there is nothing to prevent some of the class (or
+for that matter all) going to one class, and others (or all
+again) going to the other class.
+
+So long therefore as we make the logically possible
+though practically absurd supposition that some men will
+continue to pay a higher rate than they need, there is nothing
+to prevent the English consumptives (some or all) from
+insuring in each category and paying its appropriate premium.
+As soon as they gave any thought to the matter, of
+course they would, in the case supposed, all prefer to insure
+as consumptives. But their doing this would disturb each set
+of statistics. The English mortality in Madeira would instantly
+become heavier, so far as the Insurance company was
+concerned, by the loss of all their best lives; whilst the consumptive
+statistics (unless _all_ the English consumptives had
+already been taken for insurance) would be in the same way
+deteriorated.[5] A slight readjustment therefore of each scale
+of insurance would then be needed; this is the disturbance
+mentioned just above. It must be clearly understood, however,
+that it is not our original statistics which have proved
+to be inconsistent, but simply that there were practical
+obstacles to carrying out a system of insurance upon them.
+
+28. Examples subject to the difficulty now under
+consideration will doubtless seem perplexing to the student
+unacquainted with the subject. They are difficult to reconcile
+with any other view of the science than that insisted on
+throughout this Essay, viz. that we are only concerned with
+averages. It will perhaps be urged that there are two
+different values of the man's life in these cases, and that
+they cannot both be true. Why not? The 'value' of his
+life is simply the number of years to which men in his
+circumstances do, on the average, attain; we have the man
+set before us under two different circumstances; what wonder,
+therefore, that these should offer different averages? In such
+an objection it is forgotten that we have had to substitute
+for the unattainable result about the individual, the really
+attainable result about a set of men as much like him as
+possible. The difficulty and apparent contradiction only
+arise when people will try to find some justification for their
+belief in the individual case. What can we possibly conclude,
+it may be asked, about this particular man John
+Smith's prospects when we are thus offered two different
+values for his life? Nothing whatever, it must be replied;
+nor could we in reality draw a conclusion, be it remembered,
+in the former case, when we were practically confined to one
+set of statistics. There also we had what we called the
+'value' of his life, and since we only knew of one such value,
+we came to regard it as in some sense appropriate to him as
+an individual. Here, on the other hand, we have two values,
+belonging to different series, and as these values are really
+different it may be complained that they are discordant, but
+such a complaint can only be made when we do what we
+have no right to do, viz. assign a value to the individual
+which shall admit of individual justification.
+
+29. Is it then perfectly arbitrary what series or class
+of instances we select by which to judge? By no means; it
+has been stated repeatedly that in choosing a series, we must
+seek for one the members of which shall resemble our individual
+in as many of his attributes as possible, subject only
+to the restriction that it must be a sufficiently extensive
+series. What is meant is, that in the above case, where we
+have two series, we cannot fairly call them contradictory; the
+only valid charge is one of incompleteness or insufficiency for
+their purpose, a charge which applies in exactly the same
+sense, be it remembered, to all statistics which comprise
+genera unnecessarily wider than the species with which we
+are concerned. The only difference between the two different
+classes of cases is, that in the one instance we are on a
+path which we know will lead at the last, through many
+errors, towards the truth (in the sense in which truth can be
+attained here), and we took it for want of a better. In the
+other instance we have two such paths, perfectly different
+paths, either of which however will lead us towards the truth
+as before. Contradiction can only seem to arise when it is
+attempted to justify each separate step on our paths, as well
+as their ultimate tendency.
+
+Still it cannot be denied that these objections are a
+serious drawback to the completeness and validity of any
+anticipations which are merely founded upon statistical frequency,
+at any rate in an early stage of experience, when
+but few statistics have been collected. Such knowledge as
+Probability can give is not in any individual case of a high
+order, being subject to the characteristic infirmity of repeated
+error; but even when measured by its own standard
+it commences at a very low stage of proficiency. The
+errors are then relatively very numerous and large compared
+with what they may ultimately be reduced to.
+
+30. Here as elsewhere there is a continuous process
+of specialization going on. The needs of a gradually widening
+experience are perpetually calling upon us to subdivide
+classes which are found to be too heterogeneous. Sometimes
+the only complaint that has to be made is that the class to
+which we are obliged to refer is found to be somewhat too
+broad to suit our purpose, and that it might be subdivided
+with convenience. This is the case, as has been shown above,
+when an Insurance office finds that its increasing business
+makes it possible and desirable to separate off the men who
+follow some particular trades from the rest of their fellow-countrymen.
+Similarly in every other department in which
+statistics are made use of. This increased demand for specificness
+leads, in fact, as naturally in this direction, as does
+the progress of civilization to the subdivision of trades in
+any town or country. So in reference to the other kind of
+perplexity mentioned above. Nothing is more common in
+those sciences or practical arts, in which deduction is but
+little available, and where in consequence our knowledge is
+for the most part of the empirical kind, than to meet with
+suggestions which point more or less directly in contrary
+directions. Whenever some new substance is discovered or
+brought into more general use, those who have to deal with
+it must be familiar with such a state of things. The medical
+man who has to employ a new drug may often find himself
+confronted by the two distinct recommendations, that on
+the one hand it should be employed for certain diseases, and
+that on the other hand it should not be tried on certain constitutions.
+A man with such a constitution, but suffering
+from such a disease, presents himself; which recommendation
+is the doctor to follow? He feels at once obliged to
+set to work to collect narrower and more special statistics,
+in order to escape from such an ambiguity.
+
+31. In this and a multitude of analogous cases
+afforded by the more practical arts it is not of course necessary
+that numerical data should be quoted and appealed
+to; it is sufficient that the judgment is more or less consciously
+determined by them. All that is necessary to make
+the examples appropriate is that we should admit that in
+their case statistical data are our ultimate appeal in the
+present state of knowledge. Of course if the empirical
+laws can be resolved into their component causes we may
+appeal to direct deduction, and in this case the employment
+of statistics, and consequently the use of the theory of
+Probability, may be superseded.
+
+In this direction therefore, as time proceeds, the advance
+of statistical refinement by the incessant subdivision of classes
+to meet the developing wants of man is plain enough. But
+if we glance backwards to a more primitive stage, we shall
+soon see in what a very imperfect state the operation commences.
+At this early stage, however, Probability and Induction
+are so closely connected together as to be very apt to
+be merged into one, or at any rate to have their functions
+confounded.
+
+32. Since the generalization of our statistics is found to
+belong to Induction, this process of generalization may be
+regarded as prior to, or at least independent of, Probability.
+We have, moreover, already discussed (in Chapter VI.) the
+step corresponding to what are termed immediate inferences,
+and (in Chapter VII.) that corresponding to syllogistic inferences.
+Our present position therefore is that in which we
+may consider ourselves in possession of any number of generalizations,
+but wish to employ them so as to make inferences
+about a given individual; just as in one department of
+common logic we are engaged in finding middle terms to
+establish the desired conclusion. In this latter case the
+process is found to be extremely simple, no accumulation of
+different middle terms being able to lead to any real ambiguity
+or contradiction. In Probability, however, the case is
+different. Here, if we attempt to draw inferences about the
+individual case before us, as often is attempted--in the Rule
+of Succession for example--we shall encounter the full force
+of this ambiguity and contradiction. Treat the question,
+however, fairly, and all difficulty disappears. Our inference
+really is not about the individuals as individuals, but about
+series or successions of them. We wished to know whether
+John Smith will die within the year; this, however, cannot
+be known. But John Smith, by the possession of many
+attributes, belongs to many different series. The multiplicity
+of middle terms, therefore, is what ought to be
+expected. We _can_ know whether a succession of men, residents
+in India, consumptives, &c. die within a year. We
+may make our selection, therefore, amongst these, and in the
+long run the belief and consequent conduct of ourselves and
+other persons (as described in Chapter VI.) will become
+capable of justification. With regard to choosing one of
+these series rather than another, we have two opposing
+principles of guidance. On the one hand, the more special
+the series the better; for, though not more right in the end,
+we shall thus be more nearly right all along. But, on the
+other hand, if we try to make the series too special, we shall
+generally meet the practical objection arising from insufficient
+statistics.
+
+
+1. Some of my readers may be familiar with a very striking digression
+  in Buffon's Natural History (_Natural Hist. of Man_, §VIII.), in
+  which he supposes the first man in full possession of his faculties,
+  but with all his experience to gain, and speculates on the gradual
+  acquisition of his knowledge. Whatever may be thought of his
+  particular conclusions the passage is very interesting and
+  suggestive to any student of Psychology.
+
+2. See also Dugald Stewart (Ed. by Hamilton; VII. pp. 115-119).
+
+3. Required that is for purposes of logical inference within the
+  limits of Probability; it is not intended to imply any doubts as to
+  its actual universal prevalence, or its all-importance for
+  scientific purposes. The subject is more fully discussed in a future
+  chapter.
+
+4. As particular propositions they are both of course identical in
+  form. The fact that the 'some' in the former corresponds to a
+  larger proportion than in the latter, is a distinction alien to pure
+  Logic.
+
+5. The reason is obvious. The healthiest English lives in Madeira
+  (viz. the consumptive ones) have now ceased to be reckoned as
+  English; whereas the worst consumptive lives there (viz. the
+  English) are now increased in relative numbers.
+
+
+
+

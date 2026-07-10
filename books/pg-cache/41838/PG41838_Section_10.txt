@@ -1,0 +1,193 @@
+CHAPTER X.
+
+IMMEDIATE REASONING
+
+
+In the process of Judgment we must compare two concepts and ascertain
+their agreement of disagreement. In the process of Reasoning we follow a
+similar method and compare two judgments, the result of such comparison
+being the deduction of a third judgment.
+
+The simplest form of reasoning is that known as Immediate Reasoning, by
+which is meant the deduction of one proposition from another which
+_implies_ it. Some have defined it as: "_reasoning without a middle
+term_." In this form of reasoning _only one proposition is required for
+the premise_, and from that premise the conclusion is deduced directly
+and without the necessity of comparison with any other term of
+proposition.
+
+The two principal methods employed in this form of Reasoning are; (1)
+Opposition; (2) Conversion.
+
+_Opposition_ exists between propositions having the same subject and
+predicate, but differing in quality or quantity, or both. The Laws of
+Opposition are as follows:
+
+I. (1) If the universal is true, the particular is true. (2) If the
+particular is false, the universal is false. (3) If the universal is
+false, nothing follows. (4) If the particular is true, nothing follows.
+
+II. (1) If one of two contraries is true, the other is false. (2) If one
+of two contraries is false, nothing can be inferred. (3) Contraries are
+never both true, but both may be false.
+
+III. (1) If one of two sub-contraries is false, the other is true. (2)
+If one of two sub-contraries is true, nothing can be inferred concerning
+the other. (3) Sub-contraries can never be both false, but both may be
+true.
+
+IV. (1) If one of two contradictories is true, the other is false. (2)
+If one of two contradictories is false, the other is true. (3)
+Contradictories can never be both true or both false, but always one is
+true and the other is false.
+
+In order to comprehend the above laws, the student should familiarize
+himself with the following arrangement, adopted by logicians as a
+convenience:
+
+                 {Universal  {Affirmative (A)
+                 {           {Negative    (E)
+  Propositions   {
+                 {           {Affirmative (I)
+                 {Particular {Negative    (O)
+
+Examples of the above: Universal Affirmative (A): "All men are mortal;"
+Universal Negative (E): "No man is mortal;" Particular Affirmative (I):
+"Some men are mortal;" Particular Negative (O): "Some men are not
+mortal."
+
+The following examples of abstract propositions are often used by
+logicians as tending toward a clearer conception than examples such as
+given above:
+
+(A) "All A is B."
+
+(I) "Some A is B."
+
+(E) "No A is B."
+
+(O) "Some A is not B."
+
+These four forms of propositions bear certain logical relations to each
+other, as follows:
+
+A and E are styled _contraries_. I and O are _sub-contraries_; A and I
+and also E and O are called _subalterns_; A and O and also I and E are
+styled _contradictories_.
+
+A close study of these relations, and the symbols expressing them, is
+necessary for a clear comprehension of the Laws of Opposition stated a
+little further back, as well as the principles of Conversion which we
+shall mention a little further on. The following chart, called the
+Square of Opposition, is also employed by logicians to illustrate the
+relations between the four classes of propositions:
+
+   A       CONTRARIES       E
+   +------------------------+
+   |\                     / |
+   | \                   /S |
+   | C\                 /E  |
+   |  O\               /I   |
+   |   N\             /R    |
+   |    T\           /O     |
+  S|     R\         /T      |S
+  U|      A\       /C       |U
+  B|        \     /I        |B
+  A|         \   /D         |A
+  L|          \ /           |L
+  T|          / \           |T
+  E|         /  D\          |E
+  R|        /    I\         |R
+  N|       /A     C\        |N
+  S|      /R       T\       |S
+   |     /T         O\      |
+   |    /N           R\     |
+   |   /O             I\    |
+   |  /C               E\   |
+   | /                  S\  |
+   |/                     \ |
+   +------------------------+
+   I    SUB-CONTRARIES      O
+
+_Conversion_ is the process of immediate reasoning by which we infer
+from a given proposition another proposition having the predicate of
+the original for its subject and the subject of the original for its
+predicate; or stated in a few words: _Conversion is the transposition of
+the subject and predicate of a proposition_. As Brooks states it:
+"Propositions or judgments are _converted_ when the subject and
+predicate change places in such a manner that the resulting judgment is
+an inference from the given judgment." The new proposition, resulting
+from the operation or Conversion, is called the Converse; the original
+proposition is called the Convertend.
+
+_The Law of Conversion_ is that: "No term must be distributed in the
+Converse that is not distributed in the Convertend." This arises from
+the obvious fact that nothing should be affirmed in the derived
+proposition than there is in the original proposition.
+
+There are three kinds of Conversion; _viz_: (1) Simple Conversion; (2)
+Conversion by Limitation; (3) Conversion by Contraposition.
+
+In _Simple Conversion_ there is no change in either quality or quantity.
+In _Conversion by Limitation_ the quality is changed from universal to
+particular. In Conversion by Negation the quality is changed but not
+the quantity. Referring to the classification tables and symbols given
+in the preceding pages of this chapter, we may now proceed to consider
+the application of these methods of Conversion to each of the four kinds
+of propositions; as follows:
+
+_The Universal Affirmative_ (symbol A) proposition is converted by
+Limitation, or by a change of quality from universal to particular. The
+predicate not being "distributed" in the convertend, we must not
+distribute it in the converse by saying "_all_." Thus in this case we
+must convert the proposition, "all men are mortal" (A), into "some
+mortals are men" (I).
+
+_The Universal Negative_ (symbol E) is converted by Simple Conversion,
+in which there is no change in either quality or quantity. For since
+both terms of "E" are distributed, they may both be distributed in the
+converse without violating the law of conversion. Thus "No man is
+mortal" is converted into: "No mortals are men." "E" is converted into
+"E."
+
+_The Particular Affirmative_ (symbol I) is also converted by Simple
+Conversion in which there is no change in either quality or quantity.
+For since neither term is distributed in "I," neither term may be
+distributed in the converse, and the latter must remain "I." For
+instance; the proposition: "Some men are mortal" is converted into the
+proposition, "Some mortals are men."
+
+_The Particular Negative_ (symbol O) is converted by Conversion by
+Negation, in which the quality is changed but not the quantity. Thus in
+converting the proposition: "Some men are not mortal," we must _not_ say
+"some mortals are not men," for in so doing we would distribute _men_ in
+the predicate, where it is not distributed in the convertend. Avoiding
+this, _we transfer the negative particle from the copula to the
+predicate_ so that the convertend becomes "I" which is converted by
+Simple Conversion. Thus we transfer "Some men are not mortal" into "Some
+men are not-mortal" from which we easily convert (by simple Conversion)
+the proposition: "Some not-mortals are men."
+
+It will be well for students, at this point, to consider the three
+following Fundamental Laws of Thought as laid down by the authorities,
+which are as follows:
+
+_The Law of Identity_, which states that: "The same quality or thing is
+always the same quality or thing, no matter how different the conditions
+in which it occurs."
+
+_The Law of Contradiction_, which states that: "No thing can at the same
+time and place both be and not be."
+
+_The Law of Excluded Middle_, which states that: "Everything must either
+be or not be; there is no other alternative or middle course."
+
+Of these laws, Prof. Jevons, a noted authority, says: "Students are
+seldom able to see at first their full meaning and importance. All
+arguments may be explained when these self-evident laws are granted; and
+it is not too much to say that the whole of logic will be plain to those
+who will constantly use these laws as the key."
+
+
+
+

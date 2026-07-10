@@ -1,0 +1,615 @@
+CHAPTER XVI.
+
+THE METHOD OF MEANS.
+
+
+All results of the measurement of continuous quantity can be only
+approximately true. Were this assertion doubted, it could readily be
+proved by direct experience. If any person, using an instrument of
+the greatest precision, makes and registers successive observations
+in an unbiassed manner, it will almost invariably be found that the
+results differ from each other. When we operate with sufficient care
+we cannot perform so simple an experiment as weighing an object in a
+good balance without getting discrepant numbers. Only the rough and
+careless experimenter will think that his observations agree, but
+in reality he will be found to overlook the differences. The most
+elaborate researches, such as those undertaken in connection with
+standard weights and measures, always render it apparent that complete
+coincidence is out of the question, and that the more accurate our
+modes of observation are rendered, the more numerous are the sources
+of minute error which become apparent. We may look upon the existence
+of error in all measurements as the normal state of things. It is
+absolutely impossible to eliminate separately the multitude of small
+disturbing influences, except by balancing them off against each other.
+Even in drawing a mean it is to be expected that we shall come near
+the truth rather than exactly to it. In the measurement of continuous
+quantity, absolute coincidence, if it seems to occur, must be only
+apparent, and is no indication of precision. It is one of the most
+embarrassing things we can meet when experimental results agree
+too closely. Such coincidences should raise our suspicion that the
+apparatus in use is in some way restricted in its operation, so as
+not really to give the true result at all, or that the actual results
+have not been faithfully recorded by the assistant in charge of the
+apparatus.
+
+If then we cannot get twice over exactly the same result, the question
+arises, How can we ever attain the truth or select the result which may
+be supposed to approach most nearly to it? The quantity of a certain
+phenomenon is expressed in several numbers which differ from each
+other; no more than one of them at the most can be true, and it is more
+probable that they are all false. It may be suggested, perhaps, that
+the observer should select the one observation which he judged to be
+the best made, and there will often doubtless be a feeling that one
+or more results were satisfactory, and the others less trustworthy.
+This seems to have been the course adopted by the early astronomers.
+Flamsteed, when he had made several observations of a star, probably
+chose in an arbitrary manner that which seemed to him nearest to the
+truth.[261]
+
+  [261] Baily’s *Account of Flamsteed*, p. 376.
+
+When Horrocks selected for his estimate of the sun’s semi-diameter a
+mean between the results of Kepler and Tycho, he professed not to do
+it from any regard to the idle adage, “Medio tutissimus ibis,” but
+because he thought it from his own observations to be correct.[262] But
+this method will not apply at all when the observer has made a number
+of measurements which are equally good in his opinion, and it is quite
+apparent that in using an instrument or apparatus of considerable
+complication the observer will not necessarily be able to judge whether
+slight causes have affected its operation or not.
+
+  [262] *The Transit of Venus across the Sun*, by Horrocks, London,
+  1859, p. 146.
+
+In this question, as indeed throughout inductive logic, we deal only
+with probabilities. There is no infallible mode of arriving at the
+absolute truth, which lies beyond the reach of human intellect, and
+can only be the distant object of our long-continued and painful
+approximations. Nevertheless there is a mode pointed out alike by
+common sense and the highest mathematical reasoning, which is more
+likely than any other, as a general rule, to bring us near the truth.
+The ἄριστον μέτρον, or the *aurea mediocritas*, was highly esteemed
+in the ancient philosophy of Greece and Rome; but it is not probable
+that any of the ancients should have been able clearly to analyse and
+express the reasons why they advocated the *mean* as the safest course.
+But in the last two centuries this apparently simple question of the
+mean has been found to afford a field for the exercise of the utmost
+mathematical skill. Roger Cotes, the editor of the *Principia*, appears
+to have had some insight into the value of the mean; but profound
+mathematicians such as De Moivre, Daniel Bernoulli, Laplace, Lagrange,
+Gauss, Quetelet, De Morgan, Airy, Leslie Ellis, Boole, Glaisher, and
+others, have hardly exhausted the subject.
+
+
+*Several uses of the Mean Result.*
+
+The elimination of errors of unknown sources, is almost always
+accomplished by the simple arithmetical process of taking the *mean*,
+or, as it is often called, the *average* of several discrepant numbers.
+To take an average is to add the several quantities together, and
+divide by the number of quantities thus added, which gives a quotient
+lying among, or in the *middle* of, the several quantities. Before
+however inquiring fully into the grounds of this procedure, it is
+essential to observe that this one arithmetical process is really
+applied in at least three different cases, for different purposes, and
+upon different principles, and we must take great care not to confuse
+one application of the process with another. A *mean result*, then, may
+have any one of the following significations.
+
+(1) It may give a merely representative number, expressing the general
+magnitude of a series of quantities, and serving as a convenient mode
+of comparing them with other series of quantities. Such a number is
+properly called *The fictitious mean* or *The average result*.
+
+(2) It may give a result approximately free from disturbing quantities,
+which are known to affect some results in one direction, and other
+results equally in the opposite direction. We may say that in this case
+we get a *Precise mean result*.
+
+(3) It may give a result more or less free from unknown and uncertain
+errors; this we may call the *Probable mean result*.
+
+Of these three uses of the mean the first is entirely different in
+nature from the two last, since it does not yield an approximation
+to any natural quantity, but furnishes us with an arithmetic result
+comparing the aggregate of certain quantities with their number. The
+third use of the mean rests entirely upon the theory of probability,
+and will be more fully considered in a later part of this chapter. The
+second use is closely connected, or even identical with, the Method of
+Reversal already described, but it will be desirable to enter somewhat
+fully into all the three employments of the same arithmetical process.
+
+
+*The Mean and the Average.*
+
+Much confusion exists in the popular, or even the scientific employment
+of the terms *mean* and *average*, and they are commonly taken as
+synonymous. It is necessary to ascertain carefully what significations
+we ought to attach to them. The English word *mean* is equivalent to
+*medium*, being derived, perhaps through the French *moyen*, from the
+Latin *medius*, which again is undoubtedly kindred with the Greek
+μεσος. Etymologists believe, too, that this Greek word is connected
+with the preposition μετα, the German *mitte*, and the true English
+*mid* or *middle*; so that after all the *mean* is a technical term
+identical in its root with the more popular equivalent *middle*.
+
+If we inquire what is the mean in a mathematical point of view, the
+true answer is that there are several or many kinds of means. The old
+arithmeticians recognised ten kinds, which are stated by Boethius, and
+an eleventh was added by Jordanus.[263]
+
+  [263] De Morgan, Supplement to the *Penny Cyclopædia*, art. *Old
+  Appellations of Numbers*.
+
+The *arithmetic mean* is the one by far the most commonly denoted by
+the term, and that which we may understand it to signify in the absence
+of any qualification. It is the sum of a series of quantities divided
+by their number, and may be represented by the formula 1/2(*a* + *b*).
+But there is also the *geometric mean*, which is the square root of the
+product, √(*a* × *b*), or that quantity the logarithm of which
+is the arithmetic mean of the logarithms of the quantities. There is
+also the *harmonic mean*, which is the reciprocal of the arithmetic
+mean of the reciprocals of the quantities. Thus if *a* and *b* be the
+quantities, as before, their reciprocals are 1/*a* and 1/*b*, the
+mean of which is 1/2 (1/*a* + 1/*b*), and the reciprocal again is
+(2*ab*)/(*a* + *b*), which is the harmonic mean. Other kinds of means
+might no doubt be invented for particular purposes, and we might apply
+the term, as De Morgan pointed out,[264] to any quantity a function of
+which is equal to a function of two or more other quantities, and is
+such that the interchange of these latter quantities among themselves
+will make no alteration in the value of the function. Symbolically, if
+Φ(*y*, *y*, *y* ....) = Φ(*x*_{1}, *x*_{2}, *x*_{3} ....), then *y* is
+a kind of mean of the quantities, *x*_{1}, *x*_{2}, &c.
+
+  [264] *Penny Cyclopædia*, art. *Mean*.
+
+The geometric mean is necessarily adopted in certain cases. When we
+estimate the work done against a force which varies inversely as
+the square of the distance from a fixed point, the mean force is
+the geometric mean between the forces at the beginning and end of
+the path. When in an imperfect balance, we reverse the weights to
+eliminate error, the true weight will be the geometric mean of the two
+apparent weights. In almost all the calculations of statistics and
+commerce the geometric mean ought, strictly speaking, to be used. If a
+commodity rises in price 100 per cent. and another remains unaltered,
+the mean rise of a price is not 50 per cent. because the ratio
+150 : 200 is not the same as 100 : 150. The mean ratio is as unity to
+√(1·00 × 2·00) or 1 to 1·41. The difference between the three
+kinds of means in such a case[265] is very considerable; while the
+rise of price estimated by the Arithmetic mean would be 50 per cent.
+it would be only 41 and 33 per cent. respectively according to the
+Geometric and Harmonic means.
+
+  [265] Jevons, *Journal of the Statistical Society*, June 1865,
+  vol. xxviii, p. 296.
+
+In all calculations concerning the average rate of progress of a
+community, or any of its operations, the geometric mean should be
+employed. For if a quantity increases 100 per cent. in 100 years, it
+would not on the average increase 10 per cent. in each ten years, as
+the 10 per cent. would at the end of each decade be calculated upon
+larger and larger quantities, and give at the end of 100 years much
+more than 100 per cent., in fact as much as 159 per cent. The true mean
+rate in each decade would be ^{10}√2 or about 1·07, that is, the
+increase would be about 7 per cent. in each ten years. But when the
+quantities differ very little, the arithmetic and geometric means are
+approximately the same. Thus the arithmetic mean of 1·000 and 1·001
+is 1·0005, and the geometric mean is about 1·0004998, the difference
+being of an order inappreciable in almost all scientific and practical
+matters. Even in the comparison of standard weights by Gauss’ method
+of reversal, the arithmetic mean may usually be substituted for the
+geometric mean which is the true result.
+
+Regarding the mean in the absence of express qualification to the
+contrary as the common arithmetic mean, we must still distinguish
+between its two uses where it gives with more or less accuracy and
+probability a really existing quantity, and where it acts as a mere
+representative of other quantities. If I make many experiments to
+determine the atomic weight of an element, there is a certain number
+which I wish to approximate to, and the mean of my separate results
+will, in the absence of any reasons to the contrary, be the most
+probable approximate result. When we determine the mean density of
+the earth, it is not because any part of the earth is of that exact
+density; there may be no part exactly corresponding to the mean
+density, and as the crust of the earth has only about half the mean
+density, the internal matter of the globe must of course be above the
+mean. Even the density of a homogeneous substance like carbon or gold
+must be regarded as a mean between the real density of its atoms, and
+the zero density of the intervening vacuous space.
+
+The very different signification of the word “mean” in these two uses
+was fully explained by Quetelet,[266] and the importance of the
+distinction was pointed out by Sir John Herschel in reviewing his
+work.[267] It is much to be desired that scientific men would mark the
+difference by using the word *mean* only in the former sense when it
+denotes approximation to a definite existing quantity; and *average*,
+when the mean is only a fictitious quantity, used for convenience
+of thought and expression. The etymology of this word “average” is
+somewhat obscure; but according to De Morgan[268] it comes from
+*averia*, “havings or possessions,” especially applied to farm stock.
+By the accidents of language *averagium* came to mean the labour of
+farm horses to which the lord was entitled, and it probably acquired in
+this manner the notion of distributing a whole into parts, a sense in
+which it was early applied to maritime averages or contributions of the
+other owners of cargo to those whose goods have been thrown overboard
+or used for the safety of the vessel.
+
+  [266] *Letters on the Theory of Probabilities*, transl. by Downes,
+  Part ii.
+
+  [267] Herschel’s *Essays*, &c. pp. 404, 405.
+
+  [268] *On the Theory of Errors of Observations, Cambridge
+  Philosophical Transactions*, vol. x. Part ii. 416.
+
+
+*On the Average or Fictitious Mean.*
+
+Although the average when employed in its proper sense of a fictitious
+mean, represents no really existing quantity, it is yet of the
+highest scientific importance, as enabling us to conceive in a single
+result a multitude of details. It enables us to make a hypothetical
+simplification of a problem, and avoid complexity without committing
+error. The weight of a body is the sum of the weights of infinitely
+small particles, each acting at a different place, so that a mechanical
+problem resolves itself, strictly speaking, into an infinite number
+of distinct problems. We owe to Archimedes the first introduction of
+the beautiful idea that one point may be discovered in a gravitating
+body such that the weight of all the particles may be regarded as
+concentrated in that point, and yet the behaviour of the whole body
+will be exactly represented by the behaviour of this heavy point. This
+Centre of Gravity may be within the body, as in the case of a sphere,
+or it may be in empty space, as in the case of a ring. Any two bodies,
+whether connected or separate, may be conceived as having a centre of
+gravity, that of the sun and earth lying within the sun and only 267
+miles from its centre.
+
+Although we most commonly use the notion of a centre or average point
+with regard to gravity, the same notion is applicable to other cases.
+Terrestrial gravity is a case of approximately parallel forces, and
+the centre of gravity is but a special case of the more general Centre
+of Parallel Forces. Wherever a number of forces of whatever amount
+act in parallel lines, it is possible to discover a point at which
+the algebraic sum of the forces may be imagined to act with exactly
+the same effect. Water in a cistern presses against the side with a
+pressure varying according to the depth, but always in a direction
+perpendicular to the side. We may then conceive the whole pressure
+as exerted on one point, which will be one-third from the bottom of
+the cistern, and may be called the Centre of Pressure. The Centre
+of Oscillation of a pendulum, discovered by Huyghens, is that point
+at which the whole weight of the pendulum may be considered as
+concentrated, without altering the time of oscillation (p. 315). When
+one body strikes another the Centre of Percussion is that point in
+the striking body at which all its mass might be concentrated without
+altering the effect of the stroke. In position the Centre of Percussion
+does not differ from the Centre of Oscillation. Mathematicians have
+also described the Centre of Gyration, the Centre of Conversion, the
+Centre of Friction, &c.
+
+We ought carefully to distinguish between those cases in which an
+*invariable* centre can be assigned, and those in which it cannot.
+In perfect strictness, there is no such thing as a true invariable
+centre of gravity. As a general rule a body is capable of possessing an
+invariable centre only for perfectly parallel forces, and gravity never
+does act in absolutely parallel lines. Thus, as usual, we find that our
+conceptions are only hypothetically correct, and only approximately
+applicable to real circumstances. There are indeed certain geometrical
+forms called *Centrobaric*,[269] such that a body of that shape would
+attract another exactly as if the mass were concentrated at the centre
+of gravity, whether the forces act in a parallel manner or not.
+Newton showed that uniform spheres of matter have this property,
+and this truth proved of the greatest importance in simplifying his
+calculations. But it is after all a purely hypothetical truth, because
+we can nowhere meet with, nor can we construct, a perfectly spherical
+and homogeneous body. The slightest irregularity or protrusion from
+the surface will destroy the rigorous correctness of the assumption.
+The spheroid, on the other hand, has no invariable centre at which its
+mass may always be regarded as concentrated. The point from which its
+resultant attraction acts will move about according to the distance
+and position of the other attracting body, and it will only coincide
+with the centre as regards an infinitely distant body whose attractive
+forces may be considered as acting in parallel lines.
+
+  [269] Thomson and Tait, *Treatise on Natural Philosophy*, vol. i.
+  p. 394.
+
+Physicists speak familiarly of the poles of a magnet, and the term
+may be used with convenience. But, if we attach any definite meaning
+to the word, the poles are not the ends of the magnet, nor any fixed
+points within, but the variable points from which the resultants of
+all the forces exerted by the particles in the bar upon exterior
+magnetic particles may be considered as acting. The poles are, in
+short, Centres of Magnetic Forces; but as those forces are never
+really parallel, these centres will vary in position according to
+the relative place of the object attracted. Only when we regard the
+magnet as attracting a very distant, or, strictly speaking, infinitely
+distant particle, do its centres become fixed points, situated in short
+magnets approximately at one-sixth of the whole length from each end of
+the bar. We have in the above instances of centres or poles of force
+sufficient examples of the mode in which the Fictitious Mean or Average
+is employed in physical science.
+
+
+*The Precise Mean Result.*
+
+We now turn to that mode of employing the mean result which is
+analogous to the method of reversal, but which is brought into practice
+in a most extensive manner throughout many branches of physical
+science. We find the simplest possible case in the determination of
+the latitude of a place by observations of the Pole-star. Tycho Brahe
+suggested that if the elevation of any circumpolar star were observed
+at its higher and lower passages across the meridian, half the sum of
+the elevations would be the latitude of the place, which is equal to
+the height of the pole. Such a star is as much above the pole at its
+highest passage, as it is below at its lowest, so that the mean must
+necessarily give the height of the pole itself free from doubt, except
+as regards incidental errors. The Pole-star is usually selected for the
+purpose of such observations because it describes the smallest circle,
+and is thus on the whole least affected by atmospheric refraction.
+
+Whenever several causes are in action, each of which at one time
+increases and at another time decreases the joint effect by equal
+quantities, we may apply this method and disentangle the effects. Thus
+the solar and lunar tides roll on in almost complete independence of
+each other. When the moon is new or full the solar tide coincides, or
+nearly so, with that caused by the moon, and the joint effect is the
+sum of the separate effects. When the moon is in quadrature, or half
+full, the two tides are acting in opposition, one raising and the other
+depressing the water, so that we observe only the difference of the
+effects. We have in fact--
+
+  Spring tide = lunar tide + solar tide;
+  Neap tide   = lunar tide - solar tide.
+
+We have only then to add together the heights of the maximum spring
+tide and the minimum neap tide, and half the sum is the true height of
+the lunar tide. Half the difference of the spring and neap tides on the
+other hand gives the solar tide.
+
+Effects of very small amount may be detected with great approach to
+certainty among much greater fluctuations, provided that we have
+a series of observations sufficiently numerous and long continued
+to enable us to balance all the larger effects against each other.
+For this purpose the observations should be continued over at least
+one complete cycle, in which the effects run through all their
+variations, and return exactly to the same relative positions as at the
+commencement. If casual or irregular disturbing causes exist, we should
+probably require many such cycles of results to render their effect
+inappreciable. We obtain the desired result by taking the mean of all
+the observations in which a cause acts positively, and the mean of all
+in which it acts negatively. Half the difference of these means will
+give the effect of the cause in question, provided that no other effect
+happens to vary in the same period or nearly so.
+
+Since the moon causes a movement of the ocean, it is evident that
+its attraction must have some effect upon the atmosphere. The laws
+of atmospheric tides were investigated by Laplace, but as it would
+be impracticable by theory to calculate their amounts we can only
+determine them by observation, as Laplace predicted that they would
+one day be determined.[270] But the oscillations of the barometer thus
+caused are far smaller than the oscillations due to several other
+causes. Storms, hurricanes, or changes of weather produce movements
+of the barometer sometimes as much as a thousand times as great as
+the tides in question. There are also regular daily, yearly, or other
+fluctuations, all greater than the desired quantity. To detect and
+measure the atmospheric tide it was desirable that observations should
+be made in a place as free as possible from irregular disturbances.
+On this account several long series of observations were made at St.
+Helena, where the barometer is far more regular in its movements than
+in a continental climate. The effect of the moon’s attraction was
+then detected by taking the mean of all the readings when the moon
+was on the meridian and the similar mean when she was on the horizon.
+The difference of these means was found to be only ·00365, yet it was
+possible to discover even the variation of this tide according as the
+moon was nearer to or further from the earth, though this difference
+was only ·00056 inch.[271] It is quite evident that such minute effects
+could never be discovered in a purely empirical manner. Having no
+information but the series of observations before us, we could have
+no clue as to the mode of grouping them which would give so small a
+difference. In applying this method of means in an extensive manner
+we must generally then have *à priori* knowledge as to the periods at
+which a cause will act in one direction or the other.
+
+  [270] *Essai Philosophique sur les Probabilités*, pp. 49, 50.
+
+  [271] Grant, *History of Physical Astronomy*, p. 163.
+
+We are sometimes able to eliminate fluctuations and take a mean result
+by purely mechanical arrangements. The daily variations of temperature,
+for instance, become imperceptible one or two feet below the surface
+of the earth, so that a thermometer placed with its bulb at that
+depth gives very nearly the true daily mean temperature. At a depth
+of twenty feet even the yearly fluctuations are nearly effaced, and
+the thermometer stands a little above the true mean temperature of the
+locality. In registering the rise and fall of the tide by a tide-gauge,
+it is desirable to avoid the oscillations arising from surface waves,
+which is very readily accomplished by placing the float in a cistern
+communicating by a small hole with the sea. Only a general rise or
+fall of the level is then perceptible, just as in the marine barometer
+the narrow tube prevents any casual fluctuations and allows only a
+continued change of pressure to manifest itself.
+
+
+*Determination of the Zero point.*
+
+In many important observations the chief difficulty consists in
+defining exactly the zero point from which we are to measure. We can
+point a telescope with great precision to a star and can measure to
+a second of arc the angle through which the telescope is raised or
+lowered; but all this precision will be useless unless we know exactly
+the centre point of the heavens from which we measure, or, what comes
+to the same thing, the horizontal line 90° distant from it. Since the
+true horizon has reference to the figure of the earth at the place of
+observation, we can only determine it by the direction of gravity,
+as marked either by the plumb-line or the surface of a liquid. The
+question resolves itself then into the most accurate mode of observing
+the direction of gravity, and as the plumb-line has long been found
+hopelessly inaccurate, astronomers generally employ the surface of
+mercury in repose as the criterion of horizontality. They ingeniously
+observe the direction of the surface by making a star the index. From
+the laws of reflection it follows that the angle between the direct
+ray from a star and that reflected from a surface of mercury will
+be exactly double the angle between the surface and the direct ray
+from the star. Hence the horizontal or zero point is the mean between
+the apparent place of any star or other very distant object and its
+reflection in mercury.
+
+A plumb-line is perpendicular, or a liquid surface is horizontal only
+in an approximate sense; for any irregularity of the surface of the
+earth, a mountain, or even a house must cause some deviation by its
+attracting power. To detect such deviation might seem very difficult,
+because every other plumb-line or liquid surface would be equally
+affected by gravity. Nevertheless it can be detected; for if we place
+one plumb-line to the north of a mountain, and another to the south,
+they will be about equally deflected in opposite directions, and if
+by observations of the same star we can measure the angle between the
+plumb-lines, half the inclination will be the deviation of either,
+after allowance has been made for the inclination due to the difference
+of latitude of the two places of observation. By this mode of
+observation applied to the mountain Schiehallion the deviation of the
+plumb-line was accurately measured by Maskelyne, and thus a comparison
+instituted between the attractive forces of the mountain and the whole
+globe, which led to a probable estimate of the earth’s density.
+
+In some cases it is actually better to determine the zero point by the
+average of equally diverging quantities than by direct observation. In
+delicate weighings by a chemical balance it is requisite to ascertain
+exactly the point at which the beam comes to rest, and when standard
+weights are being compared the position of the beam is ascertained
+by a carefully divided scale viewed through a microscope. But when
+the beam is just coming to rest, friction, small impediments or other
+accidental causes may readily obstruct it, because it is near the
+point at which the force of stability becomes infinitely small. Hence
+it is found better to let the beam vibrate and observe the terminal
+points of the vibrations. The mean between two extreme points will
+nearly indicate the position of rest. Friction and the resistance of
+air tend to reduce the vibrations, so that this mean will be erroneous
+by half the amount of this effect during a half vibration. But by
+taking several observations we may determine this retardation and
+allow for it. Thus if *a*, *b*, *c* be the readings of the terminal
+points of three excursions of the beam from the zero of the scale,
+then 1/2(*a* + *b*) will be about as much erroneous in one direction
+as 1/2(*b* + *c*) in the other, so that the mean of these two means,
+or 1/4(*a* + 2*b* + *c*), will be exceedingly near to the point of
+rest.[272] A still closer approximation may be made by taking four
+readings and reducing them by the formula 1/6(*a* + 2*b* + 2*c* + *d*).
+
+  [272] Gauss, Taylor’s *Scientific Memoirs*, vol. ii. p. 43, &c.
+
+The accuracy of Baily’s experiments, directed to determine the
+density of the earth, entirely depended upon this mode of observing
+oscillations. The balls whose gravitation was measured were so
+delicately suspended by a torsion balance that they never came to
+rest. The extreme points of the oscillations were observed both when
+the heavy leaden attracting ball was on one side and on the other. The
+difference of the mean points when the leaden ball was on the right
+hand and that when it was on the left hand gave double the amount of
+the deflection.
+
+A beautiful instance of avoiding the use of a zero point is found in
+Mr. E. J. Stone’s observations on the radiant heat of the fixed stars.
+The difficulty of these observations arose from the comparatively great
+amounts of heat which were sent into the telescope from the atmosphere,
+and which were sufficient to disguise almost entirely the feeble heat
+rays of a star. But Mr. Stone fixed at the focus of his telescope a
+double thermo-electric pile of which the two parts were reversed in
+order. Now any disturbance of temperature which acted uniformly upon
+both piles produced no effect upon the galvanometer needle, and when
+the rays of the star were made to fall alternately upon one pile and
+the other, the total amount of the deflection represented double the
+heating power of the star. Thus Mr. Stone was able to detect with
+much certainty a heating effect of the star Arcturus, which even when
+concentrated by the telescope amounted only to 0°·02 Fahr., and which
+represents a heating effect of the direct ray of only about 0°·00000137
+Fahr., equivalent to the heat which would be received from a three-inch
+cubic vessel full of boiling water at the distance of 400 yards.[273]
+It is probable that Mr. Stone’s arrangement of the pile might be
+usefully employed in other delicate thermometric experiments subject to
+considerable disturbing influences.
+
+  [273] *Proceedings of the Royal Society*, vol. xviii. p. 159 (Jan.
+  13, 1870). *Philosophical Magazine* (4th Series), vol. xxxix. p. 376.
+
+
+*Determination of Maximum Points.*
+
+We employ the method of means in a certain number of observations
+directed to determine the moment at which a phenomenon reaches its
+highest point in quantity. In noting the place of a fixed star at a
+given time there is no difficulty in ascertaining the point to be
+observed, for a star in a good telescope presents an exceedingly small
+disc. In observing a nebulous body which from a bright centre fades
+gradually away on all sides, it will not be possible to select with
+certainty the middle point. In many such cases the best method is not
+to select arbitrarily the supposed middle point, but points of equal
+brightness on either side, and then take the mean of the observations
+of these two points for the centre. As a general rule, a variable
+quantity in reaching its maximum increases at a less and less rate,
+and after passing the highest point begins to decrease by insensible
+degrees. The maximum may indeed be defined as that point at which
+the increase or decrease is null. Hence it will usually be the most
+indefinite point, and if we can accurately measure the phenomenon we
+shall best determine the place of the maximum by determining points on
+either side at which the ordinates are equal. There is moreover this
+advantage in the method that several points may be determined with the
+corresponding ones on the other side, and the mean of the whole taken
+as the true place of the maximum. But this method entirely depends upon
+the existence of symmetry in the curve, so that of two equal ordinates
+one shall be as far on one side of the maximum as the other is on the
+other side. The method fails when other laws of variation prevail.
+
+In tidal observations great difficulty is encountered in fixing
+the moment of high water, because the rate at which the water is
+then rising or falling, is almost imperceptible. Whewell proposed,
+therefore, to note the time at which the water passes a fixed point
+somewhat below the maximum both in rising and falling, and take
+the mean time as that of high water. But this mode of proceeding
+unfortunately does not give a correct result, because the tide follows
+different laws in rising and in falling. There is a difficulty again in
+selecting the highest spring tide, another object of much importance in
+tidology. Laplace discovered that the tide of the second day preceding
+the conjunction of the sun and moon is nearly equal to that of the
+fifth day following; and, believing that the increase and decrease of
+the tides proceeded in a nearly symmetrical manner, he decided that the
+highest tide would occur about thirty-six hours after the conjunction,
+that is half-way between the second day before and the fifth day
+after.[274]
+
+  [274] Airy *On Tides and Waves*, Encycl. Metrop. pp. 364*-366*.
+
+This method is also employed in determining the time of passage of the
+middle or densest point of a stream of meteors. The earth takes two
+or three days in passing completely through the November stream; but
+astronomers need for their calculations to have some definite point
+fixed within a few minutes if possible. When near to the middle they
+observe the numbers of meteors which come within the sphere of vision
+in each half hour, or quarter hour, and then, assuming that the law of
+variation is symmetrical, they select a moment for the passage of the
+centre equidistant between times of equal frequency.
+
+The eclipses of Jupiter’s satellites are not only of great interest as
+regards the motions of the satellites themselves, but were, and perhaps
+still are, of use in determining longitudes, because they are events
+occurring at fixed moments of absolute time, and visible in all parts
+of the planetary system at the same time, allowance being made for the
+interval occupied by the light in travelling. But, as is explained by
+Herschel,[275] the moment of the event is wanting in definiteness,
+partly because the long cone of Jupiter’s shadow is surrounded by
+a penumbra, and partly because the satellite has itself a sensible
+disc, and takes time in entering the shadow. Different observers using
+different telescopes would usually select different moments for that
+of the eclipse. But the increase of light in the emersion will proceed
+according to a law the reverse of that observed in the immersion,
+so that if an observer notes the time of both events with the same
+telescope, he will be as much too soon in one observation as he is too
+late in the other, and the mean moment of the two observations will
+represent with considerable accuracy the time when the satellite is in
+the middle of the shadow. Error of judgment of the observer is thus
+eliminated, provided that he takes care to act at the emersion as he
+did at the immersion.
+
+  [275] *Outlines of Astronomy*, 4th edition, § 538.
+
+
+
+

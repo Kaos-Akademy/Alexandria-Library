@@ -1,0 +1,1846 @@
+CHAPTER VI.
+
+THE INDIRECT METHOD OF INFERENCE.
+
+
+The forms of deductive reasoning as yet considered, are mostly cases
+of Direct Deduction as distinguished from those which we are now about
+to treat. The method of Indirect Deduction may be described as that
+which points out what a thing is, by showing that it cannot be anything
+else. We can define a certain space upon a map, either by colouring
+that space, or by colouring all except the space; the first mode is
+positive, the second negative. The difference, it will be readily seen,
+is exactly analogous to that between the direct and indirect modes
+of proof in geometry. Euclid often shows that two lines are equal,
+by showing that they cannot be unequal, and the proof rests upon the
+known number of alternatives, greater, equal or less, which are alone
+conceivable. In other cases, as for instance in the seventh proposition
+of the first book, he shows that two lines must meet in a particular
+point, by showing that they cannot meet elsewhere.
+
+In logic we can always define with certainty the utmost number of
+alternatives which are conceivable. The Law of Duality (pp. 6, 74)
+enables us always to assert that any quality or circumstance whatsoever
+is either present or absent. Whatever may be the meaning of the terms A
+and B it is certainly true that
+
+  A = AB ꖌ A*b*
+  B = AB ꖌ *a*B.
+
+These are universal tacit premises which may be employed in the
+solution of every problem, and which are such invariable and necessary
+conditions of all thought, that they need not be specially laid down.
+The Law of Contradiction is a further condition of all thought and of
+all logical symbols; it enables, and in fact obliges, us to reject from
+further consideration all terms which imply the presence and absence
+of the same quality. Now, whenever we bring both these Laws of Thought
+into explicit action by the method of substitution, we employ the
+Indirect Method of Inference. It will be found that we can treat not
+only those arguments already exhibited according to the direct method,
+but we can include an infinite multitude of other arguments which are
+incapable of solution by any other means.
+
+Some philosophers, especially those of France, have held that the
+Indirect Method of Proof has a certain inferiority to the direct
+method, which should prevent our using it except when obliged. But
+there are many truths which we can prove only indirectly. We can
+prove that a number is a prime only by the purely indirect method of
+showing that it is not any of the numbers which have divisors, and the
+remarkable process known as Eratosthenes’ Sieve is the only mode by
+which we can select the prime numbers.[72] It bears a strong analogy to
+the indirect method here to be described. We can prove that the side
+and diameter of a square are incommensurable, but only in the negative
+or indirect manner, by showing that the contrary supposition inevitably
+leads to contradiction.[73] Many other demonstrations in various
+branches of the mathematical sciences proceed upon a like method.
+Now, if there is only one important truth which must be, and can only
+be, proved indirectly, we may say that the process is a necessary and
+sufficient one, and the question of its comparative excellence or
+usefulness is not worth discussion. As a matter of fact I believe that
+nearly half our logical conclusions rest upon its employment.
+
+  [72] See Horsley, *Philosophical Transactions*, 1772; vol. lxii.
+  p. 327. Montucla, *Histoire des Mathematiques*, vol. i. p. 239.
+  *Penny Cyclopædia*, article “Eratosthenes.”
+
+  [73] Euclid, Book x. Prop. 117.
+
+
+*Simple Illustrations.*
+
+In tracing out the powers and results of this method, we will begin
+with the simplest possible instance. Let us take a proposition of the
+common form, A = AB, say,
+
+  *A Metal is an Element,*
+
+and let us investigate its full meaning. Any person who has had the
+least logical training, is aware that we can draw from the above
+proposition an apparently different one, namely,
+
+  *A Not-element is a Not-metal.*
+
+While some logicians, as for instance De Morgan,[74] have considered
+the relation of these two propositions to be purely self-evident, and
+neither needing nor allowing analysis, a great many more persons, as
+I have observed while teaching logic, are at first unable to perceive
+the close connection between them. I believe that a true and complete
+system of logic will furnish a clear analysis of this process, which
+has been called *Contrapositive Conversion*; the full process is as
+follows:--
+
+  [74] *Philosophical Magazine*, December 1852; Fourth Series, vol. iv.
+  p. 435, “On Indirect Demonstration.”
+
+Firstly, by the Law of Duality we know that
+
+  *Not-element is either Metal or Not-metal.*
+
+If it be metal, we know that it is by the premise *an element*; we
+should thus be supposing that the same thing is an element and a
+not-element, which is in opposition to the Law of Contradiction.
+According to the only other alternative, then, the not-element must be
+a not-metal.
+
+To represent this process of inference symbolically we take the premise
+in the form
+
+  A = AB.                  (1)
+
+We observe that by the Law of Duality the term not-B is thus described
+
+  *b* = A*b* ꖌ *ab*.       (2)
+
+For A in this proposition we substitute its description as given in
+(1), obtaining
+
+  *b* = AB*b* ꖌ *ab*.
+
+But according to the Law of Contradiction the term AB*b* must be
+excluded from thought, or
+
+  AB*b* = 0.
+
+Hence it results that *b* is either nothing at all, or it is *ab*; and
+the conclusion is
+
+  *b* = *ab*.
+
+As it will often be necessary to refer to a conclusion of this kind I
+shall call it, as is usual, the *Contrapositive Proposition* of the
+original. The reader need hardly be cautioned to observe that from all
+A’s are B’s it does not follow that all not-A’s are not-B’s. For by the
+Law of Duality we have
+
+  *a* = *a*B ꖌ *ab*,
+
+and it will not be found possible to make any substitution in this by
+our original premise A = AB. It still remains doubtful, therefore,
+whether not-metal is element or not-element.
+
+The proof of the Contrapositive Proposition given above is exactly the
+same as that which Euclid applies in the case of geometrical notions.
+De Morgan describes Euclid’s process as follows[75]:--“From every not-B
+is not-A he produces Every A is B, thus: If it be possible, let this A
+be not-B, but every not-B is not-A, therefore this A is not-A, which
+is absurd: whence every A is B.” Now De Morgan thinks that this proof
+is entirely needless, because common logic gives the inference without
+the use of any geometrical reasoning. I conceive however that logic
+gives the inference only by an indirect process. De Morgan claims “to
+see identity in Every A is B and every not-B is not-A, by a process
+of thought prior to syllogism.” Whether prior to syllogism or not, I
+claim that it is not prior to the laws of thought and the process of
+substitutive inference, by which it may be undoubtedly demonstrated.
+
+  [75] *Philosophical Magazine*, Dec. 1852; p. 437.
+
+
+*Employment of the Contrapositive Proposition.*
+
+We can frequently employ the contrapositive form of a proposition by
+the method of substitution; and certain moods of the ancient syllogism,
+which we have hitherto passed over, may thus be satisfactorily
+comprehended in our system. Take for instance the following syllogism
+in the mood Camestres:--
+
+  “Whales are not true fish; for they do not respire water,
+     whereas true fish do respire water.”
+
+Let us take
+
+  A = whale
+  B = true fish
+  C = respiring water
+
+The premises are of the forms
+
+  A = A*c*        (1)
+  B = BC          (2)
+
+Now, by the process of contraposition we obtain from the second premise
+
+  *c* = *bc*
+
+and we can substitute this expression for *c* in (1), obtaining
+
+  A = A*bc*
+
+or “Whales are not true fish, not respiring water.”
+
+The mood Cesare does not really differ from Camestres except in the
+order of the premises, and it could be exhibited in an exactly similar
+manner.
+
+The mood Baroko gave much trouble to the old logicians, who could
+not *reduce* it to the first figure in the same manner as the other
+moods, and were obliged to invent, specially for it and for Bokardo, a
+method of Indirect Reduction closely analogous to the indirect proof
+of Euclid. Now these moods require no exceptional treatment in this
+system. Let us take as an instance of Baroko, the argument
+
+  All heated solids give continuous spectra        (1)
+  Some nebulæ do not give continuous spectra       (2)
+  Therefore, some nebulæ are not heated solids     (3)
+
+Treating the little word some as an indeterminate adjective of
+selection, to which we assign a symbol like any other adjective, let
+
+  A = some
+  B = nebulæ
+  C = giving continuous spectra
+  D = heated solids
+
+The premises then become
+
+  D = DC                        (1)
+  AB = AB*c*                    (2)
+
+Now from (1) we obtain by the indirect method the contrapositive
+proposition
+
+  *c* = *cd*
+
+and if we substitute this expression for *c* in (2) we have
+
+  AB = AB*cd*
+
+the full meaning of which is that “some nebulæ do not give continuous
+spectra and are not heated solids.”
+
+We might similarly apply the contrapositive in many other instances.
+Take the argument, “All fixed stars are self-luminous; but some of the
+heavenly bodies are not self-luminous, and are therefore not fixed
+stars.” Taking our terms
+
+  A = fixed stars
+  B = self-luminous
+  C = some
+  D = heavenly bodies
+
+we have the premises
+
+   A = AB,                      (1)
+  CD = *b*CD                    (2)
+
+Now from (1) we can draw the contrapositive
+
+  *b* = *ab*
+
+and substituting this expression for *b* in (2) we obtain
+
+  CD = *ab*CD
+
+which expresses the conclusion of the argument that some heavenly
+bodies are not fixed stars.
+
+
+*Contrapositive of a Simple Identity.*
+
+The reader should carefully note that when we apply the process of
+Indirect Inference to a simple identity of the form
+
+  A = B
+
+we may obtain further results. If we wish to know what is the term
+not-B, we have as before, by the Law of Duality,
+
+  *b* = A*b* ꖌ *ab*
+
+and substituting for A we obtain
+
+  *b* = B*b* ꖌ *ab* = *ab*.
+
+But we may now also draw a second contrapositive; for we have
+
+  *a* = *a*B ꖌ *ab*,
+
+and substituting for B its equivalent A we have
+
+  *a* = *a*A ꖌ *ab* = *ab*.
+
+Hence from the single identity A = B we can draw the two propositions
+
+  *a* = *ab*
+  *b* = *ab*,
+
+and observing that these propositions have a common term *ab* we can
+make a new substitution, getting
+
+  *a* = *b*.
+
+This result is in strict accordance with the fundamental principles of
+inference, and it may be a question whether it is not a self-evident
+result, independent of the steps of deduction by which we have reached
+it. For where two classes are coincident like A and B, whatever is true
+of the one is true of the other; what is excluded from the one must be
+excluded from the other similarly. Now as *a* bears to A exactly the
+same relation that *b* bears to B, the identity of either pair follows
+from the identity of the other pair. In every identity, equality, or
+similarity, we may argue from the negative of the one side to the
+negative of the other. Thus at ordinary temperatures
+
+  Mercury = liquid-metal,
+
+hence obviously
+
+  Not-mercury = not liquid-metal;
+
+or since
+
+  Sirius = brightest fixed star,
+
+it follows that whatever star is not the brightest is not Sirius, and
+*vice versâ*. Every correct definition is of the form A = B, and may
+often require to be applied in the equivalent negative form.
+
+Let us take as an illustration of the mode of using this result the
+argument following:
+
+  Vowels are letters which can be sounded alone,     (1)
+  The letter *w* cannot be sounded alone;            (2)
+  Therefore the letter *w* is not a vowel.           (3)
+
+Here we have a definition (1), and a comparison of a thing with that
+definition (2), leading to exclusion of the thing from the class
+defined.
+
+Taking the terms
+
+  A = vowel,
+  B = letter which can be sounded alone,
+  C = letter *w*,
+
+the premises are plainly of the forms
+
+  A = B,                          (1)
+  C = *b*C.                       (2)
+
+Now by the Indirect method we obtain from (1) the Contrapositive
+
+  *b* = *a*,
+
+and inserting in (2) the equivalent for *b* we have
+
+  C = *a*C,                       (3)
+
+or “the letter *w* is not a vowel.”
+
+
+*Miscellaneous Examples of the Method.*
+
+We can apply the Indirect Method of Inference however many may be the
+terms involved or the premises containing those terms. As the working
+of the method is best learnt from examples, I will take a case of two
+premises forming the syllogism Barbara: thus
+
+  Iron is metal                   (1)
+  Metal is element.               (2)
+
+If we want to ascertain what inference is possible concerning the
+term *Iron*, we develop the term by the Law of Duality. Iron must be
+either metal or not-metal; iron which is metal must be either element
+or not-element; and similarly iron which is not-metal must be either
+element or not-element. There are then altogether four alternatives
+among which the description of iron must be contained; thus
+
+  Iron, metal, element,           (α)
+  Iron, metal, not-element,       (β)
+  Iron, not-metal, element,       (γ)
+  Iron, not-metal, not-element.   (δ)
+
+Our first premise informs us that iron is a metal, and if we substitute
+this description in (γ) and (δ) we shall have self-contradictory
+combinations. Our second premise likewise informs us that metal
+is element, and applying this description to (β) we again have
+self-contradiction, so that there remains only (α) as a description of
+iron--our inference is
+
+  Iron = iron, metal, element.
+
+To represent this process of reasoning in general symbols, let
+
+  A = iron
+  B = metal
+  C = element,
+
+The premises of the problem take the forms
+
+  A = AB                   (1)
+  B = BC.                  (2)
+
+By the Law of Duality we have
+
+  A = AB ꖌ A*b*            (3)
+  A = AC ꖌ A*c*.           (4)
+
+Now, if we insert for A in the second side of (3) its description in
+(4), we obtain what I shall call the *development of A with respect to
+B and C*, namely
+
+  A = ABC ꖌ AB*c* ꖌ A*b*C ꖌ A*bc*.      (5)
+
+Wherever the letters A or B appear in the second side of (5) substitute
+their equivalents given in (1) and (2), and the results stated at full
+length are
+
+  A = ABC ꖌ ABC*c* ꖌ AB*b*C ꖌ AB*b*C*c*.
+
+The last three alternatives break the Law of Contradiction, so that
+
+  A = ABC ꖌ 0 ꖌ 0 ꖌ 0 = ABC.
+
+This conclusion is, indeed, no more than we could obtain by the
+direct process of substitution, that is by substituting for B in (1),
+its description in (2) as in p. 55; it is the characteristic of the
+Indirect process that it gives all possible logical conclusions, both
+those which we have previously obtained, and an immense number of
+others or which the ancient logic took little or no account. From the
+same premises, for instance, we can obtain a description of the class
+*not-element* or *c*. By the Law of Duality we can develop *c* into
+four alternatives, thus
+
+  *c* = AB*c* ꖌ A*bc* ꖌ *a*B*c* ꖌ *abc*.
+
+If we substitute for A and B as before, we get
+
+  *c* = ABC*c* ꖌ AB*bc* ꖌ *a*BC*c* ꖌ *abc*,
+
+and, striking out the terms which break the Law of Contradiction, there
+remains
+
+  *c* = *abc*,
+
+or what is not element is also not iron and not metal. This Indirect
+Method of Inference thus furnishes a complete solution of the following
+problem--*Given any number of logical premises or conditions, required
+the description of any class of objects, or of any term, as governed by
+those conditions.*
+
+The steps of the process of inference may thus be concisely stated--
+
+1. By the Law of Duality develop the utmost number of alternatives
+which may exist in the description of the required class or term as
+regards the terms involved in the premises.
+
+2. For each term in these alternatives substitute its description as
+given in the premises.
+
+3. Strike out every alternative which is then found to break the Law of
+Contradiction.
+
+4. The remaining terms may be equated to the term in question as the
+desired description.
+
+
+*Mr. Venn’s Problem.*
+
+The need of some logical method more powerful and comprehensive than
+the old logic of Aristotle is strikingly illustrated by Mr. Venn
+in his most interesting and able article on Boole’s logic.[76] An
+easy example, originally got, as he says, by the aid of my method as
+simply described in the *Elementary Lessons in Logic*, was proposed in
+examination and lecture-rooms to some hundred and fifty students as a
+problem in ordinary logic. It was answered by, at most, five or six
+of them. It was afterwards set, as an example on Boole’s method, to
+a small class who had attended a few lectures on the nature of these
+symbolic methods. It was readily answered by half or more of their
+number.
+
+  [76] *Mind*; a Quarterly Review of Psychology and Philosophy;
+  October, 1876, vol. i. p. 487.
+
+The problem was as follows:--“The members of a board were all of them
+either bondholders, or shareholders, but not both; and the bondholders
+as it happened, were all on the board. What conclusion can be drawn?”
+The conclusion wanted is, “No shareholders are bondholders.” Now, as
+Mr. Venn says, nothing can look simpler than the following reasoning,
+*when stated*:--“There can be no bondholders who are shareholders; for
+if there were they must be either on the board, or off it. But they
+are not on it, by the first of the given statements; nor off it, by
+the second.” Yet from the want of any systematic mode of treating such
+a question only five or six of some hundred and fifty students could
+succeed in so simple a problem.
+
+By symbolic statement the problem is instantly solved. Taking
+
+  A = member of board
+  B = bondholder
+  C = shareholder
+
+the premises are evidently
+
+  A = AB*c* ꖌ A*b*C
+  B = AB.
+
+The class C or shareholders may in respect of A and B be developed into
+four alternatives,
+
+  C = ABC ꖌ A*b*C ꖌ *a*BC ꖌ *ab*C.
+
+But substituting for A in the first and for B in the third alternative
+we get
+
+  C = ABC*c* ꖌ AB*b*C ꖌ A*b*C ꖌ *a*ABC ꖌ *ab*C.
+
+The first, second, and fourth alternatives in the above are
+self-contradictory combinations, and only these; striking them out
+there remain
+
+  C = A*b*C ꖌ *ab*C = *b*C,
+
+the required answer. This symbolic reasoning is, I believe, the exact
+equivalent of Mr. Venn’s reasoning, and I do not believe that the
+result can be attained in a simpler manner. Mr. Venn adds that he
+could adduce other similar instances, that is, instances showing the
+necessity of a better logical method.
+
+
+*Abbreviation of the Process.*
+
+Before proceeding to further illustrations of the use of this method,
+I must point out how much its practical employment can be simplified,
+and how much more easy it is than would appear from the description.
+When we want to effect at all a thorough solution of a logical problem
+it is best to form, in the first place, a complete series of all the
+combinations of terms involved in it. If there be two terms A and B,
+the utmost variety of combinations in which they can appear are
+
+  AB          *a*B
+  A*b*        *ab*.
+
+The term A appears in the first and second; B in the first and third;
+*a* in the third and fourth; and *b* in the second and fourth. Now if
+we have any premise, say
+
+  A = B,
+
+we must ascertain which of these combinations will be rendered
+self-contradictory by substitution; the second and third will have to
+be struck out, and there will remain only
+
+   AB
+  *ba*.
+
+Hence we draw the following inferences
+
+  A = AB, B = AB, *a* = *ab*, *b* = *ab*.
+
+Exactly the same method must be followed when a question involves a
+greater number of terms. Thus by the Law of Duality the three terms A,
+B, C, give rise to eight conceivable combinations, namely
+
+  ABC        (α)         *a*BC       (ε)
+  AB*c*      (β)         *a*B*c*     (ζ)
+  A*b*C      (γ)         *ab*C       (η)
+  A*bc*      (δ)         *abc*.      (θ)
+
+The development of the term A is formed by the first four of these; for
+B we must select (α), (β), (ε), (ζ); C consists of (α), (γ), (ε), (η);
+*b* of (γ), (δ), (η), (θ), and so on.
+
+Now if we want to investigate completely the meaning of the premises
+
+  A = AB      (1)
+  B = BC      (2)
+
+we examine each of the eight combinations as regards each premise; (γ)
+and (δ) are contradicted by (1), and (β) and (ζ) by (2), so that there
+remain only
+
+   ABC        (α)
+  *a*BC       (ε)
+  *ab*C       (η)
+  *abc*.      (θ)
+
+To describe any term under the conditions of the premises (1) and (2),
+we have simply to draw out the proper combinations from this list;
+thus, A is represented only by ABC, that is to say
+
+                  A  =  ABC,
+  similarly      *c* = *abc*.
+
+For B we have two alternatives thus stated,
+
+  B = ABC ꖌ *a*BC;
+
+and for *b* we have
+
+  *b* = *ab*C ꖌ *abc*.
+
+When we have a problem involving four distinct terms we need to
+double the number of combinations, and as we add each new term the
+combinations become twice as numerous. Thus
+
+  A, B              produce four       combinations
+  A, B, C,             "    eight           "
+  A, B, C, D           "    sixteen         "
+  A, B, C, D, E        "    thirty-two      "
+  A, B, C, D, E, F     "    sixty-four      "
+
+and so on.
+
+I propose to call any such series of combinations the *Logical
+Alphabet*. It holds in logical science a position the importance
+of which cannot be exaggerated, and as we proceed from logical to
+mathematical considerations, it will become apparent that there is
+a close connection between these combinations and the fundamental
+theorems of mathematical science. For the convenience of the reader
+who may wish to employ the *Alphabet* in logical questions, I have
+had printed on the next page a complete series of the combinations up
+to those of six terms. At the very commencement, in the first column,
+is placed a single letter X, which might seem to be superfluous. This
+letter serves to denote that it is always some higher class which is
+divided up. Thus the combination AB really means ABX, or that part of
+some larger class, say X, which has the qualities of A and B present.
+The letter X is omitted in the greater part of the table merely for
+the sake of brevity and clearness. In a later chapter on Combinations
+it will become apparent that the introduction of this unit class is
+requisite in order to complete the analogy with the Arithmetical
+Triangle there described.
+
+The reader ought to bear in mind that though the Logical Alphabet seems
+to give mere lists of combinations, these combinations are intended in
+every case to constitute the development of a term of a proposition.
+Thus the four combinations AB, A*b*, *a*B, *ab* really mean that any
+class X is described by the following proposition,
+
+  X = XAB ꖌ XA*b* ꖌ X*a*B ꖌ X*ab*.
+
+If we select the A’s, we obtain the following proposition
+
+  AX = XAB ꖌ XA*b*.
+
+Thus whatever group of combinations we treat must be conceived as part
+of a higher class, *summum genus* or universe symbolised in the term
+X; but, bearing this in mind, it is needless to complicate our formulæ
+by always introducing the letter. All inference consists in passing
+from propositions to propositions, and combinations *per se* have no
+meaning. They are consequently to be regarded in all cases as forming
+parts of propositions.
+
+
+THE LOGICAL ALPHABET.
+
+  I.   II.    III.    IV.     V.        VI.         VII.
+  X    AX     AB      ABC     ABCD      ABCDE       ABCDEF
+      *a*X    A*b*    AB*c*   ABC*d*    ABCD*e*     ABCDE*f*
+             *a*B     A*b*C   AB*c*D    ABC*d*E     ABCD*e*F
+             *ab*     A*bc*   AB*cd*    ABC*de*     ABCD*ef*
+                     *a*BC    A*b*CD    AB*c*DE     ABC*d*EF
+                     *a*B*c*  A*b*C*d*  AB*c*D*e*   ABC*d*E*f*
+                     *ab*C    A*bc*D    AB*cd*E     ABC*de*F
+                     *abc*    Ab*cd*    AB*cde*     ABC*def*
+                             *a*BCD     A*b*CDE     AB*c*DEF
+                             *a*BC*d*   A*b*CD*e*   AB*c*DE*f*
+                             *a*B*c*D   A*b*C*d*E   AB*c*D*e*F
+                             *a*B*cd*   A*b*C*de*   AB*c*D*ef*
+                             *ab*CD     A*bc*DE     AB*cd*EF
+                             *ab*C*d*   A*bc*D*e*   AB*cd*E*f*
+                             *abc*D     A*bcd*E     AB*cde*F
+                             *abcd*     A*bcde*     AB*cdef*
+                                       *a*BCDE      A*b*CDEF
+                                       *a*BCD*e*    A*b*CDE*f*
+                                       *a*BC*d*E    A*b*CD*e*F
+                                       *a*BC*de*    A*b*CD*ef*
+                                       *a*B*c*DE    A*b*C*d*EF
+                                       *a*B*c*D*e*  A*b*C*d*E*f*
+                                       *a*B*cd*E    A*b*C*de*F
+                                       *a*B*cde*    A*b*C*def*
+                                       *ab*CDE      A*bc*DEF
+                                       *ab*CD*e*    A*bc*DE*f*
+                                       *ab*C*d*E    A*bc*D*e*F
+                                       *ab*Cd*e*    A*bc*D*ef*
+                                       *abc*DE      A*bcd*EF
+                                       *abc*D*e*    A*bcd*E*f*
+                                       *abcd*E      A*bcde*F
+                                       *abcde*      A*bcdef*
+                                                   *a*BCDEF
+                                                   *a*BCDE*f*
+                                                   *a*BCD*e*F
+                                                   *a*BCD*ef*
+                                                   *a*BC*d*EF
+                                                   *a*BC*d*E*f*
+                                                   *a*BC*de*F
+                                                   *a*BC*def*
+                                                   *a*B*c*DEF
+                                                   *a*B*c*DE*f*
+                                                   *a*B*c*D*e*F
+                                                   *a*B*c*D*ef*
+                                                   *a*B*cd*EF
+                                                   *a*B*cd*E*f*
+                                                   *a*B*cde*F
+                                                   *a*B*cdef*
+                                                   *ab*CDEF
+                                                   *ab*CDE*f*
+                                                   *ab*CD*e*F
+                                                   *ab*CD*ef*
+                                                   *ab*C*d*EF
+                                                   *ab*C*d*E*f*
+                                                   *ab*C*de*F
+                                                   *ab*C*def*
+                                                   *abc*DEF
+                                                   *abc*DE*f*
+                                                   *abc*D*e*F
+                                                   *abc*D*ef*
+                                                   *abcd*EF
+                                                   *abcd*E*f*
+                                                   *abcde*F
+                                                   *abcdef*
+
+In a theoretical point of view we may conceive that the Logical
+Alphabet is infinitely extended. Every new quality or circumstance
+which can belong to an object, subdivides each combination or class,
+so that the number of such combinations, when unrestricted by logical
+conditions, is represented by an infinitely high power of two. The
+extremely rapid increase in the number of subdivisions obliges us to
+confine our attention to a few qualities at a time.
+
+When contemplating the properties of this Alphabet I am often inclined
+to think that Pythagoras perceived the deep logical importance of
+duality; for while unity was the symbol of identity and harmony, he
+described the number two as the origin of contrasts, or the symbol
+of diversity, division and separation. The number four, or the
+*Tetractys*, was also regarded by him as one of the chief elements of
+existence, for it represented the generating virtue whence come all
+combinations. In one of the golden verses ascribed to Pythagoras, he
+conjures his pupil to be virtuous:[77]
+
+  “By him who stampt *The Four* upon the Mind,
+  *The Four*, the fount of Nature’s endless stream.”
+
+  [77] Whewell, *History of the Inductive Sciences*, vol. i. p. 222.
+
+Now four and the higher powers of duality do represent in this logical
+system the numbers of combinations which can be generated in the
+absence of logical restrictions. The followers of Pythagoras may have
+shrouded their master’s doctrines in mysterious and superstitious
+notions, but in many points these doctrines seem to have some basis in
+logical philosophy.
+
+
+*The Logical Slate.*
+
+To a person who has once comprehended the extreme significance and
+utility of the Logical Alphabet the indirect process of inference
+becomes reduced to the repetition of a few uniform operations of
+classification, selection, and elimination of contradictories. Logical
+deduction, even in the most complicated questions, becomes a matter
+of mere routine, and the amount of labour required is the only
+impediment, when once the meaning of the premises is rendered clear.
+But the amount of labour is often found to be considerable. The mere
+writing down of sixty-four combinations of six letters each is no small
+task, and, if we had a problem of five premises, each of the sixty-four
+combinations would have to be examined in connection with each premise.
+The requisite comparison is often of a very tedious character, and
+considerable chance of error intervenes.
+
+I have given much attention, therefore, to lessening both the manual
+and mental labour of the process, and I shall describe several devices
+which may be adopted for saving trouble and risk of mistake.
+
+In the first place, as the same sets of combinations occur over and
+over again in different problems, we may avoid the labour of writing
+them out by having the sets of letters ready printed upon small sheets
+of writing-paper. It has also been suggested by a correspondent that,
+if any one series of combinations were marked upon the margin of a
+sheet of paper, and a slit cut between each pair of combinations, it
+would be easy to fold down any particular combination, and thus strike
+it out of view. The combinations consistent with the premises would
+then remain in a broken series. This method answers sufficiently well
+for occasional use.
+
+A more convenient mode, however, is to have the series of letters shown
+on p. 94, engraved upon a common school writing slate, of such a size,
+that the letters may occupy only about a third of the space on the
+left hand side of the slate. The conditions of the problem can then be
+written down on the unoccupied part of the slate, and the proper series
+of combinations being chosen, the contradictory combinations can be
+struck out with the pencil. I have used a slate of this kind, which I
+call a *Logical Slate*, for more than twelve years, and it has saved me
+much trouble. It is hardly possible to apply this process to problems
+of more than six terms, owing to the large number of combinations which
+would require examination.
+
+
+*Abstraction of Indifferent Circumstances.*
+
+There is a simple but highly important process of inference which
+enables us to abstract, eliminate or disregard all circumstances
+indifferently present and absent. Thus if I were to state that “a
+triangle is a three-sided rectilinear figure, either large or not
+large,” these two alternatives would be superfluous, because, by the
+Law of Duality, I know that everything must be either large or not
+large. To add the qualification gives no new knowledge, since the
+existence of the two alternatives will be understood in the absence of
+any information to the contrary. Accordingly, when two alternatives
+differ only as regards a single component term which is positive in one
+and negative in the other, we may reduce them to one term by striking
+out their indifferent part. It is really a process of substitution
+which enables us to do this; for having any proposition of the form
+
+  A = ABC ꖌ AB*c*,      (1)
+
+we know by the Law of Duality that
+
+  AB = ABC ꖌ AB*c*.     (2)
+
+As the second member of this is identical with the second member of (1)
+we may substitute, obtaining
+
+  A = AB.
+
+This process of reducing useless alternatives may be applied again and
+again; for it is plain that
+
+  A = AB (CD ꖌ C*d* ꖌ *c*D ꖌ *cd*)
+
+communicates no more information than that A is B. Abstraction
+of indifferent terms is in fact the converse process to that of
+development described in p. 89; and it is one of the most important
+operations in the whole sphere of reasoning.
+
+The reader should observe that in the proposition
+
+  AC = BC
+
+we cannot abstract C and infer
+
+  A = B;
+
+but from
+
+  AC ꖌ A*c* = BC ꖌ B*c*
+
+we may abstract all reference to the term C.
+
+It ought to be carefully remarked, however, that alternatives which
+seem to be without meaning often imply important knowledge. Thus if
+I say that “a triangle is a three-sided rectilinear figure, with or
+without three equal angles,” the last alternatives really express a
+property of triangles, namely, that some triangles have three equal
+angles, and some do not have them. If we put P = “Some,” meaning by the
+indefinite adjective “Some,” one or more of the undefined properties of
+triangles with three equal angles, and take
+
+  A = triangle
+  B = three-sided rectilinear figure
+  C = with three equal angles,
+
+then the knowledge implied is expressed in the two propositions
+
+   PA = PBC
+  *p*A = *p*B*c*.
+
+These may also be thrown into the form of one proposition, namely,
+
+  A = PBC ꖌ *p*B*c*;
+
+but these alternatives cannot be reduced, and the proposition is quite
+different from
+
+  A = BC ꖌ B*c*.
+
+
+*Illustrations of the Indirect Method.*
+
+A great variety of arguments and logical problems might be introduced
+here to show the comprehensive character and powers of the Indirect
+Method. We can treat either a single premise or a series of premises.
+
+Take in the first place a simple definition, such as “a triangle is a
+three-sided rectilinear figure.” Let
+
+  A = triangle
+  B = three-sided
+  C = rectilinear figure,
+
+then the definition is of the form
+
+  A = BC.
+
+If we take the series of eight combinations of three letters in the
+Logical Alphabet (p. 94) and strike out those which are inconsistent
+with the definition, we have the following result:--
+
+   ABC
+  *a*B*c*
+  *ab*C
+  *abc.*
+
+For the description of the class C we have
+
+  C = ABC ꖌ *ab*C,
+
+that is, “a rectilinear figure is either a triangle and three-sided, or
+not a triangle and not three-sided.”
+
+For the class *b* we have
+
+  *b* = *ab*C ꖌ *abc*.
+
+To the second side of this we may apply the process of simplification
+by abstraction described in the last section; for by the Law of Duality
+
+  *ab* = *ab*C ꖌ *abc*;
+
+and as we have two propositions identical in the second side of each we
+may substitute, getting
+
+  *b* = *ab*,
+
+or what is not three-sided is not a triangle (whether it be rectilinear
+or not).
+
+
+*Second Example.*
+
+Let us treat by this method the following argument:--
+
+  “Blende is not an elementary substance; elementary substances
+     are those which are undecomposable; blende, therefore, is
+     decomposable.”
+
+Taking our letters thus--
+
+  A = blende,
+  B = elementary substance,
+  C = undecomposable,
+
+the premises are of the forms
+
+  A = A*b*,              (1)
+  B = C.                 (2)
+
+No immediate substitution can be made; but if we take the
+contrapositive of (2) (see p. 86), namely
+
+  *b* = *c*,             (3)
+
+we can substitute in (1) obtaining the conclusion
+
+  A = A*c*.
+
+But the same result may be obtained by taking the eight combinations
+of A, B, C, of the Logical Alphabet; it will be found that only three
+combinations, namely,
+
+   A*bc*
+  *a*BC
+  *abc*,
+
+are consistent with the premises, whence it results that
+
+  A = A*bc*,
+
+or by the process of Ellipsis before described (p. 57)
+
+  A = A*c*.
+
+
+*Third Example.*
+
+As a somewhat more complex example I take the argument thus stated, one
+which could not be thrown into the syllogistic form:--
+
+  “All metals except gold and silver are opaque; therefore what is not
+     opaque is either gold or silver or is not-metal.”
+
+There is more implied in this statement than is distinctly asserted,
+the full meaning being as follows:
+
+  All metals not gold or silver are opaque,      (1)
+  Gold is not opaque but is a metal,             (2)
+  Silver is not opaque but is a metal,           (3)
+  Gold is not silver.                            (4)
+
+Taking our letters thus--
+
+  A = metal      C = silver
+  B = gold       D = opaque,
+
+we may state the premises in the forms
+
+  A*bc* = A*bc*D        (1)
+  B = AB*d*             (2)
+  C = AC*d*             (3)
+  B = B*c*.             (4)
+
+To obtain a complete solution of the question we take the sixteen
+combinations of A, B, C, D, and striking out those which are
+inconsistent with the premises, there remain only
+
+   AB*cd*
+   A*b*C*d*
+   A*bc*D
+  *abc*D
+  *abcd*.
+
+The expression for not-opaque things consists of the three combinations
+containing *d*, thus
+
+       *d* = AB*cd* ꖌ A*b*C*d* ꖌ *abcd*,
+  or   *d* = A*d* (B*c* ꖌ *b*C) ꖌ *abcd*.
+
+In ordinary language, what is not-opaque is either metal which is
+gold, and then not-silver, or silver and then not-gold, or else it is
+not-metal and neither gold nor silver.
+
+
+*Fourth Example.*
+
+A good example for the illustration of the Indirect Method is to be
+found in De Morgan’s *Formal Logic* (p. 123), the premises being
+substantially as follows:--
+
+From A follows B, and from C follows D; but B and D are inconsistent
+with each other; therefore A and C are inconsistent.
+
+The meaning no doubt is that where A is, B will be found, or that
+every A is a B, and similarly every C is a D; but B and D cannot occur
+together. The premises therefore appear to be of the forms
+
+  A = AB,          (1)
+  C = CD,          (2)
+  B = B*d*.        (3)
+
+On examining the series of sixteen combinations, only five are found to
+be consistent with the above conditions, namely,
+
+   AB*cd*
+  *a*B*cd*
+  *ab*CD
+  *abc*D
+  *abcd*.
+
+In these combinations the only A which appears is joined to *c*, and
+similarly C is joined to *a*, or A is inconsistent with C.
+
+
+*Fifth Example.*
+
+A more complex argument, also given by De Morgan,[78] contains five
+terms, and is as stated below, except that the letters are altered.
+
+  Every A is one only of the two B or C; D is both B and C, except
+    when B is E, and then it is neither; therefore no A is D.
+
+  [78] *Formal Logic*, p. 124. As Professor Croom Robertson has pointed
+  out to me, the second and third premises may be thrown into a single
+  proposition, D = D*e*BC ꖌ DE*bc*.
+
+The meaning of the above premises is difficult to interpret, but seems
+to be capable of expression in the following symbolic forms--
+
+   A = AB*c* ꖌ A*b*C,      (1)
+  De = D*e*BC,             (2)
+  DE = DE*bc*.             (3)
+
+As five terms enter into these premises it is requisite to treat their
+thirty-two combinations, and it will be found that fourteen of them
+remain consistent with the premises, namely
+
+  AB*cd*E      *a*BCD*e*     *ab*C*d*E
+  AB*cde*      *a*BC*d*E     *ab*C*de*
+  A*b*C*d*E    *a*BC*de*     *abc*DE
+  A*b*C*de*    *a*B*cd*E     *abcd*E
+               *a*B*cde*     *abcde*.
+
+If we examine the first four combinations, all of which contain A, we
+find that they none of them contain D; or again, if we select those
+which contain D, we have only two, thus--
+
+  D = *a*BCD*e* ꖌ *abc*DE.
+
+Hence it is clear that no A is D, and *vice versâ* no D is A. We might
+draw many other conclusions from the same premises; for instance--
+
+  DE = *abc*DE,
+
+or D and E never meet but in the absence of A, B, and C.
+
+
+*Fallacies analysed by the Indirect Method.*
+
+It has been sufficiently shown, perhaps, that we can by the Indirect
+Method of Inference extract the whole truth from a series of
+propositions, and exhibit it anew in any required form of conclusion.
+But it may also need to be shown by examples that so long as we follow
+correctly the almost mechanical rules of the method, we cannot fall
+into any of the fallacies or paralogisms which are often committed in
+ordinary discussion. Let us take the example of a fallacious argument,
+previously treated by the Method of Direct Inference (p. 62),
+
+  Granite is not a sedimentary rock,    (1)
+  Basalt is not a sedimentary rock,     (2)
+
+and let us ascertain whether any precise conclusion can be drawn
+concerning the relation of granite and basalt. Taking as before
+
+  A = granite,
+  B = sedimentary rock,
+  C = basalt,
+
+the premises become
+
+  A = A*b*,       (1)
+  C = C*b*.       (2)
+
+Of the eight conceivable combinations of A, B, C, five agree with these
+conditions, namely
+
+  A*b*C     *a*B*c*
+  A*bc*     *ab*C
+            *abc*.
+
+Selecting the combinations which contain A, we find the description of
+granite to be
+
+  A = A*b*C ꖌ A*bc* = A*b*(C ꖌ *c*),
+
+that is, granite is not a sedimentary rock, and is either basalt or
+not-basalt. If we want a description of basalt the answer is of like
+form
+
+  C = A*b*C ꖌ *ab*C = *b*C(A ꖌ *a*),
+
+that is basalt is not a sedimentary rock, and is either granite or
+not-granite. As it is already perfectly evident that basalt must be
+either granite or not, and *vice versâ*, the premises fail to give us
+any information on the point, that is to say the Method of Indirect
+Inference saves us from falling into any fallacious conclusions. This
+example sufficiently illustrates both the fallacy of Negative premises
+and that of Undistributed Middle of the old logic.
+
+The fallacy called the Illicit Process of the Major Term is also
+incapable of commission in following the rules of the method. Our
+example was (p. 65)
+
+  All planets are subject to gravity,    (1)
+  Fixed stars are not planets.           (2)
+
+The false conclusion is that “fixed stars are not subject to gravity.”
+The terms are
+
+  A = planet
+  B = fixed star
+  C = subject to gravity.
+
+And the premises are A = AC, (1) B = *a*B. (2)
+
+The combinations which remain uncontradicted on comparison with these
+premises are
+
+   A*b*C     *a*B*c*
+  *a*BC      *ab*C
+             *abc*.
+
+For fixed star we have the description
+
+  B = *a*BC ꖌ *a*B*c*,
+
+that is, “a fixed star is not a planet, but is either subject or not,
+as the case may be, to gravity.” Here we have no conclusion concerning
+the connection of fixed stars and gravity.
+
+
+*The Logical Abacus.*
+
+The Indirect Method of Inference has now been sufficiently described,
+and a careful examination of its powers will show that it is capable of
+giving a full analysis and solution of every question involving only
+logical relations. The chief difficulty of the method consists in the
+great number of combinations which may have to be examined; not only
+may the requisite labour become formidable, but a considerable chance
+of mistake arises. I have therefore given much attention to modes
+of facilitating the work, and have succeeded in reducing the method
+to an almost mechanical form. It soon appeared obvious that if the
+conceivable combinations of the Logical Alphabet, for any number of
+letters, instead of being printed in fixed order on a piece of paper
+or slate, were marked upon light movable pieces of wood, mechanical
+arrangements could readily be devised for selecting any required class
+of the combinations. The labour of comparison and rejection might thus
+be immensely reduced. This idea was first carried out in the Logical
+Abacus, which I have found useful in the lecture-room for exhibiting
+the complete solution of logical problems. A minute description of
+the construction and use of the Abacus, together with figures of the
+parts, has already been given in my essay called *The Substitution of
+Similars*,[79] and I will here give only a general description.
+
+  [79] Pp. 55–59, 81–86.
+
+The Logical Abacus consists of a common school black-board placed in a
+sloping position and furnished with four horizontal and equi-distant
+ledges. The combinations of the letters shown in the first four columns
+of the Logical Alphabet are printed in somewhat large type, so that
+each letter is about an inch from the neighbouring one, but the letters
+are placed one above the other instead of being in horizontal lines
+as in p. 94. Each combination of letters is separately fixed to the
+surface of a thin slip of wood one inch broad and about one-eighth
+inch thick. Short steel pins are then driven in an inclined position
+into the wood. When a letter is a large capital representing a positive
+term, the pin is fixed in the upper part of its space; when the letter
+is a small italic representing a negative term, the pin is fixed in
+the lower part of the space. Now, if one of the series of combinations
+be ranged upon a ledge of the black-board, the sharp edge of a flat
+rule can be inserted beneath the pins belonging to any one letter--say
+A, so that all the combinations marked A can be lifted out and placed
+upon a separate ledge. Thus we have represented the act of thought
+which separates the class A from what is not-A. The operation can be
+repeated; out of the A’s we can in like manner select those which are
+B’s, obtaining the AB’s; and in like manner we may select any other
+classes such as the *a*B’s, the *ab*’s, or the *abc*’s.
+
+If now we take the series of eight combinations of the letters A, B,
+C, *a*, *b*, *c*, and wish to analyse the argument anciently called
+Barbara, having the premises
+
+  A = AB         (1)
+  B = BC,        (2)
+
+we proceed as follows--We raise the combinations marked *a*, leaving
+the A’s behind; out of these A’s we move to a lower ledge such as
+are *b*’s, and to the remaining AB’s we join the *a*’s which have
+been raised. The result is that we have divided all the combinations
+into two classes, namely, the A*b*’s which are incapable of existing
+consistently with premise (1), and the combinations which are
+consistent with the premise. Turning now to the second premise, we
+raise out of those which agree with (1) the *b*’s, then we lower
+the B*c*’s; lastly we join the *b*’s to the BC’s. We now find our
+combinations arranged as below.
+
+  +---+-----+-----+-----+-----+-----+-----+-----+
+  | A |     |     |     | *a* |     | *a* | *a* |
+  | B |     |     |     |  B  |     | *b* | *b* |
+  | C |     |     |     |  C  |     |  C  | *c* |
+  +---+-----+-----+-----+-----+-----+-----+-----+
+  |   |  A  |  A  |  A  |     | *a* |     |     |
+  |   |  B  | *b* | *b* |     |  B  |     |     |
+  |   | *c* |  C  | *c* |     | *c* |     |     |
+  +---+-----+-----+-----+-----+-----+-----+-----+
+
+The lower line contains all the combinations which are inconsistent
+with either premise; we have carried out in a mechanical manner that
+exclusion of self-contradictories which was formerly done upon the
+slate or upon paper. Accordingly, from the combinations remaining in
+the upper line we can draw any inference which the premises yield. If
+we raise the A’s we find only one, and that is C, so that A must be C.
+If we select the *c*’s we again find only one, which is *a* and also
+*b*; thus we prove that not-C is not-A and not-B.
+
+When a disjunctive proposition occurs among the premises the requisite
+movements become rather more complicated. Take the disjunctive argument
+
+  A is either B or C or D,
+  A is not C and not D,
+  Therefore A is B.
+
+The premises are represented accurately as follows:--
+
+  A = AB ꖌ AC ꖌ AD       (1)
+  A = A*c*               (2)
+  A = A*d*.              (3)
+
+As there are four terms, we choose the series of sixteen combinations
+and place them on the highest ledge of the board but one. We raise
+the *a*’s and out of the A’s, which remain, we lower the *b*’s. But
+we are not to reject all the A*b*’s as contradictory, because by the
+first premise A’s may be either B’s or C’s or D’s. Accordingly out
+of the A*b*’s we must select the *c*’s, and out of these again the
+*d*’s, so that only A*bcd* will remain to be rejected finally. Joining
+all the other fifteen combinations together again, and proceeding to
+premise (2), we raise the *a*’s and lower the AC’s, and thus reject
+the combinations inconsistent with (2); similarly we reject the AD’s
+which are inconsistent with (3). It will be found that there remain,
+in addition to all the eight combinations containing *a*, only one
+containing A, namely
+
+  AB*cd*,
+
+whence it is apparent that A must be B, the ordinary conclusion of the
+argument.
+
+In my “Substitution of Similars” (pp. 56–59) I have described the
+working upon the Abacus of two other logical problems, which it would
+be tedious to repeat in this place.
+
+
+*The Logical Machine.*
+
+Although the Logical Abacus considerably reduced the labour of using
+the Indirect Method, it was not free from the possibility of error.
+I thought moreover that it would afford a conspicuous proof of the
+generality and power of the method if I could reduce it to a purely
+mechanical form. Logicians had long been accustomed to speak of Logic
+as an Organon or Instrument, and even Lord Bacon, while he rejected
+the old syllogistic logic, had insisted, in the second aphorism of his
+“New Instrument,” that the mind required some kind of systematic aid.
+In the kindred science of mathematics mechanical assistance of one kind
+or another had long been employed. Orreries, globes, mechanical clocks,
+and such like instruments, are really aids to calculation and are of
+considerable antiquity. The Arithmetical Abacus is still in common use
+in Russia and China. The calculating machine of Pascal is more than two
+centuries old, having been constructed in 1642–45. M. Thomas of Colmar
+manufactures an arithmetical machine on Pascal’s principles which
+is employed by engineers and others who need frequently to multiply
+or divide. To Babbage and Scheutz is due the merit of embodying the
+Calculus of Differences in a machine, which thus became capable of
+calculating the most complicated tables of figures. It seemed strange
+that in the more intricate science of quantity mechanism should be
+applicable, whereas in the simple science of qualitative reasoning, the
+syllogism was only called an instrument by a figure of speech. It is
+true that Swift satirically described the Professors of Laputa as in
+possession of a thinking machine, and in 1851 Mr. Alfred Smee actually
+proposed the construction of a Relational machine and a Differential
+machine, the first of which would be a mechanical dictionary and the
+second a mode of comparing ideas; but with these exceptions I have not
+yet met with so much as a suggestion of a reasoning machine. It may be
+added that Mr. Smee’s designs, though highly ingenious, appear to be
+impracticable, and in any case they do not attempt the performance of
+logical inference.[80]
+
+  [80] See his work called *The Process of Thought adapted to Words
+  and Language, together with a Description of the Relational and
+  Differential Machines*. Also *Philosophical Transactions*, [1870]
+  vol. 160, p. 518.
+
+The Logical Abacus soon suggested the notion of a Logical Machine,
+which, after two unsuccessful attempts, I succeeded in constructing
+in a comparatively simple and effective form. The details of the
+Logical Machine have been fully described by the aid of plates in the
+Philosophical Transactions,[81] and it would be needless to repeat the
+account of the somewhat intricate movements of the machine in this
+place.
+
+  [81] *Philosophical Transactions* [1870], vol. 160, p. 497.
+  *Proceedings of the Royal Society*, vol. xviii. p. 166, Jan. 20,
+  1870. *Nature*, vol, i. p. 343.
+
+The general appearance of the machine is shown in a plate facing
+the title-page of this volume. It somewhat resembles a very small
+upright piano or organ, and has a keyboard containing twenty-one keys.
+These keys are of two kinds, sixteen of them representing the terms
+or letters A, *a*, B, *b*, C, *c*, D, *d*, which have so often been
+employed in our logical notation. When letters occur on the left-hand
+side of a proposition, formerly called the subject, each is represented
+by a key on the left-hand half of the keyboard; but when they occur on
+the right-hand side, or as it used to be called the predicate of the
+proposition, the letter-keys on the right-hand side of the keyboard are
+the proper representatives. The five other keys may be called operation
+keys, to distinguish them from the letter or term keys. They stand for
+the stops, copula, and disjunctive conjunctions of a proposition. The
+middle key of all is the copula, to be pressed when the verb *is* or
+the sign = is met. The key to the extreme right-hand is called the Full
+Stop, because it should be pressed when a proposition is completed,
+in fact in the proper place of the full stop. The key to the extreme
+left-hand is used to terminate an argument or to restore the machine to
+its initial condition; it is called the Finis key. The last keys but
+one on the right and left complete the whole series, and represent the
+conjunction *or* in its unexclusive meaning, or the sign ꖌ which I have
+employed, according as it occurs in the right or left hand side of the
+proposition. The whole keyboard is arranged as shown on the next page--
+
+  +-+-----------------------------------+-+-----------------------------------+---+
+  | |                                   |C|                                   |   |
+  |F|   Left-hand side of Proposition.  |o|  Right-hand side of Proposition.  |F S|
+  |i|                                   |p|                                   |u t|
+  |n+---+---+---+---+---+---+---+---+---+u+---+---+---+---+---+---+---+---+---+l o|
+  |i|   |   |   |   |   |   |   |   |   |l|   |   |   |   |   |   |   |   |   |l p|
+  |s|ꖌ|*d*| D |*c*| C |*b*| B |*a*| A |a| A |*a*| B |*b*| C |*c*| D |*d*|ꖌ|  .|
+  |.|Or |   |   |   |   |   |   |   |   |.|   |   |   |   |   |   |   |   | Or|   |
+  +-+---+---+---+---+---+---+---+---+---+-+---+---+---+---+---+---+---+---+---+---+
+
+To work the machine it is only requisite to press the keys in
+succession as indicated by the letters and signs of a symbolical
+proposition. All the premises of an argument are supposed to be reduced
+to the simple notation which has been employed in the previous pages.
+Taking then such a simple proposition as
+
+  A = AB,
+
+we press the keys A (left), copula, A (right), B (right), and full stop.
+
+If there be a second premise, for instance
+
+  B = BC,
+
+we press in like manner the keys--
+
+  B (left), copula, B (right), C (right), full stop.
+
+The process is exactly the same however numerous the premises may be.
+When they are completed the operator will see indicated on the face of
+the machine the exact combinations of letters which are consistent with
+the premises according to the principles of thought.
+
+As shown in the figure opposite the title-page, the machine exhibits in
+front a Logical Alphabet of sixteen combinations, exactly like that of
+the Abacus, except that the letters of each combination are separated
+by a certain interval. After the above problem has been worked upon the
+machine the Logical Alphabet will have been modified so as to present
+the following appearance--
+
+  +-------------------------------------------------------+
+  |                                                       |
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  | A | A |  |  |  |  |  |  |*a*|*a*|  |  |*a*|*a*|*a*|*a*|
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  |                                                       |
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  | B | B |  |  |  |  |  |  | B | B |  |  |*b*|*b*|*b*|*b*|
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  |                                                       |
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  | C | C |  |  |  |  |  |  | C | C |  |  | C | C |*c*|*c*|
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  |                                                       |
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  | D |*d*|  |  |  |  |  |  | D |*d*|  |  | D |*d*| D |*d*|
+  +---+---+--+--+--+--+--+--+---+---+--+--+---+---+---+---+
+  |                                                       |
+  +-------------------------------------------------------+
+
+The operator will readily collect the various conclusions in the manner
+described in previous pages, as, for instance that A is always C, that
+not-C is not-B and not-A; and not-B is not-A but either C or not-C. The
+results are thus to be read off exactly as in the case of the Logical
+Slate, or the Logical Abacus.
+
+Disjunctive propositions are to be treated in an exactly similar
+manner. Thus, to work the premises
+
+  A = AB ꖌ AC
+  B ꖌ C = BD ꖌ CD,
+
+it is only necessary to press in succession the keys
+
+  A (left), copula, A (right), B, ꖌ, A, C, full stop.
+  B (left), ꖌ, C, copula, B (right), D, ꖌ, C, D, full stop.
+
+The combinations then remaining will be as follows
+
+  ABCD        *a*BCD        *abc*D
+  AB*c*D      *a*B*c*D      *abcd.*
+  A*c*CD      *ab*CD
+
+On pressing the left-hand key A, all the possible combinations which do
+not contain A will disappear, and the description of A may be gathered
+from what remain, namely that it is always D. The full-stop key
+restores all combinations consistent with the premises and any other
+selection may be made, as say not-D, which will be found to be always
+not-A, not-B, and not-C.
+
+At the end of every problem, when no further questions need be
+addressed to the machine, we press the Finis key, which has the effect
+of bringing into view the whole of the conceivable combinations of
+the alphabet. This key in fact obliterates the conditions impressed
+upon the machine by moving back into their ordinary places those
+combinations which had been rejected as inconsistent with the premises.
+Before beginning any new problem it is requisite to observe that the
+whole sixteen combinations are visible. After the Finis key has been
+used the machine represents a mind endowed with powers of thought,
+but wholly devoid of knowledge. It would not in that condition give
+any answer but such as would consist in the primary laws of thought
+themselves. But when any proposition is worked upon the keys, the
+machine analyses and digests the meaning of it and becomes charged with
+the knowledge embodied in that proposition. Accordingly it is able
+to return as an answer any description of a term or class so far as
+furnished by that proposition in accordance with the Laws of Thought.
+The machine is thus the embodiment of a true logical system. The
+combinations are classified, selected or rejected, just as they should
+be by a reasoning mind, so that at each step in a problem, the Logical
+Alphabet represents the proper condition of a mind exempt from mistake.
+It cannot be asserted indeed that the machine entirely supersedes the
+agency of conscious thought; mental labour is required in interpreting
+the meaning of grammatical expressions, and in correctly impressing
+that meaning on the machine; it is further required in gathering
+the conclusion from the remaining combinations. Nevertheless the
+true process of logical inference is really accomplished in a purely
+mechanical manner.
+
+It is worthy of remark that the machine can detect any
+self-contradiction existing between the premises presented to it;
+should the premises be self-contradictory it will be found that one or
+more of the letter-terms disappears entirely from the Logical Alphabet.
+Thus if we work the two propositions, A is B, and A is not-B, and then
+inquire for a description of A, the machine will refuse to give it
+by exhibiting no combination at all containing A. This result is in
+agreement with the law, which I have explained, that every term must
+have its negative (p. 74). Accordingly, whenever any one of the letters
+A, B, C, D, *a*, *b*, *c*, *d*, wholly disappears from the alphabet,
+it may be safely inferred that some act of self-contradiction has been
+committed.
+
+It ought to be carefully observed that the logical machine cannot
+receive a simple identity of the form A = B except in the double form
+of A = B and B = A. To work the proposition A = B, it is therefore
+necessary to press the keys--
+
+  A (left), copula, B (right), full stop;
+  B (left), copula, A (right), full stop.
+
+The same double operation will be necessary whenever the proposition is
+not of the kind called a partial identity (p. 40). Thus AB = CD, AB =
+AC, A = B ꖌ C, A ꖌ B = C ꖌ D, all require to be read from both ends
+separately.
+
+The proper rule for using the machine may in fact be given in the
+following way:--(1) *Read each proposition as it stands, and play
+the corresponding keys*: (2) *Convert the proposition and read and
+play the keys again in the transposed order of the terms.* So long
+as this rule is observed the true result must always be obtained.
+There can be no mistake. But it will be found that in the case of
+partial identities, and some other similar forms of propositions, the
+transposed reading has no effect upon the combinations of the Logical
+Alphabet. One reading is in such cases all that is practically needful.
+After some experience has been gained in the use of the machine, the
+worker naturally saves himself the trouble of the second reading when
+possible.
+
+It is no doubt a remarkable fact that a simple identity cannot
+be impressed upon the machine except in the form of two partial
+identities, and this may be thought by some logicians to militate
+against the equational mode of representing propositions.
+
+Before leaving the subject I may remark that these mechanical devices
+are not likely to possess much practical utility. We do not require in
+common life to be constantly solving complex logical questions. Even in
+mathematical calculation the ordinary rules of arithmetic are generally
+sufficient, and a calculating machine can only be used with advantage
+in peculiar cases. But the machine and abacus have nevertheless two
+important uses.
+
+In the first place I hope that the time is not very far distant when
+the predominance of the ancient Aristotelian Logic will be a matter
+of history only, and when the teaching of logic will be placed on a
+footing more worthy of its supreme importance. It will then be found
+that the solution of logical questions is an exercise of mind at least
+as valuable and necessary as mathematical calculation. I believe that
+these mechanical devices, or something of the same kind, will then
+become useful for exhibiting to a class of students a clear and visible
+analysis of logical problems of any degree of complexity, the nature
+of each step being rendered plain to the eyes of the students. I often
+used the machine or abacus for this purpose in my class lectures while
+I was Professor of Logic at Owens College.
+
+Secondly, the more immediate importance of the machine seems to consist
+in the unquestionable proof which it affords that correct views of the
+fundamental principles of reasoning have now been attained, although
+they were unknown to Aristotle and his followers. The time must come
+when the inevitable results of the admirable investigations of the late
+Dr. Boole must be recognised at their true value, and the plain and
+palpable form in which the machine presents those results will, I hope,
+hasten the time. Undoubtedly Boole’s life marks an era in the science
+of human reason. It may seem strange that it had remained for him first
+to set forth in its full extent the problem of logic, but I am not
+aware that anyone before him had treated logic as a symbolic method
+for evolving from any premises the description of any class whatsoever
+as defined by those premises. In spite of several serious errors into
+which he fell, it will probably be allowed that Boole discovered the
+true and general form of logic, and put the science substantially into
+the form which it must hold for evermore. He thus effected a reform
+with which there is hardly anything comparable in the history of logic
+between his time and the remote age of Aristotle.
+
+Nevertheless, Boole’s quasi-mathematical system could hardly be
+regarded as a final and unexceptionable solution of the problem. Not
+only did it require the manipulation of mathematical symbols in a very
+intricate and perplexing manner, but the results when obtained were
+devoid of demonstrative force, because they turned upon the employment
+of unintelligible symbols, acquiring meaning only by analogy. I
+have also pointed out that he imported into his system a condition
+concerning the exclusive nature of alternatives (p. 70), which is
+not necessarily true of logical terms. I shall have to show in the
+next chapter that logic is really the basis of the whole science of
+mathematical reasoning, so that Boole inverted the true order of proof
+when he proposed to infer logical truths by algebraic processes. It is
+wonderful evidence of his mental power that by methods fundamentally
+false he should have succeeded in reaching true conclusions and
+widening the sphere of reason.
+
+The mechanical performance of logical inference affords a demonstration
+both of the truth of Boole’s results and of the mistaken nature of his
+mode of deducing them. Conclusions which he could obtain only by pages
+of intricate calculation, are exhibited by the machine after one or
+two minutes of manipulation. And not only are those conclusions easily
+reached, but they are demonstratively true, because every step of the
+process involves nothing more obscure than the three fundamental Laws
+of Thought.
+
+
+*The Order of Premises.*
+
+Before quitting the subject of deductive reasoning, I may remark that
+the order in which the premises of an argument are placed is a matter
+of logical indifference. Much discussion has taken place at various
+times concerning the arrangement of the premises of a syllogism; and it
+has been generally held, in accordance with the opinion of Aristotle,
+that the so-called major premise, containing the major term, or the
+predicate of the conclusion, should stand first. This distinction
+however falls to the ground in our system, since the proposition is
+reduced to an identical form, in which there is no distinction of
+subject and predicate. In a strictly logical point of view the order
+of statement is wholly devoid of significance. The premises are
+simultaneously coexistent, and are not related to each other according
+to the properties of space and time. Just as the qualities of the same
+object are neither before nor after each other in nature (p. 33), and
+are only thought of in some one order owing to the limited capacity of
+mind, so the premises of an argument are neither before nor after each
+other, and are only thought of in succession because the mind cannot
+grasp many ideas at once. The combinations of the logical alphabet
+are exactly the same in whatever order the premises be treated on
+the logical slate or machine. Some difference may doubtless exist as
+regards convenience to human memory. The mind may take in the results
+of an argument more easily in one mode of statement than another,
+although there is no real difference in the logical results. But in
+this point of view I think that Aristotle and the old logicians were
+clearly wrong. It is more easy to gather the conclusion that “all A’s
+are C’s” from “all A’s are B’s and all B’s are C’s,” than from the same
+propositions in inverted order, “all B’s are C’s and all A’s are B’s.”
+
+
+*The Equivalence of Propositions*.
+
+One great advantage which arises from the study of this Indirect
+Method of Inference consists in the clear notion which we gain of
+the Equivalence of Propositions. The older logicians showed how from
+certain simple premises we might draw an inference, but they failed
+to point out whether that inference contained the whole, or only a
+part, of the information embodied in the premises. Any one proposition
+or group of propositions may be classed with respect to another
+proposition or group of propositions, as
+
+  1. Equivalent,
+  2. Inferrible,
+  3. Consistent,
+  4. Contradictory.
+
+Taking the proposition “All men are mortals” as the original, then
+“All immortals are not men” is its equivalent; “Some mortals are men”
+is inferrible, or capable of inference, but is not equivalent; “All
+not-men are not mortals” cannot be inferred, but is consistent, that
+is, may be true at the same time; “All men are immortals” is of course
+contradictory.
+
+One sufficient test of equivalence is capability of mutual inference.
+Thus from
+
+  All electrics = all non-conductors,
+
+I can infer
+
+  All non-electrics = all conductors,
+
+and *vice versâ* from the latter I can pass back to the former. In
+short, A = B is equivalent to *a* = *b*. Again, from the union of the
+two propositions, A = AB and B = AB, I get A = B, and from this I
+might as easily deduce the two with which I started. In this case one
+proposition is equivalent to two other propositions. There are in fact
+no less than four modes in which we may express the identity of two
+classes A and B, namely,
+
+  FIRST MODE.    SECOND MODE.    THIRD MODE.    FOURTH MODE.
+
+    A = B         *a* = *b*       A = AB }      *a* = *ab* }
+                                  B = AB }      *b* = *ab* }
+
+The Indirect Method of Inference furnishes a universal and clear
+criterion as to the relationship of propositions. The import of a
+statement is always to be measured by the combinations of terms which
+it destroys. Hence two propositions are equivalent when they remove
+the same combinations from the Logical Alphabet, and neither more nor
+less. A proposition is inferrible but not equivalent to another when
+it removes some but not all the combinations which the other removes,
+and none except what this other removes. Again, propositions are
+consistent provided that they jointly allow each term and the negative
+of each term to remain somewhere in the Logical Alphabet. If after all
+the combinations inconsistent with two propositions are struck out,
+there still appears each of the letters A, *a*, B, *b*, C, *c*, D, *d*,
+which were there before, then no inconsistency between the propositions
+exists, although they may not be equivalent or even inferrible.
+Finally, contradictory propositions are those which taken together
+remove any one or more letter-terms from the Logical Alphabet.
+
+What is true of single propositions applies also to groups of
+propositions, however large or complicated; that is to say, one group
+may be equivalent, inferrible, consistent, or contradictory as regards
+another, and we may similarly compare one proposition with a group of
+propositions.
+
+To give in this place illustrations of all the four kinds of relation
+would require much space: as the examples given in previous sections or
+chapters may serve more or less to explain the relations of inference,
+consistency, and contradiction, I will only add a few instances of
+equivalent propositions or groups.
+
+In the following list each proposition or group of propositions is
+exactly equivalent in meaning to the corresponding one in the other
+column, and the truth of this statement may be tested by working out
+the combinations of the alphabet, which ought to be found exactly the
+same in the case of each pair of equivalents.
+
+         A  =  A*b*  . . . . . . .  B   = *a*B
+         A  = *b*  . . . . . . . . *a*  =  B
+         A  =  BC  . . . . . . . . *a*  = *b* ꖌ *c*
+         A  =  AB ꖌ AC . . . . . . *b*  = *ab* ꖌ A*b*C
+      A ꖌB  =  C ꖌ D . . . . . . . *ab* = *cd*
+    A ꖌ *c* =  B ꖌ *d* . . . . . . *a*C = *b*D
+         A  =  AB*c* ꖌ A*b*C . . .{ A   =  AB ꖌ AC
+                                  { AB  =  AB*c*
+
+          A = B }                   { A = B
+          B = C } . . . . . . . . . { A = C
+
+          A = AB }                  { A = AC
+          B = BC }. . . . . . . . . { B = A ꖌ *a*BC
+
+Although in these and many other cases the equivalents of certain
+propositions can readily be given, yet I believe that no uniform and
+infallible process can be pointed out by which the exact equivalents
+of premises can be ascertained. Ordinary deductive inference usually
+gives us only a portion of the contained information. It is true that
+the combinations consistent with a set of premises may always be thrown
+into the form of a proposition which must be logically equivalent to
+those premises; but the difficulty consists in detecting the other
+forms of propositions which will be equivalent to the premises. The
+task is here of a different character from any which we have yet
+attempted. It is in reality an inverse process, and is just as much
+more troublesome and uncertain than the direct process, as seeking is
+compared with hiding. Not only may several different answers equally
+apply, but there is no method of discovering any of those answers
+except by repeated trial. The problem which we have here met is really
+that of induction, the inverse of deduction; and, as I shall soon show,
+induction is always tentative, and, unless conducted with peculiar
+skill and insight, must be exceedingly laborious in cases of complexity.
+
+De Morgan was unfortunately led by this equivalence of propositions
+into the most serious error of his ingenious system of Logic. He held
+that because the proposition “All A’s are all B’s,” is but another
+expression for the two propositions “All A’s are B’s” and “All B’s
+are A’s,” it must be a composite and not really an elementary form
+of proposition.[82] But on taking a general view of the equivalence
+of propositions such an objection seems to have no weight. Logicians
+have, with few exceptions, persistently upheld the original error of
+Aristotle in rejecting from their science the one simple relation of
+identity on which all more complex logical relations must really rest.
+
+  [82] *Syllabus of a proposed system of Logic*, §§ 57, 121, &c.
+  *Formal Logic*, p. 66.
+
+
+*The Nature of Inference.*
+
+The question, What is Inference? is involved, even to the present day,
+in as much uncertainty as that ancient question, What is Truth? I shall
+in more than one part of this work endeavour to show that inference
+never does more than explicate, unfold, or develop the information
+contained in certain premises or facts. Neither in deductive nor
+inductive reasoning can we add a tittle to our implicit knowledge,
+which is like that contained in an unread book or a sealed letter. Sir
+W. Hamilton has well said, “Reasoning is the showing out explicitly
+that a proposition not granted or supposed, is implicitly contained in
+something different, which is granted or supposed.”[83]
+
+  [83] Lectures on Metaphysics, vol. iv. p. 369.
+
+Professor Bowen has explained[84] with much clearness that the
+conclusion of an argument states explicitly what is virtually or
+implicitly thought. “The process of reasoning is not so much a mode of
+evolving a new truth, as it is of establishing or proving an old one,
+by showing how much was admitted in the concession of the two premises
+taken together.” It is true that the whole meaning of these statements
+rests upon that of such words as “explicit,” “implicit,” “virtual.”
+That is implicit which is wrapped up, and we render it explicit when
+we unfold it. Just as the conception of a circle involves a hundred
+important geometrical properties, all following from what we know, if
+we have acuteness to unfold the results, so every fact and statement
+involves more meaning than seems at first sight. Reasoning explicates
+or brings to conscious possession what was before unconscious. It does
+not create, nor does it destroy, but it transmutes and throws the same
+matter into a new form.
+
+  [84] Bowen, *Treatise on Logic*, Cambridge, U.S., 1866; p. 362.
+
+The difficult question still remains, Where does novelty of form begin?
+Is it a case of inference when we pass from “Sincerity is the parent of
+truth” to “The parent of truth is sincerity?” The old logicians would
+have called this change *conversion*, one case of immediate inference.
+But as all identity is necessarily reciprocal, and the very meaning
+of such a proposition is that the two terms are identical in their
+signification, I fail to see any difference between the statements
+whatever. As well might we say that *x* = *y* and *y* = *x* are
+different equations.
+
+Another point of difficulty is to decide when a change is merely
+grammatical and when it involves a real logical transformation. Between
+a *table of wood* and a *wooden table* there is no logical difference
+(p. 31), the adjective being merely a convenient substitute for the
+prepositional phrase. But it is uncertain to my mind whether the
+change from “All men are mortal” to “No men are not mortal” is purely
+grammatical. Logical change may perhaps be best described as consisting
+in the determination of a relation between certain classes of objects
+from a relation between certain other classes. Thus I consider it a
+truly logical inference when we pass from “All men are mortal” to “All
+immortals are not-men,” because the classes *immortals* and *not-men*
+are different from *mortals* and *men*, and yet the propositions
+contain at the bottom the very same truth, as shown in the combinations
+of the Logical Alphabet.
+
+The passage from the qualitative to the quantitative mode of expressing
+a proposition is another kind of change which we must discriminate
+from true logical inference. We state the same truth when we say that
+“mortality belongs to all men,” as when we assert that “all men are
+mortals.” Here we do not pass from class to class, but from one kind
+of term, the abstract, to another kind, the concrete. But inference
+probably enters when we pass from either of the above propositions to
+the assertion that the class of immortal men is zero, or contains no
+objects.
+
+It is of course a question of words to what processes we shall or shall
+not apply the name “inference,” and I have no wish to continue the
+trifling discussions which have already taken place upon the subject.
+What we need to do is to define accurately the sense in which we use
+the word “inference,” and to distinguish the relation of inferrible
+propositions from other possible relations. It seems to be sufficient
+to recognise four modes in which two apparently different propositions
+may be related. Thus two propositions may be--
+
+1. *Tautologous* or *identical*, involving the same relation between
+the same terms and classes, and only differing in the order of
+statement; thus “Victoria is the Queen of England” is tautologous with
+“The Queen of England is Victoria.”
+
+2. *Grammatically related*, when the classes or objects are the same
+and similarly related, and the only difference is in the words; thus
+“Victoria is the Queen of England” is grammatically equivalent to
+“Victoria is England’s Queen.”
+
+3. *Equivalents* in qualitative and quantitative form, the classes
+being the same, but viewed in a different manner.
+
+4. *Logically inferrible*, one from the other, or it may be
+*equivalent*, when the classes and relations are different, but involve
+the same knowledge of the possible combinations.
+
+
+
+

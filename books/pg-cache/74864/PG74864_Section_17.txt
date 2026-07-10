@@ -1,0 +1,950 @@
+CHAPTER XVII.
+
+THE LAW OF ERROR.
+
+
+To bring error itself under law might seem beyond human power. He who
+errs surely diverges from law, and it might be deemed hopeless out of
+error to draw truth. One of the most remarkable achievements of the
+human intellect is the establishment of a general theory which not
+only enables us among discrepant results to approximate to the truth,
+but to assign the degree of probability which fairly attaches to this
+conclusion. It would be a mistake indeed to suppose that this law is
+necessarily the best guide under all circumstances. Every measuring
+instrument and every form of experiment may have its own special law
+of error; there may in one instrument be a tendency in one direction
+and in another in the opposite direction. Every process has its
+peculiar liabilities to disturbance, and we are never relieved from the
+necessity of providing against special difficulties. The general Law of
+Error is the best guide only when we have exhausted all other means of
+approximation, and still find discrepancies, which are due to unknown
+causes. We must treat such residual differences in some way or other,
+since they will occur in all accurate experiments, and as their origin
+is assumed to be unknown, there is no reason why we should treat them
+differently in different cases. Accordingly the ultimate Law of Error
+must be a uniform and general one.
+
+It is perfectly recognised by mathematicians that in each case a
+special Law of Error may exist, and should be discovered if possible.
+“Nothing can be more unlikely than that the errors committed in all
+classes of observations should follow the same law,”[276] and the
+special Laws of Error which will apply to certain instruments, as for
+instance the repeating circle, have been investigated by Bravais.[277]
+He concludes that every distinct cause of error gives rise to a curve
+of possibility of errors, which may have any form,--a curve which
+we may either be able or unable to discover, and which in the first
+case may be determined by *à priori* considerations on the peculiar
+nature of this cause, or which may be determined *à posteriori* by
+observation. Whenever it is practicable and worth the labour, we ought
+to investigate these special conditions of error; nevertheless, when
+there are a great number of different sources of minute error, the
+general resultant will always tend to obey that general law which we
+are about to consider.
+
+  [276] *Philosophical Magazine*, 3rd Series, vol. xxxvii. p. 324.
+
+  [277] *Letters on the Theory of Probabilities*, by Quetelet,
+  translated by O. G. Downes, Notes to Letter XXVI. pp. 286–295.
+
+
+*Establishment of the Law of Error.*
+
+Mathematicians agree far better as to the form of the Law of Error
+than they do as to the manner in which it can be deduced and proved.
+They agree that among a number of discrepant results of observation,
+that mean quantity is probably the best approximation to the truth
+which makes the sum of the squares of the errors as small as possible.
+But there are three principal ways in which this law has been arrived
+at respectively by Gauss, by Laplace and Quetelet, and by Sir John
+Herschel. Gauss proceeds much upon assumption; Herschel rests upon
+geometrical considerations; while Laplace and Quetelet regard the Law
+of Error as a development of the doctrine of combinations. A number
+of other mathematicians, such as Adrain of New Brunswick, Bessel,
+Ivory, Donkin, Leslie Ellis, Tait, and Crofton have either attempted
+independent proofs or have modified or commented on those here to be
+described. For full accounts of the literature of the subject the
+reader should refer either to Mr. Todhunter’s *History of the Theory of
+Probability* or to the able memoir of Mr. J. W. L. Glaisher.[278]
+
+  [278] *On the Law of Facility of Errors of Observations, and on the
+  Method of Least Squares*, Memoirs of the Royal Astronomical Society,
+  vol. xxxix. p. 75.
+
+According to Gauss the Law of Error expresses the comparative
+probability of errors of various magnitude, and partly from experience,
+partly from *à priori* considerations, we may readily lay down certain
+conditions to which the law will certainly conform. It may fairly
+be assumed as a first principle to guide us in the selection of the
+law, that large errors will be far less frequent and probable than
+small ones. We know that very large errors are almost impossible, so
+that the probability must rapidly decrease as the amount of the error
+increases. A second principle is that positive and negative errors
+shall be equally probable, which may certainly be assumed, because we
+are supposed to be devoid of any knowledge as to the causes of the
+residual errors. It follows that the probability of the error must be a
+function of an even power of the magnitude, that is of the square, or
+the fourth power, or the sixth power, otherwise the probability of the
+same amount of error would vary according as the error was positive or
+negative. The even powers *x*^{2}, *x*^{4}, *x*^{6}, &c., are always
+intrinsically positive, whether *x* be positive or negative. There is
+no *à priori* reason why one rather than another of these even powers
+should be selected. Gauss himself allows that the fourth or sixth power
+would fulfil the conditions as well as the second;[279] but in the
+absence of any theoretical reasons we should prefer the second power,
+because it leads to formulæ of great comparative simplicity. Did the
+Law of Error necessitate the use of the higher powers of the error, the
+complexity of the necessary calculations would much reduce the utility
+of the theory.
+
+  [279] *Méthode des Moindres Carrés. Mémoires sur la Combinaison
+  des Observations, par Ch. Fr. Gauss. Traduit en Français par J.
+  Bertrand*, Paris, 1855, pp. 6, 133, &c.
+
+By mathematical reasoning which it would be undesirable to attempt
+to follow in this book, it is shown that under these conditions, the
+facility of occurrence, or in other, words, the probability of error
+is expressed by a function of the general form ε^{–*h*^{2} *x*^{2}}, in
+which *x* represents the variable amount of errors. From this law, to
+be more fully described in the following sections, it at once follows
+that the most probable result of any observations is that which makes
+the sum of the squares of the consequent errors the least possible.
+Let *a*, *b*, *c*, &c., be the results of observation, and *x* the
+quantity selected as the most probable, that is the most free from
+unknown errors: then we must determine *x* so that (*a* - *x*)^{2} +
+(*b* - *x*)^{2} + (*c* - *x*)^{2} + ... shall be the least possible
+quantity. Thus we arrive at the celebrated *Method of Least Squares*,
+as it is usually called, which appears to have been first distinctly
+put in practice by Gauss in 1795, while Legendre first published in
+1806 an account of the process in his work, entitled, *Nouvelles
+Méthodes pour la Détermination des Orbites des Comètes*. It is worthy
+of notice, however, that Roger Cotes had long previously recommended a
+method of equivalent nature in his tract, “Estimatio Erroris in Mixta
+Mathesi.”[280]
+
+  [280] De Morgan, *Penny Cyclopædia*, art. *Least Squares*.
+
+
+*Herschel’s Geometrical Proof.*
+
+A second way of arriving at the Law of Error was proposed by Herschel,
+and although only applicable to geometrical cases, it is remarkable as
+showing that from whatever point of view we regard the subject, the
+same principle will be detected. After assuming that some general law
+must exist, and that it is subject to the principles of probability,
+he supposes that a ball is dropped from a high point with the
+intention that it shall strike a given mark on a horizontal plane. In
+the absence of any known causes of deviation it will either strike
+that mark, or, as is infinitely more probable, diverge from it by an
+amount which we must regard as error of unknown origin. Now, to quote
+the words of Herschel,[281] “the probability of that error is the
+unknown function of its square, *i.e.* of the sum of the squares of
+its deviations in any two rectangular directions. Now, the probability
+of any deviation depending solely on its magnitude, and not on its
+direction, it follows that the probability of each of these rectangular
+deviations must be the same function of *its* square. And since the
+observed oblique deviation is equivalent to the two rectangular ones,
+supposed concurrent, and which are essentially independent of one
+another, and is, therefore, a compound event of which they are the
+simple independent constituents, therefore its probability will be the
+product of their separate probabilities. Thus the form of our unknown
+function comes to be determined from this condition, viz., that the
+product of such functions of two independent elements is equal to the
+same function of their sum. But it is shown in every work on algebra
+that this property is the peculiar characteristic of, and belongs only
+to, the exponential or antilogarithmic function. This, then, is the
+function of the square of the error, which expresses the probability
+of committing that error. That probability decreases, therefore, in
+geometrical progression, as the square of the error increases in
+arithmetical.”
+
+  [281] *Edinburgh Review*, July 1850, vol. xcii. p. 17. Reprinted
+  *Essays*, p. 399. This method of demonstration is discussed by Boole,
+  *Transactions of Royal Society of Edinburgh*, vol. xxi. pp. 627–630.
+
+
+*Laplace’s and Quetelet’s Proof of the Law.*
+
+However much presumption the modes of determining the Law of Error,
+already described, may give in favour of the law usually adopted, it is
+difficult to feel that the arguments are satisfactory. The law adopted
+is chosen rather on the grounds of convenience and plausibility, than
+because it can be seen to be the necessary law. We can however approach
+the subject from an entirely different point of view, and yet get to
+the same result.
+
+Let us assume that a particular observation is subject to four chances
+of error, each of which will increase the result one inch if it occurs.
+Each of these errors is to be regarded as an event independent of the
+rest and we can therefore assign, by the theory of probability, the
+comparative probability and frequency of each conjunction of errors.
+From the Arithmetical Triangle (pp. 182–188) we learn that no error
+at all can happen only in one way; an error of one inch can happen
+in 4 ways; and the ways of happening of errors of 2, 3 and 4 inches
+respectively, will be 6, 4 and 1 in number.
+
+We may infer that the error of two inches is the most likely to occur,
+and will occur in the long run in six cases out of sixteen. Errors
+of one and three inches will be equally likely, but will occur less
+frequently; while no error at all, or one of four inches will be a
+comparatively rare occurrence. If we now suppose the errors to act
+as often in one direction as the other, the effect will be to alter
+the average error by the amount of two inches, and we shall have the
+following results:--
+
+  Negative error of 2 inches     1 way.
+  Negative error of 1 inch       4 ways.
+  No error at all                6 ways.
+  Positive error of 1 inch       4 ways.
+  Positive error of 2 inches     1 way.
+
+We may now imagine the number of causes of error increased and the
+amount of each error decreased, and the arithmetical triangle will
+give us the frequency of the resulting errors. Thus if there be five
+positive causes of error and five negative causes, the following
+table shows the numbers of errors of various amount which will be the
+result:--
+
+  +----------------------+-------------------+---+-------------------+
+  | Direction of Error.  |  Positive Error.  |   |  Negative Error.  |
+  +----------------------+-------------------+---+-------------------+
+  |   Amount of Error.   |5,  4,  3,   2,   1| 0 | 1,   2,  3,  4,  5|
+  +----------------------+-------------------+---+-------------------+
+  |Number of such Errors.|1, 10, 45, 120, 210|252|210, 120, 45, 10, 1|
+  +----------------------+-------------------+---+-------------------+
+
+It is plain that from such numbers I can ascertain the probability
+of any particular amount of error under the conditions supposed. The
+probability of a positive error of exactly one inch is 210/1024, in
+which fraction the numerator is the number of combinations giving
+one inch positive error, and the denominator the whole number of
+possible errors of all magnitudes. I can also, by adding together the
+appropriate numbers get the probability of an error not exceeding a
+certain amount. Thus the probability of an error of three inches or
+less, positive or negative, is a fraction whose numerator is the sum of
+45 + 120 + 210 + 252 + 210 + 120 + 45, and the denominator, as before,
+giving the result 1002/1024. We may see at once that, according to
+these principles, the probability of small errors is far greater than
+of large ones: the odds are 1002 to 22, or more than 45 to 1, that the
+error will not exceed three inches; and the odds are 1022 to 2 against
+the occurrence of the greatest possible error of five inches.
+
+If any case should arise in which the observer knows the number and
+magnitude of the chief errors which may occur, he ought certainly to
+calculate from the Arithmetical Triangle the special Law of Error
+which would apply. But the general law, of which we are in search,
+is to be used in the dark, when we have no knowledge whatever of the
+sources of error. To assume any special number of causes of error
+is then an arbitrary proceeding, and mathematicians have chosen the
+least arbitrary course of imagining the existence of an infinite
+number of infinitely small errors, just as, in the inverse method of
+probabilities, an infinite number of infinitely improbable hypotheses
+were submitted to calculation (p. 255).
+
+The reasons in favour of this choice are of several different kinds.
+
+1. It cannot be denied that there may exist infinitely numerous causes
+of error in any act of observation.
+
+2. The law resulting from the hypothesis of a moderate number of causes
+of error, does not appreciably differ from that given by the hypothesis
+of an infinite number of causes of error.
+
+3. We gain by the hypothesis of infinity a general law capable of ready
+calculation, and applicable by uniform rules to all problems.
+
+4. This law, when tested by comparison with extensive series of
+observations, is strikingly verified, as will be shown in a later
+section.
+
+When we imagine the existence of any large number of causes of
+error, for instance one hundred, the numbers of combinations become
+impracticably large, as may be seen to be the case from a glance at
+the Arithmetical Triangle, which proceeds only up to the seventeenth
+line. Quetelet, by suitable abbreviating processes, calculated out
+a table of probability of errors on the hypothesis of one thousand
+distinct causes;[282] but mathematicians have generally proceeded on
+the hypothesis of infinity, and then, by the devices of analysis,
+have substituted a general law of easy treatment. In mathematical
+works upon the subject, it is shown that the standard Law of Error is
+expressed in the formula
+
+  *y* = *Y*ε^{-*cx*^{2}},
+
+  [282] *Letters on the Theory of Probabilities*, Letter XV. and
+  Appendix, note pp. 256–266.
+
+in which *x* is the amount of the error, *Y* the maximum ordinate
+of the curve of error, and *c* a number constant for each series of
+observations, and expressing the amount of the tendency to error,
+varying between one series of observations and another. The letter ε
+is the mathematical constant, the sum of ratios between the numbers of
+permutations and combinations, previously referred to (p. 330).
+
+[Illustration]
+
+To show the close correspondence of this general law with the special
+law which might be derived from the supposition of a moderate number
+of causes of error, I have in the accompanying figure drawn a curved
+line representing accurately the variation of *y* when *x* in the above
+formula is taken equal 0, 1/2, 1, 3/2, 2, &c., positive or negative,
+the arbitrary quantities *Y* and *c* being each assumed equal to unity,
+in order to simplify the calculations. In the same figure are inserted
+eleven dots, whose heights above the base line are proportional to
+the numbers in the eleventh line of the Arithmetical Triangle, thus
+representing the comparative probabilities of errors of various amounts
+arising from ten equal causes of error. The correspondence of the
+general and the special Law of Error is almost as close as can be
+exhibited in the figure, and the assumption of a greater number of
+equal causes of error would render the correspondence far more close.
+
+It may be explained that the ordinates NM, *nm*, *n′m′*, represent
+values of *y* in the equation expressing the Law of Error. The
+occurrence of any one definite amount of error is infinitely
+improbable, because an infinite number of such ordinates might be
+drawn. But the probability of an error occurring between certain limits
+is finite, and is represented by a portion of the *area* of the curve.
+Thus the probability that an error, positive or negative, not exceeding
+unity will occur, is represented by the area M*mnn′m′*, in short, by
+the area standing upon the line *nn′*. Since every observation must
+either have some definite error or none at all, it follows that the
+whole area of the curve should be considered as the unit expressing
+certainty, and the probability of an error falling between particular
+limits will then be expressed by the ratio which the area of the curve
+between those limits bears to the whole area of the curve.
+
+The mere fact that the Law of Error allows of the possible existence of
+errors of every assignable amount shows that it is only approximately
+true. We may fairly say that in measuring a mile it would be impossible
+to commit an error of a hundred miles, and the length of life
+would never allow of our committing an error of one million miles.
+Nevertheless the general Law of Error would assign a probability for
+an error of that amount or more, but so small a probability as to be
+utterly inconsiderable and almost inconceivable. All that can, or in
+fact need, be said in defence of the law is, that it may be made to
+represent the errors in any special case to a very close approximation,
+and that the probability of large and practically impossible errors, as
+given by the law, will be so small as to be entirely inconsiderable.
+And as we are dealing with error itself, and our results pretend to
+nothing more than approximation and probability, an indefinitely small
+error in our process of approximation is of no importance whatever.
+
+
+*Logical Origin of the Law of Error.*
+
+It is worthy of notice that this Law of Error, abstruse though the
+subject may seem, is really founded upon the simplest principles.
+It arises entirely out of the difference between permutations and
+combinations, a subject upon which I may seem to have dwelt with
+unnecessary prolixity in previous pages (pp. 170, 189). The order in
+which we add quantities together does not affect the amount of the sum,
+so that if there be three positive and five negative causes of error
+in operation, it does not matter in which order they are considered as
+acting. They may be intermixed in any arrangement, and yet the result
+will be the same. The reader should not fail to notice how laws or
+principles which appeared to be absurdly simple and evident when first
+noticed, reappear in the most complicated and mysterious processes of
+scientific method. The fundamental Laws of Identity and Difference gave
+rise to the Logical Alphabet which, after abstracting the character of
+the differences, led to the Arithmetical Triangle. The Law of Error is
+defined by an infinitely high line of that triangle, and the law proves
+that the mean is the most probable result, and that divergencies from
+the mean become much less probable as they increase in amount. Now
+the comparative greatness of the numbers towards the middle of each
+line of the Arithmetical Triangle is entirely due to the indifference
+of order in space or time, which was first prominently pointed out
+as a condition of logical relations, and the symbols indicating them
+(pp. 32–35), and which was afterwards shown to attach equally to
+numerical symbols, the derivatives of logical terms (p. 160).
+
+
+*Verification of the Law of Error.*
+
+The theory of error which we have been considering rests entirely
+upon an assumption, namely that when known sources of disturbances
+are allowed for, there yet remain an indefinite, possibly an infinite
+number of other minute sources of error, which will as often produce
+excess as deficiency. Granting this assumption, the Law of Error must
+be as it is usually taken to be, and there is no more need to verify
+it empirically than to test the truth of one of Euclid’s propositions
+mechanically. Nevertheless, it is an interesting occupation to verify
+even the propositions of geometry, and it is still more instructive to
+try whether a large number of observations will justify our assumption
+of the Law of Error.
+
+Encke has given an excellent instance of the correspondence of theory
+with experience, in the case of observations of the differences of
+Right Ascension of the sun and two stars, namely α Aquilæ and α Canis
+minoris. The observations were 470 in number, and were made by Bradley
+and reduced by Bessel, who found the probable error of the final result
+to be only about one-fourth part of a second (0·2637). He then compared
+the numbers of errors of each magnitude from 0·1 second upwards, as
+actually given by the observations, with what should occur according to
+the Law of Error.
+
+The results were as follow:--[283]
+
+  +-------------------------+--------------------------+
+  |                         | Number of errors of each |
+  | Magnitude of the errors |  magnitude according to  |
+  |  in parts of a second.  +-------------+------------+
+  |                         | Observation.|   Theory.  |
+  +-------------------------+-------------+------------+
+  |       0·0  to 0·1       |      94     |     95     |
+  |        ·1  "   ·2       |      88     |     89     |
+  |        ·2  "   ·3       |      78     |     78     |
+  |        ·3  "   ·4       |      58     |     64     |
+  |        ·4  "   ·5       |      51     |     50     |
+  |        ·5  "   ·6       |      36     |     36     |
+  |        ·6  "   ·7       |      26     |     24     |
+  |        ·7  "   ·8       |      14     |     15     |
+  |        ·8  "   ·9       |      10     |      9     |
+  |        ·9  "  1·0       |       7     |      5     |
+  |        above  1·0       |       8     |      5     |
+  +-------------------------+-------------+------------+
+
+  [283] Encke, *On the Method of Least Squares*, Taylor’s *Scientific
+  Memoirs*, vol. ii. pp. 338, 339.
+
+The reader will remark that the correspondence is very close, except
+as regards larger errors, which are excessive in practice. It is one
+objection, indeed, to the theory of error, that, being expressed in
+a continuous mathematical function, it contemplates the existence of
+errors of every magnitude, such as could not practically occur; yet
+in this case the theory seems to under-estimate the number of large
+errors.
+
+Another comparison of the law with observation was made by Quetelet,
+who investigated the errors of 487 determinations in time of the Right
+Ascension of the Pole-Star made at Greenwich during the four years
+1836–39. These observations, although carefully corrected for all known
+causes of error, as well as for nutation, precession, &c., are yet of
+course found to differ, and being classified as regards intervals of
+one-half second of time, and then proportionately increased in number,
+so that their sum may be one thousand, give the following results as
+compared with what Quetelet’s theory would lead us to expect:--[284]
+
+  +------------+--------------------+------------+--------------------+
+  |Magnitude of|  Number of Errors  |Magnitude of|  Number of Errors  |
+  |   error    +------------+-------+   error    +------------+-------+
+  | in tenths  |    by      |  by   | in tenths  |    by      |  by   |
+  |of a second.|Observation.|Theory.|of a second.|Observation.|Theory.|
+  +------------+------------+-------+------------+------------+-------+
+  |     0·0    |    168     |  163  |     --     |      --    |   --  |
+  |    +0·5    |    148     |  147  |    -0·5    |     150    |  152  |
+  |    +1·0    |    129     |  112  |    -1·0    |     126    |  121  |
+  |    +1·5    |     78     |   72  |    -1·5    |      74    |   82  |
+  |    +2·0    |     33     |   40  |    -2·0    |      43    |   46  |
+  |    +2·5    |     10     |   19  |    -2·5    |      25    |   22  |
+  |    +3·0    |      2     |   10  |    -3·0    |      12    |   10  |
+  |     --     |     --     |   --  |    -3·5    |       2    |    4  |
+  +------------+------------+-------+------------+------------+-------+
+
+  [284] Quetelet, *Letters on the Theory of Probabilities*, translated
+  by Downes, Letter XIX. p. 88. See also Galton’s *Hereditary Genius*,
+  p. 379.
+
+In this instance also the correspondence is satisfactory, but the
+divergence between theory and fact is in the opposite direction to
+that discovered in the former comparison, the larger errors being less
+frequent than theory would indicate. It will be noticed that Quetelet’s
+theoretical results are not symmetrical.
+
+
+*The Probable Mean Result.*
+
+One immediate result of the Law of Error, as thus stated, is that the
+mean result is the most probable one; and when there is only a single
+variable this mean is found by the familiar arithmetical process. An
+unfortunate error has crept into several works which allude to this
+subject. Mill, in treating of the “Elimination of Chance,” remarks in
+a note[285] that “the mean is spoken of as if it were exactly the
+same thing as the average. But the mean, for purposes of inductive
+inquiry, is not the average, or arithmetical mean, though in a familiar
+illustration of the theory the difference may be disregarded.” He goes
+on to say that, according to mathematical principles, the most probable
+result is that for which the sums of the squares of the deviations is
+the least possible. It seems probable that Mill and other writers were
+misled by Whewell, who says[286] that “The method of least squares is
+in fact a method of means, but with some peculiar characters.... The
+method proceeds upon this supposition: that all errors are not equally
+probable, but that small errors are more probable than large ones.” He
+adds that this method “removes much that is arbitrary in the method
+of means.” It is strange to find a mathematician like Whewell making
+such remarks, when there is no doubt whatever that the Method of Means
+is only an application of the Method of Least Squares. They are, in
+fact, the same method, except that the latter method may be applied to
+cases where two or more quantities have to be determined at the same
+time. Lubbock and Drinkwater say,[287] “If only one quantity has to
+be determined, this method evidently resolves itself into taking the
+mean of all the values given by observation.” Encke says,[288] that the
+expression for the probability of an error “not only contains in itself
+the principle of the arithmetical mean, but depends so immediately upon
+it, that for all those magnitudes for which the arithmetical mean holds
+good in the simple cases in which it is principally applied, no other
+law of probability can be assumed than that which is expressed by this
+formula.”
+
+  [285] *System of Logic*, bk. iii. chap. 17, § 3. 5th ed. vol. ii.
+  p. 56.
+
+  [286] *Philosophy of the Inductive Sciences*, 2nd ed. vol. ii.
+  pp. 408, 409.
+
+  [287] *Essay on Probability*, Useful Knowledge Society, 1833, p. 41.
+
+  [288] Taylor’s *Scientific Memoirs*, vol. ii. p. 333.
+
+
+*The Probable Error of Results.*
+
+When we draw a conclusion from the numerical results of observations we
+ought not to consider it sufficient, in cases of importance, to content
+ourselves with finding the simple mean and treating it as true. We
+ought also to ascertain what is the degree of confidence we may place
+in this mean, and our confidence should be measured by the degree of
+concurrence of the observations from which it is derived. In some cases
+the mean may be approximately certain and accurate. In other cases it
+may really be worth little or nothing. The Law of Error enables us to
+give exact expression to the degree of confidence proper in any case;
+for it shows how to calculate the probability of a divergence of any
+amount from the mean, and we can thence ascertain the probability that
+the mean in question is within a certain distance from the true number.
+The *probable error* is taken by mathematicians to mean the limits
+within which it is as likely as not that the truth will fall. Thus
+if 5·45 be the mean of all the determinations of the density of the
+earth, and ·20 be approximately the probable error, the meaning is that
+the probability of the real density of the earth falling between 5·25
+and 5·65 is 1/2. Any other limits might have been selected at will.
+We might calculate the limits within which it was one hundred or one
+thousand to one that the truth would fall; but there is a convention to
+take the even odds one to one, as the quantity of probability of which
+the limits are to be estimated.
+
+Many books on probability give rules for making the calculations,
+but as, in the progress of science, persons ought to become more
+familiar with these processes, I propose to repeat the rules here and
+illustrate their use. The calculations, when made in accordance with
+the directions, involve none but arithmetic or logarithmic operations.
+
+The following are the rules for treating a mean result, so as
+thoroughly to ascertain its trustworthiness.
+
+1. Draw the mean of all the observed results.
+
+2. Find the excess or defect, that is, the error of each result from
+the mean.
+
+3. Square each of these reputed errors.
+
+4. Add together all these squares of the errors, which are of course
+all positive.
+
+5. Divide by one less than the number of observations. This gives the
+*square of the mean error*.
+
+6. Take the square root of the last result; it is the *mean error of a
+single observation*.
+
+7. Divide now by the square root of the number of observations, and we
+get the *mean error of the mean result*.
+
+8. Lastly, multiply by the natural constant 0·6745 (or approximately
+by 0·674, or even by 2/3), and we arrive at the *probable error of the
+mean result*.
+
+Suppose, for instance, that five measurements of the height of a
+hill, by the barometer or otherwise, have given the numbers of feet
+as 293, 301, 306, 307, 313; we want to know the probable error of the
+mean, namely 304. Now the differences between this mean and the above
+numbers, *paying no regard to direction*, are 11, 3, 2, 3, 9; their
+squares are 121, 9, 4, 9, 81, and the sum of the squares of the errors
+consequently 224. The number of observations being 5, we divide by
+1 less, or 4, getting 56. This is the square of the mean error, and
+taking its square root we have 7·48 (say 7-1/2), the mean error of
+a single observation. Dividing by 2·236, the square root of 5, the
+number of observations, we find the mean error of the *mean* result to
+be 3·35, or say 3-1/3, and lastly, multiplying by ·6745, we arrive at
+the *probable error of the mean result*, which is found to be 2·259,
+or say 2-1/4. The meaning of this is that the probability is one half,
+or the odds are even that the true height of the mountain lies between
+301-3/4 and 306-1/4 feet. We have thus an exact measure of the degree
+of credibility of our mean result, which mean indicates the most likely
+point for the truth to fall upon.
+
+The reader should observe that as the object in these calculations
+is only to gain a notion of the degree of confidence with which we
+view the mean, there is no real use in carrying the calculations to
+any great degree of precision; and whenever the neglect of decimal
+fractions, or even the slight alteration of a number, will much
+abbreviate the computations, it may be fearlessly done, except in
+cases of high importance and precision. Brodie has shown how the law
+of error may be usefully applied in chemical investigations, and some
+illustrations of its employment may be found in his paper.[289]
+
+  [289] *Philosophical Transactions*, 1873, p. 83.
+
+The experiments of Benzenberg to detect the revolution of the earth, by
+the deviation of a ball from the perpendicular line in falling down a
+deep pit, have been cited by Encke[290] as an interesting illustration
+of the Law of Error. The mean deviation was 5·086 lines, and its
+probable error was calculated by Encke to be not more than ·950 line,
+that is, the odds were even that the true result lay between 4·136 and
+6·036. As the deviation, according to astronomical theory, should be
+4·6 lines, which lies well within the limits, we may consider that the
+experiments are consistent with the Copernican system of the universe.
+
+  [290] Taylor’s *Scientific Memoirs*, vol. ii. pp. 330, 347, &c.
+
+It will of course be understood that the probable error has regard only
+to those causes of errors which in the long run act as much in one
+direction as another; it takes no account of constant errors. The true
+result accordingly will often fall far beyond the limits of probable
+error, owing to some considerable constant error or errors, of the
+existence of which we are unaware.
+
+
+*Rejection of the Mean Result.*
+
+We ought always to bear in mind that the mean of any series of
+observations is the best, that is, the most probable approximation
+to the truth, only in the absence of knowledge to the contrary. The
+selection of the mean rests entirely upon the probability that unknown
+causes of error will in the long run fall as often in one direction as
+the opposite, so that in drawing the mean they will balance each other.
+If we have any reason to suppose that there exists a tendency to error
+in one direction rather than the other, then to choose the mean would
+be to ignore that tendency. We may certainly approximate to the length
+of the circumference of a circle, by taking the mean of the perimeters
+of inscribed and circumscribed polygons of an equal and large number
+of sides. The length of the circular line undoubtedly lies between the
+lengths of the two perimeters, but it does not follow that the mean is
+the best approximation. It may in fact be shown that the circumference
+of the circle is *very nearly* equal to the perimeter of the inscribed
+polygon, together with one-third part of the difference between the
+inscribed and circumscribed polygons of the same number of sides.
+Having this knowledge, we ought of course to act upon it, instead of
+trusting to probability.
+
+We may often perceive that a series of measurements tends towards an
+extreme limit rather than towards a mean. In endeavouring to obtain
+a correct estimate of the apparent diameter of the brightest fixed
+stars, we find a continuous diminution in estimates as the powers of
+observation increased. Kepler assigned to Sirius an apparent diameter
+of 240 seconds; Tycho Brahe made it 126; Gassendi 10 seconds; Galileo,
+Hevelius, and J. Cassini, 5 or 6 seconds. Halley, Michell, and
+subsequently Sir W. Herschel came to the conclusion that the brightest
+stars in the heavens could not have real discs of a second, and were
+probably much less in diameter. It would of course be absurd to take
+the mean of quantities which differ more than 240 times; and as the
+tendency has always been to smaller estimates, there is a considerable
+presumption in favour of the smallest.[291]
+
+  [291] Quetelet, *Letters*, &c. p. 116.
+
+In many experiments and measurements we know that there is a
+preponderating tendency to error in one direction. The readings of a
+thermometer tend to rise as the age of the instrument increases, and
+no drawing of means will correct this result. Barometers, on the other
+hand, are likely to read too low instead of too high, owing to the
+imperfection of the vacuum and the action of capillary attraction. If
+the mercury be perfectly pure and no appreciable error be due to the
+measuring apparatus, the best barometer will be that which gives the
+highest result. In determining the specific gravity of a solid body the
+chief danger of error arises from bubbles of air adhering to the body,
+which would tend to make the specific gravity too small. Much attention
+must always be given to one-sided errors of this kind, since the
+multiplication of experiments does not remove the error. In such cases
+one very careful experiment is better than any number of careless ones.
+
+When we have reasonable grounds for supposing that certain experimental
+results are liable to grave errors, we should exclude them in drawing
+a mean. If we want to find the most probable approximation to the
+velocity of sound in air, it would be absurd to go back to the old
+experiments which made the velocity from 1200 to 1474 feet per second;
+for we know that the old observers did not guard against errors arising
+from wind and other causes. Old chemical experiments are valueless as
+regards quantitative results. The old chemists found the atmosphere
+in different places to differ in composition nearly ten per cent.,
+whereas modern accurate experimenters find very slight variations.
+Any method of measurement which we know to avoid a source of error is
+far to be preferred to others which trust to probabilities for the
+elimination of the error. As Flamsteed says,[292] “One good instrument
+is of as much worth as a hundred indifferent ones.” But an instrument
+is good or bad only in a comparative sense, and no instrument gives
+invariable and truthful results. Hence we must always ultimately fall
+back upon probabilities for the selection of the final mean, when other
+precautions are exhausted.
+
+  [292] Baily, *Account of Flamsteed*, p. 56.
+
+Legendre, the discoverer of the method of Least Squares,
+recommended that observations differing very much from the results
+of his method should be rejected. The subject has been carefully
+investigated by Professor Pierce, who has proposed a criterion
+for the rejection of doubtful observations based on the following
+principle:[293]′“--observations should be rejected when the probability
+of the system of errors obtained by retaining them is less than that
+of the system of errors obtained by their rejection multiplied by the
+probability of making so many and no more abnormal observations.”
+Professor Pierce’s investigation is given nearly in his own words in
+Professor W. Chauvenet’s “Manual of Spherical and Practical Astronomy,”
+which contains a full and excellent discussion of the methods of
+treating numerical observations.[294]
+
+  [293] Gould’s *Astronomical Journal*, Cambridge, Mass., vol. ii.
+  p. 161.
+
+  [294] Philadelphia (London, Trübner) 1863. Appendix, vol. ii. p. 558.
+
+Very difficult questions sometimes arise when one or more results of
+a method of experiment diverge widely from the mean of the rest. Are
+we or are we not to exclude them in adopting the supposed true mean
+result of the method? The drawing of a mean result rests, as I have
+frequently explained, upon the assumption that every error acting in
+one direction will probably be balanced by other errors acting in an
+opposite direction. If then we know or can possibly discover any causes
+of error not agreeing with this assumption, we shall be justified in
+excluding results which seem to be affected by this cause.
+
+In reducing large series of astronomical observations, it is not
+uncommon to meet with numbers differing from others by a whole degree
+or half a degree, or some considerable integral quantity. These are
+errors which could hardly arise in the act of observation or in
+instrumental irregularity; but they might readily be accounted for
+by misreading of figures or mistaking of division marks. It would be
+absurd to trust to chance that such mistakes would balance each other
+in the long run, and it is therefore better to correct arbitrarily
+the supposed mistake, or better still, if new observations can be
+made, to strike out the divergent numbers altogether. When results
+come sometimes too great or too small in a regular manner, we should
+suspect that some part of the instrument slips through a definite
+space, or that a definite cause of error enters at times, and not at
+others. We should then make it a point of prime importance to discover
+the exact nature and amount of such an error, and either prevent its
+occurrence for the future or else introduce a corresponding correction.
+In many researches the whole difficulty will consist in this detection
+and avoidance of sources of error. Professor Roscoe found that the
+presence of phosphorus caused serious and almost unavoidable errors in
+the determination of the atomic weight of vanadium.[295] Herschel, in
+reducing his observations of double stars at the Cape of Good Hope,
+was perplexed by an unaccountable difference of the angles of position
+as measured by the seven-feet equatorial and the twenty-feet reflector
+telescopes, and after a careful investigation was obliged to be
+contented with introducing a correction experimentally determined.[296]
+
+  [295] Bakerian Lecture, *Philosophical Transactions* (1868),
+  vol. clviii. p. 6.
+
+  [296] *Results of Observations at the Cape of Good Hope*, p. 283.
+
+When observations are sufficiently numerous it seems desirable to
+project the apparent errors into a curve, and then to observe whether
+this curve exhibits the symmetrical and characteristic form of the
+curve of error. If so, it may be inferred that the errors arise from
+many minute independent sources, and probably compensate each other
+in the mean result. Any considerable irregularity will indicate the
+existence of one-sided or large causes of error, which should be made
+the subject of investigation.
+
+Even the most patient and exhaustive investigations will sometimes
+fail to disclose any reason why some results diverge from others.
+The question again recurs--Are we arbitrarily to exclude them? The
+answer should be in the negative as a general rule. The mere fact
+of divergence ought not to be taken as conclusive against a result,
+and the exertion of arbitrary choice would open the way to the fatal
+influence of bias, and what is commonly known as the “cooking” of
+figures. It would amount to judging fact by theory instead of theory
+by fact. The apparently divergent number may prove in time to be the
+true one. It may be an exception of that valuable kind which upsets our
+false theories, a real exception, exploding apparent coincidences, and
+opening a way to a new view of the subject. To establish this position
+for the divergent fact will require additional research; but in the
+meantime we should give it some weight in our mean conclusions, and
+should bear in mind the discrepancy as one demanding attention. To
+neglect a divergent result is to neglect the possible clue to a great
+discovery.
+
+
+*Method of Least Squares.*
+
+When two or more unknown quantities are so involved that they cannot
+be separately determined by the Simple Method of Means, we can yet
+obtain their most probable values by the Method of Least Squares,
+without more difficulty than arises from the length of the arithmetical
+computations. If the result of each observation gives an equation
+between two unknown quantities of the form
+
+  *ax* + *by* = *c*
+
+then, if the observations were free from error, we should need only two
+observations giving two equations; but for the attainment of greater
+accuracy, we may take many observations, and reduce the equations
+so as to give only a pair with mean coefficients. This reduction is
+effected by (1.), multiplying the coefficients of each equation by the
+first coefficient, and adding together all the similar coefficients
+thus resulting for the coefficients of a new equation; and (2.), by
+repeating this process, and multiplying the coefficients of each
+equation by the coefficient of the second term. Meaning by (sum of
+*a*^{2}) the sum of all quantities of the same kind, and having the
+same place in the equations as *a*^{2}, we may briefly describe the two
+resulting mean equations as follows:--
+
+  (sum of *a*^{2}) . *x* + (sum of *ab*) . *y* = (sum of *ac*),
+  (sum of *ab*) . *x* + (sum of *b*^{2}) . *y* = (sum of *bc*).
+
+When there are three or more unknown quantities the process is exactly
+the same in nature, and we get additional mean equations by multiplying
+by the third, fourth, &c., coefficients. As the numbers are in any
+case approximate, it is usually unnecessary to make the computations
+with accuracy, and places of decimals may be freely cut off to save
+arithmetical work. The mean equations having been computed, their
+solution by the ordinary methods of algebra gives the most probable
+values of the unknown quantities.
+
+
+*Works upon the Theory of Probability.*
+
+Regarding the Theory of Probability and the Law of Error as most
+important subjects of study for any one who desires to obtain a
+complete comprehension of scientific method as actually applied in
+physical investigations, I will briefly indicate the works in one or
+other of which the reader will best pursue the study.
+
+The best popular, and at the same time profound English work on the
+subject is De Morgan’s “Essay on Probabilities and on their Application
+to Life Contingencies and Insurance Offices,” published in the *Cabinet
+Cyclopædia*, and to be obtained (in print) from Messrs. Longman. Mr.
+Venn’s work on *The Logic of Chance* can now be procured in a greatly
+enlarged second edition;[297] it contains a most interesting and able
+discussion of the metaphysical basis of probability and of related
+questions concerning causation, belief, design, testimony, &c.; but I
+cannot always agree with Mr. Venn’s opinions. No mathematical knowledge
+beyond that of common arithmetic is required in reading these works.
+Quetelet’s *Letters* form a good introduction to the subject, and the
+mathematical notes are of value. Sir George Airy’s brief treatise *On
+the Algebraical and Numerical Theory of Errors of Observations and
+the Combination of Observations*, contains a complete explanation of
+the Law of Error and its practical applications. De Morgan’s treatise
+“On the Theory of Probabilities” in the *Encyclopædia Metropolitana*,
+presents an abstract of the more abstruse investigations of
+Laplace, together with a multitude of profound and original remarks
+concerning the theory generally. In Lubbock and Drinkwater’s work on
+*Probability*, in the Library of Useful Knowledge, we have a concise
+but good statement of a number of important problems. The Rev.
+W. A. Whitworth has given, in a work entitled *Choice and Chance*,
+a number of good illustrations of calculations both in combinations
+and probabilities. In Mr. Todhunter’s admirable History we have an
+exhaustive critical account of almost all writings upon the subject
+of probability down to the culmination of the theory in Laplace’s
+works. The Memoir of Mr. J. W. L. Glaisher has already been mentioned
+(p. 375). In spite of the existence of these and some other good
+English works, there seems to be a want of an easy and yet pretty
+complete mathematical introduction to the study of the theory.
+
+  [297] *The Logic of Chance*, an Essay on the Foundations and Province
+  of the Theory of Probability, with especial reference to its
+  Logical Bearings and its Application to Moral and Social Science.
+  (Macmillan), 1876.
+
+Among French works the Traité *Élémentaire du Calcul des Probabilités*,
+by S. E. Lacroix, of which several editions have been published, and
+which is not difficult to obtain, forms probably the best elementary
+treatise. Poisson’s *Recherches sur la Probabilité des Jugements*
+(Paris 1837), commence with an admirable investigation of the grounds
+and methods of the theory. While Laplace’s great *Théorie Analytique
+des Probabilités* is of course the “Principia” of the subject; his
+*Essai Philosophique sur les Probabilités* is a popular discourse, and
+is one of the most profound and interesting essays ever published. It
+should be familiar to every student of logical method, and has lost
+little or none of its importance by lapse of time.
+
+
+*Detection of Constant Errors.*
+
+The Method of Means is absolutely incapable of eliminating any error
+which is always the same, or which always lies in one direction. We
+sometimes require to be roused from a false feeling of security, and
+to be urged to take suitable precautions against such occult errors.
+“It is to the observer,” says Gauss,[298] “that belongs the task of
+carefully removing the causes of constant errors,” and this is quite
+true when the error is absolutely constant. When we have made a number
+of determinations with a certain apparatus or method of measurement,
+there is a great advantage in altering the arrangement, or even
+devising some entirely different method of getting estimates of the
+same quantity. The reason obviously consists in the improbability that
+the same error will affect two or more different methods of experiment.
+If a discrepancy is found to exist, we shall at least be aware of the
+existence of error, and can take measures for finding in which way it
+lies. If we can try a considerable number of methods, the probability
+becomes great that errors constant in one method will be balanced or
+nearly so by errors of an opposite effect in the others. Suppose that
+there be three different methods each affected by an error of equal
+amount. The probability that this error will in all fall in the same
+direction is only 1/4; and with four methods similarly 1/8. If each
+method be affected, as is always the case, by several independent
+sources of error, the probability becomes much greater that in the mean
+result of all the methods some of the errors will partially compensate
+the others. In this case as in all others, when human vigilance has
+exhausted itself, we must trust the theory of probability.
+
+  [298] Gauss, translated by Bertrand, p. 25.
+
+In the determination of a zero point, of the magnitude of the
+fundamental standards of time and space, in the personal equation of
+an astronomical observer, we have instances of fixed errors; but as a
+general rule a change of procedure is likely to reverse the character
+of the error, and many instances may be given of the value of this
+precaution. If we measure over and over again the same angular
+magnitude by the same divided circle, maintained in exactly the same
+position, it is evident that the same mark in the circle will be the
+criterion in each case, and any error in the position of that mark will
+equally affect all our results. But if in each measurement we use a
+different part of the circle, a new mark will come into use, and as the
+error of each mark cannot be in the same direction, the average result
+will be nearly free from errors of division. It will be better still to
+use more than one divided circle.
+
+Even when we have no perception of the points at which error is
+likely to enter, we may with advantage vary the construction of our
+apparatus in the hope that we shall accidentally detect some latent
+cause of error. Baily’s purpose in repeating the experiments of
+Michell and Cavendish on the density of the earth was not merely to
+follow the same course and verify the previous numbers, but to try
+whether variations in the size and substance of the attracting balls,
+the mode of suspension, the temperature of the surrounding air, &c.,
+would yield different results. He performed no less than 62 distinct
+series, comprising 2153 experiments, and he carefully classified and
+discussed the results so as to disclose the utmost differences. Again,
+in experimenting upon the resistance of the air to the motion of a
+pendulum, Baily employed no less than 80 pendulums of various forms
+and materials, in order to ascertain exactly upon what conditions
+the resistance depends. Regnault, in his exact researches upon the
+dilatation of gases, made arbitrary changes in the magnitude of parts
+of his apparatus. He thinks that if, in spite of such modification,
+the results are unchanged, the errors are probably of inconsiderable
+amount;[299] but in reality it is always possible, and usually likely,
+that we overlook sources of error which a future generation will
+detect. Thus the pendulum experiments of Baily and Sabine were directed
+to ascertain the nature and amount of a correction for air resistance,
+which had been entirely misunderstood in the experiments by means of
+the seconds pendulum, upon which was founded the definition of the
+standard yard, in the Act of 5th George IV. c. 74. It has already been
+mentioned that a considerable error was discovered in the determination
+of the standard metre as the ten-millionth part of the distance from
+the pole to the equator (p. 314).
+
+  [299] Jamin, *Cours de Physique*, vol. ii. p. 60.
+
+We shall return in Chapter XXV. to the further consideration of the
+methods by which we may as far as possible secure ourselves against
+permanent and undetected sources of error. In the meantime, having
+completed the consideration of the special methods requisite for
+treating quantitative phenomena, we must pursue our principal subject,
+and endeavour to trace out the course by which the physicist, from
+observation and experiment, collects the materials of knowledge, and
+then proceeds by hypothesis and inverse calculation to induce from them
+the laws of nature.
+
+
+
+

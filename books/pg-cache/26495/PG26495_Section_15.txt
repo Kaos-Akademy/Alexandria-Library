@@ -1,0 +1,155 @@
+CHAPTER I. PRELIMINARY OBSERVATIONS ON INDUCTION IN GENERAL.
+
+
+§ 1. The portion of the present inquiry upon which we are now about to
+enter, may be considered as the principal, both from its surpassing in
+intricacy all the other branches, and because it relates to a process
+which has been shown in the preceding Book to be that in which the
+investigation of nature essentially consists. We have found that all
+Inference, consequently all Proof, and all discovery of truths not
+self-evident, consists of inductions, and the interpretation of
+inductions: that all our knowledge, not intuitive, comes to us exclusively
+from that source. What Induction is, therefore, and what conditions render
+it legitimate, cannot but be deemed the main question of the science of
+logic—the question which includes all others. It is, however, one which
+professed writers on logic have almost entirely passed over. The
+generalities of the subject have not been altogether neglected by
+metaphysicians; but, for want of sufficient acquaintance with the
+processes by which science has actually succeeded in establishing general
+truths, their analysis of the inductive operation, even when
+unexceptionable as to correctness, has not been specific enough to be made
+the foundation of practical rules, which might be for induction itself
+what the rules of the syllogism are for the interpretation of induction:
+while those by whom physical science has been carried to its present state
+of improvement—and who, to arrive at a complete theory of the process,
+needed only to generalize, and adapt to all varieties of problems, the
+methods which they themselves employed in their habitual pursuits—never
+until very lately made any serious attempt to philosophize on the subject,
+nor regarded the mode in which they arrived at their conclusions as
+deserving of study, independently of the conclusions themselves.
+
+§ 2. For the purposes of the present inquiry, Induction may be defined,
+the operation of discovering and proving general propositions. It is true
+that (as already shown) the process of indirectly ascertaining individual
+facts, is as truly inductive as that by which we establish general truths.
+But it is not a different kind of induction; it is another form of the
+very same process: since, on the one hand, generals are but collections of
+particulars, definite in kind but indefinite in number; and on the other
+hand, whenever the evidence which we derive from observation of known
+cases justifies us in drawing an inference respecting even one unknown
+case, we should on the same evidence be justified in drawing a similar
+inference with respect to a whole class of cases. The inference either
+does not hold at all, or it holds in all cases of a certain description;
+in all cases which, in certain definable respects, resemble those we have
+observed.
+
+If these remarks are just; if the principles and rules of inference are
+the same whether we infer general propositions or individual facts; it
+follows that a complete logic of the sciences would be also a complete
+logic of practical business and common life. Since there is no case of
+legitimate inference from experience, in which the conclusion may not
+legitimately be a general proposition; an analysis of the process by which
+general truths are arrived at, is virtually an analysis of all induction
+whatever. Whether we are inquiring into a scientific principle or into an
+individual fact, and whether we proceed by experiment or by ratiocination,
+every step in the train of inferences is essentially inductive, and the
+legitimacy of the induction depends in both cases on the same conditions.
+
+True it is that in the case of the practical inquirer, who is endeavouring
+to ascertain facts not for the purposes of science but for those of
+business, such for instance as the advocate or the judge, the chief
+difficulty is one in which the principles of induction will afford him no
+assistance. It lies not in _making_ his inductions but in the _selection_
+of them; in choosing from among all general propositions ascertained to be
+true, those which furnish marks by which he may trace whether the given
+subject possesses or not the predicate in question. In arguing a doubtful
+question of fact before a jury, the general propositions or principles to
+which the advocate appeals are mostly, in themselves, sufficiently trite,
+and assented to as soon as stated: his skill lies in bringing his case
+under those propositions or principles; in calling to mind such of the
+known or received maxims of probability as admit of application to the
+case in hand, and selecting from among them those best adapted to his
+object. Success is here dependent on natural or acquired sagacity, aided
+by knowledge of the particular subject, and of subjects allied with it.
+Invention, though it can be cultivated, cannot be reduced to rule; there
+is no science which will enable a man to bethink himself of that which
+will suit his purpose.
+
+But when he _has_ thought of something, science can tell him whether that
+which he has thought of will suit his purpose or not. The inquirer or
+arguer must be guided by his own knowledge and sagacity in the choice of
+the inductions out of which he will construct his argument. But the
+validity of the argument when constructed, depends on principles and must
+be tried by tests which are the same for all descriptions of inquiries,
+whether the result be to give A an estate, or to enrich science with a new
+general truth. In the one case and in the other, the senses, or testimony,
+must decide on the individual facts; the rules of the syllogism will
+determine whether, those facts being supposed correct, the case really
+falls within the formulæ of the different inductions under which it has
+been successively brought; and finally, the legitimacy of the inductions
+themselves must be decided by other rules, and these it is now our purpose
+to investigate. If this third part of the operation be, in many of the
+questions of practical life, not the most, but the least arduous portion
+of it, we have seen that this is also the case in some great departments
+of the field of science; in all those which are principally deductive, and
+most of all in mathematics; where the inductions themselves are few in
+number, and so obvious and elementary that they seem to stand in no need
+of the evidence of experience, while to combine them so as to prove a
+given theorem or solve a problem, may call for the utmost powers of
+invention and contrivance with which our species is gifted.
+
+If the identity of the logical processes which prove particular facts and
+those which establish general scientific truths, required any additional
+confirmation, it would be sufficient to consider that in many branches of
+science, single facts have to be proved, as well as principles; facts as
+completely individual as any that are debated in a court of justice; but
+which are proved in the same manner as the other truths of the science,
+and without disturbing in any degree the homogeneity of its method. A
+remarkable example of this is afforded by astronomy. The individual facts
+on which that science grounds its most important deductions, such facts as
+the magnitudes of the bodies of the solar system, their distances from one
+another, the figure of the earth, and its rotation, are scarcely any of
+them accessible to our means of direct observation: they are proved
+indirectly, by the aid of inductions founded on other facts which we can
+more easily reach. For example, the distance of the moon from the earth
+was determined by a very circuitous process. The share which direct
+observation had in the work consisted in ascertaining, at one and the same
+instant, the zenith distances of the moon, as seen from two points very
+remote from one another on the earth’s surface. The ascertainment of these
+angular distances ascertained their supplements; and since the angle at
+the earth’s centre subtended by the distance between the two places of
+observation was deducible by spherical trigonometry from the latitude and
+longitude of those places, the angle at the moon subtended by the same
+line became the fourth angle of a quadrilateral of which the other three
+angles were known. The four angles being thus ascertained, and two sides
+of the quadrilateral being radii of the earth; the two remaining sides and
+the diagonal, or in other words, the moon’s distance from the two places
+of observation and from the centre of the earth, could be ascertained, at
+least in terms of the earth’s radius, from elementary theorems of
+geometry. At each step in this demonstration we take in a new induction,
+represented, in the aggregate of its results, by a general proposition.
+
+Not only is the process by which an individual astronomical fact was thus
+ascertained, exactly similar to those by which the same science
+establishes its general truths, but also (as we have shown to be the case
+in all legitimate reasoning) a general proposition might have been
+concluded instead of a single fact. In strictness, indeed, the result of
+the reasoning _is_ a general proposition; a theorem respecting the
+distance, not of the moon in particular, but of any inaccessible object;
+showing in what relation that distance stands to certain other quantities.
+And although the moon is almost the only heavenly body the distance of
+which from the earth can really be thus ascertained, this is merely owing
+to the accidental circumstances of the other heavenly bodies, which render
+them incapable of affording such data as the application of the theorem
+requires; for the theorem itself is as true of them as it is of the
+moon.(53)
+
+We shall fall into no error, then, if in treating of Induction, we limit
+our attention to the establishment of general propositions. The principles
+and rules of Induction, as directed to this end, are the principles and
+rules of all Induction; and the logic of Science is the universal Logic,
+applicable to all inquiries in which man can engage.
+
+
+
+

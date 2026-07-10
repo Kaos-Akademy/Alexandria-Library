@@ -1,0 +1,724 @@
+CHAPTER VI.
+
+OF THE LOGIC OF INDUCTION.
+
+
+APHORISM XVII.
+
+_The_ Logic of Induction _consists in stating the Facts and the
+Inference in such a manner, that the Evidence of the Inference is
+manifest: just as the Logic of Deduction consists in stating the
+Premises and the Conclusion in such a manner that the Evidence of
+the Conclusion is manifest._
+
+APHORISM XVIII.
+
+_The Logic of Deduction is exhibited by means of a certain Formula;
+namely, a Syllogism; and every train of deductive reasoning, to be
+demonstrative, must be capable of resolution into a series of such
+Formulæ legitimately constructed. In like manner, the Logic of
+Induction may be exhibited by means of certain_ Formulæ; _and every
+train of inductive inference to be sound, must be capable of
+resolution into a scheme of such Formulæ, legitimately constructed._
+
+APHORISM XIX.
+
+_The_ inductive act of thought _by which several Facts are
+colligated into one Proposition, may be expressed by saying:_ The
+several Facts are exactly expressed as one Fact, if, and only if, we
+adopt the Conceptions and the Assertion _of the Proposition._
+
+
+APHORISM XX.
+
+_The One Fact, thus inductively obtained from several Facts, may be
+combined with other Facts, and colligated with them by a new act of
+Induction. This process may be_ {98} _indefinitely repeated: and
+these successive processes are the_ Steps _of Induction, or of_
+Generalization, _from the lowest to the highest._
+
+APHORISM XXI.
+
+_The relation of the successive Steps of Induction may be exhibited
+by means of an_ Inductive Table, _in which the several Facts are
+indicated, and tied together by a Bracket, and the Inductive
+Inference placed on the other side of the Bracket; and this
+arrangement repeated, so as to form a genealogical Table of each
+Induction, from the lowest to the highest._
+
+APHORISM XXII.
+
+_The Logic of Induction is the_ Criterion of Truth _inferred from
+Facts, as the Logic of Deduction is the Criterion of Truth deduced
+from necessary Principles. The Inductive Table enables us to apply
+such a Criterion; for we can determine whether each Induction is
+verified and justified by the Facts which its Bracket includes; and
+if each induction in particular be sound, the highest, which merely
+combines them all, must necessarily be sound also._
+
+APHORISM XXIII.
+
+_The distinction of_ Fact _and_ Theory _is only relative. Events and
+phenomena, considered as Particulars which may be colligated by
+Induction, are_ Facts; _considered as Generalities already obtained
+by colligation of other Facts, they are_ Theories. _The same event
+or phenomenon is a Fact or a Theory, according as it is considered
+as standing on one side or the other of the Inductive Bracket._
+
+
+1. THE subject to which the present chapter refers is described by
+phrases which are at the present day familiarly used in speaking of
+the progress of knowledge. We hear very frequent mention of
+_ascending from particular to general_ propositions, and from these
+to propositions still more general;--of {99} truths _included_ in
+other truths of a higher degree of generality;--of different _stages
+of generalization_;--and of the _highest step_ of the process of
+discovery, to which all others are subordinate and preparatory. As
+these expressions, so familiar to our ears, especially since the
+time of Francis Bacon, denote, very significantly, processes and
+relations which are of great importance in the formation of science,
+it is necessary for us to give a clear account of them, illustrated
+with general exemplifications; and this we shall endeavour to do.
+
+We have, indeed, already explained that science consists of
+Propositions which include the Facts from which they were collected;
+and other wider Propositions, collected in like manner from the
+former, and including them. Thus, that the stars, the moon, the sun,
+rise, culminate, and set, are facts _included_ in the proposition
+that the heavens, carrying with them all the celestial bodies, have
+a diurnal revolution about the axis of the earth. Again, the
+observed monthly motions of the moon, and the annual motions of the
+sun, are _included_ in certain propositions concerning the movements
+of those luminaries with respect to the stars. But all these
+propositions are really _included_ in the doctrine that the earth,
+revolving on its axis, moves round the sun, and the moon round the
+earth. These movements, again, considered as facts, are explained
+and _included_ in the statement of the forces which the earth exerts
+upon the moon, and the sun upon the earth. Again, this doctrine of
+the forces of these three bodies is _included_ in the assertion,
+that all the bodies of the solar system, and all parts of matter,
+exert forces, each upon each. And we might easily show that all the
+leading facts in astronomy are comprehended in the same
+generalization. In like manner with regard to any other science, so
+far as its truths have been well established and fully developed, we
+might show that it consists of a gradation of propositions,
+proceeding from the most special facts to the most general
+theoretical assertions. We shall exhibit this gradation in some of
+the principal branches of science. {100}
+
+2. This gradation of truths, successively included in other truths,
+may be conveniently represented by Tables resembling the
+genealogical tables by which the derivation of descendants from a
+common ancestor is exhibited; except that it is proper in this case
+to invert the form of the Table, and to make it converge to unity
+downwards instead of upwards, since it has for its purpose to
+express, not the derivation of many from one, but the collection of
+one truth from many things. Two or more co-ordinate facts or
+propositions may be ranged side by side, and joined by some mark of
+connexion, (a bracket, as ⏟ or ⎵,) beneath which may be placed the
+more general proposition which is collected by induction from the
+former. Again, propositions co-ordinate with this more general one
+may be placed on a level with it; and the combination of these, and
+the result of the combination, may be indicated by brackets in the
+same manner; and so on, through any number of gradations. By this
+means the streams of knowledge from various classes of facts will
+constantly run together into a smaller and smaller number of
+channels; like the confluent rivulets of a great river, coming
+together from many sources, uniting their ramifications so as to
+form larger branches, these again uniting in a single trunk. The
+_genealogical tree_ of each great portion of science, thus formed,
+will contain all the leading truths of the science arranged in their
+due co-ordination and subordination. Such Tables, constructed for
+the sciences of Astronomy and of Optics, will be given at the end of
+this chapter.
+
+3. The union of co-ordinate propositions into a proposition of a
+higher order, which occurs in this Tree of Science wherever two
+twigs unite in one branch, is, in each case, an example of
+_Induction_. The single proposition is collected by the process of
+induction from its several members. But here we may observe, that
+the image of a mere _union_ of the parts at each of these points,
+which the figure of a tree or a river presents, is very inadequate
+to convey the true state of the case; for in Induction, as we have
+seen, besides mere collection of particulars, there is always a _new
+conception_, a {101} principle of connexion and unity, supplied by
+the mind, and superinduced upon the particulars. There is not merely
+a juxta-position of materials, by which the new proposition contains
+all that its component parts contained; but also a formative act
+exerted by the understanding, so that these materials are contained
+in a new shape. We must remember, therefore, that our Inductive
+Tables, although they represent the elements and the order of these
+inductive steps, do not fully represent the whole signification of
+the process in each case.
+
+4. The principal features of the progress of science spoken of in
+the last chapter are clearly exhibited in these Tables; namely, the
+_Consilience of Inductions_ and the constant Tendency to Simplicity
+observable in true theories. Indeed in all cases in which, from
+propositions of considerable generality, propositions of a still
+higher degree are obtained, there is a convergence of inductions;
+and if in one of the lines which thus converge, the steps be rapidly
+and suddenly made in order to meet the other line, we may consider
+that we have an example of Consilience. Thus when Newton had
+collected, from Kepler's Laws, the Central Force of the sun, and
+from these, combined with other facts, the Universal Force of all
+the heavenly bodies, he suddenly turned round to include in his
+generalization the Precession of the Equinoxes, which he declared to
+arise from the attraction of the sun and moon upon the protuberant
+part of the terrestrial spheroid. The apparent remoteness of this
+fact, in its nature, from the other facts with which he thus
+associated it, causes this part of his reasoning to strike us as a
+remarkable example of _Consilience_. Accordingly, in the Table of
+Astronomy we find that the columns which contain the facts and
+theories relative to the _sun_ and _planets_, after exhibiting
+several stages of induction within themselves, are at length
+suddenly connected with a column till then quite distinct,
+containing the _precession of the equinoxes_. In like manner, in the
+Table of Optics, the columns which contain the facts and theories
+relative to _double refraction_, and those which {102} include
+_polarization by crystals_, each go separately through several
+stages of induction; and then these two sets of columns are suddenly
+connected by Fresnel's mathematical induction, that double
+refraction and polarization arise from the same cause: thus
+exhibiting a remarkable _Consilience_.
+
+5. The constant _Tendency to Simplicity_ in the sciences of which the
+progress is thus represented, appears from the form of the Table
+itself; for the single trunk into which all the branches converge,
+contains in itself the substance of all the propositions by means of
+which this last generalization was arrived at. It is true, that this
+ultimate result is sometimes not so simple as in the Table it
+appears: for instance, the ultimate generalization of the Table
+exhibiting the progress of Physical Optics,--namely, that Light
+consists in Undulations,--must be understood as including some other
+hypotheses; as, that the undulations are transverse, that the ether
+through which they are propagated has its elasticity in crystals and
+other transparent bodies regulated by certain laws; and the like.
+Yet still, even acknowledging all the complication thus implied, the
+Table in question evidences clearly enough the constant advance
+towards unity, consistency, and simplicity, which have marked the
+progress of this Theory. The same is the case in the Inductive Table
+of Astronomy in a still greater degree.
+
+6. These Tables naturally afford the opportunity of assigning to
+each of the distinct steps of which the progress of science
+consists, the name of the _Discoverer_ to whom it is due. Every one
+of the inductive processes which the brackets of our Tables mark,
+directs our attention to some person by whom the induction was first
+distinctly made. These names I have endeavoured to put in their due
+places in the Tables; and the Inductive Tree of our knowledge in
+each science becomes, in this way, an exhibition of the claims of
+each discoverer to distinction, and, as it were, a Genealogical Tree
+of scientific nobility. It is by no means pretended that such a tree
+includes the {103} names of all the meritorious labourers in each
+department of science. Many persons are most usefully employed in
+collecting and verifying truths, who do not advance to any new
+truths. The labours of a number of such are included in each stage
+of our ascent. But such Tables as we have now before us will present
+to us the names of all the most eminent discoverers: for the main
+steps of which the progress of science consists, are transitions
+from more particular to more general truths, and must therefore be
+rightly given by these Tables; and those must be the greatest names
+in science to whom the principal events of its advance are thus due.
+
+7. The Tables, as we have presented them, exhibit the course by
+which we pass from Particular to General through various gradations,
+and so to the most general. They display the order of _discovery_.
+But by reading them in an inverted manner, beginning at the single
+comprehensive truths with which the Tables end, and tracing these
+back into the more partial truths, and these again into special
+facts, they answer another purpose;--they exhibit the process of
+_verification_ of discoveries once made. For each of our general
+propositions is true in virtue of the truth of the narrower
+propositions which it involves; and we cannot satisfy ourselves of
+its truth in any other way than by ascertaining that these its
+constituent elements are true. To assure ourselves that the sun
+attracts the planets with forces varying inversely as the square of
+the distance, we must analyse by geometry the motion of a body in an
+ellipse about the focus, so as to see that such a motion does imply
+such a force. We must also verify those calculations by which the
+observed places of each planet are stated to be included in an
+ellipse. These calculations involve assumptions respecting the path
+which the earth describes about the sun, which assumptions must
+again be verified by reference to observation. And thus, proceeding
+from step to step, we resolve the most general truths into their
+constituent parts; and these again into their parts; and by testing,
+at each step, both the reality of the asserted ingredients and the
+propriety {104} of the conjunction, we establish the whole system of
+truths, however wide and various it may be.
+
+8. It is a very great advantage, in such a mode of exhibiting
+scientific truths, that it resolves the verification of the most
+complex and comprehensive theories, into a number of small steps, of
+which almost any one falls within the reach of common talents and
+industry. That _if_ the particulars of any one step be true, the
+generalization also is true, any person with a mind properly
+disciplined may satisfy himself by a little study. That each of
+these particular propositions _is_ true, may be ascertained, by the
+same kind of attention, when this proposition is resolved into _its_
+constituent and more special propositions. And thus we may proceed,
+till the most general truth is broken up into small and manageable
+portions. Of these portions, each may appear by itself narrow and
+easy; and yet they are so woven together, by hypothesis and
+conjunction, that the truth of the parts necessarily assures us of
+the truth of the whole. The verification is of the same nature as
+the verification of a large and complex statement of great sums
+received by a mercantile office on various accounts from many
+quarters. The statement is separated into certain comprehensive
+heads, and these into others less extensive; and these again into
+smaller collections of separate articles, each of which can be
+inquired into and reported on by separate persons. And thus at last,
+the mere addition of numbers performed by these various persons, and
+the summation of the results which they obtain, executed by other
+accountants, is a complete and entire security that there is no
+errour in the whole of the process.
+
+9. This comparison of the process by which we verify scientific
+truth to the process of Book-keeping in a large commercial
+establishment, may appear to some persons not sufficiently dignified
+for the subject. But, in fact, the possibility of giving this formal
+and business-like aspect to the evidence of science, as involved in
+the process of successive generalization, is an inestimable
+advantage. For if no one could pronounce concerning a wide and
+profound theory except he who {105} could at once embrace in his
+mind the whole range of inference, extending from the special facts
+up to the most general principles, none but the greatest geniuses
+would be entitled to judge concerning the truth or errour of
+scientific discoveries. But, in reality, we seldom need to verify
+more than one or two steps of such discoveries at one time; and this
+may commonly be done (when the discoveries have been fully
+established and developed,) by any one who brings to the task clear
+conceptions and steady attention. The progress of science is
+gradual: the discoveries which are successively made, are also
+verified successively. We have never any very large collections of
+them on our hands at once. The doubts and uncertainties of any one
+who has studied science with care and perseverance are generally
+confined to a few points. If he can satisfy himself upon these, he
+has no misgivings respecting the rest of the structure; which has
+indeed been repeatedly verified by other persons in like manner. The
+fact that science is capable of being resolved into separate
+processes of verification, is that which renders it possible to form
+a great body of scientific truth, by adding together a vast number
+of truths, of which many men, at various times and by multiplied
+efforts, have satisfied themselves. The treasury of Science is
+constantly rich and abundant, because it accumulates the wealth
+which is thus gathered by so many, and reckoned over by so many
+more: and the dignity of Knowledge is no more lowered by the
+multiplicity of the tasks on which her servants are employed, and
+the narrow field of labour to which some confine themselves, than
+the rich merchant is degraded by the number of offices which it is
+necessary for him to maintain, and the minute articles of which he
+requires an exact statement from his accountants.
+
+10. The analysis of doctrines inductively obtained, into their
+constituent facts, and the arrangement of them in such a form that
+the conclusiveness of the induction may be distinctly seen, may be
+termed the _Logic of Induction_. By _Logic_ has generally been meant
+a system which teaches us so to arrange our {106} reasonings that
+their truth or falsehood shall be evident in their form. In
+_deductive_ reasonings, in which the general principles are assumed,
+and the question is concerning their application and combination in
+particular cases, the device which thus enables us to judge whether
+our reasonings are conclusive is the _Syllogism_; and this _form_,
+along with the rules which belong to it, does in fact supply us with
+a criterion of deductive or demonstrative reasoning. The _Inductive
+Table_, such as it is presented in the present chapter, in like
+manner supplies the means of ascertaining the truth of our inductive
+inferences, so far as the form in which our reasoning may be stated
+can afford such a criterion. Of course some care is requisite in
+order to reduce a train of demonstration into the form of a series
+of syllogisms; and certainly not less thought and attention are
+required for resolving all the main doctrines of any great
+department of science into a graduated table of co-ordinate and
+subordinate inductions. But in each case, when this task is once
+executed, the evidence or want of evidence of our conclusions
+appears immediately in a most luminous manner. In each step of
+induction, our Table enumerates the particular facts, and states the
+general theoretical truth which includes these and which these
+constitute. The special act of attention by which we satisfy
+ourselves that the facts _are_ so included,--that the general truth
+_is_ so constituted,--then affords little room for errour, with
+moderate attention and clearness of thought.
+
+11. We may find an example of this _act of attention_ thus required,
+at any one of the steps of induction in our Tables; for instance, at
+the step in the early progress of astronomy at which it was
+inferred, that the earth is a globe, and that the sphere of the
+heavens (relatively) performs a diurnal revolution round this globe
+of the earth. How was this established in the belief of the Greeks,
+and how is it fixed in our conviction? As to the globular form, we
+find that as we travel to the north, the apparent pole of the
+heavenly motions, and the constellations which are near it, seem to
+mount higher, and as we proceed southwards they descend. {107}
+Again, if we proceed from two different points considerably to the
+east and west of each other, and travel directly northwards from
+each, as from the south of Spain to the north of Scotland, and from
+Greece to Scandinavia, these two north and south lines will be much
+nearer to each other in their northern than in their southern parts.
+These and similar facts, as soon as they are clearly estimated and
+connected in the mind, are _seen to be consistent_ with a convex
+surface of the earth, and with no other: and this notion is further
+confirmed by observing that the boundary of the earth's shadow upon
+the moon is always circular; it being supposed to be already
+established that the moon receives her light from the sun, and that
+lunar eclipses are caused by the interposition of the earth. As for
+the assertion of the (relative) diurnal revolution of the starry
+sphere, it is merely putting the visible phenomena in an exact
+geometrical form: and thus we establish and verify the doctrine of
+the revolution of the sphere of the heavens about the globe of the
+earth, by contemplating it so as to see that it does really and
+exactly include the particular facts from which it is collected.
+
+We may, in like manner, illustrate this mode of verification by any
+of the other steps of the same Table. Thus if we take the great
+Induction of Copernicus, the heliocentric scheme of the solar
+system, we find it in the Table exhibited as including and
+explaining, _first_, the diurnal revolution just spoken of;
+_second_, the motions of the moon among the fixed stars; _third_,
+the motions of the planets with reference to the fixed stars and the
+sun; _fourth_, the motion of the sun in the ecliptic. And the scheme
+being clearly conceived, we _see_ that all the particular facts
+_are_ faithfully represented by it; and this agreement, along with
+the simplicity of the scheme, in which respect it is so far superior
+to any other conception of the solar system, persuade us that it is
+really the plan of nature.
+
+In exactly the same way, if we attend to any of the several
+remarkable discoveries of Newton, which form the principal steps in
+the latter part of the Table, as for instance, the proposition that
+the sun attracts all {108} the planets with a force which varies
+inversely as the square of the distance, we find it proved by its
+including three other propositions previously established;--_first_,
+that the sun's mean force on different planets follows the specified
+variation (which is proved from Kepler's third law); _second_, that
+the force by which each planet is acted upon in different parts of
+its orbit tends to the sun (which is proved by the equable
+description of areas); _third_, that this force in different parts
+of the same orbit is also inversely as the square of the distance
+(which is proved from the elliptical form of the orbit). And the
+Newtonian generalization, when its consequences are mathematically
+traced, is _seen_ to agree with each of these particular
+propositions, and thus is fully established.
+
+12. But when we say that the more general proposition _includes_ the
+several more particular ones, we must recollect what has before been
+said, that these particulars form the general truth, not by being
+merely enumerated and added together, but by being seen _in a new
+light_. No mere verbal recitation of the particulars can decide
+whether the general proposition is true; a special act of thought is
+requisite in order to determine how truly each is included in the
+supposed induction. In this respect the Inductive Table is not like
+a mere schedule of accounts, where the rightness of each part of the
+reckoning is tested by mere addition of the particulars. On the
+contrary, the Inductive truth is never the mere _sum_ of the facts.
+It is made into something more by the introduction of a new mental
+element; and the mind, in order to be able to supply this element,
+must have peculiar endowments and discipline. Thus looking back at
+the instances noticed in the last article, how are we to see that a
+convex surface of the earth is necessarily implied by the
+convergence of meridians towards the north, or by the visible
+descent of the north pole of the heavens as we travel south?
+Manifestly the student, in order to see this, must have clear
+conceptions of the relations of space, either naturally inherent in
+his mind, or established there by geometrical cultivation,--by {109}
+studying the properties of circles and spheres. When he is so
+prepared, he will feel the force of the expressions we have used,
+that the facts just mentioned are _seen to be consistent_ with a
+globular form of the earth; but without such aptitude he will not
+see this consistency: and if this be so, the mere assertion of it in
+words will not avail him in satisfying himself of the truth of the
+proposition.
+
+In like manner, in order to perceive the force of the Copernican
+induction, the student must have his mind so disciplined by
+geometrical studies, or otherwise, that he sees clearly how absolute
+motion and relative motion would alike produce apparent motion. He
+must have learnt to cast away all prejudices arising from the
+seeming fixity of the earth; and then he will see that there is
+nothing which stands in the way of the induction, while there is
+much which is on its side. And in the same manner the Newtonian
+induction of the law of the sun's force from the elliptical form of
+the orbit, will be evidently satisfactory to him only who has such
+an insight into Mechanics as to see that a curvilinear path must
+arise from a constantly deflecting force; and who is able to follow
+the steps of geometrical reasoning by which, from the properties of
+the ellipse, Newton proves this deflection to be in the proportion
+in which he asserts the force to be. And thus in all cases the
+inductive truth must indeed be verified by comparing it with the
+particular facts; but then this comparison is possible for him only
+whose mind is properly disciplined and prepared in the use of those
+conceptions, which, in addition to the facts, the act of induction
+requires.
+
+13. In the Tables some indication is given, at several of the steps,
+of the act which the mind must thus perform, besides the mere
+conjunction of facts, in order to attain to the inductive truth.
+Thus in the cases of the Newtonian inductions just spoken of, the
+inferences are stated to be made 'By Mechanics;' and in the case of
+the Copernican induction, it is said that, 'By the nature of motion,
+the apparent motion is the same, whether the heavens or the earth
+have a {110} diurnal motion; and the latter is more simple.' But
+these verbal statements are to be understood as mere hints[22\2]:
+they cannot supersede the necessity of the student's contemplating
+for himself the mechanical principles and the nature of motion thus
+referred to.
+
+[Note 22\2: In the Inductive Tables they are marked by an
+asterisk.]
+
+14. In the common or Syllogistic Logic, a certain _Formula_ of
+language is used in stating the reasoning, and is useful in enabling
+us more readily to apply the Criterion of Form to alleged
+demonstrations. This formula is the usual Syllogism; with its
+members, Major Premiss, Minor Premiss, and Conclusion. It may
+naturally be asked whether in Inductive Logic there is any such
+Formula? whether there is any standard form of words in which we may
+most properly express the inference of a general truth from
+particular facts?
+
+At first it might be supposed that the formula of Inductive Logic
+need only be of this kind: 'These particulars, and all known
+particulars of the same kind, are exactly included in the following
+general proposition.' But a moment's reflection on what has just
+been said will show us that this is not sufficient: for the
+particulars are not merely _included_ in the general proposition. It
+is not enough that they appertain to it by enumeration. It is, for
+instance, no adequate example of Induction to say, 'Mercury
+describes an elliptical path, so does Venus, so do the Earth, Mars,
+Jupiter, Saturn, Uranus; therefore all the Planets describe
+elliptical paths.' This is, as we have seen, the mode of stating the
+_evidence_ when the proposition is once suggested; but the Inductive
+step consists in the _suggestion_ of a conception not before
+apparent. When Kepler, after trying to connect the observed places
+of the planet Mars in many other ways, found at last that the
+conception of an _ellipse_ would include them all, he obtained a
+truth by induction: for this conclusion was not obviously included
+in the phenomena, and had not been applied to these {111} facts
+previously. Thus in our Formula, besides stating that the
+particulars are included in the general proposition, we must also
+imply that the generality is constituted by a new Conception,--new
+at least in its application.
+
+Hence our Inductive Formula might be something like the following:
+'These particulars, and all known particulars of the same kind, are
+exactly expressed by adopting the Conceptions and Statement of the
+following Proposition.' It is of course requisite that the
+Conceptions should be perfectly clear, and should precisely embrace
+the facts, according to the explanation we have already given of
+those conditions.
+
+15. It may happen, as we have already stated, that the Explication
+of a Conception, by which it acquires its due distinctness, leads to
+a Definition, which Definition may be taken as the summary and total
+result of the intellectual efforts to which this distinctness is
+due. In such cases, the Formula of Induction may be modified
+according to this condition; and we may state the inference by
+saying, after an enumeration and analysis of the appropriate facts,
+'These facts are completely and distinctly expressed by adopting the
+following Definition and Proposition.'
+
+This Formula has been adopted in stating the Inductive Propositions
+which constitute the basis of the science of Mechanics, in a work
+intitled _The Mechanical Euclid_. The fundamental truths of the
+subject are expressed in _Inductive Pairs_ of Assertions, consisting
+each of a Definition and a Proposition, such as the following:
+
+DEF.--A _Uniform Force_ is that which acting in the direction of the
+body's motion, adds or subtracts equal velocities in equal times.
+
+PROP.--Gravity is a Uniform Force.
+
+Again,
+
+DEF.--Two _Motions_ are _compounded_ when each produces its separate
+effect in a direction parallel to itself.
+
+PROP.--When any Force acts upon a body in motion, the motion which
+the Force would produce in the {112} body at rest is compounded with
+the previous motion of the body.
+
+And in like manner in other cases.
+
+In these cases the proposition is, of course, established, and the
+definition realized, by an enumeration of the facts. And in the case
+of inferences made in such a form, the Definition of the Conception
+and the Assertion of the Truth are both requisite and are
+correlative to one another. Each of the two steps contains the
+verification and justification of the other. The Proposition derives
+its meaning from the Definition; the Definition derives its reality
+from the Proposition. If they are separated, the Definition is
+arbitrary or empty, the Proposition vague or ambiguous.
+
+16. But it must be observed that neither of the preceding Formulæ
+expresses the full cogency of the inductive proof. They declare only
+that the results can be clearly explained and rigorously deduced by
+the employment of a certain Definition and a certain Proposition.
+But in order to make the conclusion demonstrative, which in perfect
+examples of Induction it is, we ought to be able to declare that the
+results can be clearly explained and rigorously declared _only_ by
+the Definition and Proposition which we adopt. And in reality, the
+conviction of the sound inductive reasoner does reach to this point.
+The Mathematician asserts the Laws of Motion, seeing clearly that
+they (or laws equivalent to them) afford the only means of clearly
+expressing and deducing the actual facts. But this conviction, that
+the inductive inference is not only consistent with the facts, but
+necessary, finds its place in the mind gradually, as the
+contemplation of the consequences of the proposition, and the
+various relations of the facts, becomes steady and familiar. It is
+scarcely possible for the student at once to satisfy himself that
+the inference is thus inevitable. And when he arrives at this
+conviction, he sees also, in many cases at least, that there may be
+other ways of expressing the substance of the truth established,
+besides that special Proposition which he has under his notice.
+{113}
+
+We may, therefore, without impropriety, renounce the undertaking of
+conveying in our formula this final conviction of the necessary
+truth of our inference. We may leave it to be thought, without
+insisting upon saying it, that in such cases what _can_ be true,
+_is_ true. But if we wish to express the ultimate significance of
+the Inductive Act of thought, we may take as our Formula for the
+Colligation of Facts by Induction, this:--'The several Facts are
+exactly expressed as one Fact if, _and only if_, we adopt the
+Conception and the Assertion' of the inductive inference.
+
+17. I have said that the mind must be properly disciplined in order
+that it may see the necessary connexion between the facts and the
+general proposition in which they are included. And the perception
+of this connexion, though treated as _one step_ in our inductive
+inference, may imply _many steps_ of demonstrative proof. The
+connexion is this, that the particular case is included in the
+general one, that is, may be _deduced_ from it: but this deduction
+may often require many links of reasoning. Thus in the case of the
+inference of the law of the force from the elliptical form of the
+orbit by Newton, the proof that in the ellipse the deflection from
+the tangent is inversely as the square of the distance from the
+focus of the ellipse, is a ratiocination consisting of several
+steps, and involving several properties of Conic Sections; these
+properties being supposed to be previously established by a
+geometrical system of demonstration on the special subject of the
+Conic Sections. In this and similar cases the Induction involves
+many steps of Deduction. And in such cases, although the Inductive
+Step, the Invention of the Conception, is really the most important,
+yet since, when once made, it occupies a familiar place in men's
+minds; and since the Deductive Demonstration is of considerable
+length and requires intellectual effort to follow it at every step;
+men often admire the deductive part of the proposition, the
+geometrical or algebraical demonstration, far more than that part in
+which the philosophical merit really resides. {114}
+
+18. Deductive reasoning is virtually a collection of syllogisms, as
+has already been stated: and in such reasoning, the general
+principles, the Definitions and Axioms, necessarily stand at the
+_beginning_ of the demonstration. In an inductive inference, the
+Definitions and Principles are the _final result_ of the reasoning,
+the ultimate effect of the proof. Hence when an Inductive
+Proposition is to be established by a proof involving several steps
+of demonstrative reasoning, the enunciation of the Proposition will
+contain, explicitly or implicitly, principles which the
+demonstration proceeds upon as axioms, but which are really
+inductive inferences. Thus in order to prove that the force which
+retains a planet in an ellipse varies inversely as the square of the
+distance, it is taken for granted that the Laws of Motion are true,
+and that they apply to the planets. Yet the doctrine that this is
+so, as well as the law of the force, were established only by this
+and the like demonstrations. The doctrine which is the _hypothesis_
+of the deductive reasoning, is the _inference_ of the inductive
+process. The special facts which are the basis of the inductive
+inference, are the conclusion of the train of deduction. And in this
+manner the deduction establishes the induction. The principle which
+we gather from the facts is true, because the facts can be derived
+from it by rigorous demonstration. Induction moves upwards, and
+deduction downwards, on the same stair.
+
+But still there is a great difference in the character of their
+movements. Deduction descends steadily and methodically, step by
+step: Induction mounts by a leap which is out of the reach of
+method. She bounds to the top of the stair at once; and then it is
+the business of Deduction, by trying each step in order, to
+establish the solidity of her companion's footing. Yet these must be
+processes of the same mind. The Inductive Intellect makes an
+assertion which is subsequently justified by demonstration; and it
+shows its sagacity, its peculiar character, by enunciating the
+proposition when as yet the demonstration does not {115} exist: but
+then it shows that it _is_ sagacity, by also producing the
+demonstration.
+
+It has been said that inductive and deductive reasoning are contrary
+in their scheme; that in Deduction we infer particular from general
+truths; while in Induction we infer general from particular: that
+Deduction consists of many steps, in each of which we apply known
+general propositions in particular cases; while in Induction we have
+a single step, in which we pass from many particular truths to one
+general proposition. And this is truly said; but though contrary in
+their motions, the two are the operation of the same mind travelling
+over the same ground. Deduction is a necessary part of Induction.
+Deduction justifies by calculation what Induction had happily
+guessed. Induction recognizes the ore of truth by its weight;
+Deduction confirms the recognition by chemical analysis. Every step
+of Induction must be confirmed by rigorous deductive reasoning,
+followed into such detail as the nature and complexity of the
+relations (whether of quantity or any other) render requisite. If
+not so justified by the supposed discoverer, it is _not_ Induction.
+
+19. Such Tabular arrangements of propositions as we have constructed
+may be considered as the _Criterion of Truth_ for the doctrines
+which they include. They are the Criterion of Inductive Truth, in
+the same sense in which Syllogistic Demonstration is the Criterion
+of Necessary Truth,--of the certainty of conclusions, depending upon
+evident First Principles. And that such Tables are really a
+Criterion of the truth of the propositions which they contain, will
+be plain by examining their structure. For if the connexion which
+the inductive process assumes be ascertained to be in each case real
+and true, the assertion of the general proposition merely collects
+together ascertained truths; and in like manner each of those more
+particular propositions is true, because it merely expresses
+collectively more special facts: so that the most general theory is
+only the assertion of a great body of facts, duly classified and
+subordinated. When we {116} assert the truth of the Copernican
+theory of the motions of the solar system, or of the Newtonian
+theory of the forces by which they are caused, we merely assert the
+groups of propositions which, in the Table of Astronomical
+Induction, are included in these doctrines; and ultimately, we may
+consider ourselves as merely asserting at once so many Facts, and
+therefore, of course, expressing an indisputable truth.
+
+20. At any one of these steps of Induction in the Table, the
+inductive proposition is a _Theory_ with regard to the Facts which
+it includes, while it is to be looked upon as a _Fact_ with respect
+to the higher generalizations in which it is included. In any other
+sense, as was formerly shown, the opposition of _Fact_ and _Theory_
+is untenable, and leads to endless perplexity and debate. Is it a
+Fact or a Theory that the planet Mars revolves in an Ellipse about
+the Sun? To Kepler, employed in endeavouring to combine the separate
+observations by the Conception of an Ellipse, it is a Theory; to
+Newton, engaged in inferring the law of force from a knowledge of
+the elliptical motion, it is a Fact. There are, as we have already
+seen, no special attributes of Theory and Fact which distinguish
+them from one another. Facts are phenomena apprehended by the aid of
+conceptions and mental acts, as Theories also are. We commonly call
+our observations _Facts_, when we apply, without effort or
+consciousness, conceptions perfectly familiar to us: while we speak
+of Theories, when we have previously contemplated the Facts and the
+connecting Conception separately, and have made the connexion by a
+conscious mental act. The real difference is a difference of
+relation; as the same proposition in a demonstration is the
+_premiss_ of one syllogism and the _conclusion_ in another;--as the
+same person is a father and a son. Propositions are Facts and
+Theories, according as they stand above or below the Inductive
+Brackets of our Tables.
+
+21. To obviate mistakes I may remark that the terms _higher_ and
+_lower_, when used of generalizations, are unavoidably represented
+by their opposites in our Inductive Tables. The highest
+generalization is that {117} which includes all others; and this
+stands the lowest on our page, because, reading downwards, that is
+the place which we last reach.
+
+There is a distinction of the knowledge acquired by Scientific
+Induction into two kinds, which is so important that we shall
+consider it in the succeeding chapter.
+
+
+
+{{118}}

@@ -1,0 +1,134 @@
+CHAPTER XI.
+
+OF MATHEMATICAL REASONING.
+
+
+1. _Discursive Reasoning._--WE have thus seen that our
+notions of space, time, and their modifications, necessarily
+involve a certain activity of the mind; and that the
+conditions of this activity form the foundations of those
+sciences which have the relations of space, time, and
+number, for their object. Upon the fundamental principles
+thus established, the various sciences which are included in
+the term _Pure Mathematics_, (Geometry, Algebra,
+Trigonometry, Conic Sections, and the rest of the Higher
+Geometry, the Differential Calculus, and the like,) are
+built up by a series of reasonings. These reasonings are
+subject to the rules of Logic, as we have already remarked;
+nor is it necessary here to dwell long on the nature and
+rules of such processes. But we may here notice that such
+processes are termed _discursive_, in opposition to the
+operations by which we acquire our fundamental principles,
+which are, as we have seen, _intuitive_. This opposition was
+formerly very familiar to our writers; as Milton,--
+  . . . Thus the soul reason receives,
+  Discursive or intuitive.--_Paradise Lost_, v. 438.
+For in such reasonings we obtain our conclusions, not by
+looking at our conceptions steadily in one view, which is
+_intuition_, but by passing from one view to another, like
+those who run from place to place (_discursus_). Thus a
+straight line may be at the same time a side of a triangle
+and a radius of a circle: and in the first proposition of
+Euclid a line is considered, first in one of these
+relations, and then in the other, and thus the sides of a
+certain triangle are proved to be equal. And by this
+'discourse of reason,' as by our older {148} writers it was
+termed, we set forth from those axioms which we perceive by
+intuition, travel securely over a vast and varied region,
+and become possessed of a copious store of mathematical
+truths.
+
+2. _Technical Terms of Reasoning._--The reasoning of
+mathematics, thus proceeding from a few simple principles to
+many truths, is conducted according to the rules of Logic.
+If it be necessary, mathematical proofs may be reduced to
+logical forms, and expressed in Syllogisms, consisting of
+major, minor, and conclusion. But in most cases the
+syllogism is of that kind which is called by logical writers
+an _Enthymeme_; a word which implies something existing in
+the thoughts only, and which designates a syllogism in which
+one of the premises is understood, and not expressed. Thus
+we say in a mathematical proof, 'because the point C is the
+center of the circle AB, AC is equal to BC;' not stating the
+_major_,--that all lines drawn from the center of a circle
+to the circumference are equal; or introducing it only by a
+transient reference to the definition of a circle. But the
+enthymeme is so constantly used in all habitual forms of
+reasoning, that it does not occur to us as being anything
+peculiar in mathematical works.
+
+The propositions which are proved to be generally true are
+termed _Theorems_: but when anything is required to be done,
+as to draw a line or a circle under given conditions, this
+proposition is a _Problem_. A theorem requires
+demonstration; a problem, solution. And for both purposes
+the mathematician usually makes a _Construction_. He directs
+us to draw certain lines, circles, or other curves, on which
+is to be founded his demonstration that his theorem is true,
+or that his problem is solved. Sometimes, too, he
+establishes some _Lemma_, or preparatory proposition, before
+he proceeds to his main task; and often he deduces from his
+demonstration some conclusion in addition to that which was
+the professed object of his proposition; and this is termed
+a _Corollary_.
+
+These technical terms are noted here, not as being very
+important, but in order that they may not sound {149}
+strange and unintelligible if we should have occasion to use
+some of them. There is, however, one technical distinction
+more peculiar, and more important.
+
+3. _Geometrical Analysis and Synthesis._--In geometrical
+reasoning such as we have described, we introduce at every
+step some new consideration; and it is by combining all
+these considerations, that we arrive at the conclusion, that
+is, the demonstration of the proposition. Each step tends to
+the final result, by exhibiting some part of the figure
+under a new relation. To what we have already proved, is
+added something more; and hence this process is called
+_Synthesis_, or _putting together_. The proof flows on,
+receiving at every turn new contributions from different
+quarters; like a river fed and augmented by many tributary
+streams. And each of these tributaries flows from some
+definition or axiom as its fountain, or is itself formed by
+the union of smaller rivulets which have sources of this
+kind. In descending along its course, the synthetical proof
+gathers all these accessions into one common trunk, the
+proposition finally proved.
+
+But we may proceed in a different manner. We may begin from
+the formed river, and ascend to its sources. We may take the
+proposition of which we require a proof, and may examine
+what the supposition of its truth implies. If this be true,
+then something else may be seen to be true; and from this,
+something else, and so on. We may often, in this way,
+discover of what simpler propositions our theorem or
+solution is compounded, and may resolve these in succession,
+till we come to some proposition which is obvious. This is
+geometrical _Analysis_. Having succeeded in this analytical
+process, we may invert it; and may descend again from the
+simple and known propositions, to the proof of a theorem, or
+the solution of a problem, which was our starting-place.
+
+This process resembles, as we have said, tracing a river to
+its sources. As we ascend the stream, we perpetually meet
+with bifurcations; and some sagacity is needed to enable us
+to see which, in each case, is the main stream: but if we
+proceed in our research, we {150} exhaust the unexplored
+valleys, and finally obtain a clear knowledge of the place
+whence the waters flow. _Analytical_ is sometimes confounded
+with _symbolical_ reasoning, on which subject we shall make
+a remark in the next chapter. The object of that chapter is
+to notice certain other fundamental principles and ideas,
+not included in those hitherto spoken of, which we find
+thrown in our way as we proceed in our mathematical
+speculations. It would detain us too long, and involve us in
+subtle and technical disquisitions, to examine fully the
+grounds of these principles; but the Mathematics hold so
+important a place in relation to the inductive sciences,
+that I shall briefly notice the leading ideas which the
+ulterior progress of the subject involves.
+
+
+
+{{151}}

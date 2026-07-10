@@ -1,0 +1,277 @@
+CHAPTER I. OF INFERENCE, OR REASONING, IN GENERAL.
+
+
+§ 1. In the preceding Book, we have been occupied not with the nature of
+Proof, but with the nature of Assertion: the import conveyed by a
+Proposition, whether that Proposition be true or false; not the means by
+which to discriminate true from false Propositions. The proper subject,
+however, of Logic is Proof. Before we could understand what Proof is, it
+was necessary to understand what that is to which proof is applicable;
+what that is which can be a subject of belief or disbelief, of affirmation
+or denial; what, in short, the different kinds of Propositions assert.
+
+This preliminary inquiry we have prosecuted to a definite result.
+Assertion, in the first place, relates either to the meaning of words, or
+to some property of the things which words signify. Assertions respecting
+the meaning of words, among which definitions are the most important, hold
+a place, and an indispensable one, in philosophy; but as the meaning of
+words is essentially arbitrary, this class of assertions are not
+susceptible of truth or falsity, nor therefore of proof or disproof.
+Assertions respecting Things, or what may be called Real Propositions in
+contradistinction to verbal ones, are of various sorts. We have analysed
+the import of each sort, and have ascertained the nature of the things
+they relate to, and the nature of what they severally assert respecting
+those things. We found that whatever be the form of the proposition, and
+whatever its nominal subject or predicate, the real subject of every
+proposition is some one or more facts or phenomena of consciousness, or
+some one or more of the hidden causes or powers to which we ascribe those
+facts; and that what is predicated or asserted, either in the affirmative
+or negative, of those phenomena or those powers, is always either
+Existence, Order in Place, Order in Time, Causation, or Resemblance. This,
+then, is the theory of the Import of Propositions, reduced to its ultimate
+elements: but there is another and a less abstruse expression for it,
+which, though stopping short in an earlier stage of the analysis, is
+sufficiently scientific for many of the purposes for which such a general
+expression is required. This expression recognises the commonly received
+distinction between Subject and Attribute, and gives the following as the
+analysis of the meaning of propositions:—Every Proposition asserts, that
+some given subject does or does not possess some attribute; or that some
+attribute is or is not (either in all or in some portion of the subjects
+in which it is met with) conjoined with some other attribute.
+
+We shall now for the present take our leave of this portion of our
+inquiry, and proceed to the peculiar problem of the Science of Logic,
+namely, how the assertions, of which we have analysed the import, are
+proved, or disproved: such of them, at least, as, not being amenable to
+direct consciousness or intuition, are appropriate subjects of proof.
+
+We say of a fact or statement, that it is proved, when we believe its
+truth by reason of some other fact or statement from which it is said to
+_follow_. Most of the propositions, whether affirmative or negative,
+universal, particular, or singular, which we believe, are not believed on
+their own evidence, but on the ground of something previously assented to,
+and from which they are said to be _inferred_. To infer a proposition from
+a previous proposition or propositions; to give credence to it, or claim
+credence for it, as a conclusion from something else; is to _reason_, in
+the most extensive sense of the term. There is a narrower sense, in which
+the name reasoning is confined to the form of inference which is termed
+ratiocination, and of which the syllogism is the general type. The reasons
+for not conforming to this restricted use of the term were stated in an
+early stage of our inquiry, and additional motives will be suggested by
+the considerations on which we are now about to enter.
+
+§ 2. In proceeding to take into consideration the cases in which
+inferences can legitimately be drawn, we shall first mention some cases in
+which the inference is apparent, not real; and which require notice
+chiefly that they may not be confounded with cases of inference properly
+so called. This occurs when the proposition ostensibly inferred from
+another, appears on analysis to be merely a repetition of the same, or
+part of the same, assertion, which was contained in the first. All the
+cases mentioned in books of Logic as examples of æquipollency or
+equivalence of propositions, are of this nature. Thus, if we were to
+argue, No man is incapable of reason, for every man is rational; or, All
+men are mortal, for no man is exempt from death; it would be plain that we
+were not proving the proposition, but only appealing to another mode of
+wording it, which may or may not be more readily comprehensible by the
+hearer, or better adapted to suggest the real proof, but which contains in
+itself no shadow of proof.
+
+Another case is where, from an universal proposition, we affect to infer
+another which differs from it only in being particular: as, All A is B,
+therefore Some A is B: No A is B, therefore Some A is not B. This, too, is
+not to conclude one proposition from another, but to repeat a second time
+something which had been asserted at first; with the difference, that we
+do not here repeat the whole of the previous assertion, but only an
+indefinite part of it.
+
+A third case is where, the antecedent having affirmed a predicate of a
+given subject, the consequent affirms of the same subject something
+already connoted by the former predicate: as, Socrates is a man, therefore
+Socrates is a living creature; where all that is connoted by living
+creature was affirmed of Socrates when he was asserted to be a man. If the
+propositions are negative, we must invert their order, thus: Socrates is
+not a living creature, therefore he is not a man; for if we deny the less,
+the greater, which includes it, is already denied by implication. These,
+therefore, are not really cases of inference; and yet the trivial examples
+by which, in manuals of Logic, the rules of the syllogism are illustrated,
+are often of this ill-chosen kind; demonstrations in form, of conclusions
+to which whoever understands the terms used in the statement of the data,
+has already, and consciously, assented.
+
+The most complex case of this sort of apparent inference is what is called
+the Conversion of Propositions; which consists in turning the predicate
+into a subject, and the subject into a predicate, and framing out of the
+same terms thus reversed, another proposition, which must be true if the
+former is true. Thus, from the particular affirmative proposition, Some A
+is B, we may infer that Some B is A. From the universal negative, No A is
+B, we may conclude that No B is A. From the universal affirmative
+proposition, All A is B, it cannot be inferred that All B is A; though all
+water is liquid, it is not implied that all liquid is water; but it is
+implied that some liquid is so; and hence the proposition, All A is B, is
+legitimately convertible into Some B is A. This process, which converts an
+universal proposition into a particular, is termed conversion _per
+accidens_. From the proposition, Some A is not B, we cannot even infer
+that some B is not A; though some men are not Englishmen, it does not
+follow that some Englishmen are not men. The only legitimate conversion,
+if such it can be called, of a particular negative proposition, is in the
+form, Some A is not B, therefore, something which is not B is A; and this
+is termed conversion by contraposition. In this case, however, the
+predicate and subject are not merely reversed, but one of them is altered.
+Instead of [A] and [B], the terms of the new proposition are [a thing
+which is not B], and [A]. The original proposition, Some A _is not_ B, is
+first changed into a proposition æquipollent with it, Some A _is_ “a thing
+which is not B”; and the proposition, being now no longer a particular
+negative, but a particular affirmative, admits of conversion in the first
+mode, or, as it is called, _simple_ conversion.
+
+In all these cases there is not really any inference; there is in the
+conclusion no new truth, nothing but what was already asserted in the
+premisses, and obvious to whoever apprehends them. The fact asserted in
+the conclusion is either the very same fact, or part of the fact, asserted
+in the original proposition. This follows from our previous analysis of
+the Import of Propositions. When we say, for example, that some lawful
+sovereigns are tyrants, what is the meaning of the assertion? That the
+attributes connoted by the term “lawful sovereign,” and the attributes
+connoted by the term “tyrant,” sometimes coexist in the same individual.
+Now this is also precisely what we mean, when we say that some tyrants are
+lawful sovereigns; which, therefore, is not a second proposition inferred
+from the first, any more than the English translation of Euclid’s Elements
+is a collection of theorems different from, and consequences of, those
+contained in the Greek original. Again, if we assert that no great general
+is a rash man, we mean that the attributes connoted by “great general,”
+and those connoted by “rash,” never coexist in the same subject; which is
+also the exact meaning which would be expressed by saying, that no rash
+man is a great general. When we say, that all quadrupeds are warm-blooded,
+we assert, not only that the attributes connoted by “quadruped” and those
+connoted by “warm-blooded” sometimes coexist, but that the former never
+exist without the latter: now the proposition, Some warm-blooded creatures
+are quadrupeds, expresses the first half of this meaning, dropping the
+latter half; and, therefore, has been already affirmed in the antecedent
+proposition, All quadrupeds are warm-blooded. But that _all_ warm-blooded
+creatures are quadrupeds, or, in other words, that the attributes connoted
+by “warm-blooded” never exist without those connoted by “quadruped,” has
+not been asserted, and cannot be inferred. In order to reassert, in an
+inverted form, the whole of what was affirmed in the proposition, All
+quadrupeds are warm-blooded, we must convert it by contraposition, thus,
+Nothing which is not warm-blooded is a quadruped. This proposition, and
+the one from which it is derived, are exactly equivalent, and either of
+them may be substituted for the other; for, to say that when the
+attributes of a quadruped are present, those of a warm-blooded creature
+are present, is to say that when the latter are absent the former are
+absent.
+
+In a manual for young students, it would be proper to dwell at greater
+length on the conversion and æquipollency of propositions. For, although
+that cannot be called reasoning or inference which is a mere reassertion
+in different words of what had been asserted before, there is no more
+important intellectual habit, nor any the cultivation of which falls more
+strictly within the province of the art of logic, than that of discerning
+rapidly and surely the identity of an assertion when disguised under
+diversity of language. That important chapter in logical treatises which
+relates to the Opposition of Propositions, and the excellent technical
+language which logic provides for distinguishing the different kinds or
+modes of opposition, are of use chiefly for this purpose. Such
+considerations as these, that contrary propositions may both be false, but
+cannot both be true; that sub-contrary propositions may both be true, but
+cannot both be false; that of two contradictory propositions one must be
+true and the other false; that of two subalternate propositions the truth
+of the universal proves the truth of the particular, and the falsity of
+the particular proves the falsity of the universal, but not _vice
+versâ_(28); are apt to appear, at first sight, very technical and
+mysterious, but when explained, seem almost too obvious to require so
+formal a statement, since the same amount of explanation which is
+necessary to make the principles intelligible, would enable the truths
+which they convey to be apprehended in any particular case which can
+occur. In this respect, however, these axioms of logic are on a level with
+those of mathematics. That things which are equal to the same thing are
+equal to one another, is as obvious in any particular case as it is in the
+general statement: and if no such general maxim had ever been laid down,
+the demonstrations in Euclid would never have halted for any difficulty in
+stepping across the gap which this axiom at present serves to bridge over.
+Yet no one has ever censured writers on geometry, for placing a list of
+these elementary generalizations at the head of their treatises, as a
+first exercise to the learner of the faculty which will be required in him
+at every step, that of apprehending a _general_ truth. And the student of
+logic, in the discussion even of such truths as we have cited above,
+acquires habits of circumspect interpretation of words, and of exactly
+measuring the length and breadth of his assertions, which are among the
+most indispensable conditions of any considerable mental attainment, and
+which it is one of the primary objects of logical discipline to cultivate.
+
+§ 3. Having noticed, in order to exclude from the province of Reasoning or
+Inference properly so called, the cases in which the progression from one
+truth to another is only apparent, the logical consequent being a mere
+repetition of the logical antecedent; we now pass to those which are cases
+of inference in the proper acceptation of the term, those in which we set
+out from known truths, to arrive at others really distinct from them.
+
+Reasoning, in the extended sense in which I use the term, and in which it
+is synonymous with Inference, is popularly said to be of two kinds:
+reasoning from particulars to generals, and reasoning from generals to
+particulars; the former being called Induction, the latter Ratiocination
+or Syllogism. It will presently be shown that there is a third species of
+reasoning, which falls under neither of these descriptions, and which,
+nevertheless, is not only valid, but is the foundation of both the others.
+
+It is necessary to observe, that the expressions, reasoning from
+particulars to generals, and reasoning from generals to particulars, are
+recommended by brevity rather than by precision, and do not adequately
+mark, without the aid of a commentary, the distinction between Induction
+(in the sense now adverted to) and Ratiocination. The meaning intended by
+these expressions is, that Induction is inferring a proposition from
+propositions _less general_ than itself, and Ratiocination is inferring a
+proposition from propositions _equally_ or _more_ general. When, from the
+observation of a number of individual instances, we ascend to a general
+proposition, or when, by combining a number of general propositions, we
+conclude from them another proposition still more general, the process,
+which is substantially the same in both instances, is called Induction.
+When from a general proposition, not alone (for from a single proposition
+nothing can be concluded which is not involved in the terms,) but by
+combining it with other propositions, we infer a proposition of the same
+degree of generality with itself, or a less general proposition, or a
+proposition merely individual, the process is Ratiocination. When, in
+short, the conclusion is more general than the largest of the premisses,
+the argument is commonly called Induction; when less general, or equally
+general, it is Ratiocination.
+
+As all experience begins with individual cases, and proceeds from them to
+generals, it might seem most conformable to the natural order of thought
+that Induction should be treated of before we touch upon Ratiocination. It
+will, however, be advantageous, in a science which aims at tracing our
+acquired knowledge to its sources, that the inquirer should commence with
+the latter rather than with the earlier stages of the process of
+constructing our knowledge; and should trace derivative truths backward to
+the truths from which they are deduced, and on which they depend for their
+evidence, before attempting to point out the original spring from which
+both ultimately take their rise. The advantages of this order of
+proceeding in the present instance will manifest themselves as we advance,
+in a manner superseding the necessity of any further justification or
+explanation.
+
+Of Induction, therefore, we shall say no more at present, than that it at
+least is, without doubt, a process of real inference. The conclusion in an
+induction embraces more than is contained in the premisses. The principle
+or law collected from particular instances, the general proposition in
+which we embody the result of our experience, covers a much larger extent
+of ground than the individual experiments which are said to form its
+basis. A principle ascertained by experience, is more than a mere summing
+up of what has been specifically observed in the individual cases which
+have been examined; it is a generalization grounded on those cases, and
+expressive of our belief, that what we there found true is true in an
+indefinite number of cases which we have not examined, and are never
+likely to examine. The nature and grounds of this inference, and the
+conditions necessary to make it legitimate, will be the subject of
+discussion in the Third Book: but that such inference really takes place
+is not susceptible of question. In every induction we proceed from truths
+which we knew, to truths which we did not know; from facts certified by
+observation, to facts which we have not observed, and even to facts not
+capable of being now observed; future facts, for example; but which we do
+not hesitate to believe on the sole evidence of the induction itself.
+
+Induction, then, is a real process of Reasoning or Inference. Whether, and
+in what sense, so much can be said of the Syllogism, remains to be
+determined by the examination into which we are about to enter.
+
+
+
+

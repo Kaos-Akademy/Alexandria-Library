@@ -1,0 +1,592 @@
+CHAPTER II.
+
+ANCIENT OR SYNTHETIC GEOMETRY.
+
+
+The geometrical method of the ancients necessarily constituting a
+preliminary department in the dogmatical system of geometry, designed to
+furnish _general_ geometry with indispensable foundations, it is now
+proper to begin with determining wherein strictly consists this
+preliminary function of _special_ geometry, thus reduced to the
+narrowest possible limits.
+
+
+
+
+ITS PROPER EXTENT.
+
+
+_Lines; Polygons; Polyhedrons._ In considering it under this point of
+view, it is easy to recognize that we might restrict it to the study of
+the right line alone for what concerns the geometry of _lines_; to the
+_quadrature_ of rectilinear plane areas; and, lastly, to the _cubature_
+of bodies terminated by plane faces. The elementary propositions
+relating to these three fundamental questions form, in fact, the
+necessary starting point of all geometrical inquiries; they alone cannot
+be obtained except by a direct study of the subject; while, on the
+contrary, the complete theory of all other figures, even that of the
+circle, and of the surfaces and volumes which are connected with it, may
+at the present day be completely comprehended in the domain of _general_
+or _analytical_ geometry; these primitive elements at once furnishing
+_equations_ which are sufficient to allow of the application of the
+calculus to geometrical questions, which would not have been possible
+without this previous condition.
+
+It results from this consideration that, in common practice, we give to
+_elementary_ geometry more extent than would be rigorously necessary to
+it; since, besides the right line, polygons, and polyhedrons, we also
+include in it the circle and the "round" bodies; the study of which
+might, however, be as purely analytical as that, for example, of the
+conic sections. An unreflecting veneration for antiquity contributes to
+maintain this defect in method; but the best reason which can be given
+for it is the serious inconvenience for ordinary instruction which there
+would be in postponing, to so distant an epoch of mathematical
+education, the solution of several essential questions, which are
+susceptible of a direct and continual application to a great number of
+important uses. In fact, to proceed in the most rational manner, we
+should employ the integral calculus in obtaining the interesting results
+relating to the length or the area of the circle, or to the quadrature
+of the sphere, &c., which have been determined by the ancients from
+extremely simple considerations. This inconvenience would be of little
+importance with regard to the persons destined to study the whole of
+mathematical science, and the advantage of proceeding in a perfectly
+logical order would have a much greater comparative value. But the
+contrary case being the more frequent, theories so essential have
+necessarily been retained in elementary geometry. Perhaps the conic
+sections, the cycloid, &c., might be advantageously added in such cases.
+
+
+_Not to be farther restricted._ While this preliminary portion of
+geometry, which cannot be founded on the application of the calculus,
+is reduced by its nature to a very limited series of fundamental
+researches, relating to the right line, polygonal areas, and
+polyhedrons, it is certain, on the other hand, that we cannot restrict
+it any more; although, by a veritable abuse of the spirit of analysis,
+it has been recently attempted to present the establishment of the
+principal theorems of elementary geometry under an algebraical point of
+view. Thus some have pretended to demonstrate, by simple abstract
+considerations of mathematical analysis, the constant relation which
+exists between the three angles of a rectilinear triangle, the
+fundamental proposition of the theory of similar triangles, that of
+parallelopipedons, &c.; in a word, precisely the only geometrical
+propositions which cannot be obtained except by a direct study of the
+subject, without the calculus being susceptible of having any part in
+it. Such aberrations are the unreflecting exaggerations of that natural
+and philosophical tendency which leads us to extend farther and farther
+the influence of analysis in mathematical studies. In mechanics, the
+pretended analytical demonstrations of the parallelogram of forces are
+of similar character.
+
+The viciousness of such a manner of proceeding follows from the
+principles previously presented. We have already, in fact, recognized
+that, since the calculus is not, and cannot be, any thing but a means of
+deduction, it would indicate a radically false idea of it to wish to
+employ it in establishing the elementary foundations of any science
+whatever; for on what would the analytical reasonings in such an
+operation repose? A labour of this nature, very far from really
+perfecting the philosophical character of a science, would constitute a
+return towards the metaphysical age, in presenting real facts as mere
+logical abstractions.
+
+When we examine in themselves these pretended analytical demonstrations
+of the fundamental propositions of elementary geometry, we easily verify
+their necessary want of meaning. They are all founded on a vicious
+manner of conceiving the principle of _homogeneity_, the true general
+idea of which was explained in the second chapter of the preceding book.
+These demonstrations suppose that this principle does not allow us to
+admit the coexistence in the same equation of numbers obtained by
+different concrete comparisons, which is evidently false, and contrary
+to the constant practice of geometers. Thus it is easy to recognize
+that, by employing the law of homogeneity in this arbitrary and
+illegitimate acceptation, we could succeed in "demonstrating," with
+quite as much apparent rigour, propositions whose absurdity is manifest
+at the first glance. In examining attentively, for example, the
+procedure by the aid of which it has been attempted to prove
+analytically that the sum of the three angles of any rectilinear
+triangle is constantly equal to two right angles, we see that it is
+founded on this preliminary principle that, if two triangles have two of
+their angles respectively equal, the third angle of the one will
+necessarily be equal to the third angle of the other. This first point
+being granted, the proposed relation is immediately deduced from it in a
+very exact and simple manner. Now the analytical consideration by which
+this previous proposition has been attempted to be established, is of
+such a nature that, if it could be correct, we could rigorously deduce
+from it, in reproducing it conversely, this palpable absurdity, that two
+sides of a triangle are sufficient, without any angle, for the entire
+determination of the third side. We may make analogous remarks on all
+the demonstrations of this sort, the sophisms of which will be thus
+verified in a perfectly apparent manner.
+
+The more reason that we have here to consider geometry as being at the
+present day essentially analytical, the more necessary was it to guard
+against this abusive exaggeration of mathematical analysis, according to
+which all geometrical observation would be dispensed with, in
+establishing upon pure algebraical abstractions the very foundations of
+this natural science.
+
+
+_Attempted Demonstrations of Axioms, &c._ Another indication that
+geometers have too much overlooked the character of a natural science
+which is necessarily inherent in geometry, appears from their vain
+attempts, so long made, to _demonstrate_ rigorously, not by the aid of
+the calculus, but by means of certain constructions, several fundamental
+propositions of elementary geometry. Whatever may be effected, it will
+evidently be impossible to avoid sometimes recurring to simple and
+direct observation in geometry as a means of establishing various
+results. While, in this science, the phenomena which are considered are,
+by virtue of their extreme simplicity, much more closely connected with
+one another than those relating to any other physical science, some must
+still be found which cannot be deduced, and which, on the contrary,
+serve as starting points. It may be admitted that the greatest logical
+perfection of the science is to reduce these to the smallest number
+possible, but it would be absurd to pretend to make them completely
+disappear. I avow, moreover, that I find fewer real inconveniences in
+extending, a little beyond what would be strictly necessary, the number
+of these geometrical notions thus established by direct observation,
+provided they are sufficiently simple, than in making them the subjects
+of complicated and indirect demonstrations, even when these
+demonstrations may be logically irreproachable.
+
+The true dogmatic destination of the geometry of the ancients, reduced
+to its least possible indispensable developments, having thus been
+characterized as exactly as possible, it is proper to consider summarily
+each of the principal parts of which it must be composed. I think that I
+may here limit myself to considering the first and the most extensive of
+these parts, that which has for its object the study of _the right
+line_; the two other sections, namely, the _quadrature of polygons_ and
+the _cubature of polyhedrons_, from their limited extent, not being
+capable of giving rise to any philosophical consideration of any
+importance, distinct from those indicated in the preceding chapter with
+respect to the measure of areas and of volumes in general.
+
+
+
+
+GEOMETRY OF THE RIGHT LINE.
+
+
+The final question which we always have in view in the study of the
+right line, properly consists in determining, by means of one another,
+the different elements of any right-lined figure whatever; which enables
+us always to know indirectly the length and position of a right line, in
+whatever circumstances it may be placed. This fundamental problem is
+susceptible of two general solutions, the nature of which is quite
+distinct, the one _graphical_, the other _algebraic_. The first, though
+very imperfect, is that which must be first considered, because it is
+spontaneously derived from the direct study of the subject; the second,
+much more perfect in the most important respects, cannot be studied till
+afterwards, because it is founded upon the previous knowledge of the
+other.
+
+
+
+
+GRAPHICAL SOLUTIONS.
+
+
+The graphical solution consists in constructing at will the proposed
+figure, either with the same dimensions, or, more usually, with
+dimensions changed in any ratio whatever. The first mode need merely be
+mentioned as being the most simple and the one which would first occur
+to the mind, for it is evidently, by its nature, almost entirely
+incapable of application. The second is, on the contrary, susceptible of
+being most extensively and most usefully applied. We still make an
+important and continual use of it at the present day, not only to
+represent with exactness the forms of bodies and their relative
+positions, but even for the actual determination of geometrical
+magnitudes, when we do not need great precision. The ancients, in
+consequence of the imperfection of their geometrical knowledge, employed
+this procedure in a much more extensive manner, since it was for a long
+time the only one which they could apply, even in the most important
+precise determinations. It was thus, for example, that Aristarchus of
+Samos estimated the relative distance from the sun and from the moon to
+the earth, by making measurements on a triangle constructed as exactly
+as possible, so as to be similar to the right-angled triangle formed by
+the three bodies at the instant when the moon is in quadrature, and when
+an observation of the angle at the earth would consequently be
+sufficient to define the triangle. Archimedes himself, although he was
+the first to introduce calculated determinations into geometry, several
+times employed similar means. The formation of trigonometry did not
+cause this method to be entirely abandoned, although it greatly
+diminished its use; the Greeks and the Arabians continued to employ it
+for a great number of researches, in which we now regard the use of the
+calculus as indispensable.
+
+This exact reproduction of any figure whatever on a different scale
+cannot present any great theoretical difficulty when all the parts of
+the proposed figure lie in the same plane. But if we suppose, as most
+frequently happens, that they are situated in different planes, we see,
+then, a new order of geometrical considerations arise. The artificial
+figure, which is constantly plane, not being capable, in that case, of
+being a perfectly faithful image of the real figure, it is necessary
+previously to fix with precision the mode of representation, which gives
+rise to different systems of _Projection_.
+
+It then remains to be determined according to what laws the geometrical
+phenomena correspond in the two figures. This consideration generates a
+new series of geometrical investigations, the final object of which is
+properly to discover how we can replace constructions in relief by plane
+constructions. The ancients had to resolve several elementary questions
+of this kind for various cases in which we now employ spherical
+trigonometry, principally for different problems relating to the
+celestial sphere. Such was the object of their _analemmas_, and of the
+other plane figures which for a long time supplied the place of the
+calculus. We see by this that the ancients really knew the elements of
+what we now name _Descriptive Geometry_, although they did not conceive
+it in a distinct and general manner.
+
+I think it proper briefly to indicate in this place the true
+philosophical character of this "Descriptive Geometry;" although, being
+essentially a science of application, it ought not to be included within
+the proper domain of this work.
+
+
+
+
+DESCRIPTIVE GEOMETRY.
+
+
+All questions of geometry of three dimensions necessarily give rise,
+when we consider their graphical solution, to a common difficulty which
+is peculiar to them; that of substituting for the different
+constructions in relief, which are necessary to resolve them directly,
+and which it is almost always impossible to execute, simple equivalent
+plane constructions, by means of which we finally obtain the same
+results. Without this indispensable transformation, every solution of
+this kind would be evidently incomplete and really inapplicable in
+practice, although theoretically the constructions in space are usually
+preferable as being more direct. It was in order to furnish general
+means for always effecting such a transformation that _Descriptive
+Geometry_ was created, and formed into a distinct and homogeneous
+system, by the illustrious MONGE. He invented, in the first place, a
+uniform method of representing bodies by figures traced on a single
+plane, by the aid of _projections_ on two different planes, usually
+perpendicular to each other, and one of which is supposed to turn about
+their common intersection so as to coincide with the other produced; in
+this system, or in any other equivalent to it, it is sufficient to
+regard points and lines as being determined by their projections, and
+surfaces by the projections of their generating lines. This being
+established, Monge--analyzing with profound sagacity the various partial
+labours of this kind which had before been executed by a number of
+incongruous procedures, and considering also, in a general and direct
+manner, in what any questions of that nature must consist--found that
+they could always be reduced to a very small number of invariable
+abstract problems, capable of being resolved separately, once for all,
+by uniform operations, relating essentially some to the contacts and
+others to the intersections of surfaces. Simple and entirely general
+methods for the graphical solution of these two orders of problems
+having been formed, all the geometrical questions which may arise in any
+of the various arts of construction--stone-cutting, carpentry,
+perspective, dialling, fortification, &c.--can henceforth be treated as
+simple particular cases of a single theory, the invariable application
+of which will always necessarily lead to an exact solution, which may be
+facilitated in practice by profiting by the peculiar circumstances of
+each case.
+
+       *       *       *       *       *
+
+This important creation deserves in a remarkable degree to fix the
+attention of those philosophers who consider all that the human species
+has yet effected as a first step, and thus far the only really complete
+one, towards that general renovation of human labours, which must
+imprint upon all our arts a character of precision and of rationality,
+so necessary to their future progress. Such a revolution must, in fact,
+inevitably commence with that class of industrial labours, which is
+essentially connected with that science which is the most simple, the
+most perfect, and the most ancient. It cannot fail to extend hereafter,
+though with less facility, to all other practical operations. Indeed
+Monge himself, who conceived the true philosophy of the arts better than
+any one else, endeavoured to sketch out a corresponding system for the
+mechanical arts.
+
+Essential as the conception of descriptive geometry really is, it is
+very important not to deceive ourselves with respect to its true
+destination, as did those who, in the excitement of its first discovery,
+saw in it a means of enlarging the general and abstract domain of
+rational geometry. The result has in no way answered to these mistaken
+hopes. And, indeed, is it not evident that descriptive geometry has no
+special value except as a science of application, and as forming the
+true special theory of the geometrical arts? Considered in its abstract
+relations, it could not introduce any truly distinct order of
+geometrical speculations. We must not forget that, in order that a
+geometrical question should fall within the peculiar domain of
+descriptive geometry, it must necessarily have been previously resolved
+by speculative geometry, the solutions of which then, as we have seen,
+always need to be prepared for practice in such a way as to supply the
+place of constructions in relief by plane constructions; a substitution
+which really constitutes the only characteristic function of descriptive
+geometry.
+
+It is proper, however, to remark here, that, with regard to intellectual
+education, the study of descriptive geometry possesses an important
+philosophical peculiarity, quite independent of its high industrial
+utility. This is the advantage which it so pre-eminently offers--in
+habituating the mind to consider very complicated geometrical
+combinations in space, and to follow with precision their continual
+correspondence with the figures which are actually traced--of thus
+exercising to the utmost, in the most certain and precise manner, that
+important faculty of the human mind which is properly called
+"imagination," and which consists, in its elementary and positive
+acceptation, in representing to ourselves, clearly and easily, a vast
+and variable collection of ideal objects, as if they were really before
+us.
+
+Finally, to complete the indication of the general nature of descriptive
+geometry by determining its logical character, we have to observe that,
+while it belongs to the geometry of the ancients by the character of its
+solutions, on the other hand it approaches the geometry of the moderns
+by the nature of the questions which compose it. These questions are in
+fact eminently remarkable for that generality which, as we saw in the
+preceding chapter, constitutes the true fundamental character of modern
+geometry; for the methods used are always conceived as applicable to any
+figures whatever, the peculiarity of each having only a purely secondary
+influence. The solutions of descriptive geometry are then graphical,
+like most of those of the ancients, and at the same time general, like
+those of the moderns.
+
+       *       *       *       *       *
+
+After this important digression, we will pursue the philosophical
+examination of _special_ geometry, always considered as reduced to its
+least possible development, as an indispensable introduction to
+_general_ geometry. We have now sufficiently considered the _graphical_
+solution of the fundamental problem relating to the right line--that
+is, the determination of the different elements of any right-lined
+figure by means of one another--and have now to examine in a special
+manner the _algebraic_ solution.
+
+
+
+
+ALGEBRAIC SOLUTIONS.
+
+
+This kind of solution, the evident superiority of which need not here be
+dwelt upon, belongs necessarily, by the very nature of the question, to
+the system of the ancient geometry, although the logical method which is
+employed causes it to be generally, but very improperly, separated from
+it. We have thus an opportunity of verifying, in a very important
+respect, what was established generally in the preceding chapter, that
+it is not by the employment of the calculus that the modern geometry is
+essentially to be distinguished from the ancient. The ancients are in
+fact the true inventors of the present trigonometry, spherical as well
+as rectilinear; it being only much less perfect in their hands, on
+account of the extreme inferiority of their algebraical knowledge. It
+is, then, really in this chapter, and not, as it might at first be
+thought, in those which we shall afterwards devote to the philosophical
+examination of _general_ geometry, that it is proper to consider the
+character of this important preliminary theory, which is usually, though
+improperly, included in what is called _analytical geometry_, but which
+is really only a complement of _elementary geometry_ properly so called.
+
+Since all right-lined figures can be decomposed into triangles, it is
+evidently sufficient to know how to determine the different elements of
+a triangle by means of one another, which reduces _polygonometry_ to
+simple _trigonometry_.
+
+
+
+
+TRIGONOMETRY.
+
+
+The difficulty in resolving algebraically such a question as the above,
+consists essentially in forming, between the angles and the sides of a
+triangle, three distinct equations; which, when once obtained, will
+evidently reduce all trigonometrical problems to mere questions of
+analysis.
+
+
+_How to introduce Angles._ In considering the establishment of these
+equations in the most general manner, we immediately meet with a
+fundamental distinction with respect to the manner of introducing the
+angles into the calculation, according as they are made to enter
+_directly_, by themselves or by the circular arcs which are proportional
+to them; or _indirectly_, by the chords of these arcs, which are hence
+called their _trigonometrical lines_. Of these two systems of
+trigonometry the second was of necessity the only one originally
+adopted, as being the only practicable one, since the condition of
+geometry made it easy enough to find exact relations between the sides
+of the triangles and the trigonometrical lines which represent the
+angles, while it would have been absolutely impossible at that epoch to
+establish equations between the sides and the angles themselves.
+
+
+_Advantages of introducing Trigonometrical Lines._ At the present day,
+since the solution can be obtained by either system indifferently, that
+motive for preference no longer exists; but geometers have none the less
+persisted in following from choice the system primitively admitted from
+necessity; for, the same reason which enabled these trigonometrical
+equations to be obtained with much more facility, must, in like manner,
+as it is still more easy to conceive _à priori_, render these equations
+much more simple, since they then exist only between right lines,
+instead of being established between right lines and arcs of circles.
+Such a consideration has so much the more importance, as the question
+relates to formulas which are eminently elementary, and destined to be
+continually employed in all parts of mathematical science, as well as in
+all its various applications.
+
+It may be objected, however, that when an angle is given, it is, in
+reality, always given by itself, and not by its trigonometrical lines;
+and that when it is unknown, it is its angular value which is properly
+to be determined, and not that of any of its trigonometrical lines. It
+seems, according to this, that such lines are only useless
+intermediaries between the sides and the angles, which have to be
+finally eliminated, and the introduction of which does not appear
+capable of simplifying the proposed research. It is indeed important to
+explain, with more generality and precision than is customary, the great
+real utility of this manner of proceeding.
+
+
+_Division of Trigonometry into two Parts._ It consists in the fact that
+the introduction of these auxiliary magnitudes divides the entire
+question of trigonometry into two others essentially distinct, one of
+which has for its object to pass from the angles to their
+trigonometrical lines, or the converse, and the other of which proposes
+to determine the sides of the triangles by the trigonometrical lines of
+their angles, or the converse. Now the first of these two fundamental
+questions is evidently susceptible, by its nature, of being entirely
+treated and reduced to numerical tables once for all, in considering all
+possible angles, since it depends only upon those angles, and not at all
+upon the particular triangles in which they may enter in each case;
+while the solution of the second question must necessarily be renewed,
+at least in its arithmetical relations, for each new triangle which it
+is necessary to resolve. This is the reason why the first portion of the
+complete work, which would be precisely the most laborious, is no longer
+taken into the account, being always done in advance; while, if such a
+decomposition had not been performed, we would evidently have found
+ourselves under the obligation of recommencing the entire calculation in
+each particular case. Such is the essential property of the present
+trigonometrical system, which in fact would really present no actual
+advantage, if it was necessary to calculate continually the
+trigonometrical line of each angle to be considered, or the converse;
+the intermediate agency introduced would then be more troublesome than
+convenient.
+
+In order to clearly comprehend the true nature of this conception, it
+will be useful to compare it with a still more important one, designed
+to produce an analogous effect either in its algebraic, or, still more,
+in its arithmetical relations--the admirable theory of _logarithms_. In
+examining in a philosophical manner the influence of this theory, we see
+in fact that its general result is to decompose all imaginable
+arithmetical operations into two distinct parts. The first and most
+complicated of these is capable of being executed in advance once for
+all (since it depends only upon the numbers to be considered, and not at
+all upon the infinitely different combinations into which they can
+enter), and consists in considering all numbers as assignable powers of
+a constant number. The second part of the calculation, which must of
+necessity be recommenced for each new formula which is to have its
+value determined, is thenceforth reduced to executing upon these
+exponents correlative operations which are infinitely more simple. I
+confine myself here to merely indicating this resemblance, which any one
+can carry out for himself.
+
+We must besides observe, as a property (secondary at the present day,
+but all-important at its origin) of the trigonometrical system adopted,
+the very remarkable circumstance that the determination of angles by
+their trigonometrical lines, or the converse, admits of an arithmetical
+solution (the only one which is directly indispensable for the special
+destination of trigonometry) without the previous resolution of the
+corresponding algebraic question. It is doubtless to such a peculiarity
+that the ancients owed the possibility of knowing trigonometry. The
+investigation conceived in this way was so much the more easy, inasmuch
+as tables of chords (which the ancients naturally took as the
+trigonometrical lines) had been previously constructed for quite a
+different object, in the course of the labours of Archimedes on the
+rectification of the circle, from which resulted the actual
+determination of a certain series of chords; so that when Hipparchus
+subsequently invented trigonometry, he could confine himself to
+completing that operation by suitable intercalations; which shows
+clearly the connexion of ideas in that matter.
+
+
+_The Increase of such Trigonometrical Lines._ To complete this
+philosophical sketch of trigonometry, it is proper now to observe that
+the extension of the same considerations which lead us to replace angles
+or arcs of circles by straight lines, with the view of simplifying our
+equations, must also lead us to employ concurrently several
+trigonometrical lines, instead of confining ourselves to one only (as
+did the ancients), so as to perfect this system by choosing that one
+which will be algebraically the most convenient on each occasion. In
+this point of view, it is clear that the number of these lines is in
+itself no ways limited; provided that they are determined by the arc,
+and that they determine it, whatever may be the law according to which
+they are derived from it, they are suitable to be substituted for it in
+the equations. The Arabians, and subsequently the moderns, in confining
+themselves to the most simple constructions, have carried to four or
+five the number of _direct_ trigonometrical lines, which might be
+extended much farther.
+
+But instead of recurring to geometrical formations, which would finally
+become very complicated, we conceive with the utmost facility as many
+new trigonometrical lines as the analytical transformations may require,
+by means of a remarkable artifice, which is not usually apprehended in a
+sufficiently general manner. It consists in not directly multiplying the
+trigonometrical lines appropriate to each arc considered, but in
+introducing new ones, by considering this arc as indirectly determined
+by all lines relating to an arc which is a very simple function of the
+first. It is thus, for example, that, in order to calculate an angle
+with more facility, we will determine, instead of its sine, the sine of
+its half, or of its double, &c. Such a creation of _indirect_
+trigonometrical lines is evidently much more fruitful than all the
+direct geometrical methods for obtaining new ones. We may accordingly
+say that the number of trigonometrical lines actually employed at the
+present day by geometers is in reality unlimited, since at every
+instant, so to say, the transformations of analysis may lead us to
+augment it by the method which I have just indicated. Special names,
+however, have been given to those only of these _indirect_ lines which
+refer to the complement of the primitive arc, the others not occurring
+sufficiently often to render such denominations necessary; a
+circumstance which has caused a common misconception of the true extent
+of the system of trigonometry.
+
+
+_Study of their Mutual Relations._ This multiplicity of trigonometrical
+lines evidently gives rise to a third fundamental question in
+trigonometry, the study of the relations which exist between these
+different lines; since, without such a knowledge, we could not make use,
+for our analytical necessities, of this variety of auxiliary magnitudes,
+which, however, have no other destination. It is clear, besides, from
+the consideration just indicated, that this essential part of
+trigonometry, although simply preparatory, is, by its nature,
+susceptible of an indefinite extension when we view it in its entire
+generality, while the two others are circumscribed within rigorously
+defined limits.
+
+It is needless to add that these three principal parts of trigonometry
+have to be studied in precisely the inverse order from that in which we
+have seen them necessarily derived from the general nature of the
+subject; for the third is evidently independent of the two others, and
+the second, of that which was first presented--the resolution of
+triangles, properly so called--which must for that reason be treated in
+the last place; which rendered so much the more important the
+consideration of their natural succession and logical relations to one
+another.
+
+It is useless to consider here separately _spherical trigonometry_,
+which cannot give rise to any special philosophical consideration;
+since, essential as it is by the importance and the multiplicity of its
+uses, it can be treated at the present day only as a simple application
+of rectilinear trigonometry, which furnishes directly its fundamental
+equations, by substituting for the spherical triangle the corresponding
+trihedral angle.
+
+This summary exposition of the philosophy of trigonometry has been here
+given in order to render apparent, by an important example, that
+rigorous dependence and those successive ramifications which are
+presented by what are apparently the most simple questions of elementary
+geometry.
+
+       *       *       *       *       *
+
+Having thus examined the peculiar character of _special_ geometry
+reduced to its only dogmatic destination, that of furnishing to general
+geometry an indispensable preliminary basis, we have now to give all our
+attention to the true science of geometry, considered as a whole, in the
+most rational manner. For that purpose, it is necessary to carefully
+examine the great original idea of Descartes, upon which it is entirely
+founded. This will be the object of the following chapter.
+
+
+
+

@@ -1,0 +1,123 @@
+II
+
+THE PROGRESS OF SELF-CONSCIOUS THEORY
+
+A characteristic of Greek social life is responsible both for the next
+phase of the development of mathematical thought and for the
+misapprehension of its nature by so many moderns. "When Archytas and
+Menaechmus employed mechanical instruments for solving certain
+geometrical problems, 'Plato,' says Plutarch, 'inveighed against them
+with great indignation and persistence as destroying and perverting all
+the good that there is in geometry; for the method absconds from
+incorporeal and intellectual or sensible things, and besides employs
+again such bodies as require much vulgar handicraft: in this way
+mechanics was dissimilated and expelled from geometry, and being for a
+long time looked down upon by philosophy, became one of the arts of
+war.' In fact, manual labor was looked down upon by the Greeks, and a
+sharp distinction was drawn between the slaves who performed bodily work
+and really observed nature, and the leisured upper classes who
+speculated, and often only knew nature by hearsay. This explains much of
+the naive dreamy and hazy character of ancient natural science. Only
+seldom did the impulse to make experiments for oneself break through;
+but when it did, a great progress resulted, as was the case of Archytas
+and Archimedes. Archimedes, like Plato, held that it was undesirable for
+a philosopher to seek to apply the results of science to any practical
+use; but, whatever might have been his view of what ought to be in the
+case, he did actually introduce a large number of new inventions"
+(Jourdain, _The Nature of Mathematics_, pp. 18-19). Following the Greek
+lead, certain empirically minded modern thinkers construe geometry
+wholly from an intellectual point of view. History is read by them as
+establishing indubitably the proposition that mathematics is a matter of
+purely intellectual operations. But by so construing it, they have, in
+geometry, remembered solely the measuring and forgotten the land, and,
+in arithmetic, remembered the counting and forgotten the things
+counted.
+
+Arithmetic experienced little immediate gain from its new association
+with geometry, which was destined to be of momentous import in its
+latter history, beyond the discovery of irrationals (which, however,
+were for centuries not accepted as numbers), and the establishment of
+the problem of root-taking by its association with the square, and
+interest in negative numbers.
+
+The Greeks had only subtracted smaller numbers from larger, but the
+Arabs began to generalize the process and had some acquaintance with
+negative results, but it was difficult for them to see that these
+results might really have significance. N. Chuquet, in the fifteenth
+century, seems to have been the first to interpret the negative numbers,
+but he remained a long time without imitators. Michael Stifel, in the
+sixteenth century, still calls them "Numeri absurdi" as over against the
+"Numeri veri." However, their geometrical interpretation was not
+difficult, and they soon won their way into good standing. But the case
+of the imaginary is more striking. The need for it was first felt when
+it was seen that negative numbers have no square roots. Chuquet had
+dealt with second-degree equations involving the roots of negative
+numbers in 1484, but says these numbers are "impossible," and Descartes
+(_Geom._, 1637) first uses the word "imaginary" to denote them. Their
+introduction is due to the Italian algebrists of the sixteenth century.
+They knew that the real roots of certain algebraic equations of the
+third degree are represented as results of operations effected upon
+"impossible" numbers of the form _a_ + _b_ sqrt{-1} (where _a_ and _b_ are
+real numbers) without it being possible in general to find an algebraic
+expression for the roots containing only real numbers. Cardan calculated
+with these "impossibles," using them to get real results
+[(5 + sqrt{-15}) (5 - sqrt{-15}) = 25 - (-15) = 40], but adds that it is a
+"quantitas quae vere est sophistica" and that the calculus itself "adeo
+est subtilis ut est inutilis." In 1629, Girard announced the theorem
+that every complete algebraic equation admits of as many roots, real or
+imaginary, as there are units in its degree, but Gauss first proved this
+in 1799, and finally, in his _Theory of Complex Quantity_, in 1831.
+
+Geometry, however, among the Greeks passed into a stage of abstraction
+in which lines, planes, etc., in the sense in which they are understood
+in our elementary texts, took the place of actually measured surfaces,
+and also took on the deductive form of presentation that has served as a
+model for all mathematical presentation since Euclid. Mensuration
+smacked too much of the exchange, and before the time of Archimedes is
+practically wholly absent. Even such theorems as "that the area of a
+triangle equals half the product of its base and its altitude" is
+foreign to Euclid (cf. Cajori, p. 39). Lines were merely directions, and
+points limitations from which one worked. But there was still dependence
+upon the things that one measures. Euclid's elements, "when examined in
+the light of strict mathematical logic, ... has been pronounced by C. S.
+Peirce to be 'Riddled with fallacies'" (Cajori, p. 37). Not logic, but
+observation of the figures drawn, that is, concrete symbolization of
+the processes indicated, saves Euclid from error.
+
+Roman practical geometry seems to have come from the Etruscans, but the
+Roman here is as little inventive as in his arithmetical ventures,
+although the latter were stimulated somewhat by problems of inheritance
+and interest reckoning. Indeed, before the entrance of Arabic learning
+into Europe and the translation of Euclid from the Arabic in 1120, there
+is little or no advance over the Egyptian geometry of 600 B. C. Even the
+universities neglected mathematics. At Paris "in 1336 a rule was
+introduced that no student should take a degree without attending
+lectures on mathematics, and from a commentary on the first six books of
+Euclid, dated 1536, it appears that candidates for the degree of A. M.
+had to give an oath that they had attended lectures on these books.
+Examinations, when held at all, probably did not extend beyond the first
+book, as is shown by the nickname 'magister matheseos' applied to the
+_Theorem of Pythagoras_, the last in the first book.... At Oxford, in
+the middle of the fifteenth century, the first two books of Euclid were
+read" (Cajori, _loc. cit._, p. 136). But later geometry dropped out and
+not till 1619 was a professorship of geometry instituted at Oxford.
+Roger Bacon speaks of Euclid's fifth proposition as "elefuga," and it
+also gets the name of "pons asinorum" from its point of transition to
+higher learning. As late as the fourteenth century an English manuscript
+begins "Nowe sues here a Tretis of Geometri whereby you may knowe the
+hegte, depnes, and the brede of most what erthely thynges."
+
+The first significant turning-point lies in the geometry of Descartes.
+Viete (1540-1603) and others had already applied algebra to geometry,
+but Descartes, by means of cooerdinate representation, established the
+idea of motion in geometry in a fashion destined to react most
+fruitfully on algebra, and through this, on arithmetic, as well as
+enormously to increase the scope of geometry. These discoveries are not,
+however, of first moment for our problem, for the ideas of mathematical
+entities remain throughout them the generalized processes that had
+appeared in Greece. It is worth noting, however, that in England
+mechanics has always been taught as an experimental science, while on
+the Continent it has been expanded deductively, as a development of _a
+priori_ principles.
+
+

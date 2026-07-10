@@ -1,0 +1,1102 @@
+﻿The Project Gutenberg eBook of The logic of modern physics, by Percy
+Williams Bridgman
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: The logic of modern physics
+
+Author: Percy Williams Bridgman
+
+Release Date: April 22, 2023 [eBook #70620]
+
+Language: English
+
+Produced by: Laura Natal Rodrigues (Images generously made available by
+             Hathi Trust Digital Library.)
+
+PHYSICS ***
+
+
+                        THE LOGIC OF
+                       MODERN PHYSICS
+
+
+
+
+                             BY
+
+                      P. W. BRIDGMAN
+
+       HOLLIS PROFESSOR OF MATHEMATICS AND NATURAL HISTORY
+                       IN HARVARD UNIVERSITY
+
+
+
+
+
+                          NEW YORK
+                   THE MACMILLAN COMPANY
+
+
+
+
+                       COPYRIGHT, 1927,
+                  By THE MACMILLAN COMPANY.
+
+
+
+
+PREFACE
+
+
+This excursion into the field of fundamental criticism by one whose
+activities have hitherto been confined almost entirely to experiment is
+not evidence of senile decay, as might be cynically assumed. I have
+always, throughout all my experimental work, felt an imperative need of
+a better understanding of the foundations of our physical thought and
+have for a long time made more or less unsystematic attempts to reach
+such an understanding. Only now, however, has a half sabbatical year
+given me leisure to attempt a more or less orderly exposition.
+
+In spite of previous writings on the broad fundamentals by Clifford,
+Stallo, Mach, and Poincaré, to mention only a few, I believe a new
+essay of this critical character needs no apology. For entirely apart
+from the question of whether many of the points of view of these essays
+can be maintained, the discovery of new facts in the domain of
+relativity and quantum theory has shifted the center of interest and
+emphasis. All the quite recent activity with the new quantum mechanics
+seems to call for a new examination of fundamental matters which shall
+recognize, at least by implication, the existence of the special
+phenomena of the quantum domain. However, the necessity for
+re-examination does not mean at all that many of the results of previous
+criticism may not still be accepted; some of these results have become
+so thoroughly incorporated into physical thinking that we can assume
+them without mention. Thus the fundamental attitude of this essay is
+empiricism, which is now justified as the attitude of the physicist in
+large part by the inquiry into the physiological origin of our concepts
+of space, time, and mechanics with which the previous essays were
+largely concerned.
+
+None of the previous essays have consciously or immediately affected the
+details of this; in fact I have not read any of them within several
+years. If passages here recall passages already written, it is because
+the ideas have been assimilated and the precise origin forgotten; it is
+probably worth while to let such passages stand without revision,
+because such ideas gain in plausibility through having been found
+acceptable to independent thought.
+
+I am much indebted to Professor R. F. Alfred Hoernlé of the Department
+of Philosophy of Johannesburg University, South Africa, for suggesting
+several modifications to make the text more acceptable to a philosopher,
+and slight amplifications for the benefit of readers not familiar with
+all the details of recent technical developments in physics.
+
+
+
+
+INTRODUCTION
+
+
+One of the most noteworthy movements in recent physics is a change of
+attitude toward what may be called the interpretative aspect of physics.
+It is being increasingly recognized, both in the writings and the
+conversation of physicists, that the world of experiment is not
+understandable without some examination of the purpose of physics and of
+the nature of its fundamental concepts. It is no new thing to attempt a
+more critical understanding of the nature of physics, but until recently
+all such attempts have been regarded with a certain suspicion or even
+sometimes contempt. The average physicist is likely to deprecate his own
+concern with such questions, and is inclined to dismiss the speculations
+of fellow physicists with the epithet "metaphysical." This attitude has
+no doubt had a certain justification in the utter unintelligibility to
+the physicist of many metaphysical speculations and the sterility of
+such speculations in yielding physical results. However, the growing
+reaction favoring a better understanding of the interpretative
+fundamentals of physics is not a pendulum swing of the fashion of
+thought toward metaphysics, originating in the upheaval of moral values
+produced by the great war, or anything of the sort, but is a reaction
+absolutely forced upon us by a rapidly increasing array of cold
+experimental facts.
+
+This reaction, or rather new movement, was without doubt initiated by
+the restricted theory of relativity of Einstein. Before Einstein, an
+ever increasing number of experimental facts concerning bodies in rapid
+motion required increasingly complicated modifications in our naïve
+notions in order to preserve self-consistency, until Einstein showed
+that everything could be restored again to a wonderful simplicity by a
+slight change in some of our fundamental concepts. The concepts which
+were most obviously touched by Einstein were those of space and time,
+and much of the writing consciously inspired by Einstein has been
+concerned with these concepts. But that experiment compels a critique of
+much more than the concepts of space and time is made increasingly
+evident by all the new facts being discovered in the quantum realm.
+
+The situation presented to us by these new quantum facts is twofold. In
+the first place, all these experiments are concerned with things so
+small as to be forever beyond the possibility of direct experience, so
+that we have the problem of translating the evidence of experiment into
+other language. Thus we observe an emission line in a spectroscope and
+may infer an electron jumping from one energy level to another in an
+atom. In the second place, we have the problem of understanding the
+translated experimental evidence. Now of course every one knows that
+this problem is making us the greatest difficulty. The experimental
+facts are so utterly different from those of our ordinary experience
+that not only do we apparently have to give up generalizations from past
+experience as broad as the field equations of electrodynamics, for
+instance, but it is even being questioned whether our ordinary forms of
+thought are applicable in the new domain; it is often suggested, for
+example, that the concepts of space and time break down.
+
+The situation is rapidly becoming acute. Since I began writing this
+essay, there has been a striking increase in critical activity inspired
+by the new quantum mechanics of 1925-26, and it is common to hear
+expositions of the new ideas prefaced by analysis of what experiment
+really gives to us or what our fundamental concepts really mean. The
+change in ideas is now so rapid that a number of the statements of this
+essay are already antiquated as expressions of the best current opinion;
+however I have allowed these statements to stand, since the fundamental
+arguments are in nowise affected and we have no reason to think that
+present best opinions are in any way final. We have the impression of
+being in an important formative period; if we are, the complexion of
+physics for a long time in the future will be determined by our present
+attitude toward fundamental questions of interpretation. To meet this
+situation it seems to me that something more is needed than the
+hand-to-mouth philosophy that is now growing up to meet special
+emergencies, something approaching more closely to a systematic
+philosophy of all physics which shall cover the experimental domains
+already consolidated as well as those which are now making us so much
+trouble. It is the attempt of this essay to give a more or less
+inclusive critique of all physics. Our problem is the double one of
+understanding what we are trying to do and what our ideals should be in
+physics, and of understanding the nature of the structure of physics as
+it now exists. These two ends are together furthered by an analysis of
+the fundamental concepts of physics; an understanding of the concepts we
+how have discloses the present structure of physics and a realization of
+what the concepts should be involves the ideals of physics. This essay
+will be largely concerned with the fundamental concepts; it will appear
+that almost all the concepts can profit from re-examination.
+
+The material of this essay is largely obtained by observation of the
+actual currents of opinion in physics; much of what I have to say is
+more or less common property and doubtless every reader will find
+passages that he will feel have been taken out of his own mouth. On
+certain broad tendencies in present day physics, however, I have put my
+own interpretation, and it is more than likely that this interpretation
+will be unacceptable to many. But even if not acceptable, I hope that
+the stimulus of combatting the ideas offered here may be of value.
+
+Certain limitations will have to be set to our inquiry in order to keep
+it within manageable compass. It is of course the merest truism that all
+our experimental knowledge and our understanding of nature is impossible
+and non-existent apart from our own mental processes, so that strictly
+speaking no aspect of psychology or epistemology is without pertinence.
+Fortunately we shall be able to get along with a more or less naive
+attitude toward many of these matters. We shall accept as significant
+our common sense judgment that there is a world external to us, and
+shall limit as far as possible our inquiry to the behavior and
+interpretation of this "external" world. We shall rule out inquiries
+into our states of consciousness as such. In spite, however, of the best
+intentions, we shall not be able to eliminate completely considerations
+savoring of the metaphysical, because it is evident that the nature of
+our thinking mechanism essentially colors any picture that we can form
+of nature, and we shall have to recognize that unavoidable
+characteristics of any outlook of ours are imposed in this way.
+
+
+
+
+CONTENTS
+
+Preface
+
+Introduction
+
+CHAPTER
+
+I. BROAD POINTS OF VIEW
+
+    New Kinds of Experience Always Possible
+    The Operational Character of Concepts
+      Einstein's Contribution in Changing Our Attitude
+          toward Concepts
+      Detailed Discussion of the Concept of Length
+      The Relative Character of Knowledge
+      Meaningless Questions
+    General Comments on the Operational Point of
+          View
+
+II. OTHER GENERAL CONSIDERATIONS
+    The Approximate Character of Empirical Knowledge
+    Explanations and Mechanisms
+    Models and Constructs
+    The Rôle of Mathematics in Physics
+
+III. DETAILED CONSIDERATION OF VARIOUS CONCEPTS
+        OF PHYSICS
+
+    The Concept of Space
+    The Concept of Time
+    The Causality Concept
+    The Concept of Identity
+    The Concept of Velocity
+    The Concepts of Force and Mass
+    The Concept of Energy
+    The Concepts of Thermodynamics
+    Electrical Concepts
+    The Nature of Light and the Concepts of Relativity
+    Other Relativity Concepts
+    Rotational Motion and Relativity
+    Quantum Concepts
+
+IV. SPECIAL VIEWS OF NATURE
+
+    The Simplicity of Nature
+    Determinism
+    On the Possibility of Describing Nature Completely
+          in Terms of Analysis
+    A Glimpse Ahead
+
+   INDEX
+
+
+
+
+THE LOGIC OF MODERN PHYSICS
+
+
+
+
+CHAPTER I
+
+BROAD POINTS OF VIEW
+
+
+WHATEVER may be one's opinion as to our permanent acceptance of the
+analytical details of Einstein's restricted and general theories of
+relativity, there can be no doubt that through these theories physics is
+permanently changed. It was a great shock to discover that classical
+concepts, accepted unquestioningly, were inadequate to meet the actual
+situation, and the shock of this discovery has resulted in a critical
+attitude toward our whole conceptual structure which must at least in
+part be permanent. Reflection on the situation after the event shows
+that it should not have needed the new experimental facts which led to
+relativity to convince us of the inadequacy of our previous concepts,
+but that a sufficiently shrewd analysis should have prepared us for at
+least the possibility of what Einstein did.
+
+Looking now to the future, our ideas of what external nature is will
+always be subject to change as we gain new experimental knowledge, but
+there is a part of our attitude to nature which should not be subject to
+future change, namely that part which rests on the permanent basis of
+the character of our minds. It is precisely here, in an improved
+understanding of our mental relations to nature, that the permanent
+contribution of relativity is to be found. We should now make it our
+business to understand so thoroughly the character of our permanent
+mental relations to nature that another change in our attitude, such as
+that due to Einstein, shall be forever impossible. It was perhaps
+excusable that a revolution in mental attitude should occur once,
+because after all physics is a young science, and physicists have been
+very busy, but it would certainly be a reproach if such a revolution
+should ever prove necessary again.
+
+
+
+
+NEW KINDS OF EXPERIENCE ALWAYS POSSIBLE
+
+
+The first lesson of our recent experience with relativity is merely an
+intensification and emphasis of the lesson which all past experience has
+also taught, namely, that when experiment is pushed into new domains, we
+must be prepared for new facts, of an entirely different character from
+those of our former experience. This is taught not only by the discovery
+of those unsuspected properties of matter moving with high velocities,
+which inspired the theory of relativity, but also even more emphatically
+by the new facts in the quantum domain. To a certain extent, of course,
+the recognition of all this does not involve a change of former
+attitude; the _fact_ has always been for the physicist the one ultimate
+thing from which there is no appeal, and in the face of which the only
+possible attitude is a humility almost religious. The new feature in the
+present situation is an intensified conviction that in reality new
+orders of experience do exist, and that we may expect to meet them
+continually. We have already encountered new phenomena in going to high
+velocities, and in going to small scales of magnitude: we may similarly
+expect to find them, for example, in dealing with relations of cosmic
+magnitudes, or in dealing with the properties of matter of enormous
+densities, such as is supposed to exist in the stars.
+
+Implied in this recognition of the possibility of new experience beyond
+our present range, is the recognition that no element of a physical
+situation, no matter how apparently irrelevant or trivial, may be
+dismissed as without effect on the final result until proved to be
+without effect by actual experiment.
+
+The attitude of the physicist must therefore be one of pure empiricism.
+He recognizes no _a priori_ principles which determine or limit the
+possibilities of new experience. Experience is determined only by
+experience. This practically means that we must give up the demand that
+all nature be embraced in any formula, either simple or complicated. It
+may perhaps turn out eventually that as a matter of fact nature can be
+embraced in a formula, but we must so organize our thinking as not to
+demand it as a necessity.
+
+
+
+
+THE OPERATIONAL CHARACTER OF CONCEPTS
+
+_Einstein's Contribution in Changing Our Attitude
+Toward Concepts_
+
+
+Recognizing the essential unpredictability of experiment beyond our
+present range, the physicist, if he is to escape continually revising
+his attitude, must use in describing and correlating nature concepts of
+such a character that our present experience does not exact hostages of
+the future. Now here it seems to me is the greatest contribution of
+Einstein. Although he himself does not explicitly state or emphasize it,
+I believe that a study of what he has done will show that he has
+essentially modified our view of what the concepts useful in physics are
+and should be. Hitherto many of the concepts of physics have been
+defined in terms of their properties. An excellent example is afforded
+by Newton's concept of absolute time. The following quotation from the
+Scholium in Book I of the _Principia_ is illuminating:
+
+
+I do not define Time, Space, Place or Motion, as being well known to
+all. Only I must observe that the vulgar conceive those quantities under
+no other notions but from the relation they bear to sensible objects.
+And thence arise certain prejudices, for the removing of which, it will
+be convenient to distinguish them into Absolute and Relative, True and
+Apparent, Mathematical and Common.
+
+(I) Absolute, True, and Mathematical Time, of itself, and from its own
+nature flows equably without regard to anything external, and by another
+name is called Duration.
+
+
+Now there is no assurance whatever that there exists in nature anything
+with properties like those assumed in the definition, and physics, when
+reduced to concepts of this character, becomes as purely an abstract
+science and as far removed from reality as the abstract geometry of the
+mathematicians, built on postulates. It is a task for experiment to
+discover whether concepts so defined correspond to anything in nature,
+and we must always be prepared to find that the concepts correspond to
+nothing or only partially correspond. In particular, if we examine the
+definition of absolute time in the light of experiment, we find nothing
+in nature with such properties.
+
+The new attitude toward a concept is entirely different. We may
+illustrate by considering the concept of length: what do we mean by the
+length of an object? We evidently know what we mean by length if we can
+tell what the length of any and every object is, and for the physicist
+nothing more is required. To find the length of an object, we have to
+perform certain physical operations. The concept of length is therefore
+fixed when the operations by which length is measured are fixed: that
+is, the concept of length involves as much as and nothing more than the
+set of operations by which length is determined. In general, we mean by
+any concept nothing more than a set of operations; _the concept is
+synonymous with the corresponding set of operations_. If the concept is
+physical, as of length, the operations are actual physical operations,
+namely, those by which length is measured; or if the concept is mental,
+as of mathematical continuity, the operations are mental operations,
+namely those by which we determine whether a given aggregate of
+magnitudes is continuous. It is not intended to imply that there is a
+hard and fast division between physical and mental concepts, or that one
+kind of concept does not always contain an element of the other; this
+classification of concept is not important for our future
+considerations.
+
+We must demand that the set of operations equivalent to any concept be a
+unique set, for otherwise there are possibilities of ambiguity in
+practical applications which we cannot admit.
+
+Applying this idea of "concept" to absolute time, we do not understand
+the meaning of absolute time unless we can tell how to determine the
+absolute time of any concrete event, _i.e._, unless we can measure
+absolute time. Now we merely have to examine any of the possible
+operations by which we measure time to see that all such operations are
+relative operations. Therefore the previous statement that absolute time
+does not exist is replaced by the statement that absolute time is
+meaningless. And in making this statement we are not saying something
+new about nature, but are merely bringing to light implications already
+contained in the physical operations used in measuring time.
+
+It is evident that if we adopt this point of view toward concepts,
+namely that the proper definition of a concept is not in terms of its
+properties but in terms of actual operations, we need run no danger of
+having to revise our attitude toward nature. For if experience is always
+described in terms of experience, there must always be correspondence
+between experience and our description of it, and we need never be
+embarrassed, as we were in attempting to find in nature the prototype of
+Newton's absolute time. Furthermore, if we remember that the operations
+to which a physical concept are equivalent are actual physical
+operations, the concepts can be defined only in the range of actual
+experiment, and are undefined and meaningless in regions as yet
+untouched by experiment. It follows that strictly speaking we cannot
+make statements at all about regions as yet untouched, and that when we
+do make such statements, as we inevitably shall, we are making a
+conventionalized extrapolation, of the looseness of which we must be
+fully conscious, and the justification of which is in the experiment of
+the future.
+
+There probably is no statement either in Einstein or other writers that
+the change described above in the use of "concept" has been
+self-consciously made, but that such is the case is proved, I believe,
+by an examination of the way concepts are now handled by Einstein and
+others. For of course the true meaning of a term is to be found by
+observing what a man does with it, not by what he says about it. We may
+show that this is the actual sense in which concept is coming to be used
+by examining in particular Einstein's treatment of simultaneity.
+
+Before Einstein, the concept of simultaneity was defined in terms of
+properties. It was a property of two events, when described with respect
+to their relation in time, that one event was either before the other,
+or after it, or simultaneous with it. Simultaneity was a property of the
+two events alone and nothing else; either two events were simultaneous
+or they were not. The justification for using this term in this way was
+that it seemed to describe the behavior of actual things. But of course
+experience then was restricted to a narrow range. When the range of
+experience was broadened, as by going to high velocities, it was found
+that the concepts no longer applied, because there was no counterpart in
+experience for this absolute relation between two events. Einstein now
+subjected the concept of simultaneity to a critique, which consisted
+essentially in showing that the operations which enable two events to be
+described as simultaneous involve measurements on the two events made by
+an observer, so that "simultaneity" is, therefore, not an absolute
+property of the two events and nothing else, but must also involve the
+relation of the events to the observer. Until therefore we have
+experimental proof to the contrary, we must be prepared to find that the
+simultaneity of two events depends on their relation to the observer,
+and in particular on their velocity. Einstein, in thus analyzing what is
+involved in making a judgment of simultaneity, and in seizing on the act
+of the observer as the essence of the situation, is actually adopting a
+new point of view as to what the concepts of physics should be, namely,
+the operational view.
+
+Of course Einstein actually went much further than this, and found
+precisely how the operations for judging simultaneity change when the
+observer moves, and obtained quantitative expressions for the effect of
+the motion of the observer on the relative time of two events. We may
+notice, parenthetically, that there is much freedom of choice in
+selecting the exact operations; those which Einstein chose were
+determined by convenience and simplicity with relation to light beams.
+Entirely apart from the precise quantitative relations of Einstein's
+theory, however, the important point for us is that if we had adopted
+the operational point of view, we would, before the discovery of the
+actual physical facts, have seen that simultaneity is essentially a
+relative concept, and would have left room in our thinking for the
+discovery of such effects as were later found.
+
+
+
+
+_Detailed Discussion of the Concept of Length_
+
+
+We may now gain further familiarity with the operational attitude toward
+a concept and some of its implications by examining from this point of
+view the concept of length. Our task is to find the operations by which
+we measure the length of any concrete physical object. We begin with
+objects of our commonest experience, such as a house or a house lot.
+What we do is sufficiently indicated by the following rough description.
+We start with a measuring rod, lay it on the object so that one of its
+ends coincides with one end of the object, mark on the object the
+position of the other end of the rod, then move the rod along in a
+straight line extension of its previous position until the first end
+coincides with the previous position of the second end, repeat this
+process as often as we can, and call the length the total number of
+times the rod was applied. This procedure, apparently so simple, is in
+practice exceedingly complicated, and doubtless a full description of
+all the precautions that must be taken would fill a large treatise. We
+must, for example, be sure that the temperature of the rod is the
+standard temperature at which its length is defined, or else we must
+make a correction for it; or we must correct for the gravitational
+distortion of the rod if we measure a vertical length; or we must be
+sure that the rod is not a magnet or is not subject to electrical
+forces. All these precautions would occur to every physicist. But we
+must also go further and specify all the details by which the rod is
+moved from one position to the next on the object--its precise path
+through space and its velocity and acceleration in getting from one
+position to another. Practically of course, precautions such as these
+are not mentioned, but the justification is in our experience that
+variations of procedure of this kind are without effect on the final
+result. But we always have to recognize that all our experience is
+subject to error, and that at some time in the future we may have to
+specify more carefully the acceleration, for example, of the rod in
+moving from one position to another, if experimental accuracy should be
+so increased as to show a measurable effect. In _principle_ the
+operations by which length is measured should be _uniquely_ specified.
+If we have more than one set of operations, we have more than one
+concept, and strictly there should be a separate name to correspond to
+each different set of operations.
+
+So much for the length of a stationary object, which is complicated
+enough. Now suppose we have to measure a moving street car. The
+simplest, and what we may call the "naïve" procedure, is to board the
+car with our meter stick and repeat the operations we would apply to a
+stationary body. Notice that this procedure reduces to that already
+adopted in the limiting case when the velocity of the street car
+vanishes. But here there may be new questions of detail. How shall we
+jump on to the car with our stick in hand? Shall we run and jump on from
+behind, or shall we let it pick us up from in front? Or perhaps does now
+the material of which the stick is composed make a difference, although
+previously it did not? All these questions must be answered by
+experiment. We believe from present evidence that it makes no difference
+how we jump on to the car, or of what material the rod is made, and that
+the length of the car found in this way will be the same as if it were
+at rest. But the experiments are more difficult, and we are not so sure
+of our conclusions as before. Now there are very obvious limitations to
+the procedure just given. If the street car is going too fast, we can
+not board it directly, but must use devices, such as getting on from a
+moving automobile; and, more important still, there are limitations to
+the velocity that can be given to street cars or to meter sticks by any
+practical means in our control, so that the moving bodies which can be
+measured in this way are restricted to a low range of velocity. If we
+want to be able to measure the length of bodies moving with higher
+velocities such as we find existing in nature (stars or cathode
+particles), we must adopt another definition and other operations for
+measuring length, which also reduce to the operations already adopted in
+the static case. This is precisely what Einstein did. Since Einstein's
+operations were different from our operations above, _his "length" does
+not mean the same as our "length."_ We must accordingly be prepared to
+find that the length of a moving body measured by the procedure of
+Einstein is not the same as that above; this of course is the fact, and
+the transformation formulas of relativity give the precise connection
+between the two lengths.
+
+Einstein's procedure for measuring the length of bodies in motion was
+dictated not only by the consideration that it must be applicable to
+bodies with high velocities, but also by mathematical convenience, in
+that Einstein describes the world mathematically by a system of
+coördinate geometry, and the "length" of an object is connected simply
+with quantities in the analytic equations.
+
+It is of interest to describe briefly Einstein's actual operations for
+measuring the length of a body in motion; it will show how operations
+which may be simple from a mathematical point of view may appear
+complicated from a physical viewpoint. The observer who is to measure
+the length of a moving object must first extend over his entire plane of
+reference (for simplicity the problem is considered two-dimensional) a
+system of time coordinates, _i.e._, at each point of his plane of
+reference there must be a clock, and all these clocks must be
+synchronized. At each clock an observer must be situated. Now to find
+the length of the moving object at a specified instant of time (it is a
+subject for later investigation to find whether its length is a function
+of time), the two observers who happen to coincide in position with the
+two ends of the object at the specified time on their clocks are
+required to find the distance between their two positions by the
+procedure for measuring the length of a stationary object, and this
+distance is by definition the length of the moving object in the given
+reference system. This procedure for measuring the length of a body in
+motion hence involves the idea of simultaneity, through the simultaneous
+position of the two ends of the rod, and we have seen that the
+operations by which simultaneity are determined are relative, changing
+when the motion of the system changes. We hence are prepared to find a
+change in the length of a body when the velocity of the measuring system
+changes, and this in fact is what happens. The precise numerical
+dependence is worked out by Einstein, and involves other considerations,
+in which we are not interested at present.
+
+The two sorts of length, the naive one and that of Einstein, have
+certain features in common. In either case in the limit, as the velocity
+of the measuring system approaches zero, the operations approach those
+for measuring the length of a stationary object. This, of course, is a
+requirement in any good definition, imposed by considerations of
+convenience, and it is too obvious a matter to need elaboration. Another
+feature is that the operations equivalent to either concept both involve
+the motion of the system, so that we must recognize the possibility that
+the length of a moving object may be a function of its velocity. It is a
+matter of experiment, unpredictable until tried, that within the limits
+of present experimental error the naive length is not affected by
+motion, and Einstein's length is.
+
+So far, we have extended the concept of length in only one way beyond
+the range of ordinary experience, namely to high velocities. The
+extension may obviously be made in other directions. Let us inquire what
+are the operations by which we measure the length of a very large
+object. In practice we probably first meet the desirability of a change
+of procedure in measuring large pieces of land. Here our procedure
+depends on measurements with a surveyor's theodolite. This involves
+extending over the surface of the land a system of coordinates, starting
+from a base line measured with a tape in the conventional way, sighting
+on distant points from the extremities of the line, and measuring the
+angles. Now in this extension we have made one very essential change:
+the angles between the lines connecting distant points are now angles
+between beams of light. We assume that a beam of light travels in a
+straight line. Furthermore, we assume in extending our system of
+triangulation over the surface of the earth that the geometry of light
+beams is Euclidean. We do the best we can to check the assumptions, but
+at most can never get more than a partial check.
+
+Thus Gauss[1] checked whether the angles of a large terrestrial triangle
+add to two right angles and found agreement within experimental error.
+We now know from the experiments of Michelson[2] that if his
+measurements had been accurate enough he would not have got a check, but
+would have had an excess or defect according to the direction in which
+the beam of light travelled around the triangle with respect to the
+rotation of the earth. But if the geometry of light beams is Euclidean,
+then not only must the angles of a triangle add to two right angles, but
+there are definite relations between the lengths of the sides and the
+angles, and to check these relations the sides should be measured by the
+old procedure with a meter stick. Such a check on a large scale has
+never been attempted, and is not feasible. It seems, then, that our
+checks on the Euclidean character of optical space are all of restricted
+character. We have apparently proved that up to a certain scale of
+magnitude optical space is Euclidean with respect to measures of angle,
+but this may not necessarily involve that space is also Euclidean with
+respect to measures of length, so that space need not be completely
+Euclidean. There is a further most important restriction in that our
+studies of non-Euclidean geometry have shown that the _percentage_
+excess of the angles of a non-Euclidean triangle over 180° may depend
+on the magnitude of the triangle, so that it may well be that we have
+not detected the non-Euclidean character of space simply because our
+measurements have not been on a large enough scale.
+
+[Footnote 1: C. F. Gauss, Gesammelte Werke, especially vol. IV.]
+
+[Footnote 2: See a discussion of the theory of this experiment by L.
+Silberstein, Jour. Opt. Soc. Amer. 5, 291-307. 1921.]
+
+We thus see that the concept of length has undergone a very essential
+change of character even within the range of terrestrial measurements,
+in that we have substituted for what I may call the tactual concept an
+optical concept, complicated by an assumption about the nature of our
+geometry. From a very direct concept we have come to a very indirect
+concept with a most complicated set of operations. Strictly speaking,
+length when measured in this way by light beams should be called by
+another name, since the operations are different. The practical
+justification for retaining the same name is that within our present
+experimental limits a numerical difference between the results of the
+two sorts of operations has not been detected.
+
+We are still worse off when we make the extension to solar and stellar
+distances. Here space is entirely optical in character, and we never
+have an opportunity of even partially comparing tactual with optical
+space. No direct measures of length have ever been made, nor can we even
+measure the three angles of a triangle and so check our assumption that
+the use of Euclidean geometry in extending the concept of space is
+justified. We never have under observation more than two angles of a
+triangle, as when we measure the distance of the moon by observation
+from the two ends of the earth's diameter. To extend to still greater
+distance our measures of length, we have to make still further
+assumptions, such as that inferences from the Newtonian laws of
+mechanics are valid. The accuracy of our inferences about lengths from
+such measurements is not high. Astronomy is usually regarded as a
+science of extraordinarily high accuracy, but its accuracy is very
+restricted in character, namely to the measurement of angles. It is
+probably safe to say that no astronomical distance, except perhaps that
+of the moon, is known with an accuracy greater than 0.1%. When we push
+our estimates to distances beyond the confines of the solar system in
+which we are assisted by the laws of mechanics, we are reduced in the
+first place to measurements of parallax, which at best have a quite
+inferior accuracy, and which furthermore fail entirely outside a rather
+restricted range. For greater stellar distances we are driven to other
+and much rougher estimates, resting for instance on the extension to
+great distances of connections found within the range of parallax
+between brightness and spectral type of a star, or on such assumptions
+as that, because a group of stars looks as if it were all together in
+space and had a common origin, it actually is so. Thus at greater and
+greater distances not only does experimental accuracy become less, but
+the very nature of the operations by which length is to be determined
+becomes indefinite, so that the distances of the most remote stellar
+objects as estimated by different observers or by different methods may
+be very divergent. A particular consequence of the inaccuracy of the
+astronomical measures of great distances is that the question of whether
+large scale space is Euclidean or not is merely academic.
+
+We thus see that in the extension from terrestrial to great stellar
+distances the concept of length has changed completely in character. To
+say that a certain star is 10^5 light years distant is actually and
+conceptually an entire different _kind_ of thing from saying that a
+certain goal post is 100 meters distant. Because of our conviction that
+the character of our experience may change when the range of phenomena
+changes, we feel the importance of such a question as whether the space
+of distances of 10^5 light years is Euclidean or not, and are
+correspondingly dissatisfied that at present there seems no way of
+giving meaning to it.
+
+We encounter difficulties similar to those above, and are also compelled
+to modify our procedures, when we go to small distances. Down to the
+scale of microscopic dimensions a fairly straightforward extension of
+the ordinary measuring procedure is sufficient, as when we measure a
+length in a micrometer eyepiece of a microscope. This is of course a
+combination of tactual and optical measurements, and certain
+assumptions, justified as far as possible by experience, have to be made
+about the behavior of light beams. These assumptions are of a quite
+different character from those which give us concern on the astronomical
+scale, because here we meet difficulty from interference effects due to
+the finite scale of the structure of light, and are not concerned with a
+possible curvature of light beams in the long reaches of space. Apart
+from the matter of convenience, we might also measure small distances by
+the tactual method.
+
+As the dimensions become smaller, certain difficulties become
+increasingly important that were negligible on a larger scale. In
+carrying out physically the operations equivalent to our concepts, there
+are a host of practical precautions to be taken which could be
+explicitly enumerated with difficulty, but of which nevertheless any
+practical physicist is conscious. Suppose, for example, we measure
+length tactually by a combination of Johanssen gauges. In piling these
+together, we must be sure that they are clean, and are thus in actual
+contact. Particles of mechanical dirt first engage our attention. Then
+as we go to smaller dimensions we perhaps have to pay attention to
+adsorbed films of moisture, then at still smaller dimensions to adsorbed
+films of gas, until finally we have to work in a vacuum, which must be
+the more nearly complete the smaller the dimensions. About the time that
+we discover the necessity for a complete vacuum, we discover that the
+gauges themselves are atomic in structure, that they have no definite
+boundaries, and therefore no definite length, but that the length is a
+hazy thing, varying rapidly in time between certain limits. We treat
+this situation as best we can by taking a time average of the apparent
+positions of the boundaries, assuming that along with the decrease of
+dimensions we have acquired a corresponding extravagant increase in
+nimbleness. But as the dimensions get smaller continually, the
+difficulties due to this haziness increase indefinitely in percentage
+effect, and we are eventually driven to give up altogether. We have made
+the discovery that there are _essential_ physical limitations to the
+operations which defined the concept of length. [We perhaps do not
+regard the substitution of optical for tactual space on the astronomical
+scale as compelled by the same sort of physical necessity, because I
+suppose the possible eventual landing of men in the moon will always be
+one of the dreams of humanity.] At the same time that we have come to
+the end of our rope with our Johanssen gauge procedure, our companion
+with the microscope has been encountering difficulties due to the finite
+wave length of light; this difficulty he has been able to minimize by
+using light of progressively shorter wave lengths, but he has eventually
+had to stop on reaching X-rays. Of course this optical procedure with
+the microscope is more convenient, and is therefore adopted in practice.
+
+Let us now see what is implied in our concept of length extended to
+ultramicroscopic dimensions. What, for instance, is the meaning of the
+statement that the distance between the planes of atoms in a certain
+crystal is 3 x 10^-8 cm.? What we would like to mean is that ⅓ x 10^8
+of these planes piled on top of each other give a thickness of 1 cm.;
+but of course such a meaning is not the actual one. The actual meaning
+may be found by examining the operations by which we arrived at the
+number 3 x 10^-8. As a matter of fact, 3 x 10^-8 was the number obtained
+by solving a general equation derived from the wave theory of light,
+into which certain numerical data obtained by experiments with X-rays
+had been substituted. Thus not only has the character of the concept of
+length changed from tactual to optical, but we have gone much further in
+committing ourselves to a definite optical theory. If this were the
+whole story, we would be most uncomfortable with respect to this branch
+of physics, because we are so uncertain of the correctness of our
+optical theories, but actually a number of checks can be applied which
+greatly restore our confidence. For instance, from the density of the
+crystal and the grating space, the weight of the individual atoms may be
+computed, and these weights may then be combined with measurements of
+the dimensions of other sorts of crystal into which the same atoms enter
+to give values of the densities of these crystals, which may be checked
+against experiment. All such checks have succeeded within limits of
+accuracy which are fairly high. It is important to notice that, in spite
+of the checks, the character of the concept is changing, and begins to
+involve such things as the equations of optics and the assumption of the
+conservation of mass.
+
+We are not content, however, to stop with dimensions of atomic order,
+but have to push on to the electron with a diameter of the order of
+10^-18 cm. What is the possible meaning of the statement that the
+diameter of an electron is 10^-18 cm.? Again the only answer is found by
+examining the operations by which the number 10^-18 was obtained. This
+number came by solving certain equations derived from the field
+equations of electrodynamics, into which certain numerical data obtained
+by experiment had been substituted. The concept of length has therefore
+now been so modified as to include that theory of electricity embodied
+in the field equations, and, most important, assumes the correctness of
+extending these equations from the dimensions in which they may be
+verified experimentally into a region in which their correctness is one
+of the most important and problematical of present-day questions in
+physics. To find whether the field equations are correct on a small
+scale, we must verify the relations demanded by the equations between
+the electric and magnetic forces and the space coordinates, to determine
+which involves measurement of lengths. But if these space coordinates
+cannot be given an independent meaning apart from the equations, not
+only is the attempted verification of the equations impossible, but the
+question itself is meaningless. If we stick to the concept of length by
+itself, we are landed in a vicious circle. As a matter of fact, the
+concept of length disappears as an independent thing, and fuses in a
+complicated way with other concepts, all of which are themselves altered
+thereby, with the result that the total number of concepts used in
+describing nature at this level is reduced in number. A precise analysis
+of the situation is difficult, and I suppose has never been attempted,
+but the general character of the situation is evident. Until at least a
+partial analysis is attempted, I do not see how any meaning can be
+attached to such questions as whether space is Euclidean in the small
+scale.
+
+It is interesting to observe that any increased accuracy in knowledge of
+large scale phenomena must, as far as we now can see, arise from an
+increase in the accuracy of measurement of small things, that is, in the
+measurement of small angles or the analysis of minute differences of
+wave lengths in the spectra. To know the very large takes us into the
+same field of experiment as to know the very small, so that
+operationally the large and the small have features in common.
+
+This somewhat detailed analysis of the concept of length brings out
+features common to all our concepts. If we deal with phenomena outside
+the domain in which we originally defined our concepts, we may find
+physical hindrances to performing the operations of the original
+definition, so that the original operations have to be replaced by
+others. These new operations are, of course, to be so chosen that they
+give, within experimental error, the same numerical results in the
+domain in which the two sets of operations may be both applied; but we
+must recognize in principle that in changing the operations we have
+really changed the concept, and that to use the same name for these
+different concepts over the entire range is dictated only by
+considerations of convenience, which may sometimes prove to have been
+purchased at too high a price in terms of unambiguity. We must always be
+prepared some day to find that an increase in experimental accuracy may
+show that the two different sets of operations which give the same
+results in the more ordinary part of the domain of experience, lead to
+measurably different results in the more unfamiliar parts of the domain.
+We must remain aware of these joints in our conceptual structure if we
+hope to render unnecessary the services of the unborn Einsteins.
+
+The second feature common to all concepts brought out by the detailed
+discussion of length is that, as we approach the experimentally
+attainable limit, concepts lose their individuality, fuse together, and
+become fewer in number, as we have seen that at dimensions of the order
+of the diameter of an electron the concepts of length and the electric
+field vectors fuse into an amorphous whole. Not only does nature as
+experienced by us become different in character on its horizons, but it
+becomes simpler, and therefore our concepts, which are the building
+stones of our descriptions, become fewer in number. This seems to be an
+entirely natural state of affairs. How the number of concepts is often
+kept formally the same as we approach the horizon will be discussed
+later in special cases.
+
+A precise analysis of our conceptual structure has never been attempted,
+except perhaps in very restricted domains, and it seems to me that there
+is room here for much important future work. Such an analysis is not to
+be attempted in this essay, but only some of the more important
+qualitative aspects are to be pointed out. It will never be possible to
+give a clean-cut logical analysis of the conceptual situation, for the
+nature of our concepts, according to our operational point of view, is
+the same as the nature of experimental knowledge, which is often hazy.
+Thus in the transition regions where nature is getting simpler and the
+number of operationally independent concepts changes, a certain haziness
+is inevitable, for the actual change in our conceptual structure in
+these transition regions is continuous, corresponding to the continuity
+of our experimental knowledge, whereas formally the number of concepts
+should be an integer.
+
+
+
+
+_The Relative Character of Knowledge_
+
+
+Two other consequences of the operational point of view must now be
+examined. First is the consequence that all our knowledge is relative.
+This may be understood in a general or a more particular sense. The
+general sense is illustrated in Haldane's book on the _Reign of
+Relativity_. Relativity in the general sense is the merest truism if the
+operational definition of concept is accepted, for experience is
+described in terms of concepts, and since our concepts are constructed
+of operations, all our knowledge must unescapably be relative to the
+operations selected. But knowledge is also relative in a narrower sense,
+as when we say there is no such thing as absolute rest (or motion) or
+absolute size, but rest and size are relative terms. Conclusions of this
+kind are involved in the specific character of the operations in terms
+of which rest or size are defined. An examination of the operations by
+which we determine whether a body is at rest or in motion shows that the
+operations are relative operations: rest or motion is determined with
+respect to some other body selected as the standard. In saying that
+there is no such thing as absolute rest or motion we are not making a
+statement about nature in the sense that might be supposed, but we are
+merely making a statement about the character of our descriptive
+processes. Similarly with regard to size: examination of the operations
+of the measuring process shows that size is measured relative to the
+fundamental measuring rod.
+
+The "absolute" therefore disappears in the original meaning of the word.
+But the "absolute" may usefully return with an altered meaning, and we
+may say that a thing has absolute properties if the numerical magnitude
+is the same when measured with the same formal procedure by all
+observers. Whether a given property is absolute or not can be determined
+only by experiment, landing us in the paradoxical position that the
+absolute is absolute only relative to experiment. In some cases, the
+most superficial observation shows that a property is not absolute, as,
+for example, it is at once obvious that measured velocity changes with
+the motion of the observer. But in other cases the decision is more
+difficult. Thus Michelson thought he had an absolute procedure for
+measuring length, by referring to the wave length of the red cadmium
+line as standard;[3] it required difficult and accurate experiment to
+show that this length varies with the motion of the observer. Even then,
+by changing the definition of the length of a moving object, we believe
+that length might be made to re-assume its desired absolute character.
+
+[Footnote 3: A. A. Michelson, Light Waves and Their Uses, University of
+Chicago Press, 1903, Chap. V.]
+
+To stop the discussion at this point might leave the impression that
+this observation of the relative character of knowledge is of only a
+very tenuous and academic interest, since it appears to be concerned
+mostly with the character of our descriptive processes, and to say
+little about external nature. [What this means we leave to the
+metaphysician to decide.] But I believe there is a deeper significance
+to all this. It must be remembered that all our argument starts with the
+concepts as given. Now these concepts involve physical operations; in
+the discovery of what operations may be usefully employed in describing
+nature is buried almost all physical experience. In erecting our
+structure of physical science, we are building on the work of all the
+ages. There is then this purely physical significance in the statement
+that all motion is relative, namely that no operations of measuring
+motion have been found to be useful in describing simply the behavior of
+nature which are not operations relative to a single observer; in making
+this statement we are stating something about nature. It takes an
+enormous amount of real physical experience to discover relations of
+this sort. The discovery that the number obtained by counting the number
+of times a stick may be applied to an object can be simply used in
+describing natural phenomena was one of the most important and
+fundamental discoveries ever made by man.
+
+
+
+
+_Meaningless Questions_
+
+
+Another consequence of the operational character of our concepts, almost
+a corollary of that considered above, is that it is quite possible, nay
+even disquietingly easy, to invent expressions or to ask questions that
+are meaningless. It constitutes a great advance in our critical attitude
+toward nature to realize that a great many of the questions that we
+uncritically ask are without meaning. If a specific question has
+meaning, it must be possible to find operations by which an answer may
+be given to it. It will be found in many cases that the operations
+cannot exist, and the question therefore has no meaning. For instance,
+it means nothing to ask whether a star is at rest or not. Another
+example is a question proposed by Clifford, namely, whether it is not
+possible that as the solar system moves from one part of space to
+another the absolute scale of magnitude may be changing, but in such a
+way as to affect all things equally, so that the change of scale can
+never be detected. An examination of the operations by which length is
+measured in terms of measuring rods shows that the operations do not
+exist (because of the nature of our definition of length) for answering
+the question. The question can be given meaning only from the point of
+view of some imaginary superior being watching from an external point of
+vantage. But the operations by which such a being measures length are
+different from the operations of our definition of length, so that the
+question acquires meaning only by changing the significance of our
+terms--in the original sense the question means nothing.
+
+To state that a certain question about nature is meaningless is to make
+a significant statement about nature itself, because the fundamental
+operations are determined by nature, and to state that nature cannot be
+described in terms of certain operations is a significant statement.
+
+It must be recognized, however, that there is a sense in which no
+serious question is entirely without meaning, because doubtless the
+questioner had in mind some intention in asking the question. But to
+give meaning in this sense to a question, one must inquire into the
+meaning of the concepts as used by the questioner, and it will often be
+found that these concepts can be defined only in terms of fictitious
+properties, as Newton's absolute time was defined by its properties, so
+that the meaning to be ascribed to the question in this way has no
+connection with reality. I believe that it will enable us to make more
+significant and interesting statements, and therefore will be more
+useful, to adopt exclusively the operational view, and so admit the
+possibility of questions entirely without meaning.
+
+This matter of meaningless questions is a very subtle thing which may
+poison much more of our thought than that dealing with purely physical
+phenomena. I believe that many of the questions asked about social and
+philosophical subjects will be found to be meaningless when examined
+from the point of view of operations. It would doubtless conduce greatly
+to clarity of thought if the operational mode of thinking were adopted
+in all fields of inquiry as well as in the physical. Just as in the
+physical domain, so in other domains, one is making a significant
+statement about his subject in stating that a certain question is
+meaningless.
+
+In order to emphasize this matter of meaningless questions, I give here
+a list of questions, with which the reader may amuse himself by finding
+whether they have meaning or not.
+
+(1) Was there ever a time when matter did not exist?
+
+(2) May time have a beginning or an end?
+
+(3) Why does time flow?
+
+(4) May space be bounded?
+
+(5) May space or time be discontinuous?
+
+(6) May space have a fourth dimension, not directly detectible, but
+given indirectly by inference?
+
+(7) Are there parts of nature forever beyond our detection?
+
+(8) Is the sensation which I call blue really the _same_ as that which
+my neighbor calls blue? Is it possible that a blue object may arouse in
+him the same sensation that a red object does in me and _vice versa_?
+
+(9) May there be missing integers in the series of natural numbers as we
+know them?
+
+(10) Is a universe possible in which 2 + 2 ≠ 4?
+
+(11) Why does negative electricity attract positive?
+
+(12) Why does nature obey laws?
+
+(13) Is a universe possible in which the laws are different?
+
+(14) If one part of our universe could be completely isolated from the
+rest, would it continue to obey the same laws?
+
+(15) Can we be sure that our logical processes are valid?
+
+
+
+
+GENERAL COMMENTS ON THE OPERATIONAL POINT
+OF VIEW
+
+
+To adopt the operational point of view involves much more than a mere
+restriction of the sense in which we understand "concept," but means a
+far-reaching change in all our habits of thought, in that we shall no
+longer permit ourselves to use as tools in our thinking concepts of
+which we cannot give an adequate account in terms of operations. In some
+respects thinking becomes simpler, because certain old generalizations
+and idealizations become incapable of use; for instance, many of the
+speculations of the early natural philosophers become simply unreadable.
+In other respects, however, thinking becomes much more difficult,
+because the operational implications of a concept are often very
+involved. For example, it is most difficult to grasp adequately all that
+is contained in the apparently simple concept of "time," and requires
+the continual correction of mental tendencies which we have long
+unquestioningly accepted.
+
+Operational thinking will at first prove to be an unsocial virtue; one
+will find oneself perpetually unable to understand the simplest
+conversation of one's friends, and will make oneself universally
+unpopular by demanding the meaning of apparently the simplest terms of
+every argument. Possibly after every one has schooled himself to this
+better way, there will remain a permanent unsocial tendency, because
+doubtless much of our present conversation will then become unnecessary.
+The socially optimistic may venture to hope, however, that the ultimate
+effect will be to release one's energies for more stimulating and
+interesting interchange of ideas.
+
+Not only will operational thinking reform the social art of
+conversation, but all our social relations will be liable to reform. Let
+any one examine in operational terms any popular present-day discussion
+of religious or moral questions to realize the magnitude of the
+reformation awaiting us. Wherever we temporize or compromise in applying
+our theories of conduct to practical life we may suspect a failure of
+operational thinking.
+
+
+
+

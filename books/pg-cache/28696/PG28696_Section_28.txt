@@ -1,0 +1,3728 @@
+CHAPTER III.
+
+_SOLUTIONS._
+
+
+§ 1.
+
+_Propositions of Relation reduced to normal form._
+
+
+_Solutions for § 1._                                               SL1
+
+1. The Univ. is "persons." The Individual "I" may be regarded as a
+Class, of persons, whose peculiar Attribute is "represented by the Name
+'I'", and may be called the Class of "I's". It is evident that this
+Class cannot possibly contain more than one Member: hence the Sign of
+Quantity is "all". The verb "have been" may be replaced by the phrase
+"are persons who have been". The Proposition may be written thus:--
+
+"All"                                       _Sign of Quantity_.
+"I's"                                       _Subject_.
+"are"                                       _Copula_.
+"persons who have been out for a walk"      _Predicate_.
+
+or, more briefly,
+
+    "All | I's | are | persons who have been out for a walk".
+
+2. The Univ. and the Subject are the same as in Ex. 1. The Proposition
+may be written
+
+    "All | I's | are | persons who feel better".
+
+3. Univ. is "persons". The Subject is evidently the Class of persons
+from which John is _excluded_; _i.e._ it is the Class containing all
+persons who are _not_ "John".
+
+The Sign of Quantity is "no".
+
+The verb "has read" may be replaced by the phrase "are persons who have
+read".
+
+The Proposition may be written
+
+    "No | persons who are not 'John' | are | persons who have read the
+    letter".
+
+4. Univ. is "persons". The Subject is evidently the Class of persons
+whose only two Members are "you and I".
+
+Hence the Sign of Quantity is "no".
+
+The Proposition may be written
+
+    "No | Members of the Class 'you and I' | are | old persons".
+                                                                   pg135
+5. Univ. is "creatures". The verb "run well" may be replaced by the
+phrase "are creatures that run well".
+
+The Proposition may be written
+
+    "No | fat creatures | are | creatures that run well".
+
+6. Univ. is "persons". The Subject is evidently the Class of persons who
+are _not_ brave.
+
+The verb "deserve" may be replaced by the phrase "are deserving of".
+
+The Proposition may be written
+
+    "No | not-brave persons | are | persons deserving of the fair".
+
+7. Univ. is "persons". The phrase "looks poetical" evidently belongs to
+the _Predicate_; and the _Subject_ is the Class, of persons, whose
+peculiar Attribute is "_not_-pale".
+
+The Proposition may be written
+
+    "No | not-pale persons | are | persons who look poetical".
+
+8. Univ. is "persons".
+
+The Proposition may be written
+
+    "Some | judges | are | persons who lose their tempers".
+
+9. Univ. is "persons". The phrase "never neglect" is merely a stronger
+form of the phrase "am a person who does not neglect".
+
+The Proposition may be written
+
+    "All | 'I's' | are | persons who do not neglect important business".
+
+10. Univ. is "things". The phrase "what is difficult" (_i.e._ "that
+which is difficult") is equivalent to the phrase "all difficult things".
+
+The Proposition may be written
+
+    "All | difficult things | are | things that need attention".
+
+11. Univ. is "things". The phrase "what is unwholesome" may be
+interpreted as in Ex. 10.
+
+The Proposition may be written
+
+    "All | unwholesome things | are | things that should be avoided".
+
+12. Univ. is "laws". The Predicate is evidently a Class whose peculiar
+Attribute is "relating to excise".
+
+The Proposition may be written
+
+    "All | laws passed last week | are | laws relating to excise".
+
+13. Univ. is "things". The Subject is evidently the Class, of studies,
+whose peculiar Attribute is "logical"; hence the Sign of Quantity is
+"all".
+
+The Proposition may be written
+
+    "All | logical studies | are | things that puzzle me".
+
+14. Univ. is "persons". The Subject is evidently "persons in the house".
+
+The Proposition may be written
+
+    "No | persons in the house | are | Jews".
+
+15. Univ. is "dishes". The phrase "if not well-cooked" is equivalent to
+the Attribute "not well-cooked".
+
+The Proposition may be written
+
+    "Some | not well-cooked dishes | are | unwholesome dishes".
+                                                                   pg136
+16. Univ. is "books". The phrase "make one drowsy" may be replaced by
+the phrase "are books that make one drowsy".
+
+The Sign of Quantity is evidently "all".
+
+The Proposition may be written
+
+    "All | unexciting books | are | books that make one drowsy".
+
+17. Univ. is "men". The Subject is evidently "a man who knows what he's
+about"; and the word "when" shows that the Proposition is asserted of
+_every_ such man, _i.e._ of _all_ such men. The verb "can" may be
+replaced by "are men who can".
+
+The Proposition may be written
+
+    "All | men who know what they're about | are | men who can detect a
+    sharper".
+
+18. The Univ. and the Subject are the same as in Ex. 4.
+
+The Proposition may be written
+
+    "All | Members of the Class 'you and I' | are | persons who know
+    what they're about".
+
+19. Univ. is "persons". The verb "wear" may be replaced by the phrase
+"are accustomed to wear".
+
+The Proposition may be written
+
+    "Some | bald persons | are | persons accustomed to wear wigs".
+
+20. Univ. is "persons". The phrase "never talk" is merely a stronger
+form of "are persons who do not talk".
+
+The Proposition may be written
+
+    "All | fully occupied persons | are | persons who do not talk about
+    their grievances".
+
+21. Univ. is "riddles". The phrase "if they can be solved" is equivalent
+to the Attribute "that can be solved".
+
+The Proposition may be written
+
+    "No | riddles that can be solved | are | riddles that interest me".
+
+
+§ 2.
+
+_Method of Diagrams._
+
+
+_Solutions for § 4, Nos. 1-12._                                    SL4-A
+
+                    ·---------------·  ·-------·
+ 1. No m are x';    |       |    (O)|  |   |   |
+    All m' are y.   |   ·---|---·   |  |---|---|
+                    |   |   |   |   |  |   |(O)|
+                    |(I)|---|---|---|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. No x' are y'.
+                    |       |    (O)|
+                    ·---------------·
+                                                                   pg137
+                    ·---------------·  ·-------·
+ 2. No m' are x;    |(O)    |    (O)|  |   |   |
+    Some m' are y'. |   ·---|---·   |  |---|---|
+                    |   |   |   |   |  |   |(I)|
+                    |---|---|---|---|  ·-------·
+                    |   |   |   |   |
+                    |   ·---|---·   |  .'. Some x are y'.
+                    |       |    (I)|
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+ 3. All m' are x;   |(O)    |    (I)|  |   |(I)|
+    All m' are y'.  |   ·---|---·   |  |---|---|
+                    |   |   |   |   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |   |   |   |
+                    |   ·---|---·   |  .'. Some x are y'.
+                    |(O)    |    (O)|
+                    ·---------------·
+
+                    ·---------------·
+ 4. No x' are m';   |       |    (O)|
+    All y' are m.   |   ·---|---·   |
+                    |   |   |   |   |
+                    |---|---|(I)|---|  There is no Conclusion.
+                    |   |   |   |   |
+                    |   ·---|---·   |
+                    |(O)    |    (O)|
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+ 5. Some m are x';  |       |       |  |   |   |
+    No y are m.     |   ·---|---·   |  |---|---|
+                    |   |(O)|   |   |  |   |(I)|
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|(I)|   |
+                    |   ·---|---·   |  .'. Some x' are y'.
+                    |       |       |
+                    ·---------------·
+
+                    ·---------------·
+ 6. No x' are m;    |       |       |
+    No m are y.     |   ·---|---·   |
+                    |   |(O)|   |   |
+                    |---|---|---|---|  There is no Conclusion.
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |
+                    |       |       |
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+ 7. No m are x';    |       |       |  |   |(I)|
+    Some y' are m.  |   ·---|---·   |  |---|---|
+                    |   |   |(I)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. Some x are y'.
+                    |       |       |
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+ 8. All m' are x';  |(O)    |    (O)|  |   |   |
+    No m' are y.    |   ·---|---·   |  |---|---|
+                    |   |   |   |   |  |   |(I)|
+                    |---|---|---|---|  ·-------·
+                    |   |   |   |   |
+                    |   ·---|---·   |  .'. Some x' are y'.
+                    |(O)    |    (I)|
+                    ·---------------·
+                                                                   pg138
+                    ·---------------·
+ 9. Some x' are m'; |       |       |
+    No m are y'.    |   ·---|---·   |
+                    |   |   |(O)|   |
+                    |---|---|---|---|  There is no Conclusion.
+                    |   |   |(O)|   |
+                    |   ·---|---·   |
+                    |      (I)      |
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+10. All x are m;    |(O)    |    (O)|  |(I)|(O)|
+    All y' are m'.  |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |(I)|
+                    |---|---|---|---|  ·-------·
+                    |   |   |(O)|   |
+                    |   ·---|---·   |  .'. All x are y;
+                    |       |    (I)|      All y' are x'.
+                    ·---------------·
+
+                    ·---------------·
+11. No m are x;     |       |       |
+    All y' are m'.  |   ·---|---·   |
+                    |   |(O)|(O)|   |
+                    |---|---|---|(I)|  There is no Conclusion.
+                    |   |   |(O)|   |
+                    |   ·---|---·   |
+                    |       |       |
+                    ·---------------·
+
+                    ·---------------·  ·-------·
+12. No x are m;     |(O)    |       |  |(O)|   |
+    All y are m.    |   ·---|---·   |  |---|---|
+                    |   |(O)|(O)|   |  |(I)|   |
+                    |---|---|---|---|  ·-------·
+                    |   |(I)|   |   |
+                    |   ·---|---·   |  .'. All y are x'.
+                    |(O)    |       |
+                    ·---------------·
+
+
+_Solutions for § 5, Nos. 1-12._                                    SL5-A
+
+ 1. I have been out for a walk;
+    I am feeling better.
+
+Univ. is "persons"; m = the Class of I's; x = persons who have been out
+for a walk; y = persons who are feeling better.
+
+                    ·---------------·  ·-------·
+    All m are x;    |       |       |  |(I)|   |
+    All m are y.    |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. Some x are y.
+                    |       |       |
+                    ·---------------·
+
+i.e. Somebody, who has been out for a walk, is feeling better.
+                                                                   pg139
+ 2. No one has read the letter but John;
+    No one, who has _not_ read it, knows what it is about.
+
+Univ. is "persons"; m = persons who have read the letter; x = the Class
+of Johns; y = persons who know what the letter is about.
+
+                    ·---------------·  ·-------·
+    No x' are m;    |(O)    |       |  |   |   |
+    No m' are y.    |   ·---|---·   |  |---|---|
+                    |   |   |   |   |  |(O)|   |
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. No x' are y.
+                    |(O)    |       |
+                    ·---------------·
+
+i.e. No one, but John, knows what the letter is about.
+
+ 3. Those who are not old like walking;
+    You and I are young.
+
+Univ. is "persons"; m = old; x = persons who like walking; y = you and
+I.
+
+                    ·---------------·  ·-------·
+    All m' are x;   |(I)    |       |  |(I)|   |
+    All y are m'.   |   ·---|---·   |  |---|---|
+                    |   |(O)|   |   |  |(O)|   |
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|   |   |
+                    |   ·---|---·   |  .'. All y are x.
+                    |(O)    |    (O)|
+                    ·---------------·
+
+i.e. You and I like walking.
+
+ 4. Your course is always honest;
+    Your course is always the best policy.
+
+Univ. is "courses"; m = your; x = honest; y = courses which are the best
+policy.
+
+                    ·---------------·  ·-------·
+    All m are x;    |       |       |  |(I)|   |
+    All m are y.    |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. Some x are y.
+                    |       |       |
+                    ·---------------·
+
+i.e. Honesty is sometimes the best policy.
+
+ 5. No fat creatures run well;
+    Some greyhounds run well.
+
+Univ. is "creatures"; m = creatures that run well; x = fat;
+y = greyhounds.
+
+                    ·---------------·  ·-------·
+    No x are m;     |       |       |  |   |   |
+    Some y are m.   |   ·---|---·   |  |---|---|
+                    |   |(O)|(O)|   |  |(I)|   |
+                    |---|---|---|---|  ·-------·
+                    |   |(I)|   |   |
+                    |   ·---|---·   |  .'. Some y are x'.
+                    |       |       |
+                    ·---------------·
+
+i.e. Some greyhounds are not fat.
+                                                                   pg140
+ 6. Some, who deserve the fair, get their deserts;
+    None but the brave deserve the fair.
+
+Univ. is "persons"; m = persons who deserve the fair; x = persons who
+get their deserts; y = brave.
+
+                    ·---------------·  ·-------·
+    Some m are x;   |       |       |  |(I)|   |
+    No y' are m.    |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |   |(O)|   |
+                    |   ·---|---·   |  .'. Some y are x.
+                    |       |       |
+                    ·---------------·
+
+i.e. Some brave persons get their deserts.
+
+ 7. Some Jews are rich;
+    All Esquimaux are Gentiles.
+
+Univ. is "persons"; m = Jews; x = rich; y = Esquimaux.
+
+                    ·---------------·  ·-------·
+    Some m are x;   |       |       |  |   |(I)|
+    All y are m'.   |   ·---|---·   |  |---|---|
+                    |   |(O)|(I)|   |  |   |   |
+                    |(I)|---|---|---|  ·-------·
+                    |   |(O)|   |   |
+                    |   ·---|---·   |  .'. Some x are y'.
+                    |       |       |
+                    ·---------------·
+
+i.e. Some rich persons are not Esquimaux.
+
+ 8. Sugar-plums are sweet;
+    Some sweet things are liked by children.
+
+Univ. is "things"; m = sweet; x = sugar-plums; y = things that are liked
+by children.
+
+                    ·---------------·
+    All x are m;    |(O)    |    (O)|
+    Some m are y.   |   ·---|---·   |
+                    |   |  (I)  |   |
+                    |---|(I)|---|---|
+                    |   |   |   |   |
+                    |   ·---|---·   |
+                    |       |       |
+                    ·---------------·
+
+There is no Conclusion.
+
+ 9. John is in the house;
+    Everybody in the house is ill.
+
+Univ. is "persons"; m = persons in the house; x = the Class of Johns;
+y = ill.
+
+                    ·---------------·  ·-------·
+    All x are m;    |(O)    |    (O)|  |(I)|(O)|
+    All m are y.    |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |   |(O)|   |
+                    |   ·---|---·   |  .'. All x are y.
+                    |       |       |
+                    ·---------------·
+
+i.e. John is ill.
+                                                                   pg141
+10. Umbrellas are useful on a journey;
+    What is useless on a journey should be left behind.
+
+Univ. is "things"; m = useful on a journey; x = umbrellas; y = things
+that should be left behind.
+
+                    ·---------------·  ·-------·
+    All x are m;    |(O)    |    (O)|  |   |   |
+    All m' are y.   |   ·---|---·   |  |---|---|
+                    |   |  (I)  |   |  |(I)|   |
+                    |---|---|---|---|  ·-------·
+                    |   |   |   |   |
+                    |   ·---|---·   |  .'. Some x' are y.
+                    |(I)    |    (O)|
+                    ·---------------·
+
+i.e. Some things, that are not umbrellas, should be left behind on a
+journey.
+
+11. Audible music causes vibration in the air;
+    Inaudible music is not worth paying for.
+
+Univ. is "music"; m = audible; x = music that causes vibration in the
+air; y = worth paying for.
+
+                    ·---------------·  ·-------·
+    All m are x;    |(O)    |       |  |   |   |
+    All m' are y'.  |   ·---|---·   |  |---|---|
+                    |   |  (I)  |   |  |(O)|   |
+                    |---|---|---|(I)|  ·-------·
+                    |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. No x' are y.
+                    |(O)    |       |
+                    ·---------------·
+
+i.e. No music is worth paying for, unless it causes vibration in the
+air.
+
+12. Some holidays are rainy;
+    Rainy days are tiresome.
+
+Univ. is "days"; m = rainy; x = holidays; y = tiresome.
+
+                    ·---------------·  ·-------·
+    Some x are m;   |       |       |  |(I)|   |
+    All m are y.    |   ·---|---·   |  |---|---|
+                    |   |(I)|(O)|   |  |   |   |
+                    |---|---|---|---|  ·-------·
+                    |   |   |(O)|   |
+                    |   ·---|---·   |  .'. Some x are y.
+                    |       |       |
+                    ·---------------·
+
+i.e. Some holidays are tiresome.
+
+
+_Solutions for § 6, Nos. 1-10._                                    SL6-A
+
+ 1.
+
+Some x are m; No m are y'. Some x are y.
+
+·---------------·  ·-------·
+|       |       |  |(I)|   |
+|   ·---|---·   |  |---|---|
+|   |(I)|(O)|   |  |   |   |
+|---|---|---|---|  ·-------·
+|   |   |(O)|   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|       |       |
+·---------------·
+                                                                   pg142
+ 2.
+
+All x are m; No y are m'. No y are x'.
+
+·---------------·
+|(O)    |    (O)|
+|   ·---|---·   |
+|   |  (I)  |   |
+|---|---|---|---|  There is no Conclusion.
+|   |   |   |   |
+|   ·---|---·   |
+|(O)    |       |
+·---------------·
+
+ 3.
+
+Some x are m'; All y' are m. Some x are y.
+
+·---------------·  ·-------·
+|(I)    |    (O)|  |(I)|   |
+|   ·---|---·   |  |---|---|
+|   |   |   |   |  |   |   |
+|---|---|(I)|---|  ·-------·
+|   |   |   |   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|       |    (O)|
+·---------------·
+
+ 4.
+
+All x are m; No y are m. All x are y'.
+
+·---------------·  ·-------·
+|(O)    |    (O)|  |(O)|(I)|
+|   ·---|---·   |  |---|---|
+|   |(O)|(I)|   |  |   |   |
+|---|---|---|---|  ·-------·
+|   |(O)|   |   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|       |       |
+·---------------·
+
+ 5.
+
+Some m' are x'; No m' are y. Some x' are y'.
+
+·---------------·  ·-------·
+|(O)    |       |  |   |   |
+|   ·---|---·   |  |---|---|
+|   |   |   |   |  |   |(I)|
+|---|---|---|---|  ·-------·
+|   |   |   |   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|(O)    |    (I)|
+·---------------·
+
+ 6.
+
+No x' are m; All y are m'. All y are x.
+
+·---------------·
+|       |       |
+|   ·---|---·   |
+|   |(O)|   |   |
+|(I)|---|---|---|  There is no Conclusion.
+|   |(O)|(O)|   |
+|   ·---|---·   |
+|       |       |
+·---------------·
+                                                                   pg143
+ 7.
+
+Some m' are x'; All y' are m'. Some x' are y'.
+
+·---------------·
+|       |       |
+|   ·---|---·   |
+|   |   |(O)|   |
+|---|---|---|(I)|  There is no Conclusion.
+|   |   |(O)|   |
+|   ·---|---·   |
+|      (I)      |
+·---------------·
+
+ 8.
+
+No m' are x'; All y' are m'. All y' are x.
+
+·---------------·  ·-------·
+|       |    (I)|  |   |(I)|
+|   ·---|---·   |  |---|---|
+|   |   |(O)|   |  |   |(O)|
+|---|---|---|---|  ·-------·
+|   |   |(O)|   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|(O)    |    (O)|
+·---------------·
+
+ 9.
+
+Some m are x'; No m are y. Some x' are y'.
+
+·---------------·  ·-------·
+|       |       |  |   |   |
+|   ·---|---·   |  |---|---|
+|   |(O)|   |   |  |   |(I)|
+|---|---|---|---|  ·-------·
+|   |(O)|(I)|   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|       |       |
+·---------------·
+
+10.
+
+All m' are x'; All m are y. Some y are x'.
+
+·---------------·  ·-------·
+|(O)    |    (O)|  |   |   |
+|   ·---|---·   |  |---|---|
+|   |   |   |   |  |(I)|   |
+|---|---|---|---|  ·-------·
+|   |   |   |   |
+|   ·---|---·   |  Hence proposed Conclusion is right.
+|(I)    |    (O)|
+·---------------·
+
+                                                                   pg144
+_Solutions for § 7, Nos. 1-6._                                     SL7-A
+
+1.
+
+No doctors are enthusiastic;
+You are enthusiastic.
+  You are not a doctor.
+
+Univ. "persons"; m = enthusiastic; x = doctors; y = you.
+
+                    ·---------------·  ·-------·
+                    |(O)    |       |  |(O)|   |
+                    |   ·---|---·   |  |---|---|
+    No x are m;     |   |(O)|(O)|   |  |(I)|   |
+    All y are m.    |---|---|---|---|  ·-------·
+      All y are x'. |   |(I)|   |   |
+                    |   ·---|---·   |  .'. All y are x'.
+                    |(O)    |       |
+                    ·---------------·
+
+Hence proposed Conclusion is right.
+
+2.
+
+All dictionaries are useful;
+Useful books are valuable.
+  Dictionaries are valuable.
+
+Univ. "books"; m = useful; x = dictionaries; y = valuable.
+
+                    ·---------------·  ·-------·
+                    |(O)    |    (O)|  |(I)|(O)|
+                    |   ·---|---·   |  |---|---|
+    All x are m;    |   |(I)|(O)|   |  |   |   |
+    All m are y.    |---|---|---|---|  ·-------·
+      All x are y.  |   |   |(O)|   |
+                    |   ·---|---·   |  .'. All x are y.
+                    |       |       |
+                    ·---------------·
+
+Hence proposed Conclusion is right.
+
+3.
+
+No misers are unselfish;
+None but misers save egg-shells.
+  No unselfish people save egg-shells.
+
+Univ. "people"; m = misers; x = selfish; y = people who save egg-shells.
+
+                    ·---------------·  ·-------·
+                    |(O)    |       |  |   |   |
+                    |   ·---|---·   |  |---|---|
+    No m are x';    |   |   |   |   |  |(O)|   |
+    No m' are y.    |---|---|---|---|  ·-------·
+      No x' are y.  |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. No x' are y.
+                    |(O)    |       |
+                    ·---------------·
+
+Hence proposed Conclusion is right.
+                                                                   pg145
+4.
+
+Some epicures are ungenerous;
+All my uncles are generous.
+  My uncles are not epicures.
+
+Univ. "persons"; m = generous; x = epicures; y = my uncles.
+
+                    ·---------------·  ·-------·
+                    |(O)    |    (I)|  |   |(I)|
+                    |   ·---|---·   |  |---|---|
+    Some x are m'.  |   |   |   |   |  |   |   |
+    All y are m.    |---|(I)|---|---|  ·-------·
+      All y are x'. |   |   |   |   |
+                    |   ·---|---·   |  .'. Some x are y'.
+                    |(O)    |       |
+                    ·---------------·
+
+Hence proposed Conclusion is wrong, the right one being "Some epicures
+are not uncles of mine."
+
+5.
+
+Gold is heavy;
+Nothing but gold will silence him.
+  Nothing light will silence him.
+
+Univ. "things"; m = gold; x = heavy; y = able to silence him.
+
+                    ·---------------·  ·-------·
+                    |(O)    |       |  |   |   |
+                    |   ·---|---·   |  |---|---|
+    All m are x;    |   |  (I)  |   |  |(O)|   |
+    No m' are y.    |---|---|---|---|  ·-------·
+      No x' are y.  |   |(O)|(O)|   |
+                    |   ·---|---·   |  .'. No x' are y.
+                    |(O)    |       |
+                    ·---------------·
+
+Hence proposed Conclusion is right.
+
+6.
+
+Some healthy people are fat;
+No unhealthy people are strong.
+  Some fat people are not strong.
+
+Univ. "persons"; m = healthy; x = fat; y = strong.
+
+                    ·---------------·
+                    |(O)    |       |
+                    |   ·---|---·   |
+    Some m are x;   |   |  (I)  |   |
+    No m' are y.    |---|---|---|---|  There is no Conclusion.
+      Some x are y'.|   |   |   |   |
+                    |   ·---|---·   |
+                    |(O)    |       |
+                    ·---------------·
+
+                                                                   pg146
+§ 3.
+
+_Method of Subscripts._
+
+
+_Solutions for § 4._                                               SL4-B
+
+ 1. mx'_{0} + m'_{1}y'_{0} ¶ x'y'_{0} [Fig. I.
+      i.e. "No x' are y'."
+
+ 2. m'x_{0} + m'y'_{1} ¶ x'y'_{1} [Fig. II.
+      i.e. "Some x' are y'."
+
+ 3. m'_{1}x'_{0} + m'_{1}y_{0} ¶ xy'_{1} [Fig. III.
+      i.e. "Some x are y'."
+
+ 4. x'm'_{0} + y'_{1}m'_{0} ¶ nothing.
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+
+ 5. mx'_{1} + ym_{0} ¶ x'y'_{1} [Fig. II.
+      i.e. "Some x' are y'."
+
+ 6. x'm_{0} + my_{0} ¶ nothing.
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+
+ 7. mx'_{0} + y'm_{1} ¶ xy'_{1} [Fig. II.
+      i.e. "Some x are y'."
+
+ 8. m'_{1}x_{0} + m'y_{0} ¶ x'y'_{1} [Fig. III.
+      i.e. "Some x' are y'."
+
+ 9. x'm'_{1} + my_{0} ¶ nothing.
+    [Fallacy of Unlike Eliminands
+      with an Entity-Premiss.]
+
+10. x_{1}m'_{0} + y'_{1}m_{0} ¶ x_{1}y'_{0} + y'_{1}x_{0} [Fig. I (b).
+      i.e. "All x are y, and all y' are x'."
+
+11. mx_{0} + y'_{1}m_{0} ¶ nothing.1
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+
+12. xm_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+      i.e. "All y are x'."
+
+13. m'_{1}x'_{0} + ym_{0} ¶ x'y_{0} [Fig. I.
+      i.e. "No x' are y."
+
+14. m_{1}x'_{0} + m'_{1}y'_{0} ¶ x'y'_{0} [Fig. I.
+      i.e. "No x' are y'."
+
+15. xm_{0} + m'y_{0} ¶ xy_{0} [Fig. I.
+      i.e. "No x are y."
+
+16. x_{1}m_{0} + y_{1}m'_{0} ¶ (x_{1}y_{0} + y_{1}x_{0}) [Fig. I (b).
+      i.e. "All x are y' and all y are x'."
+
+17. xm_{0} + m'_{1}y'_{0} ¶ xy'_{0} [Fig. I.
+      i.e. "No x are y'."
+
+18. xm'_{0} + my_{0} ¶ xy_{0} [Fig. I.
+      i.e. "No x are y."
+
+19. m_{1}x'_{0} + m_{1}y_{0} ¶ xy'_{1} [Fig. III.
+      i.e. "Some x are y'."
+
+20. mx_{0} + m'_{1}y'_{0} ¶ xy'_{0} [Fig. I.
+      i.e. "No x are y'."
+
+21. x_{1}m'_{0} + m'y_{1} ¶ x'y_{1} [Fig. II.
+      i.e. "Some x' are y."
+
+22. xm_{1} + y_{1}m'_{0} ¶ nothing.
+    [Fallacy of Unlike Eliminands
+      with an Entity-Premiss.]
+
+23. m_{1}x'_{0} + ym_{1} ¶ xy_{1} [Fig. II.
+      i.e. "Some x are y."
+
+24. xm_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+      i.e. "All y are x'."
+
+25. mx'_{1} + my'_{0} ¶ x'y_{1} [Fig. II.
+      i.e. "Some x' are y."
+
+26. mx'_{0} + y_{1}m'_{0} ¶ y_{1}x'_{0} [Fig. I (a).
+      i.e. "All y are x."
+
+27. x_{1}m_{0} + y'_{1}m'_{0} ¶ (x_{1}y'_{0} + y'_{1}x_{0}) [Fig. I (b).
+      i.e. "All x are y, and all y' are x'."
+
+28. m_{1}x_{0} + my_{1} ¶ x'y_{1} [Fig. II.
+      i.e. "Some x' are y."
+
+29. mx_{0} + y_{1}m_{0} ¶ nothing.
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+
+30. x_{1}m_{0} + ym_{1} ¶ x'y_{1} [Fig. II.
+      i.e. "Some y are x'."
+
+31. x_{1}m'_{0} + y_{1}m'_{0} ¶ nothing.
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+                                                                   pg147
+32. xm'_{0} + m_{1}y'_{0} ¶ xy'_{0} [Fig. I.
+      i.e. "No x are y'."
+
+33. mx_{0} + my_{0} ¶ nothing.
+    [Fallacy of Like Eliminands
+      not asserted to exist.]
+
+34. mx'_{0} + ym_{1} ¶ xy_{1} [Fig. II.
+      i.e. "Some x are y."
+
+35. mx_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+      i.e. "All y are x'."
+
+36. m_{1}x_{0} + ym_{1} ¶ x'y_{1} [Fig. II.
+      i.e. "Some x' are y."
+
+37. m_{1}x'_{0} + ym_{0} ¶ xy'_{1} [Fig. III.
+      i.e. "Some x are y'."
+
+38. mx_{0} + m'y_{0} ¶ xy_{0} [Fig. I.
+      i.e. "No x are y."
+
+39. mx'_{1} + my_{0} ¶ x'y'_{1} [Fig. II.
+      i.e. "Some x' are y'."
+
+40. x'm_{0} + y'_{1}m'_{0} ¶ y'_{1}x'_{0} [Fig. I (a).
+      i.e. "All y' are x."
+
+41. x_{1}m_{0} + ym'_{0} ¶ x_{1}y_{0} [Fig. I (a).
+      i.e. "All x are y'."
+
+42. m'x_{0} + ym_{0} ¶ xy_{0} [Fig. I.
+      i.e. "No x are y."
+
+
+_Solutions for § 5, Nos. 13-24._                                   SL5-B
+
+13. No Frenchmen like plumpudding;
+    All Englishmen like plumpudding.
+
+Univ. "men"; m = liking plumpudding; x = French; y = English.
+
+    xm_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+
+i.e. Englishmen are not Frenchmen.
+
+14. No portrait of a lady, that makes her simper or scowl, is
+      satisfactory;
+    No photograph of a lady ever fails to make her simper or scowl.
+
+Univ. "portraits of ladies"; m = making the subject simper or scowl;
+x = satisfactory; y = photographic.
+
+    mx_{0} + ym'_{0} ¶ xy_{0} [Fig. I.
+
+i.e. No photograph of a lady is satisfactory.
+
+15. All pale people are phlegmatic;
+    No one looks poetical unless he is pale.
+
+Univ. "people"; m = pale; x = phlegmatic; y = looking poetical.
+
+    m_{1}x'_{0} + m'y_{0} ¶ x'y_{0} [Fig. I.
+
+i.e. No one looks poetical unless he is phlegmatic.
+
+16. No old misers are cheerful;
+    Some old misers are thin.
+
+Univ. "persons"; m = old misers; x = cheerful; y = thin.
+
+    mx_{0} + my_{1} ¶ x'y_{1} [Fig. II.
+
+i.e. Some thin persons are not cheerful.
+
+17. No one, who exercises self-control, fails to keep his temper;
+    Some judges lose their tempers.
+
+Univ. "persons"; m = keeping their tempers; x = exercising self-control;
+y = judges.
+
+    xm'_{0} + ym'_{1} ¶ x'y_{1} [Fig. II.
+
+i.e. Some judges do not exercise self-control.
+                                                                   pg148
+18. All pigs are fat;
+    Nothing that is fed on barley-water is fat.
+
+Univ. is "things"; m = fat; x = pigs; y = fed on barley-water.
+
+    x_{1}m'_{0} + ym_{0} ¶ x_{1}y_{0} [Fig. I (a).
+
+i.e. Pigs are not fed on barley-water.
+
+19. All rabbits, that are not greedy, are black;
+    No old rabbits are free from greediness.
+
+Univ. is "rabbits"; m = greedy; x = black; y = old.
+
+   m'_{1}x'_{0} + ym'_{0} ¶ xy'_{1} [Fig. III.
+
+i.e. Some black rabbits are not old.
+
+20. Some pictures are not first attempts;
+    No first attempts are really good.
+
+Univ. is "things"; m = first attempts; x = pictures; y = really good.
+
+    xm'_{1} + my_{0} ¶ nothing.
+
+[Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+21. I never neglect important business;
+    Your business is unimportant.
+
+Univ. is "business"; m = important; x = neglected by me; y = your.
+
+    mx_{0} + y_{1}m_{0} ¶ nothing.
+
+[Fallacy of Like Eliminands not asserted to exist.]
+
+22. Some lessons are difficult;
+    What is difficult needs attention.
+
+Univ. is "things"; m = difficult; x = lessons; y = needing attention.
+
+    xm_{1} + m_{1}y'_{0} ¶ xy_{1} [Fig. II.
+
+i.e. Some lessons need attention.
+
+23. All clever people are popular;
+    All obliging people are popular.
+
+Univ. is "people"; m = popular; x = clever; y = obliging.
+
+    x_{1}m'_{0} + y_{1}m'_{0} ¶ nothing.
+
+[Fallacy of Like Eliminands not asserted to exist.]
+
+24. Thoughtless people do mischief;
+    No thoughtful person forgets a promise.
+
+Univ. is "persons"; m = thoughtful; x = mischievous; y = forgetful of
+promises.
+
+    m'_{1}x'_{0} + my_{0} ¶ x'y_{0}
+
+i.e. No one, who forgets a promise, fails to do mischief.
+
+
+_Solutions for § 6._                                               SL6-B
+
+ 1. xm_{1} + my'_{0} ¶ xy_{1} [Fig. II.] Concl. right.
+
+ 2. x_{1}m'_{0} + ym'_{0} Fallacy of Like Eliminands not asserted to exist.
+
+ 3. xm'_{1} + y'_{1}m'_{0} ¶ xy_{1} [Fig. II.] Concl. right.
+                                                                   pg149
+ 4. x_{1}m'_{0} + ym_{0} ¶ x_{1}y_{0} [Fig. I (a).] Concl. right.
+
+ 5. m'x'_{1} + m'y_{0} ¶ x'y'_{1}     [Fig. II.]          "
+
+ 6. x'm_{0} + y_{1}m_{0} Fallacy of Like Eliminands not asserted to exist.
+
+ 7. m'x'_{1} + y'_{1}m_{0} Fallacy of Unlike Eliminands with an
+      Entity-Premiss.
+
+ 8. m'x'_{0} + y'_{1}m_{0} ¶ y'_{1}x'_{0} [Fig. I (a).] Concl. right.
+
+ 9. mx'_{1} + my_{0} ¶ x'y'_{1}           [Fig. II.]          "
+
+10. m'_{1}x_{0} + m'_{1}y'_{0} ¶ x'y_{1}  [Fig. III.]         "
+
+11. x_{1}m_{0} + ym_{1} ¶ x'y_{1}         [Fig. II.]          "
+
+12. xm_{0} + m'y'_{0} ¶ xy'_{0}           [Fig. I.]           "
+
+13. xm_{0} + y'_{1}m'_{0} ¶ y'_{1}x_{0}   [Fig. I (a).]       "
+
+14. m'_{1}x_{0} + m'_{1}y'_{0} ¶ x'y_{1}  [Fig. III.]         "
+
+15. mx'_{1} + y_{1}m_{0} ¶ x'y'_{1}       [Fig. II.]          "
+
+16. x'm_{0} + y'_{1}m_{0} Fallacy of Like Eliminands not asserted to exist.
+
+17. m'x_{0} + m'_{1}y_{0} ¶ x'y'_{1} [Fig. III.] Concl. right.
+
+18. x'm_{0} + my_{1} ¶ xy_{1}        [Fig. II.]        "
+
+19. mx'_{1} + m_{1}y'_{0} ¶ x'y_{1}  [   "    ]        "
+
+20. x'm'_{0} + m'y'_{1} ¶ xy'_{1}    [   "    ]        "
+
+21. mx_{0} + m_{1}y_{0} ¶ x'y'_{1}   [Fig. III.]       "
+
+22. x'_{1}m'_{0} + ym'_{1} ¶ xy_{1} [Fig. II.] Concl. wrong:
+      the right one is "Some x are y."
+
+23. m_{1}x'_{0} + m'y'_{0} ¶ x'y'_{0}       [Fig. I.] Concl. right.
+
+24. x_{1}m_{0} + m'_{1}y'_{0} ¶ x_{1}y'_{0} [Fig. I (a).]   "
+
+25. xm'_{0} + m_{1}y'_{0} ¶ xy'_{0}         [Fig. I.]       "
+
+26. m_{1}x_{0} + y_{1}m'_{0} ¶ y_{1}x_{0}   [Fig. I (a).]   "
+
+27. x_{1}m'_{0} + my'_{0} ¶ x_{1}y'_{0}     [     "     ]   "
+
+28. x_{1}m'_{0} + y'm'_{0} Fallacy of Like Eliminands not asserted to
+      exist.
+
+29. x'm_{0} + m'y'_{0} ¶ x'y'_{0}           [Fig. I.] Concl. right.
+
+30. x_{1}m'_{0} + m_{1}y_{0} ¶ x_{1}y_{0}   [Fig. I (a).]   "
+
+31. x'_{1}m_{0} + y'm'_{0} ¶ x'_{1}y'_{0}   [     "     ]   "
+
+32. xm_{0} + y'm'_{0} ¶ xy'_{0}             [Fig. I.]       "
+
+33. m_{1}x_{0} + y'_{1}m'_{0} ¶ y'_{1}x_{0} [Fig. I (a).]   "
+
+34. x_{1}m_{0} + ym'_{1} Fallacy of Unlike Eliminands with an
+      Entity-Premiss.
+
+35. xm_{1} + m_{1}y'_{0} ¶ xy_{1}         [Fig. II.]  Concl. right.
+
+36. m_{1}x_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).]     "
+
+37. mx'_{0} + m_{1}y_{0} ¶ xy'_{1}        [Fig. III.]       "
+
+38. xm_{0} + my'_{0} Fallacy of Like Eliminands not asserted to exist.
+
+39. mx_{0} + my'_{1} ¶ x'y'_{1} [Fig. II.] Concl. right.
+
+40. mx'_{0} + ym_{1} ¶ xy_{1}   [Fig. II.]       "
+
+                                                                   pg150
+_Solutions for § 7._                                               SL7-B
+
+ 1. No doctors are enthusiastic;
+    You are enthusiastic.
+      You are not a doctor.
+
+Univ. "persons"; m = enthusiastic; x = doctors; y = you.
+
+    xm_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+
+Conclusion right.
+
+ 2. Dictionaries are useful;
+    Useful books are valuable.
+      Dictionaries are valuable.
+
+Univ. "books"; m = useful; x = dictionaries; y = valuable.
+
+    x_{1}m'_{0} + m_{1}y'_{0} ¶ x_{1}y'_{0} [Fig. I (a).
+
+Conclusion right.
+
+ 3. No misers are unselfish;
+    None but misers save egg-shells.
+      No unselfish people save egg-shells.
+
+Univ. "people"; m = misers; x = selfish; y = people who save egg-shells.
+
+    mx'_{0} + m'y_{0} ¶ x'y_{0} [Fig. I.
+
+Conclusion right.
+
+ 4. Some epicures are ungenerous;
+    All my uncles are generous.
+      My uncles are not epicures.
+
+Univ. "persons"; m = generous; x = epicures; y = my uncles.
+
+    xm'_{1} + y_{1}m'_{0} ¶ xy'_{1} [Fig. II.
+
+Conclusion wrong: right one is "Some epicures are not uncles of mine."
+
+ 5. Gold is heavy;
+    Nothing but gold will silence him.
+      Nothing light will silence him.
+
+Univ. "things"; m = gold; x = heavy; y = able to silence him.
+
+    m_{1}x'_{0} + m'y_{0} ¶ x'y_{0} [Fig. I.
+
+Conclusion right.
+
+ 6. Some healthy people are fat;
+    No unhealthy people are strong.
+      Some fat people are not strong.
+
+Univ. "people"; m = healthy; x = fat; y = strong.
+
+    mx_{1} + m'y_{0}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+ 7. I saw it in a newspaper;
+    All newspapers tell lies.
+      It was a lie.
+
+Univ. "publications"; m = newspapers; x = publications in which I saw
+it; y = telling lies.
+
+    x_{1}m'_{0} + m_{1}y'_{0} ¶ x_{1}y'_{0} [Fig. I (a).
+
+Conclusion wrong: right one is "The publication, in which I saw it,
+tells lies."
+                                                                   pg151
+ 8. Some cravats are not artistic;
+    I admire anything artistic.
+      There are some cravats that I do not admire.
+
+Univ. "things"; m = artistic; x = cravats; y = things that I admire.
+
+    xm_{1} + m_{1}y_{0}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+ 9. His songs never last an hour.
+    A song, that lasts an hour, is tedious.
+      His songs are never tedious.
+
+Univ. "songs"; m = lasting an hour; x = his; y = tedious.
+
+    x_{1}m_{0} + m_{1}y'_{0} ¶ x'y_{1} [Fig. III.
+
+Conclusion wrong: right one is "Some tedious songs are not his."
+
+10. Some candles give very little light;
+    Candles are meant to give light.
+      Some things, that are meant to give light, give very little.
+
+Univ. "things"; m = candles; x = giving &c.; y = meant &c.
+
+    mx_{1} + m_{1}y'_{0} ¶ xy_{1} [Fig. II.
+
+Conclusion right.
+
+11. All, who are anxious to learn, work hard.
+    Some of these boys work hard.
+      Some of these boys are anxious to learn.
+
+Univ. "persons"; m = hard-working; x = anxious to learn; y = these boys.
+
+    x_{1}m'_{0} + ym_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+12. All lions are fierce;
+    Some lions do not drink coffee.
+      Some creatures that drink coffee are not fierce.
+
+Univ. "creatures"; m = lions; x = fierce; y = creatures that drink
+coffee.
+
+    m_{1}x'_{0} + my'_{1} ¶ xy'_{1} [Fig. II.
+
+Conclusion wrong: right one is "Some fierce creatures do not drink
+coffee."
+
+13. No misers are generous;
+    Some old men are ungenerous.
+      Some old men are misers.
+
+Univ. "persons"; m = generous; x = misers; y = old men.
+
+    xm_{0} + ym'_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+14. No fossil can be crossed in love;
+    An oyster may be crossed in love.
+      Oysters are not fossils.
+
+Univ. "things"; m = things that can be crossed in love; x = fossils;
+y = oysters.
+
+    xm_{0} + y_{1}m'_{0} ¶ y_{1}x_{0} [Fig. I (a).
+
+Conclusion right.
+                                                                   pg152
+15. All uneducated people are shallow;
+      Students are all educated.
+         No students are shallow.
+
+Univ. "people"; m = educated; x = shallow; y = students.
+
+    m'_{1}x'_{0} + y_{1}m'_{0} ¶ xy'_{1} [Fig. III.
+
+Conclusion wrong: right one is "Some shallow people are not students."
+
+16. All young lambs jump;
+    No young animals are healthy, unless they jump.
+      All young lambs are healthy.
+
+Univ. "young animals"; m = young animals that jump; x = lambs;
+y = healthy.
+
+    x_{1}m'_{0} + m'y_{0}
+
+No Conclusion. [Fallacy of Like Eliminands not asserted to exist.]
+
+17. Ill-managed business is unprofitable;
+    Railways are never ill-managed.
+      All railways are profitable.
+
+Univ. "business"; m = ill-managed; x = profitable; y = railways.
+
+    m_{1}x_{0} + y_{1}m_{0} ¶ x'y'_{1} [Fig. III.
+
+Conclusion wrong: right one is "Some business, other than railways, is
+profitable."
+
+18. No Professors are ignorant;
+    All ignorant people are vain.
+      No Professors are vain.
+
+Univ. "people"; m = ignorant; x = Professors; y = vain.
+
+    xm_{0} + m_{1}y'_{0} ¶ x'y_{1} [Fig. III.
+
+Conclusion wrong: right one is "Some vain persons are not Professors."
+
+19. A prudent man shuns hyænas.
+    No banker is imprudent.
+      No banker fails to shun hyænas.
+
+Univ. "men"; m = prudent; x = shunning hyænas; y = bankers.
+
+    m_{1}x'_{0} + ym'_{0} ¶ x'y_{0} [Fig. I.
+
+Conclusion right.
+
+20. All wasps are unfriendly;
+    No puppies are unfriendly.
+      No puppies are wasps.
+
+Univ. "creatures"; m = friendly; x = wasps; y = puppies.
+
+    x_{1}m_{0} + ym'_{0} ¶ x_{1}y_{0} [Fig. I (a).
+
+Conclusion incomplete: complete one is "Wasps are not puppies".
+
+21. No Jews are honest;
+    Some Gentiles are rich.
+      Some rich people are dishonest.
+
+Univ. "persons"; m = Jews; x = honest; y = rich.
+
+    mx_{0} + m'y_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+                                                                   pg153
+22. No idlers win fame;
+    Some painters are not idle.
+      Some painters win fame.
+
+Univ. "persons"; m = idlers; x = persons who win fame; y = painters.
+
+    mx_{0} + ym'_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+23. No monkeys are soldiers;
+    All monkeys are mischievous.
+      Some mischievous creatures are not soldiers.
+
+Univ. "creatures"; m = monkeys; x = soldiers; y = mischievous.
+
+    mx_{0} + m_{1}y'_{0} ¶ x'y_{1} [Fig. III.
+
+Conclusion right.
+
+24. All these bonbons are chocolate-creams;
+    All these bonbons are delicious.
+         Chocolate-creams are delicious.
+
+Univ. "food"; m = these bonbons; x = chocolate-creams; y = delicious.
+
+    m_{1}x'_{0} + m_{1}y'_{0} ¶ xy_{1} [Fig. III.
+
+Conclusion wrong, being in excess of the right one, which is "Some
+chocolate-creams are delicious."
+
+25. No muffins are wholesome;
+    All buns are unwholesome.
+      Buns are not muffins.
+
+Univ. "food"; m = wholesome; x = muffins; y = buns.
+
+    xm_{0} + y_{1}m_{0}
+
+No Conclusion. [Fallacy of Like Eliminands not asserted to exist.]
+
+26. Some unauthorised reports are false;
+    All authorised reports are trustworthy.
+      Some false reports are not trustworthy.
+
+Univ. "reports"; m = authorised; x = true; y = trustworthy.
+
+    m'x'_{1} + m_{1}y'_{0}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+27. Some pillows are soft;
+    No pokers are soft.
+      Some pokers are not pillows.
+
+Univ. "things"; m = soft; x = pillows; y = pokers.
+
+    xm_{1} + ym_{0} ¶ xy'_{1} [Fig. II.
+
+Conclusion wrong: right one is "Some pillows are not pokers."
+
+28. Improbable stories are not easily believed;
+    None of his stories are probable.
+      None of his stories are easily believed.
+
+Univ. "stories"; m = probable; x = easily believed; y = his.
+
+    m'_{1}x_{0} + ym_{0} ¶ xy_{0} [Fig. I.
+
+Conclusion right.
+                                                                   pg154
+29. No thieves are honest;
+    Some dishonest people are found out.
+      Some thieves are found out.
+
+Univ. "people"; m = honest; x = thieves; y = found out.
+
+    xm_{0} + m'y_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+30. No muffins are wholesome;
+    All puffy food is unwholesome.
+      All muffins are puffy.
+
+Univ. is "food"; m = wholesome; x = muffins; y = puffy.
+
+    xm_{0} + y_{1}m_{0}
+
+No Conclusion. [Fallacy of Like Eliminands not asserted to exist.]
+
+31. No birds, except peacocks, are proud of their tails;
+    Some birds, that are proud of their tails, cannot sing.
+      Some peacocks cannot sing.
+
+Univ. "birds"; m = proud of their tails; x = peacocks; y = birds that
+cannot sing.
+
+    x'm_{0} + my'_{1} ¶ xy'_{1} [Fig. II.
+
+Conclusion right.
+
+32. Warmth relieves pain;
+    Nothing, that does not relieve pain, is useful in toothache.
+      Warmth is useful in toothache.
+
+Univ. "applications"; m = relieving pain; x = warmth; y = useful in
+toothache.
+
+    x_{1}m'_{0} + m'y_{0}
+
+No Conclusion. [Fallacy of Like Eliminands not asserted to exist.]
+
+33. No bankrupts are rich;
+    Some merchants are not bankrupts.
+      Some merchants are rich.
+
+Univ. "persons"; m = bankrupts; x = rich; y = merchants.
+
+    mx_{0} + ym'_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+34. Bores are dreaded;
+    No bore is ever begged to prolong his visit.
+      No one, who is dreaded, is ever begged to prolong his visit.
+
+Univ. "persons"; m = bores; x = dreaded; y = begged to prolong their
+visits.
+
+    m_{1}x'_{0} + my_{0} ¶ xy'_{1} [Fig. III.
+
+Conclusion wrong: the right one is "Some dreaded persons are not begged
+to prolong their visits."
+
+35. All wise men walk on their feet;
+    All unwise men walk on their hands.
+      No man walks on both.
+
+Univ. "men"; m = wise; x = walking on their feet; y = walking on their
+hands.
+
+    m_{1}x'_{0} + m'_{1}y'_{0} ¶ x'y'_{0} [Fig. I.
+
+Conclusion wrong: right one is "No man walks on neither."
+                                                                   pg155
+36. No wheelbarrows are comfortable;
+    No uncomfortable vehicles are popular.
+      No wheelbarrows are popular.
+
+Univ. "vehicles"; m = comfortable; x = wheelbarrows; y = popular.
+
+    xm_{0} + m'x_{0} ¶ xy_{0} [Fig. I.
+
+Conclusion right.
+
+37. No frogs are poetical;
+    Some ducks are unpoetical.
+      Some ducks are not frogs.
+
+Univ. "creatures"; m = poetical; x = frogs; y = ducks.
+
+    xm_{0} + ym'_{1}
+
+No Conclusion. [Fallacy of Unlike Eliminands with an Entity-Premiss.]
+
+38. No emperors are dentists;
+    All dentists are dreaded by children.
+      No emperors are dreaded by children.
+
+Univ. "persons"; m = dentists; x = emperors; y = dreaded by children.
+
+    xm_{0} + m_{1}y'_{0} ¶ x'y_{1} [Fig. III.
+
+Conclusion wrong: right one is "Some persons, dreaded by children, are
+not emperors."
+
+39. Sugar is sweet;
+    Salt is not sweet.
+      Salt is not sugar.
+
+Univ. "things"; m = sweet; x = sugar; y = salt.
+
+    x_{1}m'_{0} + y_{1}m_{0} ¶ (x_{1}y_{0} + y_{1}x_{0}) [Fig. I (b).
+
+Conclusion incomplete: omitted portion is "Sugar is not salt."
+
+40. Every eagle can fly;
+    Some pigs cannot fly.
+      Some pigs are not eagles.
+
+Univ. "creatures"; m = creatures that can fly; x = eagles; y = pigs.
+
+    x_{1}m'_{0} + ym'_{1} ¶ x'y_{1} [Fig. II.
+
+Conclusion right.
+
+
+_Solutions for § 8._                                               SL8
+
+      1          2              3
+ 1. cd_{0} + a_{1}d'_{0} + b_{1}c'_{0};
+
+     1    2     3
+    cd + ad' + bc' ¶ ab_{0} + a_{1} + b_{1}
+    --    =     =
+
+    i.e. ¶ a_{1}b_{0} + b_{1}a_{0}
+
+         1           2        3
+ 2. d_{1}b'_{0} + ac'_{0} + bc_{0};
+
+     1     3    2
+    db' + bc + ac' ¶ da_{0} + d_{1} i.e. ¶ d_{1}a_{0}
+     -    =-    =
+
+      1         2           3
+ 3. ba_{0} + cd'_{0} + d_{1}b'_{0};
+
+     1    3     2
+    ba + db' + cd' ¶ ac_{0}
+    -    -=     =
+
+      1           2           3
+ 4. bc_{0} + a_{1}b'_{0} + c'd_{0};
+
+     1    2     3
+    bc + ab' + c'd ¶ ad_{0} + a_{1} i.e. ¶ a_{1}d_{0}
+    --    =    =
+                                                                   pg156
+         1          2         3         1     2    3
+ 5. b'_{1}a_{0} + bc_{0} + a'd_{0};    b'a + bc + a'd ¶ cd_{0}
+                                       - -   =    =
+
+        1           2           3
+ 6. a_{1}b_{0} + b'c_{0} + d_{1}a'_{0};
+
+     1    2     3
+    ab + b'c + da' ¶ cd_{0} + d_{1} i.e. ¶ d_{1}c_{0}
+    --   =      =
+
+       1           2           3        1     2     3
+ 7. db'_{0} + b_{1}a'_{0} + cd'_{0};   db' + ba' + cd' ¶ a'c_{0}
+                                       --    =      =
+
+       1         2           3
+ 8. b'd_{0} + a'b_{0} + c_{1}d'_{0};
+
+     1     2     3
+    b'd + a'b + cd' ¶ a'c_{0} + c_{1} i.e. ¶ c_{1}a'_{0}
+    - -     =    =
+
+       1             2           3
+ 9. b'_{1}a'_{0} + ad_{0} + b_{1}c'_{0};
+
+     1      2    3
+    b'a' + ad + bc' ¶ dc'_{0}
+    - -    =    =
+
+      1           2           3
+10. cd_{0} + b_{1}c'_{0} + ad'_{0};
+
+     1    2     3
+    cd + bc' + ad' ¶ ba_{0} + b_{1} i.e. ¶ b_{1}a_{0}
+    --    =     =
+
+      1           2             3
+11. bc_{0} + d_{1}a'_{0} + c'_{1}a_{0};
+
+     1    3     2
+    bc + c'a + da' ¶ bd_{0} + d_{1} i.e. ¶ d_{1}b_{0}
+     -   = -    =
+
+       1           2             3
+12. cb'_{0} + c'_{1}d_{0} + b_{1}a'_{0};
+
+     1     2     3
+    cb' + c'd + ba' ¶ da'_{0}
+    --    =     =
+
+         1             2           3          4
+13. d_{1}e'_{0} + c_{1}a'_{0} + bd'_{0} + e_{1}a_{0};
+
+     1     3     4    2
+    de' + bd' + ea + ca' ¶ bc_{0} + c_{1} i.e. ¶ c_{1}b_{0}
+    --     =    =-    =
+
+         1             2            3             4
+14. c_{1}b'_{0} + a_{1}e'_{0} + d_{1}b_{0} + a'_{1}c'_{0};
+
+     1     3    4      2
+    cb' + db + a'c' + ae' ¶ de'_{0} + d_{1} i.e. ¶ d_{1}e'_{0}
+    --     =   - =    =
+
+       1           2             3             4
+15. b'd_{0} + e_{1}c'_{0} + b_{1}a'_{0} + d'_{1}c_{0};
+
+     1     3     4     2
+    b'd + ba' + d'c + ec' ¶ a'e_{0} + e_{1} i.e. ¶ e_{1}a'_{0}
+    - -   =     = -    =
+
+       1          2             3             4
+16. a'e_{0} + d_{1}c_{0} + a_{1}b'_{0} + e'_{1}d'_{0};
+
+     1     3     4      2
+    a'e + ab' + e'd' + dc ¶ b'c_{0}
+    - -   =     = -    =
+
+         1             2           3          4
+17. d_{1}c'_{0} + a_{1}e'_{0} + bd'_{0} + c_{1}e_{0};
+
+     1     3     4    2
+    dc' + bd' + ce + ae' ¶ ba_{0} + a_{1} i.e. ¶ a_{1}b_{0}
+    --     =    =-    =
+
+         1             2             3          4
+18. a_{1}b'_{0} + d_{1}e'_{0} + a'_{1}c_{0} + be_{0};
+
+      1     3     4    2
+     ab' + a'c + be + de' ¶ cd_{0} + d_{1} i.e. ¶ d_{1}c_{0}
+     --    =     =-    =
+
+      1           2             3          4           5
+19. bc_{0} + e_{1}h'_{0} + a_{1}b'_{0} + dh_{0} + e'_{1}c'_{0};
+
+      1    3     5      2     4
+     bc + ab' + e'c' + eh' + dh ¶ ad_{0} + a_{1}
+     --    =    - =    =-     =
+
+     i.e. ¶ a_{1}d_{0}
+
+      1         2           3           4         5
+20. dh'_{0} + ce_{0} + h_{1}b'_{0} + ad'_{0} + be'_{0};
+
+     1     3     4     5     2
+    dh' + hb' + ad' + be' + ce ¶ ac_{0}
+    --    =-     =    =-     =
+
+         1          2        3         4           5
+21. b_{1}a'_{0} + dh_{0} + ce_{0} + ah'_{0} + c'_{1}b'_{0};
+
+      1     4     2     5     3
+     ba' + ah' + dh + c'b' + ce ¶ de_{0}
+     --    =-     =   - =    =
+
+        1           2            3              4          5
+22. e_{1}d_{0} + b'h'_{0} + c'_{1}d'_{0} + a_{1}e'_{0} + ch_{0};
+
+     1     3     4     5     2
+    ed + c'd' + ae' + ch + b'h' ¶ ab'_{0} + a_{1}
+    --   - =     =    =-     =
+
+    i.e. ¶ a_{1}b_{0}
+                                                                   pg157
+         1           2          3          4           5
+23. b'_{1}a_{0} + de'_{0} + h_{1}b_{0} + ce_{0} + d'_{1}a'_{0};
+
+     1     3     5     2     4
+    b'a + hb + d'a' + de' + ce
+    - -    =   - =    =-     =
+
+    ¶ hc_{0} + h_{1} i.e. ¶ h_{1}c_{0}
+
+         1           2           3            4           5           6
+24. h'_{1}k_{0} + b'a_{0} + c_{1}d'_{0} + e_{1}h_{0} + dk'_{0} + bc'_{0};
+
+     1     4    5     3     6     2
+    h'k + eh + dk' + cd' + bc' + b'a ¶ ea_{0} + e_{1}
+    - -    =   -=    -=    -=    =
+
+    i.e. ¶ e_{1}a_{0}
+
+         1             2             3           4
+25. a_{1}d'_{0} + k_{1}b'_{0} + e_{1}h'_{0} + a'b_{0}
+
+           5             6
+    + d_{1}c'_{0} + h_{1}k'_{0};
+
+     1     4     2     5     6     3
+    ad' + a'b + kb' + dc' + hk' + eh' ¶ c'e_{0} + e_{1}
+    --    = -   -=    =     -=     =
+
+    i.e. ¶ e_{1}c'_{0}
+
+         1            2           3          4           5
+26. a'_{1}h'_{0} + d'k'_{0} + e_{1}b_{0} + hk_{0} + a_{1}c'_{0}
+         6
+    + b'd_{0};
+
+      1     4     2     5     6     3
+    a'h' + hk + d'k' + ac' + b'd + eb ¶ c'e_{0} + e_{1}
+    - -    =-   - =    =     - =    =
+
+    i.e. ¶ e_{1}c'_{0}
+
+        1          2           3            4           5
+27. e_{1}d_{0} + hb_{0} + a'_{1}k'_{0} + ce'_{0} + b'_{1}d'_{0}
+
+         6
+    + ac'_{0};
+
+     1    4      5     2    6      3
+    ed + ce' + b'd' + hb + ac' + a'k' ¶ hk'_{0}
+    --   -=    - =     =   -=    =
+
+       1           2           3         4        5
+28. a'k_{0} + e_{1}b'_{0} + hk'_{0} + d'c_{0} + ab_{0}
+
+           6
+    + c'_{1}h'_{0};
+
+     1     3     5    2     6      4
+    a'k + hk' + ab + eb' + c'h' + d'c ¶ ed'_{0} + e_{1}
+    - -   -=    =-    =    - =      =
+
+    i.e. ¶ e_{1}d'_{0}
+
+      1         2         3           4              5
+29. ek_{0} + b'm_{0} + ac'_{0} + h'_{1}e'_{0} + d_{1}k'_{0}
+
+        6           7            8
+    + cb_{0} + d'_{1}l'_{0} + hm'_{0};
+
+     1     4     5     7      8     2     6    3
+    ek + h'e' + dk' + d'l' + hm' + b'm + cb + ac'
+    --   - =    -=    =      =-    - =   -=    =
+
+    ¶ l'a_{0}
+
+         1             2            3          4          5
+30. n_{1}m'_{0} + a'_{1}e'_{0} + c'l_{0} + k_{1}r_{0} + ah'_{0}
+
+         6         7           8             9            10
+    + dl'_{0} + cn'_{0} + e_{1}b'_{0} + m_{1}r'_{0} + h_{1}d'_{0};
+
+     1     7     3     6     9     4   10     5      2     8
+    nm' + cn' + c'l + dl' + mr' + kr + hd' + ah' + a'e' + eb'
+    --    -=    = -   -=    =-     =   -=    -=    = -    =
+
+    ¶ kb'_{0} + k_{1} i.e. ¶ k_{1}b'_{0}
+
+
+_Solutions for § 9._                                               SL9
+
+ 1.
+
+    1          2           3
+b_{1}d_{0} + ac_{0} + d'_{1}c'_{0};
+
+ 1     3     2
+bd + d'c' + ac ¶ ba_{0} + b_{1}, i.e. ¶ b_{1}a_{0}
+ -   = -     =
+
+i.e. Babies cannot manage crocodiles.
+
+ 2.
+
+     1             2          3
+a_{1}b'_{0} + d_{1}c'_{0} + bc_{0};
+
+ 1     3    2
+ab' + bc + dc' ¶ ad_{0} + d_{1}, i.e. ¶ d_{1}a_{0}
+ -    =-    =
+
+i.e. _Your_ presents to me are not made of tin.
+                                                                   pg158
+ 3.
+
+  1           2           3
+da_{0} + c_{1}b'_{0} + a'b_{0};
+
+ 1    3     2
+da + a'b + cb' ¶ dc_{0} + c_{1}, i.e. ¶ c_{1}d_{0}
+ -   = -    =
+
+i.e. All my potatoes in this dish are old ones.
+
+ 4.
+
+  1         2           3
+ba_{0} + b'd_{0} + c_{1}a'_{0};
+
+ 1    2     3
+ba + b'd + ca' ¶ dc_{0} + c_{1}, i.e. ¶ c_{1}d_{0}
+--   =      =
+
+i.e. My servants never say "shpoonj."
+
+ 5.
+
+  1         2           3
+ad_{0} + cd'_{0} + b_{1}a'_{0};
+
+ 1    2     3
+ad + cd' + ba' ¶ cb_{0} + b_{1}, i.e. ¶ b_{1}c_{0}
+--    =     =
+
+i.e. My poultry are not officers.
+
+ 6.
+
+     1           2        3       1     2     3
+c_{1}a'_{0} + c'b_{0} + da_{0};  ca' + c'b + da ¶ bd_{0}
+                                 --    =      =
+
+i.e. None of your sons are fit to serve on a jury.
+
+ 7.
+
+  1        2           3          1     3     2
+cb_{0} + da_{0} + b'_{1}a'_{0};  cb + b'a' + da ¶ cd_{0}
+                                  -   = -     =
+
+i.e. No pencils of mine are sugarplums.
+
+ 8.
+
+   1           2          3
+cb'_{0} + d_{1}a'_{0} + ba_{0};
+
+ 1     3    2
+cb' + ba + da' ¶ cd_{0} + d_{1}, i.e. ¶ d_{1}c_{0}
+ -    =-    =
+
+i.e. Jenkins is inexperienced.
+
+ 9.
+
+  1         2         3       1    2     3
+cd_{0} + d'a_{0} + c'b_{0};  cd + d'a + c'b ¶ ab_{0}
+                             --   =     =
+
+i.e. No comet has a curly tail.
+
+10.
+
+   1        2           3         1     3     2
+d'c_{0} + ba_{0} + a'_{1}d_{0};  d'c + a'd + ba ¶ cb_{0}
+                                 -     - =    =
+
+i.e. No hedgehog takes in the _Times_.
+
+11.
+
+     1             2          3
+b_{1}a'_{0} + c_{1}b'_{0} + ad_{0};
+
+ 1     2     3
+ba' + cb' + ad ¶ cd_{0} + c_{1}, i.e. ¶ c_{1}d_{0}
+--     =    =
+
+i.e. This dish is unwholesome.
+
+12.
+
+     1           2         3
+b_{1}c'_{0} + d'a_{0} + a'c_{0};
+
+ 1     3     2
+bc' + a'c + d'a ¶ bd'_{0} + b_{1}, i.e. ¶ b_{1}d'_{0}
+ -    - =     =
+
+i.e. My gardener is very old.
+
+13.
+
+     1          2           3
+a_{1}d'_{0} + bc_{0} + c'_{1}d_{0};
+
+ 1     3     2
+ad' + c'd + bc ¶ ab_{0} + a_{1}, i.e. ¶ a_{1}b_{0}
+ -    - =    =
+
+i.e. All humming-birds are small.
+                                                                   pg159
+14.
+
+   1           2           3       1     3     2
+c'b_{0} + a_{1}d'_{0} + ca'_{0};  c'b + ca' + ad' ¶ bd'_{0}
+                                  -     =-    =
+
+i.e. No one with a hooked nose ever fails to make money.
+
+15.
+
+     1             2          3       1     2     3
+b_{1}a'_{0} + b'_{1}d_{0} + ca_{0};  ba' + b'd + ca ¶ dc_{0}
+                                     --    =      =
+
+i.e. No gray ducks in this village wear lace collars.
+
+16.
+
+     1           2        3       1     2     3
+d_{1}b'_{0} + cd'_{0} + ba_{0};  db' + cd' + ba ¶ ca_{0}
+                                 --     =    =
+
+i.e. No jug in this cupboard will hold water.
+
+17.
+
+     1             2          3
+b'_{1}d_{0} + c_{1}d'_{0} + ab_{0};
+
+ 1     2     3
+b'd + cd' + ab ¶ ca_{0} + c_{1}, i.e. ¶ c_{1}a_{0}
+- -    =     =
+
+i.e. These apples were grown in the sun.
+
+18.
+
+     1             2           3
+d'_{1}b'_{0} + c_{1}b_{0} + c'a_{0};
+
+  1     2    3
+d'b' + cb + c'a ¶ d'a_{0} + d'_{1}, i.e. ¶ d'_{1}a_{0}
+  -    -=   =
+
+i.e. Puppies, that will not lie still, never care to do worsted-work.
+
+19.
+
+   1           2           3       1     3     2
+bd'_{0} + a_{1}c'_{0} + a'd_{0};  bd' + a'd + ac' ¶ bc'_{0}
+                                   -    - =   =
+
+i.e. No name in this list is unmelodious.
+
+20.
+
+     1          2           3          1      3     2
+a_{1}b'_{0} + dc_{0} + a'_{1}d'_{0};  ab' + a'd' + dc ¶ b'c_{0}
+                                      -     = -    =
+
+i.e. No M.P. should ride in a donkey-race, unless he has perfect
+self-command.
+
+21.
+
+  1         2         3       1    3     2
+bd_{0} + c'a_{0} + b'c_{0};  bd + b'c + c'a ¶ da_{0}
+                             -    = -   =
+
+i.e. No goods in this shop, that are still on sale, may be carried away.
+
+22.
+
+   1        2         3       1     3     2
+a'b_{0} + cd_{0} + d'a_{0};  a'b + d'a + cd ¶ bc_{0}
+                             -     - =    =
+
+i.e. No acrobatic feat, which involves turning a quadruple somersault,
+is ever attempted in a circus.
+
+23.
+
+   1           2          3
+dc'_{0} + a_{1}b'_{0} + bc_{0};
+
+ 1     3    2
+dc' + bc + ab' ¶ da_{0} + a_{1}, i.e. ¶ a_{1}d_{0}
+ -    -=    =
+
+i.e. Guinea-pigs never really appreciate Beethoven.
+                                                                   pg160
+24.
+
+     1             2           3       1     3     2
+a_{1}d'_{0} + b'_{1}c_{0} + ba'_{0};  ad' + ba' + b'c ¶ d'c_{0}
+                                      -     -=    =
+
+i.e. No scentless flowers please me.
+
+25.
+
+     1           2          3
+c_{1}d'_{0} + ba'_{0} + d_{1}a_{0};
+
+ 1     3    2
+cd' + da + ba' ¶ cb_{0} + c_{1}, i.e. ¶ c_{1}b_{0}
+ -    =-    =
+
+i.e. Showy talkers are not really well-informed.
+
+26.
+
+  1           2             3           4
+ea_{0} + b_{1}d'_{0} + a'_{1}c_{0} + e'b'_{0};
+
+ 1    3      4     2
+ea + a'c + e'b' + bd' ¶ cd'_{0}
+--   =     = -    =
+
+i.e. None but red-haired boys learn Greek in this school.
+
+27.
+
+    1           2           3             4
+b_{1}d_{0} + ac'_{0} + e_{1}d'_{0} + c_{1}b'_{0};
+
+ 1    3     4     2
+bd + ed' + cb' + ac' ¶ ea_{0} + e_{1}, i.e. ¶ e_{1}a_{0}
+--    =    -=     =
+
+i.e. Wedding-cake always disagrees with me.
+
+28.
+
+  1           2              3             4
+ad_{0} + e'_{1}b'_{0} + c_{1}d'_{0} + e_{1}a'_{0};
+
+ 1    3     4     2
+ad + cd' + ea' + e'b' ¶ cb'_{0} + c_{1}, i.e. ¶ c_{1}b'_{0}
+--    =    -=    =
+
+i.e. Discussions, that go on while Tomkins is in the chair, endanger the
+peacefulness of our Debating-Club.
+
+29.
+
+    1           2           3           4
+d_{1}a_{0} + e'c_{0} + b_{1}a'_{0} + d'e_{0};
+
+ 1    3     4     2
+da + ba' + d'e + e'c ¶ bc_{0} + b_{1}, i.e. ¶ b_{1}c_{0}
+--    =    = -   =
+
+i.e. All gluttons in my family are unhealthy.
+
+30.
+
+    1           2           3             4
+d_{1}e_{0} + c'a_{0} + b_{1}e'_{0} + c_{1}d'_{0};
+
+ 1    3     4     2
+de + be' + cd' + c'a ¶ ba_{0} + b_{1}, i.e. ¶ b_{1}a_{0}
+--    =    -=    =
+
+i.e. An egg of the Great Auk is not to be had for a song.
+
+31.
+
+   1           2             3           4
+d'b_{0} + a_{1}c'_{0} + c_{1}e'_{0} + a'd_{0};
+
+ 1     4     2     3
+d'b + a'd + ac' + ce' ¶ be'_{0}
+-     - =   =-    =
+
+i.e. No books sold here have gilt edges unless they are priced at 5s.
+and upwards.
+
+32.
+
+     1             2             3             4
+a'_{1}c'_{0} + d_{1}b_{0} + a_{1}e'_{0} + c_{1}b'_{0};
+
+ 1      3     4     2
+a'c' + ae' + cb' + db ¶ e'd_{0} + d_{1}, i.e. ¶ d_{1}e'_{0}
+- -    =     =-     =
+
+i.e. When you cut your finger, you will find Tincture of Calendula
+useful.
+
+33.
+
+   1           2          3           4
+d'b_{0} + a_{1}e'_{0} + ec_{0} + d_{1}a'_{0};
+
+ 1     4     2     3
+d'b + da' + ae' + ec ¶ bc_{0}
+-     =-    =-    =
+
+i.e. _I_ have never come across a mermaid at sea.
+                                                                   pg161
+34.
+
+     1             2             3             4
+c'_{1}b_{0} + a_{1}e'_{0} + d_{1}b'_{0} + a'_{1}c_{0};
+
+ 1     3     4     2
+c'b + db' + a'c + ae' ¶ de'_{0} + d_{1}, i.e. ¶ d_{1}e'_{0}
+- -    =    - =   =
+
+i.e. All the romances in this library are well-written.
+
+35.
+
+   1         2        3         4
+e'd_{0} + c'a_{0} + eb_{0} + d'c_{0};
+
+ 1     3    4     2
+e'd + eb + d'c + c'a ¶ ba_{0}
+- -   =    = -   =
+
+i.e. No bird in this aviary lives on mince-pies.
+
+36.
+
+     1              2            3           4
+d'_{1}c'_{0} + e_{1}a'_{0} + c_{1}b_{0} + e'd_{0};
+
+  1     3    4     2
+d'c' + cb + e'd + ea' ¶ ba'_{0}
+- -    =    - =   =
+
+i.e. No plum-pudding, that has not been boiled in a cloth, can be
+distinguished from soup.
+
+37.
+
+   1         2            3          4        5
+ce'_{0} + b'a'_{0} + h_{1}d'_{0} + ae_{0} + bd_{0};
+
+ 1     4     2     5    3
+ce' + ae + b'a' + bd + hd' ¶ ch_{0} + h_{1}, i.e. ¶ h_{1}c_{0}
+ -    -=   - =    =-    =
+
+i.e. All _your_ poems are uninteresting.
+
+38.
+
+     1           2         3        4           5
+b'_{1}a'_{0} + db_{0} + he'_{0} + ec_{0} + a_{1}h'_{0};
+
+  1     2    5     3     4
+b'a' + db + ah' + he' + ec ¶ dc_{0}
+- -     =   =-    =-    =
+
+i.e. None of my peaches have been grown in a hothouse.
+
+39.
+
+    1             2             3            4           5
+c_{1}d_{0} + h_{1}e'_{0} + c'_{1}a'_{0} + h'b_{0} + e_{1}d'_{0};
+
+ 1     3     5     2     4
+cd + c'a' + ed' + he' + h'b ¶ a'b_{0}
+--   =      -=    -=    =
+
+i.e. No pawnbroker is dishonest.
+
+40.
+
+   1         2           3          4         5
+bd'_{0} + c'h_{0} + e_{1}b'_{0} + da_{0} + e'c_{0};
+
+ 1     3     4    5     2
+bd' + eb' + da + e'c + c'h ¶ ah_{0}
+--    -=    =    = -   =
+
+i.e. No kitten with green eyes will play with a gorilla.
+
+41.
+
+     1           2        3           4             5
+c_{1}a'_{0} + h'b_{0} + ae_{0} + d_{1}c'_{0} + h_{1}e'_{0};
+
+ 1     3    4     5     2
+ca' + ae + dc' + he' + h'b ¶ db_{0} + d_{1}, i.e. ¶ d_{1}b_{0}
+--    =-    =    -=    =
+
+i.e. All _my_ friends in this College dine at the lower table.
+
+42.
+
+  1           2             3            4           5
+ca_{0} + h_{1}d'_{0} + c'_{1}e'_{0} + b'a'_{0} + d_{1}e_{0};
+
+ 1    3       4     5    2
+ca + c'e' + b'a' + de + hd' ¶ b'h_{0} + h_{1},
+--   = -      =    -=    =
+
+i.e. ¶ h_{1}b'_{0}
+
+i.e. My writing-desk is full of live scorpions.
+
+43.
+
+    1           2        3           4            5
+b'_{1}e_{0} + ah_{0} + dc_{0} + e'_{1}a'_{0} + bc'_{0}
+
+ 1     4      2    5     3
+b'e + e'a' + ah + bc' + dc ¶ hd_{0}
+- -   = -    =    =-     =
+
+i.e. No Mandarin ever reads Hogg's poems.
+                                                                   pg162
+44.
+
+     1           2           3           4         5
+e_{1}b'_{0} + a'd_{0} + c_{1}h'_{0} + e'a_{0} + d'h_{0};
+
+ 1     4     2     5     3
+eb' + e'a + a'd + d'h + ch' ¶ b'c_{0} + c_{1},
+-     = -   = -   = -    =
+
+i.e. ¶ c_{1}b'_{0}
+
+i.e. Shakespeare was clever.
+
+45.
+
+     1            2          3             4            5
+e'_{1}c'_{0} + hb'_{0} + d_{1}a_{0} + e_{1}a'_{0} + c_{1}b_{0};
+
+ 1      4     3    5    2
+e'c' + ea' + da + cb + hb' ¶ dh_{0} + d_{1}, i.e. ¶ d_{1}h_{0}
+- -    =-     =   =-    =
+
+i.e. Rainbows are not worth writing odes to.
+
+46.
+
+     1             2          3           4           5
+c'_{1}h'_{0} + e_{1}a_{0} + bd_{0} + a'_{1}h_{0} + d'c_{0};
+
+  1     4     2    5     3
+c'h' + a'h + ea + d'c + bd ¶ eb_{0} + e_{1}, i.e. ¶ e_{1}b_{0}
+- -    - =    =   - =    =
+
+i.e. These Sorites-examples are difficult.
+
+47.
+
+     1           2         3         4           5           6
+a'_{1}e'_{0} + bk_{0} + c'a_{0} + eh'_{0} + d_{1}b'_{0} + k'h_{0};
+
+  1     3     4     6     2    5
+a'e' + c'a + eh' + k'h + bk + db' ¶ c'd_{0} + d_{1},
+- -      =   =-    - =   -=    =
+
+i.e. ¶ d_{1}c'_{0}
+
+i.e. All my dreams come true.
+
+48.
+
+   1         2           3             4             5             6
+a'h_{0} + c'k_{0} + a_{1}d'_{0} + e_{1}h'_{0} + b_{1}k'_{0} + c_{1}e'_{0};
+
+ 1     3     4     6     2     5
+a'h + ad' + eh' + ce' + c'k + bk' ¶ d'b_{0} + b_{1},
+- -   =     -=    -=    = -    =
+
+i.e. ¶ b_{1}d'_{0}
+
+i.e. All the English pictures here are painted in oils.
+
+49.
+
+     1            2             3          4         5           6
+k'_{1}e_{0} + c_{1}h_{0} + b_{1}a'_{0} + kd_{0} + h'a_{0} + b'_{1}e'_{0};
+
+ 1     4     6     3     5     2
+k'e + kd + b'e' + ba' + h'a + ch ¶ dc_{0} + c_{1},
+- -   =    - =    =-    - =    =
+
+i.e. ¶ c_{1}d_{0}
+
+i.e. Donkeys are not easy to swallow.
+
+50.
+
+   1         2          3             4           5           6
+ab'_{0} + h'd_{0} + e_{1}c_{0} + b_{1}d'_{0} + a'k_{0} + c'_{1}h_{0};
+
+ 1     4     2     5     6     3
+ab' + bd' + h'd + a'k + c'h + ec ¶ ke_{0} + e_{1},
+--    =-    - =   =     - =    =
+
+i.e. ¶ e_{1}k_{0}
+
+i.e. Opium-eaters never wear white kid gloves.
+
+51.
+
+  1           2          3           4           5            6
+bc_{0} + k_{1}a'_{0} + eh_{0} + d_{1}b'_{0} + h'c'_{0} + k'_{1}e'_{0};
+
+ 1    4      5     3     6     2
+bc + db' + h'c' + eh + k'e' + ka' ¶ da'_{0} + d_{1},
+--    =    - =    -=   - =    =
+
+i.e. ¶ d_{1}a'_{0}
+
+i.e. A good husband always comes home for his tea.
+
+52.
+
+     1           2         3           4          5           6
+a'_{1}k'_{0} + ch_{0} + h'k_{0} + b_{1}d'_{0} + ea_{0} + d_{1}c'_{0}
+
+  1     3     2    6     4     5
+a'k' + h'k + ch + dc' + bd' + ea ¶ be_{0} + b_{1},
+- -    - =   -=   -=     =     =
+
+i.e. ¶ b_{1}e_{0}
+
+i.e. Bathing-machines are never made of mother-of-pearl.
+                                                                   pg163
+53.
+
+   1           2            3             4              5
+da'_{0} + k_{1}b'_{0} + c_{1}h_{0} + d'_{1}k'_{0} + e_{1}c'_{0}
+
+       6
++ a_{1}h'_{0};
+
+ 1      4     2     6     3    5
+da' + d'k' + kb' + ah' + ch + ec'
+--    = -    =     =-    -=    =
+
+¶ b'e_{0} + e_{1}, i.e. ¶ e_{1}b'_{0}
+
+i.e. Rainy days are always cloudy.
+
+54.
+
+   1           2            3           4           5          6
+kb'_{0} + a'_{1}c'_{0} + d'b_{0} + k'_{1}h'_{0} + ea_{0} + d_{1}c_{0};
+
+ 1     3      4     6     2     5
+kb' + d'b + k'h' + dc + a'c' + ea
+--    - =   =      =-   - =     =
+
+¶ h'e_{0}
+
+i.e. No heavy fish is unkind to children.
+
+55.
+
+     1            2         3        4        5         6
+k'_{1}b'_{0} + eh'_{0} + c'd_{0} + hb_{0} + ac_{0} + kd'_{0};
+
+  1     4    2     6     3     5
+k'b' + hb + eh' + kd' + c'd + ac ¶ ea_{0}
+- -    -=    =    =-    - =    =
+
+i.e. No engine-driver lives on barley-sugar.
+
+56.
+
+     1             2           3           4             5
+h_{1}b'_{0} + c_{1}d'_{0} + k'a_{0} + e_{1}h'_{0} + b_{1}a'_{0}
+
+       6
++ k_{1}c'_{0};
+
+ 1     4     5     3     6     2
+hb' + eh' + ba' + k'a + kc' + cd'
+--     =    =-    - =   =-    =
+
+¶ ed'_{0} + e_{1}, i.e. ¶ e_{1}d'_{0}
+
+i.e. All the animals in the yard gnaw bones.
+
+57.
+
+     1              2           3        4           5           6
+h'_{1}d'_{0} + e_{1}c'_{0} + k'a_{0} + cb_{0} + d_{1}l'_{0} + e'h_{0}
+
+    7
++ kl_{0};
+
+  1     5     7    3     6     2     4
+h'd' + dl' + kl + k'a + e'h + ec' + cb ¶ ab_{0}
+- -    =-    -=   =     - =   =-    =
+
+i.e. No badger can guess a conundrum.
+
+58.
+
+   1           2           3           4             5            6
+b'h_{0} + d'_{1}l'_{0} + ca_{0} + d_{1}k'_{0} + h'_{1}e'_{0} + mc'_{0}
+
+     7        8
++ a'b_{0} + ek_{0};
+
+ 1     5      7     3    6     8    4      2
+b'h + h'e' + a'b + ca + mc' + ek + dk' + d'l' ¶ ml'_{0}
+- -   = -    - =   -=    =    =-   -=    =
+
+i.e. No cheque of yours, received by me, is payable to order.
+
+59.
+
+     1           2        3         4           5              6
+c_{1}l'_{0} + h'e_{0} + kd_{0} + mc'_{0} + b'_{1}e'_{0} + n_{1}a'_{0}
+
+       7           8        9
++ l_{1}d'_{0} + m'b_{0} + ah_{0};
+
+ 1     4     7     3    8      5     2     9    6
+cl' + mc' + ld' + kd + m'b + b'e' + h'e + ah + na'
+--    -=    =-     =   = -   = -    - =   -=    =
+
+¶ kn_{0}
+
+i.e. I cannot read any of Brown's letters.
+
+60.
+
+     1             2             3           4         5         6
+e_{1}c'_{0} + l_{1}n'_{0} + d_{1}a'_{0} + m'b_{0} + ck'_{0} + e'r_{0}
+
+      7           8           9             10
++ h_{1}n_{0} + b'k_{0} + r'_{1}d'_{0} + m_{1}l'_{0};
+
+ 1     5     6     8     4     9      3    10     2     7
+ec' + ck' + e'r + b'k + m'b + r'd' + da' + ml' + ln' + hn
+--    =-    = -   - =   - =   = -    =     =-    =-     =
+
+¶ a'h_{0} + h_{1}, i.e. ¶ h_{1}a'_{0}
+
+i.e. I always avoid a kangaroo.
+
+                                                                   pg164
+
+
+NOTES.
+
+(A) [See p. 80].
+
+
+One of the favourite objections, brought against the Science of Logic by
+its detractors, is that a Syllogism has no real validity as an argument,
+since it involves the Fallacy of _Petitio Principii_ (i.e. "Begging the
+Question", the essence of which is that the whole Conclusion is involved
+in _one_ of the Premisses).
+
+This formidable objection is refuted, with beautiful clearness and
+simplicity, by these three Diagrams, which show us that, in each of the
+three Figures, the Conclusion is really involved in the _two_ Premisses
+taken together, each contributing its share.
+
+Thus, in Fig. I., the Premiss xm_{0} empties the _Inner_ Cell of the
+N.W. Quarter, while the Premiss ym_{0} empties its _Outer_ Cell. Hence
+it needs the _two_ Premisses to empty the _whole_ of the N.W. Quarter,
+and thus to prove the Conclusion xy_{0}.
+
+Again, in Fig. II., the Premiss xm_{0} empties the Inner Cell of the
+N.W. Quarter. The Premiss ym_{1} merely tells us that the Inner Portion
+of the W. Half is _occupied_, so that we may place a 'I' in it,
+_somewhere_; but, if this were the _whole_ of our information, we should
+not know in _which_ Cell to place it, so that it would have to 'sit on
+the fence': it is only when we learn, from the other Premiss, that the
+_upper_ of these two Cells is _empty_, that we feel authorised to place
+the 'I' in the _lower_ Cell, and thus to prove the Conclusion x'y_{1}.
+
+Lastly, in Fig. III., the information, that m _exists_, merely
+authorises us to place a 'I' _somewhere_ in the Inner Square----but it
+has large choice of fences to sit upon! It needs the Premiss xm_{0} to
+drive it out of the N. Half of that Square; and it needs the Premiss
+ym_{0} to drive it out of the W. Half. Hence it needs the _two_
+Premisses to drive it into the Inner Portion of the S.E. Quarter, and
+thus to prove the Conclusion x'y'_{1}.
+
+                                                                   pg165
+
+
+APPENDIX,
+
+ADDRESSED TO TEACHERS.
+
+
+§ 1.
+
+_Introductory._
+
+
+There are several matters, too hard to discuss with _Learners_, which
+nevertheless need to be explained to any _Teachers_, into whose hands
+this book may fall, in order that they may thoroughly understand what my
+Symbolic Method _is_, and in what respects it differs from the many
+other Methods already published.
+
+These matters are as follows:--
+
+    The "Existential Import" of Propositions.
+    The use of "is-not" (or "are-not") as a Copula.
+    The theory "two Negative Premisses prove nothing."
+    Euler's Method of Diagrams.
+    Venn's Method of Diagrams.
+    My Method of Diagrams.
+    The Solution of a Syllogism by various Methods.
+    My Method of treating Syllogisms and Sorites.
+    Some account of Parts II, III.
+
+
+§ 2.
+
+_The "Existential Import" of Propositions._
+
+
+The writers, and editors, of the Logical text-books which run in the
+ordinary grooves----to whom I shall hereafter refer by the (I hope
+inoffensive) title "The Logicians"----take, on this subject, what seems
+to me to be a more humble position than is at all necessary. They speak
+of the Copula of a Proposition "with bated breath", almost as if it were
+a living, conscious Entity, capable of declaring for itself what it
+chose to mean, and that we, poor human creatures, had nothing to do but
+to ascertain _what_ was its sovereign will and pleasure, and submit to
+it.
+                                                                   pg166
+In opposition to this view, I maintain that any writer of a book is
+fully authorised in attaching any meaning he likes to any word or phrase
+he intends to use. If I find an author saying, at the beginning of his
+book, "Let it be understood that by the word '_black_' I shall always
+mean '_white_', and that by the word '_white_' I shall always mean
+'_black_'," I meekly accept his ruling, however injudicious I may think
+it.
+
+And so, with regard to the question whether a Proposition is or is not
+to be understood as asserting the existence of its Subject, I maintain
+that every writer may adopt his own rule, provided of course that it is
+consistent with itself and with the accepted facts of Logic.
+
+Let us consider certain views that may _logically_ be held, and thus
+settle which of them may _conveniently_ be held; after which I shall
+hold myself free to declare which of them _I_ intend to hold.
+
+The _kinds_ of Propositions, to be considered, are those that begin with
+"some", with "no", and with "all". These are usually called Propositions
+"in _I_", "in _E_", and "in _A_".
+
+First, then, a Proposition in _I_ may be understood as asserting, or
+else as _not_ asserting, the existence of its Subject. (By "existence" I
+mean of course whatever kind of existence suits its nature. The two
+Propositions, "_dreams_ exist" and "_drums_ exist", denote two totally
+different kinds of "existence". A _dream_ is an aggregate of ideas, and
+exists only in the _mind of a dreamer_: whereas a _drum_ is an aggregate
+of wood and parchment, and exists in _the hands of a drummer_.)
+
+First, let us suppose that _I_ "asserts" (i.e. "asserts the existence of
+its Subject").
+
+Here, of course, we must regard a Proposition in _A_ as making the
+_same_ assertion, since it necessarily _contains_ a Proposition in _I_.
+
+We now have _I_ and _A_ "asserting". Does this leave us free to make
+what supposition we choose as to _E_? My answer is "No. We are tied down
+to the supposition that _E_ does _not_ assert." This can be proved as
+follows:--
+
+If possible, let _E_ "assert". Then (taking x, y, and z to represent
+Attributes) we see that, if the Proposition "No xy are z" be true, some
+things exist with the Attributes x and y: i.e. "Some x are y."
+                                                                   pg167
+Also we know that, if the Proposition "Some xy are z" be true, the same
+result follows.
+
+But these two Propositions are Contradictories, so that one or other of
+them _must_ be true. Hence this result is _always_ true: i.e. the
+Proposition "Some x are y" is _always_ true!
+
+_Quod est absurdum._ (See Note (A), p. 195).
+
+We see, then, that the supposition "_I_ asserts" necessarily leads to
+"_A_ asserts, but _E_ does not". And this is the _first_ of the various
+views that may conceivably be held.
+
+Next, let us suppose that _I_ does _not_ "assert." And, along with this,
+let us take the supposition that _E_ _does_ "assert."
+
+Hence the Proposition "No x are y" means "Some x exist, and none of them
+are y": i.e. "_all_ of them are _not_-y," which is a Proposition in _A_.
+We also know, of course, that the Proposition "All x are not-y" proves
+"No x are y." Now two Propositions, each of which proves the other, are
+_equivalent_. Hence every Proposition in _A_ is equivalent to one in
+_E_, and therefore "_asserts_".
+
+Hence our _second_ conceivable view is "_E_ and _A_ assert, but _I_ does
+not."
+
+This view does not seen to involve any necessary contradiction with
+itself or with the accepted facts of Logic. But, when we come to _test_
+it, as applied to the actual _facts_ of life, we shall find I think,
+that it fits in with them so badly that its adoption would be, to say
+the least of it, singularly inconvenient for ordinary folk.
+
+Let me record a little dialogue I have just held with my friend Jones,
+who is trying to form a new Club, to be regulated on strictly _Logical_
+principles.
+
+_Author._ "Well, Jones! Have you got your new Club started yet?"
+
+_Jones_ (_rubbing his hands_). "You'll be glad to hear that some of the
+Members (mind, I only say '_some_') are millionaires! Rolling in gold,
+my boy!"
+
+_Author._ "That sounds well. And how many Members have entered?"
+
+_Jones_ (_staring_). "None at all. We haven't got it started yet. What
+makes you think we have?"
+
+_Author._ "Why, I thought you said that some of the Members----"
+                                                                   pg168
+_Jones_ (_contemptuously_). "You don't seem to be aware that we're
+working on strictly _Logical_ principles. A _Particular_ Proposition
+does _not_ assert the existence of its Subject. I merely meant to say
+that we've made a Rule not to admit _any_ Members till we have at least
+_three_ Candidates whose incomes are over ten thousand a year!"
+
+_Author._ "Oh, _that's_ what you meant, is it? Let's hear some more of
+your Rules."
+
+_Jones._ "Another is, that no one, who has been convicted seven times of
+forgery, is admissible."
+
+_Author._ "And here, again, I suppose you don't mean to assert there
+_are_ any such convicts in existence?"
+
+_Jones._ "Why, that's exactly what I _do_ mean to assert! Don't you know
+that a Universal Negative _asserts_ the existence of its Subject? _Of
+course_ we didn't make that Rule till we had satisfied ourselves that
+there are several such convicts now living."
+
+The Reader can now decide for himself how far this _second_ conceivable
+view would fit in with the facts of life. He will, I think, agree with
+me that Jones' view, of the 'Existential Import' of Propositions, would
+lead to some inconvenience.
+
+Thirdly, let us suppose that neither _I_ nor _E_ "asserts".
+
+Now the supposition that the two Propositions, "Some x are y" and "No x
+are not-y", do _not_ "assert", necessarily involves the supposition that
+"All x are y" does _not_ "assert", since it would be absurd to suppose
+that they assert, when combined, more than they do when taken
+separately.
+
+Hence the _third_ (and last) of the conceivable views is that neither
+_I_, nor _E_, nor _A_, "asserts".
+
+The advocates of this third view would interpret the Proposition "Some x
+are y" to mean "If there _were_ any x in existence, some of them _would_
+be y"; and so with _E_ and _A_.
+
+It admits of proof that this view, as regards _A_, conflicts with the
+accepted facts of Logic.
+
+Let us take the Syllogism _Darapti_, which is universally accepted as
+valid. Its form is
+
+    "All m are x;
+     All m are y.
+         .'. Some y are x".
+                                                                   pg169
+This they would interpret as follows:--
+
+    "If there were any m in existence, all of them would be x;
+     If there were any m in existence, all of them would be y.
+         .'. If there were any y in existence, some of them
+               would be x".
+
+That this Conclusion does _not_ follow has been so briefly and clearly
+explained by Mr. Keynes (in his "Formal Logic", dated 1894, pp. 356,
+357), that I prefer to quote his words:--
+
+"_Let no proposition imply the existence either of its subject or of its
+predicate._
+
+"Take, as an example, a syllogism in _Darapti_:--
+
+    '_All M is P_,
+     _All M is S_,
+          _.'. Some S is P_.'
+
+"Taking S, M, P, as the minor, middle, and major terms respectively, the
+conclusion will imply that, if there is an S, there is some P. Will the
+premisses also imply this? If so, then the syllogism is valid; but not
+otherwise.
+
+"The conclusion implies that if S exists P exists; but, consistently
+with the premisses, S may be existent while M and P are both
+non-existent. An implication is, therefore, contained in the conclusion,
+which is not justified by the premisses."
+
+This seems to _me_ entirely clear and convincing. Still, "to make
+sicker", I may as well throw the above (_soi-disant_) Syllogism into a
+concrete form, which will be within the grasp of even a _non_-logical
+Reader.
+
+Let us suppose that a Boys' School has been set up, with the following
+system of Rules:--
+
+"All boys in the First (the highest) Class are to do French, Greek, and
+Latin. All in the Second Class are to do Greek only. All in the Third
+Class are to do Latin only."
+
+Suppose also that there _are_ boys in the Third Class, and in the
+Second; but that no boy has yet risen into the First.
+
+It is evident that there are no boys in the School doing French: still
+we know, by the Rules, what would happen if there _were_ any.
+                                                                   pg170
+We are authorised, then, by the _Data_, to assert the following two
+Propositions:--
+
+    "If there were any boys doing French, all of them would
+       be doing Greek;
+     If there were any boys doing French, all of them would
+       be doing Latin."
+
+And the Conclusion, according to "The Logicians" would be
+
+    "If there were any boys doing Latin, some of them would
+       be doing Greek."
+
+Here, then, we have two _true_ Premisses and a _false_ Conclusion (since
+we know that there _are_ boys doing Latin, and that _none_ of them are
+doing Greek). Hence the argument is _invalid_.
+
+Similarly it may be shown that this "non-existential" interpretation
+destroys the validity of _Disamis_, _Datisi_, _Felapton_, and
+_Fresison_.
+
+Some of "The Logicians" will, no doubt, be ready to reply "But we are
+not _Aldrichians_! Why should _we_ be responsible for the validity of
+the Syllogisms of so antiquated an author as Aldrich?"
+
+Very good. Then, for the _special_ benefit of these "friends" of mine
+(with what ominous emphasis that name is sometimes used! "I must have a
+private interview with _you_, my young _friend_," says the bland Dr.
+Birch, "in my library, at 9 a.m. tomorrow. And you will please to be
+_punctual_!"), for their _special_ benefit, I say, I will produce
+_another_ charge against this "non-existential" interpretation.
+
+It actually invalidates the ordinary Process of "Conversion", as applied
+to Proposition in '_I_'.
+
+_Every_ logician, Aldrichian or otherwise, accepts it as an established
+fact that "Some x are y" may be legitimately converted into "Some y are
+x."
+
+But is it equally clear that the Proposition "If there _were_ any x,
+some of them _would_ be y" may be legitimately converted into "If there
+_were_ any y, some of them would be x"? I trow not.
+
+The example I have already used----of a Boys' School with a non-existent
+First Class----will serve admirably to illustrate this new flaw in the
+theory of "The Logicians."
+                                                                   pg171
+Let us suppose that there is yet _another_ Rule in this School, viz. "In
+each Class, at the end of the Term, the head boy and the second boy
+shall receive prizes."
+
+This Rule entirely authorises us to assert (in the sense in which "The
+Logicians" would use the words) "Some boys in the First Class will
+receive prizes", for this simply means (according to them) "If there
+_were_ any boys in the First Class, some of them _would_ receive
+prizes."
+
+Now the Converse of this Proposition is, of course, "Some boys, who will
+receive prizes, are in the First Class", which means (according to "The
+Logicians") "If there _were_ any boys about to receive prizes, some of
+them _would_ be in the First Class" (which Class we know to be _empty_).
+
+Of this Pair of Converse Propositions, the first is undoubtedly _true_:
+the second, _as_ undoubtedly, _false_.
+
+It is always sad to see a batsman knock down his own wicket: one pities
+him, as a man and a brother, but, as a _cricketer_, one can but
+pronounce him "Out!"
+
+We see, then, that, among all the conceivable views we have here
+considered, there are only _two_ which can _logically_ be held, viz.
+
+    _I_ and _A_ "assert", but _E_ does not.
+    _E_ and _A_ "assert", but _I_ does not.
+
+The _second_ of these I have shown to involve great practical
+inconvenience.
+
+The _first_ is the one adopted in this book. (See p. 19.)
+
+Some further remarks on this subject will be found in Note (B), at p.
+196.
+
+
+§ 3.
+
+_The use of "is-not" (or "are-not") as a Copula._
+
+
+Is it better to say "John _is-not_ in-the-house" or "John _is_
+not-in-the-house"? "Some of my acquaintances _are-not_
+men-I-should-like-to-be-seen-with" or "Some of my acquaintances _are_
+men-I-should-_not_-like-to-be-seen-with"? That is the sort of question
+we have now to discuss.
+                                                                   pg172
+This is no question of Logical Right and Wrong: it is merely a matter of
+_taste_, since the two forms mean exactly the same thing. And here,
+again, "The Logicians" seem to me to take much too humble a position.
+When they are putting the final touches to the grouping of their
+Proposition, just before the curtain goes up, and when the
+Copula----always a rather fussy 'heavy father', asks them "Am _I_ to
+have the 'not', or will you tack it on to the Predicate?" they are much
+too ready to answer, like the subtle cab-driver, "Leave it to _you_,
+Sir!" The result seems to be, that the grasping Copula constantly gets a
+"not" that had better have been merged in the Predicate, and that
+Propositions are differentiated which had better have been recognised as
+precisely similar. Surely it is simpler to treat "Some men are Jews" and
+"Some men are Gentiles" as being both of them, _affirmative_
+Propositions, instead of translating the latter into "Some men are-not
+Jews", and regarding it as a _negative_ Propositions?
+
+The fact is, "The Logicians" have somehow acquired a perfectly _morbid_
+dread of negative Attributes, which makes them shut their eyes, like
+frightened children, when they come across such terrible Propositions as
+"All not-x are y"; and thus they exclude from their system many very
+useful forms of Syllogisms.
+
+Under the influence of this unreasoning terror, they plead that, in
+Dichotomy by Contradiction, the _negative_ part is too large to deal
+with, so that it is better to regard each Thing as either included in,
+or excluded from, the _positive_ part. I see no force in this plea: and
+the facts often go the other way. As a personal question, dear Reader,
+if _you_ were to group your acquaintances into the two Classes, men that
+you _would_ like to be seen with, and men that you would _not_ like to
+be seen with, do you think the latter group would be so _very_ much the
+larger of the two?
+
+For the purposes of Symbolic Logic, it is so _much_ the most convenient
+plan to regard the two sub-divisions, produced by Dichotomy, on the
+_same_ footing, and to say, of any Thing, either that it "is" in the
+one, or that it "is" in the other, that I do not think any Reader of
+this book is likely to demur to my adopting that course.
+
+                                                                   pg173
+§ 4.
+
+_The theory that "two Negative Premisses prove nothing"._
+
+
+This I consider to be _another_ craze of "The Logicians", fully as
+morbid as their dread of a negative Attribute.
+
+It is, perhaps, best refuted by the method of _Instantia Contraria_.
+
+Take the following Pairs of Premisses:--
+
+    "None of my boys are conceited;
+     None of my girls are greedy".
+
+    "None of my boys are clever;
+     None but a clever boy could solve this problem".
+
+    "None of my boys are learned;
+     Some of my boys are not choristers".
+
+(This last Proposition is, in _my_ system, an _affirmative_ one, since I
+should read it "are not-choristers"; but, in dealing with "The
+Logicians," I may fairly treat it as a _negative_ one, since _they_
+would read it "are-not choristers".)
+
+If you, dear Reader, declare, after full consideration of these Pairs of
+Premisses, that you cannot deduce a Conclusion from _any_ of
+them----why, all I can say is that, like the Duke in Patience, you "will
+have to be contented with our heart-felt sympathy"! [See Note (C), p.
+196.]
+
+
+§ 5.
+
+_Euler's Method of Diagrams._
+
+
+Diagrams seem to have been used, at first, to represent _Propositions_
+only. In Euler's well-known Circles, each was supposed to contain a
+class, and the Diagram consisted of two circles, which exhibited the
+relations, as to inclusion and exclusion, existing between the two
+Classes.
+
+        _____
+      _/ ___ \_
+     /  / y \  \
+    |   \___/   |
+     \_   x   _/
+       \_____/
+
+Thus, the Diagram, here given, exhibits the two Classes, whose
+respective Attributes are x and y, as so related to each other that the
+following Propositions are all simultaneously true:--"All x are y", "No
+x are not-y", "Some x are y", "Some y are not-x", "Some not-y are
+not-x", and, of course, the Converses of the last four.
+                                                                   pg174
+        _____
+      _/ ___ \_
+     /  / y \  \
+    |   \___/   |
+     \_   x   _/
+       \_____/
+
+Similarly, with this Diagram, the following Propositions are true:--"All
+y are x", "No y are not-x", "Some y are x", "Some x are not-y", "Some
+not-x are not-y", and, of course, the Converses of the last four.
+
+        _____           _____
+      _/     \_       _/     \_
+     /         \     /         \
+    |     x     |   |     y     |
+     \_       _/     \_       _/
+       \_____/         \_____/
+
+Similarly, with this Diagram, the following are true:--"All x are
+not-y", "All y are not-x", "No x are y", "Some x are not-y", "Some y are
+not-x", "Some not-x are not-y", and the Converses of the last four.
+
+        _____   _____
+      _/     \_/     \_
+     /       / \       \
+    |     x |   | y     |
+     \_      \_/      _/
+       \_____/ \_____/
+
+Similarly, with this Diagram, the following are true:--"Some x are y",
+"Some x are not-y", "Some not-x are y", "Some not-x are not-y", and of
+course, their four Converses.
+
+Note that _all_ Euler's Diagrams assert "Some not-x are not-y."
+Apparently it never occured to him that it might _sometimes_ fail to be
+true!
+
+Now, to represent "All x are y", the _first_ of these Diagrams would
+suffice. Similarly, to represent "No x are y", the _third_ would
+suffice. But to represent any _Particular_ Proposition, at least _three_
+Diagrams would be needed (in order to include all the possible cases),
+and, for "Some not-x are not-y", all the _four_.
+
+
+§ 6.
+
+_Venn's Method of Diagrams._
+
+
+Let us represent "not-x" by "x'".
+
+Mr. Venn's Method of Diagrams is a great advance on the above Method.
+
+He uses the last of the above Diagrams to represent _any_ desired
+relation between x and y, by simply shading a Compartment known to be
+_empty_, and placing a + in one known to be _occupied_.
+
+Thus, he would represent the three Propositions "Some x are y", "No x
+are y", and "All x are y", as follows:--
+
+        _____   _____
+      _/     \_/     \_
+     /       / \       \
+    |       | + |       |
+     \_      \_/      _/
+       \_____/ \_____/
+
+        _____   _____
+      _/     \_/     \_
+     /       /#\       \
+    |       |###|       |
+     \_      \#/      _/
+       \_____/ \_____/
+
+        _____   _____
+      _/#####\_/     \_
+     /#######/ \       \
+    |#######| + |       |
+     \#######\_/      _/
+       \#####/ \_____/
+                                                                   pg175
+It will be seen that, of the _four_ Classes, whose peculiar Sets of
+Attributes are xy, xy', x'y, and x'y', only _three_ are here provided
+with closed Compartments, while the _fourth_ is allowed the rest of the
+Infinite Plane to range about in!
+
+This arrangement would involve us in very serious trouble, if we ever
+attempted to represent "No x' are y'." Mr. Venn _once_ (at p. 281)
+encounters this awful task; but evades it, in a quite masterly fashion,
+by the simple foot-note "We have not troubled to shade the outside of
+this diagram"!
+
+To represent _two_ Propositions (containing a common Term) _together_, a
+_three_-letter Diagram is needed. This is the one used by Mr. Venn.
+
+             _____
+           _/     \_
+         _/___ x ___\_
+       _/|    \_/    |\_
+      /   \_  / \  _/   \
+     |      \|___|/      |
+      \_  m   \_/   y  _/
+        \_____/ \_____/
+
+Here, again, we have only _seven_ closed Compartments, to accommodate
+the _eight_ Classes whose peculiar Sets of Attributes are xym, xym', &c.
+
+"With four terms in request," Mr. Venn says, "the most simple and
+symmetrical diagram seems to me that produced by making four ellipses
+intersect one another in the desired manner". This, however, provides
+only _fifteen_ closed compartments.
+
+         b  ____    ____  c
+           /    \  /    \
+    a  ___/___   \/   ___\___  d
+      /   \   \  /\  /   /   \
+     /     \   \/  \/   /     \
+     \      \  /\  /\  /      /
+      \      \/  \/  \/      /
+       \     /\  /\  /\     /
+        \    \ \/  \/ /    /
+         \    \/\  /\/    /
+          \   /\_\/_/\   /
+           \__\______/__/
+
+For _five_ letters, "the simplest diagram I can suggest," Mr. Venn says,
+"is one like this (the small ellipse in the centre is to be regarded as
+a portion of the _outside_ of c; i.e. its four component portions are
+inside b and d but are no part of c). It must be admitted that such a
+diagram is not quite so simple to draw as one might wish it to be; but
+then consider what the alternative is of one undertakes to deal with
+five terms and all their combinations--nothing short of the disagreeable
+task of writing out, or in some way putting before us, all the 32
+combinations involved."
+
+                   b      c      d
+                 ______  ____  ______
+          ______/_     \/    \/     _\______
+      a  /     /  \    /\    /\    /  \     \  e
+        /     /    \  /  \  /  \  /    \     \
+       /      \     \/    \/    \/     /      \
+      /        \    /\    /\    /\    /        \
+     /          \  /  \  /  \  /  \  /          \
+    |            \/    \/ __ \/    \/            |
+    |            /\    /\/  \/\    /\            |
+    |           /  \  / /\  /\ \  /  \           |
+    |          |    \/ |  \/  | \/    |          |
+    |          |    /\ |  /\  | /\    |          |
+    |           \  /  \ \/  \/ /  \  /           |
+     \           \/    \/\__/\/    \/           /
+      \          /\    /\    /\    /\          /
+       \        /  \  /  \  /  \  /  \        /
+        \      /    \/    \/    \/    \      /
+         \     \    /\    /\    /\    /     /
+          \     \  /  \  /  \  /  \  /     /
+           \     \/    \/    \/    \/     /
+            \    /\____/\____/\____/\    /
+             \  /                    \  /
+              \|                      |/
+                \____________________/
+                                                                   pg176
+This Diagram gives us 31 closed compartments.
+
+For _six_ letters, Mr. Venn suggests that we might use _two_ Diagrams,
+like the above, one for the f-part, and the other for the not-f-part, of
+all the other combinations. "This", he says, "would give the desired 64
+subdivisions." This, however, would only give 62 closed Compartments,
+and _one_ infinite area, which the two Classes, a'b'c'd'e'f and
+a'b'c'd'e'f', would have to share between them.
+
+Beyond _six_ letters Mr. Venn does not go.
+
+
+§ 7.
+
+_My Method of Diagrams._
+
+
+My Method of Diagrams _resembles_ Mr. Venn's, in having separate
+Compartments assigned to the various Classes, and in marking these
+Compartments as _occupied_ or as _empty_; but it _differs_ from his
+Method, in assigning a _closed_ area to the _Universe of Discourse_, so
+that the Class which, under Mr. Venn's liberal sway, has been ranging at
+will through Infinite Space, is suddenly dismayed to find itself
+"cabin'd, cribb'd, confined", in a limited Cell like any other Class!
+Also I use _rectilinear_, instead of _curvilinear_, Figures; and I mark
+an _occupied_ Cell with a 'I' (meaning that there is at least _one_
+Thing in it), and an _empty_ Cell with a 'O' (meaning that there is _no_
+Thing in it).
+
+For _two_ letters, I use this Diagram, in which the North Half is
+assigned to 'x', the South to 'not-x' (or 'x''), the West to y, and the
+East to y'. Thus the N.W. Cell contains the xy-Class, the N.E. Cell the
+xy'-Class, and so on.
+
+    ·-------·
+    |   |   |
+    |---|---|
+    |   |   |
+    ·-------·
+
+For _three_ letters, I subdivide these four Cells, by drawing an _Inner_
+Square, which I assign to m, the _Outer_ Border being assigned to m'. I
+thus get _eight_ Cells that are needed to accommodate the eight Classes,
+whose peculiar Sets of Attributes are xym, xym', &c.
+
+    ·---------------·
+    |       |       |
+    |   ·---|---·   |
+    |   |   |   |   |
+    |---|---|---|---|
+    |   |   |   |   |
+    |   ·---|---·   |
+    |       |       |
+    ·---------------·
+
+This last Diagram is the most complex that I use in the _Elementary_
+Part of my 'Symbolic Logic.' But I may as well take this opportunity of
+describing the more complex ones which will appear in Part II.
+                                                                   pg177
+For _four_ letters (which I call a, b, c, d) I use this Diagram;
+assigning the North Half to a (and of course the _rest_ of the Diagram
+to a'), the West Half to b, the Horizontal Oblong to c, and the Upright
+Oblong to d. We have now got 16 Cells.
+
+    ·---------------------·
+    |          |          |
+    |      ·---|---·      |
+    |      |   |   |      |
+    |  ·---|---|---|---·  |
+    |  |   |   |   |   |  |
+    |--|---|---|---|---|--|
+    |  |   |   |   |   |  |
+    |  ·---|---|---|---·  |
+    |      |   |   |      |
+    |      ·---|---·      |
+    |          |          |
+    ·---------------------·
+
+For _five_ letters (adding e) I subdivide the 16 Cells of the previous
+Diagram by _oblique_ partitions, assigning all the _upper_ portions to
+e, and all the _lower_ portions to e'. Here, I admit, we lose the
+advantage of having the e-Class all _together_, "in a ring-fence", like
+the other 4 Classes. Still, it is very easy to find; and the operation,
+of erasing it, is nearly as easy as that of erasing any other Class. We
+have now got 32 Cells.
+
+    ·---------------------·
+    |    /     |       /  |
+    |   /  ·---|---·  /   |
+    |  /   | / | / | /    |
+    |  ·---|---|---|---·  |
+    |  | / | / | / | / |  |
+    |--|---|---|---|---|--|
+    |  | / | / | / | / |  |
+    |  ·---|---|---|---·  |
+    |    / | / | / |   /  |
+    |   /  ·---|---·  /   |
+    |  /       |     /    |
+    ·---------------------·
+
+For _six_ letters (adding h, as I avoid _tailed_ letters) I substitute
+upright crosses for the oblique partitions, assigning the 4 portions,
+into which each of the 16 Cells is thus divided, to the four Classes eh,
+eh', e'h, e'h'. We have now got 64 Cells.
+
+    #=============================#
+    H     |        H        |     H
+    H     |  #=====H=====#  |     H
+    H     |  H  |  H  |  H  |     H
+    H-----|--H--|--H--|--H--|-----H
+    H     |  H  |  H  |  H  |     H
+    H  #=====H=====H=====H=====#  H
+    H  H  |  H  |  H  |  H  |  H  H
+    H  H--|--H--|--H--|--H--|--H  H
+    H  H  |  H  |  H  |  H  |  H  H
+    H==H=====H=====H=====H=====H--H
+    H  H  |  H  |  H  |  H  |  H  H
+    H  H--|--H--|--H--|--H--|--H  H
+    H  H  |  H  |  H  |  H  |  H  H
+    H  #=====H=====H=====H=====#  H
+    H     |  H  |  H  |  H  |     H
+    H-----|--H--|--H--|--H--|-----H
+    H     |  H  |  H  |  H  |     H
+    H     |  #=====H=====#  |     H
+    H     |        H        |     H
+    #=============================#
+                                                                   pg178
+For _seven_ letters (adding k) I add, to each upright cross, a little
+inner square. All these 16 little squares are assigned to the k-Class,
+and all outside them to the k'-Class; so that 8 little Cells (into which
+each of the 16 Cells is divided) are respectively assigned to the 8
+Classes ehk, ehk', &c. We have now got 128 Cells.
+
+    #=====================================================#
+    H        |                 H                 |        H
+    H        |     #===========H===========#     |        H
+    H        |     H     |     H     |     H     |        H
+    H     ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·     H
+    H     |  |  |  H  |  |  |  H  |  |  |  H  |  |  |     H
+    H-----|--|--|--H--|--|--|--H--|--|--|--H--|--|--|-----H
+    H     |  |  |  H  |  |  |  H  |  |  |  H  |  |  |     H
+    H     ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·     H
+    H        |     H     |     H     |     H     |        H
+    H  #===========H===========H===========H===========#  H
+    H  H     |     H     |     H     |     H     |     H  H
+    H  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  H
+    H  H  |  |  |  H  |  |  |  H  |  |  |  H  |  |  |  H  H
+    H  H--|--|--|--H--|--|--|--H--|--|--|--H--|--|--|--H  H
+    H  H  |  |  |  H  |  |  |  H  |  |  |  H  |  |  |  H  H
+    H  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  H
+    H  H     |     H     |     H     |     H     |     H  H
+    H==H===========H===========H===========H===========H==H
+    H  H     |     H     |     H     |     H     |     H  H
+    H  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  H
+    H  H  |  |  |  H  |  |  |  H  |  |  |  H  |  |  |  H  H
+    H  H--|--|--|--H--|--|--|--H--|--|--|--H--|--|--|--H  H
+    H  H  |  |  |  H  |  |  |  H  |  |  |  H  |  |  |  H  H
+    H  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·  H  H
+    H  H     |     H     |     H     |     H     |     H  H
+    H  #===========H===========H===========H===========#  H
+    H        |     H     |     H     |     H     |        H
+    H     ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·     H
+    H     |  |  |  H  |  |  |  H  |  |  |  H  |  |  |     H
+    H-----|--|--|--H--|--|--|--H--|--|--|--H--|--|--|-----H
+    H     |  |  |  H  |  |  |  H  |  |  |  H  |  |  |     H
+    H     ·--|--·  H  ·--|--·  H  ·--|--·  H  ·--|--·     H
+    H        |     H     |     H     |     H     |        H
+    H        |     #===========H===========#     |        H
+    H        |                 H                 |        H
+    ·=====================================================#
+
+For _eight_ letters (adding l) I place, in each of the 16 Cells, a
+_lattice_, which is a reduced copy of the whole Diagram; and, just as
+the 16 large Cells of the whole Diagram are assigned to the 16 Classes
+abcd, abcd', &c., so the 16 little Cells of each lattice are assigned to
+the 16 Classes ehkl, ehkl', &c. Thus, the lattice in the N.W. corner
+serves to accommodate the 16 Classes abc'd'ehkl, abc'd'eh'kl', &c. This
+Octoliteral Diagram (see next page) contains 256 Cells.
+
+For _nine_ letters, I place 2 Octoliteral Diagrams side by side,
+assigning one of them to m, and the other to m'. We have now got 512
+Cells.
+                                                                   pg179
+#=====================================================================#
+H          |                       H                       |          H
+H          |       #===============H===============#       |          H
+H          |       H       |       H       |       H       |          H
+H       ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·       H
+H       |  |  |    H    |  |  |    H    |  |  |    H    |  |  |       H
+H    ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--·    H
+H    |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  |    H
+H----|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|----H
+H    |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  |    H
+H    ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--·    H
+H       |  |  |    H    |  |  |    H    |  |  |    H    |  |  |       H
+H       ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·       H
+H          |       H       |       H       |       H       |          H
+H  #===============H===============H===============H===============#  H
+H  H       |       H       |       H       |       H       |       H  H
+H  H    ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·    H  H
+H  H    |  |  |    H    |  |  |    H    |  |  |    H    |  |  |    H  H
+H  H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H  H
+H  H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H  H
+H  H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H  H
+H  H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H  H
+H  H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H  H
+H  H    |  |  |    H    |  |  |    H    |  |  |    H    |  |  |    H  H
+H  H    ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·    H  H
+H  H       |       H       |       H       |       H       |       H  H
+H==H===============H===============H===============H===============H==H
+H  H       |       H       |       H       |       H       |       H  H
+H  H    ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·    H  H
+H  H    |  |  |    H    |  |  |    H    |  |  |    H    |  |  |    H  H
+H  H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H  H
+H  H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H  H
+H  H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H  H
+H  H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H  H
+H  H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H  H
+H  H    |  |  |    H    |  |  |    H    |  |  |    H    |  |  |    H  H
+H  H    ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·    H  H
+H  H       |       H       |       H       |       H       |       H  H
+H  #===============H===============H===============H===============#  H
+H          |       H       |       H       |       H       |          H
+H       ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·       H
+H       |  |  |    H    |  |  |    H    |  |  |    H    |  |  |       H
+H    ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--·    H
+H    |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  |    H
+H----|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|-H-|--|--|--|--|----H
+H    |  |  |  |  | H |  |  |  |  | H |  |  |  |  | H |  |  |  |  |    H
+H    ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--· H ·--|--|--|--·    H
+H       |  |  |    H    |  |  |    H    |  |  |    H    |  |  |       H
+H       ·--|--·    H    ·--|--·    H    ·--|--·    H    ·--|--·       H
+H          |       H       |       H       |       H       |          H
+H          |       #===============H===============#       |          H
+H          |                       H                       |          H
+#=====================================================================#
+
+Finally, for _ten_ letters, I arrange 4 Octoliteral Diagrams, like the
+above, in a square, assigning them to the 4 Classes mn, mn', m'n, m'n'.
+We have now got 1024 Cells.
+
+
+§ 8.
+
+_Solution of a Syllogism by various Methods._
+
+
+The best way, I think, to exhibit the differences between these various
+Methods of solving Syllogisms, will be to take a concrete example, and
+solve it by each Method in turn. Let us take, as our example, No. 29
+(see p. 102).
+
+    "No philosophers are conceited;
+     Some conceited persons are not gamblers.
+       .'. Some persons, who are not gamblers, are not philosophers."
+
+                                                                   pg180
+(1) _Solution by ordinary Method._
+
+These Premisses, as they stand, will give no Conclusion, as they are
+both negative.
+
+If by 'Permutation' or 'Obversion', we write the Minor Premiss thus,
+
+    'Some conceited persons are not-gamblers,'
+
+we can get a Conclusion in _Fresison_, viz.
+
+    "No philosophers are conceited;
+     Some conceited persons are not-gamblers.
+       .'. Some not-gamblers are not philosophers"
+
+This can be proved by reduction to _Ferio_, thus:--
+
+    "No conceited persons are philosophers;
+     Some not-gamblers are conceited.
+       .'. Some not-gamblers are not philosophers".
+
+The validity of _Ferio_ follows directly from the Axiom '_De Omni et
+Nullo_'.
+
+
+(2) _Symbolic Representation._
+
+Before proceeding to discuss other Methods of Solution, it is necessary
+to translate our Syllogism into an _abstract_ form.
+
+Let us take "persons" as our 'Universe of Discourse'; and let
+x = "philosophers", m = "conceited", and y = "gamblers."
+
+Then the Syllogism may be written thus:--
+
+    "No x are m;
+     Some m are y'.
+       .'. Some y' are x'."
+
+
+(3) _Solution by Euler's Method of Diagrams._
+
+The Major Premiss requires only _one_ Diagram, viz.
+
+                 1
+        _____         _____
+      _/     \_     _/     \_
+     /         \   /         \
+    |     x     | |     m     |
+     \_       _/   \_       _/
+       \_____/       \_____/
+                                                                   pg181
+The Minor requires _three_, viz.
+
+                 2
+        _____         _____
+      _/     \_     _/     \_
+     /         \   /         \
+    |     y     | |     m     |
+     \_       _/   \_       _/
+       \_____/       \_____/
+
+              3
+        _____   _____
+      _/     \_/     \_
+     /       / \       \
+    |    y  |   |  m    |
+     \_      \_/      _/
+       \_____/ \_____/
+
+          4
+        _____
+      _/ ___ \_
+     /  / y \  \
+    |   \___/   |
+     \_   m   _/
+       \_____/
+
+The combination of Major and Minor, in every possible way requires
+_nine_, viz.
+
+Figs. 1 and 2 give
+
+                        5
+        _____         _____         _____
+      _/     \_     _/     \_     _/     \_
+     /         \   /         \   /         \
+    |     x     | |     y     | |     m     |
+     \_       _/   \_       _/   \_       _/
+       \_____/       \_____/       \_____/
+
+                        6
+        _____   _____         _____
+      _/     \_/     \_     _/     \_
+     /       / \       \   /         \
+    |    x  |   |  y    | |     m     |
+     \_      \_/      _/   \_       _/
+       \_____/ \_____/       \_____/
+
+                 7
+        _____         _____
+      _/     \_     _/     \_
+     /         \   /         \
+    |     xy    | |     m     |
+     \_       _/   \_       _/
+       \_____/       \_____/
+
+                 8
+        _____         _____
+      _/ ___ \_     _/     \_
+     /  / x \  \   /         \
+    |   \___/   | |     m     |
+     \_   y   _/   \_       _/
+       \_____/       \_____/
+
+                 9
+        _____         _____
+      _/ ___ \_     _/     \_
+     /  / y \  \   /         \
+    |   \___/   | |     m     |
+     \_   x   _/   \_       _/
+       \_____/       \_____/
+
+Figs. 1 and 3 give
+
+                   10
+        _____         _____   _____
+      _/     \_     _/     \_/     \_
+     /         \   /       / \       \
+    |     x     | |    y  |   |  m    |
+     \_       _/   \_      \_/      _/
+       \_____/       \_____/ \_____/
+
+                  11
+        _____   _____   _____
+      _/     \_/     \_/     \_
+     /       / \     / \       \
+    |    x  |   | y |   | m     |
+     \_      \_/     \_/      _/
+       \_____/ \_____/ \_____/
+
+             12
+        _____   _____
+      _/___  \_/     \_
+     / / x \ / \       \
+    |  \___/|   |  m    |
+     \_   y  \_/      _/
+       \_____/ \_____/
+
+Figs. 1 and 4 give
+
+                13
+        _____         _____
+      _/     \_     _/ ___ \_
+     /         \   /  / y \  \
+    |     x     | |   \___/   |
+     \_       _/   \_   m   _/
+       \_____/       \_____/
+
+From this group (Figs. 5 to 13) we have, by disregarding m, to find the
+relation of x and y. On examination we find that Figs. 5, 10, 13 express
+the relation of entire mutual exclusion; that Figs. 6, 11 express
+partial inclusion and partial exclusion; that Fig. 7 expresses
+coincidence; that Figs. 8, 12 express entire inclusion of x in y; and
+that Fig. 9 expresses entire inclusion of y in x.
+                                                                   pg182
+We thus get five Biliteral Diagrams for x and y, viz.
+
+                14
+        _____         _____
+      _/     \_     _/     \_
+     /         \   /         \
+    |     x     | |     y     |
+     \_       _/   \_       _/
+       \_____/       \_____/
+
+             15
+        _____   _____
+      _/     \_/     \_
+     /       / \       \
+    |   x   |   |   y   |
+     \_      \_/      _/
+       \_____/ \_____/
+
+         16
+        _____
+      _/     \_
+     /         \
+    |    xy     |
+     \_       _/
+       \_____/
+
+         17
+        _____
+      _/ ___ \_
+     /  / x \  \
+    |   \___/   |
+     \_   y   _/
+       \_____/
+
+         18
+        _____
+      _/ ___ \_
+     /  / y \  \
+    |   \___/   |
+     \_   x   _/
+       \_____/
+
+where the only Proposition, represented by them all, is "Some not-y are
+not-x," i.e. "Some persons, who are not gamblers, are not
+philosophers"----a result which Euler would hardly have regarded as a
+_valuable_ one, since he seems to have assumed that a Proposition of
+this form is _always_ true!
+
+
+(4) _Solution by Venn's Method of Diagrams._
+
+The following Solution has been kindly supplied to me Mr. Venn himself.
+
+"The Minor Premiss declares that some of the constituents in my' must be
+saved: mark these constituents with a cross.
+
+            _____
+          _/  +  \_
+        _/___   ___\_
+      _/|##+#\_/    |\_
+     /   \###/#\  _/   \
+    | +    \|_#_|/      |
+     \_  m   \_/   y  _/
+       \_____/ \_____/
+
+The Major declares that all xm must be destroyed; erase it.
+
+Then, as some my' is to be saved, it must clearly be my'x'. That is,
+there must exist my'x'; or eliminating m, y'x'. In common phraseology,
+
+'Some y' are x',' or, 'Some not-gamblers are not-philosophers.'"
+
+                                                                   pg183
+(5) _Solution by my Method of Diagrams._
+
+The first Premiss asserts that no xm exist: so we mark the
+xm-Compartment as empty, by placing a 'O' in each of its Cells.
+
+The second asserts that some my' exist: so we mark the my'-Compartment
+as occupied, by placing a 'I' in its only available Cell.
+
+    ·---------------·
+    |       |       |
+    |   ·---|---·   |
+    |   |(O)|(O)|   |
+    |---|---|---|---|
+    |   |   |(I)|   |
+    |   ·---|---·   |
+    |       |       |
+    ·---------------·
+
+The only information, that this gives us as to x and y, is that the
+x'y'-Compartment is _occupied_, i.e. that some x'y' exist.
+
+Hence "Some x' are y'": i.e. "Some persons, who are not philosophers,
+are not gamblers".
+
+
+(6) _Solution by my Method of Subscripts._
+
+    xm_{0} + my'_{1} ¶ x'y'_{1}
+
+i.e. "Some persons, who are not philosophers, are not gamblers."
+
+
+§ 9.
+
+_My Method of treating Syllogisms and Sorites._
+
+
+Of all the strange things, that are to be met with in the ordinary
+text-books of Formal Logic, perhaps the strangest is the violent
+contrast one finds to exist between their ways of dealing with these two
+subjects. While they have elaborately discussed no less than _nineteen_
+different forms of _Syllogisms_----each with its own special and
+exasperating Rules, while the whole constitute an almost useless
+machine, for practical purposes, many of the Conclusions being
+incomplete, and many quite legitimate forms being ignored----they have
+limited _Sorites_ to _two_ forms only, of childish simplicity; and these
+they have dignified with special _names_, apparently under the
+impression that no other possible forms existed!
+
+As to _Syllogisms_, I find that their nineteen forms, with about a score
+of others which they have ignored, can all be arranged under _three_
+forms, each with a very simple Rule of its own; and the only question
+the Reader has to settle, in working any one of the 101 Examples given
+at p. 101 of this book, is "Does it belong to Fig. I., II., or III.?"
+                                                                   pg184
+As to _Sorites_, the only two forms, recognised by the text-books, are
+the _Aristotelian_, whose Premisses are a series of Propositions in A,
+so arranged that the Predicate of each is the Subject of the next, and
+the _Goclenian_, whose Premisses are the very same series, written
+backwards. Goclenius, it seems, was the first who noticed the startling
+fact that it does not affect the force of a Syllogism to invert the
+order of its Premisses, and who applied this discovery to a Sorites. If
+we assume (as surely we may?) that he is the _same_ man as that
+transcendent genius who first noticed that 4 times 5 is the same thing
+as 5 times 4, we may apply to him what somebody (Edmund Yates, I think
+it was) has said of Tupper, viz., "here is a man who, beyond all others
+of his generation, has been favoured with Glimpses of the Obvious!"
+
+These puerile----not to say infantine----forms of a Sorites I have, in
+this book, ignored from the very first, and have not only admitted
+freely Propositions in _E_, but have purposely stated the Premisses in
+random order, leaving to the Reader the useful task of arranging them,
+for himself, in an order which can be worked as a series of regular
+Syllogisms. In doing this, he can begin with _any one_ of them he likes.
+
+I have tabulated, for curiosity, the various orders in which the
+Premisses of the Aristotelian Sorites
+
+    1. All a are b;
+    2. All b are c;
+    3. All c are d;
+    4. All d are e;
+    5. All e are h.
+       .'. All a are h.
+
+may be syllogistically arranged, and I find there are no less than
+_sixteen_ such orders, viz., 12345, 21345, 23145, 23415, 23451, 32145,
+32415, 32451, 34215, 34251, 34521, 43215, 43251, 43521, 45321, 54321. Of
+these the _first_ and the _last_ have been dignified with names; but the
+other _fourteen_----first enumerated by an obscure Writer on Logic,
+towards the end of the Nineteenth Century----remain without a name!
+
+                                                                   pg185
+§ 10.
+
+_Some account of Parts II, III._
+
+
+In Part II. will be found some of the matters mentioned in this
+Appendix, viz., the "Existential Import" of Propositions, the use of a
+_negative_ Copula, and the theory that "two negative Premisses prove
+nothing." I shall also extend the range of Syllogisms, by introducing
+Propositions containing alternatives (such as "Not-all x are y"),
+Propositions containing 3 or more Terms (such as "All ab are c", which,
+taken along with "Some bc' are d", would prove "Some d are a'"), &c. I
+shall also discuss Sorites containing Entities, and the _very_ puzzling
+subjects of Hypotheticals and Dilemmas. I hope, in the course of Part
+II., to go over all the ground usually traversed in the text-books used
+in our Schools and Universities, and to enable my Readers to solve
+Problems of the same kind as, and far harder than, those that are at
+present set in their Examinations.
+
+In Part III. I hope to deal with many curious and out-of-the-way
+subjects, some of which are not even alluded to in any of the treatises
+I have met with. In this Part will be found such matters as the Analysis
+of Propositions into their Elements (let the Reader, who has never gone
+into this branch of the subject, try to make out for himself what
+_additional_ Proposition would be needed to convert "Some a are b" into
+"Some a are bc"), the treatment of Numerical and Geometrical Problems,
+the construction of Problems, and the solution of Syllogisms and Sorites
+containing Propositions more complex than any that I have used in Part
+II.
+
+I will conclude with eight Problems, as a taste of what is coming in

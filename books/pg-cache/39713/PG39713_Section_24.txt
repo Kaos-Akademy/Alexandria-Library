@@ -1,0 +1,602 @@
+CHAPTER II
+
+MECHANICS AND OPTICS
+
+
+I
+
+_Aberration_
+
+You know in what the phenomenon of aberration, discovered by Bradley,
+consists. The light issuing from a star takes a certain time to go
+through a telescope; during this time, the telescope, carried along by
+the motion of the earth, is displaced. If therefore the telescope were
+pointed in the _true_ direction of the star, the image would be formed
+at the point occupied by the crossing of the threads of the network when
+the light has reached the objective; and this crossing would no longer
+be at this same point when the light reached the plane of the network.
+We would therefore be led to mis-point the telescope to bring the image
+upon the crossing of the threads. Thence results that the astronomer
+will not point the telescope in the direction of the absolute velocity
+of the light, that is to say toward the true position of the star, but
+just in the direction of the relative velocity of the light with
+reference to the earth, that is to say toward what is called the
+apparent position of the star.
+
+The velocity of light is known; we might therefore suppose that we have
+the means of calculating the _absolute_ velocity of the earth. (I shall
+soon explain my use here of the word absolute.) Nothing of the sort; we
+indeed know the apparent position of the star we observe; but we do not
+know its true position; we know the velocity of the light only in
+magnitude and not in direction.
+
+If therefore the absolute velocity of the earth were straight and
+uniform, we should never have suspected the phenomenon of aberration;
+but it is variable; it is composed of two parts: the velocity of the
+solar system, which is straight and uniform; the velocity of the earth
+with reference to the sun, which is variable. If the velocity of the
+solar system, that is to say if the constant part existed alone, the
+observed direction would be invariable. This position that one would
+thus observe is called the _mean_ apparent position of the star.
+
+Taking account now at the same time of the two parts of the velocity of
+the earth, we shall have the actual apparent position, which describes a
+little ellipse around the mean apparent position, and it is this ellipse
+that we observe.
+
+Neglecting very small quantities, we shall see that the dimensions of
+this ellipse depend only upon the ratio of the velocity of the earth
+with reference to the sun to the velocity of light, so that the relative
+velocity of the earth with regard to the sun has alone come in.
+
+But wait! This result is not exact, it is only approximate; let us push
+the approximation a little farther. The dimensions of the ellipse will
+depend then upon the absolute velocity of the earth. Let us compare the
+major axes of the ellipse for the different stars: we shall have,
+theoretically at least, the means of determining this absolute velocity.
+
+That would be perhaps less shocking than it at first seems; it is a
+question, in fact, not of the velocity with reference to an absolute
+void, but of the velocity with regard to the ether, which is taken _by
+definition_ as being absolutely at rest.
+
+Besides, this method is purely theoretical. In fact, the aberration is
+very small; the possible variations of the ellipse of aberration are
+much smaller yet, and, if we consider the aberration as of the first
+order, they should therefore be regarded as of the second order: about a
+millionth of a second; they are absolutely inappreciable for our
+instruments. We shall finally see, further on, why the preceding theory
+should be rejected, and why we could not determine this absolute
+velocity even if our instruments were ten thousand times more precise!
+
+One might imagine some other means, and in fact, so one has. The
+velocity of light is not the same in water as in air; could we not
+compare the two apparent positions of a star seen through a telescope
+first full of air, then full of water? The results have been negative;
+the apparent laws of reflection and refraction are not altered by the
+motion of the earth. This phenomenon is capable of two explanations:
+
+1º It might be supposed that the ether is not at rest, but that it is
+carried along by the body in motion. It would then not be astonishing
+that the phenomena of refraction are not altered by the motion of the
+earth, since all, prisms, telescopes and ether, are carried along
+together in the same translation. As to the aberration itself, it would
+be explained by a sort of refraction happening at the surface of
+separation of the ether at rest in the interstellar spaces and the ether
+carried along by the motion of the earth. It is upon this hypothesis
+(bodily carrying along of the ether) that is founded the _theory of
+Hertz_ on the electrodynamics of moving bodies.
+
+2º Fresnel, on the contrary, supposes that the ether is at absolute rest
+in the void, at rest almost absolute in the air, whatever be the
+velocity of this air, and that it is partially carried along by
+refractive media. Lorentz has given to this theory a more satisfactory
+form. For him, the ether is at rest, only the electrons are in motion;
+in the void, where it is only a question of the ether, in the air, where
+this is almost the case, the carrying along is null or almost null; in
+refractive media, where perturbation is produced at the same time by
+vibrations of the ether and those of electrons put in swing by the
+agitation of the ether, the undulations are _partially_ carried along.
+
+To decide between the two hypotheses, we have Fizeau's experiment,
+comparing by measurements of the fringes of interference, the velocity
+of light in air at rest or in motion. These experiments have confirmed
+Fresnel's hypothesis of partial carrying along. They have been repeated
+with the same result by Michelson. _The theory of Hertz must therefore
+be rejected._
+
+
+II
+
+_The Principle of Relativity_
+
+But if the ether is not carried along by the motion of the earth, is it
+possible to show, by means of optical phenomena, the absolute velocity
+of the earth, or rather its velocity with respect to the unmoving ether?
+Experiment has answered negatively, and yet the experimental procedures
+have been varied in all possible ways. Whatever be the means employed
+there will never be disclosed anything but relative velocities; I mean
+the velocities of certain material bodies with reference to other
+material bodies. In fact, if the source of light and the apparatus of
+observation are on the earth and participate in its motion, the
+experimental results have always been the same, whatever be the
+orientation of the apparatus with reference to the orbital motion of the
+earth. If astronomic aberration happens, it is because the source, a
+star, is in motion with reference to the observer.
+
+The hypotheses so far made perfectly account for this general result,
+_if we neglect very small quantities of the order of the square of the
+aberration_. The explanation rests upon the notion of _local time_,
+introduced by Lorentz, which I shall try to make clear. Suppose two
+observers, placed one at _A_, the other at _B_, and wishing to set their
+watches by means of optical signals. They agree that _B_ shall send a
+signal to _A_ when his watch marks an hour determined upon, and _A_ is
+to put his watch to that hour the moment he sees the signal. If this
+alone were done, there would be a systematic error, because as the light
+takes a certain time _t_ to go from _B_ to _A_, _A_'s watch would be
+behind _B_'s the time _t_. This error is easily corrected. It suffices
+to cross the signals. _A_ in turn must signal _B_, and, after this new
+adjustment, _B_'s watch will be behind _A_'s the time _t_. Then it will
+be sufficient to take the arithmetic mean of the two adjustments.
+
+But this way of doing supposes that light takes the same time to go from
+_A_ to _B_ as to return from _B_ to _A_. That is true if the observers
+are motionless; it is no longer so if they are carried along in a common
+translation, since then _A_, for example, will go to meet the light
+coming from _B_, while _B_ will flee before the light coming from _A_.
+If therefore the observers are borne along in a common translation and
+if they do not suspect it, their adjustment will be defective; their
+watches will not indicate the same time; each will show the _local time_
+belonging to the point where it is.
+
+The two observers will have no way of perceiving this, if the unmoving
+ether can transmit to them only luminous signals all of the same
+velocity, and if the other signals they might send are transmitted by
+media carried along with them in their translation. The phenomenon each
+observes will be too soon or too late; it would be seen at the same
+instant only if the translation did not exist; but as it will be
+observed with a watch that is wrong, this will not be perceived and the
+appearances will not be altered.
+
+It results from this that the compensation is easy to explain so long as
+we neglect the square of the aberration, and for a long time the
+experiments were not sufficiently precise to warrant taking account of
+it. But the day came when Michelson imagined a much more delicate
+procedure: he made rays interfere which had traversed different courses,
+after being reflected by mirrors; each of the paths approximating a
+meter and the fringes of interference permitting the recognition of a
+fraction of a thousandth of a millimeter, the square of the aberration
+could no longer be neglected, and _yet the results were still negative_.
+Therefore the theory required to be completed, and it has been by the
+_Lorentz-Fitzgerald hypothesis_.
+
+These two physicists suppose that all bodies carried along in a
+translation undergo a contraction in the sense of this translation,
+while their dimensions perpendicular to this translation remain
+unchanged. _This contraction is the same for all bodies_; moreover, it
+is very slight, about one two-hundred-millionth for a velocity such as
+that of the earth. Furthermore our measuring instruments could not
+disclose it, even if they were much more precise; our measuring rods in
+fact undergo the same contraction as the objects to be measured. If the
+meter exactly fits when applied to a body, if we point the body and
+consequently the meter in the sense of the motion of the earth, it will
+not cease to exactly fit in another orientation, and that although the
+body and the meter have changed in length as well as orientation, and
+precisely because the change is the same for one as for the other. But
+it is quite different if we measure a length, not now with a meter, but
+by the time taken by light to pass along it, and this is just what
+Michelson has done.
+
+A body, spherical when at rest, will take thus the form of a flattened
+ellipsoid of revolution when in motion; but the observer will always
+think it spherical, since he himself has undergone an analogous
+deformation, as also all the objects serving as points of reference. On
+the contrary, the surfaces of the waves of light, remaining rigorously
+spherical, will seem to him elongated ellipsoids.
+
+What happens then? Suppose an observer and a source of light carried
+along together in the translation: the wave surfaces emanating from the
+source will be spheres having as centers the successive positions of the
+source; the distance from this center to the actual position of the
+source will be proportional to the time elapsed after the emission, that
+is to say to the radius of the sphere. All these spheres are therefore
+homothetic one to the other, with relation to the actual position _S_ of
+the source. But, for our observer, because of the contraction, all these
+spheres will seem elongated ellipsoids, and all these ellipsoids will
+moreover be homothetic, with reference to the point _S_; the
+excentricity of all these ellipsoids is the same and depends solely upon
+the velocity of the earth. _We shall so select the law of contraction
+that the point S may be at the focus of the meridian section of the
+ellipsoid._
+
+This time the compensation is _rigorous_, and this it is which explains
+Michelson's experiment.
+
+I have said above that, according to the ordinary theories, observations
+of the astronomic aberration would give us the absolute velocity of the
+earth, if our instruments were a thousand times more precise. I must
+modify this statement. Yes, the observed angles would be modified by the
+effect of this absolute velocity, but the graduated circles we use to
+measure the angles would be deformed by the translation: they would
+become ellipses; thence would result an error in regard to the angle
+measured, and _this second error would exactly compensate the first_.
+
+This Lorentz-Fitzgerald hypothesis seems at first very extraordinary;
+all we can say for the moment, in its favor, is that it is only the
+immediate translation of Michelson's experimental result, if we _define_
+lengths by the time taken by light to run along them.
+
+However that may be, it is impossible to escape the impression that the
+principle of relativity is a general law of nature, that one will never
+be able by any imaginable means to show any but relative velocities, and
+I mean by that not only the velocities of bodies with reference to the
+ether, but the velocities of bodies with regard to one another. Too many
+different experiments have given concordant results for us not to feel
+tempted to attribute to this principle of relativity a value comparable
+to that, for example, of the principle of equivalence. In any case, it
+is proper to see to what consequences this way of looking at things
+would lead us and then to submit these consequences to the control of
+experiment.
+
+
+III
+
+_The Principle of Reaction_
+
+Let us see what the principle of the equality of action and reaction
+becomes in the theory of Lorentz. Consider an electron _A_ which for any
+cause begins to move; it produces a perturbation in the ether; at the
+end of a certain time, this perturbation reaches another electron _B_,
+which will be disturbed from its position of equilibrium. In these
+conditions there can not be equality between action and reaction, at
+least if we do not consider the ether, but only the electrons, _which
+alone are observable_, since our matter is made of electrons.
+
+In fact it is the electron _A_ which has disturbed the electron _B_;
+even in case the electron _B_ should react upon _A_, this reaction could
+be equal to the action, but in no case simultaneous, since the electron
+_B_ can begin to move only after a certain time, necessary for the
+propagation. Submitting the problem to a more exact calculation, we
+reach the following result: Suppose a Hertz discharger placed at the
+focus of a parabolic mirror to which it is mechanically attached; this
+discharger emits electromagnetic waves, and the mirror reflects all
+these waves in the same direction; the discharger therefore will radiate
+energy in a determinate direction. Well, the calculation shows that _the
+discharger recoils_ like a cannon which has shot out a projectile. In
+the case of the cannon, the recoil is the natural result of the equality
+of action and reaction. The cannon recoils because the projectile upon
+which it has acted reacts upon it. But here it is no longer the same.
+What has been sent out is no longer a material projectile: it is energy,
+and energy has no mass: it has no counterpart. And, in place of a
+discharger, we could have considered just simply a lamp with a reflector
+concentrating its rays in a single direction.
+
+It is true that, if the energy sent out from the discharger or from the
+lamp meets a material object, this object receives a mechanical push as
+if it had been hit by a real projectile, and this push will be equal to
+the recoil of the discharger and of the lamp, if no energy has been lost
+on the way and if the object absorbs the whole of the energy. Therefore
+one is tempted to say that there still is compensation between the
+action and the reaction. But this compensation, even should it be
+complete, is always belated. It never happens if the light, after
+leaving its source, wanders through interstellar spaces without ever
+meeting a material body; it is incomplete, if the body it strikes is not
+perfectly absorbent.
+
+Are these mechanical actions too small to be measured, or are they
+accessible to experiment? These actions are nothing other than those due
+to the _Maxwell-Bartholi_ pressures; Maxwell had predicted these
+pressures from calculations relative to electrostatics and magnetism;
+Bartholi reached the same result by thermodynamic considerations.
+
+This is how the _tails of comets_ are explained. Little particles detach
+themselves from the nucleus of the comet; they are struck by the light
+of the sun, which pushes them back as would a rain of projectiles coming
+from the sun. The mass of these particles is so little that this
+repulsion sweeps it away against the Newtonian attraction; so in moving
+away from the sun they form the tails.
+
+The direct experimental verification was not easy to obtain. The first
+endeavor led to the construction of the _radiometer_. But this
+instrument _turns backward_, in the sense opposite to the theoretic
+sense, and the explanation of its rotation, since discovered, is wholly
+different. At last success came, by making the vacuum more complete, on
+the one hand, and on the other by not blackening one of the faces of the
+paddles and directing a pencil of luminous rays upon one of the faces.
+The radiometric effects and the other disturbing causes are eliminated
+by a series of pains-taking precautions, and one obtains a deviation
+which is very minute, but which is, it would seem, in conformity with
+the theory.
+
+The same effects of the Maxwell-Bartholi pressure are forecast likewise
+by the theory of Hertz of which we have before spoken, and by that of
+Lorentz. But there is a difference. Suppose that the energy, under the
+form of light, for example, proceeds from a luminous source to any body
+through a transparent medium. The Maxwell-Bartholi pressure will act,
+not alone upon the source at the departure, and on the body lit up at
+the arrival, but upon the matter of the transparent medium which it
+traverses. At the moment when the luminous wave reaches a new region of
+this medium, this pressure will push forward the matter there
+distributed and will put it back when the wave leaves this region. So
+that the recoil of the source has for counterpart the forward movement
+of the transparent matter which is in contact with this source; a little
+later, the recoil of this same matter has for counterpart the forward
+movement of the transparent matter which lies a little further on, and
+so on.
+
+Only, is the compensation perfect? Is the action of the Maxwell-Bartholi
+pressure upon the matter of the transparent medium equal to its reaction
+upon the source, and that whatever be this matter? Or is this action by
+so much the less as the medium is less refractive and more rarefied,
+becoming null in the void?
+
+If we admit the theory of Hertz, who regards matter as mechanically
+bound to the ether, so that the ether may be entirely carried along by
+matter, it would be necessary to answer yes to the first question and no
+to the second.
+
+There would then be perfect compensation, as required by the principle
+of the equality of action and reaction, even in the least refractive
+media, even in the air, even in the interplanetary void, where it would
+suffice to suppose a residue of matter, however subtile. If on the
+contrary we admit the theory of Lorentz, the compensation, always
+imperfect, is insensible in the air and becomes null in the void.
+
+But we have seen above that Fizeau's experiment does not permit of our
+retaining the theory of Hertz; it is necessary therefore to adopt the
+theory of Lorentz, and consequently _to renounce the principle of
+reaction_.
+
+
+IV
+
+_Consequences of the Principle of Relativity_
+
+We have seen above the reasons which impel us to regard the principle of
+relativity as a general law of nature. Let us see to what consequences
+this principle would lead, should it be regarded as finally
+demonstrated.
+
+First, it obliges us to generalize the hypothesis of Lorentz and
+Fitzgerald on the contraction of all bodies in the sense of the
+translation. In particular, we must extend this hypothesis to the
+electrons themselves. Abraham considered these electrons as spherical
+and indeformable; it will be necessary for us to admit that these
+electrons, spherical when in repose, undergo the Lorentz contraction
+when in motion and take then the form of flattened ellipsoids.
+
+This deformation of the electrons will influence their mechanical
+properties. In fact I have said that the displacement of these charged
+electrons is a veritable current of convection and that their apparent
+inertia is due to the self-induction of this current: exclusively as
+concerns the negative electrons; exclusively or not, we do not yet know,
+for the positive electrons. Well, the deformation of the electrons, a
+deformation which depends upon their velocity, will modify the
+distribution of the electricity upon their surface, consequently the
+intensity of the convection current they produce, consequently the laws
+according to which the self-induction of this current will vary as a
+function of the velocity.
+
+At this price, the compensation will be perfect and will conform to the
+requirements of the principle of relativity, but only upon two
+conditions:
+
+1º That the positive electrons have no real mass, but only a fictitious
+electromagnetic mass; or at least that their real mass, if it exists, is
+not constant and varies with the velocity according to the same laws as
+their fictitious mass;
+
+2º That all forces are of electromagnetic origin, or at least that they
+vary with the velocity according to the same laws as the forces of
+electromagnetic origin.
+
+It still is Lorentz who has made this remarkable synthesis; stop a
+moment and see what follows therefrom. First, there is no more matter,
+since the positive electrons no longer have real mass, or at least no
+constant real mass. The present principles of our mechanics, founded
+upon the constancy of mass, must therefore be modified. Again, an
+electromagnetic explanation must be sought of all the known forces, in
+particular of gravitation, or at least the law of gravitation must be so
+modified that this force is altered by velocity in the same way as the
+electromagnetic forces. We shall return to this point.
+
+All that appears, at first sight, a little artificial. In particular,
+this deformation of electrons seems quite hypothetical. But the thing
+may be presented otherwise, so as to avoid putting this hypothesis of
+deformation at the foundation of the reasoning. Consider the electrons
+as material points and ask how their mass should vary as function of the
+velocity not to contravene the principle of relativity. Or, still
+better, ask what should be their acceleration under the influence of an
+electric or magnetic field, that this principle be not violated and that
+we come back to the ordinary laws when we suppose the velocity very
+slight. We shall find that the variations of this mass, or of these
+accelerations, must be _as if_ the electron underwent the Lorentz
+deformation.
+
+
+V
+
+_Kaufmann's Experiment_
+
+We have before us, then, two theories: one where the electrons are
+indeformable, this is that of Abraham; the other where they undergo the
+Lorentz deformation. In both cases, their mass increases with the
+velocity, becoming infinite when this velocity becomes equal to that of
+light; but the law of the variation is not the same. The method employed
+by Kaufmann to bring to light the law of variation of the mass seems
+therefore to give us an experimental means of deciding between the two
+theories.
+
+Unhappily, his first experiments were not sufficiently precise for that;
+so he decided to repeat them with more precautions, and measuring with
+great care the intensity of the fields. Under their new form _they are
+in favor of the theory of Abraham_. Then the principle of relativity
+would not have the rigorous value we were tempted to attribute to it;
+there would no longer be reason for believing the positive electrons
+denuded of real mass like the negative electrons. However, before
+definitely adopting this conclusion, a little reflection is necessary.
+The question is of such importance that it is to be wished Kaufmann's
+experiment were repeated by another experimenter.[17] Unhappily, this
+experiment is very delicate and could be carried out successfully only
+by a physicist of the same ability as Kaufmann. All precautions have
+been properly taken and we hardly see what objection could be made.
+
+  [17] At the moment of going to press we learn that M. Bucherer has
+       repeated the experiment, taking new precautions, and that he
+       has obtained, contrary to Kaufmann, results confirming the
+       views of Lorentz.
+
+There is one point however to which I wish to draw attention: that is to
+the measurement of the electrostatic field, a measurement upon which all
+depends. This field was produced between the two armatures of a
+condenser; and, between these armatures, there was to be made an
+extremely perfect vacuum, in order to obtain a complete isolation. Then
+the difference of potential of the two armatures was measured, and the
+field obtained by dividing this difference by the distance apart of the
+armatures. That supposes the field uniform; is this certain? Might there
+not be an abrupt fall of potential in the neighborhood of one of the
+armatures, of the negative armature, for example? There may be a
+difference of potential at the meeting of the metal and the vacuum, and
+it may be that this difference is not the same on the positive side and
+on the negative side; what would lead me to think so is the electric
+valve effects between mercury and vacuum. However slight the probability
+that it is so, it seems that it should be considered.
+
+
+VI
+
+_The Principle of Inertia_
+
+In the new dynamics, the principle of inertia is still true, that is to
+say that an _isolated_ electron will have a straight and uniform motion.
+At least this is generally assumed; however, Lindemann has made
+objections to this view; I do not wish to take part in this discussion,
+which I can not here expound because of its too difficult character. In
+any case, slight modifications to the theory would suffice to shelter it
+from Lindemann's objections.
+
+We know that a body submerged in a fluid experiences, when in motion,
+considerable resistance, but this is because our fluids are viscous; in
+an ideal fluid, perfectly free from viscosity, the body would stir up
+behind it a liquid hill, a sort of wake; upon departure, a great effort
+would be necessary to put it in motion, since it would be necessary to
+move not only the body itself, but the liquid of its wake. But, the
+motion once acquired, it would perpetuate itself without resistance,
+since the body, in advancing, would simply carry with it the
+perturbation of the liquid, without the total vis viva of the liquid
+augmenting. Everything would happen therefore as if its inertia was
+augmented. An electron advancing in the ether would behave in the same
+way: around it, the ether would be stirred up, but this perturbation
+would accompany the body in its motion; so that, for an observer carried
+along with the electron, the electric and magnetic fields accompanying
+this electron would appear invariable, and would change only if the
+velocity of the electron varied. An effort would therefore be necessary
+to put the electron in motion, since it would be necessary to create the
+energy of these fields; on the contrary, once the movement acquired, no
+effort would be necessary to maintain it, since the created energy would
+only have to go along behind the electron as a wake. This energy,
+therefore, could only augment the inertia of the electron, as the
+agitation of the liquid augments that of the body submerged in a perfect
+fluid. And anyhow, the negative electrons at least have no other inertia
+except that.
+
+In the hypothesis of Lorentz, the vis viva, which is only the energy of
+the ether, is not proportional to _v_^{2}. Doubtless if _v_ is very
+slight, the vis viva is sensibly proportional to _v_^{2}, the quantity
+of motion sensibly proportional to _v_, the two masses sensibly constant
+and equal to each other. But _when the velocity tends toward the
+velocity of light, the vis viva, the quantity of motion and the two
+masses increase beyond all limit_.
+
+In the hypothesis of Abraham, the expressions are a little more
+complicated; but what we have just said remains true in essentials.
+
+So the mass, the quantity of motion, the vis viva become infinite when
+the velocity is equal to that of light.
+
+Thence results that _no body can attain in any way a velocity beyond
+that of light_. And in fact, in proportion as its velocity increases,
+its mass increases, so that its inertia opposes to any new increase of
+velocity a greater and greater obstacle.
+
+A question then suggests itself: let us admit the principle of
+relativity; an observer in motion would not have any means of perceiving
+his own motion. If therefore no body in its absolute motion can exceed
+the velocity of light, but may approach it as nearly as you choose, it
+should be the same concerning its relative motion with reference to our
+observer. And then we might be tempted to reason as follows: The
+observer may attain a velocity of 200,000 kilometers; the body in its
+relative motion with reference to the observer may attain the same
+velocity; its absolute velocity will then be 400,000 kilometers, which
+is impossible, since this is beyond the velocity of light. This is only
+a seeming, which vanishes when account is taken of how Lorentz evaluates
+local time.
+
+
+VII
+
+_The Wave of Acceleration_
+
+When an electron is in motion, it produces a perturbation in the ether
+surrounding it; if its motion is straight and uniform, this perturbation
+reduces to the wake of which we have spoken in the preceding section.
+But it is no longer the same, if the motion be curvilinear or varied.
+The perturbation may then be regarded as the superposition of two
+others, to which Langevin has given the names _wave of velocity_ and
+_wave of acceleration_. The wave of velocity is only the wave which
+happens in uniform motion.
+
+As to the wave of acceleration, this is a perturbation altogether
+analogous to light waves, which starts from the electron at the instant
+when it undergoes an acceleration, and which is then propagated by
+successive spherical waves with the velocity of light. Whence follows:
+in a straight and uniform motion, the energy is wholly conserved; but,
+when there is an acceleration, there is loss of energy, which is
+dissipated under the form of luminous waves and goes out to infinity
+across the ether.
+
+However, the effects of this wave of acceleration, in particular the
+corresponding loss of energy, are in most cases negligible, that is to
+say not only in ordinary mechanics and in the motions of the heavenly
+bodies, but even in the radium rays, where the velocity is very great
+without the acceleration being so. We may then confine ourselves to
+applying the laws of mechanics, putting the force equal to the product
+of acceleration by mass, this mass, however, varying with the velocity
+according to the laws explained above. We then say the motion is
+_quasi-stationary_.
+
+It would not be the same in all cases where the acceleration is great,
+of which the chief are the following:
+
+1º In incandescent gases certain electrons take an oscillatory motion of
+very high frequency; the displacements are very small, the velocities
+are finite, and the accelerations very great; energy is then
+communicated to the ether, and this is why these gases radiate light of
+the same period as the oscillations of the electron;
+
+2º Inversely, when a gas receives light, these same electrons are put in
+swing with strong accelerations and they absorb light;
+
+3º In the Hertz discharger, the electrons which circulate in the
+metallic mass undergo, at the instant of the discharge, an abrupt
+acceleration and take then an oscillatory motion of high frequency.
+Thence results that a part of the energy radiates under the form of
+Hertzian waves;
+
+4º In an incandescent metal, the electrons enclosed in this metal are
+impelled with great velocity; upon reaching the surface of the metal,
+which they can not get through, they are reflected and thus undergo a
+considerable acceleration. This is why the metal emits light. The
+details of the laws of the emission of light by dark bodies are
+perfectly explained by this hypothesis;
+
+5º Finally when the cathode rays strike the anticathode, the negative
+electrons, constituting these rays, which are impelled with very great
+velocity, are abruptly arrested. Because of the acceleration they thus
+undergo, they produce undulations in the ether. This, according to
+certain physicists, is the origin of the Röntgen rays, which would only
+be light rays of very short wave-length.
+
+
+
+

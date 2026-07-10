@@ -1,0 +1,767 @@
+CHAPTER IV.
+
+
+_ON THE MODES OF ESTABLISHING AND DETERMINING THE EXISTENCE AND
+NUMERICAL PROPORTIONS OF THE CHARACTERISTIC PROPERTIES OF OUR SERIES
+OR GROUPS._
+
+1. At the point which we have now reached, we are
+supposed to be in possession of series or groups of a certain
+kind, lying at the bottom, as one may say, and forming the
+foundation on which the Science of Probability is to be
+erected. We have described with sufficient particularity the
+characteristics of such a series, and have indicated the process
+by which it is, as a rule, actually brought about in
+nature. The next enquiries which have to be successively
+made are, how in any particular case we are to establish
+their existence and determine their special character and
+properties? and secondly,[1] when we have obtained them, in
+what mode are they to be employed for logical purposes?
+
+The answer to the former enquiry does not seem difficult.
+Experience is our sole guide. If we want to discover what is
+in reality a series of _things_, not a series of our own conceptions,
+we must appeal to the things themselves to obtain it,
+for we cannot find much help elsewhere. We cannot tell
+how many persons will be born or die in a year, or how
+many houses will be burnt or ships wrecked, without actually
+counting them. When we thus speak of 'experience' we
+mean to employ the term in its widest signification; we
+mean experience supplemented by all the aids which inductive
+or deductive logic can afford. When, for instance,
+we have found the series which comprises the numbers of
+persons of any assigned class who die in successive years, we
+have no hesitation in extending it some way into the future
+as well as into the past. The justification of such a procedure
+must be sought in the ordinary canons of Induction.
+As a special discussion will be given upon the connection
+between Probability and Induction, no more need be said
+upon this subject here; but nothing will be found there at
+variance with the assertion just made, that the series we
+employ are ultimately obtained by experience only.
+
+2. In many cases it is undoubtedly true that we do not
+resort to direct experience at all. If I want to know what is
+my chance of holding ten trumps in a game of whist, I do
+not enquire how often such a thing has occurred before. If
+all the inhabitants of the globe were to divide themselves up
+into whist parties they would have to keep on at it for a
+great many years, if they wanted to settle the question
+satisfactorily in that way. What we do of course is to calculate
+algebraically the proportion of possible combinations
+in which ten trumps can occur, and take this as the answer
+to our problem. So again, if I wanted to know the chance
+of throwing six with a die whose faces were unequal, it
+would be a question if my best way would not be to calculate
+geometrically the solid angle subtended at the centre of
+gravity by the opposite face, and the ratio of this to the
+whole surface of a sphere would represent sufficiently closely
+the chance required.
+
+It is quite true that in such examples as the above, especially
+the former one, nobody would ever think of appealing
+to statistics. This would be a tedious process to adopt when,
+as here, the mechanical and other conditions upon which the
+production of the events depend are comparatively few, determinate,
+and admit of isolated consideration, whilst the
+enormous number of combinations which can be constructed
+out of them causes an enormous consequent multiplicity of
+ways in which the events can possibly happen. Hence, in
+practice, _à priori_ determination is often easy, whilst _à posteriori_
+appeal to experience would be not merely tedious but
+utterly impracticable. This, combined with the frequent
+simplicity and attractiveness of such examples when deductively
+treated, has made them very popular, and produced the
+impression in many quarters that they are the proper typical
+instances to illustrate the theory of chance. Whereas, had
+the science been concerned with those kinds of events only
+which in practice are commonly made subjects of insurance,
+probably no other view would ever have been taken than
+that it was based upon direct appeal to experience.
+
+3. When, however, we look a little closer, we find that
+there is no occasion for such a sharp distinction as that apparently
+implied between the two classes of examples just
+indicated. In such cases as those of dice and cards, even, in
+which we appear to reason directly from the determining
+conditions, or possible variety of the events, rather than from
+actual observation of their occurrence, we shall find that this
+procedure is only valid by the help of a tacit assumption
+which can never be determined otherwise than by direct
+experience. It is, no doubt, an exceedingly natural and
+obvious assumption, and one which is continually deriving
+fresh weight from every-day observation, but it is one which
+ought not to be admitted without consideration. As this is a
+very important matter, not so much in itself as in connection
+with the light which it throws upon the theory of the subject,
+we will enter into a somewhat detailed examination of it.
+
+Let us take a very simple example, that of tossing up a
+penny. Suppose that I am contemplating a succession of
+two throws; I can see that the only possible events are[2]
+HH, HT, TH, TT. So much is certain. We are moreover
+tolerably well convinced from experience that these
+events occur, in the long run, about equally often. This is
+of course admitted on all hands. But on the view commonly
+maintained, it is contended that we might have known the
+fact beforehand on grounds which are applicable to an indefinite
+number of other and more complex cases. The form in
+which this view would generally be advanced is, that we are
+enabled to state beforehand that the four throws above mentioned
+are _equally likely_. If in return we ask what is meant
+by the expression 'equally likely', it appears that there are
+two and only two possible forms of reply. One of these seeks
+the explanation in the state of mind of the observer, the
+other seeks it in some characteristic of the things observed.
+
+(1) It might, for instance, be said on the one hand, that
+what is meant is that the four events contemplated are
+equally easy to imagine, or, more accurately, that our expectation
+or belief in their occurrence is equal. We could
+hardly be content with this reply, for the further enquiry
+would immediately be urged, On what ground is this to be
+believed? What are the characteristics of events of which
+our expectation is equal? If we consented to give an answer
+to this further enquiry, we should be led to the second form
+of reply, to be noticed directly; if we did not consent we
+should, it seems, be admitting that Probability was only a
+portion of Psychology, confined therefore to considering states
+of mind in themselves, rather than in their reference to facts,
+viz. as being true or false. We should, that is, be ceasing
+to make it a science of inference about things. This point
+will have to be gone into more thoroughly in another chapter;
+but it is impossible to direct attention too prominently
+to the fact that Logic (and therefore Probability as a branch
+of Logic) is not concerned with what men _do_ believe, but
+with what they ought to believe, if they are to believe
+correctly.
+
+(2) In the other form of reply the explanation of the
+phrase in question would be sought, not in a state of mind,
+but in a quality of the things contemplated. We might assign
+the following as the meaning, viz. that the events really
+would occur with equal frequency in the long run. The
+ground of this assertion would probably be found in past experience,
+and it would doubtless be impossible so to frame
+the answer as to exclude the notion of our belief altogether.
+But still there is a broad distinction between seeking an
+equality in the amount of our belief, as before, and in the
+frequency of occurrence of the events themselves, as here.
+
+4. When we have got as far as this it can readily be
+shown that an appeal to experience cannot be long evaded.
+For _can_ the assertion in question (viz. that the throws of the
+penny will occur equally often) be safely made _à priori_?
+Those who consider that it can seem hardly to have fully
+faced the difficulties which meet them. For when we begin
+to enquire seriously whether the penny will really do what
+is expected of it, we find that restrictions have to be introduced.
+In the first place it must be an ideal coin, with
+its sides equal and fair. This restriction is perfectly intelligible;
+the study of solid geometry enables us to idealize a
+penny into a circular or cylindrical lamina. But this condition
+by itself is not sufficient, others are wanted as well. The
+penny was supposed to be tossed up, as we say 'at random.'
+What is meant by this, and how is this process to be idealized?
+To ask this is to introduce no idle subtlety; for it
+would scarcely be maintained that the heads and tails would
+get their fair chances if, immediately before the throwing,
+we were so to place the coin in our hands as to start it
+always with the same side upwards. The difference that
+would result in consequence, slight as its cause is, would
+tend in time to show itself in the results. Or, if we persisted
+in starting with each of the two sides alternately
+upwards, would the longer repetitions of the same side get
+their fair chance?
+
+Perhaps it will be replied that if we think nothing whatever
+about these matters all will come right of its own accord.
+It may, and doubtless will be so, but this is falling back upon
+experience. It is here, then, that we find ourselves resting on
+the experimental assumption above mentioned, and which
+indeed cannot be avoided. For suppose, lastly, that the
+circumstances of nature, or my bodily or mental constitution,
+were such that the same side always _is_ started upwards, or
+indeed that they are started in any arbitrary order of our
+own? Well, it will be replied, it would not then be a fair
+trial. If we press in this way for an answer to such enquiries,
+we shall find that these tacit restrictions are really nothing
+else than a mode of securing an experimental result. They
+are only another way of saying, Let a series of actions be
+performed in such a way as to secure a sequence of a particular
+kind, viz., of the kind described in the previous chapters.
+
+5. An intermediate way of evading the direct appeal
+to experience is sometimes found by defining the probability
+of an event as being measured by the ratio which the
+number of cases favourable to the event bears to the total
+number of cases which are possible. This seems a somewhat
+loose and ambiguous way of speaking. It is clearly not
+enough to _count_ the number of cases merely, they must also
+be _valued_, since it is not certain that each is equally potent
+in producing the effect. This, of course, would never be
+denied, but sufficient importance does not seem to be attached
+to the fact that we have really no other way of
+valuing them except by estimating the effects which they
+actually do, or would produce. Instead of thus appealing to
+the proportion of cases favourable to the event, it is far better
+(at least as regards the foundation of the science, for we are
+not at this moment discussing the practical method of facilitating
+our calculations) to appeal at once to the proportion
+of cases in which the event actually occurs.
+
+6. The remarks above made will apply, of course, to
+most of the other common examples of chance; the throwing
+of dice, drawing of cards, of balls from bags, &c. In the
+last case, for instance, one would naturally be inclined to
+suppose that a ball which had just been put back would
+thereby have a better chance of coming out again next time,
+since it will be more in the way for that purpose. How is
+this to be prevented? If we designedly thrust it to the
+middle or bottom of the others, we may overdo the precaution;
+and are in any case introducing human design, that
+element so essentially hostile to all that we understand by
+chance. If we were to trust to a good shake setting matters
+right, we may easily be deceived; for shaking the bag can
+hardly do more than diminish the disposition of those balls
+which were already in each other's neighbourhood, to remain
+so. In the consequent interaction of each upon all, the
+arrangement in which they start cannot but leave its impress
+to some extent upon their final positions. In all such cases,
+therefore, if we scrutinize our language, we shall find that
+any supposed _à priori_ mode of stating a problem is little else
+than a compendious way of saying, Let means be taken for
+obtaining a given result. Since it is upon this result that
+our inferences ultimately rest, it seems simpler and more
+philosophical to appeal to it at once as the groundwork of
+our science.
+
+7. Let us again take the instance of the tossing of a
+penny, and examine it somewhat more minutely, to see what
+can be actually proved about the results we shall obtain.
+We are willing to give the pence fair treatment by assuming
+that they are perfect, that is, that in the long run they show
+no preference for either head or tail; the question then
+remains, Will the repetitions of the same face obtain the
+proportional shares to which they are entitled by the
+usual interpretations of the theory? Putting then, as before,
+for the sake of brevity, H for head, and HH for heads twice
+running, we are brought to this issue;--Given that the
+chance of H is 1/2, does it follow necessarily that the chance of HH
+(with two pence) is 1/4? To say nothing of 'H ten times'
+occurring once in 1024 times (with ten pence), need it occur
+at all? The mathematicians, for the most part, seem to think
+that this conclusion follows necessarily from first principles;
+to me it seems to rest upon no more certain evidence than a
+reasonable extension by Induction.
+
+Taking then the possible results which can be obtained
+from a pair of pence, what do we find? Four different
+results may follow, namely, (1) HT, (2) HH, (3) TH, (4) TT.
+If it can be proved that these four are equally probable, that
+is, occur equally often, the commonly accepted conclusions
+will follow, for a precisely similar argument would apply to
+all the larger numbers.
+
+8. The proof usually advanced makes use of what is
+called the Principle of Sufficient Reason. It takes this
+form;--Here are four kinds of throws which may happen;
+once admit that the separate elements of them, namely, H
+and T, happen equally often, and it will follow that the above
+combinations will also happen equally often, for no reason can
+be given in favour of one of them that would not equally hold
+in favour of the others.
+
+To a certain extent we must admit the validity of the
+principle for the purpose. In the case of the throws given
+above, it would be valid to prove the equal frequency of (1)
+and (3) and also of (2) and (4); for there is no difference
+existing between these pairs except what is introduced by our
+own notation.[3] TH is the same as HT, except in the order
+of the occurrence of the symbols H and T, which we do not
+take into account. But either of the pair (1) and (3) _is_
+different from either of the pair (2) and (4). Transpose the
+notation, and there would still remain here a distinction which
+the mind can recognize. A succession of the same thing
+twice running is distinguished from the conjunction of two
+different things, by a distinction which does not depend
+upon our arbitrary notation only, and would remain entirely
+unaltered by a change in this notation. The principle therefore
+of Sufficient Reason, if admitted, would only prove that
+doublets of the two kinds, for example (2) and (4), occur
+equally often, but it would not prove that they must each
+occur once in four times. It cannot be proved indeed in this
+way that they need ever occur at all.
+
+9. The formula, then, not being demonstrable _à priori_,
+(as might have been concluded,) can it be obtained by experience?
+To a certain extent it can; the present experience
+of mankind in pence and dice seems to show that the smaller
+successions of throws do really occur in about the proportions
+assigned by the theory. But how nearly they do so no one
+can say, for the amount of time and trouble to be expended
+before we could feel that we have verified the fact, even for
+small numbers, is very great, whilst for large numbers it
+would be simply intolerable. The experiment of throwing
+often enough to obtain 'heads ten times' has been actually
+performed by two or three persons, and the results are given
+by De Morgan, and Jevons.[4] This, however, being only
+sufficient on the average to give 'heads ten times' a single
+chance, the evidence is very slight; it would take a considerable
+number of such experiments to set the matter
+nearly at rest.
+
+Any such rule, then, as that which we have just been
+discussing, which professes to describe what will take place
+in a long succession of throws, is only conclusively proved by
+experience within very narrow limits, that is, for small repetitions
+of the same face; within limits less narrow, indeed,
+we feel assured that the rule cannot be flagrantly in error,
+otherwise the variation would be almost sure to be detected.
+From this we feel strongly inclined to infer that the same
+law will hold throughout. In other words, we are inclined
+to extend the rule by Induction and Analogy. Still there
+are so many instances in nature of proposed laws which hold
+within narrow limits but get egregiously astray when we
+attempt to push them to great lengths, that we must give at
+best but a qualified assent to the truth of the formula.
+
+10. The object of the above reasoning is simply to
+show that we cannot be certain that the rule is true. Let
+us now turn for a minute to consider the causes by which
+the succession of heads and tails is produced, and we may
+perhaps see reasons to make us still more doubtful.
+
+It has been already pointed out that in calculating probabilities
+_à priori_, as it is called, we are only able to do so by
+introducing restrictions and suppositions which are in reality
+equivalent to assuming the expected results. We use words
+which in strictness mean, Let a given process be performed;
+but an analysis of our language, and an examination of
+various tacit suppositions which make themselves felt the
+moment they are not complied with, soon show that our real
+meaning is, Let a series of a given kind be obtained; it is to
+this series only, and not to the conditions of its production,
+that all our subsequent calculations properly apply. The
+physical process being performed, we want to know whether
+anything resembling the contemplated series really will be
+obtained.
+
+Now if the penny were invariably set the same side uppermost,
+and thrown with the same velocity of rotation and
+to the same height, &c.--in a word, subjected to the same
+conditions,--it would always come down with the same side
+uppermost. Practically, we know that nothing of this kind
+occurs, for the individual variations in the results of the
+throws are endless. Still there will be an _average_ of these
+conditions, about which the throws will be found, as it were,
+to cluster much more thickly than elsewhere. We should be
+inclined therefore to infer that if the same side were always
+set uppermost there would really be a departure from the
+sort of series which we ordinarily expect. In a very large
+number of throws we should probably begin to find, under
+such circumstances, that either head or tail was having a
+preference shown to it. If so, would not similar effects be
+found to be connected with the way in which we started
+each successive _pair_ of throws? According as we chose to
+make a practice of putting HH or TT uppermost, might
+there not be a disturbance in the proportion of successions of
+two heads or two tails? Following out this train of reasoning,
+it would seem to point with some likelihood to the conclusion
+that in order to obtain a series of the kind we
+expect, we should have to dispose the antecedents in a
+similar series at the start. The changes and chances produced
+by the act of throwing might introduce infinite individual
+variations, and yet there might be found, in the very
+long run, to be a close similarity between these two series.
+
+11. This is, to a certain extent, only shifting the difficulty,
+I admit; for the claim formerly advanced about the
+possibility of proving the proportions of the throws in the
+former series, will probably now be repeated in favour of
+those in the latter. Still the question is very much narrowed,
+for we have reduced it to a series of _voluntary_ acts.
+A man may put whatever side he pleases uppermost. He
+may act consciously, as I have said, or he may think nothing
+whatever about the matter, that is, throw at random; if so,
+it will probably be asserted by many that he will involuntarily
+produce a series of the kind in question. It may be
+so, or it may not; it does not seem that there are any
+easily accessible data by which to decide. All that I am
+concerned with here is to show the likelihood that the commonly
+received result does in reality depend upon the fulfilment
+of a certain condition at the outset, a condition which
+it is certainly optional with any one to fulfil or not as he
+pleases. The short successions doubtless will take care of
+themselves, owing to the infinite complications produced by
+the casual variations in throwing; but the long ones may
+suffer, unless their interest be consciously or unconsciously
+regarded at the outset.
+
+12. The advice, 'Only try long enough, and you will
+sooner or later get any result that is possible,' is plausible,
+but it rests only on Induction and Analogy; mathematics do
+not prove it. As has been repeatedly stated, there are two
+distinct views of the subject. Either we may, on the one
+hand, take a series of symbols, call them heads and tails;
+H, T, &c.; and make the assumption that each of these, and
+each pair of them, and so on, will occur in the long run with
+a regulated degree of frequency. We may then calculate
+their various combinations, and the consequences that may
+be drawn from the data assumed. This is a purely algebraical
+process; it is infallible; and there is no limit whatever to the
+extent to which it may be carried. This way of looking at
+the matter may be, and undoubtedly should be, nothing
+more than the counterpart of what I have called the substituted
+or idealized series which generally has to be introduced
+as the basis of our calculation. The danger to be guarded
+against is that of regarding it too purely as an algebraical
+conception, and thence of sinking into the very natural
+errors both of too readily evolving it out of our own consciousness,
+and too freely pushing it to unwarranted lengths.
+
+Or on the other hand, we may consider that we are treating
+of the behaviour of _things_;--balls, dice, births, deaths, &c.;
+and drawing inferences about them. But, then, what
+were in the former instance allowable assumptions, become
+here propositions to be tested by experience. Now the whole
+theory of Probability as a practical science, in fact as anything
+more than an algebraical truth, depends of course upon
+there being a close correspondence between these two views
+of the subject, in other words, upon our substituted series
+being kept in accordance with the actual series. Experience
+abundantly proves that, between considerable limits, in the
+example in question, there does exist such a correspondence.
+But let no one attempt to enforce our assent to every remote
+deduction that mathematicians can draw from their formulæ.
+When this is attempted the distinction just traced becomes
+prominent and important, and we have to choose our side.
+Either we go over to the mathematics, and so lose all right
+of discussion about the things; or else we take part with the
+things, and so defy the mathematics. We do not question
+the formal accuracy of the latter within their own province,
+but either we dismiss them as somewhat irrelevant, as applying
+to data of whose correctness we cannot be certain, or
+we take the liberty of remodelling them so as to bring them
+into accordance with facts.
+
+13. A critic of any doctrine can hardly be considered
+to have done much more than half his duty when he has
+explained and justified his grounds for objecting to it. It
+still remains for him to indicate, if only in a few words,
+what he considers its legitimate functions and position to be,
+for it can seldom happen that he regards it as absolutely
+worthless or unmeaning. I should say, then, that when
+Probability is thus divorced from direct reference to objects,
+as it substantially is by not being founded upon experience,
+it simply resolves itself into the common algebraical or arithmetical
+doctrine of Permutations and Combinations.[5] The
+considerations upon which these depend are purely formal
+and necessary, and can be fully reasoned out without any
+appeal to experience. We there start from pure considerations
+of number or magnitude, and we terminate with them,
+having only arithmetical calculations to connect them together.
+I wish, for instance, to find the chance of throwing
+heads three times running with a penny. All I have to do
+is first to ascertain the possible number of throws. Permutations
+tell me that with two things thus in question (viz.
+head and tail) and three times to perform the process, there
+are eight possible forms of the result. Of these eight one
+only being favourable, the chance in question is pronounced
+to be one-eighth.
+
+Now though it is quite true that the actual calculation of
+every chance problem must be of the above character, viz. an
+algebraical or arithmetical process, yet there is, it seems to
+me, a broad and important distinction between a material
+science which employs mathematics, and a formal one which
+consists of nothing but mathematics. When we cut ourselves
+off from the necessity of any appeal to experience, we
+are retaining only the intermediate or calculating part of the
+investigation; we may talk of dice, or pence, or cards, but
+these are really only names we choose to give to our symbols.
+The H's and T's with which we deal have no bearing on objective
+occurrences, but are just like the x's and y's with
+which the rest of algebra deals. Probability in fact, when so
+treated, seems to be absolutely nothing else than a system of
+applied Permutations and Combinations.
+
+It will now readily be seen how narrow is the range of
+cases to which any purely deductive method of treatment can
+apply. It is almost entirely confined to such employments
+as games of chance, and, as already pointed out, can only be
+regarded as really trustworthy even there, by the help of
+various tacit restrictions. This alone would be conclusive
+against the theory of the subject being rested upon such a
+basis. The experimental method, on the other hand, is, in the
+same theoretical sense, of universal application. It would
+include the ordinary problems furnished by games of chance,
+as well as those where the dice are loaded and the pence are
+not perfect, and also the indefinitely numerous applications
+of statistics to the various kinds of social phenomena.
+
+14. The particular view of the deductive character of
+Probability above discussed, could scarcely have intruded
+itself into any other examples than those of the nature of
+games of chance, in which the conditions of occurrence are
+by comparison few and simple, and are amenable to accurate
+numerical determination. But a doctrine, which is in reality
+little else than the same theory in a slightly disguised form,
+is very prevalent, and has been applied to truths of the most
+purely empirical character. This doctrine will be best introduced
+by a quotation from Laplace. After speaking of
+the irregularity and uncertainty of nature as it appears at
+first sight, he goes on to remark that when we look closer we
+begin to detect "a striking regularity which seems to suggest
+a design, and which some have considered a proof of
+Providence. But, on reflection, it is soon perceived that this
+regularity is nothing but the development of the respective
+probabilities of the simple events, which ought to occur more
+frequently according as they are more probable."[6]
+
+If this remark had been made about the succession of
+heads and tails in the throwing up of a penny, it would
+have been intelligible. It would simply mean this: that the
+constitution of the body was such that we could anticipate
+with some confidence what the result would be when it was
+treated in a certain way, and that experience would justify
+our anticipation in the long run. But applied as it is in a
+more general form to the facts of nature, it seems really to
+have but little meaning in it. Let us test it by an instance.
+Amidst the irregularity of individual births, we find that the
+male children are to the female, in the long run, in about
+the proportion of 106 to 100. Now if we were told that
+there is nothing in this but "the development of their respective
+probabilities," would there be anything in such a
+statement but a somewhat pretentious re-statement of the
+fact already asserted? The probability _is_ nothing but that
+proportion, and is unquestionably in this case derived from
+no other source but the statistics themselves; in the above
+remark the attempt seems to be made to invert this process,
+and to derive the sequence of events from the mere numerical
+statement of the proportions in which they occur.
+
+15. It will very likely be replied that by the probability
+above mentioned is meant, not the mere numerical
+proportion between, the births, but some fact in our constitution
+upon which this proportion depends; that just as
+there was a relation of equality between the two sides of the
+penny, which produced the ultimate equality in the number
+of heads and tails, so there may be something in our constitution
+or circumstances in the proportion of 106 to 100,
+which produces the observed statistical result. When this
+something, whatever it might be, was discovered, the observed
+numbers might be supposed capable of being determined
+beforehand. Even if this were the case, however, it
+must not be forgotten that there could hardly fail to be, in
+combination with such causes, other concurrent conditions in
+order to produce the ultimate result; just as besides the shape
+of the penny, we had also to take into account the nature of
+the 'randomness' with which it was tossed. What these
+may be, no one at present can undertake to say, for the best
+physiologists seem indisposed to hazard even a guess upon
+the subject.[7] But without going into particulars, one may
+assert with some confidence that these conditions cannot well
+be altogether independent of the health, circumstances, manners
+and customs, &c. (to express oneself in the vaguest way)
+of the parents; and if once these influencing elements are
+introduced, even as very minute factors, the results cease to
+be dependent only on fixed and permanent conditions. We
+are at once letting in other conditions, which, if they also
+possess the characteristics that distinguish Probability (an
+exceedingly questionable assumption), must have that fact
+specially proved about them. That this should be the case
+indeed seems not merely questionable, but almost certainly
+impossible; for these conditions partaking of the nature of
+what we term generally, Progress and Civilization, cannot be
+expected to show any permanent disposition to hover about
+an average.
+
+16. The reader who is familiar with Probability is of
+course acquainted with the celebrated theorem of James
+Bernoulli. This theorem, of which the examples just adduced
+are merely particular cases, is generally expressed
+somewhat as follows:--in the long run all events will tend
+to occur with a relative frequency proportional to their
+objective probabilities. With the mathematical proof of this
+theorem we need not trouble ourselves, as it lies outside the
+province of this work; but indeed if there is any value in the
+foregoing criticism, the basis on which the mathematics rest
+is faulty, owing to there being really nothing which we can
+with propriety call an objective probability.
+
+If one might judge by the interpretation and uses to
+which this theorem is sometimes exposed, we should regard
+it as one of the last remaining relics of Realism, which after
+being banished elsewhere still manages to linger in the remote
+province of Probability. It would be an illustration of
+the inveterate tendency to objectify our conceptions, even in
+cases where the conceptions had no right to exist at all. A
+uniformity is observed; sometimes, as in games of chance, it
+is found to be so connected with the physical constitution of
+the bodies employed as to be capable of being inferred beforehand;
+though even here the connection is by no means
+so necessary as is commonly supposed, owing to the fact that
+in addition to these bodies themselves we have also to take
+into account their relation to the agencies which influence
+them. This constitution is then converted into an 'objective
+probability', supposed to develop into the sequence which
+exhibits the uniformity. Finally, this very questionable objective
+probability is assumed to exist, with the same faculty
+of development, in all the cases in which uniformity is observed,
+however little resemblance there may be between
+these and games of chance.
+
+17. How utterly inappropriate any such conception is
+in most of the cases in which we find statistical uniformity,
+will be obvious on a moment's consideration. The observed
+phenomena are generally the product, in these cases, of very
+numerous and complicated antecedents. The number of
+crimes, for instance, annually committed in any society, is a
+function amongst other things, of the strictness of the law,
+the morality of the people, their social condition, and the
+vigilance of the police, each of these elements being in itself
+almost infinitely complex. Now, as a result of all these
+agencies, there is some degree of uniformity; but what has
+been called above the change of type, which it sooner or
+later tends to display, is unmistakeable. The average annual
+numbers do not show a steady gradual approach towards
+what might be considered in some sense a limiting value,
+but, on the contrary, fluctuate in a way which, however it
+may depend upon causes, shows none of the permanent uniformity
+which is characteristic of games of chance. This
+fact, combined with the obvious arbitrariness of singling out,
+from amongst the many and various antecedents which produced
+the observed regularity, a few only, which should constitute
+the objective probability (if we took all, the events
+being absolutely determined, there would be no occasion for
+an appeal to probability in the case), would have been sufficient
+to prevent any one from assuming the existence of
+any such thing, unless the mistaken analogy of other cases
+had predisposed him to seek for it.
+
+There is a familiar practical form of the same error, the
+tendency to which may not improbably be derived from a
+similar theoretical source. It is that of continuing to accumulate
+our statistical data to an excessive extent. If the
+type were absolutely fixed we could not possibly have too
+many statistics; the longer we chose to take the trouble
+of collecting them the more accurate our results would be.
+But if the type is changing, in other words, if some of the
+principal causes which aid in their production have, in regard
+to their present degree of intensity, strict limits of time or
+space, we shall do harm rather than good if we overstep
+these limits. The danger of stopping too soon is easily seen,
+but in avoiding it we must not fall into the opposite error of
+going on too long, and so getting either gradually or suddenly
+under the influence of a changed set of circumstances.
+
+18. This chapter was intended to be devoted to a
+consideration, not of the processes by which nature produces
+the series with which we are concerned, but of the theoretic
+basis of the methods by which we can determine the existence
+of such series. But it is not possible to keep the two enquiries
+apart, for here, at any rate, the old maxim prevails that to
+know a thing we must know its causes. Recur for a minute
+to the considerations of the last chapter. We there saw
+that there was a large class of events, the conditions of production
+of which could be said to consist of (1) a comparatively
+few nearly unchangeable elements, and (2) a vast number
+of independent and very changeable elements. At least if
+there were any other elements besides these, we are assumed
+either to make special allowance for them, or to omit them
+from our enquiry. Now in certain cases, such as games of
+chance, the unchangeable elements may without practical
+error be regarded as really unchangeable throughout any
+range of time and space. Hence, as a result, the deductive
+method of treatment becomes in their case at once the most
+simple, natural, and conclusive; but, as a further consequence,
+the statistics of the events, if we choose to appeal to them,
+may be collected _ad libitum_ with better and better approximation
+to truth. On the other hand, in all social
+applications of Probability, the unchangeable causes can only
+be regarded as really unchangeable under many qualifications.
+We know little or nothing of them directly; they are
+often in reality numerous, indeterminate, and fluctuating;
+and it is only under the guarantee of stringent restrictions of
+time and place, that we can with any safety attribute to
+them sufficient fixity to justify our theory. Hence, as a
+result, the deductive method, under whatever name it may
+go, becomes totally inapplicable both in theory and practice;
+and, as a further consequence, the appeal to statistics has to
+be made with the caution in mind that we shall do mischief
+rather than good if we go on collecting too many of them.
+
+19. The results of the last two chapters may be
+summed up as follows:--We have extended the conception
+of a series obtained in the first chapter; for we have found
+that these series are mostly presented to us in groups.
+These groups are found upon examination to be formed upon
+approximately the same type throughout a very wide and
+varied range of experience; the causes of this agreement we
+discussed and explained in some detail. When, however, we
+extend our examination by supposing the series to run to a
+very great length, we find that they may be divided into two
+classes separated by important distinctions. In one of these
+classes (that containing the results of games of chance) the
+conditions of production, and consequently the laws of statistical
+occurrence, may be practically regarded as absolutely
+fixed; and the extent of the divergences from the mean
+seem to know no finite limit. In the other class, on the
+contrary (containing the bulk of ordinary statistical enquiries),
+the conditions of production vary with more or less rapidity,
+and so in consequence do the results. Moreover it is often
+impossible that variations from the mean should exceed a
+certain amount. The former we may term _ideal_ series. It
+is they alone which show the requisite characteristics with
+any close approach to accuracy, and to make the theory of
+the subject tenable, we have really to substitute one of this
+kind for one of the less perfect ones of the other class, when
+these latter are under treatment. The former class have,
+however, been too exclusively considered by writers on the
+subject; and conceptions appropriate only to them, and not
+always even to them, have been imported into the other
+class. It is in this way that a general tendency to an excessive
+deductive or _à priori_ treatment of the science has
+been encouraged.
+
+
+1. This latter enquiry belongs to what may be termed the more purely
+  logical part of this volume, and is entered on in the course of
+  Chapter VI.
+
+2. For the use of those not acquainted with the common notation
+  employed in this subject, it may be remarked that HH is simply an
+  abbreviated way of saying that the two successive throws of the
+  penny give head; HT that the first of them gives head, and the
+  second tail; and so on with the remaining symbols.
+
+3. I am endeavouring to treat this rule of Sufficient Reason in a way
+  that shall be legitimate in the opinion of those who accept it, but
+  there seem very great doubts whether a contradiction is not involved
+  when we attempt to extract results from it. If the sides are
+  absolutely alike, how can there he any difference between the terms
+  of the series? The succession seems then reduced to a dull
+  uniformity, a mere iteration of the same thing many times; the
+  series we contemplated has disappeared. If the sides are not
+  absolutely alike, what becomes of the applicability of the rule?
+
+4. _Formal Logic_, p. 185. _Principles of Science_, p. 208.
+
+5. The close connection between these subjects is well indicated in
+  the title of Mr Whitworth's treatise, _Choice and Chance_.
+
+6. _Essai Philosophique_. Ed. 1825, p. 74.
+
+7. An opinion prevailed rather at one time (quoted and supported by
+  Quetelet amongst others) that the relative ages of the parents had
+  something to do with the sex of the offspring. If this were so, it
+  would quite bear out the above remarks. As a matter of fact, it
+  should be observed, that the proportion of 106 to 100 does not seem
+  by any means universal in all countries or at all times. For various
+  statistical tables on the subject see Quetelet, _Physique Sociale_,
+  Vol. I. 166, 173, 238.
+
+
+
+

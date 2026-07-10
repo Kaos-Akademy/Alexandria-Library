@@ -1,0 +1,1890 @@
+
+[Transcriber's Note:
+
+On P. 435, there are four instances of "2" in brackets. {2} indicates a
+subscript 2. ^{2} indicates a superscript 2.
+
+[+] in Footnote 69 indicates a larger than normal plus sign.
+
+Remaining transcriber's notes are at the end of the text.]
+
+
+
+
+               ESSAYS IN
+          EXPERIMENTAL LOGIC
+
+                 _By_
+
+              JOHN DEWEY
+
+
+    THE UNIVERSITY OF CHICAGO PRESS
+           CHICAGO, ILLINOIS
+
+
+
+
+           COPYRIGHT 1916 BY
+       THE UNIVERSITY OF CHICAGO
+
+          All Rights Reserved
+
+          Published June 1916
+       Second Impression May 1918
+      Third Impression October 1920
+
+
+        Composed and Printed By
+    The University of Chicago Press
+       Chicago, Illinois, U.S.A.
+
+
+
+
+PREFATORY NOTE
+
+
+In 1903 a volume was published by the University of Chicago Press,
+entitled _Studies in Logical Theory_, as a part of the "Decennial
+Publications" of the University. The volume contained contributions by
+Drs. Thompson (now Mrs. Woolley), McLennan, Ashley, Gore, Heidel,
+Stuart, and Moore, in addition to four essays by the present writer
+who was also general editor of the volume. The edition of the
+_Studies_ being recently exhausted, the Director of the Press
+suggested that my own essays be reprinted, together with other studies
+of mine in the same field. The various contributors to the original
+volume cordially gave assent, and the present volume is the outcome.
+Chaps. ii-v, inclusive, represent (with editorial revisions, mostly
+omissions) the essays taken from the old volume. The first and
+introductory chapter has been especially written for the volume. The
+other essays are in part reprinted and in part rewritten, with
+additions, from various contributions to philosophical periodicals. I
+should like to point out that the essay on "Some Stages of Logical
+Thought" antedates the essays taken from the volume of _Studies_,
+having been published in 1900; the other essays have been written
+since then. I should also like to point out that the essays in their
+psychological phases are written from the standpoint of what is now
+termed a behavioristic psychology, though some of them antedate the
+use of that term as a descriptive epithet.
+
+                                                       J. D.
+    COLUMBIA UNIVERSITY
+       April 3, 1916
+
+
+
+
+TABLE OF CONTENTS
+
+
+                                                               PAGE
+
+       I. INTRODUCTION                                            1
+
+      II. THE RELATIONSHIP OF THOUGHT AND ITS SUBJECT-MATTER     75
+
+     III. THE ANTECEDENTS AND STIMULI OF THINKING               103
+
+      IV. DATA AND MEANINGS                                     136
+
+       V. THE OBJECTS OF THOUGHT                                157
+
+      VI. SOME STAGES OF LOGICAL THOUGHT                        183
+
+     VII. THE LOGICAL CHARACTER OF IDEAS                        220
+
+    VIII. THE CONTROL OF IDEAS BY FACTS                         230
+
+      IX. NAÏVE REALISM VS. PRESENTATIVE REALISM                250
+
+       X. EPISTEMOLOGICAL REALISM: THE ALLEGED UBIQUITY
+            OF THE KNOWLEDGE RELATION                           264
+
+      XI. THE EXISTENCE OF THE WORLD AS A LOGICAL PROBLEM       281
+
+     XII. WHAT PRAGMATISM MEANS BY PRACTICAL                    303
+
+    XIII. AN ADDED NOTE AS TO THE "PRACTICAL"                   330
+
+     XIV. THE LOGIC OF JUDGMENTS OF PRACTICE                    335
+
+    Index                                                       443
+
+
+
+
+I
+
+INTRODUCTION
+
+
+The key to understanding the doctrine of the essays which are herewith
+reprinted lies in the passages regarding the temporal development of
+experience. Setting out from a conviction (more current at the time
+when the essays were written than it now is) that knowledge implies
+judgment (and hence, thinking) the essays try to show (1) that such
+terms as "thinking," "reflection," "judgment" denote inquiries or the
+results of inquiry, and (2) that inquiry occupies an intermediate and
+mediating place in the development of an experience. If this be
+granted, it follows at once that a philosophical discussion of the
+distinctions and relations which figure most largely in logical
+theories depends upon a proper placing of them in their temporal
+context; and that in default of such placing we are prone to transfer
+the traits of the subject-matter of one phase to that of another--with
+a confusing outcome.
+
+
+I
+
+1. An intermediary stage for knowledge (that is, for knowledge
+comprising reflection and having a distinctively intellectual quality)
+implies a prior stage of a different kind, a kind variously
+characterized in the essays as social, affectional, technological,
+aesthetic, etc. It may most easily be described from a negative point
+of view: it is a type of experience which cannot be called a knowledge
+experience without doing violence to the term "knowledge" and to
+experience. It may contain knowledge resulting from prior inquiries;
+it may include thinking within itself; but not so that they dominate
+the situation and give it its peculiar flavor. Positively, anyone
+recognizes the difference between an experience of quenching thirst
+where the perception of water is a mere incident, and an experience of
+water where knowledge of what water is, is the controlling interest;
+or between the enjoyment of social converse among friends and a study
+deliberately made of the character of one of the participants; between
+aesthetic appreciation of a picture and an examination of it by a
+connoisseur to establish the artist, or by a dealer who has a
+commercial interest in determining its probable selling value. The
+distinction between the two types of experience is evident to anyone
+who will take the trouble to recall what he does most of the time when
+not engaged in meditation or inquiry.
+
+But since one does not think about knowledge except when he is
+_thinking_, except, that is, when the intellectual or cognitional
+interest is dominant, the professional philosopher is only too prone
+to think of all experiences as if they were of the type he is
+specially engaged in, and hence unconsciously or intentionally to
+project _its_ traits into experiences to which they are alien. Unless
+he takes the simple precaution of holding before his mind contrasting
+experiences like those just mentioned, he generally forms a habit of
+supposing that no qualities or things at all are present in experience
+except as objects of some kind of apprehension or awareness.
+Overlooking, and afterward denying, that things and qualities are
+present to most men most of the time as things and qualities in
+situations of prizing and aversion, of seeking and finding, of
+converse, enjoyment and suffering, of production and employment, of
+manipulation and destruction, he thinks of things as either totally
+absent from experience or else there as objects of "consciousness" or
+knowing. This habit is a tribute to the _importance_ of reflection and
+of the knowledge which accrues from it. But a discussion of knowledge
+perverted at the outset by such a misconception is not likely to
+proceed prosperously.
+
+All this is not to deny that some element of reflection or inference
+may be required in any situation to which the term "experience" is
+applicable in any way which contrasts with, say, the "experience" of
+an oyster or a growing bean vine. Men experience illness. What they
+experience is certainly something very different from an object of
+apprehension, yet it is quite possible that what makes an illness into
+a _conscious_ experience is precisely the intellectual elements which
+intervene--a certain taking of some things as representative of other
+things. My thesis about the primary character of non-reflectional
+experience is not intended to preclude this hypothesis--which appears
+to me a highly plausible one. But it is indispensable to note that,
+even in such cases, the intellectual element is set in a context which
+is non-cognitive and which holds within it in suspense a vast complex
+of other qualities and things that in the experience itself are
+objects of esteem or aversion, of decision, of use, of suffering, of
+endeavor and revolt, not of knowledge. When, in a subsequent
+reflective experience, we look back and find these things and
+qualities (quales would be a better word, or values, if the latter word
+were not so open to misconstruction), we are only too prone to suppose
+that they were then what they are now--objects of a cognitive regard,
+themes of an intellectual gesture. Hence, the erroneous conclusion
+that things are either just out of experience, or else are (more or
+less badly) known objects.
+
+In any case the best way to study the character of those cognitional
+factors which are merely incidental in so many of our experiences is
+to study them in the type of experience where they are most prominent,
+where they dominate; where knowing, in short, is the prime concern.
+Such study will also, by a reflex reference, throw into greater relief
+the contrasted characteristic traits of the non-reflectional types of
+experience. In such contrast the significant traits of the latter are
+seen to be internal organization: (1) the factors and qualities hang
+together; there is a great variety of them but they are saturated with
+a pervasive quality. Being ill with the grippe is an experience which
+includes an immense diversity of factors, but none the less is the one
+qualitatively unique experience which it is. Philosophers in their
+exclusively intellectual preoccupation with analytic knowing are only
+too much given to overlooking the primary import of the term "thing":
+namely, _res_, an affair, an occupation, a "cause"; something which is
+similar to having the grippe, or conducting a political campaign, or
+getting rid of an overstock of canned tomatoes, or going to school, or
+paying attention to a young woman:--in short, just what is meant in
+non-philosophic discourse by "an experience." Noting things only as if
+they were objects--that is, objects of knowledge--continuity is
+rendered a mystery; qualitative, pervasive unity is too often regarded
+as a subjective state injected into an object which does not possess
+it, as a mental "construct," or else as a trait of being to be
+attained to only by recourse to some curious organ of knowledge termed
+intuition. In like fashion, organization is thought of as the achieved
+outcome of a highly scientific knowledge, or as the result of
+transcendental rational synthesis, or as a fiction superinduced by
+association, upon elements each of which in its own right "is a
+separate existence." One advantage of an excursion by one who
+philosophizes upon knowledge into primary non-reflectional experience
+is that the excursion serves to remind him that every empirical
+situation has its own organization of a direct, non-logical character.
+
+(2) Another trait of every _res_ is that it has focus and context:
+brilliancy and obscurity, conspicuousness or apparency, and
+concealment or reserve, with a constant movement of redistribution.
+Movement about an axis persists, but what is in focus constantly
+changes. "Consciousness," in other words, is only a very small and
+shifting portion of experience. The scope and content of the focused
+apparency have immediate dynamic connections with portions of
+experience not at the time obvious. The word which I have just written
+is momentarily focal; around it there shade off into vagueness my
+typewriter, the desk, the room, the building, the campus, the town,
+and so on. _In_ the experience, and in it in such a way as to
+_qualify_ even what is shiningly apparent, are all the physical
+features of the environment extending out into space no one can say
+how far, and all the habits and interests extending backward and
+forward in time, of the organism which uses the typewriter and which
+notes the written form of the word only as temporary focus in a vast
+and changing scene. I shall not dwell upon the import of this fact in
+its critical bearings upon theories of experience which have been
+current. I shall only point out that when the word "experience" is
+employed in the text it means just such an immense and operative world
+of diverse and interacting elements.
+
+It might seem wiser, in view of the fact that the term "experience" is
+so frequently used by philosophers to denote something very different
+from such a world, to use an acknowledgedly objective term: to talk
+about the typewriter, for example. But experience in ordinary usage
+(as distinct from its technical use in psychology and philosophy)
+expressly denotes something which a specific term like "typewriter"
+does _not_ designate: namely, the indefinite range of context in which
+the typewriter is _actually_ set, its spatial and temporal
+environment, including the habitudes, plans, and activities of its
+operator. And if we are asked why not then use a general objective
+term like "world," or "environment," the answer is that the word
+"experience" suggests something indispensable which these terms omit:
+namely, an actual focusing of the world at one point in a focus of
+immediate shining apparency. In other words, in its ordinary human
+usage, the term "experience" was invented and employed previously
+because of the necessity of having some way to refer peremptorily to
+what is indicated in only a roundabout and divided way by such terms
+as "organism" and "environment," "subject" and "object," "persons"
+and "things," "mind" and "nature," and so on.[1]
+
+
+II
+
+Had this background of the essays been more explicitly depicted, I do
+not know whether they would have met with more acceptance, but it is
+likely that they would not have met with so many misunderstandings.
+But the essays, save for slight incidental references, took this
+background for granted in the allusions to the universe of
+non-reflectional experience of our doings, sufferings, enjoyments of
+the world and of one another. It was their purpose to point out that
+reflection (and, hence, knowledge having logical properties) arises
+because of the appearance of incompatible factors within the empirical
+situation just pointed at: incompatible not in a mere structural or
+static sense, but in an active and progressive sense. Then opposed
+responses are provoked which cannot be taken simultaneously in overt
+action, and which accordingly can be dealt with, whether
+simultaneously or successively, only after they have been brought into
+a plan of organized action by means of analytic resolution and
+synthetic imaginative conspectus; in short, by means of being taken
+cognizance of. In other words, reflection appears as the dominant
+trait of a situation when there is something seriously the matter,
+some trouble, due to active discordance, dissentiency, conflict among
+the factors of a prior non-intellectual experience; when, in the
+phraseology of the essays, a situation becomes tensional.[2]
+
+Given such a situation, it is obvious that the meaning of the
+situation as a whole is uncertain. Through calling out two opposed
+modes of behavior, it presents itself as meaning two incompatible
+things. The only way out is through careful inspection of the
+situation, involving resolution into elements, and a going out beyond
+what is found upon such inspection to be given, to something else to
+get a leverage for understanding it. That is, we have (_a_) to locate
+the difficulty, and (_b_) to devise a method of coping with it. Any
+such way of looking at thinking demands moreover that the difficulty
+be located _in_ the situation in question (very literally in
+question). Knowing always has a _particular_ purpose, and its solution
+must be a function of its conditions in connection with _additional_
+ones which are brought to bear. Every reflective knowledge, in other
+words, has a specific task which is set by a concrete and empirical
+situation, so that it can perform that task only by detecting and
+remaining faithful to the conditions in the situation in which the
+difficulty arises, while its purpose is a reorganization of its
+factors in order to get unity.
+
+So far, however, there is no accomplished knowledge, but only knowledge
+coming to be--learning, in the classic Greek conception. Thinking gets
+no farther, as _thinking_, than a statement of elements constituting
+the difficulty at hand and a statement--a propounding, a
+proposition--of a method for resolving them. In fixing the framework of
+every reflective situation, this state of affairs also determines the
+further step which is needed if there is to be knowledge--knowledge in
+the eulogistic sense, as distinct from opinion, dogma, and guesswork,
+or from what casually passes current as knowledge. Overt action is
+demanded if the worth or validity of the reflective considerations is
+to be determined. Otherwise, we have, at most, only a hypothesis that
+the conditions of the difficulty are such and such, and that the way to
+go at them so as to get over or through them is thus and so. This way
+must be tried in action; it must be applied, physically, in the
+situation. By finding out what then happens, we test our intellectual
+findings--our logical terms or projected metes and bounds. If the
+required reorganization is effected, they are confirmed, and reflection
+(on that topic) ceases; if not, there is frustration, and inquiry
+continues. That all knowledge, as issuing from reflection, is
+experimental (in the literal physical sense of experimental) is then a
+constituent proposition of this doctrine.
+
+Upon this view, thinking, or knowledge-getting, is far from being the
+armchair thing it is often supposed to be. The reason it is not an
+armchair thing is that it is not an event going on exclusively within
+the cortex or the cortex and vocal organs. It involves the
+explorations by which relevant data are procured and the physical
+analyses by which they are refined and made precise; it comprises the
+readings by which information is got hold of, the words which are
+experimented with, and the calculations by which the significance of
+entertained conceptions or hypotheses is elaborated. Hands and feet,
+apparatus and appliances of all kinds are as much a part of it as
+changes in the brain. Since these physical operations (including the
+cerebral events) and equipments are a part of thinking, thinking is
+mental, not because of a peculiar stuff which enters into it or of
+peculiar non-natural activities which constitute it, but because of
+what physical acts and appliances _do_: the distinctive purpose for
+which they are employed and the distinctive results which they
+accomplish.
+
+That reflection terminates, through a definitive overt act,[3] in
+another non-reflectional situation, within which incompatible
+responses may again in time be aroused, and so another problem in
+reflection be set, goes without saying. Certain things about this
+situation, however, do not at the present time speak for themselves
+and need to be set forth. Let me in the first place call attention to
+an ambiguity in the term "knowledge." The statement that all
+knowledge involves reflection--or, more concretely, that it denotes
+an inference from evidence--gives offense to many; it seems a
+departure from fact as well as a wilful limitation of the word
+"knowledge." I have in this Introduction endeavored to mitigate the
+obnoxiousness of the doctrine by referring to "knowledge which is
+intellectual or logical in character." Lest this expression be
+regarded as a futile evasion of a real issue, I shall now be more
+explicit. (1) It may well be admitted that there is a real sense in
+which knowledge (as distinct from thinking or inquiring with a guess
+attached) does not come into existence till thinking has terminated in
+the experimental act which fulfils the specifications set forth in
+thinking. But what is also true is that the object thus determined is
+an object of _knowledge_ only because of the thinking which has
+preceded it and to which it sets a happy term. To run against a hard
+and painful stone is not of itself, I should say, an act of knowing;
+but if running into a hard and painful thing is an outcome predicted
+after inspection of data and elaboration of a hypothesis, then the
+hardness and the painful bruise which define the thing as a stone also
+constitute it emphatically an object of knowledge. In short, the
+object of knowledge in the strict sense is its objective; and this
+objective is not constituted till it is reached. Now this
+conclusion--as the word denotes--is thinking brought to a close, done
+with. If the reader does not find this statement satisfactory, he
+may, pending further discussion, at least recognize that the doctrine
+set forth has no difficulty in connecting knowledge with inference,
+and at the same time admitting that knowledge in the emphatic sense
+does not exist till inference has ceased. Seen from this point of
+view, so-called immediate knowledge or simple apprehension or
+acquaintance-knowledge represents a critical skill, a certainty of
+response which has accrued in consequence of reflection. A like
+sureness of footing apart from prior investigations and testings is
+found in instinct and habit. I do not deny that these may be better
+than knowing, but I see no reason for complicating an already too
+confused situation by giving them the name "knowledge" with its usual
+intellectual implications. From this point of view, the subject-matter
+of knowledge is precisely that which we do _not_ think of, or mentally
+refer to in any way, being that which is taken as matter of course,
+but it is nevertheless knowledge in virtue of the inquiry which has
+led up to it.
+
+(2) Definiteness, depth, and variety of meaning attach to the objects
+of an experience just in the degree in which they have been previously
+thought about, even when present in an experience in which they do not
+evoke inferential procedures at all. Such terms as "meaning,"
+"significance," "value," have a double sense. Sometimes they mean a
+function: the office of one thing representing another, or pointing to
+it as implied; the operation, in short, of serving as sign. In the
+word "symbol" this meaning is practically exhaustive. But the terms
+also sometimes mean an inherent quality, a quality intrinsically
+characterizing the thing experienced and making it worth while. The
+word "sense," as in the phrase "sense of a thing" (and non-sense) is
+devoted to this use as definitely as are the words "sign" and "symbol"
+to the other. In such a pair as "import" and "importance," the first
+tends to select the reference to another thing while the second names
+an intrinsic content. In reflection, the extrinsic reference is always
+primary. The height of the mercury means rain; the color of the flame
+means sodium; the form of the curve means factors distributed
+accidentally. In the situation which follows upon reflection, meanings
+are intrinsic; they have no instrumental or subservient office,
+because they have no office at all. They are as much qualities of the
+objects in the situation as are red and black, hard and soft, square
+and round. And every reflective experience adds new shades of such
+intrinsic qualifications. In other words, while reflective knowing is
+instrumental to gaining control in a troubled situation (and thus has
+a practical or utilitarian force), it is also instrumental to the
+enrichment of the immediate significance of subsequent experiences.
+And it may well be that this by-product, this gift of the gods, is
+incomparably more valuable for living a life than is the primary and
+intended result of control, essential as is that control to having a
+life to live. Words are treacherous in this field; there are no
+accepted criteria for assigning or measuring their meanings; but if
+one use the term "consciousness" to denote immediate values of
+objects, then it is certainly true that "consciousness is a lyric cry
+even in the midst of business." But it is equally true that if someone
+else understands by consciousness the function of effective
+reflection, then consciousness is a business--even in the midst of
+writing or singing lyrics. But the statement remains inadequate until
+we add that knowing as a business, inquiry and invention as
+enterprises, as practical acts, become themselves charged with the
+meaning of what they accomplish as _their_ own immediate quality.
+There exists no disjunction between aesthetic qualities which are
+final yet idle, and acts which are practical or instrumental. The
+latter have their own delights and sorrows.
+
+
+III
+
+Speaking, then, from the standpoint of temporal order, we find
+reflection, or thought, occupying an intermediate and reconstructive
+position. It comes between a temporally prior situation (an organized
+interaction of factors) of active and appreciative experience, wherein
+some of the factors have become discordant and incompatible, and a
+later situation, which has been constituted out of the first
+situation by means of acting on the findings of reflective inquiry.
+This final situation therefore has a richness of meaning, as well as a
+controlled character lacking to its original. By it is fixed the
+logical validity or intellectual force of the terms and relations
+distinguished by reflection. Owing to the continuity of experience
+(the overlapping and recurrence of like problems), these logical
+fixations become of the greatest assistance to subsequent inquiries;
+they are its working means. In such further uses, they get further
+tested, defined, and elaborated, until the vast and refined systems of
+the technical objects and formulae of the sciences come into
+existence--a point to which we shall return later.
+
+Owing to circumstances upon which it is unnecessary to dwell, the
+position thus sketched was not developed primarily upon its own
+independent account, but rather in the course of a criticism of
+another type of logic, the idealistic logic found in Lotze. It is
+obvious that the theory in question has critical bearings. According
+to it, reflection in its distinctions and processes can be understood
+only when placed in its intermediate pivotal temporal position--as a
+process of control, through reorganization, of material alogical in
+character. It intimates that thinking would not exist, and hence
+knowledge would not be found, in a world which presented no troubles
+or where there are no "problems of evil"; and on the other hand that a
+reflective method is the only sure way of dealing with these
+troubles. It intimates that while the results of reflection, because
+of the continuity of experience, may be of wider scope than the
+situation which calls out a particular inquiry and invention,
+reflection itself is always specific in origin and aim; it always has
+something special to cope with. For troubles are concretely specific.
+It intimates also that thinking and reflective knowledge are never an
+end-all, never their own purpose nor justification, but that they pass
+naturally into a more direct and vital type of experience, whether
+technological or appreciative or social. This doctrine implies,
+moreover, that logical theory in its usual sense is essentially a
+descriptive study; that it is an account of the processes and tools
+which have actually been found effective in inquiry, comprising in the
+term "inquiry" both deliberate discovery and deliberate invention.
+
+Since the doctrine was propounded in an intellectual environment where
+such statements were not commonplaces, where in fact a logic was
+reigning which challenged these convictions at every point, it is not
+surprising that it was put forth with a controversial coloring, being
+directed particularly at the dominant idealistic logic. The point of
+contact and hence the point of conflict between the logic set forth
+and the idealistic logic are not far to seek. The logic based on
+idealism had, as a matter of fact, treated knowledge from the
+standpoint of an account of thought--of thought in the sense of
+conception, judgment, and inferential reasoning. But while it had
+inherited this view from the older rationalism, it had also learned
+from Hume, via Kant, that direct sense or perceptual material must be
+taken into account. Hence it had, in effect, formulated the problem of
+logic as the problem of the connection of logical thought with
+sense-material, and had attempted to set forth a metaphysics of
+reality based upon various ascending stages of the completeness of the
+rationalization or idealization of given, brute, fragmentary sense
+material by synthetic activity of thought. While considerations of a
+much less formal kind were chiefly influential in bringing idealism to
+its modern vogue, such as the conciliation of a scientific with a
+religious and moral point of view and the need of rationalizing social
+and historic institutions so as to explain their cultural effect, yet
+this logic constituted the _technique_ of idealism--its strictly
+intellectual claim for acceptance.
+
+The point of contact, and hence of conflict, between it and such a
+doctrine of logic and reflective thought as is set forth above is, I
+repeat, fairly obvious. Both fix upon thinking as the key to the
+situation. I still believe (what I believed when I wrote the essays)
+that under the influence of idealism valuable analyses and
+formulations of the work of reflective thought, in its relation to
+securing knowledge of objects, were executed. But--and the but is one
+of exceptional gravity--the idealistic logic started from the
+distinction between immediate plural data and unifying, rationalizing
+meanings as a distinction ready-made in experience, and it set up as
+the goal of knowledge (and hence as the definition of true reality) a
+complete, exhaustive, comprehensive, and eternal system in which
+plural and immediate data are forever woven into a fabric and pattern
+of self-luminous meaning. In short, it ignored the temporally
+intermediate and instrumental place of reflection; and because it
+ignored and denied this place, it overlooked its essential feature:
+control of the environment in behalf of human progress and well-being,
+the effort at control being stimulated by the needs, the defects, the
+troubles, which accrue when the environment coerces and suppresses man
+or when man endeavors in ignorance to override the environment. Hence
+it misconstrued the criterion of the work of intelligence; it set up
+as its criterion an Absolute and Non-temporal reality at large,
+instead of using the criterion of specific temporal achievement of
+consequences through a control supplied by reflection. And with this
+outcome, it proved faithless to the cause which had generated it and
+given it its reason for being: the magnification of the work of
+intelligence in our actual physical and social world. For a theory
+which ends by declaring that everything is, really and eternally,
+thoroughly ideal and rational, cuts the nerve of the specific demand
+and work of intelligence.
+
+From this general statement, let me descend to the technical point
+upon which turns the criticism of idealistic logic by the essays.
+Grant, for a moment, as a hypothesis, that thinking starts neither
+from an implicit force of rationality desiring to realize itself
+completely in and through and against the limitations which are
+imposed upon it by the conditions of our human experience (as all
+idealisms have taught), nor from the fact that in each human being is
+a "mind" whose business it is just to "know"--to theorize in the
+Aristotelian sense; but, rather, that it starts from an effort to get
+out of some trouble, actual or menacing. It is quite clear that the
+human race has tried many another way out besides reflective inquiry.
+Its favorite resort has been a combination of magic and poetry, the
+former to get the needed relief and control; the latter to import into
+imagination, and hence into emotional consummation, the realizations
+denied in fact. But as far as reflection does emerge and gets a
+working foothold, the nature of its job is set for it. On the one
+hand, it must discover, it must find out, it must detect; it must
+inventory what is there. All this, or else it will never know what the
+matter is; the human being will not find out what "struck him," and
+hence will have no idea of where to seek for a remedy--for the needed
+control. On the other hand, it must invent, it must project, it must
+bring to bear upon the given situation what is not, as it exists,
+given as a part of it.
+
+This seems to be quite empirical and quite evident. The essays
+submitted the thesis that this simple dichotomization of the practical
+situation of power and enjoyment, when menaced, into what is there
+(whether as obstacle or as resource), and into suggested
+inventions--projections of something else to be brought to bear upon
+it, ways of dealing with it--is the explanation of the time-honored
+logical determinations of brute fact, datum and meaning or ideal
+quality; of (in more psychological terminology) sense-perception and
+conception; of particulars (parts, fragments) and universals-generics;
+and also of whatever there is of intrinsic significance in the
+traditional subject-predicate scheme of logic. It held, less formally,
+that this view explained the eulogistic connotations always attaching
+to "reason" and to the work of reason in effecting unity, harmony,
+comprehension, or synthesis, and to the traditional combination of a
+depreciatory attitude toward brute facts with a grudging concession of
+the necessity which thought is under of accepting them and taking them
+for its own subject-matter and checks. More specifically, it is held
+that this view supplied (and I should venture to say for the first
+time) an explanation of the traditional theory of truth as a
+correspondence or agreement of existence and mind or thought. It showed
+that the correspondence or agreement was like that between an invention
+and the conditions which the invention is intended to meet. Thereby a
+lot of epistemological hangers-on to logic were eliminated; for the
+distinctions which epistemology had misunderstood were located where
+they belong:--in the art of inquiry, considered as a joint process of
+ascertainment and invention, projection, or "hypothesizing"--of which
+more below.
+
+
+IV
+
+The essays were published in 1903. At that time (as has been noted)
+idealism was in practical command of the philosophic field in both
+England and this country; the logics in vogue were profoundly
+influenced by Kantian and post-Kantian thought. Empirical logics,
+those conceived under the influence of Mill, still existed, but their
+light was dimmed by the radiance of the regnant idealism. Moreover,
+from the standpoint of the doctrine expounded in the essays, the
+empirical logic committed the same logical fault as did the
+idealistic, in taking sense-data to be primitive (instead of being
+resolutions of the _things_ of prior experiences into elements for the
+aim of securing evidence); while it had no recognition of the specific
+service rendered by intelligence in the development of new meanings
+and plans of new actions. This state of things may explain the
+controversial nature of the essays, and their selection in particular
+of an idealistic logic for animadversion.
+
+Since the essays were written, there has been an impressive revival of
+realism, and also a development of a type of logical theory--the
+so-called Analytic Logic--corresponding to the philosophical
+aspirations of the new realism. This marked alteration of intellectual
+environment subjects the doctrine of the essays to a test not
+contemplated when they were written. It is one thing to develop a
+hypothesis in view of a particular situation; it is another to test
+its worth in view of procedures and results having a radically
+different motivation and direction. It is, of course, impossible to
+discuss the analytic logic in this place. A consideration of how some
+of its main tenets compare with the conclusions outlined above will,
+however, throw some light upon the meaning and the worth of the
+latter. Although this was formulated with the idealistic and
+sensationalistic logics in mind, the hypothesis that knowledge can be
+rightly understood only in connection with considerations of time and
+temporal position is a general one. If it is valid, it should be
+readily applicable to a critical placing of any theory which ignores
+and denies such temporal considerations. And while I have learned much
+from the realistic movement about the full force of the position
+sketched in the essays when adequately developed; and while later
+discussions have made it clear that the language employed in the
+essays was sometimes unnecessarily (though naturally) infected by the
+subjectivism of the positions against which it was directed, I find
+that the analytic logic is also guilty of the fault of temporal
+dislocation.
+
+In one respect, idealistic logic takes cognizance of a temporal
+contrast; indeed, it may fairly be said to be based upon it. It seizes
+upon the contrast in intellectual force, consistency, and
+comprehensiveness between the crude or raw data with which science
+sets out and the defined, ordered, and systematic totality at which it
+aims--and which in part it achieves. This difference is a genuine
+empirical difference. Idealism noted that the difference may properly
+be ascribed to the intervention of thinking--that thought is what
+makes the difference. Now since the outcome of science is of higher
+intellectual rank than its data, and since the intellectualistic
+tradition in philosophy has always identified degrees of logical
+adequacy with degrees of reality, the conclusion was naturally drawn
+that _the_ real world--absolute reality--was an ideal or
+thought-world, and that the sense-world, the commonsense-world, the
+world of actual and historic experience, is simply a phenomenal world
+presenting a fragmentary manifestation of that thought which the
+process of human thinking makes progressively explicit and articulate.
+
+This perception of the intellectual superiority of objects which are
+constituted at the conclusion of thinking over those which formed its
+data may fairly be termed the empirical factor in the idealistic
+logic. The essence of the realistic reaction, on its logical side, is
+exceedingly simple. It starts from those objects with which science,
+approved science, ends. Since they are the objects which are _known_,
+which are true, they are the real objects. That they are also objects
+for intervening thinking is an interesting enough historical and
+psychological fact, but one quite irrelevant to their natures, which
+are precisely what knowledge finds them to be. In the biography of
+human beings it may hold good that apprehension of objects is arrived
+at only through certain wanderings, endeavors, exercises, experiments;
+possibly acts called sensation, memory, reflection may be needed by
+men in reaching a grasp of the objects. But such things denote facts
+about the history of the knower, not about the nature of the known
+object. Analysis will show, moreover, that any intelligible account of
+this history, any verified statement of the psychology of knowing
+assumes objects which are unaffected by the knowing--otherwise the
+pretended history is merely pretense and not to be trusted. The
+history of the process of knowing, moreover, implies also the terms
+and propositions--truths--of logic. That logic must therefore be
+assumed as a science of objects real and true, quite apart from any
+process of thinking them. In short, the requirement is that we shall
+think things as they are themselves, not make them into objects
+constructed by thinking.
+
+This revival of realism coincided also with an important movement in
+mathematics and logic: the attempt to treat logical distinctions by
+mathematical methods; while at the same time mathematical
+subject-matter had become so generalized that it was a theory of types
+and orders of terms and propositions--in short, a logic. Certain minds
+have always found mathematics the type of knowledge, because of its
+definiteness, order, and comprehensiveness. The wonderful
+accomplishments of modern mathematics, including its development into
+a type of highly generalized logic, was not calculated to lessen the
+tendency. And while prior philosophers have generally played their
+admiration of mathematics into the hands of idealism (regarding
+mathematical subject-matter as the embodiment or manifestation of pure
+thought), the new philosophy insisted that the terms and types of
+order constituting mathematical and logical subject-matter were real
+in their own right, and (at most) merely led up to and discovered by
+thinking--an operation, moreover, itself subjected (as has been
+pointed out) to the entities and relationships set forth by logic.
+
+The inadequacy of this summary account may be pardoned in view of the
+fact that no adequate exposition is intended; all that is wanted is
+such a statement of the general relationship of idealism to realism as
+may serve as the point of departure for a comparison with the
+instrumentalism of the essays. In bare outline, it is obvious that the
+two latter agree in regarding thinking as instrumental, not as
+constitutive. But this agreement turns out to be a formal matter in
+contrast with a disagreement concerning that _to which_ thinking is
+instrumental. The new realism finds that it is instrumental simply to
+knowledge of objects. From this it infers (with perfect correctness and
+inevitableness) that thinking (including all the operations of discovery
+and testing as they might be set forth in an inductive logic) is a mere
+psychological preliminary, utterly irrelevant to any conclusions
+regarding the nature of objects known. The thesis of the essays is that
+thinking is instrumental to a control of the environment, a control
+effected through acts which would not be undertaken without the prior
+resolution of a complex situation into assured elements and an
+accompanying projection of possibilities--without, that is to say,
+thinking.
+
+Such an instrumentalism seems to analytic realism but a variant of
+idealism. For it asserts that processes of reflective inquiry play a
+part in shaping the objects--namely, terms and propositions--which
+constitute the bodies of scientific knowledge. Now it must not only be
+admitted but proclaimed that the doctrine of the essays holds that
+intelligence is not an otiose affair, nor yet a mere preliminary to a
+spectator-like apprehension of terms and propositions. In so far as it
+is idealistic to hold that objects of knowledge _in their capacity of
+distinctive objects of knowledge_ are determined by intelligence, it
+is idealistic. It believes that faith in the constructive, the
+creative, competency of intelligence was the redeeming element in
+historic idealisms. Lest, however, we be misled by general terms, the
+scope and limits of this "idealism" must be formulated.
+
+(1) Its distinguishing trait is that it defines thought or
+intelligence by function, by work done, by consequences effected. It
+does not start with a power, an entity or substance or activity which
+is ready-made thought or reason and which as such constitutes the
+world. Thought, intelligence, is to it just a name for the events and
+acts which make up the processes of analytic inspection and projected
+invention and testing which have been described. These events, these
+acts, are wholly natural; they are "realistic"; they comprise the
+sticks and stones, the bread and butter, the trees and horses, the
+eyes and ears, the lovers and haters, the sighs and delights of
+ordinary experience. Thinking is what some of the actual existences
+_do_. _They_ are in no sense constituted by thinking; on the contrary,
+the problems of thought are set by _their_ difficulties and its
+resources are furnished by _their_ efficacies; its acts are _their_
+doings adapted to a distinctive end.
+
+(2) The reorganization, the modification, effected by thinking is, by
+this hypothesis, a physical one. Thinking ends in experiment and
+experiment is an _actual_ alteration of a physically antecedent
+situation in those details or respects which called for thought in
+order to do away with some evil. To suffer a disease and to try to do
+something for it is a primal experience; to look into the disease, to
+try and find out just what makes it a disease, to invent--or
+hypothecate--remedies is a reflective experience; to try the suggested
+remedy and see whether the disease is helped is the act which
+transforms the data and the intended remedy into _knowledge objects_.
+And this transformation into knowledge objects is also effected by
+changing physical things by physical means.
+
+Speaking from this point of view, the decisive consideration as
+between instrumentalism and analytic realism is whether the operation
+of experimentation is or is not necessary to knowledge. The
+instrumental theory holds that it is; analytic realism holds that even
+though it were essential in _getting_ knowledge (or in learning), it
+has nothing to do with knowledge itself, and hence nothing to do with
+the known object: that it makes a change only in the knower, not in
+what is to be known. And for precisely the same reason,
+instrumentalism holds that an object as a knowledge-object is never a
+whole; that it is surrounded with and inclosed by things which are
+quite other than objects of knowledge, so that knowledge cannot be
+understood in isolation or when taken as mere beholding or grasping of
+objects. That is to say, while it is making the sick man better or
+worse (or leaving him just the same) which determines the
+knowledge-value of certain findings of fact and certain conceptions as
+to mode of treatment (so that by the treatment they become definitely
+knowledge-objects), yet improvement or deterioration of the patient is
+other than an object of cognitive apprehension. Its knowledge-object
+phase is a selection in reference to prior reflections. So the
+laboratory experiment of a chemist which brings to a head a long
+reflective inquiry and settles the intellectual status of its findings
+and theorizings (thereby making them into cognitive concerns or terms
+and propositions) is itself much more than a knowledge of terms and
+propositions, and only by virtue of this surplusage is it even
+contemplative knowledge. He knows, say, tin, when he has made tin into
+an outcome of his investigating procedures, but tin is much more than
+a term of knowledge.
+
+Putting the matter in a slightly different way, logical (as distinct
+from naïve) realism confuses means of knowledge with objects of
+knowledge. The means are twofold: they are (_a_) the data of a
+particular inquiry so far as they are significant because of prior
+experimental inquiries; and (_b_) they are the meanings which have
+been settled in consequence of prior intellectual undertakings: on the
+one hand, particular things or qualities as signs; on the other,
+general meanings as possibilities of what is signified by given data.
+Our physician has in advance a technique for telling that certain
+particular traits, if he finds them, are symptoms, signs; and he has a
+store of diseases and remedies in mind which may possibly be meant in
+any given case. From prior reflective experiments he has learned to
+look for temperature, for rate of heartbeats, for sore spots in
+certain places; to take specimens of blood, sputum, of membrane, and
+subject them to cultures, microscopic examination, etc. He has
+acquired certain habits, in other words, in virtue of which certain
+physical qualities and events are more than physical, in virtue of
+which they are signs or indications of something else.
+
+On the other hand, this something else is a somewhat not physically
+present at the time: it is a series of events still to happen. It is
+suggested by what is given, but is no part of the given. Now, in the
+degree in which the physician comes to the examination of what is
+there with a large and comprehensive stock of such possibilities or
+meanings in mind, he will be intellectually resourceful in dealing
+with a particular case. They (the concepts or universals of the
+situation) are (together with the sign-capacity of the data) the
+_means_ of knowing the case in hand; they are the agencies of
+transforming it, through the actions which they call for, into an
+object--an object of knowledge, a truth to be stated in propositions.
+But since the professional (as distinct from the human) knower is
+particularly concerned with the elaboration of these tools, the
+professional knower--of which the class philosopher presents of course
+one case--ungenerously drops from sight the situation in its integrity
+and treats these instrumentalities of knowledge as objects of
+knowledge. Each of these aspects--signs and things signified--is
+sufficiently important to deserve a section on its own account.
+
+
+V
+
+The position taken in the essays is frankly realistic in acknowledging
+that certain brute existences, detected or laid bare by thinking but
+in no way constituted out of thought or any mental process, set every
+problem for reflection and hence serve to test its otherwise merely
+speculative results. It is simply insisted that as a matter of fact
+these brute existences are equivalent neither to the objective content
+of the situations, technological or artistic or social, in which
+thinking originates, nor to the things to be known--to the objects of
+knowledge. Let us take the sequence of mineral rock in place, pig iron
+and the manufactured article, comparing the raw material in its
+undisturbed place in nature to the original _res_ of experience,
+compare the manufactured article to the objective and object of
+knowledge, and the brute datum to the metal undergoing extraction from
+raw ore for the sake of being wrought into a useful thing. And we
+should add that just as the manufacturer always has a lot of already
+extracted ore on hand for use in machine processes as it is wanted, so
+every person of any maturity, especially if he lives in an environment
+affected by previous scientific work, has a lot of extracted data--or,
+what comes to the same thing, of ready-made tools of extraction--for
+use in inference as they are required. We go about with a disposition
+to identify certain shapes as tables, certain sounds as words of the
+French language, certain cries as evidences of distress, certain
+massed colors as woods in the distance, certain empty spaces as
+buttonholes, and so on indefinitely. The examples are trivial enough.
+But if more complicated matters were taken, it would be seen that a
+large part of the technique of science (all of science which is
+specifically "inductive" in character) consists of methods of finding
+out just what qualities are unambiguous, economical, and dependable
+signs of those other things which cannot be got at as directly as can
+the sign-bearing elements. And if we started from the more obscure and
+complex difficulties of identification and diagnosis with which the
+sciences of physiology, botany, astronomy, chemistry, etc., deal, we
+should be forced to recognize that the identifications of everyday
+life--our "perceptions" of chairs, tables, trees, friends--differ only
+in presenting questions much easier of solution.
+
+In every case, it is a matter of fixing some given physical existence
+as a sign of some other existences not given in the same way as is
+that which serves as a sign. These words of Mill might well be made
+the motto of every logic: "To draw inferences has been said to be the
+great business of life. Everyone has daily, hourly, and momentary need
+of ascertaining facts which he has not directly observed.... It is
+the only occupation in which the mind never ceases to be engaged."
+Such being the case, the indispensable condition of doing the business
+well is the careful determination of the sign-force of specific things
+in experience. And this condition can never be fulfilled as long as a
+thing is presented to us, so to say, in bulk. The complex
+organizations which are the subject-matter of our direct activities
+and enjoyments are grossly unfit to serve as intellectual indications
+or evidence. Their testimony is almost worthless, they speak so many
+languages. In their complexity, they point equally in all directions;
+in their unity, they run in a groove and point to whatever is most
+customary. To break up the complexity, to resolve it into a number of
+independent variables each as irreducible as it is possible to make
+it, is the only way of getting secure pointers as to what is indicated
+by the occurrence of the situation in question. The "objects" of
+ordinary life, stones, plants, cats, rocks, moon, etc., are neither
+the data of science nor the objects at which science arrives.
+
+We are here face to face with a crucial point in analytic realism.
+Realism argues that we have no alternative except either to regard
+analysis as falsifying (à la Bergson), and thus commit ourselves to
+distrust of science as an organ of knowledge, or else to admit that
+something eulogistically termed Reality (especially as _Existence_,
+Being as subject to space and time determinations) is but a complex
+made up of fixed, mutually independent simples: viz., that Reality is
+truly conceived only under the caption of whole and parts, where the
+parts are independent of each other and consequently of the whole. For
+instrumentalism, however, the alleged dilemma simply does not exist.
+The results of abstraction and analysis are perfectly real; but they
+are real, like everything else, _where_ they are real: that is to say,
+in some _particular_ _co_existence in the situation where they
+originate and operate.
+
+The remark is perhaps more cryptic than enlightening. Its intent is
+that reflection is an actual occurrence as much so as a thunderstorm
+or a growing plant, and as an actual existence it is characterized by
+specific existential traits uniquely belonging to it: the entities of
+simple data as such. It is in control of the evidential function that
+irreducible and independent simples or elements exist. They certainly
+are found there; as we have seen they _are_ "common-sense" objects
+broken up into expeditious and unambiguous signs of conclusions to be
+drawn, conclusions about other things with which they--the
+elements--are continuous in some respects, although discrete[4] with
+respect to their sensory conditions. But there is no more reason for
+supposing that they exist _elsewhere_ in the same manner than there is
+for supposing that centaurs coexist along with domestic horses and
+cows because they coexist with the material of folk-tales or rites, or
+for supposing that pigs of iron pre-existed as pigs in the mine. There
+is no falsifying in analysis _because_ the analysis is carried on
+within a situation which controls it. The fallacy and falsifying is on
+the part of the philosopher who ignores the contextual situation and
+who transfers the properties which things have as dependable
+evidential signs over to things in other modes of behavior.
+
+It is no reply to this position to say that the "elements" or simples
+were there prior to inquiry and to analysis and abstraction. Of course
+their subject-matter was in some sense "there"; and, being there, was
+found, discovered, or detected--hit upon. I am not questioning this
+statement; rather, I have been asserting it. But I am asking for
+patience and industry to consider the matter somewhat further. I would
+ask the man who takes the terms of logical analysis (physical
+resolution for the sake of getting assured evidential indications of
+objects as yet unknown) to be things which coexist with the things of
+a non-inferential situation, to inquire _in what way_ his independent
+given ultimates were there prior to analysis. I would point out that
+in any case they did _not_ pre-exist _as_ signs. (_a_) Consequently,
+whatever traits or properties they possess as signs must at least be
+referred exclusively to the reflective situation. And they must
+possess some distinguishing traits _as_ signs; otherwise they would
+be indistinguishable from anything else which happens to be thought
+of, and could not be employed as evidence: could not be, in short,
+what they are. If the reader will seriously ask just what traits data
+do possess as signs, or evidence, I shall be quite content to leave
+the issue to the results of his own inquiries. (_b_) Any inquiry as to
+_how_ the data antecedently exist will, I am confident, show that they
+do not exist in the same purity, the same external exclusiveness and
+internal homogeneity, which they present within the situation of
+inference, any more than the iron which pre-existed in the rocks in
+the mountains was just the same as the fluxed and extracted ore. Hence
+they did not exist in the same isolated simplicity. I have not the
+slightest interest in exaggerating the scope of this difference. The
+important matter is not its extent or range, but what such a
+change--however small--indicates: namely, that the material is
+entering into a new environment, and has been subjected to the changes
+which will make it useful and effective in that environment. It is
+trivial to suppose that the sole or even the primary difficulty which
+an analytic realism has to face is the occurrence of error and
+illusions, of "secondary" qualities, etc. The difficulty resides in
+the contrast of the world of a naïve, say Aristotelian, realism with
+that of a highly intellectualized and analytic disintegration of the
+everyday world of things. If realism is generous enough to have a
+place _within_ its world (as a _res_ having social and temporal
+qualities as well as spatial ones) for data in process of construction
+of _new_ objects, the outlook is radically different from the case
+where, in the interests of a theory, a realism insists that analytic
+determinations are the sole real things.[5]
+
+If it be not only conceded but asserted that the subject-matter
+generating the data of scientific procedure antedates the procedure,
+it may be asked: what is the point of insisting so much upon the fact
+that data exist only within the procedure? Is not the statement either
+a trivial tautology or else an attempt to inject, _sub rosa_, a
+certain idealistic dependence upon thought into even brute facts? The
+question is a fair one. And the clew to the reply may be found in the
+consideration that it was not historically an easy matter to reduce
+the iron of the rocks to the iron which could freely and effectively
+be used in the manufacture of articles. It involved hitting upon a
+highly complicated art, but an art, nevertheless, which anyone with
+the necessary capital and education can command today as a matter of
+course, giving no thought to the fact that one is using an art
+constructed originally with vast pains. Similarly it is by art, by a
+carefully determined technique, that the things of our primary
+experience are resolved into unquestioned and irreducible data,
+lacking in inner complexity and hence unambiguous. There is no call
+for the scientific man in the pursuit of his calling to take account
+of this fact, any more than the manufacturer need reckon with the arts
+which are required to deliver him his material. But a logician, a
+philosopher, is supposed to take a somewhat broader survey; and for
+his purposes the fact which the scientific inquirer can leave out of
+account, because it is no part of his business, may be the important
+fact. For the logician, it would seem, is concerned not with the
+significance of these or those data, but with the significance of
+there being such things as data, with their traits of irreducibleness,
+bruteness, simplicity, etc. Now, as the special scientific inquirer
+answers the question as to the significance of his special brute facts
+by discovering other facts with which they are connected, so it would
+seem that the logician can find out the significance of the existence
+of data (the fact which concerns him) only by finding out the other
+facts with which _they_ coexist--their significance being their
+factual continuities. And the first step in the search for these other
+facts which supply significance is the recognition that they have been
+extracted for a purpose--for the purpose of guiding inference. It is
+this purposeful situation of inquiry which supplies the _other_ facts
+which give the existence of brute data their significance. And unless
+there is such a discovery (or some better one), the logician will
+inevitably fail in conceiving the import of the existence of brute
+data. And this misconception is, I repeat, just the defect from which
+an analytic presentative realism suffers. To perceive that the brute
+data laid bare in scientific proceedings are always traits of an
+extensive situation, and of that situation as one which needs control
+and which is to undergo modification in some respects, is to be
+protected from any temptation to turn logical specification into
+metaphysical atomism. The need for the protection is sufficiently
+great to justify spending some energy in pointing out that the brute
+objective facts of scientific discovery are discovered facts,
+discovered by physical manipulations which detach them from their
+ordinary setting.
+
+We have stated that, strictly speaking, data (as the immediate
+considerations from which controlled inference proceeds) are not
+objects but means, instrumentalities, of knowledge: things by which we
+know rather than things known. It is by the color stain that we know a
+cellular structure; it is by marks on a page that we know what some
+man believes; it is by the height of the barometer that we know the
+probability of rain; it is by the scratches on the rock that we know
+that ice was once there; it is by qualities detected in chemical and
+microscopic examination that we know that a thing is human blood and
+not paint. Just what the realist asserts about so-called mental states
+of sensations, images, and ideas, namely, that they are not the
+subject-matter of knowledge but its agencies, holds of the chairs and
+tables to which he appeals in support of his doctrine of an immediate
+cognitive presentation, apart from any problem and any reflection. And
+there is very solid ground for instituting the comparison: the
+sensations, images, etc., of the idealist are nothing but the chairs,
+tables, etc., of the realist in their ultimate irreducible
+qualities.[6] The problem in which the realist appeals to the
+immediate apprehension of the table is the epistemological problem,
+and he appeals to the table not as an object of knowledge (as he
+thinks he does), but as evidence, as a means of knowing his
+conclusion--his real _object_ of knowledge. He has only to examine his
+own evidence to see that it is evidence, and hence a term in a
+reflective inquiry, while the nature of knowledge is the _object_ of
+his knowledge.
+
+Again, the question may be asked: Since instrumentalism admits that
+the table is really "there," why make such a fuss about whether it is
+there as a means or as an object of knowledge? Is not the distinction
+mere hair-splitting unless it is a way of smuggling in a
+quasi-idealistic dependence upon thought? The reply will, I hope,
+clinch the significance of the distinction, whether or no it makes it
+acceptable. Respect for knowledge and its object is the ground for
+insisting upon the distinction. The object of knowledge is, so to
+speak, a more dignified, a more complete, sufficient, and
+self-sufficing thing than any datum can be. To transfer the traits of
+the object as known to the datum of reaching it, is a material, not a
+merely verbal, affair. It is precisely this shift which leads the
+presentative realist to substitute for irreducibility and unambiguity
+of logical function (use in inference) physical and metaphysical
+isolation and elementariness. It is this shift which generates the
+need of reconciling the deliverances of science with the structure and
+qualities of the world in which we directly live, since it sets up a
+rivalry between the claims of the data, of common-sense objects, and
+of scientific objects (the results of adequate inquiry). Above all it
+commits us to a view that change is in some sense unreal, since
+ultimate and primary entities, being simple, do not permit of change.
+No; whatever is to be said about the validity of the distinction
+contended for, it cannot be said to be insignificant. A theory which
+commits us to the conception of a world of Eleatic fixities as primary
+and which regards alteration and organization as secondary has such
+profound consequences for thought and conduct that a detection of its
+motivating fallacy makes a substantial difference. No more fundamental
+question can be raised than the range and force of the applicability
+to nature, life, and society of the whole-and-part conception. And if
+we confuse our premises by taking the existential instrumentalities of
+knowledge for its real objects, all distinctions and relations in
+nature, life, and society are thereby requisitioned to be really only
+cases of the whole-and-part nature of things.
+
+
+VI
+
+The instrumental theory acknowledges the objectivity of _meanings_ as
+well as of data. They are referred to and employed in reflective
+inquiry with the confidence attached to the hard facts of sense.
+Pragmatic, as distinct from sensational, empiricism may claim to have
+antedated neo-realism in criticism of resolution of meanings into
+states or acts of consciousness. As previously noted, meanings are
+indispensable instrumentalities of reflection, strictly coincident
+with and correlative to what is analytically detected to be given, or
+irremovably there. Data in their fragmentary character pose a problem;
+they also define it. They suggest possible meanings. Whether they
+_indicate_ them as well as suggest them is a question to be resolved.
+But the meanings suggested are genuinely and existentially suggested,
+and the problem described by the data cannot be solved without their
+acknowledgment and use. That this instrumental necessity has led to a
+metaphysical hypostatizing of meanings into essences or subsistences
+having some sort of mysterious being apart from qualitative things
+and changes is a source of regret; it is hardly an occasion for
+surprise.
+
+To be sure of our footing, let us return to empirical ground. It is as
+certain an empirical fact that one thing suggests another as that fire
+alters the thing burned. The suggesting thing has to be there or
+given; something has to be there to do the suggesting. The suggested
+thing is obviously not "there" in the same way as that which suggests;
+if it were, it would not have to be suggested. A suggestion tends, in
+the natural man, to excite action, to operate as a stimulus. I may
+respond more readily and energetically to a suggested fire than to the
+thing from which the suggestion sprang: that is, the thing by itself
+may leave me cold, the thing as suggesting something else may move me
+vigorously. The response if effected has all the force of a belief or
+conviction. It is _as if_ we believed, on intellectual grounds, that
+the thing _is_ a fire. But it is discovered that not all suggestions
+are indications, or signifiers. The whale suggested by the cloud form
+does not stand on the same level as the fire suggested by smoke, and
+the suggested fire does not always turn out fire in fact. We are led
+to examine the original point of departure and we find out that it was
+not really smoke. In a world where skim-milk and cream suggestions,
+acted upon, have respectively different consequences, and where a
+thing suggests one as readily as the other (or skim-milk masquerades
+as cream), the importance of examination of the thing exercising the
+suggestive force prior to acting upon what it suggests is obvious.
+Hence the act of response naturally stimulated is turned into channels
+of inspection and experimental (physical) analysis. We move our body
+to get a better hold on it, and we pick it to pieces to see what it
+is.
+
+This is the operation which we have been discussing in the last
+section. But experience also testifies that the thing suggested is
+worth attention on its own account. Perhaps we cannot get very readily
+at the thing which, suggesting flame, suggests fire. It may be that
+reflection upon the meaning (or conception), "fire," will help us.
+Fire--here, there, or anywhere, the "essence" fire--means thus and so;
+_if_ this thing really means fire, it will have certain traits,
+certain attributes. Are they there? There are "flames" on the stage as
+part of the scenery. Do they really indicate fire? Fire would mean
+danger; but it is not possible that such a risk would be taken with an
+audience (other meanings, risk, audience, danger, being brought in).
+It must be something else. Well, it is probably colored tissue-paper
+in strips rapidly blown about. This meaning leads us to closer
+inspection; it directs our observations to hunt for corroborations or
+negations. If conditions permitted, it would lead us to walk up and
+get at the thing in close quarters. In short, devotion to a
+suggestion, prior to accepting it as stimulus, leads first to other
+suggestions which may be more applicable; and, secondly, it affords
+the standpoint and the procedure of a physical experimentation to
+detect those elements which are the more reliable signs, indicators
+(evidence). _Suggestions thus treated are precisely what constitute
+meanings, subsistences, essences_, etc. Without such development and
+handling of what is suggested, the process of analyzing the situation
+to get at its hard facts, and especially to get at just those which
+have a right to determine inference, is haphazard--ineffectively done.
+In the actual stress of any such needed determination it is of the
+greatest importance to have a large stock of possible meanings to draw
+on, and to have them ordered in such a way that we can develop each
+promptly and accurately, and move quickly from one to another. It is
+not to be wondered at then that we not only conserve such suggestions
+as have been previously converted successfully into meanings, but also
+that we (or some men at least) turn professional inquirers and
+thinkers; that meanings are elaborated and ordered in related systems
+quite apart from any immediately urgent situation; or that a realm of
+"essences" is built up apart from that of existences.
+
+That suggestion occurs is doubtless a mystery, but so is it a mystery
+that hydrogen and oxygen make water. It is one of the hard, brute
+facts that we have to take account of. We can investigate the
+conditions under which the happening takes place, we can trace the
+consequences which flow from the happening. By these means we can so
+control the happening that it will take place in a more secure and
+fruitful manner. But all this depends upon the hearty acceptance of
+the happening as fact. Suggestion does not of itself yield meanings;
+it yields only suggested things. But the moment we take a suggested
+thing and develop it in connection with other meanings and employ it
+as a guide of investigation (a method of inquiry), that moment we have
+a full-fledged meaning on our hands, possessing all the verifiable
+features which have been imported at any time to ideas, forms,
+species, essences, subsistences. This empirical identification of
+meaning by means of the specific fact of suggestion cuts deep--if
+Occam's razor still cuts.
+
+A suggestion lies between adequate stimulation and logical indication.
+A cry of fire may start us running without reflection; we may have
+learned, as children are taught in school, to react without
+questioning. There is overt stimulation, but no suggesting. But if the
+response is held off or postponed, it may persist as suggestion: the
+cry suggests fire and suggests the advisability of flight. We may, in
+a sense we must, call suggestion "mental." But it is important to note
+what is meant by this term. Fire, running, getting burned, are not
+mental; they are physical. But in their status of being suggested they
+may be called mental when we recognize this distinctive status. This
+means no more than that they are implicated in a specific way in a
+reflective situation, in virtue of which they are susceptible of
+certain modes of treatment. Their status as suggested by certain
+features of the actual situation (and possibly meant or indicated as
+well as suggested) may be definitely fixed; then we get meanings,
+logical terms--determinations.[7]
+
+Words are of course the agencies of fixation chiefly employed, though
+any kind of physical existence--a gesture, a muscular contraction in
+the finger or leg or chest--under ready command may be used. What is
+essential is that there be a specific physical existence at hand which
+may be used to concrete and hold on to the suggestion, so that the
+latter may be handled on its own account. Until thus detached and
+refixed there are things suggested, but hardly _a_ suggestion; things
+meant, but hardly a meaning; things ideated, but hardly an idea. And
+the suggested thing until detached is still too literal, too tied up
+with other things, to be further developed or to be successfully used
+as a method of experimentation in new directions so as to bring to
+light new traits.
+
+As data are signs which _indicate_ other existences, so meanings are
+signs which _imply_ other meanings.[8] I am doubtful, for example,
+whether _this_ is a man or not; that is, I am doubtful as to some given
+traits when they are taken as signs or evidences, but I am inclined to
+the hypothesis of a man. Having such a tentative or conceptual object
+in mind, I am enabled to explore economically and effectively, instead
+of at random, what is present, _provided_ I can elaborate the
+implications of the term "man." To develop its implications is all one
+with telling its meaning in connection with other meanings. Being a man
+means, for example, speaking when spoken to--another meaning which need
+have been no part of "man" as originally suggested. This meaning of
+"answering questions" will then suggest a procedure which the term
+"man" in its first meaning did not possess; it is an implication or
+implied meaning which puts me in a new and possibly more fruitful
+relation to the thing. (The process of developing implications is
+usually termed "discourse" or ratiocination.) Now, be it noted,
+replying to questions is no part of the _definition_ of man; it would
+not be now an implication of Plato or of the Russian Czar for me. In
+other words, there is something in the actual situation which suggests
+_inquiring_ as well as _man_; and it is the interaction between these
+two suggestions which is fruitful. There is consequently no mystery
+about the fruitfulness of deduction--though this fruitfulness has been
+urged as though it offered an insuperable objection to instrumentalism.
+On the contrary, instrumentalism is the only theory to which deduction
+is not a mystery. If a variety of wheels and cams and rods which have
+been invented with reference to doing a given task are put together,
+one expects from the assembled parts a result which could not have been
+got from any one of them separately or from all of them together in a
+heap. Because they are independent and unlike structures, working on
+one another, something new happens. The same is true of terms in
+relation to one another. When these are brought to bear upon one
+another, something new, something quite unexpected happens, quite as
+when one tries an acid with which he is not familiar upon a rock with
+which he is unfamiliar--that is, unfamiliar in such a conjunction, in
+spite of intimate acquaintance elsewhere. A definition may fix a
+certain modicum of meaning in the abstract, as we say; it is a
+specification of a minimum which gives the point of departure in every
+interaction of a term with other terms. But nothing follows from the
+definition by itself or in isolation. It is explicit (boringly so) and
+has no implications. But bring it in connection with another term with
+which it has not previously interacted and it may behave in the most
+delightful or in the most disgustingly disappointing way. The
+necessity for independent terms is made obvious in the modern theory of
+axioms. It escapes attention in much of the contemporary logic of
+transitive and non-transitive, symmetrical and non-symmetrical relations,
+because the terms are so loaded that there are no propositions at all,
+but only discriminations of orders of terms. The terms which figure
+in the discussions, in other words, are correlatives--"brother,"
+"parent," "up," "to the right of," "like," "greater," "after."
+Such terms are not logical terms; they are _halves_ of such terms as
+"brother-other-offspring-of-the-same-parents"; "parent-child";
+"up-down"; "right-left"; "thing-similar-to-another-thing";
+"greater-less"; "after-before." They express positions in a
+_determined_ situation; they are _relatives_, not relations. They lack
+implications, being explicit. But a man who is a brother and also a
+rival in love, and a poorer man than his rival brother, expresses an
+interaction of different terms from which something might happen: terms
+with implications, terms constituting a proposition, which a
+correlative term never does--till brought into conjunction with a term
+of which it is not a relative. To have called a thing "up" or "brother"
+is to have already solved its import in some situation. It is dead till
+set to work in some _other_ situation.
+
+Experience shows, moreover, that certain qualities of things are much
+more fruitful and much more controllable than others when taken as
+meanings to be used in drawing conclusions. The term must be of a
+nature to develop a method of behavior by which to test whether it is
+the meaning of the situation. Since it is desirable to have a stock of
+meanings on hand which are so connected that we can move readily from
+one to another in any direction, the stock is effective in just the
+degree in which it has been worked into a system--a comprehensive and
+orderly arrangement. Hence, while all meanings are derived from things
+which antedate suggestion--or thinking or "consciousness"--not all
+qualities are equally fitted to be meanings of a wide efficiency, and
+it is a work of art to select the proper qualities for doing the work.
+This corresponds to the working over of raw material into an effective
+tool. A spade or a watchspring is made out of antecedent material, but
+does not pre-exist as a ready-made tool; and, the more delicate and
+complicated the work which it has to do, the more art intervenes.
+These summary remarks will have to pass muster as indicating what a
+more extensive treatment of a mathematical system of terms would show.
+Man began by working such qualities as hate and love and fear and
+beauty into the meanings by which to interpret and control the
+perplexities of life. When they demonstrated their inefficacy, he had
+recourse to such qualities as heavy and light, wet and dry, making
+them into natural essences or explanatory and regulatory meanings.
+That Greek mediaeval science did not get very far on these lines is a
+commonplace. Scientific progress and practical control as systematic
+and deliberate matters date from the century of Galileo, when
+qualities which lend themselves to mathematical treatment were seized
+upon. "The most promising of these ideal systems at first were of
+course the richer ones, the sentimental ones. The baldest and least
+promising ones were the mathematical ones; but the history of the
+latter's application is a history of steadily advancing successes,
+while that of the sentimentally richer ones is one of relative
+sterility and failure."[9]
+
+There is no problem of why and how the plow fits, or applies to, the
+garden, or the watchspring to time-keeping. They were made for those
+respective purposes; the question is how well they do their work, and
+how they can be reshaped to do it better. Yet they were made out of
+physical material; men used ready limbs or roots of trees with which
+to plow before they used metal. We do not measure the worth or reality
+of the tool by its closeness to its natural prototype, but by its
+efficiency in doing its work--which connotes a great deal of
+intervening art. The theory proposed for mathematical distinctions and
+relations is precisely analogous. They are not the creations of mind
+except in the sense in which a telephone is a creation of mind. They
+fit nature because they are derived from natural conditions. Things
+naturally bulge, so to speak, and naturally alter. To seize upon
+these qualities, to develop them into keys for discovering the
+meanings of brute, isolated events, and to accomplish this
+effectively, to develop and order them till they become economical
+tools (and tools upon tools) for making an unknown and uncertain
+situation into a known and certain one, is the recorded triumph of
+human intelligence. The terms and propositions of mathematics are not
+fictions; they are not called into being by that particular act of
+mind in which they are used. No more is a self-binding reaper a
+figment, nor is it called momentarily into being by the man who wants
+to harvest his grain. But both alike are works of art, constructed for
+a purpose in doing the things which have to be done.
+
+We may say of terms what Santayana so happily said of expression:
+"Expression is a misleading term which suggests that something
+previously known is imitated or rendered; whereas the expression is
+itself an original fact, the values of which are then referred to the
+thing expressed, much as the honors of a Chinese mandarin are
+attributed retroactively to his parents." The natural history of
+imputation of virtue should prove to the philosopher a profitable
+theme. Even in its most superstitious forms (perhaps more _obviously_
+in them than elsewhere) it testifies to the sense of a service to be
+performed and to a demand for application. The superstition lies in
+making the application to antecedents and to ancestors, where it is
+but a shroud, instead of to descendants, where it is a generating
+factor.
+
+Every reflection leaves behind it a double effect. Its immediate
+outcome is (as I tried to show earlier) the direct reorganization of a
+situation, a reorganization which confers upon its contents new
+increments of intrinsic meaning. Its indirect and intellectual product
+is the defining of a meaning which (when fixed by a suitable
+existence) is a resource in subsequent investigations. I would not
+despise the assistance lent by the words "term" and "proposition." As
+slang has it, a pitched baseball is to the batter a "proposition"; it
+states, or makes explicit, what he has to deal with next amid all the
+surrounding and momentarily irrelevant circumstance. Every statement
+extracts and sets forth the net result of reflection up to date as a
+condition of subsequent reflection. This extraction of the kernel of
+past reflections makes possible a throwing to one side of all the
+consequences of prior false and futile steps; it enables one to
+dispense with the experiences themselves and to deal only with their
+_net_ profit. In a favorite phrase of realism, it gives an object "as
+if there were no experience." It is unnecessary to descant upon the
+economy of this procedure. It eliminates everything which in spite of
+its immediate urgency, or vividness, or weight of past authority, is
+rubbish for the purpose in hand. It enables one to get down to
+business with just that which (presumably) is of importance in
+subsequent procedure. It is no wonder that these logical kernels have
+been elevated into metaphysical essences.
+
+The word "term" suggests the limiting condition of every process of
+reflection. It sets a fence beyond which it is, presumably, a waste to
+wander--an error. It sets forth that which _must_ be taken into
+account--a limit which is inescapable, something which is to
+ratiocination what the brute datum is to observation. In classic
+phrase, it is a notion, that is, a _noting_, of the distinctions which
+have been fixed for the purposes of the kind of inquiry now engaged
+in. One has only to compare the terms of present scientific discourse
+with those of, say, Aristotle, to see that the importance of terms as
+instruments of a proper survey of and attack upon existential
+situations is such that the terms resulting naturally and
+spontaneously from reflection have been dropped and more effective
+ones substituted. In one sense, they are all equally objective;
+aquosity is as genuine, as well as more obvious, a notion as the
+present chemical conception. But the latter is able to enter a much
+wider scope of inquiries and to figure in them more prosperously.
+
+As a special class of scientific inquirers develops, terms that were
+originally _by-products_ of reflection become primary objects for the
+intellectual class. The "troubles" which occasion reflection are then
+_intellectual_ troubles, discrepancies within some current scheme of
+propositions and terms. The situation which undergoes reorganization
+and increase of comprised significance is that of the subject-matter
+of specialized investigation. Nevertheless the same general method
+recurs within it, and the resulting objects--the terms and
+propositions--are for all, except those who produce them, instruments,
+not terminal objects. The objection to analytic realism as a
+metaphysics of existence is not so much an undue formalism as its
+affront to the commonsense-world of action, appreciation, and
+affection. The affront, due to hypostatizing terms into objects, is as
+great as that of idealism. A naïve realism withstands both affronts.
+
+My interest, however, is not to animadvert upon analytic realism. It
+is to show how the main tenets of instrumental logic stand in relation
+to considerations which, although ignored by the idealism which was
+current when the theory received its first formulation, demand
+attention: the objective status of data and terms with respect to
+states of mind or acts of awareness. I have tried to show that the
+theory, without mutilation or torturing, makes provision for these
+considerations. They are not objections to it; they are considerations
+which are involved in it. There are questions at issue, but they
+concern not matters of logic but matters of fact. They are questions
+of the _existential_ setting of certain logical distinctions and
+relations. As to the comparative merits of the two schemes, I have
+nothing to say beyond what has been said, save that the tendency of
+the analytic realism is inevitably to treat a difference between the
+logic of inquiry and of dialectic as if it were itself a matter to be
+settled by the logic of dialectic. I confess to some fear that a
+philosophy which fails to identify science with terms and propositions
+about things which are not terms and propositions, will first
+exaggerate and then misconstrue the function of dialectics, and land
+philosophy in a formalism like unto the scholasticism from which the
+older empiricism with all its defects emancipated those who took it to
+heart.
+
+
+VII
+
+Return with me, if you please, to fundamentals. The word "experience"
+is used freely in the essays and without much explanation. In view of
+the currency of subjectivistic interpretations of that term, the chief
+wonder is probably that the doctrine of the essays was not more
+misunderstood than was actually the case. I have already said
+something designed to clarify the sense in which the term was used. I
+now come back to the matter. What is the reason for using the term at
+all in philosophy? The history of philosophy supplies, I think, the
+answer. No matter how subjective a turn was given to the word by Hume
+and Kant, we have only to go to an earlier period to see that the
+appeal to experience in philosophy was coincident with the
+emancipation of science from occult essences and causes, and with the
+substitution of methods of observation, controlled by experimentation
+and employing mathematical considerations, for methods of mere
+dialectic definition and classification. The appeal to experience was
+the cry of the man from Missouri--the demand to be shown. It sprang
+from the desire to command nature by observing her, instead of
+anticipating her in order to deck her with aesthetic garlands and hold
+her with theological chains. The significance of experience was not
+that sun and moon, stick and stone, are creatures of the senses, but
+that men would not put their trust any longer in things which are
+said, however authoritatively, to exist, unless these things are
+capable of entering into specifiable connections with the organism and
+the organism with them. It was an emphatic assertion that until men
+could see _how_ things got into belief, and what they did when they
+got there, intellectual acceptance would be withheld.
+
+Has not the lesson, however, been so well learned that we can drop
+reference to experience? Would that such were the case. But the time
+does not seem to have come. Some things enter by way of the
+imagination, stimulated by emotional preferences and biases. For
+_certain_ purposes, they are not the worse for having entered by that
+gate, instead of through sensory-motor adjustments. Or they may have
+entered because of the love of man for logical form and symmetry and
+system, and because of the emotional satisfaction which harmony
+awakens in a sensitive soul. They too need not be any worse for all
+that. But surely it is among the businesses of philosophy to
+discriminate between the kinds of goodness possessed by different
+kinds of things. And how can it discriminate unless by telling by what
+road they got into our experience and what they do after they get
+there? Assuredly the difference is not in _intrinsic_ content. It is
+not because of self-obvious and self-contained traits of the immediate
+terms that Dante's world belongs to poetry and Newton's to scientific
+astronomy. No amount of pure inspection and excogitation could decide
+which belongs to which world. The difference in status and claim is
+made by what we call experience: by the place of the two systems in
+experience with respect to their generation and consequences. And
+assuredly any philosophy which takes science to be not an _account_ of
+the world (which it is), but a literal and exhaustive apprehension of
+it in its full reality, a philosophy which therefore has no place for
+poetry or possibilities, still needs a theory of experience.
+
+If a scientific man be asked what is truth, he will reply--if he frame
+his reply in terms of his practice and not of some convention--that
+which is accepted upon adequate evidence. And if he is asked for a
+description of adequacy of evidence, he certainly will refer to
+matters of observation and experiment. It is not the self-inclosed
+character of the terms and propositions nor their systematic ordering
+which settles the case for him; it is the way they were obtained and
+what he can do with them in getting other things. And when a
+mathematician or logician asks philosophy to abandon this method, then
+is just the time to be most vigorous in insisting upon the necessity
+of reference to "experience" in order to fix the import of
+mathematical and logical pretensions. When students influenced by the
+symmetry and system of mathematics cease building up their
+philosophies in terms of traits of mathematical subject-matter in
+isolation, then empirical philosophers will have less call to mention
+experience. Meantime, I know of no way of fixing the scope and claims
+of mathematics in philosophy save to try to point out just at what
+juncture it enters experience and what work it does after it has got
+entrance. I have made such an attempt in my account of the fixation
+and handling of suggestions as meanings. It is defective enough, but
+the defects are to be remedied by a better empirical account and not
+by setting up against experience the claims of a logic aloof from
+experience.
+
+The objection then to a logic which rules out knowledge getting, and
+which bases logic exclusively upon the traits of known objects, is
+that it is self-contradictory. There is no way to know what are the
+traits of known objects, as distinct from imaginary objects, or
+objects of opinion, or objects of unanalytic common-sense, save by
+referring to the operations of getting, using, and testing
+evidence--the processes of knowledge getting. I am making no appeal
+for skepticism at large; I am not questioning the right of the
+physicist, the mathematician, or the symbolic logicist to go ahead
+with accepted objects and do what he can with them. I am pointing out
+that anyone who professes to be concerned with finding out what
+knowledge _is_, has for his primary work the job of finding out why it
+is so much safer to proceed with just these objects, than with those,
+say, of Aristotelian science. Aristotle was not lacking in acuteness
+nor in learning. To him it was clear that objects of knowledge are the
+things of ordinary perception, so far as they are referred to a form
+which comparison of perceived things, in the light of a final cause,
+makes evident. If this view of the objects of knowledge has gone into
+the discard, if quite other objects of knowledge are now received and
+employed, it is because the methods of _getting_ knowledge have been
+transformed, till, for the working scientist, "objects of knowledge"
+mean precisely the objects which have been obtained by approved
+processes of inquiry. To exclude consideration of these processes is
+thus to throw away the key to understanding knowledge and its objects.
+There is a certain ironical humor in taking advantage of all the
+improved methods of experimental inquiry with respect to all objects
+of knowledge--save one, knowledge itself; in denying their relevancy
+to knowing knowledge, and falling back upon the method everywhere else
+disavowed--the method of relying upon isolated, self-contained
+properties of subject-matter.
+
+One of the points which gave much offense in the essays was the
+reference to genetic method--to a natural history of knowledge. I hope
+what has now been said makes clearer the nature of that reference. I
+was to blame for not making the point more explicit; but I cannot
+altogether blame myself for my naïveté in supposing that others
+understood by a natural history of knowledge what I understood by it.
+It had not occurred to me that anyone would think that the history by
+which human ignorance, error, dogma, and superstition had been
+transformed, even in its present degree of transformation, into
+knowledge was something which had gone on exclusively inside of men's
+heads, or in an inner consciousness. I thought of it as something
+going on in the world, in the observatory and the laboratory, and in
+the application of laboratory results to the control of human health,
+well-being, and progress. When a biologist says that the way to
+understand an organ, or the sociologist that the way to know an
+institution, resides in its genesis and history, he is understood to
+mean _its_ history. I took the same liberty for knowledge, that is,
+for science. The accusation of "subjectivisim" taken in this light
+appears as a depressing revelation of what the current opinion about
+the processes of knowledge is. To stumble on a stone need not be a
+process of knowledge; to hit it with a hammer, to pour acid upon it,
+to put pieces in the crucible, to subject things to heat and pressure
+to see if one can make a similar stone, _are_ processes of knowledge.
+So is fixing suggestions by attaching names, and so is devising ways
+of putting these terms together so that new suggestions will arise, or
+so that suggestions may be transferred from one situation to another.
+But not one of these processes is "subjective" in any sense which puts
+subjectivity in opposition to the public out-of-doors world of nature
+and human companionship. To set genesis in opposition to analysis is
+merely to overlook the fact that the sciences of existence have found
+that considerations of genesis afford their most effective methods of
+analysis.[10]
+
+The same kind of consideration applies to the favorable view taken of
+psychology. If reference to modes and ways of experience--to
+experiencing--is important for understanding the things with which
+philosophy deals, then psychology is useful as a matter of course. For
+what is meant by psychology is  precisely a discrimination of the
+acts and attitudes of the organism which have a bearing upon
+respective subject-matters and which have accordingly to be taken
+account of before the subject-matters can be properly discriminated.
+The matter was especially striking in the case of Lotze. He protested
+constantly against the use of psychology, and yet his own data and
+procedures were infected at every turn by psychology, and, if I am at
+all correct, by a false psychology. The particular separation which he
+made between psychology and logic rested indeed upon a particular
+psychological assumption. The question is worth asking: Is not the
+marked aversion on the part of some philosophers to any reference to
+psychology a Freudian symptom?
+
+A word more upon the place assigned by the essays to _need_ and
+_purpose_ and the humanistic factor generally. To save time I may
+quote a sentence from an early review which attributes to the essays
+the following doctrine: "If the plan turns out to be useful for our
+need, it is correct--the judgment is true. The real-ideal distinction
+is that between stimulus of environment and plan of action or
+tentative response. Both real and ideal are equally experiences of the
+individual man." These words can be interpreted either so as to convey
+the position fairly, or so as radically to misconceive it; the latter
+course is a little easier, as the words stand. That "real and ideal"
+are experiences of the individual man in the sense that they actually
+present themselves as specifications which can be studied by any man
+who desires to study them is true enough. That such a study is as much
+required for determining their characters as it is for determining
+those of carbon dioxide or of the constitution of Great Britain is
+also the contention of the paper. But if the words quoted suggest to
+anyone that the real or even the ideal are somehow possessions of an
+individual man, things secreted somewhere about him and then ejected,
+I can only say that I cannot understand the doctrine. I know of no
+ready-made and antecedent conception of "the individual man." Instead
+of telling about the nature of experience by means of a prior
+conception of individual man, I find it necessary to go to experience
+to find out what is meant by "individual" and by "man"; and also by
+"the." Consequently even in such an expression as "my experience," I
+should wish not to contradict this idea of method by using the term
+"my" to swallow up the term "experience," any more than if I said "my
+house," or "my country." On the contrary, I should expect that any
+intelligible and definite use of such phrases would throw much more
+light upon "me" than upon "house" or "country"--or "experience."
+
+The possible misunderstanding is, I think, actual in the reference to
+"our needs" as a criterion of the correctness of truth of an idea or
+plan. According to the essays, it is the needs of a _situation_ which
+are determinative. They evoke thought and the need of knowing, and it
+is only within the situation that the identification of the needs with
+a self occurs; and it is only by reflection upon the place of the
+agent in the encompassing situation that the nature of _his_ needs can
+be determined. In fact, the actual occurrence of a disturbed,
+incomplete, and needy _situation_ indicates that _my_ present need is
+precisely to investigate, to explore, to hunt, to pull apart things
+now tied together, to project, to plan, to invent, and then to test
+the outcome by seeing how it works as a method of dealing with hard
+facts. One source of the demand, in short, for reference to experience
+as the encompassing universe of discourse is to keep us from taking
+such terms as "self," "my," "need," "satisfaction," etc., as terms
+whose meanings can be accepted and proved either by themselves or by
+even the most extensive dialectic reference to other terms.
+
+Terms like "real" and "ideal," "individual," "man," "my," certainly
+allow of profitable dialectic (or purely prepositional) clarification
+and elaboration. But nothing is settled until these discursive
+findings have been applied, through action, to things, and an
+experience has been effected, which either meets or evades the
+specification conceptually laid down. To suppose, for example, that
+the import of the term "ideal" can be settled apart from exhibiting
+in experience some specific affair, is to maintain in philosophy that
+belief in the occult essence and hidden cause which science had to get
+rid of before it got on the right track. The idealistic misconception
+of experience is no reason for throwing away its significant point of
+contact with modern science and for having recourse then to objects
+distinguished from old-fashioned _Dinge an Sich_ only because they
+involve just that reference to those experiences by which they were
+established and to which they are applied that propositional or
+analytic realism professedly and elaborately ignores. In revenge, this
+ignoring leaves on our hands the "me," or knowing self, as a separate
+thing within which experience falls (instead of its falling in a
+specifiable place within experience), and generates the insoluble
+problem of how a subjective experience can beget objective knowledge.
+
+In concluding, let me say that reference to experience seems at
+present to be the easiest way of realizing the continuities among
+subject-matters that are always getting split up into dualisms. A
+creation of a world of subsistences or essences which are quite other
+than the world of natural existences (which are other than natural
+existences adapted to the successful performance of inference) is in
+itself a technical matter, though a discouraging one to a philosopher
+expertly acquainted with all the difficulties which that view has
+generated from the time of Plato down. But the assistance which such
+a philosophy lends to the practical and current divorce of the
+"ideal" from the natural world makes it a thing to be dreaded for
+other than professional reasons. God only knows how many of the
+sufferings of life are due to a belief that the natural scene and
+operations of our life are lacking in ideal import, and to the
+consequent tendency to flee for the lacking ideal factors to some
+other world inhabited exclusively by ideals. That such a cut-off,
+ideal world is impotent for direction and control and change of the
+natural world follows as a matter of course. It is a luxury; it
+belongs to the "genteel tradition" of life, the persistence of an
+"upper" class given to a detached and parasitic life. Moreover, it
+places the scientific inquirer within that irresponsible class. If
+philosophers could aid in making it clear to a troubled humanity that
+ideals are continuous with natural events, that they but represent
+their possibilities, and that recognized possibilities form methods
+for a conduct which may realize them in fact, philosophers would
+enforce the sense of a social calling and responsibility. I do not say
+that pointing out the continuity and interaction of various attitudes
+and interests in experience is the only way of effecting this
+consummation. But for a large number of persons today it is the
+readiest way.
+
+Much may be said about that other great rupture of continuity which
+analytic realism would maintain: that between the world and the knower
+as something outside of it, engaged in an otiose contemplative survey
+of it. I can understand the social conditions which generated this
+conception of an aloof knower. I can see how it protected the growth
+of responsible inquiry which takes effect in change of the
+environment, by cultivating a sense of the innocuousness of knowing,
+and thus lulling to sleep the animosity of those who, being in
+control, had no desire to permit reflection which had practical
+import. I can see how specialists at any time, professional knowers,
+so to speak, find in this doctrine a salve for conscience--a solace
+which all thinkers need as long as an effective share in the conduct
+of affairs is not permitted them. Above all, I can see how seclusion
+and the absence of the pressure of immediate action developed a more
+varied curiosity, greater impartiality, and a more generous outlook.
+But all this is no reason for continuing the idealization of a remote
+and separate mind or knower now that the method of intelligence is
+perfected, and changed social conditions not only permit but demand
+that intelligence be placed within the procession of events. An
+intellectual integrity, an impartiality and detachment, which is
+maintained only in seclusion is unpleasantly reminiscent of other
+identifications of virtue with the innocence of ignorance. To place
+knowledge where it arises and operates in experience is to know that,
+as it arose because of the troubles of man, it is confirmed in
+reconstructing the conditions which occasioned those troubles.
+Genuine intellectual integrity is found in experimental knowing. Until
+this lesson is fully learned, it is not safe to dissociate knowledge
+from experiment nor experiment from experience.
+
+FOOTNOTES:
+
+[1] I am indebted to an unpublished manuscript of Mr. S. Klyce of
+Winchester, Massachusetts, for the significance of the fact that our
+words divide into _terms_ (of which more in the sequel) and into names
+which are not (strictly speaking) terms at all, but which serve to
+remind us of the vast and vague continuum, select portions of which
+only are designated by words as _terms_. He calls such words "infinity
+and zero" words. The word "experience" is a typical instance of an
+"infinity word." Mr. Klyce has brought out very clearly that a direct
+situation of experience ("situation" as I employ it is another such
+word) has no need of any word for itself, the thing to which the word
+would point being so egregiously there on its own behalf. But when
+communication about it takes place (as it does, not only in converse
+with others, but when a man attempts a mutual reference of different
+periods of his own life) a word is needed to remind both parties of
+this taken-for-granted whole (another infinity term), while confusion
+arises if explicit attention is not called to the fact that it is a
+very different sort of word from the definite terms of discourse which
+denote distinctions and their relations to one another. In the text,
+attention is called to the fact that the business man wrestling with a
+difficulty or a scientific man engaged in an inquiry finds his checks
+and control specifically in the situation in which he is employed,
+while the theorizer at large leaves out these checks and limits, and
+so loses his clews. Well, the words "experience," "situation," etc.,
+are used to _remind_ the thinker of the need of reversion to precisely
+something which never can be one of the terms of his reflection but
+which nevertheless furnishes the existential meaning and status of
+them all. "Intuition," mysticism, philosophized or sophisticated
+monism, are all of them aberrant ways of protesting against the
+consequences which result from failing to note what is conveyed by
+words which are not terms. Were I rewriting these essays _in toto_ I
+should try to take advantage of these and other indispensable
+considerations advanced by Mr. Klyce; but as the essays must stand
+substantially as they were originally written, and as an Introduction
+to them must, in order to be intelligible, be stated in not
+incongruous phraseology, I wish simply to ask the reader to bear in
+mind this radical difference between such words as "experience,"
+"reality," "universe," "situation," and such terms as "typewriter,"
+"me," "consciousness," "existence," when used (as they must be used if
+they are to be terms) in a differential sense. The term "reality" is
+particularly treacherous, for the careless tradition of philosophy (a
+carelessness fostered, I am sure, by failure to make verbally explicit
+the distinction to which Mr. Klyce has called attention) uses
+"reality" both as a term of indifferent reference, equivalent to
+everything taken together or referred to _en masse_ as over against
+some discrimination, and also as a discriminative term with a highly
+eulogistic flavor: as _real_ money in distinction from counterfeit
+money. Then, although every inquiry in daily life, whether
+technological or scientific, asks _whether_ a thing is real only in
+the sense of asking _what_ thing is real, philosophy concludes to a
+wholesale distinction between the real and the unreal, the real and
+the apparent, and so creates a wholly artificial problem.
+
+If the philosopher, whether idealistic or realistic, who holds that it
+is self-contradictory to criticize purely intellectualistic
+conceptions of the world, because the criticism itself goes on
+intellectualistic terms, so that its validity depends upon
+intellectual (or cognitive) conditions, will but think of the very
+brute doings in which a chemist engages to fix the meanings of his
+terms and to test his theories and conceptions, he will perceive that
+all intellectual knowing is but a method for conducting an experiment,
+and that arguments and objections are but stimuli to induce somebody
+to try a certain experiment--to have recourse, that is, to a
+non-logical non-intellectual affair. Or again, the argument is an
+invitation to him to note that at the very time in which he is
+thinking, his thinking is set in a continuum which is not an object of
+thought. The importance attached to the word "experience," then, both
+in the essays and in this Introduction, is to be understood as an
+invitation to employ thought and discriminative knowledge as a means
+of plunging into something which no argument and no term can express;
+or rather as an invitation to note the fact that no plunge is needed,
+since one's own thinking and explicit knowledge are already
+constituted by and within something which does not need to be
+expressed or made explicit. And finally, there is nothing mystical
+about this, though mysticism doubtless roots in this fact. Its import
+is only to call notice to the meaning of, say, formulae communicated
+by a chemist to others as the result of his experiment. All that can
+be communicated or expressed is that one believes such and such a
+thing. The communication has scientific instead of merely social
+significance because the communicated formula is a direction to other
+chemists to try certain procedures and see what they get. The
+_direction_ is capable of expression; the result of the experiment,
+the experience, to which the propositions refer and by which they are
+tested, is not expressible. (Poetry, of course, is a more competent
+organ of suggesting it than scientific prose.) The word "experience"
+is, I repeat, a notation of an inexpressible as that which decides the
+ultimate status of all which is expressed; inexpressible not because
+it is so remote and transcendent, but because it is so immediately
+engrossing and matter of course.
+
+[2] There are certain points of similarity between this doctrine and
+that of Holt regarding contradictions and that of Montague regarding
+"consciousness" as a case of potential energy. But the latter doctrine
+seems to me to suffer, first, from an isolation of the brain from the
+organism, which leads to ignoring the active doing, and, secondly,
+from an isolation of the "moment" of reduction of actual to potential
+energy. It appears as a curiously isolated and self-sufficient event,
+instead of as the focus of readjustment in an organized activity at
+the pivotal point of maximum "tension"--that is, of greatest
+inhibition in connection with greatest tendency to discharge. And
+while I think Holt is wholly right in connecting the possibility of
+error with objectively plural and conflicting forces, I should hardly
+regard it as linguistically expedient to call counterbalancing forces
+"contradictory." The counterbalancing forces of the vaulting do not
+seem to me contradictory in the arch. But if their presence led me to
+attempt to say "up" and "down" at the same time there would be
+contradiction. But even admitting that contradictory propositions are
+merely about forces which are contradictory--heating and cooling--it
+is still a long way to error. For propositions about such
+"contradictions" are obviously true propositions. It is only when we
+make that reaction to one factor which is appropriate to dealing with
+the other that there is error; and this can happen where there are no
+contradictory forces at all beyond the fact that the _agent_ is pulled
+two incompatible and opposed ways at the same time.
+
+[3] For emphasis I am here exaggerating by condensing into a single
+decisive act an operation which is continuously going on.
+
+[4] I would remark in passing that a recognition that a thing may be
+continuous in one respect and discrete in another would obviate a good
+many difficulties.
+
+[5] In effect, the fallacy is the same as that of an idealistic theory
+which holds that all objects are "really" associations of sensations.
+
+[6] This statement is meant literally. The "sensations" of color,
+sound, etc., to which appeal is made in a scientific inquiry are
+nothing mental in structure or stuff; they are actual, extra-organic
+things analyzed down to what is so indubitably there that it may
+safely be taken as a basis of inference.
+
+[7] A term is not of course a mere word; a mere word is non-sense, for
+a sound by itself is not a word at all. Nor is it a mere meaning,
+which is not even natural non-sense, being (if it be at all)
+supernatural or transcendental nonsense. "Terms" signify that certain
+absent existences are indicated by certain given existences, in the
+respect that they are abstracted and fixed for intellectual use by
+some physically convenient means, such as a sound or a muscular
+contraction of the vocal organs.
+
+[8] This distinction of indication as existential and implication as
+conceptual or essential, I owe to Mr. Alfred Sidgwick. See his
+_Fallacies_, p. 50.
+
+[9] James, _Psychology_, II, 665.
+
+[10] I have even seen, in a criticism of the essays, the method of
+genesis opposed to the method of experimentation--as if
+experimentation were anything but the generation of some special
+object!
+
+
+
+

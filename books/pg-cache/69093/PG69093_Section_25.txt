@@ -1,0 +1,910 @@
+CHAPTER VI.
+
+OF THE ESTABLISHMENT OF THE PRINCIPLES OF STATICS.
+
+
+1. _Object of the Chapter._--IN the present and the
+succeeding chapters we have to show how the general axioms
+of Causation enable us to construct the science of
+Mechanics. We have to consider these axioms as moulding
+themselves, in the first place, into certain fundamental
+mechanical principles, which are of evident and necessary
+truth in virtue of their dependence upon the general axioms
+of Causation; and thus as forming a foundation for the whole
+structure of the science;--a system of truths no less
+necessary than the fundamental principles, because derived
+from these by rigorous demonstration.
+
+This account of the construction of the science of
+Mechanics, however generally treated, cannot be otherwise
+than technical in its details, and will probably be
+imperfectly understood by any one not acquainted with
+Mechanics as a mathematical science.
+
+I cannot omit this portion of my survey without rendering my
+work incomplete; but I may remark that the main purpose of
+it is to prove, in a more particular manner, what I have
+already declared in general, that there are, in Mechanics no
+less than in Geometry, fundamental principles of axiomatic
+evidence and necessity;--that these principles derive their
+axiomatic character from the Idea which they involve,
+namely, the Idea of Cause;--and that through the combination
+of principles of this kind, the whole science of Mechanics,
+including its most complex and remote results, exists as a
+body of solid and universal truths. {213}
+
+2. _Statics and Dynamics._--We must first turn our attention
+to a technical distinction of Mechanics into two portions,
+according as the forces about which we reason produce rest,
+or motion; the former portion is termed _Statics_, the
+latter _Dynamics_. If a stone fall, or a weight put a
+machine in motion, the problem belongs to Dynamics; but if
+the stone rest upon the ground, or a weight be merely
+supported by a machine, without being raised higher, the
+question is one of Statics.
+
+3. _Equilibrium._--In Statics, forces _balance_ each other,
+or keep each other _in equilibrium_. And forces which
+directly balance each other, or keep each other in
+equilibrium, are necessarily and manifestly equal. If we see
+two boys pull at two ends of a rope so that neither of them
+in the smallest degree prevails over the other, we have a
+case in which two forces are in equilibrium. The two forces
+are evidently equal, and are a statical exemplification of
+action and reaction, such as are spoken of in the third
+axiom concerning causes. Now the same exemplification occurs
+in every case of equilibrium. No point or body can be kept
+at rest except in virtue of opposing forces acting upon it;
+and these forces must always be equal in their opposite
+effect. When a stone lies on the floor, the weight of the
+stone downwards is opposed and balanced by an equal pressure
+of the floor upwards. If the stone rests on a slope, its
+tendency to slide is counteracted by some equal and opposite
+force, arising, it may be, from the resistance which the
+sloping ground opposes to any motion along its surface.
+Every case of rest is a case of equilibrium: every case of
+equilibrium is a case of equal and opposite forces.
+
+The most complex frame-work on which weights are supported,
+as the roof of a building, or the cordage of a machine, are
+still examples of equilibrium. In such cases we may have
+many forces all combining to balance each other; and the
+equilibrium will depend on various conditions of direction
+and magnitude among the forces. And in order to understand
+what are these conditions, we must ask, in the first place,
+what {214} we understand by the magnitude of such
+forces;--what is the measure of statical forces.
+
+4. _Measure of Statical Forces._--At first we might expect,
+perhaps, that since statical forces come under the general
+notion of Cause, the mode of measuring them would be derived
+from the second axiom of Causation, that causes are measured
+by their effects. But we find that the application of this
+axiom is controlled by the limitation which we noticed,
+after stating that axiom; namely, the condition that the
+causes shall be capable of addition. Further, as we have
+seen, a statical force produces no other effect than this,
+that it balances some other statical force; and hence the
+measure of statical forces is necessarily dependent upon
+their balancing, that is, upon the equality of action and
+reaction.
+
+That _statical forces are capable of addition_ is involved
+in our conception of such forces. When two men pull at a
+rope in the same direction, the forces which they exert are
+added together. When two heavy bodies are put into a basket
+suspended by a string, their weights are added, and the sum
+is supported by the string.
+
+Combining these considerations, it will appear that the
+measure of statical forces is necessarily given at once by
+the fundamental principle of the equality of action and
+reaction. Since two opposite forces which balance each other
+are equal, each force is measured by that which it balances;
+and since forces are capable of addition, a force of any
+magnitude is measured by adding together a proper number of
+such equal forces. Thus a heavy body which, appended to some
+certain elastic branch of a tree, would bend it down through
+one inch, may be taken as a unit of weight. Then if we
+remove this first body, and find a second heavy body which
+will also bend the branch through the same space, this is
+also a unit of weight; and in like manner we might go on to
+a third and a fourth equal body; and adding together the
+two, or the three, or the four heavy bodies, we have a force
+twice, or three times, or four times the unit of weight. And
+with {215} such a collection of heavy bodies, or _weights_,
+we can readily measure all other forces; for the same
+principle of the equality of action and reaction leads at
+once to this maxim, that any statical force is measured by
+the weight which it would support.
+
+As has been said, it might at first have been supposed that
+we should have to apply, in this case, the axiom that causes
+are measured by their effects in another manner; that thus,
+if that body were a unit of weight which bent the bough of a
+tree through one inch, _that_ body would be _two_ units
+which bent it through _two_ inches, and so on. But, as we
+have already stated, the measures of weight must be subject
+to this condition, that they are susceptible of being added:
+and therefore we cannot take the deflexion of the bough for
+our measure, till we have ascertained, that which experience
+alone can teach us, that under the burden of two equal
+weights, the deflexion will be twice as great as it is with
+one weight, which is not true, or at least is neither
+obviously nor necessarily true. In this, as in all other
+cases, although causes must be measured by their effects, we
+learn from experience only how the effects are to be
+interpreted, so as to give a true and consistent measure.
+
+With regard, however, to the measure of statical force, and
+of weight, no difficulty really occurred to philosophers
+from the time when they first began to speculate on such
+subjects; for it was easily seen that if we take any uniform
+material, as wood, or stone, or iron, portions of this which
+are geometrically equal, must also be equal in statical
+effect; since this was implied in the very hypothesis of a
+uniform material And a body ten times as large as another of
+the same substance, will be of ten times the weight. But
+before men could establish by reasoning the conditions under
+which weights would be in equilibrium, some other principles
+were needed in addition to the mere measure of forces. The
+principles introduced for this purpose still resulted from
+the conception of equal action and reaction; but it required
+no small clearness of thought to select them rightly, and to
+employ them {216} successfully. This, however, was done, to
+a certain extent, by the Greeks; and the treatise of
+Archimedes _On the Center of Gravity_, is founded on
+principles which may still be considered as the genuine
+basis of statical reasoning. I shall make a few remarks on
+the most important principle among those which Archimedes
+thus employs.
+
+5. _The Center of Gravity._--The most important of the
+principles which enter into the demonstration of Archimedes
+is this: that "Every body has a center of gravity;" meaning
+by the center of gravity, a point at which the whole matter
+of the body may be supposed to be collected, to all intents
+and purposes of statical reasoning. This principle has been
+put in various forms by succeeding writers: for instance, it
+has been thought sufficient to assume a case much simpler
+than the general one; and to assert that two _equal_ bodies
+have their center of gravity in the point midway between
+them. It is to be observed, that this assertion not only
+implies that the two bodies will _balance_ upon a support
+placed at that midway point, but also, that they will
+exercise, upon such a support, a _pressure equal to their
+sum_; for this point being the center of gravity, the whole
+matter of the two bodies may be conceived to be collected
+there, and therefore the whole weight will press there. And
+thus the principle in question amounts to this, that _when
+two equal heavy bodies are supported on the middle point
+between them, the pressure upon the support is equal to the
+sum of the weights of the bodies_.
+
+A clear understanding of the nature and grounds of this
+principle is of great consequence: for in it we have the
+foundation of a large portion of the science of Mechanics.
+And if this principle can be shown to be necessarily true,
+in virtue of our Fundamental Ideas, we can hardly doubt that
+there exist many other truths of the same kind, and that no
+sound view of the evidence and extent of human knowledge can
+be obtained, so long as we mistake the nature of these, its
+first principles. {217}
+
+The above principle, that the pressure on the support is
+equal to the sum of the bodies supported, is often stated as
+an axiom in the outset of books on Mechanics. And this
+appears to be the true place and character of this
+principle, in accordance with the reasonings which we have
+already urged. The axiom depends upon our conception of
+action and reaction. That the two weights are supported,
+implies that the supporting force must be equal to the force
+or weight supported.
+
+In order further to show the foundation of this principle,
+we may ask the question:--If it be not an axiom, deriving
+its truth from the fundamental conception of equal action
+and reaction, which equilibrium always implies, what is the
+origin of its certainty? The principle is never for an
+instant denied or questioned: it is taken for granted, even
+before it is stated. No one will doubt that it is not only
+true, but true with the same rigour and universality as the
+axioms of Geometry. Will it be said, that it is borrowed
+from experience? Experience could never prove a principle to
+be universally and rigorously true. Moreover, when from
+experience we prove a proposition to possess great exactness
+and generality, we approach by degrees to this proof: the
+conviction becomes stronger, the truth more secure, as we
+accumulate trials. But nothing of this kind is the case in
+the instance before us. There is no gradation from less to
+greater certainty;--no hesitation which precedes confidence.
+From the first, we know that the axiom is exactly and
+certainly true. In order to be convinced of it, we do not
+require many trials, but merely a clear understanding of the
+assertion itself.
+
+But in fact, not only are trials not necessary to the proof,
+but they do not strengthen it. Probably no one ever made a
+trial for the purpose of showing that the pressure upon the
+support is equal to the sum of the two weights. Certainly no
+person with clear mechanical conceptions ever wanted such a
+trial to convince him of the truth; or thought the truth
+clearer after the trial had been made. If to such a person,
+an {218} experiment were shown which seemed to contradict
+the principle, his conclusion would be, not that the
+principle was doubtful, but that the apparatus was out of
+order. Nothing can be less like collecting truth from
+experience than this.
+
+We maintain, then, that this equality of mechanical action
+and reaction, is one of the principles which do not flow
+from, but regulate our experience. To this principle, the
+facts which we observe must conform; and we cannot help
+interpreting them in such a manner that they shall be
+exemplifications of the principle. A mechanical pressure not
+accompanied by an equal and opposite pressure, can no more
+be given by experience, than two unequal right angles. With
+the supposition of such inequalities, space ceases to be
+space, force ceases to be force, matter ceases to be matter.
+And this equality of action and reaction, considered in the
+case in which two bodies are connected so as to act on a
+single support, leads to the axiom which we have stated
+above, and which is one of the main foundations of the
+science of Mechanics.
+
+[2d ed.] [To the doctrine that mechanical principles, such
+as the one here under consideration (that the pressure on
+the point of support is equal to the sum of the weights),
+are derived from our Ideas, and do not flow from but
+regulate our experience, objections are naturally made by
+those who assert all our knowledge to be derived from
+experience. How, they ask, can we know the properties of
+pressures, levers and the like, except from experience? What
+but experience can possibly inform us that a force applied
+transversely to a lever will have any tendency to turn the
+lever on its center? This cannot be, except we suppose in
+the lever tenacity, rigidity and the like, which are
+qualities known only by experience. And it is obvious that
+this line of argument might be carried on through the whole
+subject.
+
+My answer to this objection is a remark of the same kind as
+one which I have made respecting the Ideas of Space, Time,
+and Number, in the last Book. The mind, in apprehending
+events as causes {219} and effects, is governed by Laws of
+its own Activity; and these Laws govern the results of the
+mind's action; and make these results conform to the Axioms
+of Causation. But this activity of the mind is awakened and
+developed by being exercised; and in dealing with the
+examples of cause and effect here spoken of, (namely,
+pressure and resistance, force and motion,) the mind's
+activity is necessarily governed also by the bodily powers
+of perception and action. We are human beings only in so far
+as we have existed in space and time; and of our human
+faculties, developed by our existence in space and time,
+space and time are necessary conditions. In like manner, we
+are human beings only in so far as we have bodies, and
+bodily organs; and our bodies necessarily imply material
+objects external to us. And hence our human faculties,
+developed by our bodily existence in a material world, have
+the conditions of matter for their necessary Laws. I have
+already said (chap. v.) that our conception of Force arises
+with our consciousness of our own muscular exertions;--that
+Force cannot be conceived without Resistance to exercise
+itself upon;--and that this resistance is supplied by
+Matter. And thus the conception of Matter, and of the most
+general modes in which Matter receives, resists, and
+transmits force, are parts of our constitution which, though
+awakened and unfolded by our being in a material world, are
+not distinguishable from the original structure of the mind.
+I do not ascribe to the mind _innate_ Ideas--Ideas which it
+would have, even if it had no intercourse with the world of
+space, time, and matter; because we cannot imagine a mind in
+such a state. But I attempt to point out and classify those
+Conditions of all Experience, to which the intercourse of
+all minds with the material world has necessarily given rise
+in all. Truths _thus_ necessarily acquired in the course of
+all experience, cannot be said to be learnt _from
+experience_, in the same sense in which particular facts, at
+definite times, are learnt from experience--learnt by some
+persons and not by others--learnt with more or less of
+certainty. These latter _special truths of_ {220}
+_experience_ will be very important subjects of our
+consideration; but our whole chance of discussing them with
+any profit depends upon our keeping them distinct from the
+_necessary and universal conditions of experience_. Here, as
+everywhere, we must keep in view the fundamental antithesis
+of Ideas and Facts.]
+
+6. _Oblique Forces._--By the aid of the above axiom and a
+few others, the Greeks made some progress in the science of
+Statics. But after a short advance, they arrived at another
+difficulty, that of Oblique Forces, which they never
+overcame; and which no mathematician mastered till modern
+times. The unpublished manuscripts of Leonardo da Vinci,
+written in the fifteenth century, and the works of Stevinus
+and Galileo, in the sixteenth, are the places in which we
+find the first solid grounds of reasoning on the subject of
+forces acting obliquely to each other. And from that period,
+mathematicians, having thus become possessed of all the
+mechanical principles which are requisite in problems
+respecting equilibrium, soon framed a complete science of
+Statics. Succeeding writers presented this science in forms
+variously modified; for it was found, in Mechanics as in
+Geometry, that various propositions might be taken as the
+starting points; and that the collection of truths which it
+was the mechanician's business to include in his course,
+might thus be traversed by various routes, each path
+offering a series of satisfactory demonstrations. The
+fundamental conceptions of force and resistance, like those
+of space and number, could be contemplated under different
+aspects, each of which might be made the basis of axioms, or
+of principles employed as axioms. Hence the grounds of the
+truth of Statics may be stated in various ways; and it would
+be a task of some length to examine all these completely,
+and to trace them to their Fundamental Ideas. This I shall
+not undertake here to do; but the philosophical importance
+of the subject makes it proper to offer a few remarks on
+some of the main principles involved in the different modes
+of presenting Statics as a rigorously demonstrated science.
+{221}
+
+7. _A Force may be supposed to act at any Point of its
+Direction._--It has been stated in the history of
+Mechanics[12\3], that Leonardo da Vinci and Galileo obtained
+the true measure of the effect of oblique forces, by
+reasonings which were, in substance, the same. The principle
+of these reasonings is that expressed at the head of this
+paragraph; and when we have a little accustomed ourselves to
+contemplate our conceptions of force, and its action on
+matter, in an abstract manner, we shall have no difficulty
+in assenting to the principle in this general form. But it
+may, perhaps, be more obvious at first in a special case.
+
+[Note 12\3: _Hist. Ind. Sc._ b. vi. c. i. sect. 2.]
+
+If we suppose a wheel, moveable about its axis, and carrying
+with it in its motion a weight, (as, for example, one of the
+wheels by means of which the large bells of a church are
+rung,) this weight may be supported by means of a rope (not
+passing along the circumference of the wheel, as is usual in
+the case of bells,) but fastened to one of the spokes of the
+wheel. Now the principle which is enunciated above asserts,
+that if the rope pass in a straight line across several of
+the spokes of the wheel, it makes no difference in the
+mechanical effect of the force applied, for the purpose of
+putting the bell in motion, to _which_ of these spokes the
+rope is _fastened_. In each case, the fastening of the rope
+to the wheel merely serves to enable the force to produce
+motion about the center; and so long as the force acts in
+the same line, the effect is the same, at whatever point of
+the rope the line of action finishes.
+
+This axiom very readily aids us in estimating the effect of
+oblique forces. For when a force acts on one of the arms of
+a lever at any oblique angle, we suppose another arm
+projecting from the center of motion, like another spoke of
+the same wheel, so situated that it is perpendicular to the
+force. This arm we may, with Leonardo, call the _virtual
+lever_; for, by the axiom, we may suppose the force to act
+where the line of its direction meets this arm; and thus we
+reduce the case {222} to that in which the force acts
+perpendicularly on the arm.
+
+The ground of this axiom is, that matter, in Statics, is
+necessarily conceived as _transmitting_ force. That force
+can be transmitted from one place to another, by means of
+matter;--that we can push with a rod, pull with a rope,--are
+suppositions implied in our conceptions of force and matter.
+Matter is, as we have said, that which receives the
+impression of force, and the modes just mentioned, are the
+simplest ways in which that impression operates. And since,
+in any of these cases, the force might be resisted by a
+reaction equal to the force itself, the reaction in each
+case would be equal, and, therefore, the action in each case
+is necessarily equal; and thus the forces must be
+transmitted, from one point to another, without increase or
+diminution.
+
+This property of matter, of transmitting the action of
+force, is of various kinds. We have the coherence of a rope
+which enables us to pull, and the rigidity of a staff, which
+enables us to push with it in the direction of its length;
+and again, the same staff has a rigidity of another kind, in
+virtue of which we can use it as a lever; that is, a
+rigidity to resist flexure, and to transmit the force which
+turns a body round a fulcrum. There is, further, the
+rigidity by which a solid body resists _twisting_. Of these
+kinds of rigidity, the first is that to which our axiom
+refers; but in order to complete the list of the elementary
+principles of Statics, we ought also to lay down axioms
+respecting the other kinds of rigidity[13\3]. These,
+however, I shall not here state, as they do not involve any
+new principle. Like the one just considered, they form part
+of our fundamental conception of matter; they are not the
+results of any experience, but are the hypotheses to which
+we are irresistibly led, when we would liberate our
+reasonings concerning force and matter from a dependence on
+the special results of experience. We cannot even {223}
+conceive (that is, if we have any clear mechanical
+conceptions at all) the force exerted by the point of a
+staff and resisting the force which we steadily impress on
+the head of it, to be different from the impressed force.
+
+[Note 13\3: Such axioms are given in a little work (_The
+Mechanical Euclid_) which I published on the Elements of
+Mechanics.]
+
+8. _Forces may have equivalent Forces substituted for them.
+The Parallelogram of Forces._--It has already been observed,
+that in order to prove the doctrines of Statics, we may take
+various principles as our starting points, and may still
+find a course of demonstration by which the leading
+propositions belonging to the subject may be established.
+Thus, instead of beginning our reasonings, as in the last
+section we supposed them to commence, with the case in which
+forces act upon different points of the same body in the
+same line of force, and counteract each other in virtue of
+the intervening matter by which the effect of force is
+transferred from one point to another; we may suppose
+different forces to act at the same point, and may thus
+commence our reasonings with a case in which we have to
+contemplate force, without having to take into our account
+the resistance or rigidity of matter. Two statical forces,
+thus acting at a mathematical point, are equivalent, in all
+respects, to some single force acting at the same point; and
+would be kept in equilibrium by a force equal and opposite
+to that single force. And the rule by which the single force
+is derived from the two, is commonly termed _the
+parallelogram of forces_; the proposition being this,--That
+if the two forces be represented in magnitude and direction
+by the two sides of a parallelogram, the resulting force
+will be represented in the same manner by the diagonal of
+the parallelogram. This proposition has very frequently been
+made, by modern writers, the commencement of the science of
+Mechanics: a position for which, by its simplicity, it is
+well suited; although, in order to deduce from it the other
+elementary propositions of the science, as, for instance,
+those respecting the lever, we require the axiom stated in
+the last section.
+
+9. _The Parallelogram of Forces is a necessary Truth._--In
+the series of discussions in which we are {224} here
+engaged, our main business is to ascertain the nature and
+grounds of the certainty of scientific truths. We have,
+therefore, to ask whether this proposition, the
+parallelogram of forces, be a necessary truth; and if so, on
+what grounds its necessity ultimately rests. We shall find
+that this, like the other fundamental doctrines of Statics,
+justly claim a demonstrative certainty. Daniel Bernoulli, in
+1726, gave the first proof of this important proposition on
+pure statical principles; and thus, as he says[14\3],
+'proved that statical theorems are not less necessarily true
+than geometrical are.' If we examine this proof of
+Bernoulli, in order to discover what are the principles on
+which it rests, we shall find that the reasoning employs in
+its progress such axioms as this;--That if from forces which
+are in equilibrium at a point be taken away other forces
+which are in equilibrium at the same point, the remainder
+will be in equilibrium; and generally;--That if forces can
+be resolved into other equivalent forces, these may be
+separated, grouped, and recombined, in any new manner, and
+the result will still be identical with what it was at
+first. Thus in Bernoulli's proof, the two forces to be
+compounded are represented by P and Q; P is resolved into
+two other forces, X and U; and Q into two others, Y and V,
+under certain conditions. It is then assumed that these
+forces may be grouped into the pairs X, Y, and U, V: and
+when it has been shown that X and Y are in equilibrium, they
+may, by what has been said, be removed, and the forces, P,
+Q, are equivalent to U, V; which, being in the same
+direction by the course of the construction, have a result
+equal to their sum.
+
+[Note 14\3: _Comm. Petrop._ vol. i.]
+
+It is clear that the principles here assumed are genuine
+axioms, depending upon our conception of the nature of
+equivalence of forces, and upon their being capable of
+addition and composition. If the forces, P, Q, be
+_equivalent_ to forces X, U, Y, V, they are equivalent to
+these forces added and compounded in any order; just as a
+geometrical figure is, by our conception of {225} space,
+equivalent to its parts added together in any order. The
+apprehension of forces as having magnitude, as made up of
+parts, as capable of composition, leads to such axioms in
+Statics, in the same manner as the like apprehension of
+space leads to the axioms of Geometry. And thus the truths
+of Statics, resting upon such foundations, are independent
+of experience in the same manner in which geometrical truths
+are so.
+
+The proof of the parallelogram of forces thus given by
+Daniel Bernoulli, as it was the first, is also one of the
+most simple proofs of that proposition which have been
+devised up to the present day. Many other demonstrations,
+however, have been given of the same proposition. Jacobi, a
+German mathematician, has collected and examined eighteen of
+these[15\3]. They all depend either upon such principles as
+have just been stated; That forces may in every way be
+replaced by those which are equivalent to them;--or else
+upon those previously stated, the doctrine of the lever, and
+the transfer of a force from one point to another of its
+direction. In either case, they are necessary results of our
+statical conceptions, independent of any observed laws of
+motion, and indeed, of the conception of actual motion
+altogether.
+
+[Note 15\3: These are by the following mathematicians; D.
+Bernoulli (1726); Lambert (1771); Scarella (1756); Venini
+(1764); Araldi (1806); Wachter (1815); Kaestner; Marini;
+Eytelwein; Salimbeni; Duchayla; two different proofs by
+Foncenex (1760); three by D'Alembert; and those of Laplace
+and M. Poisson.]
+
+There is another class of alleged proofs of the
+parallelogram of forces, which involve the consideration of
+the motion produced by the forces. But such reasonings are,
+in fact, altogether irrelevant to the subject of Statics. In
+that science, forces are not measured by the motion which
+they produce, but by the forces which they will balance, as
+we have already seen. The combination of two forces employed
+in producing motion in the same body, either simultaneously
+or successively, {226} belongs to that part of Mechanics
+which has motion for its subject, and is to be considered in
+treating of the laws of motion. The composition of motion,
+(as when a man moves in a ship while the ship moves through
+the water,) has constantly been confounded with the
+composition of force. But though it has been done by very
+eminent mathematicians, it is quite necessary for us to keep
+the two subjects distinct, in order to see the real nature
+of the evidence of truth in either case. The conditions of
+equilibrium of two forces on a lever, or of three forces at
+a point, can be established without any reference whatever
+to any motions which the forces might, under _other_
+circumstances, produce. And because this can be done, to do
+so is the only scientific procedure. To prove such
+propositions by any other course, would be to support truth
+by extraneous and inconclusive reasons; which would be
+foreign to our purpose, since we seek not only knowledge,
+but the grounds of our knowledge.
+
+10. _The Center of gravity seeks the lowest place._--The
+principles which we have already mentioned afford a
+sufficient basis for the science of Statics in its most
+extensive and varied applications; and the conditions of
+equilibrium of the most complex combinations of machinery
+may be deduced from these principles with a rigour not
+inferior to that of geometry. But in some of the more
+complex cases, the results of long trains of reasoning may
+be foreseen, in virtue of certain maxims which appear to us
+self-evident, although it may not be easy to trace the exact
+dependence of these maxims upon our fundamental conceptions
+of force and matter. Of this nature is the maxim now
+stated;--That in any combination of matter any how
+supported, the Center of Gravity will descend into the
+lowest position which the connexion of the parts allows it
+to assume by descending. It is easily seen that this maxim
+carries to a much greater extent the principle which the
+Greek mathematicians assumed, that every body has a Center
+of Gravity, that is, a point in which, if the whole matter
+of the body be collected, the effect will remain unchanged.
+For the Greeks asserted this of a {227} single rigid mass
+only; whereas, in the maxim now under our notice, it is
+asserted of any masses, connected by strings, rods, joints,
+or in any manner. We have already seen that more modern
+writers on mechanics, desirous of assuming as fundamental no
+wider principles than are absolutely necessary, have not
+adopted the Greek axiom in all its generality, but have only
+asserted that two _equal_ weights have a center of gravity
+midway between them. Yet the principle that every body,
+however irregular, has a center of gravity, and will be
+supported if that center is supported, and not otherwise, is
+so far evident, that it might be employed as a fundamental
+truth, if we could not resolve it into any simpler truths:
+and, historically speaking, it was assumed as evident by the
+Greeks. In like manner the still wider principle, that a
+collection of bodies, as, for instance, a flexible chain
+hanging upon one or more supports, has a center of gravity;
+and that this point will descend to the lowest possible
+situation, as a single body would do, has been adopted at
+various periods in the history of mechanics; and especially
+at conjunctures when mathematical philosophers have had new
+and difficult problems to contend with. For in almost every
+instance it has only been by repeated struggles that
+philosophers have reduced the solution of such problems to a
+clear dependence upon the most simple axioms.
+
+11. _Stevinus's Proof for Oblique Forces._--We have an
+example of this mode of dealing with problems, in Stevinus's
+mode of reasoning concerning the Inclined Plane; which, as
+we have stated in the History of Mechanics, was the first
+correct published solution of that problem. Stevinus
+supposes a loop of chain, or a loop of string loaded with a
+series of equal balls at equal distances, to hang over the
+Inclined Plane; and his reasoning proceeds upon this
+assumption,--That such a loop so hanging will find a certain
+position in which it will rest: for otherwise, says
+he[16\3], its motion must go on for ever, which is absurd.
+It may be asked how {228} this absurdity of a perpetual
+motion appears; and it will perhaps be added, that although
+the impossibility of a machine with such a condition may be
+proved as a remote result of mechanical principles, this
+impossibility can hardly be itself recognized as a
+self-evident truth. But to this we may reply, that the
+impossibility is really evident in the case contemplated by
+Stevinus; for we cannot conceive a loop of chain to go on
+through all eternity, sliding round and round upon its
+support, by the effect of its own weight. And the ground of
+our conviction that this cannot be, seems to be this
+consideration; that when the chain moves by the effect of
+its weight, we consider its motion as the result of an
+effort to reach some certain position, in which it can rest;
+just as a single ball in a bowl moves till it comes to rest
+at the lowest point of the bowl. Such an effect of weight in
+the chain, we may represent to ourselves by conceiving all
+the matter of the chain to be collected in one single point,
+and this single heavy point to hang from the support in some
+way or other, so as fitly to represent the mode of support
+of the chain. In whatever manner this heavy point (the
+center of gravity of the chain) be supported and controlled
+in its movements, there will still be some position of rest
+which it will seek and find. And thus there will be some
+corresponding position of rest for the chain; and the
+interminable shifting from one position to another, with no
+disposition to rest in any position, cannot exist.
+
+[Note 16\3: Stevin. _Statique_, livre i. prop. 19.]
+
+Thus the demonstration of the property of the Inclined Plane
+by Stevinus, depends upon a principle which, though far from
+being the simplest of those to which the case can be
+reduced, is still both true and evident: and the evidence of
+this principle, depending upon the assumption of a center of
+gravity, is of the same nature as the evidence of the Greek
+statical demonstrations, the earliest real advances in the science.
+
+12. _Principle of Virtual Velocities._--We have referred
+above to an assertion often made, that we may, from the
+simple principles of Mechanics, demonstrate the
+impossibility of a perpetual motion. In reality, {229}
+however, the simplest proof of that impossibility, in a
+machine acted upon by weight only, arises from the very
+maxim above stated, that the center of gravity seeks and
+finds the lowest place; or from some similar proposition.
+For if, as is done by many writers, we profess to prove the
+impossibility of a perpetual motion by means of that
+proposition which includes the conditions of equilibrium,
+and is called the _Principle of Virtual Velocities_[17\3],
+we are under the necessity of first proving in a general
+manner that principle. And if this be done by a mere
+enumeration of cases, (as by taking those five cases which
+are called the _Mechanical Powers_,) there may remain some
+doubts whether the enumeration of possible mechanical
+combinations be complete. Accordingly, some writers have
+attempted independent and general proofs of the Principle of
+Virtual Velocities; and these proofs rest upon assumptions
+of the same nature as that now under notice. This is, for
+example, the case with Lagrange's proof, which depends upon
+what he calls the _Principle of Pulleys_. For this principle
+is,--That a weight any how supported, as by a string passing
+round any number of pulleys any how placed, will be at rest
+then only, when it cannot get lower by any small motion of
+the pulleys. And thus the maxim that a weight will descend
+if it can, is assumed as the basis of this proof.
+
+[Note 17\3: See _Hist. Ind Sc._ b. vi. c. ii. sect. 4.]
+
+There is, as we have said, no need to assume such principles
+as these for the foundation of our mechanical science. But
+it is, on various accounts, useful to direct our attention
+to those cases in which truths, apprehended at first in a
+complex and derivative form, have afterwards been reduced to
+their simpler elements;--in which, also, sagacious and
+inventive men have fixed upon those truths as self-evident,
+which now appear to us only certain in virtue of
+demonstration. In these cases we can hardly doubt that such
+men were led to assert the doctrines which they discovered,
+not by any capricious conjecture of arbitrary selection, but
+by having a keener and deeper insight than other persons
+{230} into the relations which were the object of their
+contemplation; and in the science now spoken of, they were
+led to their assumptions by possessing clearly and
+distinctly the conceptions of mechanical cause and
+effect,--action and reaction,--force, and the nature of its
+operation.
+
+13. _Fluids press Equally in all Directions._--The doctrines
+which concern the equilibrium of fluids depend on principles
+no less certain and simple than those which refer to the
+equilibrium of solid bodies; and the Greeks, who, as we have
+seen, obtained a clear view of some of the principles of
+Statics, also made a beginning in the kindred subject of
+Hydrostatics. We still possess a treatise of Archimedes _On
+Floating Bodies_, which contains correct solutions of
+several problems belonging to this subject, and of some
+which are by no means easy. In this treatise, the
+fundamental assumption is of this kind: 'Let it be assumed
+that the nature of a fluid is such, that the parts which are
+less pressed yield to those which are more pressed.' In this
+assumption or axiom it is implied that a pressure exerted
+upon a fluid in one direction produces a pressure in another
+direction; thus, the weight of the fluid which arises from a
+downward force produces a lateral pressure against the sides
+of the containing vessel. Not only does the pressure thus
+diverge from its original direction into all other
+directions, but the pressure is in all directions exactly
+equal, an equal extent of the fluid being taken. This
+principle, which was involved in the reasoning of
+Archimedes, is still to the present day the basis of all
+hydrostatical treatises, and is expressed, as above, by
+saying that _fluids press equally in all directions_.
+
+Concerning this, as concerning previously-noticed
+principles, we have to ask whether it can rightly be said to
+be derived from experience. And to this the answer must
+still be, as in the former cases, that the proposition is
+not one borrowed from experience in any usual or exact sense
+of the phrase. I will endeavour to illustrate this. There
+are many elementary propositions in physics, our knowledge
+of which {231} indisputably depends upon experience; and in
+these cases there is no difficulty in seeing the evidence of
+this dependence. In such cases, the _experiments_ which
+prove the law are prominently stated in treatises upon the
+subject: they are given with exact measures, and with an
+account of the means by which errours were avoided: the
+experiments of more recent times have either rendered more
+certain the law originally asserted, or have pointed out
+some correction of it as requisite: and the names, both of
+the discoverers of the law and of its subsequent reformers,
+are well known. For instance, the proposition that 'The
+elastic force of air varies as the density,' was first
+proved by Boyle, by means of operations of which the detail
+is given in his _Defence_ of his _Pneumatical
+Experiments_[18\3]; and by **Mariotte in his _Traité de
+l'Équilibre des Liquides_, from whom it has generally been
+termed Mariotte's law. After being confirmed by many other
+experimenters, this law was suspected to be slightly
+inaccurate, and a commission of the French Academy of
+Sciences was appointed, consisting of several distinguished
+philosophers[19\3], to ascertain the truth or falsehood of
+this suspicion. The result of their investigations appeared
+to be, that the law is exact, as nearly as the inevitable
+inaccuracies of machinery and measures will allow us to
+judge. Here we have an example of a law which is of the
+simplest kind and form; and which yet is not allowed to rest
+upon its simplicity or apparent probability, but is
+rigorously tested by experience. In this case, the
+assertion, that the law depends upon experience, contains a
+reference to plain and notorious passages in the history of
+science.
+
+[Note 18\3: Shaw's _Boyle_, Vol. ii. p. 671.]
+
+[Note 19\3: The members were Prony, Arago, Ampère, Girard,
+and Dulong. The experiments were extended to a pressure of
+twenty-seven atmospheres; and in no instance did the
+difference between the observed and calculated elasticity
+amount to one-hundredth of the whole; nor did the difference
+appear to increase with the increase of pressure.--Fechner,
+_Repertorium_, i. 110.]
+
+Now with regard to the principle that fluids press equally
+in all directions, the case is altogether different. {232}
+It is, indeed, often asserted in works on hydrostatics, that
+the principle is collected from experience, and sometimes a
+few experiments are described as exhibiting its effect; but
+these are such as to illustrate and explain, rather than to
+prove, the truth of the principle: they are never related to
+have been made with that exactness of precaution and
+measurement, or that frequency of repetition, which are
+necessary to establish a purely experimental truth. Nor did
+such experiments occur as important steps in the history of
+science. It does not appear that Archimedes thought
+experiment necessary to confirm the truth of the law as he
+employed it: on the contrary, he states it in exactly the
+same shape as the axioms which he employs in statics, and
+even in geometry; namely, as an assumption. Nor does any
+intelligent student of the subject find any difficulty in
+assenting to this fundamental principle of hydrostatics as
+soon as it is propounded to him. Experiment was not
+requisite for its discovery; experiment is not necessary for
+its proof at present; and we may add, that experiment,
+though it may make the proposition the more readily
+intelligible, can add nothing to our conviction of its truth
+when it is once understood.
+
+14. _Foundation of the above Axiom._--But it will naturally
+be asked, What then is the ground of our conviction of this
+doctrine of the equal pressure of a fluid in all directions?
+And to this I reply, that the reasons of this conviction are
+involved in our idea of a fluid, which is considered as
+matter, and therefore as capable of receiving, resisting,
+and transmitting force according to the general conception
+of matter; and which is also considered as matter which has
+its parts perfectly moveable among one another. For it
+follows from these suppositions, that if the fluid be
+confined, a pressure which thrusts in one side of the
+containing vessel, may cause any other side to bulge
+outwards, if there be a part of the surface which has not
+strength to resist this pressure from within. And that this
+pressure, when thus transferred into a direction different
+from the original one, is not altered in intensity, {233}
+depends upon this consideration; that any difference in the
+two pressures would be considered as a defect of _perfect_
+fluidity, since the fluidity would be still more complete,
+if this entire and undiminished transmission of pressure in
+all directions were supposed. If, for instance, the lateral
+pressure were less than the vertical, this could be
+conceived no other way than as indicating some rigidity or
+adhesion of the parts of the fluid. When the fluidity is
+perfect, the two pressures which act in the two different
+parts of the fluid exactly balance each other: they are the
+action and the reaction; and must hence be equal by the same
+necessity as two directly opposite forces in statics.
+
+But it may be urged, that even if we grant that this
+conception of a perfect fluid, as a body which has its parts
+perfectly moveable among each other, leads us necessarily to
+the principle of the equality of hydrostatic pressure in all
+directions, still this conception itself is obtained from
+experience, or suggested by observation. And to this we may
+reply, that the conception of a fluid, as contemplated in
+mechanical theory, cannot be said to be derived from
+experience, except in the same manner as the conception of a
+solid and rigid body may be said to be acquired by
+experience. For if we imagine a vessel full of small, smooth
+spherical balls, such a collection of balls would approach
+to the nature of a fluid, in having its parts moveable among
+each other; and would approach to perfect fluidity, as the
+balls became smoother and smaller. And such a collection of
+balls would also possess the statical properties of a fluid;
+for it would transmit pressure out of a vertical into a
+lateral (or any other) direction, in the same manner as a
+fluid would do. And thus a collection of solid bodies has
+the same property which a fluid has; and the science of
+Hydrostatics borrows from experience no principles beyond
+those which are involved in the science of Statics
+respecting solids. And since in this latter portion of
+science, as we have already seen, none of the principles
+depend for their evidence upon any special experience, the
+doctrines of Hydrostatics also are not {234} proved by
+experience, but have a necessary truth borrowed from the
+relations of our ideas.
+
+It is hardly to be expected that the above reasoning will,
+at first sight, produce conviction in the mind of the
+reader, except he have, to a certain extent, acquainted
+himself with the elementary doctrines of the science of
+Hydrostatics as usually delivered; and have followed, with
+clear and steady apprehension, some of the trains of
+reasoning by which the pressures of fluids are determined;
+as, for instance, the explanation of what is called _the
+Hydrostatic Paradox_. The necessity of such a discipline in
+order that the reader may enter fully into this part of our
+speculations, naturally renders them less popular; but this
+disadvantage is inevitable in our plan. We cannot expect to
+throw light upon philosophy by means of the advances which
+have been made in the mathematical and physical sciences,
+except we really understand the doctrines which have been
+firmly established in those sciences. This preparation for
+philosophizing may be somewhat laborious; but such labour is
+necessary if we would pursue speculative truth with all the
+advantages which the present condition of human knowledge
+places within our reach.
+
+We may add, that the consequences to which we are directed
+by the preceding opinions, are of very great importance in
+their bearing upon our general views respecting human
+knowledge. I trust to be able to show, that some important
+distinctions are illustrated, some perplexing paradoxes
+solved, and some large anticipations of the future extension
+of our knowledge suggested, by means of the conclusions to
+which the preceding discussions have conducted us. But
+before I proceed to these general topics, I must consider
+the foundations of some of the remaining portions of the
+science of Mechanics.
+
+
+
+{{235}}

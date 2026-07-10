@@ -1,0 +1,626 @@
+CHAPTER II.
+
+THE SYLLOGISTIC ANALYSIS OF PROPOSITIONS INTO TERMS.
+
+
+I.--THE BARE ANALYTIC FORMS.
+
+The word "term" is loosely used as a mere synonym for a name: strictly
+speaking, a term ([Greek: horos], a boundary) is one of the parts of
+a proposition as analysed into Subject and Predicate. In Logic, a term
+is a technical word in an analysis made for a special purpose, that
+purpose being to test the mutual consistency of propositions.
+
+For this purpose, the propositions of common speech may be viewed as
+consisting of two TERMS, a linkword called the copula (positive or
+negative) expressing a relation between them, and certain symbols of
+quantity used to express that relation more precisely.
+
+Let us indicate the Subject term by S, and the Predicate term by P.
+
+All propositions may be analysed into one or other of four forms:--
+
+  All S is P,
+  No S is P,
+  Some S is P,
+  Some S is not P.
+
+All S is P is called the UNIVERSAL AFFIRMATIVE, and is indicated by
+the symbol A (the first vowel of Affirmo).
+
+No S is P is called the UNIVERSAL NEGATIVE, symbol E (the first vowel
+of Nego).
+
+Some S is P is called the PARTICULAR AFFIRMATIVE, symbol I (the second
+vowel of _aff_Irmo).
+
+Some S is not P is called the PARTICULAR NEGATIVE, symbol O (the
+second vowel of _neg_O).
+
+The distinction between Universal and Particular is called a
+distinction in QUANTITY; between Affirmative and Negative, a
+distinction in QUALITY. A and E, I and O, are of the same quantity,
+but of different quality: A and I, E and O, same in quality, different
+in quantity.
+
+In this symbolism, no provision is made for expressing degrees of
+particular quantity. _Some_ stands for any number short of all: it may
+be one, few, most, or all but one. The debates in which Aristotle's
+pupils were interested turned mainly on the proof or disproof of
+general propositions; if only a proposition could be shown to be not
+universal, it did not matter how far or how little short it came. In
+the Logic of Probability, the degree becomes of importance.
+
+Distinguish, in this Analysis, to avoid subsequent confusion, between
+the Subject and the Subject Term, the Predicate and the Predicate
+Term. The Subject is the Subject Term quantified: in A and E,[1] "All
+S"; in I and O, "Some S". The Predicate is the Predicate Term with the
+Copula, positive or negative: in A and I, "is P"; in E and O, "is not
+P".
+
+It is important also, in the interest of exactness, to note that S and
+P, with one exception, represent general names. They are symbols
+for classes. P is so always: S also except when the Subject is an
+individual object. In the machinery of the Syllogism, predications
+about a Singular term are treated as Universal Affirmatives. "Socrates
+is a wise man" is of the form All S is P.
+
+S and P being general names, the signification of the symbol "is" is
+not the same as the "is" of common speech, whether the substantive
+verb or the verb of incomplete predication. In the syllogistic form,
+"is" means _is contained in_, "is not," _is not contained in_.
+
+The relations between the terms in the four forms are represented by
+simple diagrams known as Euler's circles.
+
+[Illustration:
+
+  1  concentric circles of P and S - S in centre        A
+  2  S and P in the same circle                         A
+  3  S and P each in a circle, overlapping circle.      I & O
+  4  S in one circle and P in another circle.           E
+  5  concentric circles of S and P - P in centre        I?
+]
+
+
+Diagram 5 is a purely artificial form, having no representative in
+common speech. In the affirmations of common speech, P is always a
+term of greater extent than S.
+
+No. 2 represents the special case where S and P are coextensive, as in
+All equiangular triangles are equilateral.
+
+S and P being general names, they are said to be DISTRIBUTED when the
+proposition applies to them in their whole extent, that is, when the
+assertion covers every individual in the class.
+
+In E, the Universal Negative, both terms are distributed: "No S is P"
+wholly excludes the two classes one from the other, imports that not
+one individual of either is in the other.
+
+In A, S is distributed, but not P. S is wholly in P, but nothing is
+said about the extent of P beyond S.
+
+In O, S is undistributed, P is distributed. A part of S is declared to
+be wholly excluded from P.
+
+In I, neither S nor P is distributed.
+
+It will be seen that the Predicate term of a Negative proposition is
+always distributed, of an Affirmative, always undistributed.
+
+A little indistinctness in the signification of P crept into mediaeval
+text-books, and has tended to confuse modern disputation about the
+import of Predication. Unless P is a class name, the ordinary doctrine
+of distribution is nonsense; and Euler's diagrams are meaningless. Yet
+many writers who adopt both follow mediaeval usage in treating P as the
+equivalent of an adjective, and consequently "is" as identical with
+the verb of incomplete predication in common speech.
+
+
+It should be recognised that these syllogistic forms are purely
+artificial, invented for a purpose, namely, the simplification of
+syllogising. Aristotle indicated the precise usage on which his
+syllogism is based (_Prior Analytics_, i. 1 and 4). His form[2] for
+All S is P, is S is wholly in P; for No S is P, S is wholly not in P.
+His copula is not "is," but "is in," and it is a pity that this usage
+was not kept. "All S is in P" would have saved much confusion. But,
+doubtless for the sake of simplicity, the besetting sin of tutorial
+handbooks, All S is P crept in instead, illustrated by such examples
+as "All men are mortal".
+
+Thus the "is" of the syllogistic form became confused with the "is"
+of common speech, and the syllogistic view of predication as
+being equivalent to inclusion in, or exclusion from a class, was
+misunderstood. The true Aristotelian doctrine is not that predication
+consists in referring subjects to classes, but only that for certain
+logical purposes it may be so regarded. The syllogistic forms are
+artificial forms. They were not originally intended to represent the
+actual processes of thought expressed in common speech. To argue
+that when I say "All crows are black," I do not form a class of
+black things, and contemplate crows within it as one circle is within
+another, is to contradict no intelligent logical doctrine.
+
+The root of the confusion lies in quoting sentences from common speech
+as examples of the logical forms, forgetting that those forms are
+purely artificial. "Omnis homo est mortalis," "All men are mortal," is
+not an example formally of All S is P. P is a symbol for a substantive
+word or combination of words, and mortal is an adjective. Strictly
+speaking, there is no formal equivalent in common speech, that is,
+in the forms of ordinary use--no strict grammatical formal
+equivalent--for the syllogistic propositional symbols. We can make
+an equivalent, but it is not a form that men would use in ordinary
+intercourse. "All man is in mortal being" would be a strict
+equivalent, but it is not English grammar.
+
+Instead of disputing confusedly whether All S is P should be
+interpreted in extension or in comprehension, it would be better to
+recognise the original and traditional use of the symbols S and P
+as class names, and employ other symbols for the expression in
+comprehension or connotation. Thus, let _s_ and _p_ stand for the
+connotation. Then the equivalent for All S is P would be All S has
+_p_, or _p_ always accompanies _s_, or _p_ belongs to all S.
+
+It may be said that if predication is treated in this way, Logic is
+simplified to the extent of childishness. And indeed, the manipulation
+of the bare forms with the help of diagrams and mnemonics is a very
+humble exercise. The real discipline of Syllogistic Logic lies in the
+reduction of common speech to these forms.
+
+This exercise is valuable because it promotes clear ideas about the
+use of general names in predication, their ground in thought and
+reality, and the liabilities to error that lurk in this fundamental
+instrument of speech.
+
+    [Footnote 1: For perfect symmetry, the form of E should be
+    All S is not P. "No S is P" is adopted for E to avoid conflict
+    with a form of common speech, in which All S is not P conveys
+    the meaning of the Particular Negative. "All advices are not
+    safe" does not mean that safeness is denied of all advices,
+    but that safeness cannot be affirmed of all, _i.e._, Not all
+    advices are safe, _i.e._, some are not.]
+
+    [Footnote 2: His most precise form, I should say, for in "P is
+    predicated of every S" he virtually follows common speech.]
+
+
+II.--THE PRACTICE OF SYLLOGISTIC ANALYSIS.
+
+The basis of the analysis is the use of general names in predication.
+To say that in predication a subject is referred to a class, is only
+another way of saying that in every categorical sentence the predicate
+is a general name express or implied: that it is by means of general
+names that we convey our thoughts about things to others.
+
+"Milton is a great poet." "Quoth Hudibras, _I smell a rat_." _Great
+poet_ is a general name: it means certain qualities, and applies to
+anybody possessing them. _Quoth_ implies a general name, a name for
+persons _speaking_, connoting or meaning a certain act and applicable
+to anybody in the performance of it. _Quoth_ expresses also past time:
+thus it implies another general name, a name for persons _in past
+time_, connoting a quality which differentiates a species in the genus
+persons speaking, and making the predicate term "persons speaking in
+past time". Thus the proposition _Quoth Hudibras_, analysed into the
+syllogistic form S is in P, becomes S (Hudibras) is in P (persons
+speaking in past time). The Predicate term P is a class constituted on
+those properties. _Smell a rat_ also implies a general name, meaning
+an act or state predicable of many individuals.
+
+Even if we add the grammatical object of _Quoth_ to the analysis, the
+Predicate term is still a general name. Hudibras is only one of the
+persons speaking in past time who have spoken of themselves as being
+in a certain mood of suspicion.[1]
+
+The learner may well ask what is the use of twisting plain speech into
+these uncouth forms. The use is certainly not obvious. The analysis
+may be directly useful, as Aristotle claimed for it, when we wish
+to ascertain exactly whether one proposition contradicts another, or
+forms with another or others a valid link in an argument. This is
+to admit that it is only in perplexing cases that the analysis is of
+direct use. The indirect use is to familiarise us with what the
+forms of common speech imply, and thus strengthen the intellect for
+interpreting the condensed and elliptical expression in which common
+speech abounds.
+
+There are certain technical names applied to the components of
+many-worded general names, CATEGOREMATIC and SYNCATEGOREMATIC, SUBJECT
+and ATTRIBUTIVE. The distinctions are really grammatical rather than
+logical, and of little practical value.
+
+A word that can stand by itself as a term is said to be Categorematic.
+_Man_, _poet_, or any other common noun.
+
+A word that can only form part of a term is Syncategorematic. Under
+this definition come all adjectives and adverbs.
+
+The student's ingenuity may be exercised in applying the
+distinction to the various parts of speech. A verb may be said to be
+_Hypercategorematic_, implying, as it does, not only a term, but also
+a copula.
+
+A nice point is whether the Adjective is categorematic or
+syncategorematic. The question depends on the definition of "term"
+in Logic. In common speech an adjective may stand by itself as a
+predicate, and so might be said to be Categorematic. "This heart is
+merry." But if a term is a class, or the name of a class, it is not
+Categorematic in the above definition. It can only help to specify a
+class when attached to the name of a higher genus.
+
+Mr. Fowler's words SUBJECT and ATTRIBUTIVE express practically the
+same distinction, except that Attributive is of narrower extent than
+syncategorematic. An Attributive is a word that connotes an attribute
+or property, as _hot_, _valorous_, and is always grammatically an
+adjective.
+
+The EXPRESSION OF QUANTITY, that is, of Universality or
+non-universality, is all-important in syllogistic formulae. In them
+universality is expressed by _All_ or _None_. In ordinary speech
+universality is expressed in various forms, concrete and abstract,
+plain and figurative, without the use of "all" or "none".
+
+  Uneasy lies the head that wears a crown.
+  He can't be wrong whose life is in the right.
+  What cat's averse to fish?
+  Can the leopard change his spots?
+  The longest road has an end.
+  Suspicion ever haunts the guilty mind.
+  Irresolution is always a sign of weakness.
+  Treason never prospers.
+
+A proposition in which the quantity is not expressed is called by
+Aristotle INDEFINITE ([Greek: adioristos]). For "indefinite"[2]
+Hamilton suggests PREINDESIGNATE, undesignated, that is, before being
+received from common speech for the syllogistic mill. A proposition is
+PREDESIGNATE when the quantity is definitely indicated. All the above
+propositions are "Predesignate" universals, and reducible to the form
+All S is P, or No S is P.
+
+The following propositions are no less definitely particular,
+reducible to the form I or O. In them as in the preceding quantity
+is formally expressed, though the forms used are not the artificial
+syllogistic forms:--
+
+  Afflictions are often salutary.
+  Not every advice is a safe one.
+  All that glitters is not gold.
+  Rivers generally[3] run into the sea.
+
+Often, however, it is really uncertain from the form of common speech
+whether it is intended to express a universal or a particular. The
+quantity is not formally expressed. This is especially the case
+with proverbs and loose floating sayings of a general tendency. For
+example:--
+
+  Haste makes waste.
+  Knowledge is power.
+  Light come, light go.
+  Left-handed men are awkward antagonists.
+  Veteran soldiers are the steadiest in fight.
+
+Such sayings are in actual speech for the most part delivered as
+universals.[4] It is a useful exercise of the Socratic kind to decide
+whether they are really so. This can only be determined by a survey of
+facts. The best method of conducting such a survey is probably (1)
+to pick out the concrete subject, "hasty actions," "men possessed of
+knowledge," "things lightly acquired"; (2) to fix the attribute or
+attributes predicated; (3) to run over the individuals of the subject
+class and settle whether the attribute is as a matter of fact meant to
+be predicated of each and every one.
+
+This is the operation of INDUCTION. If one individual can be found of
+whom the attribute is not meant to be predicated, the proposition is
+not intended as Universal.
+
+Mark the difference between settling what is intended and settling
+what is true. The conditions of truth and the errors incident to the
+attempt to determine it, are the business of the Logic of Rational
+Belief, commonly entitled Inductive Logic. The kind of "induction"
+here contemplated has for its aim merely to determine the quantity of
+a proposition in common acceptation, which can be done by considering
+in what cases the proposition would generally be alleged. This
+corresponds nearly as we shall see to Aristotelian Induction, the
+acceptance of a universal statement when no instance to the contrary
+is alleged.
+
+It is to be observed that for this operation we do not practically use
+the syllogistic form All S is P. We do not raise the question Is All
+S, P? That is, we do not constitute in thought a class P: the class in
+our minds is S, and what we ask is whether an attribute predicated of
+this class is truly predicated of every individual of it.
+
+Suppose we indicate by _p_ the attribute, knot of attributes, or
+concept on which the class P is constituted, then All S is P is
+equivalent to "All S has _p_": and Has All S _p_? is the form of a
+question that we have in our minds when we make an inductive survey on
+the above method. I point this out to emphasise the fact that there is
+no prerogative in the form All S is P except for syllogistic purposes.
+
+This inductive survey may be made a useful COLLATERAL DISCIPLINE. The
+bare forms of Syllogistic are a useless item of knowledge unless they
+are applied to concrete thought. And determining the quantity of a
+common aphorism or saw, the limits within which it is meant to hold
+good, is a valuable discipline in exactness of understanding. In
+trying to penetrate to the inner intention of a loose general maxim,
+we discover that what it is really intended to assert is a general
+connexion of attributes, and a survey of concrete cases leads to
+a more exact apprehension of those attributes. Thus in considering
+whether _Knowledge is power_ is meant to be asserted of all knowledge,
+we encounter along with such examples as the sailor's knowledge that
+wetting a rope shortens it, which enabled some masons to raise a stone
+to its desired position, or the knowledge of French roads possessed by
+the German invaders,--along with such examples as these we encounter
+cases where a knowledge of difficulties without a knowledge of the
+means of overcoming them is paralysing to action. Samuel Daniel
+says:--
+
+  Where timid knowledge stands considering
+  Audacious ignorance has done the deed.
+
+Studying numerous cases where "Knowledge is power" is alleged or
+denied, we find that what is meant is that a knowledge of the right
+means of doing anything is power--in short, that the predicate is not
+made of all knowledge, but only of a species of knowledge.
+
+Take, again, _Custom blunts sensibility_. Putting this in the
+concrete, and inquiring what predicate is made about "men accustomed
+to anything" (S), we have no difficulty in finding examples where such
+men are said to become indifferent to it. We find such illustrations
+as Lovelace's famous "Paradox":--
+
+  Through foul we follow fair
+    For had the world one face
+  And earth been bright as air
+    We had known neither place.
+  Indians smell not their nest
+  The Swiss and Finn taste best
+    The spices of the East.
+
+So men accustomed to riches are not acutely sensible of their
+advantages: dwellers in noisy streets cease to be distracted by the
+din: the watchmaker ceases to hear the multitudinous ticking in his
+shop: the neighbours of chemical works are not annoyed by the smells
+like the casual passenger. But we find also that wine-tasters
+acquire by practice an unusual delicacy of sense; that the eyes once
+accustomed to a dim light begin to distinguish objects that were at
+first indistinguishable; and so on. What meanings of "custom" and of
+"sensibility" will reconcile these apparently conflicting examples?
+What are the exact attributes signified by the names? We should
+probably find that by sensibility is meant emotional sensibility as
+distinguished from intellectual discrimination, and that by custom is
+meant familiarity with impressions whose variations are not attended
+to, or subjection to one unvarying impression.
+
+To verify the meaning of abstract proverbs in this way is to travel
+over the road by which the Greek dialecticians were led to feel the
+importance of definition. Of this more will be said presently. If
+it is contended that such excursions are beyond the bounds of Formal
+Logic, the answer is that the exercise is a useful one and that it
+starts naturally and conveniently from the formulae of Logic. It is the
+practice and discipline that historically preceded the Aristotelian
+Logic, and in the absence of which the Aristotelian formulae would have
+a narrowing and cramping effect.
+
+CAN ALL PROPOSITIONS BE REDUCED TO THE SYLLOGISTIC FORM? Probably: but
+this is a purely scientific inquiry, collateral to Practical Logic.
+The concern of Practical Logic is chiefly with forms of proposition
+that favour inaccuracy or inexactness of thought. When there is no
+room for ambiguity or other error, there is no virtue in artificial
+syllogistic form. The attempt so to reduce any and every proposition
+may lead, however, to the study of what Mr. Bosanquet happily calls
+the "Morphology" of Judgment, Judgment being the technical name for
+the mental act that accompanies the utterance of a proposition. Even
+in such sentences as "How hot it is!" or "It rains," the rudiment of
+subject and predicate may be detected. When a man says "How hot it
+is," he conveys the meaning, though there is no definitely formed
+subject in his mind, that the outer world at the moment of his
+speaking has a certain quality or attribute. So with "It rains". The
+study of such examples in their context, however, reveals the fact
+that the same form of Common speech may cover different subjects and
+predicates in different connexions. Thus in the argument:--
+
+  "Whatever is, is best.
+    It rains!"--
+
+the Subject is _Rain_ and the Predicate _is now_, "is at the present
+time," "is in the class of present events".
+
+    [Footnote 1: Remember that when we speak of a general name,
+    we do not necessarily mean a single word. A general name,
+    logically viewed, is simply the name of a _genus_, kind, or
+    class: and whether this is single-worded or many-worded
+    is, strictly speaking, a grammatical question. "Man,"
+    "man-of-ability," "man-of-ability-and-courage,"
+    "man-of-ability-and-courage-and-gigantic-stature,"
+    "man-who-fought-at-Marathon"--these are all general names
+    in their logical function. No matter how the constitutive
+    properties of the class are indicated, by one word or in
+    combination, that word or combination is a general name. In
+    actual speech we can seldom indicate by a single word the
+    meaning predicated.]
+
+    [Footnote 2: The objection taken to the word "indefinite,"
+    that the quantity of particular propositions is indefinite,
+    _some_ meaning any quantity less than all, is an example of
+    the misplaced and frivolous subtlety that has done so much
+    to disorder the tradition of Logic. By "indefinite" is
+    simply meant not definitely expressed as either Universal
+    or Particular, Total or Partial. The same objection might be
+    taken to any word used to express the distinction: the degree
+    of quantity in Some S is not "designate" any more than it is
+    "definite" or "dioristic".]
+
+    [Footnote 3: _Generally._ In this word we have an instance of
+    the frequent conflict between the words of common speech and
+    logical terminology. How it arises shall be explained in next
+    chapter. A General proposition is a synonym for a Universal
+    proposition (if the forms A and E are so termed): but
+    "generally" in common speech means "for the most part," and is
+    represented by the symbol of particular quantity, _Some_.]
+
+    [Footnote 4: With some logicians it is a mechanical rule in
+    reducing to syllogistic form to treat as I or O all sentences
+    in which there is no formal expression of quantity. This is to
+    err on the safe side, but common speakers are not so guarded,
+    and it is to be presumed rather that they have a universal
+    application in their minds when they do not expressly
+    qualify.]
+
+
+III.--SOME TECHNICAL DIFFICULTIES.
+
+_The formula for_ EXCLUSIVE PROPOSITIONS. "None but the brave deserve
+the fair": "No admittance except on business": "Only Protestants can
+sit on the throne of England".
+
+These propositions exemplify different ways in common speech of naming
+a subject _exclusively_, the predication being made of all outside a
+certain term. "None that are not brave, etc.;" "none that are not on
+business, etc.;" "none that are not Protestants, etc.". No not-S is
+P. It is only about all outside the given term that the universal
+assertion is made: we say nothing universally about the individuals
+within the term: we do not say that all Protestants are eligible, nor
+that all persons on business are admitted, nor that every one of the
+brave deserves the fair. All that we say is that the possession of the
+attribute named is an indispensable condition: a person may possess
+the attribute, and yet on other grounds may not be entitled to the
+predicate.
+
+The justification for taking special note of this form in Logic is
+that we are apt by inadvertence to make an inclusive inference from
+it. Let it be said that None but those who work hard can reasonably
+expect to pass, and we are apt to take this as meaning that all who
+work hard may reasonably expect to pass. But what is denied of every
+Not-S is not necessarily affirmed of every S.
+
+_The expression of_ TENSE or TIME _in the Syllogistic Forms_. Seeing
+that the Copula in S is P or S is in P does not express time, but only
+a certain relation between S and P, the question arises Where are we
+to put time in the analytic formula? "Wheat is dear;" "All had fled;"
+time is expressed in these propositions, and our formula should
+render the whole content of what is given. Are we to include it in
+the Predicate term or in the Subject term? If it must not be left out
+altogether, and we cannot put it with the copula, we have a choice
+between the two terms.
+
+It is a purely scholastic question. The common technical treatment is
+to view the tense as part of the predicate. "All had fled," All S is
+P, _i.e._, the whole subject is included in a class constituted on the
+attributes of flight at a given time. It may be that the Predicate is
+solely a predicate of time. "The Board met yesterday at noon." S is P,
+_i.e._, the meeting of the Board is one of the events characterised by
+having happened at a certain time, agreeing with other events in that
+respect.
+
+But in some cases the time is more properly regarded as part of the
+subject. _E.g._, "Wheat is dear". S does not here stand for wheat
+collectively, but for the wheat now in the market, the wheat of the
+present time: it is concerning this that the attribute of dearness is
+predicated; it is this that is in the class of dear things.
+
+_The expression of_ MODALITY _in the Syllogistic Forms_. Propositions
+in which the predicate is qualified by an expression of necessity,
+contingency, possibility or impossibility [_i.e._, in English by
+_must_, _may_, _can_, or _cannot_], were called in Mediaeval Logic
+_Modal_ Propositions. "Two and two _must_ make four." "Grubs _may_
+become butterflies." "Z _can_ paint." "Y _cannot_ fly."
+
+There are two recognised ways of reducing such propositions to the
+form S is P. One is to distinguish between the _Dictum_ and the
+_Mode_, the proposition and the qualification of its certainty, and
+to treat the _Dictum_ as the Subject and the _Mode_ as the Predicate.
+Thus: "That two and two make four is necessary"; "That Y can fly is
+impossible".
+
+The other way is to treat the Mode as part of the predicate.
+The propriety of this is not obvious in the case of Necessary
+propositions, but it is unobjectionable in the case of the other three
+modes. Thus: "Grubs are things that have the potentiality of becoming
+butterflies"; "Z has the faculty of painting"; "Y has not the faculty
+of flying".
+
+The chief risk of error is in determining the quantity of the subject
+about which the Contingent or Possible predicate is made. When it is
+said that "Victories may be gained by accident," is the predicate made
+concerning All victories or Some only? Here we are apt to confuse the
+meaning of the contingent assertion with the matter of fact on which
+in common belief it rests. It is true only that some victories have
+been gained by accident, and it is on this ground that we assert in
+the absence of certain knowledge concerning any victory that it
+may have been so gained. The latter is the effect of the contingent
+assertion: it is made about any victory in the absence of certain
+knowledge, that is to say, formally about all.
+
+The history of Modals in Logic is a good illustration of intricate
+confusion arising from disregard of a clear traditional definition.
+The treatment of them by Aristotle was simple, and had direct
+reference to tricks of disputation practised in his time. He specified
+four "modes," the four that descended to mediaeval logic, and he
+concerned himself chiefly with the import of contradicting these
+modals. What is the true contradictory of such propositions as, "It
+is possible to be" ([Greek: dynaton einai]), "It admits of being"
+([Greek: endechetai einai]), "It must be" ([Greek: anankaion einai]),
+"It is impossible to be" ([Greek: adynaton einai])? What is implied in
+saying "No" to such propositions put interrogatively? "Is it possible
+for Socrates to fly?" "No." Does this mean that it is not possible for
+Socrates to fly, or that it is possible for Socrates not to fly?
+
+A disputant who had trapped a respondent into admitting that it is
+possible for Socrates not to fly, might have pushed the concession
+farther in some such way as this: "Is it possible for Socrates not to
+walk?" "Certainly." "Is it possible for him to walk?" "Yes." "When you
+say that it is possible for a man to do anything do you not believe
+that it is possible for him to do it?" "Yes." "But you have admitted
+that it is possible for Socrates not to fly?"
+
+It was in view of such perplexities as these that Aristotle set forth
+the true contradictories of his four Modals. We may laugh at such
+quibbles now and wonder that a grave logician should have thought them
+worth guarding against. But historically this is the origin of the
+Modals of Formal Logic, and to divert the names of them to signify
+other distinctions than those between modes of qualifying the
+certainty of a statement is to introduce confusion.
+
+Thus we find "Alexander was a great general," given as an example of
+a Contingent Modal, on the ground that though as a matter of fact
+Alexander was so he might have been otherwise. It was not _necessary_
+that Alexander should be a great general: therefore the proposition
+is _contingent_. Now the distinction between Necessary truth and
+Contingent truth may be important philosophically: but it is merely
+confusing to call the character of propositions as one or the other by
+the name of Modality. The original Modality is a mode of expression:
+to apply the name to this character is to shift its meaning.
+
+A more simple and obviously unwarrantable departure from tradition
+is to extend the name Modality to any grammatical qualification of
+a single verb in common speech. On this understanding "Alexander
+conquered Darius" is given by Hamilton as a _Pure_ proposition, and
+"Alexander conquered Darius honourably" as a _Modal_. This is a merely
+grammatical distinction, a distinction in the mode of composing the
+predicate term in common speech. In logical tradition Modality is a
+mode of qualifying the certainty of an affirmation. "The conquest
+of Darius by Alexander was honourable," or "Alexander in conquering
+Darius was an honourable conqueror," is the syllogistic form of the
+proposition: it is simply assertory, not qualified in any "mode".
+
+There is a similar misunderstanding in Mr. Shedden's treatment of
+"generally" as constituting a Modal in such sentences, as "Rivers
+_generally_ flow into the sea". He argues that as _generally_ is not
+part either of the Subject term or of the Predicate term, it must
+belong to the Copula, and is therefore a _modal_ qualification of the
+whole assertion. He overlooked the fact that the word "generally" is
+an expression of Quantity: it determines the quantity of the Subject
+term.
+
+Finally it is sometimes held (_e.g._, by Mr. Venn) that the question
+of Modality belongs properly to Scientific or Inductive Logic, and is
+out of place in Formal Logic. This is so far accurate that it is
+for Inductive Logic to expound the conditions of various degrees of
+certainty. The consideration of Modality is pertinent to Formal Logic
+only in so far as concerns special perplexities in the expression of
+it. The treatment of it by Logicians has been rendered intricate by
+torturing the old tradition to suit different conceptions of the end
+and aim of Logic.
+
+
+
+

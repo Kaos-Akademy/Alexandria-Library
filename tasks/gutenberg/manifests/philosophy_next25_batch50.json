@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 54984,
+      "title": "A serious proposal to the Ladies, for the advancement of their true and greatest interest (In Two Parts)",
+      "author": "Astell, Mary, 1666-1731",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Feminism -- Great Britain -- History -- 18th century -- Sources; Women's rights -- Great Britain -- History -- 18th century -- Sources",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 54992,
+      "title": "Prolegomena to the Study of Hegel's Philosophy, and Especially of His Logic",
+      "author": "Wallace, William, 1844-1897",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Logic; Hegel, Georg Wilhelm Friedrich, 1770-1831",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55053,
+      "title": "The Chautauquan, Vol. 05, February 1885",
+      "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Chautauqua Literary and Scientific Circle -- Periodicals; Chautauqua Institution -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55061,
+      "title": "The Chautauquan, Vol. 05, April 1885",
+      "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Chautauqua Literary and Scientific Circle -- Periodicals; Chautauqua Institution -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55108,
+      "title": "The Logic of Hegel",
+      "author": "Hegel, Georg Wilhelm Friedrich, 1770-1831; Wallace, William, 1844-1897 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Logic",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55172,
+      "title": "Evolution and creation",
+      "author": "Hardwicke, Herbert Junius",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Evolution; Agnosticism",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    },
+    {
+      "gutenberg_id": 55230,
+      "title": "The Day After Death; Or, Our Future Life According to Science (New Edition)",
+      "author": "Figuier, Louis, 1819-1894",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Cosmology; Future life; Transmigration",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55317,
+      "title": "The Meditations of the Emperor Marcus Aurelius Antoninus\nA new rendering based on the Foulis translation of 1742",
+      "author": "Marcus Aurelius, Emperor of Rome, 121-180; Chrystal, George W. (George William), 1880-1944 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Stoics; Ethics; Life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55334,
+      "title": "The Philosophy of Fine Art, volume 1 (of 4)\nHegel's Aesthetik",
+      "author": "Hegel, Georg Wilhelm Friedrich, 1770-1831; Osmaston, Francis Plumptre Beresford, 1857-1925 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55354,
+      "title": "What Does History Teach?\nTwo Edinburgh Lectures",
+      "author": "Blackie, John Stuart, 1809-1895",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "History; Political science; Church and state",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55394,
+      "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+      "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Chautauqua Literary and Scientific Circle -- Periodicals; Chautauqua Institution -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55445,
+      "title": "The Philosophy of Fine Art, volume 2 (of 4)\nHegel's Aesthetik",
+      "author": "Hegel, Georg Wilhelm Friedrich, 1770-1831; Osmaston, Francis Plumptre Beresford, 1857-1925 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55531,
+      "title": "Common Sense Applied to Religion; Or, The Bible and the People",
+      "author": "Beecher, Catharine Esther, 1800-1878",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion -- Philosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55555,
+      "title": "The Golden Rule Cook Book: Six hundred recipes for meatless dishes",
+      "author": "Sharpe, M. R. L. (Maud Russell Lorraine), 1867-1949",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Cooking, American; Vegetarian cooking; Vegetarianism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55586,
+      "title": "The Education of Children from the Standpoint of Theosophy",
+      "author": "Steiner, Rudolf, 1861-1925; Gysi, Max, 1874-1946 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Education; Theosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55610,
+      "title": "Why Men Fight: A method of abolishing the international duel",
+      "author": "Russell, Bertrand, 1872-1970",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Social problems; Property; War; Liberty; State, The",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55623,
+      "title": "The Philosophy of Fine Art, volume 3 (of 4)\nHegel's Aesthetik",
+      "author": "Hegel, Georg Wilhelm Friedrich, 1770-1831; Osmaston, Francis Plumptre Beresford, 1857-1925 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55687,
+      "title": "The Initiates of the Flame",
+      "author": "Hall, Manly P. (Manly Palmer), 1901-1990",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Occultism; Symbolism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55761,
+      "title": "The Philosophy of Spiritual Activity\nA Modern Philosophy of Life Developed by Scientific Methods",
+      "author": "Steiner, Rudolf, 1861-1925; Collison, Harry, 1868-1945 [Editor]; Hoernl\u00e9, Reinhold Friedrich Alfred, 1880-1943 [Translator]; Hoernl\u00e9, Winifred, 1885-1960 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Knowledge, Theory of; Anthroposophy; Life; Free will and determinism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55833,
+      "title": "Letters That Have Helped Me",
+      "author": "Judge, William Quan, 1851-1896; Keightley, Julia Wharton Lewis Campbell Ver Planck",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Theosophy; Judge, William Quan, 1851-1896; Theosophists -- United States -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55878,
+      "title": "The New Spirit\nThird Edition",
+      "author": "Ellis, Havelock, 1859-1939",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Tolstoy, Leo, graf, 1828-1910; Whitman, Walt, 1819-1892; Heine, Heinrich, 1797-1856; Ibsen, Henrik, 1828-1906; Diderot, Denis, 1713-1784",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55898,
+      "title": "Solitude\nWith the Life of the Author. In Two Parts",
+      "author": "Zimmermann, Johann Georg, 1728-1795",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Solitude",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55940,
+      "title": "Theosophy and Life's Deeper Problems\nBeing the Four Convention Lectures Delivered in Bombay at the Fortieth Anniversary of the Theosophical Society, December, 1915",
+      "author": "Besant, Annie, 1847-1933",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Theosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 55988,
+      "title": "Natural History of Enthusiasm",
+      "author": "Taylor, Isaac, 1787-1865",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Enthusiasm -- Religious aspects -- Christianity",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 56020,
+      "title": "The Power of Truth: Individual Problems and Possibilities",
+      "author": "Jordan, William George, 1864-1928",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Conduct of life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

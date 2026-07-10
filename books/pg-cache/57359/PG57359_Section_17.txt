@@ -1,0 +1,1314 @@
+CHAPTER XIII.
+
+
+_ON THE CONCEPTION AND TREATMENT OF MODALITY._
+
+1. The reader who knows anything of the scholastic
+Logic will have perceived before now that we have been
+touching in a variety of places upon that most thorny and
+repulsive of districts in the logical territory;--modality. It
+will be advisable, however, to put together, somewhat more
+definitely, what has to be said upon the subject. I propose,
+therefore, to devote this chapter to a brief account of the
+principal varieties of treatment which the modals have received
+at the hands of professed logicians.
+
+It must be remarked at the outset that the sense in
+which modality and modal propositions have been at various
+times understood, is by no means fixed and invariably the
+same. This diversity of view has arisen partly from corresponding
+differences in the view taken of the province and
+nature of logic, and partly from differences in the philosophical
+and scientific opinions entertained as to the constitution
+and order of nature. In later times, moreover,
+another very powerful agent in bringing about a change in
+the treatment of the subject must be recognized in the
+gradual and steady growth of the theory of Probability, as
+worked out by the mathematicians from their own point of
+view.
+
+2. In spite, however, of these differences of treatment,
+there has always been some community of subject-matter in
+the discussions upon this topic. There has almost always
+been some reference to quantity of belief; enough perhaps
+to justify De Morgan's[1] remark, that Probability was "the
+unknown God whom the schoolmen ignorantly worshipped
+when they so dealt with this species of enunciation, that it
+was said to be beyond human determination whether they
+most tortured the modals, or the modals them." But this
+reference to quantity of belief has sometimes been direct and
+immediate, sometimes indirect and arising out of the nature
+of the subject-matter of the proposition. The fact is, that
+that distinction between the purely subjective and purely objective
+views of logic, which I have endeavoured to bring out
+into prominence in the eleventh chapter, was not by any
+means clearly recognized in early times, nor indeed before
+the time of Kant, and the view to be taken of modality
+naturally shared in the consequent confusion. This will, I
+hope, be made clear in the course of the following chapter,
+which is intended to give a brief sketch of the principal
+different ways in which the modality of propositions has
+been treated in logic. As it is not proposed to give anything
+like a regular history of the subject, there will be no
+necessity to adhere to any strict sequence of time, or to
+discuss the opinions of any writers, except those who may be
+taken as representative of tolerably distinct views. The
+outcome of such investigation will be, I hope, to convince
+the reader (if, indeed, he had not come to that conviction
+before), that the logicians, after having had a long and fair
+trial, have failed to make anything satisfactory out of this
+subject of the modals by their methods of enquiry and treatment;
+and that it ought, therefore, to be banished entirely
+from that science, and relegated to Probability.
+
+3. From the earliest study of the syllogistic process
+it was seen that, complete as that process is within its own
+domain, the domain, at any rate under its simplest treatment,
+is a very limited one. Propositions of the pure form,--All
+(or some) A is (or is not) B,--are found in practice to form
+but a small portion even of our categorical statements. We
+are perpetually meeting with others which express the relation
+of B to A with various degrees of necessity or probability;
+e.g. A must be B, A may be B; or the effect of
+such facts upon our judgment, e.g. I am perfectly certain
+that A is B, I think that A may be B; with many others of
+a more or less similar type. The question at once arises,
+How are such propositions to be treated? It does not seem
+to have occurred to the old logicians, as to some of their successors
+in modern times, simply to reject all consideration of
+this topic. Their faith in the truth and completeness of
+their system of inference was far too firm for them to suppose
+it possible that forms of proposition universally recognized
+as significant in popular speech, and forms of inference
+universally recognized there as valid, were to be omitted
+because they were inconvenient or complicated.
+
+4. One very simple plan suggests itself, and has indeed
+been repeatedly advocated, viz. just to transfer all that
+is characteristic of such propositions into that convenient receptacle
+for what is troublesome elsewhere, the predicate.[2]
+Has not another so-called modality been thus got rid of?[3]
+and has it not been attempted by the same device to abolish
+the distinctive characteristic of negative propositions, viz. by
+shifting the negative particle into the predicate? It must
+be admitted that, up to a certain point, something may be
+done in this way. Given the reasoning, 'Those who take
+arsenic will probably die; A has taken it, therefore he will
+probably die;' it is easy to convert this into an ordinary
+syllogism of the pure type, by simply wording the major,
+'Those who take arsenic are people-who-will-probably-die,'
+when the conclusion follows in the same form, 'A is one
+who-will-probably-die.' But this device will only carry us
+a very little way. Suppose that the minor premise also is
+of the same modal description, e.g. 'A has probably taken
+arsenic,' and it will be seen that we cannot relegate the
+modality here also to the predicate without being brought to
+a stop by finding that there are four terms in the syllogism.
+
+But even if there were not this particular objection, it
+does not appear that anything is to be gained in the way of
+intelligibility or method by such a device as the above. For
+what is meant by a modal predicate, by the predicate
+'probably mortal,' for instance, in the proposition 'All poisonings
+by arsenic are probably mortal'? If the analogy with
+ordinary pure propositions is to hold good, it must be a
+predicate referring to the _whole_ of the subject, for the subject
+is distributed. But then we are at once launched into
+the difficulties discussed in a former chapter (Ch. VI. §§19-25),
+when we attempt to justify or verify the application of
+the predicate. We have to enquire (at least on the view
+adopted in this work) whether the application of the predicate
+'probably mortal' to the _whole_ of the subject, really
+means at bottom anything else than that the predicate
+'mortal' is to be applied to a _portion_ (more than half) of the
+members denoted by the subject. When the transference of
+the modality to the predicate raises such intricate questions
+as to the sense in which the predicate is to be interpreted,
+there is surely nothing gained by the step.
+
+5. A second, and more summary way of shelving all
+difficulties of the subject, so far at least as logic, or the
+writers upon logic, are concerned, is found by simply denying
+that modality has any connection whatever with logic. This
+is the course adopted by many modern writers, for instance,
+by Hamilton and Mansel, in reference to whom one cannot
+help remarking that an unduly large portion of their logical
+writings seems occupied with telling us what does _not_ belong
+to logic. They justify their rejection on the ground that
+the mode belongs to the matter, and must be determined by
+a consideration of the matter, and therefore is extralogical.
+To a certain extent I agree with their grounds of rejection,
+for (as explained in Chapter VI.) it is not easy to see how
+the degree of modality of any proposition, whether premise
+or conclusion, can be justified without appeal to the matter.
+But then questions of justification, in any adequate sense of
+the term, belong to a range of considerations somewhat alien
+to Hamilton's and Mansel's way of regarding the science.
+The complete justification of our inferences is a matter
+which involves their truth or falsehood, a point with which
+these writers do not much concern themselves, being only
+occupied with the consistency of our reasonings, not with
+their conformity with fact. Were I speaking as a Hamiltonian
+I should say that modality _is_ formal rather than
+material, for though we cannot justify the degree of our
+belief of a proposition without appeal to the matter, we can
+to a moderate degree of accuracy estimate it without any
+such appeal; and this would seem to be quite enough to
+warrant its being regarded as formal.
+
+It must be admitted that Hamilton's account of the
+matter when he is recommending the rejection of the modals,
+is not by any means clear and consistent. He not only fails,
+as already remarked, to distinguish between the formal and
+the material (in other words, the true and the false) modality;
+but when treating of the former he fails to distinguish
+between the extremely diverse aspects of modality when
+viewed from the Aristotelian and the Kantian stand-points.
+Of the amount and significance of this difference we shall
+speak presently, but it may be just pointed out here that
+Hamilton begins (Vol. I. p. 257) by rejecting the modals on
+the ground that the distinctions between the necessary, the
+contingent, the possible, and the impossible, must be wholly
+rested on an appeal to the matter of the propositions, in
+which he is, I think, quite correct. But then a little further
+on (p. 260), in explaining 'the meaning of three terms which
+are used in relation to pure and modal propositions,' he gives
+the widely different Kantian, or three-fold division into the
+apodeictic, the assertory, and the problematic. He does not
+take the precaution of pointing out to his hearers the very
+different general views of logic from which these two accounts
+of modality spring.[4]
+
+6. There is one kind of modal syllogism which it
+would seem unreasonable to reject on the ground of its not
+being formal, and which we may notice in passing. The
+premise 'Any A is probably B,' is equivalent to 'Most A are B.'
+Now it is obvious that from two such premises as 'Most A
+are B,' 'Most A are C,' we can deduce the consequence,
+'Some C are B.' Since this holds good whatever may be
+the nature of A, B, and C, it is, according to ordinary usage
+of the term, a formal syllogism. Mansel, however, refuses to
+admit that any such syllogisms belong to formal logic. His
+reasons are given in a rather elaborate review[5] and criticism
+of some of the logical works of De Morgan, to whom the
+introduction of 'numerically definite syllogisms' is mainly
+due. Mansel does not take the particular example given
+above, as he is discussing a somewhat more comprehensive
+algebraic form. He examines it in a special numerical
+example:[6]--18 out of 21 Ys are X; 15 out of 21 Ys are Z;
+the conclusion that 12 Zs are X is rejected from formal logic
+on the ground that the arithmetical judgment involved is
+synthetical, not analytical, and rests upon an intuition of
+quantity. We cannot enter upon any examination of these
+reasons here; but it may merely be remarked that his
+criticism demands the acceptance of the Kantian doctrines
+as to the nature of arithmetical judgments, and that it would
+be better to base the rejection not on the ground that the
+syllogism is not _formal_, but on the ground that it is not
+_analytical_.
+
+7. There is another and practical way of getting rid
+of the perplexities of modal reasoning which must be noticed
+here. It is the resource of ordinary reasoners rather than the
+decision of professed logicians,[7] and, like the first method of
+evasion already pointed out in this chapter, is of very partial
+application. It consists in treating the premises, during the
+process of reasoning, as if they were pure, and then reintroducing
+the modality into the conclusion, as a sort of
+qualification of its full certainty. When each of the premises
+is nearly certain, or when from any cause we are not
+concerned with the extent of their departure from full certainty,
+this rough expedient will answer well enough. It is,
+I apprehend, the process which passes through the minds of
+most persons in such cases, in so far as they reason consciously.
+They would, presumably, in such an example as that previously
+given (§4), proceed as if the premises that 'those
+who take arsenic will die,' and that 'the man in question
+has taken it,' were quite true, instead of being only probably
+true, and they would consequently draw the conclusion that
+'he would die.' But bearing in mind that the premises are
+not certain, they would remember that the conclusion was
+only to be held with a qualified assent. This they would
+express quite correctly, if the mere nature and not the
+degree of that assent is taken into account, by saying that
+'he is likely to die.' In this case the modality is rejected
+temporarily from the premises to be reintroduced into the
+conclusion.
+
+It is obvious that such a process as this is of a very
+rough and imperfect kind. It does, in fact, omit from accurate
+consideration just the one point now under discussion.
+It takes no account of the varying shades of expression by
+which the degree of departure from perfect conviction is
+indicated, which is of course the very thing with which
+modality is intended to occupy itself. At best, therefore, it
+could only claim to be an extremely rude way of deciding
+questions, the accurate and scientific methods of treating
+which are demanded of us.
+
+8. In any employment of applied logic we have of
+course to go through such a process as that just mentioned.
+Outside of pure mathematics it can hardly ever be the case
+that the premises from which we reason are held with absolute
+conviction. Hence there must be a lapse from absolute
+conviction in the conclusion. But we reason on the hypothesis
+that the premises are true, and any trifling defection
+from certainty, of which we may be conscious, is mentally
+reserved as a qualification to the conclusion. But such considerations
+as these belong rather to ordinary applied logic;
+they amount to nothing more than a caution or hint to be
+borne in mind when the rules of the syllogism, or of induction,
+are applied in practice. When, however, we are
+treating of modality, the extent of the defection from full
+certainty is supposed to be sufficiently great for our language
+to indicate and appreciate it. What we then want is of
+course a scientific discussion of the principles in accordance
+with which this departure is to be measured and expressed,
+both in our premises and in our conclusion. Such a plan
+therefore for treating modality, as the one under discussion,
+is just as much a banishment of it from the field of real
+logical enquiry, as if we had determined avowedly to reject it
+from consideration.
+
+9. Before proceeding to a discussion of the various
+ways in which modality may be treated by those who admit
+it into logic, something must be said to clear up a possible
+source of confusion in this part of the subject. In the
+cases with which we have hitherto been mostly concerned,
+in the earlier chapters of this work, the characteristic of
+modality (for in this chapter we may with propriety use this
+logical term) has generally been found in singular and particular
+propositions. It presented itself when we had to
+judge of individual cases from a knowledge of the average,
+and was an expression of the fact that the proposition relating
+to these individuals referred to a portion only of the
+whole class from which the average was taken. Given that
+of men of fifty-five, three out of five will die in the course of
+twenty years, we have had to do with propositions of the
+vague form, 'It is probable that AB (of that age) will die,'
+or of the more precise form, 'It is three to two that AB will
+die,' within the specified time. Here the modal proposition
+naturally presents itself in the form of a singular or particular
+proposition.
+
+10. But when we turn to ordinary logic we may find
+_universal_ propositions spoken of as modal. This must mostly
+be the case with those which are termed necessary or impossible,
+but it may also be the case with the probable. We
+may meet with the form 'All X is probably Y.' Adopting
+the same explanation here as has been throughout adopted in
+analogous cases, we must say that what is meant by the
+modality of such a proposition is the proportional number of
+times in which the universal proposition would be correctly
+made. And in this there is, so far, no difficulty. The only
+difference is that whereas the justification of the former, viz.
+the particular or individual kind of modal, was obtainable
+within the limits of the universal proposition which included
+it, the justification of the modality of a universal proposition
+has to be sought in a group or succession of other propositions.
+The proposition has to be referred to some group of
+similar ones and we have to consider the proportion of cases
+in which it will be true. But this distinction is not at all
+fundamental.
+
+It is quite true that universal propositions from their
+nature are much less likely than individual ones to be justified,
+in practice, by such appeal. But, as has been already
+frequently pointed out, we are not concerned with the way
+in which our propositions are practically obtained, nor with
+the way in which men might find it most natural to test
+them; but with that ultimate justification to which we appeal
+in the last resort, and which has been abundantly shown
+to be of a statistical character. When, therefore, we say that
+'it is probable that all X is Y,' what we mean is, that in
+more than half the cases we come across we should be right
+in so judging, and in less than half the cases we should be
+wrong.
+
+11. It is at this step that the possible ambiguity is
+encountered. When we talk of the chance that All X is Y,
+we contemplate or imply the complementary chance that it is
+not so. Now this latter alternative is not free from ambiguity.
+It might happen, for instance, in the cases of failure,
+that no X is Y, or it might happen that some X, only, is not Y;
+for both of these suppositions contradict the original proposition,
+and are therefore instances of its failure. In practice,
+no doubt, we should have various recognized rules and
+inductions to fall back upon in order to decide between these
+alternatives, though, of course, the appeal to them would be
+in strictness extralogical. But the mere existence of such an
+ambiguity, and the fact that it can only be cleared up by
+appeal to the subject-matter, are in themselves no real
+difficulty in the application of the conception of modality to
+universal propositions as well as to individual ones.
+
+12. Having noticed some of the ways in which the
+introduction of modality into logic has been evaded or rejected,
+we must now enter into a brief account of its treatment
+by those who have more or less deliberately admitted
+its claims to acceptance.
+
+The first enquiry will be, What opinions have been held
+as to the nature of modality? that is, Is it primarily an affection
+of the matter of the proposition, and, if not, what is it
+exactly? In reference to this enquiry it appears to me, as
+already remarked, that amongst the earlier logicians no such
+clear and consistent distinction between the subjective and
+objective views of logic as is now commonly maintained, can
+be detected.[8] The result of this appears in their treatment
+of modality. This always had some reference to the subjective
+side of the proposition, viz. in this case to the nature
+or quantity of the belief with which it was entertained; but
+it is equally clear that this characteristic was not estimated
+at first hand, so to say, and in itself, but rather from a consideration
+of the matter determining what it should be. The
+commonly accepted scholastic or Aristotelian division, for
+instance, is into the necessary, the contingent, the possible,
+and the impossible. This is clearly a division according to
+the matter almost entirely, for on the purely mental side the
+necessary and the impossible would be just the same; one
+implying full conviction of the truth of a proposition, and the
+other of that of its contradictory. So too, on the same side, it
+would not be easy to distinguish between the contingent and
+the possible. On the view in question, therefore, the modality
+of a proposition was determined by a reference to the nature
+of the subject-matter. In some propositions the nature of
+the subject-matter decided that the predicate was necessarily
+joined to the subject; in others that it was impossible that
+they should be joined; and so on.
+
+13. The artificial character of such a four-fold division
+will be too obvious to modern minds for it to be necessary to
+criticize it. A very slight study of nature and consequent
+appreciation of inductive evidence suffice to convince us that
+those uniformities upon which all connections of phenomena,
+whether called necessary or contingent, depend, demand extremely
+profound and extensive enquiry; that they admit of
+no such simple division into clearly marked groups; and
+that, therefore, the pure logician had better not meddle with
+them.[9]
+
+The following extract from Grote's _Aristotle_ (Vol. I. p. 192)
+will serve to show the origin of this four-fold division,
+its conformity with the science of the day, and consequently
+its utter want of conformity with that of our own time:--"The
+distinction of Problematical and Necessary Propositions
+corresponds, in the mind of Aristotle, to that capital and
+characteristic doctrine of his Ontology and Physics, already
+touched on in this chapter. He thought, as we have seen,
+that in the vast circumferential region of the Kosmos, from
+the outer sidereal sphere down to the lunar sphere, celestial
+substance was a necessary existence and energy, sempiternal
+and uniform in its rotations and influence; and that through
+its beneficent influence, pervading the concavity between the
+lunar sphere and the terrestrial centre (which included the
+four elements with their compounds) there prevailed a regularizing
+tendency called Nature; modified, however, and
+partly counteracted by independent and irregular forces called
+Spontaneity and Chance, essentially unknowable and unpredictable.
+The irregular sequences thus named by Aristotle
+were the objective correlate of the Problematical Proposition
+in Logic. In these sublunary sequences, as to future time,
+_may or may not_, was all that could be attained, even by the
+highest knowledge; certainty, either of affirmation or negation,
+was out of the question. On the other hand, the necessary
+and uniform energies of the celestial substance, formed
+the objective correlate of the Necessary Proposition in Logic;
+this substance was not merely an existence, but an existence
+necessary and unchangeable... he considers the Problematical
+Proposition in Logic to be not purely subjective, as an
+expression of the speaker's ignorance, but something more,
+namely, to correlate with an objective essentially unknowable
+to all."
+
+14. Even after this philosophy began to pass away,
+the divisions of modality originally founded upon it might
+have proved, as De Morgan has remarked,[10] of considerable
+service in mediæval times. As he says, people were much
+more frequently required to decide in one way or the other
+upon a single testimony, without there being a sufficiency of
+specific knowledge to test the statements made. The old
+logician "did not know but that any day of the week might
+bring from Cathay or Tartary an account of men who ran on
+four wheels of flesh and blood, or grew planted in the ground,
+like Polydorus in the Æneid, as well evidenced as a great
+many nearly as marvellous stories." Hence, in default of
+better inductions, it might have been convenient to make
+rough classifications of the facts which were and which were
+not to be accepted on testimony (the necessary, the impossible, &c.),
+and to employ these provisional inductions (which
+is all we should now regard them) as testing the stories
+which reached him. Propositions belonging to the class of
+the impossible might be regarded as having an antecedent
+presumption against them so great as to prevail over almost
+any testimony worth taking account of, and so on.
+
+15. But this old four-fold division of modals continued
+to be accepted and perpetuated by the logicians long
+after all philosophical justification for it had passed away.
+So far as I have been able to ascertain, scarcely any logician
+of repute or popularity before Kant, was bold enough to
+make any important change in the way of regarding them.[11]
+Even the Port-Royal Logic, founded as it is on Cartesianism,
+repeats the traditional statements, though with extreme
+brevity. This adherence to the old forms led, it need not be
+remarked, to considerable inconsistency and confusion in
+many cases. These forms were founded, as we have seen, on
+an objective view of the province of logic, and this view was
+by no means rigidly carried out in many cases. In fact it
+was beginning to be abandoned, to an extent and in directions
+which we have not opportunity here to discuss, before
+the influence of Kant was felt. Many, for instance, added to
+the list of the four, by including the true and the false;
+occasionally also the probable, the supposed, and the certain
+were added. This seems to show some tendency towards
+abandoning the objective for the subjective view, or at least
+indicates a hesitation between them.
+
+16. With Kant's view of modality almost every one is
+familiar. He divides judgments, under this head, into the
+apodeictic, the assertory, and the problematic. We shall have
+to say something about the number and mutual relations of
+these divisions presently; we are now only concerned with
+the general view which they carry out. In this respect it will
+be obvious at once what a complete change of position has
+been reached. The 'necessary' and the 'impossible' demanded
+an appeal to the matter of a proposition in order to
+recognize them; the 'apodeictic' and the 'assertory', on the
+other hand, may be true of almost any matter, for they
+demand nothing but an appeal to our consciousness in order
+to distinguish between them. Moreover, the distinction
+between the assertory and the problematic is so entirely
+subjective and personal, that it may vary not only between
+one person and another, but in the case of the same person
+at different times. What one man knows to be true, another
+may happen to be in doubt about. The apodeictic judgment
+is one which we not only accept, but which we find ourselves
+unable to reverse in thought; the assertory is simply accepted;
+the problematic is one about which we feel in
+doubt.
+
+This way of looking at the matter is the necessary outcome
+of the conceptualist or Kantian view of logic. It has
+been followed by many logicians, not only by those who may
+be called followers of Kant, but by almost all who have felt
+his influence. Ueberweg, for instance, who is altogether at
+issue with Kant on some fundamental points, adopts it.
+
+17. The next question to be discussed is, How many
+subdivisions of modality are to be recognized? The Aristotelian
+or scholastic logicians, as we have seen, adopted a four-fold
+division. The exact relations of some of these to each
+other, especially the possible and the contingent, is an extremely
+obscure point, and one about which the commentators
+are by no means agreed. As, however, it seems tolerably
+clear that it was not consciously intended by the use of these
+four terms to exhibit a graduated scale of intensity of conviction,
+their correspondence with the province of modern
+probability is but slight, and the discussion of them, therefore,
+becomes rather a matter of special or antiquarian interest.
+De Morgan, indeed (_Formal Logic_, p. 232), says that
+the schoolmen understood by contingent more likely than
+not, and by possible less likely than not. I do not know
+on what authority this statement rests, but it credits them
+with a much nearer approach to the modern views of probability
+than one would have expected, and decidedly nearer than
+that of most of their successors.[12] The general conclusion at
+which I have arrived, after a reasonable amount of investigation,
+is that there were two prevalent views on the subject.
+Some (e.g. Burgersdyck, Bk. I. ch. 32) admitted that there
+were at bottom only two kinds of modality; the contingent
+and the possible being equipollent, as also the necessary and
+the impossible, provided the one asserts and the other
+denies. This is the view to which those would naturally
+be led who looked mainly to the nature of the subject-matter.
+On the other hand, those who looked mainly at the form of
+expression, would be led by the analogy of the four forms of
+proposition, and the necessity that each of them should stand
+in definite opposition to each other, to insist upon a distinction
+between the four modals.[13] They, therefore, endeavoured
+to introduce a distinction by maintaining (e.g. Crackanthorpe,
+Bk. III. ch. 11) that the contingent is that which now is but
+may not be, and the possible that which now is not but may
+be. A few appear to have made the distinction correspondent
+to that between the physically and the logically
+possible.
+
+18. When we get to the Kantian division we have
+reached much clearer ground. The meaning of each of these
+terms is quite explicit, and it is also beyond doubt that they
+have a more definite tendency in the direction of assigning a
+graduated scale of conviction. So long as they are regarded
+from a metaphysical rather than a logical standing point,
+there is much to be said in their favour. If we use introspection
+merely, confining ourselves to a study of the judgments
+themselves, to the exclusion of the grounds on which
+they rest, there certainly does seem a clear and well-marked
+distinction between judgments which we cannot even conceive
+to be reversed in thought; those which we could
+reverse, but which we accept as true; and those which we
+merely entertain as possible.
+
+Regarded, however, as a logical division, Kant's arrangement
+seems to me of very little service. For such logical
+purposes indeed, as we are now concerned with, it really
+seems to resolve itself into a _two_-fold division. The distinction
+between the apodeictic and the assertory will be
+admitted, I presume, even by those who accept the metaphysical
+or psychological theory upon which it rests, to be a
+difference which concerns, not the quantity of belief with
+which the judgments are entertained, but rather the violence
+which would have to be done to the mind by the attempt to
+upset them. Each is fully believed, but the one can, and
+the other cannot, be controverted. The belief with which an
+assertory judgment is entertained is full belief, else it would
+not differ from the problematic; and therefore in regard to
+the quantity of belief, as distinguished from the quality or
+character of it, there is no difference between it and the apodeictic.
+It is as though, to offer an illustration, the index
+had been already moved to the top of the scale in the assertory
+judgment, and all that was done to convert this into
+an apodeictic one, was to _clamp_ it there. The only logical
+difference which then remains is that between problematic
+and assertory, the former comprehending all the judgments
+as to the truth of which we have any degree of doubt, and
+the latter those of which we have no doubt. The whole
+range of the former, therefore, with which Probability is
+appropriately occupied, is thrown undivided into a single
+compartment. We can hardly speak of a 'division' where
+one class includes everything up to the boundary line, and
+the other is confined to that boundary line. Practically,
+therefore, on this view, modality, as the mathematical student
+of Probability would expect to find it, as completely
+disappears as if it were intended to reject it.
+
+19. By less consistent and systematic thinkers, and
+by those in whom ingenuity was an over prominent feature,
+a variety of other arrangements have been accepted or proposed.
+There is, of course, some justification for such attempts
+in the laudable desire to bring our logical forms into better
+harmony with ordinary thought and language. In practice,
+as was pointed out in an earlier chapter, every one recognizes
+a great variety of modal forms, such as 'likely,' 'very
+likely,' 'almost certainly,' and so on almost without limit in
+each direction. It was doubtless supposed that, by neglecting
+to make use of technical equivalents for some of these
+forms, we should lose our logical control over certain possible
+kinds of inference, and so far fall short even of the precision
+of ordinary thought.
+
+With regard to such additional forms, it appears to me
+that all those which have been introduced by writers who
+were uninfluenced by the Theory of Probability, have done
+little else than create additional confusion, as such writers do
+not attempt to marshal their terms in order, or to ascertain
+their mutual relations. Omitting, of course, forms obviously
+of material modality, we have already mentioned the true
+and the false; the probable, the supposed, and the certain.
+These subdivisions seem to have reached their climax at a
+very early stage in Occam (Prantl, III. 380), who held that a
+proposition might be modally affected by being 'vera, scita,
+falsa, ignota, scripta, prolata, concepta, credita, opinata, dubitata.'
+
+20. Since the growth of the science of Probability,
+logicians have had better opportunities of knowing what
+they had to aim at; and, though it cannot be said that their
+attempts have been really successful, these are at any rate a
+decided improvement upon those of their predecessors. Dr
+Thomson,[14] for instance, gives a nine-fold division. He says
+that, arranging the degrees of modality in an ascending
+scale, we find that a judgment may be either possible,
+doubtful, probable, morally certain for the thinker himself,
+morally certain for a class or school, morally certain for all,
+physically certain with a limit, physically certain without
+limitation, and mathematically certain. Many other divisions
+might doubtless be mentioned, but, as every mathematician
+will recognize, the attempt to secure any general
+agreement in such a matter of arrangement is quite hopeless.
+It is here that the beneficial influence of the mathematical
+theory of Probability is to be gratefully acknowledged. As
+soon as this came to be studied it must have been perceived
+that in attempting to mark off clearly from one another
+certain gradations of belief, we should be seeking for breaches
+in a continuous magnitude. In the advance from a slight
+presumption to a strong presumption, and from that to moral
+certainty, we are making a gradual ascent, in the course of
+which there are no natural halting-places. The proof of this
+continuity need not be entered upon here, for the materials
+for it will have been gathered from almost every chapter of
+this work. The reader need merely be reminded that the
+grounds of our belief, in all cases which admit of number and
+measurement, are clearly seen to be of this description; and
+that therefore unless the belief itself is to be divorced from
+the grounds on which it rests, what thus holds as to their
+characteristics must hold also as to its own.
+
+It follows, therefore, that modality in the old sense of the
+word, wherein an attempt was made to obtain certain natural
+divisions in the scale of conviction, must be finally abandoned.
+All that it endeavoured to do can now be done incomparably
+better by the theory of Probability, with its numerical scale
+which admits of indefinite subdivision. None of the old systems
+of division can be regarded as a really natural one;
+those which admit but few divisions being found to leave the
+whole range of the probable in one unbroken class, and those
+which adopt many divisions lapsing into unavoidable vagueness
+and uncertainty.
+
+21. Corresponding to the distinction between pure
+and modal propositions, but even more complicated and
+unsatisfactory in its treatment, was that between pure and
+modal syllogisms. The thing discussed in the case of the
+latter was, of course, the effect produced upon the conclusion
+in respect of modality, by the modal affection of one or both
+premises. It is only when we reach such considerations as
+these that we are at all getting on to the ground appropriate
+to Probability; but it is obvious that very little could be
+done with such rude materials, and the inherent clumsiness
+and complication of the whole modal system come out very
+clearly here. It was in reference probably to this complication
+that some of the bitter sayings[15] of the schoolmen and
+others which have been recorded, were uttered.
+
+Aristotle has given an intricate investigation of this subject,
+and his followers naturally were led along a similar
+track. It would be quite foreign to my purpose in the slight
+sketch in this chapter to attempt to give any account of
+these enquiries, even were I competent to do so; for, as has
+been pointed out, the connection between the Aristotelian
+modals and the modern view of the nature of Probability,
+though real, is exceedingly slight. It need only be remarked
+that what was complicated enough with four modals to be
+taken account of, grows intricate beyond all endurance when
+such as the 'probable' and the 'true' and the 'false' have
+also to be assigned a place in the list. The following examples[16]
+will show the kind of discussions with which the logicians
+exercised themselves. 'Whether, with one premise
+certain, and the other probable, a certain conclusion may be
+inferred': 'Whether, from the impossible, the necessary can
+be inferred'; 'Whether, with one premise necessary and the
+other _de inesse_, the conclusion is necessary', and so on,
+endlessly.
+
+22. On the Kantian view of modality the discussion
+of such kinds of syllogisms becomes at once decidedly more
+simple (for here but three modes are recognized), and also
+somewhat more closely connected with strict Probability, (for
+the modes are more nearly of the nature of gradations of
+conviction). But, on the other hand, there is less justification
+for their introduction, as logicians might really be expected
+to know that what they are aiming to effect by their clumsy
+contrivances is the very thing which Probability can carry
+out to the highest desired degree of accuracy. The former
+methods are as coarse and inaccurate, compared with the
+latter, as were the roughest measurements of Babylonian
+night-watchers compared with the refined calculations of the
+modern astronomer. It is indeed only some of the general
+adherents of the Kantian Logic who enter upon any such
+considerations as these; some, such as Hamilton and Mansel,
+entirely reject them, as we have seen. By those who do
+treat of the subject, such conclusions as the following are laid
+down; that when both premises are apodeictic the conclusion
+will be the same; so when both are assertory or problematic.
+If one is apodeictic and the other assertory, the latter, or
+'weaker,' is all that is to be admitted for the conclusion;
+and so on. The English reader will find some account of
+these rules in Ueberweg's _Logic_.[17]
+
+23. But although those modals, regarded as instruments
+of accurate thought, have been thus superseded by the
+precise arithmetical expressions of Probability, the question
+still remains whether what may be termed our popular modal
+expressions could not be improved and adapted to more
+accurate use. It is true that the attempt to separate them
+from one another by any fundamental distinctions is futile,
+for the magnitude of which they take cognizance is, as we
+have remarked, continuous; but considering the enormous
+importance of accurate terminology, and of recognizing
+numerical distinctions wherever possible, it would be a real
+advance if any agreement could be arrived at with regard to
+the use of modal expressions. We have already noticed (Ch. II. §16)
+some suggestions by Mr Galton as to the possibility
+of a natural system of classification, resting upon the regularity
+with which most kinds of magnitudes tend to group
+themselves about a mean. It might be proposed, for instance,
+that we should agree to apply the term 'good'
+to the first quarter, measuring from the best downwards;
+'indifferent' to the middle half, and 'bad' to the last quarter.
+There seems no reason why a similarly improved terminology
+should not some day be introduced into the ordinary modal
+language of common life. It might be agreed, for instance,
+that 'very improbable' should as far as possible be confined
+to those events which had odds of (say) more than 99 to 1
+against them; and so on, with other similar expressions.
+There would, no doubt, be difficulties in the way, for in all
+applications of classification we have to surmount the two-fold
+obstacles which lie in the way, firstly (to use Kant's
+expression) of the faculty of making rules, and secondly of
+that of subsumption under rules. That is to say, even if we
+had agreed upon our classes, there would still be much doubt
+and dispute, in the case of things which did not readily lend
+themselves to be counted or measured, as to whether the
+odds were more or less than the assigned quantity.
+
+It is true that when we know the odds for or against an
+event, we can always state them explicitly without the necessity
+of first agreeing as to the usage of terms which shall
+imply them. But there would often be circumlocution and
+pedantry in so doing, and as long as modal terms are in
+practical use it would seem that there could be no harm, and
+might be great good, in arriving at some agreement as to the
+degree of probability which they should be generally understood
+to indicate. Bentham, as is well known, in despair of
+ever obtaining anything accurate out of the language of common
+life on this subject, was in favour of a direct appeal to
+the numerical standard. He proposed the employment, in
+judicial trials, of an instrument, graduated from 0 to 10, on
+which scale the witness was to be asked to indicate the degree
+of his belief of the facts to which he testified: similarly
+the judge might express the force with which he held his
+conclusion. The use of such a numerical scale, however, was
+to be optional only, not compulsory, as Bentham admitted
+that many persons might feel at a loss thus to measure the
+degree of their belief. (_Rationale of Judicial Evidence_,
+Bk. I., Ch. VI.)
+
+24. Throughout this chapter we have regarded the
+modals as the nearest counterpart to modern Probability
+which was afforded by the old systems of logic. The reason
+for so regarding them is, that they represented some slight
+attempt, rude as it was, to recognize and measure certain
+gradations in the degree of our conviction, and to examine
+the bearing of such considerations upon our logical inferences.
+
+But although it is amongst the modals that the germs of
+the methods of Probability are thus to be sought; the true
+subject-matter of our science, that is, the classes of objects
+with which it is most appropriately concerned, are rather
+represented by another part of the scholastic logic. This
+was the branch commonly called Dialectic, in the old sense
+of that term. Dialectic, according to Aristotle, seems to
+have been a sort of sister art to Rhetoric. It was concerned
+with syllogisms differing in no way from demonstrative syllogisms,
+except that their premises were probable instead of
+certain. Premises of this kind he termed topics, and the
+syllogisms which dealt with them enthymemes. They were
+said to start from 'signs and likelihoods' rather than from
+axioms.[18]
+
+25. The terms in which such reasonings are commonly
+described sound very much like those applicable to
+Probability, as we now understand it. When we hear of
+likelihood, and of probable syllogisms, our first impression
+might be that the inferences involved would be of a similar
+character.[19] This, however, would be erroneous. In the
+first place the province of this Dialectic was much too wide,
+for it covered in addition the whole field of what we should
+now term Scientific or Material Induction. The distinctive
+characteristic of the dialectic premises was their want of
+certainty, and of such uncertain premises Probability (as I
+have frequently insisted) takes account of one class only,
+Induction concerning itself with another class. Again, not the
+slightest attempt was made to enter upon the enquiry, _How_
+uncertain are the premises? It is only when this is attempted
+that we can be considered to enter upon the field of
+Probability, and it is because, after a rude fashion, the modals
+attempted to grapple with this problem, that we have regarded
+them as in any way occupied with our special subject-matter.
+
+26. Amongst the older logics with which I have made
+any acquaintance, that of Crackanthorpe gives the fullest discussion
+upon this subject. He divides his treatment of the
+syllogism into two parts, occupied respectively with the 'demonstrative'
+and the 'probable' syllogism. To the latter a
+whole book is devoted. In this the nature and consequences
+of thirteen different 'loci'[20] are investigated, though it is not
+very clear in what sense they can every one of them be regarded
+as being 'probable.'
+
+It is doubtless true, that if the old logicians had been
+in possession of such premises as modern Probability is concerned
+with, and had adhered to their own way of treating
+them, they would have had to place them amongst such _loci_,
+and thus to make the consideration of them a part of their
+Dialectic. But inasmuch as there does not seem to have
+been the slightest attempt on their part to do more here
+than recognize the _fact_ of the premises being probable; that
+is, since it was not attempted to _measure_ their probability
+and that of the conclusion, I cannot but regard this part of
+Logic as having only the very slightest relation to Probability
+as now conceived. It seems to me little more than
+one of the ways (described at the commencement of this
+chapter) by which the problem of Modality is not indeed rejected,
+but practically evaded.
+
+27. As Logic is not the only science which is directly
+and prominently occupied with questions about belief and
+evidence, so the difficulties which have arisen there have
+been by no means unknown elsewhere. In respect of the
+modals, this seems to have been manifestly the case in Jurisprudence.
+Some remarks, therefore, may be conveniently
+made here upon this application of the subject, though of
+course with the brevity suitable on the part of a layman who
+has to touch upon professional topics.
+
+Recall for a moment what are the essentials of modality.
+These I understand to be the attempt to mark off from one
+another, without any resort to numerical notation, varying
+degrees of conviction or belief, and to determine the consequent
+effect of premises, thus affected, upon our conclusions.
+Moreover, as we cannot construct or retain a scale of any
+kind without employing a standard from and by which to
+measure it, the attainment and recognition of a standard of
+certainty, or of one of the other degrees of conviction, is
+almost inseparably involved in the same enquiry. In this
+sense of the term, modal difficulties have certainly shown
+themselves in the department of Law. There have been
+similar attempts here, encountered by similar difficulties, to
+come to some definite agreement as to a scale of arrangement
+of the degrees of our assent. It is of course much
+more practicable to secure such agreement in the case of a
+special science, confined more or less to the experts, than in
+subjects into which all classes of outsiders have almost equal
+right of entry. The range of application under the former
+circumstances is narrower, and the professional experts have
+acquired habits and traditions by which the standards may
+be retained in considerable integrity. It does not appear,
+however, according to all accounts, as if any very striking
+success had been attained in this direction by the lawyers.
+
+28. The difficulty in its scientific, or strictly jurisprudential
+shape, seems to have shown itself principally in the
+attempt to arrange legal evidence into classes in respect of
+the degree of its cogency. This, I understand, was the case
+in the Roman law, and in some of the continental systems of
+jurisprudence which took their rise from the Roman law.
+"The direct evidence of so many witnesses was _plena probatio_.
+Then came _minus plena probatio_, then _semiplenâ
+major_ and _semiplenâ minor_; and by adding together a
+certain number of half-proofs--for instance, by the production
+of a tradesman's account-books, _plus_ his supplementary
+oath--full proof might be made out. It was on
+this principle that torture was employed to obtain a confession.
+The confession was evidence suppletory to the circumstances
+which were held to justify its employment."[21]
+
+According to Bentham,[22] the corresponding scale in the
+English school was:--Positive proof, Violent presumption.
+Probable presumption, Light or Rash presumption. Though
+admitted by Blackstone and others, I understand that these
+divisions are not at all generally accepted at the present
+day.
+
+29. In the above we are reminded rather of modal
+syllogisms. The principal practical form in which the difficulty
+underlying the simple modal propositions presents
+itself, is in the attempt to obtain some criterion of judicial
+certainty. By 'certainty' here we mean, of course, not what
+the metaphysicians term apodeictic,[23] for that can seldom or
+never be secured in practical affairs, but such a degree of
+conviction, short of this, as every reasonable person will feel
+to be sufficient for all his wants. Here again, one would
+think, the quest must appear, to accurate thinkers, an utterly
+hopeless one; an effort to discover natural breaks in a continuous
+magnitude. There cannot indeed be the least doubt
+that, amongst limited classes of keen and practised intellects,
+a standard of certainty, as of everything else, might be retained
+and handed down with considerable accuracy: this is
+possible in matters of taste and opinion where personal peculiarities
+of judgment are far more liable to cause disagreement
+and confusion. But then such a consensus is almost entirely
+an affair of tact and custom; whereas what is wanted in the
+case in question is some criterion to which the comparatively
+uninitiated may be able to appeal. The standard, therefore,
+must not merely be retained by recollection, but be generally
+recognizable by its characteristics. If such a criterion could
+be secured, its importance could hardly be overrated. But
+so far as one may judge from the speeches of counsel, the
+charges of judges, and the verdicts of juries, nothing really
+deserving the name is ever attained.
+
+30. The nearest approach, perhaps, to a recognized
+standard is to be found in the frequent assurance that juries
+are not bound to convict only in case they have _no_ doubt of
+the guilt of the accused; for the absolute exclusion of all
+doubt, the utter impossibility of suggesting any counter
+hypothesis which this assumes, is unattainable in human
+affairs. But, it is frequently said, they are to convict if
+they have no 'reasonable doubt,' no such doubt, that is,
+as would be 'a hindrance to acting in the important affairs
+of life.' As a caution against seeking after unattainable
+certainty, such advice may be very useful; but it need
+hardly be remarked that the certainty upon which we act in
+the important affairs of life is no fixed standard, but varies
+exceedingly according to the nature of those affairs. The
+greater the reward at stake, the greater the risk we are
+prepared to run, and conversely. Hardly any degree of certainty
+can exist, upon the security of which we should not
+be prepared to act under appropriate circumstances.[24]
+
+Some writers indeed altogether deny that any standard,
+in the common sense of the word, either is, or ought to be,
+aimed at in legal proceedings. For instance, Sir J. F.
+Stephen, in his work on English Criminal Law,[25] after
+noticing and rejecting such standards as that last indicated,
+comes to the conclusion that the only standard recognized
+by our law is that which induces juries to convict:--"What
+is judicial proof? That which being permitted by
+law to be given in evidence, induces twelve men, chosen
+according to the Jury Act, to say that, having heard it, their
+minds are satisfied of the truth of the proposition which it
+affirms. They may be prejudiced, they may be timid, they
+may be rash, they may be ignorant; but the oath, the
+number, and the property qualification, are intended, as far
+as possible, to neutralize these disadvantages, and answer
+precisely to the conditions imposed upon standards of value
+or length." (p. 263.)
+
+To admit this is much about the same thing as to abandon
+such a standard as unattainable. Evidence which induces
+a jury to convict may doubtless be a standard to me and
+others of what we ought to consider 'reasonably certain,'
+provided of course that the various juries are tolerably uniform
+in their conclusions. But it clearly cannot be proposed
+as a standard to the juries themselves; if their decisions are
+to be consistent and uniform, they want some external indication
+to guide them. When a man is asking, _How_ certain
+ought I to feel? to give such an answer as the above is,
+surely, merely telling him that he is to be as certain as
+he is. If, indeed, juries composed a close profession, they
+might, as was said above, retain a traditional standard. But
+being, as they are, a selection from the ordinary lay public,
+their own decisions in the past can hardly be held up to
+them as a direction what they are to do in future.
+
+31. It would appear therefore that we may fairly say
+that the English law, at any rate, definitely rejects the main
+assumption upon which the logical doctrine of modality and
+its legal counterpart are based: the assumption, namely, that
+different grades of conviction can be marked off from one
+another with sufficient accuracy for us to be able to refer
+individual cases to their corresponding classes. And that
+with regard to the collateral question of fixing a standard of
+certainty, it will go no further than pronouncing, or implying,
+that we are to be content with nothing short of, but
+need not go beyond, 'reasonable certainty.'
+
+This is a statement of the standard, with which the
+logician and scientific man can easily quarrel; and they
+may with much reason maintain that it has not the slightest
+claim to accuracy, even if it had one to strict intelligibility.
+If a man wishes to know whether his present degree of certainty
+_is_ reasonable, whither is he to appeal? He can
+scarcely compare his mental state with that which is experienced
+in 'the important affairs of life,' for these, as
+already remarked, would indicate no fixed value. At the
+same time, one cannot suppose that such an expression is
+destitute of all signification. People would not continue to
+use language, especially in matters of paramount importance
+and interest, without meaning something by it. We are
+driven therefore to conclude that 'reasonable certainty' does
+in a rude sort of way represent a traditional standard to
+which it is attempted to adhere. As already remarked, this
+is perfectly practicable in the case of any class of professional
+men, and therefore not altogether impossible in the case of
+those who are often and closely brought into connection with
+such a class. Though it is hard to believe that any such
+expressions, when used for purposes of ordinary life, attain
+at all near enough to any conventional standard to be worth
+discussion; yet in the special case of a jury, acting under
+the direct influence of a judge, it seems quite possible that
+their deliberate assertion that they are 'fully convinced'
+may reach somewhat more nearly to a tolerably fixed standard
+than ordinary outsiders would at first think likely.
+
+32. Are there then any means by which we could
+ascertain what this standard is; in other words, by which we
+could determine what is the real worth, in respect of accuracy,
+of this 'reasonable certainty' which the juries are supposed
+to secure? In the absence of authoritative declarations
+upon the subject, the student of Logic and Probability
+would naturally resort to two means, with a momentary
+notice of which we will conclude this enquiry.
+
+The first of these would aim at determining the standard
+of judicial certainty indirectly, by simply determining the
+statistical frequency with which the decisions (say) of a jury
+were found to be correct. This may seem to be a hopeless
+task; and so indeed it is, but not so much on any theoretic
+insufficiency of the determining elements as on account of
+the numerous arbitrary assumptions which attach to most
+of the problems which deal with the probability of testimony
+and judgments. It is not necessary for this purpose that we
+should have an infallible superior court which revised the
+decisions of the one under consideration;[26] it is sufficient if a
+large number of ordinary representative cases are submitted
+to a court consisting even of exactly similar materials to the
+one whose decisions we wish to test. Provided always that we
+make the monstrous assumption that the judgments of men
+about matters which deeply affect them are 'independent'
+in the sense in which the tosses of pence are independent,
+then the statistics of mere agreement and disagreement will
+serve our purpose. We might be able to say, for instance,
+that a jury of a given number, deciding by a given majority,
+were right nine times out of ten in their verdict. Conclusions
+of this kind, in reference to the French courts, are
+what Poisson has attempted at the end of his great work on
+the Probability of Judgments; though I do not suppose that
+he attached much numerical accuracy to his results.
+
+A scarcely more hopeful means would be found by a
+reference to certain cases of legal 'presumptions.' A 'conclusive
+presumption' is defined as follows:--"Conclusive, or
+as they are elsewhere termed imperative or absolute presumptions
+of law, are rules determining the quantity of evidence
+requisite for the support of any particular averment
+which is not permitted to be overcome by any proof that the
+fact is otherwise."[27] A large number of such presumptions
+will be found described in the text-books, but they seem to
+refer to matters far too vague, for the most part, to admit of
+any reduction to statistical frequency of occurrence. It is
+indeed maintained by some authorities that any assignment
+of degree of Probability is not their present object, but that
+they are simply meant to exclude the troublesome delays
+that would ensue if everything were considered open to
+doubt and question. Moreover, even if they did assign a
+degree of certainty this would rather be an indication of
+what legislators or judges thought reasonable than of what
+was so considered by the juries themselves.
+
+There are indeed presumptions as to the time after which
+a man, if not heard of, is supposed to be dead (capable of
+disproof, of course, by his reappearance). If this time varied
+with the age of the man in question, we should at once have
+some such standard as we desire, for a reference to the Life
+tables would fix his probable duration of life, and so determine
+indirectly the measure of probability which satisfied
+the law. But this is not the case; the period chosen is
+entirely irrespective of age. The nearest case in point (and
+that does not amount to much) which I have been able to
+ascertain is that of the age after which it has been presumed
+that a woman was incapable of bearing children.
+This was the age of 53. A certain approach to a statistical
+assignment of the chances in this case is to be found in
+Quetelet's _Physique Sociale_ (Vol. I. p. 184, note). According
+to the authorities which he there quotes it would seem that
+in about one birth in 5500 the mother was of the age of 50
+or upwards. This does not quite assign the degree of what
+may be called the _à priori_ chance against the occurrence of a
+birth at that age, because the fact of having commenced a
+family at an early age represents some diminution of the
+probability of continuing it into later life. But it serves to
+give some indication of what may be called the odds against
+such an event.
+
+It need not be remarked that any such clues as these to
+the measure of judicial certainty are far too slight to be of
+any real value. They only deserve passing notice as a possible
+logical solution of the problem in question, or rather as
+an indication of the mode in which, in theory, such a solution
+would have to be sought, were the English law, on those
+subjects, a perfectly consistent scheme of scientific evidence.
+This is the mode in which one would, under those circumstances,
+attempt to extract from its proceedings an admission
+of the exact measure of that standard of certainty which it
+adopted, but which it declined openly to enunciate.
+
+
+1. _Formal Logic_, p. 232.
+
+2. This appears to be the purport of some statements in a very
+  confused passage in Whately's _Logic_ (Bk. II., ch. IV. §1). "A
+  modal proposition may be stated as a pure one by attaching the mode
+  to one of the terms, and the proposition will in all respects fall
+  under the foregoing rules;... 'It is probable that all knowledge is
+  useful;' 'probably useful' is here the predicate." He draws
+  apparently no such distinction as that between the true and false
+  modality referred to in the next note. What is really surprising is
+  that even Hamilton puts the two (the true and the false modality)
+  upon the same footing. "In regard to these [the former] the case is
+  precisely the same; the mode is merely a part of the predicate."
+  _Logic_, I. 257.
+
+3. I allude of course to such examples as 'A killed B unjustly,' in
+  which the killing of B by A was sometimes said to be asserted not
+  simply but with a modification. (Hamilton's _Logic_, I. 256.) It is
+  obvious that the modification in such cases is by rights merely a
+  part of the predicate, there being no formal distinction between 'A
+  is the killer of B' and 'A is the unjust killer of B.' Indeed some
+  logicians who were too conservative to reject the generic name of
+  modality in this application adopted the common expedient of
+  introducing a specific distinction which did away with its meaning,
+  terming the spurious kind 'material modality' and the genuine kind
+  'formal modality'. The former included all the cases in which the
+  modification belonged by right either to the predicate or to the
+  subject; the latter was reserved for the cases in which the
+  modification affected the real conjunction of the predicate with the
+  subject. (Keckermann, _Systema Logicæ_, Lib. II. ch. 3.) It was, I
+  believe, a common scholastic distinction.
+
+  For some account of the dispute as to whether the negative particle
+  was to be considered to belong to the copula or to the predicate,
+  see Hamilton's _Logic_, I. 253.
+
+4. He has also given a short discussion of the subject elsewhere
+  (_Discussions_, Ed. II. p. 702), in which a somewhat different view
+  is taken. The modes are indeed here admitted into logic, but only
+  in so far as they fall by subdivision under the relation of genus
+  and species, which is of course tantamount to their entire
+  rejection; for they then differ in no essential way from any other
+  examples of that relation.
+
+5. _Letters, Lectures and Reviews_, p. 61. Elsewhere in the review
+  (p. 45) he gives what appears to me a somewhat different decision.
+
+6. It must be remembered that this is not one of the proportional
+  propositions with which we have been concerned in previous chapters:
+  it is meant that there are _exactly_ 21 Ys, of which just 18 are X,
+  not that on the average 18 out of 21 may be so regarded.
+
+7. I consider however, as I have said further on (p. 320), that the
+  treatment in the older logics of Probable syllogisms, and Dialectic
+  syllogisms, came to somewhat the same thing as this, though they
+  looked at the matter from a different point of view, and expressed
+  it in very different language.
+
+8. The distinction is however by no means entirely neglected. Thus
+  Smiglecius, when discussing the modal affections of certainty and
+  necessity, says, "certitudo ad cognitionem spectat: necessitas vero
+  est in re" (_Disputationes;_ Disp. XIII., Quæst. XII.).
+
+9. It may be remarked that Whately (_Logic_, Bk. II. ch. II. §2)
+  speaks of necessary, impossible and contingent matter, without any
+  apparent suspicion that they belong entirely to an obsolete point of
+  view.
+
+10. _Formal Logic_, p. 233.
+
+11. The subject was sometimes altogether omitted, as by Wolf. He says
+  a good deal however about probable propositions and syllogisms, and,
+  like Leibnitz before him, looked forward to a "logica probabilium"
+  as something new and desirable. I imagine that he had been
+  influenced by the writers on Chances, as of the few who had already
+  treated that subject nearly all the most important are referred to
+  in one passage (_Philosophia Rationalis sive Logica_, §593).
+
+  Lambert stands quite apart. In this respect, as in most others where
+  mathematical conceptions and symbols are involved, his logical
+  attitude is thoroughly unconventional. See, for instance, his
+  chapter 'Von dem Wahrscheinlichen', in his _Neues Organon_.
+
+12. I cannot find the slightest authority for the statement in the
+  elaborate history of Logic by Prantl.
+
+13. "Hi quatuor modi magnam censeri solent analogiam habere cum
+  quadruplici propositionum in quantitate et qualitate varietate"
+  (Wallis's _Instit. Logic._ Bk. II. ch. 8).
+
+14. _Laws of Thought_, §118.
+
+15. "Haud scio magis ne doctrinam modalium scholastici exercuerint,
+  quam ea illos vexarit. Certe usque adeo sudatum hic fuit, ut
+  dicterio locus sit datus; _De modalibus non gustabit asinus_."
+  Keckermann, _Syst. Log._ Bk. II. ch. 3.
+
+16. _Smiglecii Disputationes_, Ingolstadt, 1618.
+
+  See also Prantl's _Geschichte der Logik_ (under _Occam_ and
+  _Buridan_) for accounts of the excessive complication which the
+  subtlety of those learned schoolmen evolved out of such suitable
+  materials.
+
+17. Translation by T. M. Lindsay, p. 439.
+
+18. "The εἰκòς and σημεῖον themselves are propositions; the former
+  stating a _general probability_, the latter a fact, which is known
+  to be an indication, more or less certain, of the truth of some
+  further statement, whether of a single fact, or of a general
+  belief. The former is a general proposition, nearly, though not
+  quite, universal; as 'most men who envy hate'; the latter is a
+  _singular_ proposition, which however is not regarded as a sign,
+  except relatively to some other proposition, which it is supposed
+  may by inferred from it." (Mansel's Aldrich; Appendix F, where an
+  account will be found of the Aristotelian enthymeme, and dialectic
+  syllogism. Also, of course, Grote's Aristotle, _Topics_ and
+  elsewhere.)
+
+19. "Nam in hoc etiam differt demonstratio, sen demonstrativa
+  argumentatio, à probabili, quia in illâ tam conclusio quam præmissæ
+  necessariæ sunt; in probabili autem argumentatione sicut conclusio
+  ut probabilis infertur ita præmissæ ut probabiles afferuntur"
+  (Crackanthorpe, Bk. V., Ch. 1); almost the words with which De
+  Morgan distinguishes between logic and probability in a passage
+  already cited (see Ch. VI. §3).
+
+  Perhaps it was a development of some such view as this that Leibnitz
+  looked forward to. "J'ai dit plus d'une fois qu'il faudrait une
+  nouvelle espèce de Logique, qui traiteroit des degrés de
+  Probabilité, puisqu'Aristote dans ses Topiques n'a rien moins fait
+  que cela" (_Nouveaux essais_, Lib. IV. ch. XVI). It is possible,
+  indeed, that he had in his mind more what we now understand by the
+  mathematical theory of Probability, but in the infancy of a science
+  it is of course hard to say whether any particular subject is
+  definitely contemplated or not. Leibnitz (as Todhunter has shown in
+  his history) took the greatest interest in such chance problems as
+  had yet been discussed.
+
+20. By _loci_ were understood certain general classes of
+  premises. They stood, in fact, to the major premise in somewhat the
+  same relation that the Category or Predicament did to the
+  term. Crackanthorpe says of them, "sed duci a _loco probabiliter
+  arguendi_, hoc vere proprium est Argumentationis probabilis; et in
+  hoc a Demonstratione differt, quia Demonstrator utitur solummodo
+  quatuor Locis eisque necessariis.... Præter hos autem, ex quibus
+  quoque probabiliter arguere licet, sunt multo plures Loci arguendi
+  probabiliter; ut a Genere, a Specie, ab Adjuncto, ab Oppositis, et
+  similia" (_Logica_, Lib. V., ch. II.).
+
+21. Stephen's _General View of the Criminal Law of England_, p. 241.
+
+22. _Rationale of Judicial Evidence_; Bk. I. ch. VI.
+
+23. Though this is claimed by some Kantian logicians;--Nie darf an
+  einem angeblichen Verbrecher die gesetzliche Strafe vollzogen
+  werden, bevor er nicht selbst das Verbrechen eingestanden. Denn wenn
+  auch alle Zeugnisse und die übrigen Anzeigen wider ihn wären, so
+  bleibt doch das Gegentheil immer möglich" (Krug, _Denklehre_, §131).
+
+24. As Mr C. J. Monro puts it: "Suppose that a man is suspected of
+  murdering his daughter. Evidence which would not convict him before
+  an ordinary jury might make a grand jury find a true bill; evidence
+  which would not do this might make a coroner's jury bring in a
+  verdict against him; evidence which would not do this would very
+  often prevent a Chancery judge from appointing the man guardian to a
+  ward of the court; evidence which would not affect the judge's mind
+  might make a father think twice on his death-bed before he appointed
+  the man guardian to _his_ daughter."
+
+25. The portions of this work which treat of the nature of proof in
+  general, and of judicial proof in particular, are well worth reading
+  by every logical student. It appears to me, however, that the author
+  goes much too far in the direction of regarding proof as subjective,
+  that is as what _does_ satisfy people, rather than as what _should_
+  satisfy them. He compares the legislative standard of certainty with
+  that of value; this latter is declared to be a certain weight of
+  gold, irrespective of the rarity or commonness of that metal. So
+  with certainty; if people grow more credulous the intrinsic value of
+  the standard will vary.
+
+26. The question will be more fully discussed in a future chapter, but
+  a few words may be inserted here by way of indication. Reduce the
+  case to the simplest possible elements by supposing only two judges
+  or courts, of the same average correctness of decision. Let this be
+  indicated by x. Then the chance of their agreeing is
+  x^{2} + (1 - x)^{2}, for they agree if both are right or both wrong.
+  If the statistical frequency of this agreement is known, that is, the
+  frequency with which the first judgment is confirmed by the second,
+  we have the means of determining x.
+
+27. Taylor on Evidence: the latter part of the extract does not seem
+  very clear.
+
+
+
+

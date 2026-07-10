@@ -1,0 +1,1515 @@
+
+  TRANSCRIBER'S NOTE
+
+  Italic text is denoted by _underscores_.
+
+  Bold text is denoted by =equal signs=.
+
+  A superscript is denoted by ^{x}. For example, y^{4} indicates y to
+  the power 4.
+
+  A subscript is denoted by {x}. For example, a{ik} indicates the ik-th
+  element of array a.
+
+  Algebraic expressions in the original text usually had the variables in
+  italic. The italic underscore markup has been removed for readability,
+  so for example: _dx_{i}_ = λ′_d_′_x_{i}_ + λ″_d″x_{i}_
+  has been changed to: dx{i} = λ′d′x{i} + λ″d″x{i}
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  More detail can be found at the end of the book.
+
+
+
+
+  THE FOUNDATIONS OF GEOMETRY.
+
+
+
+
+  London: C. J. CLAY AND SONS,
+
+  CAMBRIDGE UNIVERSITY PRESS WAREHOUSE,
+  AVE MARIA LANE.
+
+  Glasgow: 263, ARGYLE STREET.
+
+  [Illustration]
+
+  Leipzig: F. A. BROCKHAUS.
+  New York: THE MACMILLAN COMPANY.
+  Bombay: GEORGE BELL AND SONS.
+
+
+
+
+  AN ESSAY
+
+  ON THE
+
+  FOUNDATIONS OF GEOMETRY
+
+  BY
+
+  BERTRAND A. W. RUSSELL. M.A.
+
+  FELLOW OF TRINITY COLLEGE, CAMBRIDGE.
+
+  CAMBRIDGE:
+  AT THE UNIVERSITY PRESS.
+
+  1897
+
+  [_All Rights reserved._]
+
+
+  Cambridge:
+
+  PRINTED BY J. AND C. F. CLAY,
+  AT THE UNIVERSITY PRESS.
+
+
+
+
+PREFACE.
+
+
+The present work is based on a dissertation submitted at the
+Fellowship Examination of Trinity College, Cambridge, in the year
+1895. Section B of the third chapter is in the main a reprint, with
+some serious alterations, of an article in _Mind_ (New Series, No.
+17). The substance of the book has been given in the form of lectures
+at the Johns Hopkins University, Baltimore, and at Bryn Mawr College,
+Pennsylvania.
+
+My chief obligation is to Professor Klein. Throughout the first
+chapter, I have found his "Lectures on non-Euclidean Geometry"
+an invaluable guide; I have accepted from him the division of
+Metageometry into three periods, and have found my historical work
+much lightened by his references to previous writers. In Logic, I
+have learnt most from Mr Bradley, and next to him, from Sigwart and
+Dr Bosanquet. On several important points, I have derived useful
+suggestions from Professor James's "Principles of Psychology."
+
+My thanks are due to Mr G. F. Stout and Mr A. N. Whitehead for
+kindly reading my proofs, and helping me by many useful criticisms.
+To Mr Whitehead I owe, also, the inestimable assistance of constant
+criticism and suggestion throughout the course of construction,
+especially as regards the philosophical importance of projective
+Geometry.
+
+  HASLEMERE.
+
+  _May, 1897._
+
+
+
+
+  TO
+
+  JOHN McTAGGART ELLIS McTAGGART
+
+  TO WHOSE DISCOURSE AND FRIENDSHIP IS OWING
+  THE EXISTENCE OF THIS BOOK.
+
+
+
+
+TABLE OF CONTENTS.
+
+
+  INTRODUCTION.
+
+  OUR PROBLEM DEFINED BY ITS RELATIONS TO LOGIC,
+  PSYCHOLOGY AND MATHEMATICS.
+                                                                    PAGE
+
+  1.  The problem first received a modern form through Kant, who
+  connected the _à priori_ with the subjective                         1
+
+  2.  A mental state is subjective, for Psychology, when its immediate
+  cause does not lie in the outer world                                2
+
+  3.  A piece of knowledge is _à priori_, for Epistemology, when
+  without it knowledge would be impossible                             2
+
+  4.  The subjective and the _à priori_ belong respectively to
+  Psychology and to Epistemology. The latter alone will be
+  investigated in this essay                                           3
+
+  5.  My test of the _à priori_ will be purely logical: what knowledge
+  is necessary for experience?                                         3
+
+  6.  But since the necessary is hypothetical, we must include, in
+  the _à priori_, the ground of necessity                              4
+
+  7.  This may be the essential postulate of our science, or the
+  element, in the subject-matter, which is necessary to
+  experience;                                                          4
+
+  8.  Which, however, are both at bottom the same ground               5
+
+  9.  Forecast of the work                                             5
+
+
+  CHAPTER I.
+
+  A SHORT HISTORY OF METAGEOMETRY.
+
+  10.  Metageometry began by rejecting the axiom of parallels          7
+
+  11.  Its history may be divided into three periods: the synthetic,
+  the metrical and the projective                                      7
+
+  12.  The first period was inaugurated by Gauss,                     10
+
+  13.  Whose suggestions were developed independently by
+  Lobatchewsky                                                        10
+
+  14.  And Bolyai                                                     11
+
+  15.  The purpose of all three was to show that the axiom of parallels
+  could not be deduced from the others, since its denial did
+  not lead to contradictions                                          12
+
+  16.  The second period had a more philosophical aim, and was
+  inspired chiefly by Gauss and Herbart                               13
+
+  17.  The first work of this period, that of Riemann, invented two
+  new conceptions:                                                    14
+
+  18.  The first, that of a manifold, is a class-conception, containing
+  space as a species,                                                 14
+
+  19.  And defined as such that its determinations form a collection
+  of magnitudes                                                       15
+
+  20.  The second, the measure of curvature of a manifold, grew out
+  of curvature in curves and surfaces                                 16
+
+  21.  By means of Gauss's analytical formula for the curvature of
+  surfaces,                                                           19
+
+  22.  Which enables us to define a _constant_ measure of curvature
+  of a three-dimensional space without reference to a fourth
+  dimension                                                           20
+
+  23.  The main result of Riemann's mathematical work was to
+  show that, if magnitudes are independent of place, the
+  measure of curvature of space must be constant                      21
+
+  24.  Helmholtz, who was more of a philosopher than a mathematician, 22
+
+  25.  Gave a new but incorrect formulation of the essential axioms,  23
+
+  26.  And deduced the quadratic formula for the infinitesimal arc,
+  which Riemann had assumed                                           24
+
+  27.  Beltrami gave Lobatchewsky's planimetry a Euclidean
+  interpretation,                                                     25
+
+  28.  Which is analogous to Cayley's theory of distance;             26
+
+  29.  And dealt with _n_-dimensional spaces of constant negative
+  curvature                                                           27
+
+  30.  The third period abandons the metrical methods of the second,
+  and extrudes the notion of spatial quantity                         27
+
+  31.  Cayley reduced metrical properties to projective properties,
+  relative to a certain conic or quadric, the Absolute;               28
+
+  32.  And Klein showed that the Euclidean or non-Euclidean systems
+  result, according to the nature of the Absolute;                    29
+
+  33.  Hence Euclidean _space_ appeared to give rise to all the kinds
+  of Geometry, and the question, which is true, appeared
+  reduced to one of convention                                        30
+
+  34.  But this view is due to a confusion as to the nature of the
+  coordinates employed                                                30
+
+  35.  Projective coordinates have been regarded as dependent on
+  distance, and thus really metrical                                  31
+
+  36.  But this is not the case, since anharmonic ratio can be
+  projectively defined                                                32
+
+  37.  Projective coordinates, being purely descriptive, can give no
+  information as to metrical properties, and the reduction of
+  metrical to projective properties is purely technical               33
+
+  38.  The true connection of Cayley's measure of distance with
+  non-Euclidean Geometry is that suggested by Beltrami's
+  Saggio, and worked out by Sir R. Ball,                              36
+
+  39.  Which provides a Euclidean equivalent for every non-Euclidean
+  proposition, and so removes the possibility of contradictions
+  in Metageometry                                                     38
+
+  40.  Klein's elliptic Geometry has not been proved to have a
+  corresponding variety of space                                      39
+
+  41.  The geometrical use of imaginaries, of which Cayley demanded
+  a philosophical discussion,                                         41
+
+  42.  Has a merely technical validity,                               42
+
+  43.  And is capable of giving geometrical results only when it
+  begins and ends with real points and figures                        45
+
+  44.  We have now seen that projective Geometry is logically prior
+  to metrical Geometry, but cannot supersede it                       46
+
+  45.  Sophus Lie has applied projective methods to Helmholtz's
+  formulation of the axioms, and has shown the axiom of
+  Monodromy to be superfluous                                         46
+
+  46.  Metageometry has gradually grown independent of philosophy,
+  but has grown continually more interesting to philosophy            50
+
+  47.  Metrical Geometry has three indispensable axioms,              50
+
+  48.  Which we shall find to be not results, but conditions, of
+  measurement,                                                        51
+
+  49.  And which are nearly equivalent to the three axioms of
+  projective Geometry                                                 52
+
+  50.  Both sets of axioms are necessitated, not by facts, but by
+  logic                                                               52
+
+
+  CHAPTER II.
+
+  CRITICAL ACCOUNT OF SOME PREVIOUS PHILOSOPHICAL
+  THEORIES OF GEOMETRY.
+
+  51.  A criticism of representative modern theories need not begin
+  before Kant                                                         54
+
+  52.  Kant's doctrine must be taken, in an argument about Geometry,
+  on its purely logical side                                          55
+
+  53.  Kant contends that since Geometry is apodeictic, space must
+  be _à priori_ and subjective, while since space is _à priori_
+  and subjective, Geometry must be apodeictic                         55
+
+  54.  Metageometry has upset the first line of argument, not the
+  second                                                              56
+
+  55.  The second may be attacked by criticizing either the distinction
+  of synthetic and analytic judgments, or the first two arguments
+  of the metaphysical deduction of space                              57
+
+  56.  Modern Logic regards every judgment as both synthetic and
+  analytic,                                                           57
+
+  57.  But leaves the _à priori_, as that which is presupposed in the
+  possibility of experience                                           59
+
+  58.  Kant's first two arguments as to space suffice to prove _some_
+  form of externality, but not necessarily Euclidean space, a
+  necessary condition of experience                                   60
+
+  59.  Among the successors of Kant, Herbart alone advanced the
+  theory of Geometry, by influencing Riemann                          62
+
+  60.  Riemann regarded space as a particular kind of manifold, i.e.
+  wholly quantitatively                                               63
+
+  61.  He therefore unduly neglected the qualitative adjectives of
+  space                                                               64
+
+  62.  His philosophy rests on a vicious disjunction                  65
+
+  63.  His definition of a manifold is obscure,                       66
+
+  64.  And his definition of measurement applies only to space        67
+
+  65.  Though mathematically invaluable, his view of space as a
+  manifold is philosophically misleading                              69
+
+  66.  Helmholtz attacked Kant both on the mathematical and on
+  the psychological side;                                             70
+
+  67.  But his criterion of apriority is changeable and often
+  invalid;                                                            71
+
+  68.  His proof that non-Euclidean spaces are imaginable is
+  inconclusive;                                                       72
+
+  69.  And his assertion of the dependence of measurement on rigid
+  bodies, which may be taken in three senses,                         74
+
+  70.  Is wholly false if it means that the axiom of Congruence
+  actually asserts the existence of rigid bodies,                     75
+
+  71.  Is untrue if it means that the necessary reference of geometrical
+  propositions to matter renders pure Geometry empirical,             76
+
+  72.  And is inadequate to his conclusion if it means, what is
+  true, that _actual_ measurement involves approximately rigid
+  bodies                                                              78
+
+  73.  Geometry deals with an abstract matter, whose physical
+  properties are disregarded; and Physics must presuppose
+  Geometry                                                            80
+
+  74.  Erdmann accepted the conclusions of Riemann and Helmholtz,     81
+
+  75.  And regarded the axioms as necessarily successive steps in
+  classifying space as a species of manifold                          82
+
+  76.  His deduction involves four fallacious assumptions, namely:    82
+
+  77.  That conceptions must be abstracted from a series of
+  instances;                                                          83
+
+  78.  That all definition is classification;                         83
+
+  79.  That conceptions of magnitude can be applied to space as
+  a whole;                                                            84
+
+  80.  And that if conceptions of magnitude could be so applied, all
+  the adjectives of space would result from their application         86
+
+  81.  Erdmann regards Geometry alone as incapable of deciding on
+  the truth of the axiom of Congruence,                               86
+
+  82.  Which he affirms to be empirically proved by Mechanics.        88
+
+  83.  The variety and inadequacy of Erdmann's tests of apriority     89
+
+  84.  Invalidate his final conclusions on the theory of Geometry     90
+
+  85.  Lotze has discussed two questions in the theory of Geometry:   93
+
+  86.  (1) He regards the possibility of non-Euclidean spaces as
+  suggested by the subjectivity of space,                             93
+
+  87.  And rejects it owing to a mathematical misunderstanding,       96
+
+  88.  Having missed the most important sense of their possibility,   96
+
+  89.  Which is that they fulfil the logical conditions to which any
+  form of externality must conform                                    97
+
+  90.  (2) He attacks the mathematical procedure of Metageometry      98
+
+  91.  The attack begins with a question-begging definition of
+  parallels                                                           99
+
+  92.  Lotze maintains that all apparent departures from Euclid
+  could be physically explained, a view which really makes
+  Euclid empirical                                                    99
+
+  93.  His criticism of Helmholtz's analogies rests wholly on
+    mathematical mistakes                                            101
+
+  94.  His proof that space must have three dimensions rests on
+  neglect of different orders of infinity                            104
+
+  95.  He attacks non-Euclidean spaces on the mistaken ground
+  that they are not homogeneous                                      107
+
+  96.  Lotze's objections fall under four heads                      108
+
+  97.  Two other semi-philosophical objections may be urged,         109
+
+  98.  One of which, the absence of similarity, has been made the
+  basis of attack by Delbœuf,                                        110
+
+  99.  But does not form a valid ground of objection                 111
+
+  100.  Recent French speculation on the foundations of Geometry
+  has suggested few new views                                        112
+
+  101.  All homogeneous spaces are _à priori_ possible, and the
+  decision between them is empirical                                 114
+
+
+  CHAPTER III.
+
+  SECTION A. THE AXIOMS OF PROJECTIVE GEOMETRY.
+
+  102.  Projective Geometry does not deal with magnitude, and
+  applies to all spaces alike                                        117
+
+  103.  It will be found wholly _à priori_                           117
+
+  104.  Its axioms have not yet been formulated philosophically      118
+
+  105.  Coordinates, in projective Geometry, are not spatial
+  magnitudes, but convenient names for points                        118
+
+  106.  The possibility of distinguishing various points is an axiom 119
+
+  107.  The qualitative relations between points, dealt with by
+  projective Geometry, are presupposed by the quantitative
+  treatment                                                          119
+
+  108.  The only qualitative relation between two points is the
+  straight line, and all straight lines are qualitatively
+  similar                                                            120
+
+  109.  Hence follows, by extension, the principle of projective
+  transformation                                                     121
+
+  110.  By which figures qualitatively indistinguishable from a
+  given figure are obtained                                          122
+
+  111.  Anharmonic ratio may and must be descriptively defined       122
+
+  112.  The quadrilateral construction is essential to the
+  projective definition of points,                                   123
+
+  113.  And can be projectively defined,                             124
+
+  114.  By the general principle of projective transformation        126
+
+  115.  The principle of duality is the mathematical form of a
+  philosophical circle,                                              127
+
+  116.  Which is an inevitable consequence of the relativity of
+  space, and makes any definition of the point contradictory         128
+
+  117.  We define the point as that which is spatial, but contains
+  no space, whence other definitions follow                          128
+
+  118.  What is meant by qualitative equivalence in Geometry?        129
+
+  119.  Two pairs of points on one straight line, or two pairs of
+  straight lines through one point, are qualitatively equivalent     129
+
+  120.  This explains why _four_ collinear points are needed, to give
+  an intrinsic relation by which the fourth can be descriptively
+  defined when the first three are given                             130
+
+  121.  Any two projectively related figures are qualitatively
+  equivalent, i.e. differ in no non-quantitative conceptual
+  property                                                           131
+
+  122.  Three axioms are used by projective Geometry,                132
+
+  123.  And are required for qualitative spatial comparison,         132
+
+  124.  Which involves the homogeneity, relativity and passivity
+  of space                                                           133
+
+  125.  The conception of a form of externality,                     134
+
+  126.  Being a creature of the intellect, can be dealt with by
+  pure mathematics                                                   134
+
+  127.  The resulting doctrine of extension will be, for the moment,
+  hypothetical                                                       135
+
+  128.  But is rendered assertorical by the necessity, for
+  experience, of some form of externality                            136
+
+  129.  Any such form must be relational                             136
+
+  130.  And homogeneous                                              137
+
+  131.  And the relations constituting it must appear infinitely
+  divisible                                                          137
+
+  132.  It must have a finite integral number of dimensions,         139
+
+  133.  Owing to its passivity and homogeneity                       140
+
+  134.  And to the systematic unity of the world                     140
+
+  135.  A one-dimensional form alone would not suffice for
+  experience                                                         141
+
+  136.  Since its elements would be immovably fixed in a series      142
+
+  137.  Two positions have a relation independent of other
+  positions,                                                         143
+
+  138.  Since positions are wholly defined by mutually independent
+  relations                                                          143
+
+  139.  Hence projective Geometry is wholly _à priori_,              146
+
+  140.  Though metrical Geometry contains an empirical element       146
+
+
+  SECTION B. THE AXIOMS OF METRICAL GEOMETRY.
+
+  141.  Metrical Geometry is distinct from projective, but has the
+  same fundamental postulate                                         147
+
+  142.  It introduces the new idea of motion, and has three
+  _à priori_ axioms                                                  148
+
+
+  I. _The Axiom of Free Mobility._
+
+  143.  Measurement requires a criterion of spatial equality         149
+
+  144.  Which is given by superposition, and involves the axiom
+  of Free Mobility                                                   150
+
+  145.  The denial of this axiom involves an action of empty
+  space on things                                                    151
+
+  146.  There is a mathematically possible alternative to the axiom, 152
+
+  147.  Which, however, is logically and philosophically untenable   153
+
+  148.  Though Free Mobility is _à priori_, actual measurement is
+  empirical                                                          154
+
+  149.  Some objections remain to be answered, concerning--          154
+
+  150.  (1) The comparison of volumes and of Kant's symmetrical
+  objects                                                            154
+
+  151.  (2) The measurement of time, where congruence is impossible  156
+
+  152.  (3) The immediate perception of spatial magnitude; and       157
+
+  153.  (4) The Geometry of non-congruent surfaces                   158
+
+  154.  Free Mobility includes Helmholtz's Monodromy                 159
+
+  155.  Free Mobility involves the relativity of space               159
+
+  156.  From which, reciprocally, it can be deduced                  160
+
+  157.  Our axiom is therefore _à priori_ in a double sense          160
+
+
+  II. _The Axiom of Dimensions._
+
+  158.  Space must have a finite integral number of dimensions       161
+
+  159.  But the restriction to three is empirical                    162
+
+  160.  The general axiom follows from the relativity of position    162
+
+  161.  The limitation to three dimensions, unlike most empirical
+  knowledge, is accurate and certain                                 163
+
+
+  III. _The Axiom of Distance._
+
+  162.  The axiom of distance corresponds, here, to that of the
+  straight line in projective Geometry                               164
+
+  163.  The possibility of spatial measurement involves a magnitude
+  uniquely determined by two points,                                 164
+
+  164.  Since two points must have some relation, and the passivity
+  of space proves this to be independent of external reference       165
+
+  165.  There can be only one such relation                          166
+
+  166.  This must be measured by a curve joining the two points,     166
+
+  167.  And the curve must be uniquely determined by the two
+  points                                                             167
+
+  168.  Spherical Geometry contains an exception to this axiom,      168
+
+  169.  Which, however, is not quite equivalent to Euclid's          168
+
+  170.  The exception is due to the fact that two points, in
+  spherical space, may have an external relation unaltered by
+  motion,                                                            169
+
+  171.  Which, however, being a relation of linear magnitude,
+  presupposes the possibility of linear magnitude                    170
+
+  172.  A relation between two points must be a line joining them    170
+
+  173.  Conversely, the existence of a unique line between two
+  points can be deduced from the nature of a form of
+  externality,                                                       171
+
+  174.  And necessarily leads to distance, when quantity is applied
+  to it                                                              172
+
+  175.  Hence the axiom of distance, also, is _à priori_ in a double
+  sense                                                              172
+
+  176.  No metrical coordinate system can be set up without the
+  straight line                                                      174
+
+  177.  No axioms besides the above three are necessary to metrical
+  Geometry                                                           175
+
+  178.  But these three are necessary to the direct measurement
+  of any continuum                                                   176
+
+  179.  Two philosophical questions remain for a final chapter       177
+
+
+  CHAPTER IV.
+
+  PHILOSOPHICAL CONSEQUENCES.
+
+  180.  What is the relation to experience of a form of externality
+  in general?                                                        178
+
+  181.  This form is the class-conception, containing every possible
+  intuition of externality; and some such intuition is
+  necessary to experience                                            178
+
+  182.  What relation does this view bear to Kant's?                 179
+
+  183.  It is less psychological, since it does not discuss whether
+  space is given in sensation,                                       180
+
+  184.  And maintains that not only space, but any form of
+  externality which renders experience possible, must be given in
+  sense-perception                                                   181
+
+  185.  Externality should mean, not externality to the Self, but
+  the mutual externality of presented things                         181
+
+  186.  Would this be unknowable without a given form of
+  externality?                                                       182
+
+  187.  Bradley has proved that space and time preclude the
+  existence of mere particulars,                                     182
+
+  188.  And that knowledge requires the _This_ to be neither simple
+  nor self-subsistent                                                183
+
+  189.  To prove that experience requires a form of externality, I
+  assume that all knowledge requires the recognition of identity in
+  difference                                                         184
+
+  190.  Such recognition involves time                               184
+
+  191.  And some other form giving simultaneous diversity            185
+
+  192.  The above argument has not deduced sense-perception from
+  the categories, but has shown the former, unless it contains
+  a certain element, to be unintelligible to the latter              186
+
+  193.  How to account for the realization of this element, is a
+  question for metaphysics                                           187
+
+  194.  What are we to do with the contradictions in space?          188
+
+  195.  Three contradictions will be discussed in what follows       188
+
+  196.  (1) The antinomy of the Point proves the relativity of
+  space,                                                             189
+
+  197.  And shows that Geometry must have some reference to
+  matter,                                                            190
+
+  198.  By which means it is made to refer to spatial order, not
+  to empty space                                                     191
+
+  199.  The causal properties of matter are irrelevant to Geometry,
+  which must regard it as composed of unextended atoms,
+  by which points are replaced                                       191
+
+  200.  (2) The circle in defining straight lines and planes is
+  overcome by the same reference to matter                           192
+
+  201.  (3) The antinomy that space is relational and yet more
+  than relational,                                                   193
+
+  202.  Seems to depend on the confusion of empty space with
+  spatial order                                                      193
+
+  203.  Kant regarded empty space as the subject-matter of Geometry, 194
+
+  204.  But the arguments of the Aesthetic are inconclusive on this
+  point,                                                             195
+
+  205.  And are upset by the mathematical antinomies, which prove
+  that spatial order should be the subject-matter of Geometry        196
+
+  206.  The apparent thinghood of space is a psychological illusion,
+  due to the fact that spatial relations are immediately given       196
+
+  207.  The apparent divisibility of spatial relations is either an
+  illusion, arising out of empty space, or the expression of the
+ possibility of quantitatively different spatial relations           197
+
+  208.  Externality is not a relation, but an aspect of relations.
+  Spatial order, owing to its reference to matter, is a real
+  relation                                                           198
+
+  209.  Conclusion                                                   199
+
+
+
+
+INTRODUCTION.
+
+OUR PROBLEM DEFINED BY ITS RELATIONS TO LOGIC, PSYCHOLOGY AND
+MATHEMATICS.
+
+
+=1.= Geometry, throughout the 17th and 18th centuries, remained, in the
+war against empiricism, an impregnable fortress of the idealists.
+Those who held--as was generally held on the Continent--that certain
+knowledge, independent of experience, was possible about the real
+world, had only to point to Geometry: none but a madman, they said,
+would throw doubt on its validity, and none but a fool would deny its
+objective reference. The English Empiricists, in this matter, had,
+therefore, a somewhat difficult task; either they had to ignore the
+problem, or if, like Hume and Mill, they ventured on the assault,
+they were driven into the apparently paradoxical assertion that
+Geometry, at bottom, had no certainty of a different _kind_ from that
+of Mechanics--only the perpetual presence of spatial impressions,
+they said, made our experience of the truth of the axioms so wide as
+to seem absolute certainty.
+
+Here, however, as in many other instances, merciless logic drove
+these philosophers, whether they would or no, into glaring opposition
+to the common sense of their day. It was only through Kant, the
+creator of modern Epistemology, that the geometrical problem
+received a modern form. He reduced the question to the following
+hypotheticals: If Geometry has apodeictic certainty, its matter,
+_i.e._ space, must be _à priori_, and as such must be purely
+subjective; and conversely, if space is purely subjective, Geometry
+must have apodeictic certainty. The latter hypothetical has more
+weight with Kant, indeed it is ineradicably bound up with his whole
+Epistemology; nevertheless it has, I think, much less force than
+the former. Let us accept, however, for the moment, the Kantian
+formulation, and endeavour to give precision to the terms _à priori_
+and _subjective_.
+
+=2.= One of the great difficulties, throughout this controversy,
+is the extremely variable use to which these words, as well as
+the word _empirical_, are put by different authors. To Kant, who
+was nothing of a psychologist, _à priori_ and _subjective_ were
+almost interchangeable terms[1]; in modern usage there is, on the
+whole, a tendency to confine the word _subjective_ to Psychology,
+leaving _à priori_ to do duty for Epistemology. If we accept this
+differentiation, we may set up, corresponding to the problems of
+these two sciences, the following provisional definitions: _à priori_
+applies to any piece of knowledge which, though perhaps elicited by
+experience, is _logically_ presupposed in experience: _subjective_
+applies to any mental state whose immediate cause lies, not in the
+external world, but within the limits of the subject. The latter
+definition, of course, is framed exclusively for Psychology: from the
+point of view of physical Science all mental states are subjective.
+But for a Science whose matter, strictly speaking, is _only_ mental
+states, we require, if we are to use the word to any purpose,
+some differentia among mental states, as a mark of a more special
+subjectivity on the part of those to which this term is applied.
+
+Now the only mental states whose immediate causes lie in the external
+world are _sensations_. A pure sensation is, of course, an impossible
+abstraction--we are never wholly passive under the action of an
+external stimulus--but for the purposes of Psychology the abstraction
+is a useful one. Whatever, then, is not sensation, we shall, in
+Psychology, call subjective. It is in sensation alone that we are
+directly affected by the external world, and only here does it give
+us direct information about itself.
+
+=3.= Let us now consider the epistemological question, as to the sort
+of knowledge which can be called _à priori_. Here we have nothing to
+do--in the first instance, at any rate--with the cause or genesis of
+a piece of knowledge; we accept knowledge as a datum to be analysed
+and classified. Such analysis will reveal a formal and a material
+element in knowledge. The formal element will consist of postulates
+which are required to make knowledge possible at all, and of all
+that can be deduced from these postulates; the material element, on
+the other hand, will consist of all that comes to fill in the form
+given by the formal postulates--all that is contingent or dependent
+on experience, all that might have been otherwise without rendering
+knowledge impossible. We shall then call the formal element _à
+priori_, the material element empirical.
+
+=4.= Now what is the connection between the subjective and the _à
+priori_? It is a connection, obviously--if it exists at all--from the
+outside, _i.e._ not deducible directly from the nature of either,
+but provable--if it can be proved--only by a general view of the
+conditions of both. The question, what knowledge is _à priori_, must,
+on the above definition, depend on a logical analysis of knowledge,
+by which the conditions of possible experience may be revealed; but
+the question, what elements of a cognitive state are subjective, is
+to be investigated by pure Psychology, which has to determine what,
+in our perceptions, belongs to sensation, and what is the work of
+thought or of association. Since, then, these two questions belong
+to different sciences, and can be settled independently, will it not
+be wise to conduct the two investigations separately? To decree that
+the _à priori_ shall always be subjective, seems dangerous, when we
+reflect that such a view places our results, as to the _à priori_, at
+the mercy of empirical psychology. How serious this danger is, the
+controversy as to Kant's pure intuition sufficiently shows.
+
+=5.= I shall, therefore, throughout the present Essay, use the
+word _à priori_ without any psychological implication. My test of
+apriority will be purely logical: Would experience be impossible, if
+a certain axiom or postulate were denied? Or, in a more restricted
+sense, which gives apriority only within a particular science: Would
+experience as to the subject-matter of that science be impossible,
+without a certain axiom or postulate? My results also, therefore,
+will be purely logical. If Psychology declares that some things,
+which I have declared _à priori_, are not subjective, then, failing
+an error of detail in my proofs, the connection of the _à priori_ and
+the subjective, so far as those things are concerned, must be given
+up. There will be no discussion, accordingly, throughout this Essay,
+of the relation of the _à priori_ to the subjective--a relation which
+cannot determine what pieces of knowledge are _à priori_, but rather
+depends on that determination, and belongs, in any case, rather to
+Metaphysics than to Epistemology.
+
+=6.= As I have ventured to use the word _à priori_ in a slightly
+unconventional sense, I will give a few elucidatory remarks of a
+general nature.
+
+The _à priori_, since Kant at any rate, has generally stood for the
+necessary or apodeictic element in knowledge. But modern logic has
+shown that necessary propositions are always, in one aspect at least,
+hypothetical. There may be, and usually is, an implication that the
+connection, of which necessity is predicated, has some existence,
+but still, necessity always points beyond itself to a _ground_ of
+necessity, and asserts this ground rather than the actual connection.
+As Bradley points out, "arsenic poisons" remains true, even if it
+is poisoning no one. If, therefore, the _à priori_ in knowledge be
+primarily the necessary, it must be the necessary on some hypothesis,
+and the _ground_ of necessity must be included as _à priori_. But
+the ground of necessity is, so far as the necessary connection in
+question can show, a mere fact, a merely categorical judgment. Hence
+necessity alone is an insufficient criterion of apriority.
+
+To supplement this criterion, we must supply the hypothesis or
+ground, on which alone the necessity holds, and this ground will
+vary from one science to another, and even, with the progress of
+knowledge, in the same science at different times. For as knowledge
+becomes more developed and articulate, more and more necessary
+connections are perceived, and the merely categorical truths, though
+they remain the foundation of apodeictic judgments, diminish in
+relative number. Nevertheless, in a fairly advanced science such as
+Geometry, we can, I think, pretty completely supply the appropriate
+ground, and establish, within the limits of the isolated science, the
+distinction between the necessary and the merely assertorical.
+
+=7.= There are two grounds, I think, on which necessity may be sought
+within any science. These may be (very roughly) distinguished as
+the ground which Kant seeks in the _Prolegomena_, and that which
+he seeks in the _Pure Reason_. We may start from the existence of
+our science as a fact, and analyse the reasoning employed with a
+view to discovering the fundamental postulate on which its logical
+possibility depends; in this case, the postulate, and all which
+follows from it alone, will be _à priori_. Or we may accept the
+existence of the subject-matter of our science as our basis of fact,
+and deduce dogmatically whatever principles we can from the essential
+nature of this subject-matter. In this latter case, however, it is
+not the whole empirical nature of the subject-matter, as revealed by
+the subsequent researches of our science, which forms our ground; for
+if it were, the whole science would, of course, be _à priori_. Rather
+it is that element, in the subject-matter, which makes _possible_
+the branch of experience dealt with by the science in question[2].
+The importance of this distinction will appear more clearly as we
+proceed[3].
+
+=8.= These two grounds of necessity, in ultimate analysis, fall
+together. The _methods_ of investigation in the two cases differ
+widely, but the _results_ cannot differ. For in the first case, by
+analysis of the science, we discover the postulate on which alone
+its reasonings are possible. Now if reasoning in the science is
+impossible without some postulate, this postulate must be essential
+to experience of the subject-matter of the science, and thus we
+get the second ground. Nevertheless, the two methods are useful as
+supplementing one another, and the first, as starting from the actual
+science, is the safest and easiest method of investigation, though
+the second seems the more convincing for exposition.
+
+=9.= The course of my argument, therefore, will be as follows: In
+the first chapter, as a preliminary to the logical analysis of
+Geometry, I shall give a brief history of the rise and development
+of non-Euclidean systems. The second chapter will prepare the ground
+for a constructive theory of Geometry, by a criticism of some
+previous philosophical views; in this chapter, I shall endeavour
+to exhibit such views as partly true, partly false, and so to
+establish, by preliminary polemics, the truth of such parts of my own
+theory as are to be found in former writers. A large part of this
+theory, however, cannot be so introduced, since the whole field of
+projective Geometry, so far as I am aware, has been hitherto unknown
+to philosophers. Passing, in the third chapter, from criticism to
+construction, I shall deal first with projective Geometry. This, I
+shall maintain, is necessarily true of any form of externality, and
+is, since some such form is necessary to experience, completely _à
+priori_. In metrical Geometry, however, which I shall next consider,
+the axioms will fall into two classes: (1) Those common to Euclidean
+and non-Euclidean spaces. These will be found, on the one hand,
+essential to the possibility of measurement in any continuum, and
+on the other hand, necessary properties of any form of externality
+with more than one dimension. They will, therefore, be declared
+_à priori_. (2) Those axioms which distinguish Euclidean from
+non-Euclidean spaces. These will be regarded as wholly empirical.
+The axiom that the number of dimensions is three, however, though
+empirical, will be declared, since small errors are here impossible,
+exactly and certainly true of our actual world; while the two
+remaining axioms, which determine the value of the space-constant,
+will be regarded as only approximately known, and certain only
+within the errors of observation[4]. The fourth chapter, finally,
+will endeavour to prove, what was assumed in Chapter III., that some
+form of externality is necessary to experience, and will conclude by
+exhibiting the logical impossibility, if knowledge of such a form is
+to be freed from contradictions, of wholly abstracting this knowledge
+from all reference to the matter contained in the form.
+
+I shall hope to have touched, with this discussion, on all the main
+points relating to the Foundations of Geometry.
+
+FOOTNOTES:
+
+[1] Cf. Erdmann, Axiome der Geometrie, p. 111: "Für Kant sind
+Apriorität und ausschliessliche Subjectivität allerdings
+Wechselbegriffe."
+
+[2] I use "experience" here in the widest possible sense, the sense
+in which the word is used by Bradley.
+
+[3] Where the branch of experience in question is essential to all
+experience, the resulting apriority may be regarded as absolute;
+where it is necessary only to some special science, as relative to
+that science.
+
+[4] I have given no account of these empirical proofs, as they seem
+to be constituted by the whole body of physical science. Everything
+in physical science, from the law of gravitation to the building of
+bridges, from the spectroscope to the art of navigation, would be
+profoundly modified by any considerable inaccuracy in the hypothesis
+that our actual space is Euclidean. The observed truth of physical
+science, therefore, constitutes overwhelming empirical evidence that
+this hypothesis is very approximately correct, even if not rigidly
+true.
+
+
+
+
+CHAPTER I.
+
+A SHORT HISTORY OF METAGEOMETRY.
+
+
+=10.= When a long established system is attacked, it usually happens
+that the attack begins only at a single point, where the weakness of
+the established doctrine is peculiarly evident. But criticism, when
+once invited, is apt to extend much further than the most daring, at
+first, would have wished.
+
+      "First cut the liquefaction, what comes last,
+      But Fichte's clever cut at God himself?"
+
+So it has been with Geometry. The liquefaction of Euclidean orthodoxy
+is the axiom of parallels, and it was by the refusal to admit this
+axiom without proof that Metageometry began. The first effort in
+this direction, that of Legendre[5], was inspired by the hope of
+deducing this axiom from the others--a hope which, as we now know,
+was doomed to inevitable failure. Parallels are defined by Legendre
+as lines in the same plane, such that, if a third line cut them, it
+makes the sum of the interior and opposite angles equal to two right
+angles. He proves without difficulty that such lines would not meet,
+but is unable to prove that non-parallel lines in a plane must meet.
+Similarly he can prove that the sum of the angles of a triangle
+cannot exceed two right angles, and that if any one triangle has a
+sum equal to two right angles, all triangles have the same sum; but
+he is unable to prove the existence of this one triangle.
+
+=11.= Thus Legendre's attempt broke down; but mere failure could
+prove nothing. A bolder method, suggested by Gauss, was carried out
+by Lobatchewsky and Bolyai[6]. If the axiom of parallels is logically
+deducible from the others, we shall, by denying it and maintaining
+the rest, be led to contradictions. These three mathematicians,
+accordingly, attacked the problem indirectly: they denied the axiom
+of parallels, and yet obtained a logically consistent Geometry. They
+inferred that the axiom was logically independent of the others, and
+essential to the Euclidean system. Their works, being all inspired by
+this motive, may be distinguished as forming the first period in the
+development of Metageometry.
+
+The second period, inaugurated by Riemann, had a much deeper import:
+it was largely philosophical in its aims and constructive in its
+methods. It aimed at no less than a logical analysis of all the
+essential axioms of Geometry, and regarded space as a particular
+case of the more general conception of a _manifold_. Taking its
+stand on the methods of analytical metrical Geometry, it established
+two non-Euclidean systems, the first that of Lobatchewsky, the
+second--in which the axiom of the straight line, in Euclid's form,
+was also denied--a new variety, by analogy called spherical. The
+leading conception in this period is the _measure of curvature_, a
+term invented by Gauss, but applied by him only to surfaces. Gauss
+had shown that free mobility on surfaces was only possible when the
+measure of curvature was constant; Riemann and Helmholtz extended
+this proposition to _n_ dimensions, and made it the fundamental
+property of space.
+
+In the third period, which begins with Cayley, the philosophical
+motive, which had moved the first pioneers, is less apparent, and
+is replaced by a more technical and mathematical spirit. This
+period is chiefly distinguished from the second, in a mathematical
+point of view, by its method, which is projective instead of
+metrical. The leading mathematical conception here is the Absolute
+(_Grundgebild_), a figure by relation to which all metrical
+properties become projective. Cayley's work, which was very brief,
+and attracted little attention, has been perfected and elaborated by
+F. Klein, and through him has found general acceptance. Klein has
+added to the two kinds of non-Euclidean Geometry already known, a
+third, which he calls elliptic; this third kind closely resembles
+Helmholtz's spherical Geometry, but is distinguished by the important
+difference that, in it, two straight lines meet in only one point[7].
+The distinctive mark of the spaces represented by both is that,
+like the surface of a sphere, they are finite but unbounded. The
+reduction of metrical to projective properties, as will be proved
+hereafter, has only a technical importance; at the same time,
+projective Geometry is able to deal directly with those purely
+descriptive or qualitative properties of space which are common to
+Euclid and Metageometry alike. The third period has, therefore, great
+philosophical importance, while its method has, mathematically, much
+greater beauty and unity than that of the second; it is able to
+treat all kinds of space at once, so that every symbolic proposition
+is, according to the meaning given to the symbols, a proposition
+in whichever Geometry we choose. This has the advantage of proving
+that further research cannot lead to contradictions in non-Euclidean
+systems, unless it at the same moment reveals contradictions in
+Euclid. These systems, therefore, are logically as sound as that of
+Euclid himself.
+
+After this brief sketch of the characteristics of the three periods,
+I will proceed to a more detailed account. It will be my aim to
+avoid, as far as possible, all technical mathematics, and bring
+into relief only those fundamental points in the mathematical
+development, which seem of logical or philosophical importance.
+
+
+First Period.
+
+=12.= The originator of the whole system, _Gauss_, does not appear,
+as regards strictly non-Euclidean Geometry, in any of his hitherto
+published papers, to have given more than results; his proofs remain
+unknown to us. Nevertheless he was the first to investigate the
+consequences of denying the axiom of parallels[8], and in his letters
+he communicated these consequences to some of his friends, among whom
+was Wolfgang Bolyai. The first mention of the subject in his letters
+occurs when he was only 18; four years later, in 1799, writing to
+W. Bolyai, he enunciates the important theorem that, in hyperbolic
+Geometry, there is a maximum to the area of a triangle. From later
+writings it appears that he had worked out a system nearly, if not
+quite, as complete as those of Lobatchewsky and Bolyai[9].
+
+It is important to remember, however, that Gauss's work on curvature,
+which _was_ published, laid the foundation for the whole method of
+the second period, and was undertaken, according to Riemann and
+Helmholtz[10], with a view to an (unpublished) investigation of the
+foundations of Geometry. His work in this direction will, owing to
+its method, be better treated of under the second period, but it is
+interesting to observe that he stood, like many pioneers, at the head
+of two tendencies which afterwards diverged.
+
+=13.= _Lobatchewsky_, a professor in the University of Kasan, first
+published his results, in their native Russian, in the proceedings
+of that learned body for the years 1829-1830. Owing to this double
+obscurity of language and place, they attracted little attention,
+until he translated them into French[11] and German[12]: even then,
+they do not appear to have obtained the notice they deserved, until,
+in 1868, Beltrami unearthed the article in Crelle, and made it the
+theme of a brilliant interpretation.
+
+In the introduction to his little German book, Lobatchewsky laments
+the slight interest shown in his writings by his compatriots, and the
+inattention of mathematicians, since Legendre's abortive attempt, to
+the difficulties in the theory of parallels. The body of the work
+begins with the enunciation of several important propositions which
+hold good in the system proposed as well as in Euclid: of these, some
+are in any case independent of the axiom of parallels, while others
+are rendered so by substituting, for the word "parallel," the phrase
+"not intersecting, however far produced." Then follows a definition,
+intentionally framed so as to contradict Euclid's: With respect to
+a given straight line, all others in the same plane may be divided
+into two classes, those which cut the given straight line, and those
+which do not cut it; a line which is the limit between the two
+classes is called _parallel_ to the given straight line. It follows
+that, from any external point, two parallels can be drawn, one in
+each direction. From this starting-point, by the Euclidean synthetic
+method, a series of propositions are deduced; the most important of
+these is, that in a triangle the sum of the angles is always less
+than, or always equal to two right angles, while in the latter case
+the whole system becomes orthodox. A certain analogy with spherical
+Geometry--whose meaning and extent will appear later--is also proved,
+consisting roughly in the substitution of hyperbolic for circular
+functions.
+
+=14.= Very similar is the system of _Johann Bolyai_, so similar,
+indeed, as to make the independence of the two works, though a
+well-authenticated fact, seem all but incredible. Johann Bolyai
+first published his results in 1832, in an appendix to a work by his
+father Wolfgang, entitled; "Appendix, scientiam spatii absolute veram
+exhibens: a veritate aut falsitate Axiomatis XI. Euclidei (a priori
+haud unquam decidenda) independentem; adjecta ad casum falsitatis,
+quadratura circuli geometrica." Gauss, whose bosom friend he became
+at college and remained through life, was, as we have seen, the
+inspirer of Wolfgang Bolyai, and used to say that the latter was the
+only man who appreciated his philosophical speculations on the axioms
+of Geometry; nevertheless, Wolfgang appears to have left to his son
+Johann the detailed working out of the hyperbolic system. The works
+of both the Bolyai are very rare, and their method and results are
+known to me only through the renderings of Frischauf and Halsted[13].
+Both as to method and as to results, the system is very similar to
+Lobatchewsky's, so that neither need detain us here. Only the initial
+postulates, which are more explicit than Lobatchewsky's, demand a
+brief attention. Frischauf's introduction, which has a philosophical
+and Newtonian air, begins by setting forth that Geometry deals with
+absolute (empty) space, obtained by abstracting from the bodies in
+it, that two figures are called congruent when they differ only in
+position, and that the axiom of Congruence is indispensable in all
+determination of spatial magnitudes. Congruence was to refer to
+geometrical bodies, with none of the properties of ordinary bodies
+except impenetrability (Erdmann, Axiome der Geometrie, p. 26). A
+straight line is defined as determined by two of its points[14],
+and a plane as determined by three. These premisses, with a slight
+exception as to the straight line, we shall hereafter find essential
+to every Geometry. I have drawn attention to them, as it is often
+supposed that non-Euclideans deny the axiom of Congruence, which,
+here and elsewhere, is never the case. The stress laid on this axiom
+by Bolyai is probably due to the influence of Gauss, whose work on
+the curvature of surfaces laid the foundation for the use made of
+congruence by Helmholtz.
+
+=15.= It is important to remember that, throughout the period we have
+just reviewed, the purpose of hyperbolic Geometry is indirect: not
+the truth of the latter, but the logical independence of the axiom
+of parallels from the rest, is the guiding motive of the work. If,
+by denying the axiom of parallels while retaining the rest, we can
+obtain a system free from logical contradictions, it follows that
+the axiom of parallels cannot be implicitly contained in the others.
+If this be so, attempts to dispense with the axiom, like Legendre's,
+cannot be successful; Euclid must stand or fall with the suspected
+axiom. Of course, it remained possible that, by further development,
+latent contradictions might have been revealed in these systems. This
+possibility, however, was removed by the more direct and constructive
+work of the second period, to which we must now turn our attention.
+
+
+Second Period.
+
+=16.= The work of Lobatchewsky and Bolyai remained, for nearly a
+quarter of a century, without issue--indeed, the investigations
+of Riemann and Helmholtz, when they came, appear to have been
+inspired, not by these men, but rather by Gauss[15] and Herbart. We
+find, accordingly, very great difference, both of aim and method,
+between the first period and the second. The former, beginning
+with a criticism of one point in Euclid's system, preserved his
+synthetic method, while it threw over one of his axioms. The latter,
+on the contrary, being guided by a philosophical rather than a
+mathematical spirit, endeavoured to classify the conception of
+space as a species of a more general conception: it treated space
+algebraically, and the properties it gave to space were expressed
+in terms, not of intuition, but of algebra. The aim of Riemann and
+Helmholtz was to show, by the exhibition of logically possible
+alternatives, the empirical nature of the received axioms. For this
+purpose, they conceived space as a particular case of a manifold,
+and showed that various relations of magnitude (_Massverhältnisse_)
+were mathematically possible in an extended manifold. Their
+philosophy, which seems to me not always irreproachable, will be
+discussed in Chapter II.; here, while it is important to remember
+the philosophical motive of Riemann and Helmholtz, we shall confine
+our attention to the mathematical side of their work. In so doing,
+while we shall, I fear, somewhat maim the system of their thoughts,
+we shall secure a closer unity of subject, and a more compact
+account of the purely mathematical development. But there is, in my
+opinion, a further reason for separating their philosophy from their
+mathematics. While their philosophical purpose was, to prove that all
+the axioms of Geometry are empirical, and that a different content of
+our experience might have changed them all, the unintended result of
+their mathematical work was, if I am not mistaken, to afford material
+for an _à priori_ proof of certain axioms. These axioms, though they
+believed them to be unnecessary, were always introduced in their
+mathematical works, before laying the foundations of non-Euclidean
+systems. I shall contend, in Chapter III., that this retention was
+logically inevitable, and was not merely due, as they supposed, to a
+desire for conformity with experience. If I am right in this, there
+is a divergence between Riemann and Helmholtz the philosophers, and
+Riemann and Helmholtz the mathematicians. This divergence makes it
+the more desirable to trace the mathematical development apart from
+the accompanying philosophy.
+
+=17.= _Riemann's_ epoch-making work, "_Ueber die Hypothesen, welche
+der Geometrie zu Grande liegen_[16]", was written, and read to a
+small circle, in 1854; owing, however, to some changes which he
+desired to make in it, it remained unpublished till 1867, when it
+was published by his executors. The two fundamental conceptions, on
+whose invention rests the historic importance of this dissertation,
+are that of a _manifold_, and that of the _measure of curvature_
+of a manifold. The former conception serves a mainly philosophical
+purpose, and is designed, principally, to exhibit space as an
+instance of a more general conception. On this aspect of the
+manifold, I shall have much to say in Chapter II.; its mathematical
+aspect, which alone concerns us here, is less complicated and less
+fruitful of controversy. The latter conception also serves a double
+purpose, but its mathematical use is the more prominent. We will
+consider these two conceptions successively.
+
+=18.= (1) _Conception of a manifold[17]._ The general purpose of
+Riemann's dissertation is, to exhibit the axioms as successive steps
+in the classification of the species space. The axioms of Geometry,
+like the marks of a scholastic definition, appear as successive
+determinations of class-conceptions, ending with Euclidean space.
+We have thus, from the analytical point of view, about as logical
+and precise a formulation as can be desired--a formulation in which,
+from its classificatory character, we seem certain of having nothing
+superfluous or redundant, and obtain the axioms explicitly in the
+most desirable form, namely as adjectives of the conception of
+space. At the same time, it is a pity that Riemann, in accordance
+with the metrical bias of his time, regarded space as primarily a
+magnitude[18], or assemblage of magnitudes, in which the main problem
+consists in assigning quantities to the different elements or points,
+without regard to the qualitative nature of the quantities assigned.
+Considerable obscurity thus arises as to the whole nature of
+magnitude[19]. This view of Geometry underlies the definition of the
+manifold, as the general conception of which space forms a special
+case. This definition, which is not very clear, may be rendered as
+follows.
+
+=19.= Conceptions of magnitude, according to Riemann, are possible
+there only, where we have a general conception, capable of various
+determinations (_Bestimmungsweisen_). The various determinations of
+such a conception together form a _manifold_, which is continuous
+or discrete, according as the passage from one determination to
+another is continuous or discrete. Particular bits of a manifold, or
+quanta, can be compared by counting when discrete, and by measurement
+when continuous. "Measurement consists in a superposition of the
+magnitudes to be compared. If this be absent, magnitudes can only be
+compared when one is part of another, and then only the more or less,
+not the how much, can be decided" (p. 256). We thus reach the general
+conception of a manifold of several dimensions, of which space and
+colours are mentioned as special cases.
+
+To the absence of this conception Riemann attributes the "obscurity"
+which, on the subject of the axioms, "lasted from Euclid to
+Legendre" (p. 254). And Riemann certainly has succeeded, from an
+algebraic point of view, in exhibiting, far more clearly than any
+of his predecessors, the axioms which distinguish spatial quantity
+from other quantities with which mathematics is conversant. But
+by the assumption, from the start, that space can be regarded as
+a quantity, he has been led to state the problem as: What sort of
+magnitude is space? rather than: What must space be in order that
+we may be able to regard it as a magnitude at all? He does not
+realise, either--indeed in his day there were few who realized--that
+an elaborate Geometry is possible which does not deal with space
+as a quantity at all. His definition of space as a species of
+manifold, therefore, though for analytical purposes it defines, most
+satisfactorily, the nature of spatial magnitudes, leaves obscure the
+true ground for this nature, which lies in the nature of space as a
+system of relations, and is anterior to the possibility of regarding
+it as a system of magnitudes at all.
+
+But to proceed with the mathematical development of Riemann's
+ideas. We have seen that he declared measurement to consist in
+a superposition of the magnitudes to be compared. But in order
+that this may be a possible means of determining magnitudes, he
+continues, these magnitudes must be independent of their position
+in the manifold (p. 259). This can occur, he says, in several ways,
+as the simplest of which, he assumes that the lengths of lines are
+independent of their position. One would be glad to know what other
+ways are possible: for my part, I am unable to imagine any other
+hypothesis on which magnitude would be independent of place. Setting
+this aside, however, the problem, owing to the fact that measurement
+consists in superposition, becomes identical with the determination
+of the most general manifold in which magnitudes are independent of
+place. This brings us to Riemann's other fundamental conception,
+which seems to me even more fruitful than that of a manifold.
+
+=20.= (2) _Measure of curvature._ This conception is due to Gauss,
+but was applied by him only to surfaces; the novelty in Riemann's
+dissertation was its extension to a manifold of _n_ dimensions.
+This extension, however, is rather briefly and obscurely expressed,
+and has been further obscured by Helmholtz's attempts at popular
+exposition. The term _curvature_, also, is misleading, so that
+the phrase has been the source of more misunderstanding, even
+among mathematicians, than any other in Pangeometry. It is often
+forgotten, in spite of Helmholtz's explicit statement[20], that the
+"measure of curvature" of an _n_-dimensional manifold is a purely
+analytical expression, which has only a symbolic affinity to ordinary
+curvature. As applied to three-dimensional space, the implication
+of a four-dimensional "plane" space is wholly misleading; I shall,
+therefore, generally use the term space-constant instead[21].
+Nevertheless, as the conception grew, historically, out of that of
+curvature, I will give a very brief exposition of the historical
+development of theories of curvature.
+
+Just as the notion of _length_ was originally derived from the
+straight line, and extended to other curves by dividing them into
+infinitesimal straight lines, so the notion of _curvature_ was
+derived from the circle, and extended to other curves by dividing
+them into infinitesimal circular arcs. Curvature may be regarded,
+originally, as a measure of the amount by which a curve departs from
+a straight line; in a circle, which is similar throughout, this
+amount is evidently constant, and is measured by the reciprocal
+of the radius. But in all other curves, the amount of curvature
+varies from point to point, so that it cannot be measured without
+infinitesimals. The measure which at once suggests itself is, the
+curvature of the circle most nearly coinciding with the curve at the
+point considered. Since a circle is determined by three points, this
+circle will pass through three consecutive points of the curve. We
+have thus defined the curvature of any curve, plane or tortuous; for,
+since any three points lie in a plane, such a circle can always be
+described.
+
+If we now pass to a surface, what we want is, by analogy, a measure
+of its departure from a plane. The curvature, as above defined, has
+become indeterminate, for through any point of the surface we can
+draw an infinite number of arcs, which will not, in general, all
+have the same curvature. Let us, then, draw all the geodesics joining
+the point in question to neighbouring points of the surface in all
+directions. Since these arcs form a singly infinite manifold, there
+will be among them, if they have not all the same curvature, one arc
+of maximum, and one of minimum curvature[22]. The product of these
+maximum and minimum curvatures is called the _measure of curvature_
+of the surface at the point under consideration. To illustrate by a
+few simple examples: on a sphere, the curvatures of all such lines
+are equal to the reciprocal of the radius of the sphere, hence the
+measure of curvature everywhere is the square of the reciprocal
+of the radius of the sphere. On any surface, such as a cone or
+a cylinder, on which straight lines can be drawn, these have no
+curvature, so that the measure of curvature is everywhere zero--this
+is the case, in particular, with the plane. In general, however, the
+measure of curvature of a surface varies from point to point.
+
+Gauss, the inventor of this conception[23], proved that, in order
+that two surfaces may be developable upon each other--_i.e._ may
+be such that one can be bent into the shape of the other without
+stretching or tearing--it is necessary that the two surfaces should
+have equal measures of curvature at corresponding points. When
+this is the case, every figure which is possible on the one is, in
+general, possible on the other, and the two have practically the same
+Geometry[24]. As a corollary, it follows that a necessary condition,
+for the free mobility of figures on any surface, is the constancy
+of the measure of curvature[25]. This condition was proved to be
+sufficient, as well as necessary, by Minding[26].
+
+=21.= So far, all has been plain sailing--we have been dealing with
+purely geometrical ideas in a purely geometrical manner--but we have
+not, as yet, found any sense of the measure of curvature, in which it
+can be extended to space, still less to an _n_-dimensional manifold.
+For this purpose, we must examine Gauss's method, which enables us to
+determine the measure of curvature of a surface at any point as an
+inherent property, quite independent of any reference to the third
+dimension.
+
+The method of determining the measure of curvature from within is,
+briefly, as follows: If any point on the surface be determined by two
+coordinates, _u_, _v_, then small arcs of the surface are given by
+the formula
+
+    ds^{2} = Edu^{2} + 2Fdu dv + Gdv^{2},
+
+where _E_, _F_, _G_ are, in general, functions of _u_, _v_.[27]
+From this formula alone, without reference to any space outside the
+surface, we can determine the measure of curvature at the point _u_,
+_v_, as a function of _E_, _F_, _G_ and their differentials with
+respect to _u_ and _v_. Thus we may regard the measure of curvature
+of a surface as an inherent property, and the above geometrical
+definition, which involved a reference to the third dimension, may
+be dropped. But at this point a caution is necessary. It will appear
+in Chap. III. (§ 176), that it is logically impossible to set up a
+precise coordinate system, in which the coordinates represent spatial
+magnitudes, without the axiom of Free Mobility, and this axiom, as we
+have just seen, holds on surfaces only when the measure of curvature
+is constant. Hence our definition of the measure of curvature will
+only be _really_ free from reference to the third dimension, when we
+are dealing with a surface of constant measure of curvature--a point
+which Riemann entirely overlooks. This caution, however, applies
+only in space, and if we take the coordinate system as presupposed
+in the conception of a manifold, we may neglect the caution
+altogether--while remembering that the possibility of a coordinate
+system in space involves axioms to be investigated later. We can thus
+see how a meaning might be found, without reference to any higher
+dimension, for a constant measure of curvature of three-dimensional
+space, or for any measure of curvature of an _n_-dimensional manifold
+in general.
+
+=22.= Such a meaning is supplied by Riemann's dissertation, to which,
+after this long digression, we can now return. We may define a
+continuous manifold as any continuum of elements, such that a single
+element is defined by _n_ continuously variable magnitudes. This
+definition does not really include space, for coordinates in space do
+not define a point, but its relations to the origin, which is itself
+arbitrary. It includes, however, the analytical conception of space
+with which Riemann deals, and may, therefore, be allowed to stand for
+the moment. Riemann then assumes that the difference--or distance,
+as it may be loosely called--between any two elements is comparable,
+as regards magnitude, to the difference between any other two. He
+assumes further, what it is Helmholtz's merit to have proved, that
+the difference _ds_ between two consecutive elements can be expressed
+as the square root of a quadratic function of the differences of the
+coordinates: _i.e._
+
+    ds^{2} = Σ{1}^{n} Σ{1}^{n} a{ik} dx{i}.dx{k},
+
+where the coefficients _a{ik}_ are, in general, functions of the
+coordinates _x{1} x{2} ... x{n}_.[28] The question is: How are
+we to obtain a definition of the measure of curvature out of this
+formula? It is noticeable, in the first place, that, just as in a
+surface we found an infinite number of _radii_ of curvature at a
+point, so in a manifold of three or more dimensions we must find an
+infinite number of _measures_ of curvature at a point, one for every
+two-dimensional manifold passing through the point, and contained
+in the higher manifold. What we have first to do, therefore, is to
+define such two-dimensional manifolds. They must consist, as we saw
+on the surface, of a singly infinite series of geodesics through the
+point. Now a geodesic is completely determined by one point and its
+direction at that point, or by one point and the next consecutive
+point. Hence a geodesic through the point considered is determined
+by the ratios of the increments of coordinates, _dx{1} dx{2} ...
+dx{n}_. Suppose we have two such geodesics, in which the _i_′th
+increments are respectively _d′x{i}_ and _d″x{i}_. Then all the
+geodesics given by
+
+    dx{i} = λ′d′x{i} + λ″d″x{i}
+
+[Illustration]
+
+form a singly infinite series, since they contain one parameter,
+namely λ′: λ″. Such a series of geodesics, therefore, must form a
+two-dimensional manifold, with a measure of curvature in the ordinary
+Gaussian sense. This measure of curvature can be determined from
+the above formula for the elementary arc, by the help of Gauss's
+general formula alluded to above. We thus obtain an infinite number
+of measures of curvature at a point, but from n.(n - 1)/2 of these,
+the rest can be deduced (Riemann, Gesammelte Werke, p. 262). When all
+the measures of curvature at a point are constant, and equal to all
+the measures of curvature at any other point, we get what Riemann
+calls a manifold of constant curvature. In such a manifold free
+mobility is possible, and positions do not differ intrinsically from
+one another. If _a_ be the measure of curvature, the formula for the
+arc becomes, in this case,
+
+    ds^{2} = Σdx^{2}/(1 + a/4 Σx^{2})^{2}.
+
+In this case only, as I pointed out above, can the term "measure of
+curvature" be properly applied to space without reference to a higher
+dimension, since free mobility is logically indispensable to the
+existence of quantitative or metrical Geometry.
+
+=23.= The mathematical result of Riemann's dissertation may be summed
+up as follows. Assuming it possible to apply magnitude to space,
+_i.e._ to determine its elements and figures by means of algebraical
+quantities, it follows that space can be brought under the conception
+of a manifold, as a system of quantitatively determinable elements.
+Owing, however, to the peculiar nature of spatial measurement, the
+quantitative determination of space demands that magnitudes shall
+be independent of place--in so far as this is not the case, our
+measurement will be necessarily inaccurate. If we now assume, as
+the quantitative relation of distance between two elements, the
+square root of a quadratic function of the coordinates--a formula
+subsequently proved by Helmholtz and Lie--then it follows, since
+magnitudes are to be independent of place, that space must, within
+the limits of observation, have a constant measure of curvature,
+or must, in other words, be homogeneous in all its parts. In the
+infinitesimal, Riemann says (p. 267), observation could not detect
+a departure from constancy on the part of the measure of curvature;
+but he makes no attempt to show how Geometry could remain possible
+under such circumstances, and the only Geometry he has constructed
+is based entirely on Free Mobility. I shall endeavour to prove, in

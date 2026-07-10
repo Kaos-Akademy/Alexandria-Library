@@ -1,0 +1,160 @@
+IV
+
+DEFINITIONS AND ASSUMPTIONS
+
+The existence of such principles is a difficulty for the uncompromising
+logicians; how do they pretend to get out of it? The principle of
+complete induction, they say, is not an assumption properly so called or
+a synthetic judgment _a priori_; it is just simply the definition of
+whole number. It is therefore a simple convention. To discuss this way
+of looking at it, we must examine a little closely the relations between
+definitions and assumptions.
+
+Let us go back first to an article by M. Couturat on mathematical
+definitions which appeared in _l'Enseignement mathématique_, a magazine
+published by Gauthier-Villars and by Georg at Geneva. We shall see there
+a distinction between the _direct definition and the definition by
+postulates_.
+
+"The definition by postulates," says M. Couturat, "applies not to a
+single notion, but to a system of notions; it consists in enumerating
+the fundamental relations which unite them and which enable us to
+demonstrate all their other properties; these relations are postulates."
+
+If previously have been defined all these notions but one, then this
+last will be by definition the thing which verifies these postulates.
+Thus certain indemonstrable assumptions of mathematics would be only
+disguised definitions. This point of view is often legitimate; and I
+have myself admitted it in regard for instance to Euclid's postulate.
+
+The other assumptions of geometry do not suffice to completely define
+distance; the distance then will be, by definition, among all the
+magnitudes which satisfy these other assumptions, that which is such as
+to make Euclid's postulate true.
+
+Well the logicians suppose true for the principle of complete induction
+what I admit for Euclid's postulate; they want to see in it only a
+disguised definition.
+
+But to give them this right, two conditions must be fulfilled. Stuart
+Mill says every definition implies an assumption, that by which the
+existence of the defined object is affirmed. According to that, it
+would no longer be the assumption which might be a disguised definition,
+it would on the contrary be the definition which would be a disguised
+assumption. Stuart Mill meant the word existence in a material and
+empirical sense; he meant to say that in defining the circle we affirm
+there are round things in nature.
+
+Under this form, his opinion is inadmissible. Mathematics is independent
+of the existence of material objects; in mathematics the word exist can
+have only one meaning, it means free from contradiction. Thus rectified,
+Stuart Mill's thought becomes exact; in defining a thing, we affirm that
+the definition implies no contradiction.
+
+If therefore we have a system of postulates, and if we can demonstrate
+that these postulates imply no contradiction, we shall have the right to
+consider them as representing the definition of one of the notions
+entering therein. If we can not demonstrate that, it must be admitted
+without proof, and that then will be an assumption; so that, seeking the
+definition under the postulate, we should find the assumption under the
+definition.
+
+Usually, to show that a definition implies no contradiction, we proceed
+by _example_, we try to make an example of a thing satisfying the
+definition. Take the case of a definition by postulates; we wish to
+define a notion _A_, and we say that, by definition, an _A_ is anything
+for which certain postulates are true. If we can prove directly that all
+these postulates are true of a certain object _B_, the definition will
+be justified; the object _B_ will be an _example_ of an _A_. We shall be
+certain that the postulates are not contradictory, since there are cases
+where they are all true at the same time.
+
+But such a direct demonstration by example is not always possible.
+
+To establish that the postulates imply no contradiction, it is then
+necessary to consider all the propositions deducible from these
+postulates considered as premises, and to show that, among these
+propositions, no two are contradictory. If these propositions are finite
+in number, a direct verification is possible. This case is infrequent
+and uninteresting. If these propositions are infinite in number, this
+direct verification can no longer be made; recourse must be had to
+procedures where in general it is necessary to invoke just this
+principle of complete induction which is precisely the thing to be
+proved.
+
+This is an explanation of one of the conditions the logicians should
+satisfy, _and further on we shall see they have not done it_.
+
+
+V
+
+There is a second. When we give a definition, it is to use it.
+
+We therefore shall find in the sequel of the exposition the word
+defined; have we the right to affirm, of the thing represented by this
+word, the postulate which has served for definition? Yes, evidently, if
+the word has retained its meaning, if we do not attribute to it
+implicitly a different meaning. Now this is what sometimes happens and
+it is usually difficult to perceive it; it is needful to see how this
+word comes into our discourse, and if the gate by which it has entered
+does not imply in reality a definition other than that stated.
+
+This difficulty presents itself in all the applications of mathematics.
+The mathematical notion has been given a definition very refined and
+very rigorous; and for the pure mathematician all doubt has disappeared;
+but if one wishes to apply it to the physical sciences for instance, it
+is no longer a question of this pure notion, but of a concrete object
+which is often only a rough image of it. To say that this object
+satisfies, at least approximately, the definition, is to state a new
+truth, which experience alone can put beyond doubt, and which no longer
+has the character of a conventional postulate.
+
+But without going beyond pure mathematics, we also meet the same
+difficulty.
+
+You give a subtile definition of numbers; then, once this definition
+given, you think no more of it; because, in reality, it is not it which
+has taught you what number is; you long ago knew that, and when the word
+number further on is found under your pen, you give it the same sense as
+the first comer. To know what is this meaning and whether it is the same
+in this phrase or that, it is needful to see how you have been led to
+speak of number and to introduce this word into these two phrases. I
+shall not for the moment dilate upon this point, because we shall have
+occasion to return to it.
+
+Thus consider a word of which we have given explicitly a definition _A_;
+afterwards in the discourse we make a use of it which implicitly
+supposes another definition _B_. It is possible that these two
+definitions designate the same thing. But that this is so is a new truth
+which must either be demonstrated or admitted as an independent
+assumption.
+
+_We shall see farther on that the logicians have not fulfilled the
+second condition any better than the first._
+
+
+VI
+
+The definitions of number are very numerous and very different; I forego
+the enumeration even of the names of their authors. We should not be
+astonished that there are so many. If one among them was satisfactory,
+no new one would be given. If each new philosopher occupying himself
+with this question has thought he must invent another one, this was
+because he was not satisfied with those of his predecessors, and he was
+not satisfied with them because he thought he saw a petitio principii.
+
+I have always felt, in reading the writings devoted to this problem, a
+profound feeling of discomfort; I was always expecting to run against a
+petitio principii, and when I did not immediately perceive it, I feared
+I had overlooked it.
+
+This is because it is impossible to give a definition without using a
+sentence, and difficult to make a sentence without using a number word,
+or at least the word several, or at least a word in the plural. And then
+the declivity is slippery and at each instant there is risk of a fall
+into petitio principii.
+
+I shall devote my attention in what follows only to those of these
+definitions where the petitio principii is most ably concealed.
+
+

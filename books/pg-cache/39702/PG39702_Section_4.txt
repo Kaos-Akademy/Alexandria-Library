@@ -1,0 +1,945 @@
+CHAPTER III.
+
+TRANSCENDENTAL ANALYSIS:
+
+DIFFERENT MODES OF VIEWING IT.
+
+
+We determined, in the second chapter, the philosophical character of the
+transcendental analysis, in whatever manner it may be conceived,
+considering only the general nature of its actual destination as a part
+of mathematical science. This analysis has been presented by geometers
+under several points of view, really distinct, although necessarily
+equivalent, and leading always to identical results. They may be reduced
+to three principal ones; those of LEIBNITZ, of NEWTON, and of LAGRANGE,
+of which all the others are only secondary modifications. In the present
+state of science, each of these three general conceptions offers
+essential advantages which pertain to it exclusively, without our having
+yet succeeded in constructing a single method uniting all these
+different characteristic qualities. This combination will probably be
+hereafter effected by some method founded upon the conception of
+Lagrange when that important philosophical labour shall have been
+accomplished, the study of the other conceptions will have only a
+historic interest; but, until then, the science must be considered as in
+only a provisional state, which requires the simultaneous consideration
+of all the various modes of viewing this calculus. Illogical as may
+appear this multiplicity of conceptions of one identical subject, still,
+without them all, we could form but a very insufficient idea of this
+analysis, whether in itself, or more especially in relation to its
+applications. This want of system in the most important part of
+mathematical analysis will not appear strange if we consider, on the one
+hand, its great extent and its superior difficulty, and, on the other,
+its recent formation.
+
+
+
+
+ITS EARLY HISTORY.
+
+
+If we had to trace here the systematic history of the successive
+formation of the transcendental analysis, it would be necessary
+previously to distinguish carefully from the _calculus of indirect
+functions_, properly so called, the original idea of the _infinitesimal
+method_, which can be conceived by itself, independently of any
+_calculus_. We should see that the first germ of this idea is found in
+the procedure constantly employed by the Greek geometers, under the name
+of the _Method of Exhaustions_, as a means of passing from the
+properties of straight lines to those of curves, and consisting
+essentially in substituting for the curve the auxiliary consideration of
+an inscribed or circumscribed polygon, by means of which they rose to
+the curve itself, taking in a suitable manner the limits of the
+primitive ratios. Incontestable as is this filiation of ideas, it would
+be giving it a greatly exaggerated importance to see in this method of
+exhaustions the real equivalent of our modern methods, as some geometers
+have done; for the ancients had no logical and general means for the
+determination of these limits, and this was commonly the greatest
+difficulty of the question; so that their solutions were not subjected
+to abstract and invariable rules, the uniform application of which would
+lead with certainty to the knowledge sought; which is, on the contrary,
+the principal characteristic of our transcendental analysis. In a word,
+there still remained the task of generalizing the conceptions used by
+the ancients, and, more especially, by considering it in a manner purely
+abstract, of reducing it to a complete system of calculation, which to
+them was impossible.
+
+The first idea which was produced in this new direction goes back to the
+great geometer Fermat, whom Lagrange has justly presented as having
+blocked out the direct formation of the transcendental analysis by his
+method for the determination of _maxima_ and _minima_, and for the
+finding of _tangents_, which consisted essentially in introducing the
+auxiliary consideration of the correlative increments of the proposed
+variables, increments afterward suppressed as equal to zero when the
+equations had undergone certain suitable transformations. But, although
+Fermat was the first to conceive this analysis in a truly abstract
+manner, it was yet far from being regularly formed into a general and
+distinct calculus having its own notation, and especially freed from the
+superfluous consideration of terms which, in the analysis of Fermat,
+were finally not taken into the account, after having nevertheless
+greatly complicated all the operations by their presence. This is what
+Leibnitz so happily executed, half a century later, after some
+intermediate modifications of the ideas of Fermat introduced by Wallis,
+and still more by Barrow; and he has thus been the true creator of the
+transcendental analysis, such as we now employ it. This admirable
+discovery was so ripe (like all the great conceptions of the human
+intellect at the moment of their manifestation), that Newton, on his
+side, had arrived, at the same time, or a little earlier, at a method
+exactly equivalent, by considering this analysis under a very different
+point of view, which, although more logical in itself, is really less
+adapted to give to the common fundamental method all the extent and the
+facility which have been imparted to it by the ideas of Leibnitz.
+Finally, Lagrange, putting aside the heterogeneous considerations which
+had guided Leibnitz and Newton, has succeeded in reducing the
+transcendental analysis, in its greatest perfection, to a purely
+algebraic system, which only wants more aptitude for its practical
+applications.
+
+After this summary glance at the general history of the transcendental
+analysis, we will proceed to the dogmatic exposition of the three
+principal conceptions, in order to appreciate exactly their
+characteristic properties, and to show the necessary identity of the
+methods which are thence derived. Let us begin with that of Leibnitz.
+
+
+
+
+METHOD OF LEIBNITZ.
+
+
+_Infinitely small Elements._ This consists in introducing into the
+calculus, in order to facilitate the establishment of equations, the
+infinitely small elements of which all the quantities, the relations
+between which are sought, are considered to be composed. These elements
+or _differentials_ will have certain relations to one another, which are
+constantly and necessarily more simple and easy to discover than those
+of the primitive quantities, and by means of which we will be enabled
+(by a special calculus having for its peculiar object the elimination of
+these auxiliary infinitesimals) to go back to the desired equations,
+which it would have been most frequently impossible to obtain directly.
+This indirect analysis may have different degrees of indirectness; for,
+when there is too much difficulty in forming immediately the equation
+between the differentials of the magnitudes under consideration, a
+second application of the same general artifice will have to be made,
+and these differentials be treated, in their turn, as new primitive
+quantities, and a relation be sought between their infinitely small
+elements (which, with reference to the final objects of the question,
+will be _second differentials_), and so on; the same transformation
+admitting of being repeated any number of times, on the condition of
+finally eliminating the constantly increasing number of infinitesimal
+quantities introduced as auxiliaries.
+
+A person not yet familiar with these considerations does not perceive at
+once how the employment of these auxiliary quantities can facilitate the
+discovery of the analytical laws of phenomena; for the infinitely small
+increments of the proposed magnitudes being of the same species with
+them, it would seem that their relations should not be obtained with
+more ease, inasmuch as the greater or less value of a quantity cannot,
+in fact, exercise any influence on an inquiry which is necessarily
+independent, by its nature, of every idea of value. But it is easy,
+nevertheless, to explain very clearly, and in a quite general manner,
+how far the question must be simplified by such an artifice. For this
+purpose, it is necessary to begin by distinguishing _different orders_
+of infinitely small quantities, a very precise idea of which may be
+obtained by considering them as being either the successive powers of
+the same primitive infinitely small quantity, or as being quantities
+which may be regarded as having finite ratios with these powers; so
+that, to take an example, the second, third, &c., differentials of any
+one variable are classed as infinitely small quantities of the second
+order, the third, &c., because it is easy to discover in them finite
+multiples of the second, third, &c., powers of a certain first
+differential. These preliminary ideas being established, the spirit of
+the infinitesimal analysis consists in constantly neglecting the
+infinitely small quantities in comparison with finite quantities, and
+generally the infinitely small quantities of any order whatever in
+comparison with all those of an inferior order. It is at once apparent
+how much such a liberty must facilitate the formation of equations
+between the differentials of quantities, since, in the place of these
+differentials, we can substitute such other elements as we may choose,
+and as will be more simple to consider, only taking care to conform to
+this single condition, that the new elements differ from the preceding
+ones only by quantities infinitely small in comparison with them. It is
+thus that it will be possible, in geometry, to treat curved lines as
+composed of an infinity of rectilinear elements, curved surfaces as
+formed of plane elements, and, in mechanics, variable motions as an
+infinite series of uniform motions, succeeding one another at infinitely
+small intervals of time.
+
+
+EXAMPLES. Considering the importance of this admirable conception, I
+think that I ought here to complete the illustration of its fundamental
+character by the summary indication of some leading examples.
+
+
+1. _Tangents._ Let it be required to determine, for each point of a
+plane curve, the equation of which is given, the direction of its
+tangent; a question whose general solution was the primitive object of
+the inventors of the transcendental analysis. We will consider the
+tangent as a secant joining two points infinitely near to each other;
+and then, designating by _dy_ and _dx_ the infinitely small differences
+of the co-ordinates of those two points, the elementary principles of
+geometry will immediately give the equation _t_ = _dy_/_dx_ for the
+trigonometrical tangent of the angle which is made with the axis of the
+abscissas by the desired tangent, this being the most simple way of
+fixing its position in a system of rectilinear co-ordinates. This
+equation, common to all curves, being established, the question is
+reduced to a simple analytical problem, which will consist in
+eliminating the infinitesimals _dx_ and _dy_, which were introduced as
+auxiliaries, by determining in each particular case, by means of the
+equation of the proposed curve, the ratio of _dy_ to _dx_, which will be
+constantly done by uniform and very simple methods.
+
+
+2. _Rectification of an Arc._ In the second place, suppose that we wish
+to know the length of the arc of any curve, considered as a function of
+the co-ordinates of its extremities. It would be impossible to establish
+directly the equation between this arc s and these co-ordinates, while
+it is easy to find the corresponding relation between the differentials
+of these different magnitudes. The most simple theorems of elementary
+geometry will in fact give at once, considering the infinitely small arc
+_ds_ as a right line, the equations
+
+  _ds²_ = _dy²_ + _dx²_, or _ds²_ = _dx²_ + _dy²_ + _dz²_,
+
+according as the curve is of single or double curvature. In either case,
+the question is now entirely within the domain of analysis, which, by
+the elimination of the differentials (which is the peculiar object of
+the calculus of indirect functions), will carry us back from this
+relation to that which exists between the finite quantities themselves
+under examination.
+
+
+3. _Quadrature of a Curve._ It would be the same with the quadrature of
+curvilinear areas. If the curve is a plane one, and referred to
+rectilinear co-ordinates, we will conceive the area A comprised between
+this curve, the axis of the abscissas, and two extreme co-ordinates, to
+increase by an infinitely small quantity _d_A, as the result of a
+corresponding increment of the abscissa. The relation between these two
+differentials can be immediately obtained with the greatest facility by
+substituting for the curvilinear element of the proposed area the
+rectangle formed by the extreme ordinate and the element of the
+abscissa, from which it evidently differs only by an infinitely small
+quantity of the second order. This will at once give, whatever may be
+the curve, the very simple differential equation
+
+  _d_A = _ydx_,
+
+from which, when the curve is defined, the calculus of indirect
+functions will show how to deduce the finite equation, which is the
+immediate object of the problem.
+
+
+4. _Velocity in Variable Motion._ In like manner, in Dynamics, when we
+desire to know the expression for the velocity acquired at each instant
+by a body impressed with a motion varying according to any law, we will
+consider the motion as being uniform during an infinitely small element
+of the time _t_, and we will thus immediately form the differential
+equation _de_ = _vdt_, in which _v_ designates the velocity acquired
+when the body has passed over the space _e_; and thence it will be easy
+to deduce, by simple and invariable analytical procedures, the formula
+which would give the velocity in each particular motion, in accordance
+with the corresponding relation between the time and the space; or,
+reciprocally, what this relation would be if the mode of variation of
+the velocity was supposed to be known, whether with respect to the space
+or to the time.
+
+
+5. _Distribution of Heat._ Lastly, to indicate another kind of
+questions, it is by similar steps that we are able, in the study of
+thermological phenomena, according to the happy conception of M.
+Fourier, to form in a very simple manner the general differential
+equation which expresses the variable distribution of heat in any body
+whatever, subjected to any influences, by means of the single and
+easily-obtained relation, which represents the uniform distribution of
+heat in a right-angled parallelopipedon, considering (geometrically)
+every other body as decomposed into infinitely small elements of a
+similar form, and (thermologically) the flow of heat as constant during
+an infinitely small element of time. Henceforth, all the questions which
+can be presented by abstract thermology will be reduced, as in geometry
+and mechanics, to mere difficulties of analysis, which will always
+consist in the elimination of the differentials introduced as
+auxiliaries to facilitate the establishment of the equations.
+
+Examples of such different natures are more than sufficient to give a
+clear general idea of the immense scope of the fundamental conception of
+the transcendental analysis as formed by Leibnitz, constituting, as it
+undoubtedly does, the most lofty thought to which the human mind has as
+yet attained.
+
+It is evident that this conception was indispensable to complete the
+foundation of mathematical science, by enabling us to establish, in a
+broad and fruitful manner, the relation of the concrete to the abstract.
+In this respect it must be regarded as the necessary complement of the
+great fundamental idea of Descartes on the general analytical
+representation of natural phenomena: an idea which did not begin to be
+worthily appreciated and suitably employed till after the formation of
+the infinitesimal analysis, without which it could not produce, even in
+geometry, very important results.
+
+
+_Generality of the Formulas._ Besides the admirable facility which is
+given by the transcendental analysis for the investigation of the
+mathematical laws of all phenomena, a second fundamental and inherent
+property, perhaps as important as the first, is the extreme generality
+of the differential formulas, which express in a single equation each
+determinate phenomenon, however varied the subjects in relation to which
+it is considered. Thus we see, in the preceding examples, that a single
+differential equation gives the tangents of all curves, another their
+rectifications, a third their quadratures; and in the same way, one
+invariable formula expresses the mathematical law of every variable
+motion; and, finally, a single equation constantly represents the
+distribution of heat in any body and for any case. This generality,
+which is so exceedingly remarkable, and which is for geometers the basis
+of the most elevated considerations, is a fortunate and necessary
+consequence of the very spirit of the transcendental analysis,
+especially in the conception of Leibnitz. Thus the infinitesimal
+analysis has not only furnished a general method for indirectly forming
+equations which it would have been impossible to discover in a direct
+manner, but it has also permitted us to consider, for the mathematical
+study of natural phenomena, a new order of more general laws, which
+nevertheless present a clear and precise signification to every mind
+habituated to their interpretation. By virtue of this second
+characteristic property, the entire system of an immense science, such
+as geometry or mechanics, has been condensed into a small number of
+analytical formulas, from which the human mind can deduce, by certain
+and invariable rules, the solution of all particular problems.
+
+
+_Demonstration of the Method._ To complete the general exposition of the
+conception of Leibnitz, there remains to be considered the demonstration
+of the logical procedure to which it leads, and this, unfortunately, is
+the most imperfect part of this beautiful method.
+
+In the beginning of the infinitesimal analysis, the most celebrated
+geometers rightly attached more importance to extending the immortal
+discovery of Leibnitz and multiplying its applications than to
+rigorously establishing the logical bases of its operations. They
+contented themselves for a long time by answering the objections of
+second-rate geometers by the unhoped-for solution of the most difficult
+problems; doubtless persuaded that in mathematical science, much more
+than in any other, we may boldly welcome new methods, even when their
+rational explanation is imperfect, provided they are fruitful in
+results, inasmuch as its much easier and more numerous verifications
+would not permit any error to remain long undiscovered. But this state
+of things could not long exist, and it was necessary to go back to the
+very foundations of the analysis of Leibnitz in order to prove, in a
+perfectly general manner, the rigorous exactitude of the procedures
+employed in this method, in spite of the apparent infractions of the
+ordinary rules of reasoning which it permitted.
+
+Leibnitz, urged to answer, had presented an explanation entirely
+erroneous, saying that he treated infinitely small quantities as
+_incomparables_, and that he neglected them in comparison with finite
+quantities, "like grains of sand in comparison with the sea:" a view
+which would have completely changed the nature of his analysis, by
+reducing it to a mere approximative calculus, which, under this point of
+view, would be radically vicious, since it would be impossible to
+foresee, in general, to what degree the successive operations might
+increase these first errors, which could thus evidently attain any
+amount. Leibnitz, then, did not see, except in a very confused manner,
+the true logical foundations of the analysis which he had created. His
+earliest successors limited themselves, at first, to verifying its
+exactitude by showing the conformity of its results, in particular
+applications, to those obtained by ordinary algebra or the geometry of
+the ancients; reproducing, according to the ancient methods, so far as
+they were able, the solutions of some problems after they had been once
+obtained by the new method, which alone was capable of discovering them
+in the first place.
+
+When this great question was considered in a more general manner,
+geometers, instead of directly attacking the difficulty, preferred to
+elude it in some way, as Euler and D'Alembert, for example, have done,
+by demonstrating the necessary and constant conformity of the conception
+of Leibnitz, viewed in all its applications, with other fundamental
+conceptions of the transcendental analysis, that of Newton especially,
+the exactitude of which was free from any objection. Such a general
+verification is undoubtedly strictly sufficient to dissipate any
+uncertainty as to the legitimate employment of the analysis of Leibnitz.
+But the infinitesimal method is so important--it offers still, in almost
+all its applications, such a practical superiority over the other
+general conceptions which have been successively proposed--that there
+would be a real imperfection in the philosophical character of the
+science if it could not justify itself, and needed to be logically
+founded on considerations of another order, which would then cease to be
+employed.
+
+It was, then, of real importance to establish directly and in a general
+manner the necessary rationality of the infinitesimal method. After
+various attempts more or less imperfect, a distinguished geometer,
+Carnot, presented at last the true direct logical explanation of the
+method of Leibnitz, by showing it to be founded on the principle of the
+necessary compensation of errors, this being, in fact, the precise and
+luminous manifestation of what Leibnitz had vaguely and confusedly
+perceived. Carnot has thus rendered the science an essential service,
+although, as we shall see towards the end of this chapter, all this
+logical scaffolding of the infinitesimal method, properly so called, is
+very probably susceptible of only a provisional existence, inasmuch as
+it is radically vicious in its nature. Still, we should not fail to
+notice the general system of reasoning proposed by Carnot, in order to
+directly legitimate the analysis of Leibnitz. Here is the substance of
+it:
+
+In establishing the differential equation of a phenomenon, we
+substitute, for the immediate elements of the different quantities
+considered, other simpler infinitesimals, which differ from them
+infinitely little in comparison with them; and this substitution
+constitutes the principal artifice of the method of Leibnitz, which
+without it would possess no real facility for the formation of
+equations. Carnot regards such an hypothesis as really producing an
+error in the equation thus obtained, and which for this reason he calls
+_imperfect_; only, it is clear that this error must be infinitely small.
+Now, on the other hand, all the analytical operations, whether of
+differentiation or of integration, which are performed upon these
+differential equations, in order to raise them to finite equations by
+eliminating all the infinitesimals which have been introduced as
+auxiliaries, produce as constantly, by their nature, as is easily seen,
+other analogous errors, so that an exact compensation takes place, and
+the final equations, in the words of Carnot, become _perfect_. Carnot
+views, as a certain and invariable indication of the actual
+establishment of this necessary compensation, the complete elimination
+of the various infinitely small quantities, which is always, in fact,
+the final object of all the operations of the transcendental analysis;
+for if we have committed no other infractions of the general rules of
+reasoning than those thus exacted by the very nature of the
+infinitesimal method, the infinitely small errors thus produced cannot
+have engendered other than infinitely small errors in all the equations,
+and the relations are necessarily of a rigorous exactitude as soon as
+they exist between finite quantities alone, since the only errors then
+possible must be finite ones, while none such can have entered. All this
+general reasoning is founded on the conception of infinitesimal
+quantities, regarded as indefinitely decreasing, while those from which
+they are derived are regarded as fixed.
+
+
+_Illustration by Tangents._ Thus, to illustrate this abstract exposition
+by a single example, let us take up again the question of _tangents_,
+which is the most easy to analyze completely. We will regard the
+equation _t_ = _dy/dx_, obtained above, as being affected with an
+infinitely small error, since it would be perfectly rigorous only for
+the secant. Now let us complete the solution by seeking, according to
+the equation of each curve, the ratio between the differentials of the
+co-ordinates. If we suppose this equation to be _y_ = _ax²_, we shall
+evidently have
+
+  _dy_ = 2_axdx_ + _adx²_.
+
+In this formula we shall have to neglect the term _dx²_ as an infinitely
+small quantity of the second order. Then the combination of the two
+_imperfect_ equations.
+
+  _t_ = _dy/dx_, _dy_ = 2_ax(dx)_,
+
+being sufficient to eliminate entirely the infinitesimals, the finite
+result, _t_ = 2_ax_, will necessarily be rigorously correct, from the
+effect of the exact compensation of the two errors committed; since, by
+its finite nature, it cannot be affected by an infinitely small error,
+and this is, nevertheless, the only one which it could have, according
+to the spirit of the operations which have been executed.
+
+It would be easy to reproduce in a uniform manner the same reasoning
+with reference to all the other general applications of the analysis of
+Leibnitz.
+
+This ingenious theory is undoubtedly more subtile than solid, when we
+examine it more profoundly; but it has really no other radical logical
+fault than that of the infinitesimal method itself, of which it is, it
+seems to me, the natural development and the general explanation, so
+that it must be adopted for as long a time as it shall be thought proper
+to employ this method directly.
+
+       *       *       *       *       *
+
+I pass now to the general exposition of the two other fundamental
+conceptions of the transcendental analysis, limiting myself in each to
+its principal idea, the philosophical character of the analysis having
+been sufficiently determined above in the examination of the conception
+of Leibnitz, which I have specially dwelt upon because it admits of
+being most easily grasped as a whole, and most rapidly described.
+
+
+
+
+METHOD OF NEWTON.
+
+
+Newton has successively presented his own method of conceiving the
+transcendental analysis under several different forms. That which is at
+present the most commonly adopted was designated by Newton, sometimes
+under the name of the _Method of prime and ultimate Ratios_, sometimes
+under that of the _Method of Limits_.
+
+
+_Method of Limits._ The general spirit of the transcendental analysis,
+from this point of view, consists in introducing as auxiliaries, in the
+place of the primitive quantities, or concurrently with them, in order
+to facilitate the establishment of equations, the _limits of the ratios_
+of the simultaneous increments of these quantities; or, in other words,
+the _final ratios_ of these increments; limits or final ratios which can
+be easily shown to have a determinate and finite value. A special
+calculus, which is the equivalent of the infinitesimal calculus, is then
+employed to pass from the equations between these limits to the
+corresponding equations between the primitive quantities themselves.
+
+The power which is given by such an analysis, of expressing with more
+ease the mathematical laws of phenomena, depends in general on this,
+that since the calculus applies, not to the increments themselves of the
+proposed quantities, but to the limits of the ratios of those
+increments, we can always substitute for each increment any other
+magnitude more easy to consider, provided that their final ratio is the
+ratio of equality, or, in other words, that the limit of their ratio is
+unity. It is clear, indeed, that the calculus of limits would be in no
+way affected by this substitution. Starting from this principle, we find
+nearly the equivalent of the facilities offered by the analysis of
+Leibnitz, which are then merely conceived under another point of view.
+Thus curves will be regarded as the _limits_ of a series of rectilinear
+polygons, variable motions as the _limits_ of a collection of uniform
+motions of constantly diminishing durations, and so on.
+
+
+EXAMPLES. 1. _Tangents._ Suppose, for example, that we wish to determine
+the direction of the tangent to a curve; we will regard it as the limit
+towards which would tend a secant, which should turn about the given
+point so that its second point of intersection should indefinitely
+approach the first. Representing the differences of the co-ordinates of
+the two points by Δ_y_ and Δ_x_, we would have at each instant, for the
+trigonometrical tangent of the angle which the secant makes with the
+axis of abscissas,
+
+  _t_ = Δ_y_/Δ_x_;
+
+from which, taking the limits, we will obtain, relatively to the tangent
+itself, this general formula of transcendental analysis,
+
+  _t_ = _L_(Δ_y_/Δ_x_),
+
+the characteristic _L_ being employed to designate the limit. The
+calculus of indirect functions will show how to deduce from this formula
+in each particular case, when the equation of the curve is given, the
+relation between _t_ and _x_, by eliminating the auxiliary quantities
+which have been introduced. If we suppose, in order to complete the
+solution, that the equation of the proposed curve is _y_ = _ax²_, we
+shall evidently have
+
+  Δ_y_ = 2_ax_Δ_x_ + _a_(Δ_x_)²,
+
+from which we shall obtain
+
+  Δ_y_/Δ_x_ = 2_ax_ + _a_Δ_x_.
+
+Now it is clear that the _limit_ towards which the second number tends,
+in proportion as Δ_x_ diminishes, is 2_ax_. We shall therefore find, by
+this method, _t_ = 2_ax_, as we obtained it for the same case by the
+method of Leibnitz.
+
+2. _Rectifications._ In like manner, when the rectification of a curve
+is desired, we must substitute for the increment of the arc s the chord
+of this increment, which evidently has such a connexion with it that the
+limit of their ratio is unity; and then we find (pursuing in other
+respects the same plan as with the method of Leibnitz) this general
+equation of rectifications:
+
+  (_LΔs_/Δ_x_)² = 1 + (_LΔy_/Δ_x_)²,
+  or (_LΔs_/Δ_x_)² = 1 + (_LΔy_/Δ_x_)² + (_LΔz_/Δ_x_)²,
+
+according as the curve is plane or of double curvature. It will now be
+necessary, for each particular curve, to pass from this equation to that
+between the arc and the abscissa, which depends on the transcendental
+calculus properly so called.
+
+We could take up, with the same facility, by the method of limits, all
+the other general questions, the solution of which has been already
+indicated according to the infinitesimal method.
+
+Such is, in substance, the conception which Newton formed for the
+transcendental analysis, or, more precisely, that which Maclaurin and
+D'Alembert have presented as the most rational basis of that analysis,
+in seeking to fix and to arrange the ideas of Newton upon that subject.
+
+
+_Fluxions and Fluents._ Another distinct form under which Newton has
+presented this same method should be here noticed, and deserves
+particularly to fix our attention, as much by its ingenious clearness in
+some cases as by its having furnished the notation best suited to this
+manner of viewing the transcendental analysis, and, moreover, as having
+been till lately the special form of the calculus of indirect functions
+commonly adopted by the English geometers. I refer to the calculus of
+_fluxions_ and of _fluents_, founded on the general idea of
+_velocities_.
+
+To facilitate the conception of the fundamental idea, let us consider
+every curve as generated by a point impressed with a motion varying
+according to any law whatever. The different quantities which the curve
+can present, the abscissa, the ordinate, the arc, the area, &c., will be
+regarded as simultaneously produced by successive degrees during this
+motion. The _velocity_ with which each shall have been described will be
+called the _fluxion_ of that quantity, which will be inversely named its
+_fluent_. Henceforth the transcendental analysis will consist, according
+to this conception, in forming directly the equations between the
+fluxions of the proposed quantities, in order to deduce therefrom, by a
+special calculus, the equations between the fluents themselves. What
+has been stated respecting curves may, moreover, evidently be applied to
+any magnitudes whatever, regarded, by the aid of suitable images, as
+produced by motion.
+
+It is easy to understand the general and necessary identity of this
+method with that of limits complicated with the foreign idea of motion.
+In fact, resuming the case of the curve, if we suppose, as we evidently
+always may, that the motion of the describing point is uniform in a
+certain direction, that of the abscissa, for example, then the fluxion
+of the abscissa will be constant, like the element of the time; for all
+the other quantities generated, the motion cannot be conceived to be
+uniform, except for an infinitely small time. Now the velocity being in
+general according to its mechanical conception, the ratio of each space
+to the time employed in traversing it, and this time being here
+proportional to the increment of the abscissa, it follows that the
+fluxions of the ordinate, of the arc, of the area, &c., are really
+nothing else (rejecting the intermediate consideration of time) than the
+final ratios of the increments of these different quantities to the
+increment of the abscissa. This method of fluxions and fluents is, then,
+in reality, only a manner of representing, by a comparison borrowed from
+mechanics, the method of prime and ultimate ratios, which alone can be
+reduced to a calculus. It evidently, then, offers the same general
+advantages in the various principal applications of the transcendental
+analysis, without its being necessary to present special proofs of
+this.
+
+
+
+
+METHOD OF LAGRANGE.
+
+
+_Derived Functions._ The conception of Lagrange, in its admirable
+simplicity, consists in representing the transcendental analysis as a
+great algebraic artifice, by which, in order to facilitate the
+establishment of equations, we introduce, in the place of the primitive
+functions, or concurrently with them, their _derived_ functions; that
+is, according to the definition of Lagrange, the coefficient of the
+first term of the increment of each function, arranged according to the
+ascending powers of the increment of its variable. The special calculus
+of indirect functions has for its constant object, here as well as in
+the conceptions of Leibnitz and of Newton, to eliminate these
+_derivatives_ which have been thus employed as auxiliaries, in order to
+deduce from their relations the corresponding equations between the
+primitive magnitudes.
+
+
+_An Extension of ordinary Analysis._ The transcendental analysis is,
+then, nothing but a simple though very considerable extension of
+ordinary analysis. Geometers have long been accustomed to introduce in
+analytical investigations, in the place of the magnitudes themselves
+which they wished to study, their different powers, or their logarithms,
+or their sines, &c., in order to simplify the equations, and even to
+obtain them more easily. This successive _derivation_ is an artifice of
+the same nature, only of greater extent, and procuring, in consequence,
+much more important resources for this common object.
+
+But, although we can readily conceive, _à priori_, that the auxiliary
+consideration of these derivatives _may_ facilitate the establishment
+of equations, it is not easy to explain why this _must_ necessarily
+follow from this mode of derivation rather than from any other
+transformation. Such is the weak point of the great idea of Lagrange.
+The precise advantages of this analysis cannot as yet be grasped in an
+abstract manner, but only shown by considering separately each principal
+question, so that the verification is often exceedingly laborious.
+
+
+EXAMPLE. _Tangents._ This manner of conceiving the transcendental
+analysis may be best illustrated by its application to the most simple
+of the problems above examined--that of tangents.
+
+Instead of conceiving the tangent as the prolongation of the infinitely
+small element of the curve, according to the notion of Leibnitz--or as
+the limit of the secants, according to the ideas of Newton--Lagrange
+considers it, according to its simple geometrical character, analogous
+to the definitions of the ancients, to be a right line such that no
+other right line can pass through the point of contact between it and
+the curve. Then, to determine its direction, we must seek the general
+expression of its distance from the curve, measured in any direction
+whatever--in that of the ordinate, for example--and dispose of the
+arbitrary constant relating to the inclination of the right line, which
+will necessarily enter into that expression, in such a way as to
+diminish that separation as much as possible. Now this distance, being
+evidently equal to the difference of the two ordinates of the curve and
+of the right line, which correspond to the same new abscissa _x_ + _h_,
+will be represented by the formula
+
+  (_f'_(_x_) - _t_)_h_ + _qh²_ + _rh³_ + etc.,
+
+in which _t_ designates, as above, the unknown trigonometrical tangent
+of the angle which the required line makes with the axis of abscissas,
+and _f'_(_x_) the derived function of the ordinate _f_(_x_). This being
+understood, it is easy to see that, by disposing of _t_ so as to make
+the first term of the preceding formula equal to zero, we will render
+the interval between the two lines the least possible, so that any other
+line for which _t_ did not have the value thus determined would
+necessarily depart farther from the proposed curve. We have, then, for
+the direction of the tangent sought, the general expression _t_ =
+_f'_(_x_), a result exactly equivalent to those furnished by the
+Infinitesimal Method and the Method of Limits. We have yet to find
+_f'_(_x_) in each particular curve, which is a mere question of
+analysis, quite identical with those which are presented, at this stage
+of the operations, by the other methods.
+
+After these considerations upon the principal general conceptions, we
+need not stop to examine some other theories proposed, such as Euler's
+_Calculus of Vanishing Quantities_, which are really modifications--more
+or less important, and, moreover, no longer used--of the preceding
+methods.
+
+I have now to establish the comparison and the appreciation of these
+three fundamental methods. Their _perfect and necessary conformity_ is
+first to be proven in a general manner.
+
+
+
+
+FUNDAMENTAL IDENTITY OF THE THREE METHODS.
+
+
+It is, in the first place, evident from what precedes, considering these
+three methods as to their actual destination, independently of their
+preliminary ideas, that they all consist in the same general logical
+artifice, which has been characterized in the first chapter; to wit,
+the introduction of a certain system of auxiliary magnitudes, having
+uniform relations to those which are the special objects of the inquiry,
+and substituted for them expressly to facilitate the analytical
+expression of the mathematical laws of the phenomena, although they have
+finally to be eliminated by the aid of a special calculus. It is this
+which has determined me to regularly define the transcendental analysis
+as _the calculus of indirect functions_, in order to mark its true
+philosophical character, at the same time avoiding any discussion upon
+the best manner of conceiving and applying it. The general effect of
+this analysis, whatever the method employed, is, then, to bring every
+mathematical question much more promptly within the power of the
+_calculus_, and thus to diminish considerably the serious difficulty
+which is usually presented by the passage from the concrete to the
+abstract. Whatever progress we may make, we can never hope that the
+calculus will ever be able to grasp every question of natural
+philosophy, geometrical, or mechanical, or thermological, &c.,
+immediately upon its birth, which would evidently involve a
+contradiction. Every problem will constantly require a certain
+preliminary labour to be performed, in which the calculus can be of no
+assistance, and which, by its nature, cannot be subjected to abstract
+and invariable rules; it is that which has for its special object the
+establishment of equations, which form the indispensable starting point
+of all analytical researches. But this preliminary labour has been
+remarkably simplified by the creation of the transcendental analysis,
+which has thus hastened the moment at which the solution admits of the
+uniform and precise application of general and abstract methods; by
+reducing, in each case, this special labour to the investigation of
+equations between the auxiliary magnitudes; from which the calculus then
+leads to equations directly referring to the proposed magnitudes, which,
+before this admirable conception, it had been necessary to establish
+directly and separately. Whether these indirect equations are
+_differential_ equations, according to the idea of Leibnitz, or
+equations of _limits_, conformably to the conception of Newton, or,
+lastly, _derived_ equations, according to the theory of Lagrange, the
+general procedure is evidently always the same.
+
+But the coincidence of these three principal methods is not limited to
+the common effect which they produce; it exists, besides, in the very
+manner of obtaining it. In fact, not only do all three consider, in the
+place of the primitive magnitudes, certain auxiliary ones, but, still
+farther, the quantities thus introduced as subsidiary are exactly
+identical in the three methods, which consequently differ only in the
+manner of viewing them. This can be easily shown by taking for the
+general term of comparison any one of the three conceptions, especially
+that of Lagrange, which is the most suitable to serve as a type, as
+being the freest from foreign considerations. Is it not evident, by the
+very definition of _derived functions_, that they are nothing else than
+what Leibnitz calls _differential coefficients_, or the ratios of the
+differential of each function to that of the corresponding variable,
+since, in determining the first differential, we will be obliged, by the
+very nature of the infinitesimal method, to limit ourselves to taking
+the only term of the increment of the function which contains the first
+power of the infinitely small increment of the variable? In the same
+way, is not the derived function, by its nature, likewise the necessary
+_limit_ towards which tends the ratio between the increment of the
+primitive function and that of its variable, in proportion as this last
+indefinitely diminishes, since it evidently expresses what that ratio
+becomes when we suppose the increment of the variable to equal zero?
+That which is designated by _dx_/_dy_ in the method of Leibnitz; that
+which ought to be noted as _L_(Δ_y_/Δ_x_) in that of Newton; and that
+which Lagrange has indicated by _f'_(_x_), is constantly one same
+function, seen from three different points of view, the considerations
+of Leibnitz and Newton properly consisting in making known two general
+necessary properties of the derived function. The transcendental
+analysis, examined abstractedly and in its principle, is then always the
+same, whatever may be the conception which is adopted, and the
+procedures of the calculus of indirect functions are necessarily
+identical in these different methods, which in like manner must, for any
+application whatever, lead constantly to rigorously uniform results.
+
+
+
+
+COMPARATIVE VALUE OF THE THREE METHODS.
+
+
+If now we endeavour to estimate the comparative value of these three
+equivalent conceptions, we shall find in each advantages and
+inconveniences which are peculiar to it, and which still prevent
+geometers from confining themselves to any one of them, considered as
+final.
+
+
+_That of Leibnitz._ The conception of Leibnitz presents incontestably,
+in all its applications, a very marked superiority, by leading in a much
+more rapid manner, and with much less mental effort, to the formation
+of equations between the auxiliary magnitudes. It is to its use that we
+owe the high perfection which has been acquired by all the general
+theories of geometry and mechanics. Whatever may be the different
+speculative opinions of geometers with respect to the infinitesimal
+method, in an abstract point of view, all tacitly agree in employing it
+by preference, as soon as they have to treat a new question, in order
+not to complicate the necessary difficulty by this purely artificial
+obstacle proceeding from a misplaced obstinacy in adopting a less
+expeditious course. Lagrange himself, after having reconstructed the
+transcendental analysis on new foundations, has (with that noble
+frankness which so well suited his genius) rendered a striking and
+decisive homage to the characteristic properties of the conception of
+Leibnitz, by following it exclusively in the entire system of his
+_Méchanique Analytique_. Such a fact renders any comments unnecessary.
+
+But when we consider the conception of Leibnitz in itself and in its
+logical relations, we cannot escape admitting, with Lagrange, that it is
+radically vicious in this, that, adopting its own expressions, the
+notion of infinitely small quantities is a _false idea_, of which it is
+in fact impossible to obtain a clear conception, however we may deceive
+ourselves in that matter. Even if we adopt the ingenious idea of the
+compensation of errors, as above explained, this involves the radical
+inconvenience of being obliged to distinguish in mathematics two classes
+of reasonings, those which are perfectly rigorous, and those in which we
+designedly commit errors which subsequently have to be compensated. A
+conception which leads to such strange consequences is undoubtedly very
+unsatisfactory in a logical point of view.
+
+To say, as do some geometers, that it is possible in every case to
+reduce the infinitesimal method to that of limits, the logical character
+of which is irreproachable, would evidently be to elude the difficulty
+rather than to remove it; besides, such a transformation almost entirely
+strips the conception of Leibnitz of its essential advantages of
+facility and rapidity.
+
+Finally, even disregarding the preceding important considerations, the
+infinitesimal method would no less evidently present by its nature the
+very serious defect of breaking the unity of abstract mathematics, by
+creating a transcendental analysis founded on principles so different
+from those which form the basis of the ordinary analysis. This division
+of analysis into two worlds almost entirely independent of each other,
+tends to hinder the formation of truly general analytical conceptions.
+To fully appreciate the consequences of this, we should have to go back
+to the state of the science before Lagrange had established a general
+and complete harmony between these two great sections.
+
+
+_That of Newton._ Passing now to the conception of Newton, it is evident
+that by its nature it is not exposed to the fundamental logical
+objections which are called forth by the method of Leibnitz. The notion
+of _limits_ is, in fact, remarkable for its simplicity and its
+precision. In the transcendental analysis presented in this manner, the
+equations are regarded as exact from their very origin, and the general
+rules of reasoning are as constantly observed as in ordinary analysis.
+But, on the other hand, it is very far from offering such powerful
+resources for the solution of problems as the infinitesimal method. The
+obligation which it imposes, of never considering the increments of
+magnitudes separately and by themselves, nor even in their ratios, but
+only in the limits of those ratios, retards considerably the operations
+of the mind in the formation of auxiliary equations. We may even say
+that it greatly embarrasses the purely analytical transformations. Thus
+the transcendental analysis, considered separately from its
+applications, is far from presenting in this method the extent and the
+generality which have been imprinted upon it by the conception of
+Leibnitz. It is very difficult, for example, to extend the theory of
+Newton to functions of several independent variables. But it is
+especially with reference to its applications that the relative
+inferiority of this theory is most strongly marked.
+
+Several Continental geometers, in adopting the method of Newton as the
+more logical basis of the transcendental analysis, have partially
+disguised this inferiority by a serious inconsistency, which consists in
+applying to this method the notation invented by Leibnitz for the
+infinitesimal method, and which is really appropriate to it alone. In
+designating by _dy_/_dx_ that which logically ought, in the theory of
+limits, to be denoted by _L_(Δ_y_/Δ_x_), and in extending to all the
+other analytical conceptions this displacement of signs, they intended,
+undoubtedly, to combine the special advantages of the two methods; but,
+in reality, they have only succeeded in causing a vicious confusion
+between them, a familiarity with which hinders the formation of clear
+and exact ideas of either. It would certainly be singular, considering
+this usage in itself, that, by the mere means of signs, it could be
+possible to effect a veritable combination between two theories so
+distinct as those under consideration.
+
+Finally, the method of limits presents also, though in a less degree,
+the greater inconvenience, which I have above noted in reference to the
+infinitesimal method, of establishing a total separation between the
+ordinary and the transcendental analysis; for the idea of _limits_,
+though clear and rigorous, is none the less in itself, as Lagrange has
+remarked, a foreign idea, upon which analytical theories ought not to be
+dependent.
+
+
+_That of Lagrange._ This perfect unity of analysis, and this purely
+abstract character of its fundamental notions, are found in the highest
+degree in the conception of Lagrange, and are found there alone; it is,
+for this reason, the most rational and the most philosophical of all.
+Carefully removing every heterogeneous consideration, Lagrange has
+reduced the transcendental analysis to its true peculiar character, that
+of presenting a very extensive class of analytical transformations,
+which facilitate in a remarkable degree the expression of the conditions
+of various problems. At the same time, this analysis is thus necessarily
+presented as a simple extension of ordinary analysis; it is only a
+higher algebra. All the different parts of abstract mathematics,
+previously so incoherent, have from that moment admitted of being
+conceived as forming a single system.
+
+Unhappily, this conception, which possesses such fundamental properties,
+independently of its so simple and so lucid notation, and which is
+undoubtedly destined to become the final theory of transcendental
+analysis, because of its high philosophical superiority over all the
+other methods proposed, presents in its present state too many
+difficulties in its applications, as compared with the conception of
+Newton, and still more with that of Leibnitz, to be as yet exclusively
+adopted. Lagrange himself has succeeded only with great difficulty in
+rediscovering, by his method, the principal results already obtained by
+the infinitesimal method for the solution of the general questions of
+geometry and mechanics; we may judge from that what obstacles would be
+found in treating in the same manner questions which were truly new and
+important. It is true that Lagrange, on several occasions, has shown
+that difficulties call forth, from men of genius, superior efforts,
+capable of leading to the greatest results. It was thus that, in trying
+to adapt his method to the examination of the curvature of lines, which
+seemed so far from admitting its application, he arrived at that
+beautiful theory of contacts which has so greatly perfected that
+important part of geometry. But, in spite of such happy exceptions, the
+conception of Lagrange has nevertheless remained, as a whole,
+essentially unsuited to applications.
+
+The final result of the general comparison which I have too briefly
+sketched, is, then, as already suggested, that, in order to really
+understand the transcendental analysis, we should not only consider it
+in its principles according to the three fundamental conceptions of
+Leibnitz, of Newton, and of Lagrange, but should besides accustom
+ourselves to carry out almost indifferently, according to these three
+principal methods, and especially according to the first and the last,
+the solution of all important questions, whether of the pure calculus of
+indirect functions or of its applications. This is a course which I
+could not too strongly recommend to all those who desire to judge
+philosophically of this admirable creation of the human mind, as well as
+to those who wish to learn to make use of this powerful instrument with
+success and with facility. In all the other parts of mathematical
+science, the consideration of different methods for a single class of
+questions may be useful, even independently of its historical interest,
+but it is not indispensable; here, on the contrary, it is strictly
+necessary.
+
+Having determined with precision, in this chapter, the philosophical
+character of the calculus of indirect functions, according to the
+principal fundamental conceptions of which it admits, we have next to
+consider, in the following chapter, the logical division and the general
+composition of this calculus.
+
+
+
+

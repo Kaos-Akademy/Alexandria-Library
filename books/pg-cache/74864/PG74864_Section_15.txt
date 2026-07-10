@@ -1,0 +1,831 @@
+CHAPTER XV.
+
+ANALYSIS OF QUANTITATIVE PHENOMENA.
+
+
+In the two preceding chapters we have been engaged in considering how
+a phenomenon may be accurately measured and expressed. So delicate
+and complex an operation is a measurement which pretends to any
+considerable degree of exactness, that no small part of the skill
+and patience of physicists is usually spent upon this work. Much
+of this difficulty arises from the fact that it is scarcely ever
+possible to measure a single effect at a time. The ultimate object
+must be to discover the mathematical equation or law connecting a
+quantitative cause with its quantitative effect; this purpose usually
+involves, as we shall see, the varying of one condition at a time,
+the other conditions being maintained constant. The labours of the
+experimentalist would be comparatively light if he could carry out
+this rule of varying one circumstance at a time. He would then obtain
+a series of corresponding values of the variable quantities concerned,
+from which he might by proper hypothetical treatment obtain the
+required law of connection. But in reality it is seldom possible to
+carry out this direction except in an approximate manner. Before then
+we proceed to the consideration of the actual process of quantitative
+induction, it is necessary to review the several devices by which a
+complicated series of effects can be disentangled. Every phenomenon
+measured will usually be the sum, difference, or it may be the product
+or quotient, of two or more different effects, and these must be in
+some way analysed and separately measured before we possess the
+materials for inductive treatment.
+
+
+*Illustrations of the Complication of Effects.*
+
+It is easy to bring forward a multitude of instances to show that a
+phenomenon is seldom to be observed simple and alone. A more or less
+elaborate process of analysis is almost always necessary. Thus if an
+experimentalist wishes to observe and measure the expansion of a liquid
+by heat, he places it in a thermometer tube and registers the rise of
+the column of liquid in the narrow tube. But he cannot heat the liquid
+without also heating the glass, so that the change observed is really
+the difference between the expansions of the liquid and the glass. More
+minute investigation will show the necessity perhaps of allowing for
+further minute effects, namely the compression of the liquid and the
+expansion of the bulb due to the increased pressure of the column as it
+becomes lengthened.
+
+In a great many cases an observed effect will be apparently at least
+the simple sum of two separate and independent effects. The heat
+evolved in the combustion of oil is partly due to the carbon and partly
+to the hydrogen. A measurement of the heat yielded by the two jointly,
+cannot inform us how much proceeds from the one and how much from the
+other. If by some separate determination we can ascertain how much the
+hydrogen yields, then by mere subtraction we learn what is due to the
+carbon; and *vice versâ*. The heat conveyed by a liquid, may be partly
+conveyed by true conduction, partly by convection. The light dispersed
+in the interior of a liquid consists both of what is reflected by
+floating particles and what is due to true fluorescence;[233] and we
+must find some mode of determining one portion before we can learn the
+other. The apparent motion of the spots on the sun, is the algebraic
+sum of the sun’s axial rotation, and of the proper motion of the spots
+upon the sun’s surface; hence the difficulty of ascertaining by direct
+observations the period of the sun’s rotation.
+
+  [233] Stokes, *Philosophical Transactions* (1852), vol. cxlii. p. 529.
+
+We cannot obtain the weight of a portion of liquid in a chemical
+balance without weighing it with the containing vessel. Hence to have
+the real weight of the liquid operated upon in an experiment, we must
+make a separate weighing of the vessel, with or without the adhering
+film of liquid according to circumstances. This is likewise the mode
+in which a cart and its load are weighed together, the *tare* of the
+cart previously ascertained being deducted. The variation in the height
+of the barometer is a joint effect, partly due to the real variation
+of the atmospheric pressure, partly to the expansion of the mercurial
+column by heat. The effects may be discriminated, if, instead of one
+barometer tube we have two tubes containing mercury placed closely side
+by side, so as to have the same temperature. If one of them be closed
+at the bottom so as to be unaffected by the atmospheric pressure, it
+will show the changes due to temperature only, and, by subtracting
+these changes from those shown in the other tube, employed as a
+barometer, we get the real oscillations of atmospheric pressure. But
+this correction, as it is called, of the barometric reading, is better
+effected by calculation from the readings of an ordinary thermometer.
+
+In other cases a quantitative effect will be the difference of
+two causes acting in opposite directions. Sir John Herschel
+invented an instrument like a large thermometer, which he called
+the Actinometer,[234] and Pouillet constructed a somewhat similar
+instrument called the Pyrheliometer, for ascertaining the heating power
+of the sun’s rays. In both instruments the heat of the sun was absorbed
+by a reservoir containing water, and the rise of temperature of the
+water was exactly observed, either by its own expansion, or by the
+readings of a delicate thermometer immersed in it. But in exposing the
+actinometer to the sun, we do not obtain the full effect of the heat
+absorbed, because the receiving surface is at the same time radiating
+heat into empty space. The observed increment of temperature is in
+short the difference between what is received from the sun and lost
+by radiation. The latter quantity is capable of ready determination;
+we have only to shade the instrument from the direct rays of the sun,
+leaving it exposed to the sky, and we can observe how much it cools
+in a certain time. The total effect of the sun’s rays will obviously
+be the apparent effect *plus* the cooling effect in an equal time. By
+alternate exposure in sun and shade during equal intervals the desired
+result may be obtained with considerable accuracy.[235]
+
+  [234] *Admiralty Manual of Scientific Enquiry*, 2nd ed. p. 299.
+
+  [235] Pouillet, *Taylor’s Scientific Memoirs*, vol. iv. p. 45.
+
+Two quantitative effects were beautifully distinguished in an
+experiment of John Canton, devised in 1761 for the purpose of
+demonstrating the compressibility of water. He constructed a
+thermometer with a large bulb full of water and a short capillary
+tube, the part of which above the water was freed from air. Under
+these circumstances the water was relieved from the pressure of the
+atmosphere, but the glass bulb in bearing that pressure was somewhat
+contracted. He next placed the instrument under the receiver of an
+air-pump, and on exhausting the air, the water sank in the tube. Having
+thus obtained a measure of the effect of atmospheric pressure on the
+bulb, he opened the top of the thermometer tube and admitted the air.
+The level of the water now sank still more, partly from the pressure
+on the bulb being now compensated, and partly from the compression of
+the water by the atmospheric pressure. It is obvious that the amount of
+the latter effect was approximately the difference of the two observed
+depressions.
+
+Not uncommonly the actual phenomenon which we wish to measure is
+considerably less than various disturbing effects which enter into
+the question. Thus the compressibility of mercury is considerably
+less than the expansion of the vessels in which it is measured under
+pressure, so that the attention of the experimentalist has chiefly
+to be concentrated on the change of magnitude of the vessels. Many
+astronomical phenomena, such as the parallax or the proper motions of
+the fixed stars, are far less than the errors caused by instrumental
+imperfections, or motions arising from precession, nutation, and
+aberration. We need not be surprised that astronomers have from time to
+time mistaken one phenomenon for another, as when Flamsteed imagined
+that he had discovered the parallax of the Pole star.[236]
+
+  [236] Baily’s *Account of the Rev. John Flamsteed*, p. 58.
+
+
+*Methods of Eliminating Error.*
+
+In any particular experiment it is the object of the experimentalist to
+measure a single effect only, and he endeavours to obtain that effect
+free from interfering effects. If this cannot be, as it seldom or
+never can really be, he makes the effect as considerable as possible
+compared with the other effects, which he reduces to a minimum, and
+treats as noxious errors. Those quantities, which are called *errors*
+in one case, may really be most important and interesting phenomena in
+another investigation. When we speak of eliminating error we really
+mean disentangling the complicated phenomena of nature. The physicist
+rightly wishes to treat one thing at a time, but as this object can
+seldom be rigorously carried into practice, he has to seek some mode of
+counteracting the irrelevant and interfering causes.
+
+The general principle is that a single observation can render known
+only a single quantity. Hence, if several different quantitative
+effects are known to enter into any investigation, we must have at
+least as many distinct observations as there are quantities to be
+determined. Every complete experiment will therefore consist in general
+of several operations. Guided if possible by previous knowledge of the
+causes in action, we must arrange the determinations, so that by a
+simple mathematical process we may distinguish the separate quantities.
+There appear to be five principal methods by which we may accomplish
+this object; these methods are specified below and illustrated in the
+succeeding sections.
+
+(1) *The Method of Avoidance.* The physicist may seek for some special
+mode of experiment or opportunity of observation, in which the error is
+non-existent or inappreciable.
+
+(2) *The Differential Method.* He may find opportunities of observation
+when all interfering phenomena remain constant, and only the subject
+of observation is at one time present and another time absent; the
+difference between two observations then gives its amount.
+
+(3) *The Method of Correction.* He may endeavour to estimate the amount
+of the interfering effect by the best available mode, and then make a
+corresponding correction in the results of observation.
+
+(4) *The Method of Compensation.* He may invent some mode of
+neutralising the interfering cause by balancing against it an exactly
+equal and opposite cause of unknown amount.
+
+(5) *The Method of Reversal.* He may so conduct the experiment that
+the interfering cause may act in opposite directions, in alternate
+observations, the mean result being free from interference.
+
+
+I. *Method of Avoidance of Error.*
+
+Astronomers seek opportunities of observation when errors will
+be as small as possible. In spite of elaborate observations and
+long-continued theoretical investigation, it is not practicable to
+assign any satisfactory law to the refractive power of the atmosphere.
+Although the apparent change of place of a heavenly body produced by
+refraction may be more or less accurately calculated yet the error
+depends upon the temperature and pressure of the atmosphere, and, when
+a ray is highly inclined to the perpendicular, the uncertainty in the
+refraction becomes very considerable. Hence astronomers always make
+their observations, if possible, when the object is at the highest
+point of its daily course, *i.e.* on the meridian. In some kinds of
+investigation, as, for instance, in the determination of the latitude
+of an observatory, the astronomer is at liberty to select one or
+more stars out of the countless number visible. There is an evident
+advantage in such a case, in selecting a star which passes close to
+the zenith, so that it may be observed almost entirely free from
+atmospheric refraction, as was done by Hooke.
+
+Astronomers endeavour to render their clocks as accurate as
+possible, by removing the source of variation. The pendulum is
+perfectly isochronous so long as its length remains invariable, and
+the vibrations are exactly of equal length. They render it nearly
+invariable in length, that is in the distance between the centres of
+suspension and oscillation, by a compensatory arrangement for the
+change of temperature. But as this compensation may not be perfectly
+accomplished, some astronomers place their chief controlling clock in
+a cellar, or other apartment, where the changes of temperature may
+be as slight as possible. At the Paris Observatory a clock has been
+placed in the caves beneath the building, where there is no appreciable
+difference between the summer and winter temperature.
+
+To avoid the effect of unequal oscillations Huyghens made his beautiful
+investigations, which resulted in the discovery that a pendulum, of
+which the centre of oscillation moved upon a cycloidal path, would
+be perfectly isochronous, whatever the variation in the length of
+oscillations. But though a pendulum may be easily rendered in some
+degree cycloidal by the use of a steel suspension spring, it is found
+that the mechanical arrangements requisite to produce a truly cycloidal
+motion introduce more error than they remove. Hence astronomers seek
+to reduce the error to the smallest amount by maintaining their clock
+pendulums in uniform movement; in fact, while a clock is in good order
+and has the same weights, there need be little change in the length
+of oscillation. When a pendulum cannot be made to swing uniformly,
+as in experiments upon the force of gravity, it becomes requisite to
+resort to the third method, and a correction is introduced, calculated
+on theoretical grounds from the amount of the observed change in the
+length of vibration.
+
+It has been mentioned that the apparent expansion of a liquid by heat,
+when contained in a thermometer tube or other vessel, is the difference
+between the real expansion of the liquid and that of the containing
+vessel. The effects can be accurately distinguished provided that we
+can learn the real expansion by heat of any one convenient liquid;
+for by observing the apparent expansion of the same liquid in any
+required vessel we can by difference learn the amount of expansion of
+the vessel due to any given change of temperature. When we once know
+the change of dimensions of the vessel, we can of course determine the
+absolute expansion of any other liquid tested in it. Thus it became an
+all-important object in scientific research to measure with accuracy
+the absolute dilatation by heat of some one liquid, and mercury owing
+to several circumstances was by far the most suitable. Dulong and
+Petit devised a beautiful mode of effecting this by simply avoiding
+altogether the effect of the change of size of the vessel. Two upright
+tubes full of mercury were connected by a fine tube at the bottom, and
+were maintained at two different temperatures. As mercury was free to
+flow from one tube to the other by the connecting tube, the two columns
+necessarily exerted equal pressures by the principles of hydrostatics.
+Hence it was only necessary to measure very accurately by a
+cathetometer the difference of level of the surfaces of the two columns
+of mercury, to learn the difference of length of columns of equal
+hydrostatic pressure, which at once gives the difference of density of
+the mercury, and the dilatation by heat. The changes of dimension in
+the containing tubes became a matter of entire indifference, and the
+length of a column of mercury at different temperatures was measured
+as easily as if it had formed a solid bar. The experiment was carried
+out by Regnault with many improvements of detail, and the absolute
+dilatation of mercury, at temperatures between 0° Cent. and 350°, was
+determined almost as accurately as was needful.[237]
+
+  [237] Jamin, *Cours de Physique*, vol. ii. pp. 15–28.
+
+The presence of a large and uncertain amount of error may render a
+method of experiment valueless. Foucault devised a beautiful experiment
+with the pendulum for demonstrating popularly the rotation of the
+earth, but it could be of no use for measuring the rotation exactly. It
+is impossible to make the pendulum swing in a perfect plane, and the
+slightest lateral motion gives it an elliptic path with a progressive
+motion of the axis of the ellipse, which disguises and often entirely
+overpowers that due to the rotation of the earth.[238]
+
+  [238] *Philosophical Magazine*, 1851, 4th Series, vol. ii. *passim*.
+
+Faraday’s laborious experiments on the relation of gravity and
+electricity were much obstructed by the fact that it is impossible
+to move a large weight of metal without generating currents of
+electricity, either by friction or induction. To distinguish the
+electricity, if any, directly due to the action of gravity from the
+greater quantities indirectly produced was a problem of excessive
+difficulty. Baily in his experiments on the density of the earth was
+aware of the existence of inexplicable disturbances which have since
+been referred with much probability to the action of electricity.[239]
+The skill and ingenuity of the experimentalist are often exhausted
+in trying to devise a form of apparatus in which such causes of error
+shall be reduced to a minimum.
+
+  [239] Hearn, *Philosophical Transactions*, 1847, vol. cxxxvii.
+  pp. 217–221.
+
+In some rudimentary experiments we wish merely to establish the
+existence of a quantitative effect without precisely measuring its
+amount; if there exist causes of error of which we can neither
+render the amount known or inappreciable, the best way is to make
+them all negative so that the quantitative effects will be less than
+the truth rather than greater. Grove, for instance, in proving that
+the magnetisation or demagnetisation of a piece of iron raises its
+temperature, took care to maintain the electro-magnet by which the iron
+was magnetised at a lower temperature than the iron, so that it would
+cool rather than warm the iron by radiation or conduction.[240]
+
+  [240] *The Correlation of Physical Forces*, 3rd ed. p. 159.
+
+Rumford’s celebrated experiment to prove that heat was generated out
+of mechanical force in the boring of a cannon was subject to the
+difficulty that heat might be brought to the cannon by conduction
+from neighbouring bodies. It was an ingenious device of Davy to
+produce friction by a piece of clock-work resting upon a block of
+ice in an exhausted receiver; as the machine rose in temperature
+above 32°, it was certain that no heat was received by conduction
+from the support.[241] In many other experiments ice may be employed
+to prevent the access of heat by conduction, and this device, first
+put in practice by Murray,[242] is beautifully employed in Bunsen’s
+calorimeter.
+
+  [241] *Collected Works of Sir H. Davy*, vol. ii. pp. 12–14. *Elements
+  of Chemical Philosophy*, p. 94.
+
+  [242] *Nicholson’s Journal*, vol. i. p. 241; quoted in *Treatise on
+  Heat*, Useful Knowledge Society, p. 24.
+
+To observe the true temperature of the air, though apparently so easy,
+is really a very difficult matter, because the thermometer is sure to
+be affected either by the sun’s rays, the radiation from neighbouring
+objects, or the escape of heat into space. These sources of error are
+too fluctuating to allow of correction, so that the only accurate
+mode of procedure is that devised by Dr. Joule, of surrounding the
+thermometer with a copper cylinder ingeniously adjusted to the
+temperature of the air, as described by him, so that the effect of
+radiation shall be nullified.[243]
+
+  [243] Clerk Maxwell, *Theory of Heat*, p. 228. *Proceedings of the
+  Manchester Philosophical Society*, Nov. 26, 1867, vol. vii. p. 35.
+
+When the avoidance of error is not practicable, it will yet be
+desirable to reduce the absolute amount of the interfering error as
+much as possible before employing the succeeding methods to correct
+the result. As a general rule we can determine a quantity with less
+inaccuracy as it is smaller, so that if the error itself be small
+the error in determining that error will be of a still lower order
+of magnitude. But in some cases the absolute amount of an error is
+of no consequence, as in the index error of a divided circle, or the
+difference between a chronometer and astronomical time. Even the rate
+at which a clock gains or loses is a matter of little importance
+provided it remain constant, so that a sure calculation of its amount
+can be made.
+
+
+2. *Differential Method.*
+
+When we cannot avoid the existence of error, we can often resort
+with success to the second mode by measuring phenomena under such
+circumstances that the error shall remain very nearly the same in all
+the observations, and neutralise itself as regards the purposes in
+view. This mode is available whenever we want a difference between
+quantities and not the absolute quantity of either. The determination
+of the parallax of the fixed stars is exceedingly difficult, because
+the amount of parallax is far less than most of the corrections for
+atmospheric refraction, nutation, aberration, precession, instrumental
+irregularities, &c., and can with difficulty be detected among these
+phenomena of various magnitude. But, as Galileo long ago suggested,
+all such difficulties would be avoided by the differential observation
+of stars, which, though apparently close together, are really far
+separated on the line of sight. Two such stars in close apparent
+proximity will be subject to almost exactly equal errors, so that all
+we need do is to observe the apparent change of place of the nearer
+star as referred to the more distant one. A good telescope furnished
+with an accurate micrometer is alone needed for the application of
+the method. Huyghens appears to have been the first observer who
+actually tried to employ the method practically, but it was not until
+1835 that the improvement of telescopes and micrometers enabled
+Struve to detect in this way the parallax of the star α Lyræ. It is
+one of the many advantages of the observation of transits of Venus
+for the determination of the solar parallax that the refraction of
+the atmosphere affects in an exactly equal degree the planet and
+the portion of the sun’s face over which it is passing. Thus the
+observations are strictly of a differential nature.
+
+By the process of substitutive weighing it is possible to ascertain
+the equality or inequality of two weights with almost perfect freedom
+from error. If two weights A and B be placed in the scales of the
+best balance we cannot be sure that the equilibrium of the beam
+indicates exact equality, because the arms of the beam may be unequal
+or unbalanced. But if we take B out and put another weight C in, and
+equilibrium still exists, it is apparent that the same causes of
+erroneous weighing exist in both cases, supposing that the balance has
+not been disarranged; B then must be exactly equal to C, since it has
+exactly the same effect under the same circumstances. In like manner it
+is a general rule that, if by any uniform mechanical process we get a
+copy of an object, it is unlikely that this copy will be precisely the
+same as the original in magnitude and form, but two copies will equally
+diverge from the original, and will therefore almost exactly resemble
+each other.
+
+Leslie’s Differential Thermometer[244] was well adapted to the
+experiments for which it was invented. Having two equal bulbs any
+alteration in the temperature of the air will act equally by conduction
+on each and produce no change in the indications of the instrument.
+Only that radiant heat which is purposely thrown upon one of the bulbs
+will produce any effect. This thermometer in short carries out the
+principle of the differential method in a mechanical manner.
+
+  [244] Leslie, *Inquiry into the Nature of Heat*, p. 10.
+
+
+3. *Method of Correction.*
+
+Whenever the result of an experiment is affected by an interfering
+cause to a calculable amount, it is sufficient to add or subtract this
+amount. We are said to correct observations when we thus eliminate
+what is due to extraneous causes, although of course we are only
+separating the correct effects of several agents. The variation in the
+height of the barometer is partly due to the change of temperature,
+but since the coefficient of absolute dilatation of mercury has been
+exactly determined, as already described (p. 341), we have only to make
+calculations of a simple character, or, what is better still, tabulate
+a series of such calculations for general use, and the correction for
+temperature can be made with all desired accuracy. The height of the
+mercury in the barometer is also affected by capillary attraction,
+which depresses it by a constant amount depending mainly on the
+diameter of the tube. The requisite corrections can be estimated with
+accuracy sufficient for most purposes, more especially as we can check
+the correctness of the reading of a barometer by comparison with a
+standard barometer, and introduce if need be an index error including
+both the error in the affixing of the scale and the effect due to
+capillarity. But in constructing the standard barometer itself we must
+take greater precautions; the capillary depression depends somewhat
+upon the quality of the glass, the absence of air, and the perfect
+cleanliness of the mercury, so that we cannot assign the exact amount
+of the effect. Hence a standard barometer is constructed with a wide
+tube, sometimes even an inch in diameter, so that the capillary effect
+may be rendered almost zero.[245] Gay-Lussac made barometers in the
+form of a uniform siphon tube, so that the capillary forces acting at
+the upper and lower surfaces should balance and destroy each other;
+but the method fails in practice because the lower surface, being
+open to the air, becomes sullied and subject to a different force of
+capillarity.
+
+  [245] Jevons, Watts’ *Dictionary of Chemistry*, vol. i. pp. 513–515.
+
+In mechanical experiments friction is an interfering condition, and
+drains away a portion of the energy intended to be operated upon in a
+definite manner. We should of course reduce the friction in the first
+place to the lowest possible amount, but as it cannot be altogether
+prevented, and is not calculable with certainty from any general
+laws, we must determine it separately for each apparatus by suitable
+experiments. Thus Smeaton, in his admirable but almost forgotten
+researches concerning water-wheels, eliminated friction in the most
+simple manner by determining by trial what weight, acting by a cord
+and roller upon his model water-wheel, would make it turn without
+water as rapidly as the water made it turn. In short, he ascertained
+what weight concurring with the water would exactly compensate for the
+friction.[246] In Dr. Joule’s experiments to determine the mechanical
+equivalent of heat by the condensation of air, a considerable amount
+of heat was produced by friction of the condensing pump, and a small
+portion by stirring the water employed to absorb the heat. This heat of
+friction was measured by simply repeating the experiment in an exactly
+similar manner except that no condensation was effected, and observing
+the change of temperature then produced.[247]
+
+  [246] *Philosophical Transactions*, vol. li. p. 100.
+
+  [247] *Philosophical Magazine*, 3rd Series, vol. xxvi. p. 372.
+
+We may describe as *test experiments* any in which we perform
+operations not intended to give the quantity of the principal
+phenomenon, but some quantity which would otherwise remain as an
+error in the result. Thus in astronomical observations almost every
+instrumental error may be avoided by increasing the number of
+observations and distributing them in such a manner as to produce in
+the final mean as much error in one way as in the other. But there
+is one source of error, first discovered by Maskelyne, which cannot
+be thus avoided, because it affects all observations in the same
+direction and to the same average amount, namely the Personal Error of
+the observer or the inclination to record the passage of a star across
+the wires of the telescope a little too soon or a little too late.
+This personal error was first carefully described in the *Edinburgh
+Journal of Science*, vol. i. p. 178. The difference between the
+judgment of observers at the Greenwich Observatory usually varies from
+1/100 to 1/3 of a second, and remains pretty constant for the same
+observers.[248] One practised observer in Sir George Airy’s pendulum
+experiments recorded all his time observations half a second too early
+on the average as compared with the chief observer.[249] In some
+observers it has amounted to seven or eight-tenths of a second.[250]
+De Morgan appears to have entertained the opinion that this source of
+error was essentially incapable of elimination or correction.[251]
+But it seems clear, as I suggested without knowing what had been
+done,[252] that this personal error might be determined absolutely with
+any desirable degree of accuracy by test experiments, consisting in
+making an artificial star move at a considerable distance and recording
+by electricity the exact moment of its passage over the wire. This
+method has in fact been successfully employed in Leyden, Paris, and
+Neuchatel.[253] More recently, observers were trained for the Transit
+of Venus Expeditions by means of a mechanical model representing the
+motion of Venus over the sun, this model being placed at a little
+distance and viewed through a telescope, so that differences in the
+judgments of different observers would become apparent. It seems likely
+that tests of this nature might be employed with advantage in other
+cases.
+
+  [248] *Greenwich Observations for* 1866, p. xlix.
+
+  [249] *Philosophical Transactions*, 1856, p. 309.
+
+  [250] Penny *Cyclopædia*, art. *Transit*, vol. xxv. pp. 129, 130.
+
+  [251] Ibid. art. *Observation*, p. 390.
+
+  [252] *Nature*, vol. i. p. 85.
+
+  [253] *Nature*, vol. i. p 337. See references to the Memoirs
+  describing the method.
+
+Newton employed the pendulum for making experiments on the impact of
+balls. Two balls were hung in contact, and one of them, being drawn
+aside through a measured arc, was then allowed to strike the other,
+the arcs of vibration giving sufficient data for calculating the
+distribution of energy at the moment of impact. The resistance of the
+air was an interfering cause which he estimated very simply by causing
+one of the balls to make several complete vibrations without impact
+and then marking the reduction in the lengths of the arcs, a proper
+fraction of which reduction was added to each of the other arcs of
+vibration when impact took place.[254]
+
+  [254] *Principia*, Book I. Law III. Corollary VI. Scholium. Motte’s
+  translation, vol. i. p. 33.
+
+The exact definition of the standard of length is one of the most
+important, as it is one of the most difficult questions in physical
+science, and the different practice of different nations introduces
+needless confusion. Were all standards constructed so as to give
+the true length at a fixed uniform temperature, for instance the
+freezing-point, then any two standards could be compared without the
+interference of temperature by bringing them both to exactly the same
+fixed temperature. Unfortunately the French metre was defined by a
+bar of platinum at 0°C, while our yard was defined by a bronze bar at
+62°F. It is quite impossible, then, to make a comparison of the yard
+and metre without the introduction of a correction, either for the
+expansion of platinum or bronze, or both. Bars of metal differ too so
+much in their rates of expansion according to their molecular condition
+that it is dangerous to infer from one bar to another.
+
+When we come to use instruments with great accuracy there are many
+minute sources of error which must be guarded against. If a thermometer
+has been graduated when perpendicular, it will read somewhat
+differently when laid flat, as the pressure of a column of mercury is
+removed from the bulb. The reading may also be somewhat altered if it
+has recently been raised to a higher temperature than usual, if it be
+placed under a vacuous receiver, or if the tube be unequally heated
+as compared with the bulb. For these minute causes of error we may
+have to introduce troublesome corrections, unless we adopt the simple
+precaution of using the thermometer in circumstances of position, &c.,
+exactly similar to those in which it was graduated. There is no end to
+the number of minute corrections which may ultimately be required. A
+large number of experiments on gases, standard weights and measures,
+&c., depend upon the height of the barometer; but when experiments
+in different parts of the world are compared together we ought as a
+further refinement to take into account the varying force of gravity,
+which even between London and Paris makes a difference of ·008 inch of
+mercury.
+
+The measurement of quantities of heat is a matter of great difficulty,
+because there is no known substance impervious to heat, and the problem
+is therefore as difficult as to measure liquids in porous vessels.
+To determine the latent heat of steam we must condense a certain
+amount of the steam in a known weight of water, and then observe the
+rise of temperature of the water. But while we are carrying out the
+experiment, part of the heat will escape by radiation and conduction
+from the condensing vessel or calorimeter. We may indeed reduce the
+loss of heat by using vessels with double sides and bright surfaces,
+surrounded with swans-down wool or other non-conducting materials; and
+we may also avoid raising the temperature of the water much above that
+of the surrounding air. Yet we cannot by any such means render the
+loss of heat inconsiderable. Rumford ingeniously proposed to reduce
+the loss to zero by commencing the experiment when the temperature
+of the calorimeter is as much below that of the air as it is at the
+end of the experiment above it. Thus the vessel will first gain and
+then lose by radiation and conduction, and these opposite errors will
+approximately balance each other. But Regnault has shown that the loss
+and gain do not proceed by exactly the same laws, so that in very
+accurate investigations Rumford’s method is not sufficient. There
+remains the method of correction which was beautifully carried out by
+Regnault in his determination of the latent heat of steam. He employed
+two calorimeters, made in exactly the same way and alternately used to
+condense a certain amount of steam, so that while one was measuring
+the latent heat, the other calorimeter was engaged in determining
+the corrections to be applied, whether on account of radiation and
+conduction from the vessel or on account of heat reaching the vessel by
+means of the connecting pipes.[255]
+
+  [255] Graham’s *Chemical Reports and Memoirs*, Cavendish Society, pp.
+  247, 268, &c.
+
+
+4. *Method of Compensation.*
+
+There are many cases in which a cause of error cannot conveniently be
+rendered null, and is yet beyond the reach of the third method, that
+of calculating the requisite correction from independent observations.
+The magnitude of an error may be subject to continual variations, on
+account of change of weather, or other fickle circumstances beyond
+our control. It may either be impracticable to observe the variation
+of those circumstances in sufficient detail, or, if observed, the
+calculation of the amount of error may be subject to doubt. In these
+cases, and only in these cases, it will be desirable to invent some
+artificial mode of counterpoising the variable error against an equal
+error subject to exactly the same variation.
+
+We cannot weigh an object with great accuracy unless we make a
+correction for the weight of the air displaced by the object, and add
+this to the apparent weight. In very accurate investigations relating
+to standard weights, it is usual to note the barometer and thermometer
+at the time of making a weighing, and, from the measured bulks of
+the objects compared, to calculate the weight of air displaced; the
+third method in fact is adopted. To make these calculations in the
+frequent weighings requisite in chemical analysis would be exceedingly
+laborious, hence the correction is usually neglected. But when the
+chemist wishes to weigh gas contained in a large glass globe for the
+purpose of determining its specific gravity, the correction becomes of
+much importance. Hence chemists avoid at once the error, and the labour
+of correcting it, by attaching to the opposite scale of the balance a
+dummy sealed glass globe of equal capacity to that containing the gas
+to be weighed, noting only the difference of weight when the operating
+globe is full and empty. The correction, being the same for both
+globes, may be entirely neglected.[256]
+
+  [256] Regnault’s *Cours Elémentaire de Chimie*, 1851, vol i. p. 141.
+
+A device of nearly the same kind is employed in the construction of
+galvanometers which measure the force of an electric current by the
+deflection of a suspended magnetic needle. The resistance of the needle
+is partly due to the directive influence of the earth’s magnetism, and
+partly to the torsion of the thread. But the former force may often be
+inconveniently great as well as troublesome to determine for different
+inclinations. Hence it is customary to connect together two equally
+magnetised needles, with their poles pointing in opposite directions,
+one needle being within and another without the coil of wire. As
+regards the earth’s magnetism, the needles are now *astatic* or
+indifferent, the tendency of one needle towards the pole being balanced
+by that of the other.
+
+An elegant instance of the elimination of a disturbing force by
+compensation is found in Faraday’s researches upon the magnetism of
+gases. To observe the magnetic attraction or repulsion of a gas seems
+impossible unless we enclose the gas in an envelope, probably best made
+of glass. But any such envelope is sure to be more or less affected
+by the magnet, so that it becomes difficult to distinguish between
+three forces which enter into the problem, namely, the magnetism of
+the gas in question, that of the envelope, and that of the surrounding
+atmospheric air. Faraday avoided all difficulties by employing two
+equal and similar glass tubes connected together, and so suspended from
+the arm of a torsion balance that the tubes were in similar parts of
+the magnetic field. One tube being filled with nitrogen and the other
+with oxygen, it was found that the oxygen seemed to be attracted and
+the nitrogen repelled. The suspending thread of the balance was then
+turned until the force of torsion restored the tubes to their original
+places, where the magnetism of the tubes as well as that of the
+surrounding air, being the same and in the opposite directions upon the
+two tubes, could not produce any interference. The force required to
+restore the tubes was measured by the amount of torsion of the thread,
+and it indicated correctly the difference between the attractive powers
+of oxygen and nitrogen. The oxygen was then withdrawn from one of the
+tubes, and a second experiment made, so as to compare a vacuum with
+nitrogen. No force was now required to maintain the tubes in their
+places, so that nitrogen was found to be, approximately speaking,
+indifferent to the magnet, that is, neither magnetic nor diamagnetic,
+while oxygen was proved to be positively magnetic.[257] It required
+the highest experimental skill on the part of Faraday and Tyndall, to
+distinguish between what is apparent and real in magnetic attraction
+and repulsion.
+
+  [257] Tyndall’s *Faraday*, pp. 114, 115.
+
+Experience alone can finally decide when a compensating arrangement
+is conducive to accuracy. As a general rule mechanical compensation
+is the last resource, and in the more accurate observations it is
+likely to introduce more uncertainty than it removes. A multitude
+of instruments involving mechanical compensation have been devised,
+but they are usually of an unscientific character,[258] because the
+errors compensated can be more accurately determined and allowed for.
+But there are exceptions to this rule, and it seems to be proved that
+in the delicate and tiresome operation of measuring a base line,
+invariable bars, compensated for expansion by heat, give the most
+accurate results. This arises from the fact that it is very difficult
+to determine accurately the temperature of the measuring bars under
+varying conditions of weather and manipulation.[259] Again, the last
+refinement in the measurement of time at Greenwich Observatory depends
+upon mechanical compensation. Sir George Airy, observing that the
+standard clock increased its losing rate 0·30 second for an increase of
+one inch in atmospheric pressure, placed a magnet moved by a barometer
+in such a position below the pendulum, as almost entirely to neutralise
+this cause of irregularity. The thorough remedy, however, would be to
+remove the cause of error altogether by placing the clock in a vacuous
+case.
+
+  [258] See, for instance, the Compensated Sympiesometer,
+  *Philosophical Magazine*, 4th Series, vol. xxxix. p. 371.
+
+  [259] Grant, *History of Physical Astronomy*, pp. 146, 147.
+
+We thus see that the choice of one or other mode of eliminating an
+error depends entirely upon circumstances and the object in view; but
+we may safely lay down the following conclusions. First of all, seek
+to avoid the source of error altogether if it can be conveniently
+done; if not, make the experiment so that the error may be as small,
+but more especially as constant, as possible. If the means are at hand
+for determining its amount by calculation from other experiments and
+principles of science, allow the error to exist and make a correction
+in the result. If this cannot be accurately done or involves too
+much labour for the purposes in view, then throw in a counteracting
+error which shall as nearly as possible be of equal amount in all
+circumstances with that to be eliminated. There yet remains, however,
+one important method, that of Reversal, which will form an appropriate
+transition to the succeeding chapters on the Method of Mean Results and
+the Law of Error.
+
+
+5. *Method of Reversal.*
+
+The fifth method of eliminating error is most potent and satisfactory
+when it can be applied, but it requires that we shall be able to
+reverse the apparatus and mode of procedure, so as to make the
+interfering cause act alternately in opposite directions. If we can
+get two experimental results, one of which is as much too great as
+the other is too small, the error is equal to half the difference,
+and the true result is the mean of the two apparent results. It is an
+unavoidable defect of the chemical balance, for instance, that the
+points of suspension of the pans cannot be fixed at exactly equal
+distances from the centre of suspension of the beam. Hence two weights
+which seem to balance each other will never be quite equal in reality.
+The difference is detected by reversing the weights, and it may be
+estimated by adding small weights to the deficient side to restore
+equilibrium, and then taking as the true weight the geometric mean
+of the two apparent weights of the same object. If the difference is
+small, the arithmetic mean, that is half the sum, may be substituted
+for the geometric mean, from which it will not appreciably differ.
+
+This method of reversal is most extensively employed in practical
+astronomy. The apparent elevation of a heavenly body is observed by a
+telescope moving upon a divided circle, upon which the inclination of
+the telescope is read off. Now this reading will be erroneous if the
+circle and the telescope have not accurately the same centre. But if we
+read off at the same time both ends of the telescope, the one reading
+will be about as much too small as the other is too great, and the
+mean will be nearly free from error. In practice the observation is
+differently conducted, but the principle is the same; the telescope is
+fixed to the circle, which moves with it, and the angle through which
+it moves is read off at three, six, or more points, disposed at equal
+intervals round the circle. The older astronomers, down even to the
+time of Flamsteed, were accustomed to use portions only of a divided
+circle, generally quadrants, and Römer made a vast improvement when he
+introduced the complete circle.
+
+The transit circle, employed to determine the meridian passage of
+heavenly bodies, is so constructed that the telescope and the axis
+bearing it, in fact the whole moving part of the instrument, can be
+taken out of the bearing sockets and turned over, so that what was
+formerly the western pivot becomes the eastern one, and *vice versâ*.
+It is impossible that the instrument could have been so perfectly
+constructed, mounted, and adjusted that the telescope should point
+exactly to the meridian, but the effect of the reversal is that it will
+point as much to the west in one position as it does to the east in the
+other, and the mean result of observations in the two positions must be
+free from such cause of error.
+
+The accuracy with which the inclination of the compass needle can be
+determined depends almost entirely on the method of reversal. The
+dip needle consists of a bar of magnetised steel, suspended somewhat
+like the beam of a delicate balance on a slender axis passing through
+the centre of gravity of the bar, so that it is at liberty to rest
+in that exact degree of inclination in the magnetic meridian which
+the magnetism of the earth induces. The inclination is read off
+upon a vertical divided circle, but to avoid error arising from the
+centring of the needle and circle, both ends are read, and the mean
+of the results is taken. The whole instrument is now turned carefully
+round through 180°, which causes the needle to assume a new position
+relatively to the circle and gives two new readings, in which any error
+due to the wrong position of the zero of the division will be reversed.
+As the axis of the needle may not be exactly horizontal, it is now
+reversed in the same manner as the transit instrument, the end of the
+axis which formerly pointed east being made to point west, and a new
+set of four readings is taken.
+
+Finally, error may arise from the axis not passing accurately through
+the centre of gravity of the bar, and this error can only be detected
+and eliminated on changing the magnetic poles of the bar by the
+application of a strong magnet. The error is thus made to act in
+opposite directions. To ensure all possible accuracy each reversal
+ought to be combined with each other reversal, so that the needle will
+be observed in eight different positions by sixteen readings, the mean
+of the whole of which will give the required inclination free from all
+eliminable errors.[260]
+
+  [260] Quetelet, *Sur la Physique du Globe*, p. 174. Jamin, *Cours de
+  Physique*, vol. i. p. 504.
+
+There are certain cases in which a disturbing cause can with ease
+be made to act in opposite directions, in alternate observations,
+so that the mean of the results will be free from disturbance. Thus
+in direct experiments upon the velocity of sound in passing through
+the air between stations two or three miles apart, the wind is a
+cause of error. It will be well, in the first place, to choose a
+time for the experiment when the air is very nearly at rest, and the
+disturbance slight, but if at the same moment signal sounds be made
+at each station and observed at the other, two sounds will be passing
+in opposite directions through the same body of air and the wind will
+accelerate one sound almost exactly as it retards the other. Again, in
+trigonometrical surveys the apparent height of a point will be affected
+by atmospheric refraction and the curvature of the earth. But if in
+the case of two points the apparent elevation of each as seen from
+the other be observed, the corrections will be the same in amount,
+but reversed in direction, and the mean between the two apparent
+differences of altitude will give the true difference of level.
+
+In the next two chapters we really pursue the Method of Reversal into
+more complicated applications.
+
+
+
+

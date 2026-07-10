@@ -1,0 +1,858 @@
+BOOK II.
+
+NUMBER, VARIETY, AND PROBABILITY.
+
+
+
+
+CHAPTER VIII.
+
+PRINCIPLES OF NUMBER.
+
+
+Not without reason did Pythagoras represent the world as ruled by
+number. Into almost all our acts of thought number enters, and in
+proportion as we can define numerically we enjoy exact and useful
+knowledge of the Universe. The science of numbers, too, has hitherto
+presented the widest and most practicable training in logic. So free
+and energetic has been the study of mathematical forms, compared
+with the forms of logic, that mathematicians have passed far in
+advance of pure logicians. Occasionally, in recent times, they have
+condescended to apply their algebraic instrument to a reflex treatment
+of the primary logical science. It is thus that we owe to profound
+mathematicians, such as John Herschel, Whewell, De Morgan, or Boole,
+the regeneration of logic in the present century. I entertain no
+doubt that it is in maintaining a close alliance with quantitative
+reasoning that we must look for further progress in our comprehension
+of qualitative inference.
+
+I cannot assent, indeed, to the common notion that certainty begins and
+ends with numerical determination. Nothing is more certain than logical
+truth. The laws of identity and difference are the tests of all that is
+certain throughout the range of thought, and mathematical reasoning is
+cogent only when it conforms to these conditions, of which logic is the
+first development. And if it be erroneous to suppose that all certainty
+is mathematical, it is equally an error to imagine that all which is
+mathematical is certain. Many processes of mathematical reasoning are
+of most doubtful validity. There are points of mathematical doctrine
+which must long remain matter of opinion; for instance, the best form
+of the definition and axiom concerning parallel lines, or the true
+nature of a limit. In the use of symbolic reasoning questions occur on
+which the best mathematicians may differ, as Bernoulli and Leibnitz
+differed irreconcileably concerning the existence of the logarithms of
+negative quantities.[87] In fact we no sooner leave the simple logical
+conditions of number, than we find ourselves involved in a mazy and
+mysterious science of symbols.
+
+  [87] Montucla. *Histoire des Mathématiques*, vol. iii. p. 373.
+
+Mathematical science enjoys no monopoly, and not even a supremacy,
+in certainty of results. It is the boundless extent and variety of
+quantitative questions that delights the mathematical student. When
+simple logic can give but a bare answer Yes or No, the algebraist
+raises a score of subtle questions, and brings out a crowd of curious
+results. The flower and the fruit, all that is attractive and
+delightful, fall to the share of the mathematician, who too often
+despises the plain but necessary stem from which all has arisen. In
+no region of thought can a reasoner cast himself free from the prior
+conditions of logical correctness. The mathematician is only strong and
+true as long as he is logical, and if number rules the world, it is
+logic which rules number.
+
+Nearly all writers have hitherto been strangely content to look upon
+numerical reasoning as something apart from logical inference. A long
+divorce has existed between quality and quantity, and it has not
+been uncommon to treat them as contrasted in nature and restricted
+to independent branches of thought. For my own part, I believe that
+all the sciences meet somewhere. No part of knowledge can stand
+wholly disconnected from other parts of the universe of thought; it
+is incredible, above all, that the two great branches of abstract
+science, interlacing and co-operating in every discourse, should
+rest upon totally distinct foundations. I assume that a connection
+exists, and care only to inquire, What is its nature? Does the science
+of quantity rest upon that of quality; or, *vice versâ*, does the
+science of quality rest upon that of quantity? There might conceivably
+be a third view, that they both rest upon some still deeper set of
+principles.
+
+It is generally supposed that Boole adopted the second view, and
+treated logic as an application of algebra, a special case of
+analytical reasoning which admits only two quantities, unity and zero.
+It is not easy to ascertain clearly which of these views really was
+accepted by Boole. In his interesting biographical sketch of Boole,[88]
+the Rev. R. Harley protests against the statement that Boole’s logical
+calculus imported the conditions of number and quantity into logic.
+He says: “Logic is never identified or confounded with mathematics;
+the two systems of thought are kept perfectly distinct, each being
+subject to its own laws and conditions. The symbols are the same for
+both systems, but they have not the same interpretation.” The Rev. J.
+Venn, again, in his review of Boole’s logical system,[89] holds that
+Boole’s processes are at bottom logical, not mathematical, though
+stated in a highly generalized form and with a mathematical dress. But
+it is quite likely that readers of Boole should be misled. Not only
+have his logical works an entirely mathematical appearance, but I find
+on p. 12 of his *Laws of Thought* the following unequivocal statement:
+“That logic, as a science, is susceptible of very wide applications
+is admitted; but it is equally certain that its ultimate forms and
+processes are mathematical.” A few lines below he adds, “It is not of
+the essence of mathematics to be conversant with the ideas of number
+and quantity.”
+
+  [88] *British Quarterly Review*, No. lxxxvii, July 1866.
+
+  [89] *Mind*, October 1876, vol. i. p. 484.
+
+The solution of the difficulty is that Boole used the term mathematics
+in a wider sense than that usually attributed to it. He probably
+adopted the third view, so that his mathematical *Laws of Thought* are
+the common basis both of logic and of quantitative mathematics. But
+I do not care to pursue the subject because I think that, in either
+case Boole was wrong. In my opinion logic is the superior science, the
+general basis of mathematics as well as of all other sciences. Number
+is but logical discrimination, and algebra a highly developed logic.
+Thus it is easy to understand the deep analogy which Boole pointed out
+between the forms of algebraic and logical deduction. Logic resembles
+algebra as the mould resembles that which is cast in it. Boole mistook
+the cast for the mould. Considering that logic imposes its own laws
+upon every branch of mathematical science, it is no wonder that we
+constantly meet with the traces of logical laws in mathematical
+processes.
+
+
+*The Nature of Number.*
+
+Number is but another name for *diversity*. Exact identity is unity,
+and with difference arises plurality. An abstract notion, as was
+pointed out (p. 28), possesses a certain *oneness*. The quality of
+*justice*, for instance, is one and the same in whatever just acts it
+is manifested. In justice itself there are no marks of difference by
+which to discriminate justice from justice. But one just act can be
+discriminated from another just act by circumstances of time and place,
+and we can count many acts thus discriminated each from each. In like
+manner pure gold is simply pure gold, and is so far one and the same
+throughout. But besides its intrinsic qualities, gold occupies space
+and must have shape and size. Portions of gold are always mutually
+exclusive and capable of discrimination, in respect that they must be
+each without the other. Hence they may be numbered.
+
+Plurality arises when and only when we detect difference. For instance,
+in counting a number of gold coins I must count each coin once, and not
+more than once. Let C denote a coin, and the mark above it the order of
+counting. Then I must count the coins
+
+  C′ + C″ + C‴ + C″″ + ....
+
+If I were to count them as follows
+
+  C′ + C″ + C‴ + C‴ + C″″ + ...,
+
+I should make the third coin into two, and should imply the existence
+of difference where there is no difference.[90] C‴ and C‴ are but
+the names of one coin named twice over. But according to one of the
+conditions of logical symbols, which I have called the Law of Unity
+(p. 72), the same name repeated has no effect, and
+
+  A ꖌ A = A.
+
+  [90] *Pure Logic*, Appendix, p. 82, § 192.
+
+We must apply the Law of Unity, and must reduce all identical
+alternatives before we can count with certainty and use the processes
+of numerical calculation. Identical alternatives are harmless in
+logic, but are wholly inadmissible in number. Thus logical science
+ascertains the nature of the mathematical unit, and the definition may
+be given in these terms--*A unit is any object of thought which can be
+discriminated from every other object treated as a unit in the same
+problem.*
+
+It has often been said that units are units in respect of being
+perfectly similar to each other; but though they may be perfectly
+similar in some respects, they must be different in at least one point,
+otherwise they would be incapable of plurality. If three coins were
+so similar that they occupied the same space at the same time, they
+would not be three coins, but one coin. It is a property of space that
+every point is discriminable from every other point, and in time every
+moment is necessarily distinct from any other moment before or after.
+Hence we frequently count in space or time, and Locke, with some other
+philosophers, has held that number arises from repetition in time.
+Beats of a pendulum may be so perfectly similar that we can discover no
+difference except that one beat is before and another after. Time alone
+is here the ground of difference and is a sufficient foundation for the
+discrimination of plurality; but it is by no means the only foundation.
+Three coins are three coins, whether we count them successively or
+regard them all simultaneously. In many cases neither time nor space
+is the ground of difference, but pure quality alone enters. We can
+discriminate the weight, inertia, and hardness of gold as three
+qualities, though none of these is before nor after the other, neither
+in space nor time. Every means of discrimination may be a source of
+plurality.
+
+Our logical notation may be used to express the rise of number.
+The symbol A stands for one thing or one class, and in itself must
+be regarded as a unit, because no difference is specified. But the
+combinations AB and A*b* are necessarily *two*, because they cannot
+logically coalesce, and there is a mark B which distinguishes one
+from the other. A logical definition of the number *four* is given in
+the combinations ABC, AB*c*, A*b*C, A*bc*, where there is a double
+difference. As Puck says--
+
+  “Yet but three? Come one more;
+  Two of both kinds makes up four.”
+
+I conceive that all numbers might be represented as arising out of
+the combinations of the Logical Alphabet, more or less of each series
+being struck out by various logical conditions. The number three, for
+instance, arises from the condition that A must be either B or C, so
+that the combinations are ABC, AB*c*, A*b*C.
+
+
+*Of Numerical Abstraction.*
+
+There will now be little difficulty in forming a clear notion of
+the nature of numerical abstraction. It consists in abstracting the
+character of the difference from which plurality arises, retaining
+merely the fact. When I speak of *three men* I need not at once specify
+the marks by which each may be known from each. Those marks must exist
+if they are really three men and not one and the same, and in speaking
+of them as many I imply the existence of the requisite differences.
+Abstract number, then, is *the empty form of difference*; the abstract
+number *three* asserts the existence of marks without specifying their
+kind.
+
+Numerical abstraction is thus seen to be a different process from
+logical abstraction (p. 27), for in the latter process we drop out
+of notice the very existence of difference and plurality. In forming
+the abstract notion *hardness*, we ignore entirely the diverse
+circumstances in which the quality may appear. It is the concrete
+notion *three hard objects*, which asserts the existence of hardness
+along with sufficient other undefined qualities, to mark out *three*
+such objects. Numerical thought is indeed closely interwoven with
+logical thought. We cannot use a concrete term in the plural, as
+*men*, without implying that there are marks of difference. But when we
+use an abstract term, we deal with unity.
+
+The origin of the great generality of number is now apparent. Three
+sounds differ from three colours, or three riders from three horses;
+but they agree in respect of the variety of marks by which they can be
+discriminated. The symbols 1 + 1 + 1 are thus the empty marks asserting
+the existence of discrimination. But in dropping out of sight the
+character of the differences we give rise to new agreements on which
+mathematical reasoning is founded. Numerical abstraction is so far from
+being incompatible with logical abstraction that it is the origin of
+our widest acts of generalization.
+
+
+*Concrete and Abstract Number.*
+
+The common distinction between concrete and abstract number can now be
+easily stated. In proportion as we specify the logical characters of
+the things numbered, we render them concrete. In the abstract number
+three there is no statement of the points in which the *three* objects
+agree; but in *three coins*, *three men*, or *three horses*, not only
+are the objects numbered but their nature is restricted. Concrete
+number thus implies the same consciousness of difference as abstract
+number, but it is mingled with a groundwork of similarity expressed in
+the logical terms. There is identity so far as logical terms enter;
+difference so far as the terms are merely numerical.
+
+The reason of the important Law of Homogeneity will now be apparent.
+This law asserts that in every arithmetical calculation the logical
+nature of the things numbered must remain unaltered. The specified
+logical agreement of the things must not be affected by the unspecified
+numerical differences. A calculation would be palpably absurd which,
+after commencing with length, gave a result in hours. It is equally
+absurd, in a purely arithmetical point of view, to deduce areas from
+the calculation of lengths, masses from the combination of volume
+and density, or momenta from mass and velocity. It must remain for
+subsequent consideration to decide in what sense we may truly say that
+two linear feet multiplied by two linear feet give four superficial
+feet; arithmetically it is absurd, because there is a change of unit.
+
+As a general rule we treat in each calculation only objects of one
+nature. We do not, and cannot properly add, in the same sum yards of
+cloth and pounds of sugar. We cannot even conceive the result of adding
+area to velocity, or length to density, or weight to value. The units
+added must have a basis of homogeneity, or must be reducible to some
+common denominator. Nevertheless it is possible, and in fact common, to
+treat in one complex calculation the most heterogeneous quantities, on
+the condition that each kind of object is kept distinct, and treated
+numerically only in conjunction with its own kind. Different units,
+so far as their logical differences are specified, must never be
+substituted one for the other. Chemists continually use equations which
+assert the equivalence of groups of atoms. Ordinary fermentation is
+represented by the formula
+
+  C^{6} H^{12} O^{6} = 2C^{2} H^{6} O + 2CO^{2}.
+
+Three kinds of units, the atoms respectively of carbon, hydrogen, and
+oxygen, are here intermingled, but there is really a separate equation
+in regard to each kind. Mathematicians also employ compound equations
+of the same kind; for in, *a* + *b* √ - 1 = *c* + *d* √ - 1,
+it is impossible by ordinary addition to add *a* to *b* √ - 1.
+Hence we really have the separate equations *a* = *b*, and
+*c* √ - 1 = *d* √ - 1. Similarly an equation between
+two quaternions is equivalent to four equations between ordinary
+quantities, whence indeed the name *quaternion*.
+
+
+*Analogy of Logical and Numerical Terms.*
+
+If my assertion is correct that number arises out of logical
+conditions, we ought to find number obeying all the laws of logic.
+It is almost superfluous to point out that this is the case with the
+fundamental laws of identity and difference, and it only remains to
+show that mathematical symbols do really obey the special conditions
+of logical symbols which were formerly pointed out (p. 32). Thus the
+Law of Commutativeness, is equally true of quality and quantity. As in
+logic we have
+
+  AB = BA,
+
+so in mathematics it is familiarly known that
+
+  2 × 3 = 3 × 2, or *x* × *y* = *y* × *x*.
+
+The properties of space are as indifferent in multiplication as we
+found them in pure logical thought.
+
+Similarly, as in logic
+
+  triangle or square = square or triangle,
+
+  or generally       A ꖌ B  =  B ꖌ A,
+  so in quantity     2  +  3  =  3  +  2,
+  or generally      *x* + *y* = *y* + *x*.
+
+The symbol ꖌ is not identical with +, but it is thus far analogous.
+
+How far, now, is it true that mathematical symbols obey the Law of
+Simplicity expressed in the form
+
+  AA = A,
+
+or the example
+
+  Round round = round?
+
+Apparently there are but two numbers which obey this law; for it is
+certain that
+
+  *x* × *x* = *x*
+
+is true only in the two cases when *x* = 1, or *x* = 0.
+
+In reality all numbers obey the law, for 2 × 2 = 2 is not really
+analogous to AA = A. According to the definition of a unit already
+given, each unit is discriminated from each other in the same problem,
+so that in 2′ × 2″, the first *two* involves a different discrimination
+from the second *two*. I get four kinds of things, for instance, if I
+first discriminate “heavy and light” and then “cubical and spherical,”
+for we now have the following classes--
+
+  heavy, cubical.         light, cubical.
+  heavy, spherical.       light, spherical.
+
+But suppose that my two classes are in both cases discriminated by the
+same difference of light and heavy, then we have
+
+  heavy heavy = heavy,
+  heavy light = 0,
+  light heavy = 0,
+  light light = light.
+
+Thus, (heavy or light) × (heavy or light) = (heavy or light).
+
+In short, *twice two is two* unless we take care that the second two
+has a different meaning from the first. But under similar circumstances
+logical terms give the like result, and it is not true that A′A″ = A′,
+when A″ is different in meaning from A′.
+
+In a similar manner it may be shown that the Law of Unity
+
+  A ꖌ A = A.
+
+holds true alike of logical and mathematical terms. It is absurd indeed
+to say that
+
+  *x* + *x* = *x*
+
+except in the one case when *x* = absolute zero. But this contradiction
+*x* + *x* = *x* arises from the fact that we have already defined
+the units in one x as differing from those in the other. Under such
+circumstances the Law of Unity does not apply. For if in
+
+  A′ ꖌ A″ = A′
+
+we mean that A″ is in any way different from A′ the assertion of
+identity is evidently false.
+
+The contrast then which seems to exist between logical and mathematical
+symbols is only apparent. It is because the Laws of Simplicity and
+Unity must always be observed in the operation of counting that those
+laws seem no further to apply. This is the understood condition under
+which we use all numerical symbols. Whenever I write the symbol 5 I
+really mean
+
+  1 + 1 + 1 + 1 + 1,
+
+and it is perfectly understood that each of these units is distinct
+from each other. If requisite I might mark them thus
+
+  1′+ 1″ + 1‴ + 1″″ + 1″‴.
+
+
+Were this not the case and were the units really
+
+  1′ + 1″ + 1″ + 1‴ + 1″″,
+
+the Law of Unity would, as before remarked, apply, and
+
+  1″ + 1″ = 1″.
+
+Mathematical symbols then obey all the laws of logical symbols, but
+two of these laws seem to be inapplicable simply because they are
+presupposed in the definition of the mathematical unit. Logic thus lays
+down the conditions of number, and the science of arithmetic developed
+as it is into all the wondrous branches of mathematical calculus is but
+an outgrowth of logical discrimination.
+
+
+*Principle of Mathematical Inference.*
+
+The universal principle of all reasoning, as I have asserted, is that
+which allows us to substitute like for like. I have now to point out
+how in the mathematical sciences this principle is involved in each
+step of reasoning. It is in these sciences indeed that we meet with the
+clearest cases of substitution, and it is the simplicity with which the
+principle can be applied which probably led to the comparatively early
+perfection of the sciences of geometry and arithmetic. Euclid, and
+the Greek mathematicians from the first, recognised *equality* as the
+fundamental relation of quantitative thought, but Aristotle rejected
+the exactly analogous, but far more general relation of identity, and
+thus crippled the formal science of logic as it has descended to the
+present day.
+
+Geometrical reasoning starts from the axiom that “things equal to the
+same thing are equal to each other.” Two equalities enable us to infer
+a third equality; and this is true not only of lines and angles, but
+of areas, volumes, numbers, intervals of time, forces, velocities,
+degrees of intensity, or, in short, anything which is capable of being
+equal or unequal. Two stars equally bright with the same star must be
+equally bright with each other, and two forces equally intense with a
+third force are equally intense with each other. It is remarkable that
+Euclid has not explicitly stated two other axioms, the truth of which
+is necessarily implied. The second axiom should be that “Two things of
+which one is equal and the other unequal to a third common thing, are
+unequal to each other.” An equality and inequality, in short, give an
+inequality, and this is equally true with the first axiom of all kinds
+of quantity. If Venus, for instance, agrees with Mars in density, but
+Mars differs from Jupiter, then Venus differs from Jupiter. A third
+axiom must exist to the effect that “Things unequal to the same thing
+may or may not be equal to each other.” *Two inequalities give no
+ground of inference whatever.* If we only know, for instance, that
+Mercury and Jupiter differ in density from Mars, we cannot say whether
+or not they agree between themselves. As a fact they do not agree;
+but Venus and Mars on the other hand both differ from Jupiter and yet
+closely agree with each other. The force of the axioms can be most
+clearly illustrated by drawing equal and unequal lines.[91]
+
+  [91] *Elementary Lessons in Logic* (Macmillan), p. 123. It is pointed
+  out in the preface to this Second Edition, that the views here given
+  were partially stated by Leibnitz.
+
+The general conclusion then must be that where there is equality there
+may be inference, but where there is not equality there cannot be
+inference. A plain induction will lead us to believe that *equality is
+the condition of inference concerning quantity*. All the three axioms
+may in fact be summed up in one, to the effect, that “*in whatever
+relation one quantity stands to another, it stands in the same relation
+to the equal of that other*.”
+
+The active power is always the substitution of equals, and it is an
+accident that in a pair of equalities we can make the substitution
+in two ways. From *a* = *b* = *c* we can infer *a* = *c*, either by
+substituting in *a* = *b* the value of *b* as given in *b* = *c*,
+or else by substituting in *b* = *c* the value of *b* as given in
+*a* = *b*. In *a* = *b* ~ *d* we can make but the one substitution of
+*a* for *b*. In *e* ~ *f* ~ *g* we can make no substitution and get no
+inference.
+
+In mathematics the relations in which terms may stand to each other are
+far more varied than in pure logic, yet our principle of substitution
+always holds true. We may say in the most general manner that *In
+whatever relation one quantity stands to another, it stands in the same
+relation to the equal of that other.* In this axiom we sum up a number
+of axioms which have been stated in more or less detail by algebraists.
+Thus, “If equal quantities be added to equal quantities, the sums will
+be equal.” To explain this, let
+
+  *a* = *b*,        *c* = *d*.
+
+Now *a* + *c*, whatever it means, must be identical with itself, so that
+
+  *a* + *c* = *a* + *c*.
+
+In one side of this equation substitute for the quantities their
+equivalents, and we have the axiom proved
+
+  *a* + *c* = *b* + *d*.
+
+The similar axiom concerning subtraction is equally evident, for
+whatever *a* - *c* may mean it is equal to *a* - *c*, and therefore by
+substitution to *b* - *d*. Again, “if equal quantities be multiplied by
+the same or equal quantities, the products will be equal,” For evidently
+
+  *ac* = *ac*,
+
+and if for *c* in one side we substitute its equal *d*, we have
+
+  *ac* = *ad*,
+
+and a second similar substitution gives us
+
+  *ac* = *bd*.
+
+We might prove a like axiom concerning division in an exactly
+similar manner. I might even extend the list of axioms and say that
+“Equal powers of equal numbers are equal.” For certainly, whatever
+*a* × *a* × *a* may mean, it is equal to *a* × *a* × *a*; hence by our
+usual substitution it is equal to *b* × *b* × *b*. The same will be
+true of roots of numbers and ^{c}√*a* = ^{d}√*b* provided that
+the roots are so taken that the root of *a* shall really be related
+to *a* as the root of *b* is to *b*. The ambiguity of meaning of an
+operation thus fails in any way to shake the universality of the
+principle. We may go further and assert that, not only the above common
+relations, but all other known or conceivable mathematical relations
+obey the same principle. Let Q*a* denote in the most general manner
+that we do something with the quantity *a*; then if *a* = *b* it
+follows that
+
+  Q*a* = Q*b*.
+
+The reader will also remember that one of the most frequent operations
+in mathematical reasoning is to substitute for a quantity its equal,
+as known either by assumed, natural, or self-evident conditions.
+Whenever a quantity appears twice over in a problem, we may apply
+what we learn of its relations in one place to its relations in the
+other. All reasoning in mathematics, as in other branches of science,
+thus involves the principle of treating equals equally, or similars
+similarly. In whatever way we employ quantitative reasoning in the
+remaining parts of this work, we never can desert the simple principle
+on which we first set out.
+
+
+*Reasoning by Inequalities.*
+
+I have stated that all the processes of mathematical reasoning may
+be deduced from the principle of substitution. Exceptions to this
+assertion may seem to exist in the use of inequalities. The greater of
+a greater is undoubtedly a greater, and what is less than a less is
+certainly less. Snowdon is higher than the Wrekin, and Ben Nevis than
+Snowdon; therefore Ben Nevis is higher than the Wrekin. But a little
+consideration discloses sufficient reason for believing that even in
+such cases, where equality does not apparently enter, the force of the
+reasoning entirely depends upon underlying and implied equalities.
+
+In the first place, two statements of mere difference do not give
+any ground of inference. We learn nothing concerning the comparative
+heights of St. Paul’s and Westminster Abbey from the assertions that
+they both differ in height from St. Peter’s at Rome. We need something
+more than inequality; we require one identity in addition, namely the
+identity in direction of the two differences. Thus we cannot employ
+inequalities in the simple way in which we do equalities, and, when we
+try to express what other conditions are requisite, we find ourselves
+lapsing into the use of equalities or identities.
+
+In the second place, every argument by inequalities may be represented
+in the form of equalities. We express that *a* is greater than *b* by
+the equation
+
+  *a* = *b* + *p*,        (1)
+
+where *p* is an intrinsically positive quantity, denoting the
+difference of *a* and *b*. Similarly we express that *b* is greater
+than *c* by the equation
+
+  *b* = *c* + *q*,        (2)
+
+and substituting for *b* in (1) its value in (2) we have
+
+  *a* = *c* + *q* + *p*.        (3)
+
+Now as *p* and *q* are both positive, it follows that *a* is greater
+than *c*, and we have the exact amount of excess specified. It will be
+easily seen that the reasoning concerning that which is less than a
+less will result in an equation of the form
+
+  *c* = *a* - *r* - *s*.
+
+Every argument by inequalities may then be thrown into the form of an
+equality; but the converse is not true. We cannot possibly prove that
+two quantities are equal by merely asserting that they are both greater
+or both less than another quantity. From *e* > *f* and *g* > *f*, or
+*e* < *f* and *g* < *f*, we can infer no relation between *e* and *g*.
+And if the reader take the equations *x* = *y* = 3 and attempt to prove
+that therefore *x* = 3, by throwing them into inequalities, he will
+find it impossible to do so.
+
+From these considerations I gather that reasoning in arithmetic or
+algebra by so-called inequalities, is only an imperfectly expressed
+reasoning by equalities, and when we want to exhibit exactly and
+clearly the conditions of reasoning, we are obliged to use equalities
+explicitly. Just as in pure logic a negative proposition, as expressing
+mere difference, cannot be the means of inference, so inequality can
+never really be the true ground of inference. I do not deny that
+affirmation and negation, agreement and difference, equality and
+inequality, are pairs of equally fundamental relations, but I assert
+that inference is possible only where affirmation, agreement, or
+equality, some species of identity in fact, is present, explicitly or
+implicitly.
+
+
+*Arithmetical Reasoning.*
+
+It may seem somewhat inconsistent that I assert number to arise out of
+difference or discrimination, and yet hold that no reasoning can be
+grounded on difference. Number, of course, opens a most wide sphere
+for inference, and a little consideration shows that this is due to
+the unlimited series of identities which spring up out of numerical
+abstraction. If six people are sitting on six chairs, there is no
+resemblance between the chairs and the people in logical character.
+But if we overlook all the qualities both of a chair and a person and
+merely remember that there are marks by which each of six chairs may
+be discriminated from the others, and similarly with the people, then
+there arises a resemblance between the chairs and the people, and this
+resemblance in number may be the ground of inference. If on another
+occasion the chairs are filled by people again, we may infer that these
+people resemble the others in number though they need not resemble them
+in any other points.
+
+Groups of units are what we really treat in arithmetic. The number
+*five* is really 1 + 1 + 1 + 1 + 1, but for the sake of conciseness we
+substitute the more compact sign 5, or the name *five*. These names
+being arbitrarily imposed in any one manner, an infinite variety of
+relations spring up between them which are not in the least arbitrary.
+If we define *four* as 1 + 1 + 1 + 1, and *five* as 1 + 1 + 1 + 1 + 1,
+then of course it follows that *five* = *four* + 1; but it would be
+equally possible to take this latter equality as a definition, in
+which case one of the former equalities would become an inference. It
+is hardly requisite to decide how we define the names of numbers,
+provided we remember that out of the infinitely numerous relations
+of one number to others, some one relation expressed in an equality
+must be a definition of the number in question and the other relations
+immediately become necessary inferences.
+
+In the science of number the variety of classes which can be formed is
+altogether infinite, and statements of perfect generality may be made
+subject only to difficulty or exception at the lower end of the scale.
+Every existing number for instance belongs to the class *m* + 7; that
+is, every number must be the sum of another number and seven, except of
+course the first six or seven numbers, negative quantities not being
+here taken into account. Every number is the half of some other, and so
+on. The subject of generalization, as exhibited in mathematical truths,
+is an infinitely wide one. In number we are only at the first step of
+an extensive series of generalizations. As number is general compared
+with the particular things numbered, so we have general symbols for
+numbers, and general symbols for relations between undetermined
+numbers. There is an unlimited hierarchy of successive generalizations.
+
+
+*Numerically Definite Reasoning.*
+
+It was first discovered by De Morgan that many arguments are valid
+which combine logical and numerical reasoning, although they cannot be
+included in the ancient logical formulas. He developed the doctrine of
+the “Numerically Definite Syllogism,” fully explained in his *Formal
+Logic* (pp. 141–170). Boole also devoted considerable attention to the
+determination of what he called “Statistical Conditions,” meaning the
+numerical conditions of logical classes. In a paper published among the
+Memoirs of the Manchester Literary and Philosophical Society, Third
+Series, vol. IV. p. 330 (Session 1869–70), I have pointed out that we
+can apply arithmetical calculation to the Logical Alphabet. Having
+given certain logical conditions and the numbers of objects in certain
+classes, we can either determine the numbers of objects in other
+classes governed by those conditions, or can show what further data
+are required to determine them. As an example of the kind of questions
+treated in numerical logic, and the mode of treatment, I give the
+following problem suggested by De Morgan, with my mode of representing
+its solution.
+
+“For every man in the house there is a person who is aged; some of the
+men are not aged. It follows that some persons in the house are not
+men.”[92]
+
+  [92] *Syllabus of a Proposed System of Logic*, p. 29.
+
+  Now let    A = person in house,
+             B = male,
+             C = aged.
+
+By enclosing a logical symbol in brackets, let us denote the number of
+objects belonging to the class indicated by the symbol. Thus let
+
+    (A) = number of persons in house,
+   (AB) = number of male persons in house,
+  (ABC) = number of aged male persons in house,
+
+and so on. Now if we use *w* and *w*′ to denote unknown numbers,
+the conditions of the problem may be thus stated according to my
+interpretation of the words--
+
+  (AB) = (AC) - *w*,        (1)
+
+that is to say, the number of persons in the house who are aged is at
+least equal to, and may exceed, the number of male persons in the house;
+
+  (AB*c*) = *w*′,        (2)
+
+that is to say, the number of male persons in the house who are not
+aged is some unknown positive quantity.
+
+If we develop the terms in (1) by the Law of Duality (pp. 74, 81, 89),
+we obtain
+
+  (ABC) + (AB*c*) = (ABC) + (A*b*C) - *w*.
+
+Subtracting the common term (ABC) from each side and substituting for
+(AB*c*) its value as given in (2), we get at once
+
+  (A*b*C) = *w* + *w*′,
+
+and adding (A*bc*) to each side, we have
+
+  (A*b*) = (A*bc*) + *w* + *w*′.
+
+The meaning of this result is that the number of persons in the house
+who are not men is at least equal to *w* + *w*′, and exceeds it by the
+number of persons in the house who are neither men nor aged (A*bc*).
+
+It should be understood that this solution applies only to the terms of
+the example quoted above, and not to the general problem for which De
+Morgan intended it to serve as an illustration.
+
+As a second instance, let us take the following question:--The
+whole number of voters in a borough is *a*; the number against whom
+objections have been lodged by liberals is *b*; and the number against
+whom objections have been lodged by conservatives is *c*; required the
+number, if any, who have been objected to on both sides. Taking
+
+  A = voter,
+  B = objected to by liberals,
+  C = objected to by conservatives,
+
+then we require the value of (ABC). Now the following equation is
+identically true--
+
+  (ABC) = (AB) + (AC) + (A*bc*) - (A).        (1)
+
+For if we develop all the terms on the second side we obtain
+
+  (ABC) = (ABC) + (AB*c*) + (ABC) + (A*b*C) + (A*bc*)
+        - (ABC) - (AB*c*) - (A*b*C) - (A*bc*);
+
+and striking out the corresponding positive and negative terms, we have
+left only (ABC) = (ABC). Since then (1) is necessarily true, we have
+only to insert the known values, and we have
+
+  (ABC) = *b* + *c* - *a* + (A*bc*).
+
+Hence the number who have received objections from both sides is equal
+to the excess, if any, of the whole number of objections over the
+number of voters together with the number of voters who have received
+no objection (A*bc*).
+
+The following problem illustrates the expression for the common part of
+any three classes:--The number of paupers who are blind males, is equal
+to the excess, if any, of the sum of the whole number of blind persons,
+added to the whole number of male persons, added to the number of those
+who being paupers are neither blind nor males, above the sum of the
+whole number of paupers added to the number of those who, not being
+paupers, are blind, and to the number of those who, not being paupers,
+are male.
+
+The reader is requested to prove the truth of the above statement, (1)
+by his own unaided common sense; (2) by the Aristotelian Logic; (3) by
+the method of numerical logic just expounded; and then to decide which
+method is most satisfactory.
+
+
+*Numerical meaning of Logical Conditions.*
+
+In many cases classes of objects may exist under special logical
+conditions, and we must consider how these conditions can be
+interpreted numerically. Every logical proposition gives rise to a
+corresponding numerical equation. Sameness of qualities occasions
+sameness of numbers. Hence if
+
+  A = B
+
+denotes the identity of the qualities of A and B, we may conclude that
+
+  (A) = (B).
+
+It is evident that exactly those objects, and those objects only, which
+are comprehended under A must be comprehended under B. It follows that
+wherever we can draw an equation of qualities, we can draw a similar
+equation of numbers. Thus, from
+
+  A = B = C
+
+we infer
+
+  A = C;
+
+and similarly from
+
+  (A) = (B) = (C),
+
+meaning that the numbers of A’s and C’s are equal to the number of B’s,
+we can infer
+
+  (A) = (C).
+
+But, curiously enough, this does not apply to negative propositions and
+inequalities. For if
+
+  A = B ~ D
+
+means that A is identical with B, which differs from D, it does not
+follow that
+
+  (A) = (B) ~ (D).
+
+Two classes of objects may differ in qualities, and yet they may agree
+in number. This point strongly confirms me in the opinion which I have
+already expressed, that all inference really depends upon equations,
+not differences.
+
+The Logical Alphabet thus enables us to make a complete analysis of any
+numerical problem, and though the symbolical statement may sometimes
+seem prolix, I conceive that it really represents the course which the
+mind must follow in solving the question. Although thought may outstrip
+the rapidity with which the symbols can be written down, yet the mind
+does not really follow a different course from that indicated by the
+symbols. For a fuller explanation of this natural system of Numerically
+Definite Reasoning, with more abundant illustrations and an analysis
+of De Morgan’s Numerically Definite Syllogism, I must refer the
+reader to the paper[93] in the Memoirs of the Manchester Literary and
+Philosophical Society, already mentioned, portions of which, however,
+have been embodied in the present section.
+
+  [93] It has been pointed out to me by Mr. C. J. Monroe, that section
+  14 (p. 339) of this paper is erroneous, and ought to be cancelled.
+  The problem concerning the number of paupers illustrates the answer
+  which should have been obtained. Mr. A. J. Ellis, F.R.S., had
+  previously observed that my solution in the paper of De Morgan’s
+  problem about “men in the house” did not answer the conditions
+  intended by De Morgan, and I therefore give in the text a more
+  satisfactory solution.
+
+The reader may be referred, also, to Boole’s writings upon the
+subject in the *Laws of Thought*, chap. xix. p. 295, and in a paper
+on “Propositions Numerically Definite,” communicated by De Morgan, in
+1868, to the Cambridge Philosophical Society, and printed in their
+*Transactions*, vol. xi. part ii.
+
+
+
+

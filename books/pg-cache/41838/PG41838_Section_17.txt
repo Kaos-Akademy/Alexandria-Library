@@ -1,0 +1,211 @@
+CHAPTER XVII.
+
+VARIETIES OF SYLLOGISMS
+
+
+The authorities in Logic hold that with the four kinds of propositions
+grouped in every possible order of arrangement, it is possible to form
+nineteen different kinds of valid arguments, which are called the
+_nineteen moods of the syllogism_. These are classified by division into
+what are called _the four figures_, each of which figures may be known
+by the position of the middle term in the premises. Logicians have
+arranged elaborate and curious tables constructed to show what kinds of
+propositions when joined in a particular order of arrangement will make
+sound and valid syllogisms. We shall not set forth these tables here, as
+they are too technical for a popular presentation of the subject before
+us, and because they are not necessary to the student who will
+thoroughly familiarize himself with the above stated Laws of the
+Syllogism and who will therefore be able to determine in every case
+whether any given argument is a correct syllogism, or otherwise.
+
+In many instances of ordinary thought and expression the _complete_
+syllogistic form is omitted, or not stated at full length. It is common
+usage to omit one premise of a syllogism, in ordinary expression, the
+missing premise being inferred by the speaker and hearer. A syllogism
+with one premise unexpressed is sometimes called an _Enthymene_, the
+term meaning "in the mind." For instance, the following: "We are a free
+people, therefore we are happy," the major premise "All free people are
+happy" being omitted or unexpressed. Also in "Poets are imaginative,
+therefore Byron was imaginative," the minor premise "Byron was a poet"
+is omitted or unexpressed. Jevons says regarding this phase of the
+subject: "Thus in the Sermon on the Mount, the verses known as the
+Beatitudes consist each of one premise and a conclusion, and the
+conclusion is put first. 'Blessed are the merciful: for they shall
+obtain mercy.' The subject and the predicate of the conclusion are here
+inverted, so that the proposition is really 'The merciful are blessed.'
+It is evidently _understood_ that 'All who shall obtain mercy are
+blessed,' so that the syllogism, when stated at full length, becomes:
+'All who shall obtain mercy are blessed; All who are merciful shall
+obtain mercy; Therefore, all who are merciful are blessed.' This is a
+perfectly good syllogism."
+
+Whenever we find any of the words: "_because_, _for_, _therefore_,
+_since_," or similar terms, we may know that there is an argument, and
+usually a syllogism.
+
+We have seen that there are three special kinds of Propositions, namely,
+(1) Categorical Propositions, or propositions in which the affirmation
+or denial is made without reservation or qualification; (2) Hypothetical
+Propositions, in which the affirmation or denial is made to depend upon
+certain conditions, circumstances, or suppositions; and (3) Disjunctive
+Propositions, in which is implied or asserted an _alternative_.
+
+The forms of reasoning based upon these three several classes of
+propositions bear the same names as the latter. And, accordingly the
+respective syllogisms expressing these forms of reasoning also bear the
+class name or term. Thus, a Categorical Syllogism is one containing
+only categorical propositions; a Hypothetical Syllogism is one
+containing one or more hypothetical propositions; a Disjunctive
+Syllogism is one containing a disjunctive proposition in the major
+premise.
+
+_Categorical Syllogisms_, which are far more common than the other two
+kinds, have been considered in the previous chapter, and the majority of
+the examples of syllogisms given in this book are of this kind. In a
+Categorical Syllogism the statement or denial is made positively, and
+without reservation or qualification, and the reasoning thereupon
+partakes of the same positive character. In propositions or syllogisms
+of this kind it is asserted or assumed that the premise is true and
+correct, and, if the reasoning be logically correct it must follow that
+the conclusion is correct, and the new proposition springing therefrom
+must likewise be Categorical in its nature.
+
+_Hypothetical Syllogisms_, on the contrary, have as one or more of their
+premises a hypothetical proposition which affirms or asserts something
+provided, or "if," something else be true. Hyslop says of this: "Often
+we wish first to bring out, if only conditionally, the truth upon which
+a proposition rests, so as to see if the connection between this
+conclusion and the major premise be admitted. The whole question will
+then depend upon the matter of treating the minor premise. This has the
+advantage of getting the major premise admitted without the formal
+procedure of proof, and the minor premise is usually more easily proved
+than the major. Consequently, one is made to see more clearly the force
+of the argument or reasoning by removing the question of the material
+truth of the major premise and concentrating attention upon the relation
+between the conclusion and its conditions, so that we know clearly what
+we have first to deny if we do not wish to accept it."
+
+By joining a hypothetical proposition with an ordinary proposition we
+create a Hypothetical Proposition. For instance: "_If_ York contains a
+cathedral it is a city; York _does_ contain a cathedral; therefore, York
+is a city." Or: "If _dogs_ have four feet, they are quadrupeds; dogs
+_do_ have four feet; therefore dogs _are_ quadrupeds." The Hypothetical
+Syllogism may be either affirmative or negative; that is, its
+hypothetical proposition may either hypothetically _affirm_ or
+hypothetically _deny_. The part of the premise of a Hypothetical
+Syllogism which conditions or questions (and which usually contains the
+little word "if") is called the Antecedent. The major premise is the one
+usually thus conditioned. The other part of the conditioned proposition,
+and which part states what will happen or is true under the conditional
+circumstances, is called the Consequent. Thus, in one of the above
+examples: "If dogs have four feet" is the Antecedent; and the remainder
+of the proposition: "they are quadrupeds" is the Consequent. The
+Antecedent is indicated by the presence of some conditional term as:
+_if_, _supposing_, _granted that_, _provided that_, _although_, _had_,
+_were_, etc., the general sense and meaning of such terms being that of
+the little word "_if_." The Consequent has no special indicating term.
+
+Jevons gives the following clear and simple _Rules regarding the
+Hypothetical Syllogism_:
+
+I. "If the Antecedent be affirmed, the consequent may be affirmed. If
+the Consequent be denied, the Antecedent may be denied."
+
+II. "Avoid the fallacy of affirming the consequent, or denying the
+antecedent. This is a fallacy because of the fact that the conditional
+statement made in the major premise _may not be the only one_
+determining the consequent." The following is an example of "Affirming
+the Consequent:" "_If_ it is raining, the sky is overclouded; the sky
+_is_ overclouded; therefore, it _is raining_." In truth, the sky may be
+overclouded, and still it may _not_ be raining. The fallacy is still
+more apparent when expressed in symbols, as follows: "_If_ A is B, C is
+D; C _is_ D; therefore, A is B." The fallacy of denying the Antecedent
+is shown by the following example: "_If_ Radium were cheap it would be
+useful; Radium is _not_ cheap; therefore Radium _is not_ useful." Or,
+expressed in symbols: "_If_ A is B, C is D; A is _not_ B; therefore C
+_is not_ D." In truth Radium may be useful although not cheap. Jevons
+gives the following examples of these fallacies: "If a man is a good
+teacher, he thoroughly understands his subject; but John Jones
+thoroughly understands his subject; therefore, he is a good teacher."
+Also, "If snow is mixed with salt it melts; the snow on the ground is
+_not_ mixed with salt; therefore it does _not_ melt."
+
+Jevons says: "To affirm the consequent and then to infer that we can
+affirm the antecedent, is as bad as breaking the third rule of the
+syllogism, and allowing an undistributed middle term.... To deny the
+antecedent is really to break the fourth rule of the syllogism, and to
+take a term as distributed in the conclusion which was not so in the
+premises."
+
+Hypothetical Syllogisms may usually be easily reduced to or converted
+into Categorical Syllogisms. As Jevons says: "In reality, hypothetical
+propositions and syllogisms are not different from those which we have
+more fully considered. _It is all a matter of the convenience of stating
+the propositions._" For instance, instead of saying: "If Radium were
+cheap, it would be useful," we may say "Cheap Radium would be useful;"
+or instead of saying: "If glass is thin, it breaks easily," we may say
+"Thin glass breaks easily." Hyslop gives the following _Rule for
+Conversion_ in such cases: "Regard the antecedent of the hypothetical
+proposition as the subject of the categorical, and the consequent of
+the hypothetical proposition as the predicate of the categorical. In
+some cases this change is a very simple one; in others it can be
+effected only by a circumlocution."
+
+The third class of syllogisms, known as _The Disjunctive Syllogism_, is
+the exception to the law which holds that all good syllogisms must fit
+in and come under the Rules of the Syllogism, as stated in the preceding
+chapter. Not only does it refuse to obey these Rules, but it fails to
+resemble the ordinary syllogism in many ways. As Jevons says: "It would
+be a great mistake to suppose that all good logical arguments must obey
+the rules of the syllogism, which we have been considering. Only those
+arguments which connect two terms together by means of a middle term,
+and are therefore syllogisms, need obey these rules. A great many of the
+arguments which we daily use are of this nature; but there are a great
+many other kinds of arguments, some of which have never been understood
+by logicians until recent years. One important kind of argument is known
+as the Disjunctive Syllogism, though it does not obey the rules of the
+syllogism, or in any way resemble syllogisms."
+
+The Disjunctive Syllogism is one having a disjunctive proposition in its
+major premise. The disjunctive proposition also appears in the
+conclusion when the disjunction in the major premise happens to contain
+more than two terms. A disjunctive proposition, we have seen, is one
+which possesses alternative predicates for the subject in which the
+conjunction "_or_" (sometimes accompanied by "_either_") appears. As for
+instance: "Lightning is sheet _or_ forked;" or, "Arches are _either_
+round or pointed;" or, "Angles are either obtuse, or right angled, or
+acute." The different things joined together by "or" are called
+Alternatives, the term indicating that we may choose between the things,
+and that if one will not answer our purpose we may take the other, or
+one of the others if there be more than one _other_.
+
+The _Rule regarding the Use of Disjunctive Syllogisms_ is that: "If one
+or more alternatives be denied, the rest may still be affirmed." Thus if
+we say that "A is B or C," or that "A is either B or C," we may _deny_
+the B but still affirm the C. Some authorities also hold that "If we
+affirm one alternative, we must deny the remainder," but this view is
+vigorously disputed by other authorities. It would seem to be a valid
+rule in cases where the term "either" appears as: "A is _either_ B _or_
+C," because there seems to be an implication that one or the other alone
+can be true. But in cases like: "A is B _or_ C," there may be a
+possibility of _both being true_. Jevons takes this latter view, giving
+as an example the proposition: "A Magistrate is a Justice-of-the-Peace,
+a Mayor, or a Stipendiary Magistrate," but it does not follow that one
+who is a Justice-of-the-Peace may not be at the same time a Mayor. He
+states: "After affirming one alternative we can only deny the others _if
+there be such a difference between them that they could not be true at
+the same time_." It would seem that both contentions are at the same
+time true, the example given by Jevons illustrating his contention, and
+the proposition "The prisoner is either guilty or innocent" illustrating
+the contentions of the other side.
+
+A _Dilemma_ is a conditional syllogism whose Major Premise presents
+some sort of alternative. Whately defines it as: "A conditional
+syllogism with two or more antecedents in the major, and a disjunctive
+minor." There being two mutually exclusive propositions in the Major
+Premise, the reasoner is compelled to admit one or the other, and is
+then caught between "the two horns of the dilemma."
+
+
+
+

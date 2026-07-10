@@ -1,0 +1,794 @@
+CHAPTER V.
+
+
+_THE CONCEPTION _RANDOMNESS_ AND ITS SCIENTIFIC TREATMENT._
+
+1. There is a term of frequent occurrence in treatises
+on Probability, and which we have already had repeated occasion
+to employ, viz. the designation _random_ applied to an
+event, as in the expression 'a random distribution'. The
+scientific conception involved in the correct use of this term
+is, I apprehend, nothing more than that of aggregate order
+and individual irregularity (or apparent irregularity), which
+has been already described in the preceding chapters. A
+brief discussion of the requisites in this scientific conception,
+and in particular of the nature and some of the reasons for
+the departure from the popular conception, may serve to
+clear up some of the principal remaining difficulties which
+attend this part of our subject.
+
+The original,[1] and still popular, signification of the term
+is of course widely different from the scientific. What it
+looks to is the origin, not the results, of the random performance,
+and it has reference rather to the single action
+than to a group or series of actions. Thus, when a man
+draws a bow 'at a venture', or 'at random', we mean only
+to point out the aimless character of the performance;
+we are contrasting it with the definite intention to hit a
+certain mark. But it is none the less true, as already
+pointed out, that we can only apply processes of inference to
+such performances as these when we regard them as being
+capable of frequent, or rather of indefinitely extended repetition.
+
+Begin with an illustration. Perhaps the best typical
+example that we can give of the scientific meaning of
+random distribution is afforded by the arrangement of the
+drops of rain in a shower. No one can give a guess whereabouts
+at any instant a drop will fall, but we know that if
+we put out a sheet of paper it will gradually become uniformly
+spotted over; and that if we were to mark out any
+two equal areas on the paper these would gradually tend
+to be struck equally often.
+
+2. I. Any attempt to draw inferences from the assumption
+of random arrangement must postulate the occurrence
+of this particular state of things at some stage or
+other. But there is often considerable difficulty, leading occasionally
+to some arbitrariness, in deciding the particular
+stage at which it ought to be introduced.
+
+(1) Thus, in many of the problems discussed by mathematicians,
+we look as entirely to the results obtained, and
+think as little of the actual process by which they are obtained,
+as when we are regarding the arrangement of the drops of
+rain. A simple example of this kind would be the following.
+A pawn, diameter of base one inch, is placed at random on
+a chess-board, the diameter of the squares of which is one inch
+and a quarter: find the chance that its base shall lie across
+one of the intersecting lines. Here we may imagine the
+pawns to be so to say rained down vertically upon the board,
+and the question is to find the ultimate proportion of those
+which meet a boundary line to the total of those which fall.
+The problem therefore becomes a merely geometrical one,
+viz. to determine the ratio of a certain area on the board to
+the whole area. The determination of this ratio is all that
+the mathematician ever takes into account.
+
+Now take the following. A straight brittle rod is broken
+at random in two places: find the chance that the pieces can
+make a triangle.[2] Since the only condition for making a
+triangle with three straight lines is that each two shall be
+greater than the third, the problem seems to involve the
+same general conception as in the former case. We must
+conceive such rods breaking at one pair of spots after
+another,--no one can tell precisely where,--but showing the
+same ultimate tendency to distribute these spots throughout
+the whole length uniformly. As in the last case, the mathematician
+thinks of nothing but this final result, and pays no
+heed to the process by which it may be brought about. Accordingly
+the problem is again reduced to one of mensuration,
+though of a somewhat more complicated character.
+
+3. (2) In another class of cases we have to contemplate
+an intermediate process rather than a final result; but the
+same conception has to be introduced here, though it is now
+applied to the former stage, and in consequence will not in
+general apply to the latter.
+
+For instance: a shot is fired at random from a gun whose
+maximum range (i.e. at 45° elevation) is 3000 yards: what is
+the chance that the actual range shall exceed 2000 yards?
+The ultimately uniform (or random) distribution here is
+commonly assumed to apply to the various directions in
+which the gun can be pointed; all possible directions above
+the horizontal being equally represented in the long run.
+We have therefore to contemplate a surface of uniform distribution,
+but it will be the surface, not of the ground, but
+of a hemisphere whose centre is occupied by the man who
+fires. The ultimate distribution of the bullets on the spots
+where they strike the ground will not be uniform. The
+problem is in fact to discover the law of variation of the
+density of distribution.
+
+The above is, I presume, the treatment generally adopted
+in solving such a problem. But there seems no absolute
+necessity for any such particular choice. It is surely open to
+any one to maintain[3] that his conception of the randomness of
+the firing is assigned by saying that it is likely that a man
+should begin by facing towards any point of the compass indifferently,
+and then proceed to raise his gun to any angle
+indifferently. The stage of ultimately uniform distribution
+here has receded a step further back. It is not assigned
+directly to the surface of an imaginary hemisphere, but to
+the lines of altitude and azimuth drawn on that surface.
+Accordingly, the distribution over the hemisphere itself will
+not now be uniform,--there will be a comparative crowding
+up towards the pole,--and the ultimate distribution over the
+ground will not be the same as before.
+
+4. Difficulties of this kind, arising out of the uncertainty
+as to what stage should be selected for that of uniform
+distribution, will occasionally present themselves. For
+instance: let a book be taken at random out of a bookcase;
+what is the chance of hitting upon some assigned volume?
+I hardly know how this question would commonly be treated.
+If we were to set our man opposite the middle of the shelf
+and inquire what would generally happen in practice, supposing
+him blindfolded, there cannot be much doubt that
+the volumes would not be selected equally often. On the
+contrary, it is likely that there would be a tendency to increased
+frequency about a centre indicated by the height
+of his shoulder, and (unless he be left-handed) a trifle to the
+right of the point exactly opposite his starting point.
+
+If the question were one which it were really worth
+while to work out on these lines we should be led a long
+way back. Just as we imagined our rifleman's position (on
+the second supposition) to be determined by two independent
+coordinates of assumed continuous and equal facility,
+so we might conceive our making the attempt to analyse the
+man's movements into a certain number of independent
+constituents. We might suppose all the various directions
+from his starting point, along the ground, to be equally
+likely; and that when he reaches the shelves the random
+motion of his hand is to be regulated after the fashion of a
+shot discharged at random.
+
+The above would be one way of setting about the statement
+of the problem. But the reader will understand that
+all which I am here proposing to maintain is that in these,
+as in every similar case, we always encounter, under this
+conception of 'randomness', at some stage or other, this
+postulate of ultimate uniformity of distribution over some
+assigned magnitude: either time; or space, linear, superficial,
+or solid. But the selection of the stage at which this is to
+be applied may give rise to considerable difficulty, and even
+arbitrariness of choice.
+
+5. Some years ago there was a very interesting discussion
+upon this subject carried on in the mathematical part of
+the _Educational Times_ (see, especially, Vol. VII.). As not
+unfrequently happens in mathematics there was an almost
+entire accord amongst the various writers as to the assumptions
+practically to be made in any particular case, and therefore
+as to the conclusion to be drawn, combined with a very
+considerable amount of difference as to the axioms and definitions
+to be employed. Thus Mr M. W. Crofton, with the
+substantial agreement of Mr Woolhouse, laid it down unhesitatingly
+that "at random" has "a very clear and definite
+meaning; one which cannot be better conveyed than by Mr
+Wilson's definition, '_according to no law_'; and in this sense
+alone I mean to use it." According to any scientific interpretation
+of 'law' I should have said that where there was
+no law there could be no inference. But ultimate tendency
+towards equality of distribution is as much taken for granted
+by Mr Crofton as by any one else: in fact he makes this a
+deduction from his definition:--"As this infinite system of
+parallels are drawn according to no law, they are as thickly
+disposed along any part of the [common] perpendicular as
+along any other" (VII. p. 85). Mr Crofton holds that any
+kind of _unequal_ distribution would imply law,--"If the points
+[on a plane] tended to become denser in any part of the plane
+than in another, there must be some law attracting them
+there" (ib. p. 84). The same view is enforced in his paper
+on _Local Probability_ (in the _Phil. Trans._, Vol. 158). Surely
+if they tend to become _equally_ dense this is just as much
+a case of regularity or law.
+
+It may be remarked that wherever any serious practical
+consequences turn upon duly securing the desired randomness,
+it is always so contrived that no design or awkwardness
+or unconscious one-sidedness shall disturb the result. The
+principal case in point here is of course afforded by games of
+chance. What we want, when we toss a die, is to secure that
+all numbers from 1 to 6 shall be equally often represented in
+the long run, but that no person shall be able to predict the
+individual occurrence. We might, in our statement of a
+problem, as easily postulate 'a number _thought of_ at random'
+as 'a shot fired at random', but no one would risk his chances
+of gain and loss on the supposition that this would be done
+with continued fairness. Accordingly, we construct a die
+whose sides are accurately alike, and it is found that we may
+do almost what we like with this, at any previous stage to
+that of its issue from the dice box on to the table, without
+interfering with the random nature of the result.
+
+6. II. Another characteristic in which the scientific
+conception seems to me to depart from the popular or original
+signification is the following. The area of distribution which
+we take into account must be a finite or limited one. The
+necessity for this restriction may not be obvious at first sight,
+but the consideration of one or two examples will serve to
+indicate the point at which it makes itself felt. Suppose
+that one were asked to choose a number at random, not
+from a finite range, but from the inexhaustible possibilities
+of enumeration. In the popular sense of the term,--i.e. of
+uttering a number without pausing to choose,--there is no
+difficulty. But a moment's consideration will show that no
+arrangement even tending towards ultimately uniform distribution
+can be secured in this way. No _average_ could be
+struck with ever increasing steadiness. So with spatial
+infinity. We can rationally speak of choosing a point at
+random in a given straight line, area, or volume. But if we
+suppose the line to have no end, or the selection to be made
+in infinite space, the basis of ultimate tendency towards
+what may be called the equally thick deposit of our random
+points fails us utterly.
+
+Similarly in any other example in which one of the
+magnitudes is unlimited. Suppose I fling a stick at random
+in a horizontal plane against a row of iron railings and
+inquire for the chance of its passing through without touching
+them. The problem bears some analogy to that of the
+chessmen, and so far as the motion of translation of the
+stick is concerned (if we begin with this) it presents no
+difficulty. But as regards the rotation it is otherwise. For
+any assigned linear velocity there is a certain angular velocity
+_below_ which the stick may pass through without contact,
+but _above_ which it cannot. And inasmuch as the former
+range is limited and the latter is unlimited, we encounter
+the same impossibility as before in endeavouring to conceive
+a uniform distribution. Of course we might evade this
+particular difficulty by beginning with an estimate of the
+angular velocity, when we should have to repeat what has
+just been said, mutatis mutandis, in reference to the linear
+velocity.
+
+7. I am of course aware that there are a variety of
+problems current which seem to conflict with what has just
+been said, but they will all submit to explanation. For instance;
+What is the chance that three straight lines, taken
+or drawn at random, shall be of such lengths as will admit of
+their forming a triangle? There are two ways in which we
+may regard the problem. We may, for one thing, start with
+the assumption of three lines not greater than a certain
+length n, and then determine towards what limit the chance
+tends as n increases unceasingly. Or, we may maintain that
+the question is merely one of _relative proportion_ of the three
+lines. We may then start with any magnitude we please to
+represent one of the lines (for simplicity, say, the longest of
+them), and consider that all possible shapes of a triangle
+will be represented by varying the lengths of the other two.
+In either case we get a definite result without need to make
+an attempt to conceive any random selection from the infinity
+of possible length.
+
+So in what is called the "three-point problem":--Three
+points in space are selected at random; find the chance of
+their forming an acute-angled triangle. What is done is to
+start with a closed volume,--say a sphere, from its superior
+simplicity,--find the chance (on the assumption of uniform
+distribution within this volume); and then conceive the continual
+enlargement without limit of this sphere. So regarded
+the problem is perfectly consistent and intelligible, though I
+fail to see why it should be termed a random selection _in
+space_ rather than in a sphere. Of course if we started with
+a different volume, say a cube, we should get a different
+result; and it is therefore contended (e.g. by Mr Crofton in
+the _Educational Times_, as already referred to) that infinite
+space is more naturally and appropriately regarded as tended
+towards by the enlargement of a sphere than by that of a
+cube or any other figure.
+
+Again: A group of integers is taken at random; show
+that the number thus taken is more likely to be odd than
+even. What we do in answering this is to start with any
+finite number n, and show that of all the possible combinations
+which can be made within this range there are
+more odd than even. Since this is true irrespective of the
+magnitude of n, we are apt to speak as if we could conceive
+the selection being made at random from the true infinity
+contemplated in numeration.
+
+8. Where these conditions cannot be secured then it
+seems to me that the attempt to assign any finite value to
+the probability fails. For instance, in the following problem,
+proposed by Mr J. M. Wilson, "Three straight lines are
+drawn at random on an infinite plane, and a fourth line is
+drawn at random to intersect them: find the probability of
+its passing through the triangle formed by the other three"
+(_Ed. Times_, Reprint, Vol. V. p. 82), he offers the following
+solution: "Of the four lines, two must and two must not pass
+within the triangle formed by the remaining three. Since
+all are drawn at random, the chance that the last drawn
+should pass through the triangle formed by the other three
+is consequently 1/2."
+
+I quote this solution because it seems to me to illustrate
+the difficulty to which I want to call attention. As the
+problem is worded, a triangle is supposed to be assigned by
+three straight lines. However large it may be, its size bears
+no finite ratio whatever to the indefinitely larger area outside
+it; and, so far as I can put any intelligible construction
+on the supposition, the chance of drawing a fourth random
+line which should happen to intersect this finite area must
+be reckoned as zero. The problem Mr Wilson has solved
+seems to me to be a quite different one, viz. "Given four
+intersecting straight lines, find the chance that we should,
+at random, select one that passes through the triangle formed
+by the other three."
+
+The same difficulty seems to me to turn up in most other
+attempts to apply this conception of randomness to real
+infinity. The following seems an exact analogue of the
+above problem:--A number is selected at random, find the
+chance that another number selected at random shall be
+greater than the former;--the answer surely must be that
+the chance is unity, viz. certainty, because the range above
+any assigned number is infinitely greater than that below it.
+Or, expressed in the only language in which I can understand
+the term 'infinity', what I mean is this. If the first
+number be m and I am restricted to selecting up to n
+(n > m) then the chance of exceeding m is n - m : n; if I
+am restricted to 2n then it is 2n - m : 2n and so on. That
+is, however large n and m may be the expression is always
+intelligible; but, _m being chosen first_, n may be made as
+much larger than m as we please: i.e. the chance may be
+made to approach as near to unity as we please.
+
+I cannot but think that there is a similar fallacy in De Morgan's
+admirably suggestive paper on _Infinity_ (_Camb.
+Phil. Trans._ Vol. 11.) when he is discussing the "three-point
+problem":--i.e. given three points taken at random find the
+chance that they shall form an acute-angled triangle. All
+that he shows is, that if we start with _one side as given_ and
+consider the subsequent possible positions of the opposite
+vertex, there are infinitely as many such positions which
+would form an acute-angled triangle as an obtuse: but, as
+before, this is solving a different problem.
+
+9. The nearest approach I can make towards true indefinite
+randomness, or random selection from true indefiniteness,
+is as follows. Suppose a circle with a tangent line extended
+indefinitely in each direction. Now from the centre draw
+radii at random; in other words, let the semicircumference
+which lies towards the tangent be ultimately uniformly intersected
+by the radii. Let these radii be then produced so as
+to intersect the tangent line, and consider the distribution
+of these points of intersection. We shall obtain in the result
+_one_ characteristic of our random distribution; i.e. no portion
+of this tangent, however small or however remote, but will
+find itself in the position ultimately of any small portion of
+the pavement in our supposed continual rainfall. That is,
+any such elementary patch will become more and more closely
+dotted over with the points of intersection. But the other
+essential characteristic, viz. that of ultimately _uniform_ distribution,
+will be missing. There will be a special form of
+distribution,--what in fact will have to be discussed in a
+future chapter under the designation of a 'law of error',--by
+virtue of which the concentration will tend to be greatest at
+a certain point (that of contact with the circle), and will thin
+out from here in each direction according to an easily
+calculated formula. The existence of such a state of things
+as this is quite opposed to the conception of true randomness.
+
+10. III. Apart from definitions and what comes of
+them, perhaps the most important question connected with
+the conception of Randomness is this: How in any given
+case are we to determine whether an observed arrangement
+is to be considered a random one or not? This question will
+have to be more fully discussed in a future chapter, but we
+are already in a position to see our way through some of the
+difficulties involved in it.
+
+(1) If the events or objects under consideration are supposed
+to be continued indefinitely, or if we know enough
+about the mode in which they are brought about to detect
+their ultimate tendency,--or even, short of this, if they are
+numerous enough to be beyond practical counting,--there is
+no great difficulty. We are simply confronted with a question
+of fact, to be settled like other questions of fact. In the
+case of the rain-drops, watch two equal squares of pavement
+or other surfaces, and note whether they come to be more
+and more densely uniformly and evenly spotted over: if they
+do, then the arrangement is what we call a random one. If
+I want to know whether a tobacco-pipe really breaks at random,
+and would therefore serve as an illustration of the
+problem proposed some pages back, I have only to drop
+enough of them and see whether pieces of all possible lengths
+are equally represented in the long run. Or, I may argue
+deductively, from what I know about the strength of materials
+and the molecular constitution of such bodies, as to
+whether fractures of small and large pieces are all equally
+likely to occur.
+
+11. The reader's attention must be carefully directed
+to a source of confusion here, arising out of a certain cross-division.
+What we are now discussing is a question of fact,
+viz. the nature of a certain ultimate arrangement; we are
+not discussing the particular way in which it is brought
+about. In other words, the antithesis is between what is and
+what is not random: it is not between what is random and
+what is designed. As we shall see in a few moments it is
+quite possible that an arrangement which is the result,--if
+ever anything were so,--of 'design', may nevertheless present
+the unmistakeable stamp of randomness of arrangement.
+
+Consider a case which has been a good deal discussed,
+and to which we shall revert again: the arrangement of the
+stars. The question here is rather complicated by the fact
+that we know nothing about the actual mutual positions of
+the stars, all that we can take cognizance of being their apparent
+or visible places as projected upon the surface of a
+supposed sphere. Appealing to what alone we can thus
+observe, it is obvious that the arrangement, as a whole, is
+not of the random sort. The Milky Way and the other resolvable
+nebulæ, as they present themselves to us, are as obvious
+an infraction of such an arrangement as would be the
+occurrence here and there of patches of ground in a rainfall
+which received a vast number more drops than the spaces
+surrounding them. If we leave these exceptional areas out
+of the question and consider only the stars which are visible
+by the naked eye or by slight telescopic power, it seems
+equally certain that the arrangement _is_, for the most part, a
+fairly representative random one. By this we mean nothing
+more than the fact that when we mark off any number of
+equal areas on the visible sphere these are found to contain
+approximately the same number of stars.
+
+The actual arrangement of the stars in space _may_ also
+be of the same character: that is, the apparently denser
+aggregation may be apparent only, arising from the fact that
+we are looking through regions which are not more thickly
+occupied but are merely more extensive. The alternative
+before us, in fact, is this. If the whole volume, so to say, of
+the starry heavens is tolerably regular in shape, then the
+arrangement of the stars is not of the random order; if that
+volume is very irregular in shape, it is possible that the arrangement
+within it may be throughout of that order.
+
+12. (2) When the arrangement in question includes
+but a comparatively small number of events or objects, it
+becomes much more difficult to determine whether or not it
+is to be designated a random one. In fact we have to shift
+our ground, and to decide not by what has been actually
+observed but by what we have reason to conclude would be
+observed if we could continue our observation much longer.
+This introduces what is called 'Inverse Probability', viz. the
+determination of the nature of a cause from the nature of the
+observed effect; a question which will be fully discussed in
+a future chapter. But some introductory remarks may be
+conveniently made here.
+
+Every problem of Probability, as the subject is here understood,
+introduces the conception of an ultimate limit, and
+therefore presupposes an indefinite possibility of repetition.
+When we have only a finite number of occurrences before us,
+_direct_ evidence of the character of their arrangement fails us,
+and we have to fall back upon the nature of the agency
+which produces them. And as the number becomes smaller
+the confidence with which we can estimate the nature of the
+agency becomes gradually less.
+
+Begin with an intermediate case. There is a small lawn,
+sprinkled over with daisies: is this a random arrangement?
+We feel some confidence that it is so, on mere inspection;
+meaning by this that (negatively) no trace of any regular
+pattern can be discerned and (affirmatively) that if we take
+any moderately small area, say a square yard, we shall find
+much about the same number of the plants included in it.
+But we can help ourselves by an appeal to the known agency
+of distribution here. We know that the daisy spreads by
+seed, and considering the effect of the wind and the continued
+sweeping and mowing of the lawn we can detect causes at
+work which are analogous to those by which the dealing of
+cards and the tossing of dice are regulated.
+
+In the above case the appeal to the process of production
+was subsidiary, but when we come to consider the nature of
+a very small succession or group this appeal becomes much
+more important. Let us be told of a certain succession of
+'heads' and 'tails' to the number of ten. The range here is
+far too small for decision, and unless we are told whether the
+agent who obtained them was tossing or designing we are
+quite unable to say whether or not the designation of 'random'
+ought to be applied to the result obtained. The truth
+must never be forgotten that though 'design' is sure to
+break down in the long run if it make the attempt to produce
+directly the semblance of randomness,[4] yet for a short
+spell it can simulate it perfectly. Any short succession, say
+of heads and tails, may have been equally well brought
+about by tossing or by deliberate choice.
+
+13. The reader will observe that this question of
+randomness is being here treated as simply one of ultimate
+statistical fact. I have fully admitted that this is not the
+primitive conception, nor is it the popular interpretation,
+but to adopt it seems the only course open to us if we are to
+draw inferences such as those contemplated in Probability.
+When we look to the producing agency of the ultimate
+arrangement we may find this very various. It may prove
+itself to be (a few stages back) one of conscious deliberate
+purpose, as in drawing a card or tossing a die: it may be
+the outcome of an extremely complicated interaction of many
+natural causes, as in the arrangement of the flowers scattered
+over a lawn or meadow: it may be of a kind of which we
+know literally nothing whatever, as in the case of the actual
+arrangement of the stars relatively to each other.
+
+This was the state of things had in view when it was
+said a few pages back that randomness and design would
+result in something of a cross-division. Plenty of arrangements
+in which design had a hand, a stage or two back, can
+be mentioned, which would be quite indistinguishable in
+their results from those in which no design whatever could
+be traced. Perhaps the most striking case in point here is
+to be found in the arrangement of the digits in one of the
+natural arithmetical constants, such as π or e, or in a table
+of logarithms. If we look to the process of production of
+these digits, no extremer instance can be found of what we
+mean by the antithesis of randomness: every figure has its
+necessarily pre-ordained position, and a moment's flagging of
+intention would defeat the whole purpose of the calculator.
+And yet, if we look to results only, no better instance can
+be found than one of these rows of digits if it were intended
+to illustrate what we practically understand by a chance
+arrangement of a number of objects. Each digit occurs
+approximately equally often, and this tendency develops as
+we advance further: the mutual juxtaposition of the digits
+also shows the same tendency, that is, any digit (say 5) is
+just as often followed by 6 or 7 as by any of the others. In
+fact, if we were to take the whole row of hitherto calculated
+figures, cut off the first five as familiar to us all, and contemplate
+the rest, no one would have the slightest reason
+to suppose that these had not come out as the results of a
+die with ten equal faces.
+
+14. If it be asked _why_ this is so, a rather puzzling
+question is raised. Wherever physical causation is involved
+we are generally understood to have satisfied the demand
+implied in this question if we assign antecedents which will
+be followed regularly by the event before us; but in geometry
+and arithmetic there is no opening for antecedents. What
+we then commonly look for is a demonstration, i.e. the resolution
+of the observed fact into axioms if possible, or at
+any rate into admitted truths of wider generality. I do not
+know that a demonstration can be given as to the existence
+of this characteristic of statistical randomness in such successions
+of digits as those under consideration. But the
+following remarks may serve to shift the onus of unlikelihood
+by suggesting that the preponderance of analogy is
+rather in favour of the existence.
+
+Take the well-known constant π for consideration. This
+stands for a quantity which presents itself in a vast number
+of arithmetical and geometrical relations; let us take for
+examination the best known of these, by regarding it as
+standing for the ratio of the circumference to the diameter
+of a circle. So regarded, it is nothing more than a simple
+case of the measurement of a magnitude by an arbitrarily
+selected unit. Conceive then that we had before us a rod
+or line and that we wished to measure it with absolute
+accuracy. We must suppose--if we are to have a suitable
+analogue to the determination of π to several hundred
+figures,--that by the application of continued higher magnifying
+power we can detect ever finer subdivisions in the
+graduation. We lay our rod against the scale and find it,
+say, fall between 31 and 32 inches; we then look at the
+next division of the scale, viz. that into tenths of an inch.
+Can we see the slightest reason why the number of these
+tenths should be other than independent of the number of
+whole inches? The "piece over" which we are measuring
+may in fact be regarded as an entirely new piece, which had
+fallen into our hands after that of 31 inches had been
+measured and done with; and similarly with every successive
+piece over, as we proceed to the ever finer and finer divisions.
+
+Similar remarks may be made about most other incommensurable
+quantities, such as irreducible roots. Conceive
+two straight lines at right angles, and that we lay off a
+certain number of inches along each of these from the point
+of intersection; say two and five inches, and join the extremities
+of these so as to form the diagonal of a right-angled
+triangle. If we proceed to measure this diagonal in terms
+of either of the other lines we are to all intents and purposes
+extracting a square root. We should expect, rather than
+otherwise, to find here, as in the case of π, that incommensurability
+and resultant randomness of order in the digits
+was the rule, and commensurability was the exception. Now
+and then, as when the two sides were three and four, we
+should find the diagonal commensurable with them; but
+these would be the occasional exceptions, or rather they
+would be the comparatively finite exceptions amidst the
+indefinitely numerous cases which furnished the rule.
+
+15. The best way perhaps of illustrating the truly
+random character of such a row of figures is by appealing to
+graphical aid. It is not easy here, any more than in ordinary
+statistics, to grasp the import of mere figures; whereas the
+arrangement of groups of points or lines is much more
+readily seized. The eye is very quick in detecting any
+symptoms of regularity in the arrangement, or any tendency
+to denser aggregation in one direction than in another.
+How then are we to dispose our figures so as to force them
+to display their true character? I should suggest that we
+set about _drawing a line at random_; and, since we cannot
+trust our own unaided efforts to do this, that we rely upon
+the help of such a table of figures to do it for us, and then
+examine with what sort of efficiency they can perform the
+task. The problem of drawing _straight_ lines at random,
+under various limitations of direction or intersection, is
+familiar enough, but I do not know that any one has suggested
+the drawing of a line whose shape as well as position
+shall be of a purely random character. For simplicity we
+suppose the line to be confined to a plane.
+
+The definition of such a line does not seem to involve
+any particular difficulty. Phrased in accordance with the
+ordinary language we should describe it as the path (i.e. any
+path) traced out by a point which at every moment is as
+likely to move in any one direction as in any other. That
+we could not ourselves draw such a line, and that we could
+not get it traced by any physical agency, is certain. The
+mere inertia of any moving body will always give it a
+tendency, however slight, to go on in a straight line at each
+moment, instead of being instantly responsive to instantaneously
+varying dictates as to its direction of motion. Nor can
+we conceive or picture such a line in its ultimate or ideal condition.
+But it is easy to give a graphical approximation to it,
+and it is easy also to show how this approximation may be
+carried on as far as we please towards the ideal in question.
+
+We may proceed as follows. Take a sheet of the ordinary
+ruled paper prepared for the graphical exposition of curves.
+Select as our starting point the intersection of two of these
+lines, and consider the eight 'points of the compass' indicated
+by these lines and the bisections of the contained
+right angles.[5] For suggesting the random selection amongst
+these directions let them be numbered from 0 to 7, and
+let us say that a line measured due 'north' shall be designated
+by the figure 0, 'north-east' by 1, and so on. The
+selection amongst these numbers, and therefore directions, at
+every corner, might be handed over to a die with eight faces;
+but for the purpose of the illustration in view we select the
+digits 0 to 7 as they present themselves in the calculated
+value of π. The sort of path along which we should
+travel by a series of such steps thus taken at random
+may be readily conceived; it is given at the end of this
+chapter.
+
+For the purpose with which this illustration was proposed,
+viz. the graphical display of the succession of digits
+in any one of the incommensurable constants of arithmetic
+or geometry, the above may suffice. After actually testing
+some of them in this way they seem to me, so far as the eye,
+or the theoretical principles to be presently mentioned, are
+any guide, to answer quite fairly to the description of randomness.
+
+16. As we are on the subject, however, it seems worth
+going farther by enquiring how near we could get to the
+ideal of randomness of direction. To carry this out completely
+two improvements must be made. For one thing,
+instead of confining ourselves to eight directions we must
+admit an infinite number. This would offer no great difficulty;
+for instead of employing a small number of digits we
+should merely have to use some kind of circular teetotum
+which would rest indifferently in any direction. But in the
+next place instead of short finite steps we must suppose them
+indefinitely short. It is here that the actual unattainability
+makes itself felt. We are familiar enough with the device,
+employed by Newton, of passing from the discontinuous
+polygon to the continuous curve. But we can resort to this
+device because the ideal, viz. the curve, is as easily drawn
+(and, I should say, as easily conceived or pictured) as any of
+the steps which lead us towards it. But in the case before
+us it is otherwise. The line in question will remain discontinuous,
+or rather angular, to the last: for its angles do
+not tend even to lose their sharpness, though the fragments
+which compose them increase in number and diminish in
+magnitude without any limit. And such an ideal is not conceivable
+as an ideal. It is as if we had a rough body under
+the microscope, and found that as we subjected it to higher
+and higher powers there was no tendency for the angles to
+round themselves off. Our 'random line' must remain as
+'spiky' as ever, though the size of its spikes of course
+diminishes without any limit.
+
+The case therefore seems to be this. It is easy, in words,
+to indicate the conception by speaking of a line which at
+every instant is as likely to take one direction as another.
+It is easy moreover to draw such a line with any degree
+of minuteness which we choose to demand. But it is not
+possible to conceive or picture the line in its ultimate form.[6]
+There is in fact no 'limit' here, intelligible to the understanding
+or picturable by the imagination (corresponding to
+the asymptote of a curve, or the continuous curve to the
+incessantly developing polygon), towards which we find ourselves
+continually approaching, and which therefore we are
+apt to conceive ourselves as ultimately attaining. The usual
+assumption therefore which underlies the Newtonian infinitesimal
+geometry and the Differential Calculus, ceases to
+apply here.
+
+17. If we like to consider such a line in one of its
+approximate stages, as above indicated, it seems to me that
+some of the usual theorems of Probability, where large
+numbers are concerned, may safely be applied. If it be
+asked, for instance, whether such a line will ultimately tend
+to stray indefinitely far from its starting point, Bernoulli's
+'Law of Large Numbers' may be appealed to, in virtue of
+which we should say that it was excessively unlikely that its
+divergence should be relatively great. Recur to our graphical
+illustration, and consider first the resultant deviation
+of the point (after a great many steps) right or left of the
+vertical line through the starting point. Of the eight admissible
+motions at each stage two will not affect this relative
+position, whilst the other six are equally likely to move us a
+step to the right or to the left. Our resultant 'drift' therefore
+to the right or left will be analogous to the resultant
+difference between the number of heads and tails after a
+great many tosses of a penny. Now the well-known outcome
+of such a number of tosses is that ultimately the
+_proportional_ approximation to the _à priori_ probability, i.e. to
+equality of heads and tails, is more and more nearly carried
+out, but that the _absolute_ deflection is more and more widely
+displayed.
+
+Applying this to the case in point, and remembering
+that the results apply equally to the horizontal and vertical
+directions, we should say that after any very great number
+of such 'steps' as those contemplated, the ratio of our distance
+from the starting point to the whole distance travelled
+will pretty certainly be small, whereas the actual distance
+from it would be large. We should also say that the longer
+we continued to produce such a line the more pronounced
+would these tendencies become. So far as concerns this test,
+and that afforded by the general appearance of the lines
+drawn,--this last, as above remarked, being tolerably trustworthy,--I
+feel no doubt as to the generally 'random'
+character of the rows of figures displayed by the incommensurable
+or irrational ratios in question.
+
+As it may interest the reader to see an actual specimen
+of such a path I append one representing the arrangement
+of the eight digits from 0 to 7 in the value of π. The data
+are taken from Mr Shanks' astonishing performance in the
+calculation of this constant to 707 places of figures (_Proc. of
+R. S._, XXI. p. 319). Of these, after omitting 8 and 9, there
+remain 568; the diagram represents the course traced out
+by following the direction of these as the clue to our path.
+Many of the steps have of course been taken in opposite
+directions twice or oftener. The result seems to me to
+furnish a very fair graphical indication of randomness. I
+have compared it with corresponding paths furnished by
+rows of figures taken from logarithmic tables, and in other
+ways, and find the results to be much the same.
+
+[Figure: Digits of π as a path.]
+
+1. According to Prof. Skeat (_Etymological Dictionary_) the earliest
+  known meaning is that of _furious_ action, as in a charge of
+  cavalry. The etymology, he considers, is connected with the
+  Teutonic word _rand_ (brim), and implies the furious and irregular
+  action of a river full to the brim.
+
+2. See the problem paper of Jan. 18, 1854, in the Cambridge
+  Mathematical Tripos.
+
+3. As, according to Mr H. Godfray, the majority of the candidates
+  _did_ assume when the problem was once proposed in an
+  examination. See the _Educational Times_ (Reprint, Vol. VII.
+  p. 99.)
+
+4. Vide p. 68.
+
+5. It would of course be more complete to take _ten_ alternatives of
+  direction, and thus to omit none of the digits; but this is much
+  more troublesome in practice than to confine ourselves to eight.
+
+6. Any more than we picture the shape of an equiangular spiral _at the
+  centre_.
+
+
+
+

@@ -1,0 +1,218 @@
+CHAPTER XIV.
+
+_CONCERNING TABLES OF MORTALITY, AND OF MEAN DURATIONS OF LIFE, OF
+MARRIAGES, AND OF ASSOCIATIONS._
+
+
+The manner of preparing tables of mortality is very simple. One takes in
+the civil registers a great number of individuals whose birth and death
+are indicated. One determines how many of these individuals have died in
+the first year of their age, how many in the second year, and so on. It
+is concluded from these the number of individuals living at the
+commencement of each year, and this number is written in the table at
+the side of that which indicates the year. Thus one writes at the side
+of zero the number of births; at the side of the year 1 the number of
+infants who have attained one year; at the side of the year 2 the number
+of infants who have attained two years, and so on for the rest. But
+since in the first two years of life the mortality is very great, it is
+necessary for the sake of greater exactitude to indicate in this first
+age the number of survivors at the end of each half year.
+
+If we divide the sum of the years of the life of all the individuals
+inscribed in a table of mortality by the number of these individuals we
+shall have the mean duration of life which corresponds to this table.
+For this, we will multiply by a half year the number of deaths in the
+first year, a number equal to the difference of the numbers of
+individuals inscribed at the side of the years 0 and 1. Their mortality
+being distributed over the entire year the mean duration of their life
+is only a half year. We will multiply by a year and a half the number of
+deaths in the second year; by two years and a half the number of deaths
+in the third year; and so on. The sum of these products divided by the
+number of births will be the mean duration of life. It is easy to
+conclude from this that we will obtain this duration, by making the sum
+of the numbers inscribed in the table at the side of each year, dividing
+it by the number of births and subtracting one half from the quotient,
+the year being taken as unity. The mean duration of life that remains,
+starting from any age, is determined in the same manner, working upon
+the number of individuals who have arrived at this age, as has just been
+done with the number of births. But it is not at the moment of birth
+that the mean duration of life is the greatest; it is when one has
+escaped the dangers of infancy and it is then about forty-three years.
+The probability of arriving at a certain age, starting from a given age
+is equal to the ratio of the two numbers of individuals indicated in the
+table at these two ages.
+
+The precision of these results demands that for the formation of tables
+we should employ a very great number of births. Analysis gives then very
+simple formulæ for appreciating the probability that the numbers
+indicated in these tables will vary from the truth only within narrow
+limits. We see by these formulæ that the interval of the limits
+diminishes and that the probability increases in proportion as we take
+into consideration more births; so that the tables would represent
+exactly the true law of mortality if the number of births employed were
+infinite.
+
+A table of mortality is then a table of the probability of human life.
+The ratio of the individuals inscribed at the side of each year to the
+number of births is the probability that a new birth will attain this
+year. As we estimate the value of hope by making a sum of the products
+of each benefit hoped for, by the probability of obtaining it, so we can
+equally evaluate the mean duration of life by adding the products of
+each year by half the sum of the probabilities of attaining the
+commencement and the end of it, which leads to the result found above.
+But this manner of viewing the mean duration of life has the advantage
+of showing that in a stationary population, that is to say, such that
+the number of births equals that of deaths, the mean duration of life is
+the ratio itself of the population to the annual births; for the
+population being supposed stationary, the number of individuals of an
+age comprised between two consecutive years of the table is equal to the
+number of annual births, multiplied by half the sum of the probabilities
+of attaining these years; the sum of all these products will be then the
+entire population. Now it is easy to see that this sum, divided by the
+number of annual births, coincides with the mean duration of life as we
+have just defined it.
+
+It is easy by means of a table of mortality to form the corresponding
+table of the population supposed to be stationary. For this we take the
+arithmetical means of the numbers of the table of mortality
+corresponding to the ages zero and one year, one and two years, two and
+three years, etc. The sum of all these means is the entire population;
+it is written at the side of the age zero. There is subtracted from this
+sum the first mean and the remainder is the number of individuals of one
+year and upwards; it is written at the side of the year 1. There is
+subtracted from this first remainder the second mean; this second
+remainder is the number of individuals of two years and upwards; it is
+written at the side of the year 2, and so on.
+
+So many variable causes influence mortality that the tables which
+represent it ought to be changed according to place and time. The divers
+states of life offer in this regard appreciable differences relative to
+the fatigues and the dangers inseparable from each state and of which it
+is indispensable to keep account in the calculations founded upon the
+duration of life. But these differences have not been sufficiently
+observed. Some day they will be and then will be known what sacrifice of
+life each profession demands and one will profit by this knowledge to
+diminish the dangers.
+
+The greater or less salubrity of the soil, its elevation, its
+temperature, the customs of the inhabitants, and the operations of
+governments have a considerable influence upon mortality. But it is
+always necessary to precede the investigation of the cause of the
+differences observed by that of the probability with which this cause is
+indicated. Thus the ratio of the population to annual births, which one
+has seen raised in France to twenty-eight and one third, is not equal to
+twenty-five in the ancient duchy of Milan. These ratios, both
+established upon a great number of births, do not permit of calling into
+question the existence among the Milanese of a special cause of
+mortality, which it is of moment for the government of our country to
+investigate and remove.
+
+The ratio of the population to the births would increase again if we
+could diminish and remove certain dangerous and widely spread maladies.
+This has happily been done for the smallpox, at first by the inoculation
+of this disease, then in a manner much more advantageous, by the
+inoculation of vaccine, the inestimable discovery of Jenner, who has
+thereby become one of the greatest benefactors of humanity.
+
+The smallpox has this in particular, namely, that the same individual is
+not twice affected by it, or at least such cases are so rare that they
+may be abstracted from the calculation. This malady, from which few
+escaped before the discovery of vaccine, is often fatal and causes the
+death of one seventh of those whom it attacks. Sometimes it is mild, and
+experience has taught that it can be given this latter character by
+inoculating it upon healthy persons, prepared for it by a proper diet
+and in a favorable season. Then the ratio of the individuals who die to
+the inoculated ones is not one three hundredth. This great advantage of
+inoculation, joined to those of not altering the appearance and of
+preserving from the grievous consequences which the natural smallpox
+often brings, caused it to be adopted by a great number of persons. The
+practice was strongly recommended, but it was strongly combated, as is
+nearly always the case in things subject to inconvenience. In the midst
+of this dispute Daniel Bernoulli proposed to submit to the calculus of
+probabilities the influence of inoculation upon the mean duration of
+life. Since precise data of the mortality produced by the smallpox at
+the various ages of life were lacking, he supposed that the danger of
+having this malady and that of dying of it are the same at every age. By
+means of these suppositions he succeeded by a delicate analysis in
+converting an ordinary table of mortality into that which would be used
+if smallpox did not exist, or if it caused the death of only a very
+small number of those affected, and he concludes from it that
+inoculation would augment by three years at least the mean duration of
+life, which appeared to him beyond doubt the advantage of this
+operation. D'Alembert attacked the analysis of Bernoulli: at first in
+regard to the uncertainty of his two hypotheses, then in regard to its
+insufficiency in this, that no comparison was made of the immediate
+danger, although very small, of dying of inoculation, to the very great
+but very remote danger of succumbing to natural smallpox. This
+consideration, which disappears when one considers a great number of
+individuals, is for this reason immaterial for governments and the
+advantages of inoculation for them still remain; but it is of great
+weight for the father of a family who must fear, in having his children
+inoculated, to see that one perish whom he holds most dear and to be the
+cause of it. Many parents were restrained by this fear, which the
+discovery of vaccine has happily dissipated. By one of those mysteries
+which nature offers to us so frequently, vaccine is a preventive of
+smallpox just as certain as variolar virus, and there is no danger at
+all; it does not expose to any malady and demands only very little care.
+Therefore the practice of it has spread quickly; and to render it
+universal it remains only to overcome the natural inertia of the people,
+against which it is necessary to strive continually, even when it is a
+question of their dearest interests.
+
+The simplest means of calculating the advantage which the extinction of
+a malady would produce consists in determining by observation the number
+of individuals of a given age who die of it each year and subtracting
+this number from the number of deaths at the same age. The ratio of the
+difference to the total number of individuals of the given age would be
+the probability of dying in the year at this age if the malady did not
+exist. Making, then, a sum of these probabilities from birth up to any
+given age, and subtracting this sum from unity, the remainder will be
+the probability of living to that age corresponding to the extinction of
+the malady. The series of these probabilities will be the table of
+mortality relative to this hypothesis, and we may conclude from it, by
+what precedes, the mean duration of life. It is thus that Duvilard has
+found that the increase of the mean duration of life, due to inoculation
+with vaccine, is three years at the least. An increase so considerable
+would produce a very great increase in the population if the latter, for
+other reasons, were not restrained by the relative diminution of
+subsistences.
+
+It is principally by the lack of subsistences that the progressive march
+of the population is arrested. In all kinds of animals and vegetables,
+nature tends without ceasing to augment the number of individuals until
+they are on a level of the means of subsistence. In the human race moral
+causes have a great influence upon the population. If easy clearings of
+the forest can furnish an abundant nourishment for new generations, the
+certainty of being able to support a numerous family encourages
+marriages and renders them more productive. Upon the same soil the
+population and the births ought to increase at the same time
+simultaneously in geometric progression. But when clearings become more
+difficult and more rare then the increase of population diminishes; it
+approaches continually the variable state of subsistences, making
+oscillations about it just as a pendulum whose periodicity is retarded
+by changing the point of suspension, oscillates about this point by
+virtue of its own weight. It is difficult to evaluate the _maximum_
+increase of the population; it appears after observations that in
+favorable circumstances the population of the human race would be
+doubled every fifteen years. We estimate that in North America the
+period of this doubling is twenty-two years. In this state of things,
+the population, births, marriages, mortality, all increase according to
+the same geometric progression of which we have the constant ratio of
+consecutive terms by the observation of annual births at two epochs.
+
+By means of a table of mortality representing the probabilities of human
+life, we may determine the duration of marriages. Supposing in order to
+simplify the matter that the mortality is the same for the two sexes, we
+shall obtain the probability that the marriage will subsist one year, or
+two, or three, etc., by forming a series of fractions whose common
+denominator is the product of the two numbers of the table corresponding
+to the ages of the consorts, and whose numerators are the successive
+products of the numbers corresponding to these ages augmented by one, by
+two, by three, etc., years. The sum of these fractions augmented by one
+half will be the mean duration of marriage, the year being taken as
+unity. It is easy to extend the same rule to the mean duration of an
+association formed of three or of a greater number of individuals.
+
+
+
+

@@ -1,0 +1,317 @@
+CHAPTER III.
+
+THE IMPLICATION OF PROPOSITIONS.--IMMEDIATE FORMAL INFERENCE.
+--EDUCATION.
+
+The meaning of Inference generally is a subject of dispute, and
+to avoid entering upon debatable ground at this stage, instead of
+attempting to define Inference generally, I will confine myself
+to defining what is called Formal Inference, about which there is
+comparatively little difference of opinion.
+
+FORMAL INFERENCE then is the apprehension of what is implied in a
+certain datum or admission: the derivation of one proposition,
+called the CONCLUSION, from one or more given, admitted, or assumed
+propositions, called the PREMISS or PREMISSES.
+
+When the conclusion is drawn from one proposition, the inference is
+said to be IMMEDIATE; when more than one proposition is necessary to
+the conclusion, the inference is said to be MEDIATE.
+
+Given the proposition, "All poets are irritable," we can immediately
+infer that "Nobody that is not irritable is a poet"; and the one
+admission implies the other. But we cannot infer immediately that "all
+poets make bad husbands". Before we can do this we must have a second
+proposition conceded, that "All irritable persons make bad husbands".
+The inference in the second case is called Mediate.[1]
+
+The modes and conditions of valid Mediate Inference constitute
+Syllogism, which is in effect the reasoning together of separate
+admissions. With this we shall deal presently. Meantime of Immediate
+Inference.
+
+To state all the implications of a certain form of proposition, to
+make explicit all that it implies, is the same thing with showing
+what immediate inferences from it are legitimate. Formal inference, in
+short, is the eduction of all that a proposition implies.
+
+Most of the modes of Immediate Inference formulated by logicians are
+preliminary to the Syllogistic process, and have no other practical
+application. The most important of them technically is the process
+known as Conversion, but others have been judged worthy of attention.
+
+
+AEQUIPOLLENT OR EQUIVALENT FORMS--OBVERSION.
+
+AEquipollence or Equivalence ([Greek: Isodynamia]) is defined as the
+perfect agreement in sense of two propositions that differ somehow in
+expression.[2]
+
+The history of AEquipollence in logical treatises illustrates two
+tendencies. There is a tendency on the one hand to narrow a theme
+down to definite and manageable forms. But when a useful exercise is
+discarded from one place it has a tendency to break out in another
+under another name. A third tendency may also be said to be specially
+well illustrated--the tendency to change the traditional application
+of logical terms.
+
+In accordance with the above definition of AEquipollence or
+Equivalence, which corresponds with ordinary acceptation, the term
+would apply to all cases of "identical meaning under difference of
+expression". Most examples of the reduction of ordinary speech into
+syllogistic form would be examples of aequipollence; all, in fact,
+would be so were it not that ordinary speech loses somewhat in the
+process, owing to the indefiniteness of the syllogistic symbol for
+particular quality, Some. And in truth all such transmutations
+of expression are as much entitled to the dignity of being called
+Immediate Inferences as most of the processes so entitled.
+
+Dr. Bain uses the word with an approach to this width of application
+in discussing all that is now most commonly called Immediate Inference
+under the title of Equivalent Forms. The chief objection to this usage
+is that the Converse _per accidens_ is not strictly equivalent. A
+debater may want for his argument less than the strict equivalent, and
+content himself with educing this much from his opponent's admission.
+(Whether Dr. Bain is right in treating the Minor and Conclusion of
+a Hypothetical Syllogism as being equivalent to the Major, is not so
+much a question of naming.)
+
+But in the history of the subject, the traditional usage has been
+to confine AEquipollence to cases of equivalence between positive and
+negative forms of expression. "Not all are," is equivalent to "Some
+are not": "Not none is," to "Some are". In Pre-Aldrichian text-books,
+AEquipollence corresponds mainly to what it is now customary to call
+(_e.g._, Fowler, pt. iii. c. ii., Keynes, pt. ii. c. vii.) Immediate
+Inference based on Opposition. The denial of any proposition involves
+the admission of its contradictory. Thus, if the negative particle
+"Not" is placed before the sign of Quantity, All or Some, in
+a proposition, the resulting proposition is equivalent to the
+Contradictory of the original. Not all S is P = Some S is not P.
+Not any S is P = No S is P. The mediaeval logicians tabulated these
+equivalents, and also the forms resulting from placing the negative
+particle after, or both before and after, the sign of Quantity. Under
+the title of AEquipollence, in fact, they considered the interpretation
+of the negative particle generally. If the negative is placed after
+the universal sign, it results in the Contrary: if both before and
+after, in the Subaltern. The statement of these equivalents is a
+puzzling exercise which no doubt accounts for the prominence given it
+by Aristotle and the Schoolmen. The latter helped the student with the
+following Mnemonic line: _Prae Contradic., post Contrar., prae postque
+Subaltern._[3]
+
+To AEquipollence belonged also the manipulation of the forms known
+after the _Summulae_ as _Exponibiles_, notably _Exclusive_ and
+_Exceptive propositions_, such as None but barristers are eligible,
+The virtuous alone are happy. The introduction of a negative particle
+into these already negative forms makes a very trying problem in
+interpretation. The aequipollence of the Exponibiles was dropped from
+text-books long before Aldrich, and it is the custom to laugh at them
+as extreme examples of frivolous scholastic subtlety: but most modern
+text-books deal with part of the doctrine of the _Exponibiles_ in
+casual exercises.
+
+Curiously enough, a form left unnamed by the scholastic logicians
+because too simple and useless, has the name AEquipollent appropriated
+to it, and to it alone, by Ueberweg, and has been adopted under
+various names into all recent treatises.
+
+Bain calls it the FORMAL OBVERSE,[4] and the title of OBVERSION (which
+has the advantage of rhyming with CONVERSION) has been adopted by
+Keynes, Miss Johnson, and others.
+
+Fowler (following Karslake) calls it PERMUTATION. The title is not a
+happy one, having neither rhyme nor reason in its favour, but it is
+also extensively used.
+
+This immediate inference is a very simple affair to have been honoured
+with such a choice of terminology. "This road is long: therefore, it
+is not short," is an easy inference: the second proposition is the
+Obverse, or Permutation, or AEquipollent, or (in Jevons's title) the
+Immediate Inference by Privative Conception, of the first.
+
+The inference, such as it is, depends on the Law of Excluded Middle.
+Either a term P, or its contradictory, not-P, must be true of any
+given subject, S: hence to affirm P of all or some S, is equivalent
+to denying not-P of the same: and, similarly, to deny P, is to affirm
+not-P. Hence the rule of Obversion;--Substitute for the predicate term
+its Contrapositive,[5] and change the Quality of the proposition.
+
+       All S is P = No S is not-P.
+        No S is P = All S is not-P.
+      Some S is P = Some S is not not-P.
+  Some S is not P = Some S is not-P.
+
+
+CONVERSION.
+
+The process takes its name from the interchange of the terms. The
+Predicate-term becomes the Subject-term, and the Subject-term the
+Predicate-term.
+
+When propositions are analysed into relations of inclusion or
+exclusion between terms, the assertion of any such relation between
+one term and another, implies a Converse relation between the second
+term and the first. The statement of this implied assertion is
+technically known as the CONVERSE of the original proposition, which
+may be called the _Convertend_.
+
+Three modes of Conversion are commonly recognised:--(_a_) SIMPLE
+CONVERSION; (_b_) CONVERSION _per accidens_ or by limitation; (_c_)
+CONVERSION BY CONTRAPOSITION.
+
+(_a_) E and I can be simply converted, only the terms being
+interchanged, and Quantity and Quality remaining the same.
+
+If S is wholly excluded from P, P must be wholly excluded from S. If
+Some S is contained in P, then Some P must be contained in S.
+
+(_b_) A cannot be simply converted. To know that All S is contained in
+P, gives you no information about that portion of P which is outside
+S. It only enables you to assert that Some P is S; that portion of P,
+namely, which coincides with S.
+
+O cannot be converted either simply or _per accidens_. Some S is not P
+does not enable you to make any converse assertion about P. All P
+may be S, or No P may be S, or Some P may be not S. All the three
+following diagrams are compatible with Some S being excluded from P.
+
+[Illustration:
+
+  Concentric circles of S and P - P in centre
+
+  S in one circle and P in another circle.
+
+  S and P each in a circle, overlapping circle.
+]
+
+(_c_) Another mode of Conversion, known by mediaeval logicians
+following Boethius as _Conversio per contra positionem terminorum_, is
+useful in some syllogistic manipulations. This Converse is obtained
+by substituting for the predicate term its Contrapositive or
+Contradictory, not-P, making the consequent change of Quality, and
+simply converting. Thus All S is P is converted into the equivalent No
+not-P is S.[6]
+
+Some have called it "Conversion by Negation," but "negation"
+is manifestly too wide and common a word to be thus arbitrarily
+restricted to the process of substituting for one term its opposite.
+
+Others (and this has some mediaeval usage in its favour, though not the
+most intelligent) would call the form All not-P is not-S (the Obverse
+or Permutation of No not-P is S), the Converse by Contraposition. This
+is to conform to an imaginary rule that in Conversion the Converse
+must be of the same Quality with the Convertend. But the essence of
+Conversion is the interchange of Subject and Predicate: the Quality is
+not in the definition except by a bungle: it is an accident. No
+not-P is S, and Some not-P is S are the forms used in Syllogism,
+and therefore specially named. Unless a form had a use, it was left
+unnamed, like the Subalternate forms of Syllogism: Nomen habent
+nullum: nec, si bene colligis, usum.
+
+
+TABLE OF CONTRAPOSITIVE CONVERSES.
+
+                             Con. Con.
+  All S is P                 No not-P is S
+  No S is P                  Some not-P is S
+  Some S is not P            Some not-P is S
+  Some S is P                None.
+
+When not-P is substituted for P, Some S is P becomes Some S is not
+not-P, and this form is inconvertible.
+
+
+OTHER FORMS OF IMMEDIATE INFERENCE.
+
+I have already spoken of the Immediate Inferences based on the rules
+of Contradictory and Contrary Opposition (see p. 145 - Part III, Ch.
+II).
+
+Another process was observed by Thomson, and named _Immediate
+Inference by Added Determinants_. If it is granted that "A negro is
+a fellow-creature," it follows that "A negro in suffering is a
+fellow-creature in suffering". But that this does not follow for every
+attribute[7] is manifest if you take another case:--"A tortoise is
+an animal: therefore, a fast tortoise is a fast animal". The form,
+indeed, holds in cases not worth specifying: and is a mere handle for
+quibbling. It could not be erected into a general rule unless it
+were true that whatever distinguishes a species within a class, will
+equally distinguish it in every class in which the first is included.
+
+MODAL CONSEQUENCE has also been named among the forms of Immediate
+Inference. By this is meant the inference of the lower degrees of
+certainty from the higher. Thus _must be_ is said to imply _may be_;
+and _None can be_ to imply _None is_.
+
+Dr. Bain includes also _Material Obversion_, the analogue of _Formal
+Obversion_ applied to a Subject. Thus Peace is beneficial to commerce,
+implies that War is injurious to commerce. Dr. Bain calls this
+Material Obversion because it cannot be practised safely without
+reference to the matter of the proposition. We shall recur to the
+subject in another chapter.
+
+    [Footnote 1: I purposely chose disputable propositions to
+    emphasise the fact that Formal Logic has no concern with the
+    truth, but only with the interdependence of its propositions.]
+
+    [Footnote 2: Mark Duncan, _Inst. Log._, ii. 5, 1612.]
+
+    [Footnote 3: There can be no doubt that in their doctrine of
+    AEquipollents, the Schoolmen were trying to make plain a real
+    difficulty in interpretation, the interpretation of the force
+    of negatives. Their results would have been more obviously
+    useful if they had seen their way to generalising them.
+    Perhaps too they wasted their strength in applying it to the
+    artificial syllogistic forms, which men do not ordinarily
+    encounter except in the manipulation of syllogisms. Their
+    results might have been generalised as follows:--
+
+    (1) A "not" placed before the sign of Quantity contradicts
+    the whole proposition. Not "All S is P," not "No S is P,"
+    not "Some S is P," not "Some S is not P," are equivalent
+    respectively to contradictories of the propositions thus
+    negatived.
+
+    (2) A "not" placed after the sign of Quantity affects the
+    copula, and amounts to inverting its Quality, thus denying
+    the predicate term of the same quantity of the subject term of
+    which it was originally affirmed, and _vice versa_.
+
+           All S is "not" P = No S is P.
+            No S is "not" P = All S is P.
+          Some S is "not" P = Some S is not P.
+      Some S is "not" not P = Some S is P.
+
+    (3) If a "not" is placed before as well as after, the
+    resulting forms are obviously equivalent (under Rule 1) to the
+    assertion of the contradictories of the forms on the right (in
+    the illustration of Rule 2).
+
+    Not | All S is "not" P      = No S is P       | = Some S is P.
+    Not | No S is "not" P       = All S is P      | = Some S is not P.
+    Not | Some S is "not" P     = Some S is not P | = All S is P.
+    Not | Some S is "not" not P = Some S is P     | = No S is P.
+    ]
+
+
+    [Footnote 4: _Formal_ to distinguish it from what he called
+    the _Material Obverse_, about which more presently.]
+
+    [Footnote 5: The mediaeval word for the opposite of a term, the
+    word Contradictory being confined to the propositional form.]
+
+    [Footnote 6: It is to be regretted that a practice has
+    recently crept in of calling this form, for shortness, the
+    Contrapositive simply. By long-established usage, dating from
+    Boethius, the word Contrapositive is a technical name for a
+    terminal form, not-A, and it is still wanted for this use.
+    There is no reason why the propositional form should not be
+    called the Converse by Contraposition, or the Contrapositive
+    Converse, in accordance with traditional usage.]
+
+    [Footnote 7: _Cf._ Stock, part iii. c. vii.; Bain,
+    _Deduction_, p. 109.]
+
+
+
+

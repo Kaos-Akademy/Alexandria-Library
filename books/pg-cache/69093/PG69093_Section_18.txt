@@ -1,0 +1,194 @@
+CHAPTER XII.
+
+OF THE FOUNDATIONS OF THE HIGHER MATHEMATICS.
+
+
+1. _The Idea of a Limit._--THE general truths concerning
+relations of space which depend upon the axioms and
+definitions contained in Euclid's _Elements_, and which
+involve only properties of straight lines and circles, are
+termed Elementary Geometry: all beyond this belongs to the
+Higher Geometry. To this latter province appertain, for
+example, all propositions respecting the lengths of any
+portions of curve lines; for these cannot be obtained by
+means of the principles of the Elements alone. Here then we
+must ask to what other principles the geometer has recourse,
+and from what source these are drawn. Is there any origin of
+geometrical truth which we have not yet explored?
+
+The _Idea of a Limit_ supplies a new mode of establishing
+mathematical truths. Thus with regard to the length of any
+portion of a curve, a problem which we have just mentioned;
+a curve is not made up of straight lines, and therefore we
+cannot by means of any of the doctrines of elementary
+geometry measure the length of any curve. But we may make up
+a figure nearly resembling any curve by putting together
+many short straight lines, just as a polygonal building of
+very many sides may nearly resemble a circular room. And in
+order to approach nearer and nearer to the curve, we may
+make the sides more and more small, more and more numerous.
+We may then possibly find some mode of measurement, some
+relation of these small lines to other lines, which is not
+disturbed by the multiplication of the sides, however far it
+be carried. And thus, we may do what is equivalent to
+measuring the curve itself; for by multiplying the {152}
+sides we may approach more and more closely to the curve
+till no appreciable difference remains. The curve line is
+the _Limit_ of the polygon; and in this process we proceed
+on the _Axiom_, that 'What is true up to the Limit is true
+at the Limit.'
+
+This mode of conceiving mathematical magnitudes is of wide
+extent and use; for every curve may be considered as the
+limit of some polygon; every varied magnitude, as the limit
+of some aggregate of simpler forms; and thus the relations
+of the elementary figures enable us to advance to the
+properties of the most complex cases.
+
+A Limit is a peculiar and fundamental conception, the use of
+which in proving the propositions of the Higher Geometry
+cannot be superseded by any combination of other hypotheses
+and definitions[14\2]. The axiom just noticed, that what is
+true up to the limit is true at the limit, is involved in
+the very conception of a Limit: and this principle, with its
+consequences, leads to all the results which form the
+subject of the higher mathematics, whether proved by the
+consideration of evanescent triangles, by the processes of
+the Differential Calculus, or in any other way.
+
+[Note 14\2: This assertion cannot be fully proved and
+illustrated without a reference to mathematical reasonings
+which would not be generally intelligible. I have shown the
+truth of the assertion in my _Thoughts on the Study of
+Mathematics_, annexed to the _Principles of English
+University Education_. The proof is of this kind:--The
+ultimate equality of an arc of a curve and the corresponding
+periphery of a polygon, when the sides of the polygon are
+indefinitely increased in number, is _evident_. But this
+truth cannot be proved from any other axiom. For if we take
+the supposed axiom, that a curve is always less than the
+including broken line, this is not true, except with a
+condition; and in tracing the import of this condition, we
+find its necessity becomes evident only when we introduce a
+reference to a Limit. And the same is the case if we attempt
+to supersede the notion of a Limit in proving any other
+simple and evident proposition in which that notion is
+involved. Therefore these evident truths are _self_-evident,
+_in virtue of the Idea of a Limit_.]
+
+The ancients did not expressly introduce this conception of
+a Limit into their mathematical reasonings; although in the
+application of what is termed the {153} _Method of
+Exhaustions_, (in which they show how to _exhaust_ the
+_difference_ between a polygon and a curve, or the like,)
+they were in fact proceeding upon an obscure apprehension of
+principles equivalent to those of the Method of Limits. Yet
+the necessary fundamental principle not having, in their
+time, been clearly developed, their reasonings were both
+needlessly intricate and imperfectly satisfactory. Moreover
+they were led to put in the place of axioms, assumptions
+which were by no means self-evident; as when Archimedes
+assumed, for the basis of his measure of the circumference
+of the circle, the proposition that a circular arc is
+necessarily less than two lines which inclose it, joining
+its extremities. The reasonings of the older mathematicians,
+which professed to proceed upon such assumptions, led to
+true results in reality, only because they were guided by a
+latent reference to the limiting case of such assumptions.
+And this latent employment of the conception of a Limit,
+reappeared in various forms during the early period of
+modern mathematics; as for example, in the _Method of
+Indivisibles_ of Cavalleri, and the _Characteristic
+Triangle_ of Barrow; till at last, Newton distinctly
+referred such reasonings to the conception of a Limit, and
+established the fundamental principles and processes which
+that conception introduces, with a distinctness and
+exactness which required little improvement to make it as
+unimpeachable as the demonstrations of geometry. And when
+such processes as Newton thus deduced from the conception of
+a Limit, are represented by means of general algebraical
+symbols instead of geometrical diagrams, we have then before
+us the _Method of Fluxions_, or the _Differential Calculus_;
+a mode of treating mathematical problems justly considered
+as the principal weapon by which the splendid triumphs of
+modern mathematics have been achieved.
+
+2. _The Use of General Symbols._--The employment of
+algebraical symbols, of which we have just spoken, has been
+another of the main instruments to which the successes of
+modern mathematics are owing. And here again the processes
+by which we obtain our {154} results depend for their
+evidence upon a fundamental conception,--the conception of
+_arbitrary symbols_ as the _Signs_ of quantity and its
+relations; and upon a corresponding axiom, that 'The
+interpretation of such symbols must be perfectly general.'
+In this case, as in the last, it was only by degrees that
+mathematicians were led to a just apprehension of the
+grounds of their reasoning. For symbols were at first used
+only to represent numbers considered with regard to their
+numerical properties; and thus the science of Algebra was
+formed. But it was found, even in cases belonging to common
+algebra, that the symbols often admitted of an
+interpretation which went beyond the limits of the problem,
+and which yet was not unmeaning, since it pointed out a
+question closely analogous to the question proposed. This
+was the case, for example, when the answer was a _negative
+quantity_; for when Descartes had introduced the mode of
+representing curves by means of algebraical relations among
+the symbols of the _co-ordinates_, or distances of each of
+their points from fixed lines, it was found that negative
+quantities must be dealt with as not less truly significant
+than positive ones. And as the researches of mathematicians
+proceeded, other cases also were found, in which the
+symbols, although destitute of meaning according to the
+original conventions of their institution, still pointed out
+truths which could be verified in other ways; as in the
+cases in which what are called _impossible quantities_
+occur. Such processes may usually be confirmed upon other
+principles, and the truth in question may be established by
+means of a demonstration in which no such seeming fallacies
+defeat the reasoning. But it has also been shown in many
+such cases, that the process in which some of the steps
+appear to be without real meaning, does in fact involve a
+valid proof of the proposition. And what we have here to
+remark is, that this is not true accidentally or partially
+only, but that the results of systematic symbolical
+reasoning must _always_ express general truths, by their
+nature; and do not, for their justification, require each of
+the steps of the process to represent {155} some definite
+operation upon quantity. _The absolute universality of the
+interpretation of symbols_ is the fundamental principle of
+their use. This has been shown very ably by Dr. Peacock in
+his _Algebra_. He has there illustrated, in a variety of
+ways, this principle: that 'If general symbols express an
+identity when they are supposed to be of any special nature,
+they must also express an identity when they are general in
+their nature.' And thus, this universality of symbols is a
+principle in addition to those we have already noticed; and
+is a principle of the greatest importance in the formation
+of mathematical science, according to the wide generality
+which such science has in modern times assumed.
+
+3. _Connexion of Symbols and Analysis._--Since in our
+symbolical reasoning our symbols thus reason for us, we do
+not necessarily here, as in geometrical reasoning, go on
+adding carefully one known truth to another, till we reach
+the desired result. On the contrary, if we have a theorem to
+prove or a problem to solve which can be brought under the
+domain of our symbols, we may at once state the given but
+unproved truth, or the given combination of unknown
+quantities, in its symbolical form. After this first
+process, we may then proceed to trace, by means of our
+symbols, what other truth is involved in the one just
+stated, or what the unknown symbols must signify; resolving
+step by step the symbolical assertion with which we began,
+into others more fitted for our purpose. The former process
+is a kind of _synthesis_, the latter is termed _analysis_.
+And although symbolical reasoning does not necessarily imply
+such analysis; yet the connexion is so familiar, that the
+term _analysis_ is frequently used to designate symbolical
+reasoning.
+
+
+
+{{156}}

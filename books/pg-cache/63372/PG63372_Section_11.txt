@@ -1,0 +1,315 @@
+XIII
+
+AN INTRODUCTION TO RELATIVITY
+
+A Treatment in Which the Mathematical Connections of Einstein's Work
+are Brought Out More Strongly and More Successfully Than Usual in a
+Popular Explanation
+
+BY HAROLD T. DAVIS, UNIVERSITY OF WISCONSIN, Madison, Wis.
+
+
+One of the first questions which appears in philosophy is this: What
+is the great reality that underlies space and time and the phenomena
+of the physical universe? Kant, the philosopher, dismissed it as
+a subjective problem, affirming that space and time are "a priori"
+concepts beyond which we can say no more.
+
+Then the world came upon some startling facts. In 1905 a paper appeared
+by Professor Albert Einstein which asserted that the explanation of
+certain remarkable discoveries in physics gave us a new conception
+of this strange four-dimensional manifold in which we live. Thus,
+the great difference between the space and time of philosophy and the
+new knowledge is the objective reality of the latter. It rests upon
+an amazing sequence of physical facts, and the generalized theory,
+which appeared several years later, founded as it is upon the abstruse
+differential calculus of Riemann, Christoffel, Ricci and Levi-Civita,
+emerges from its maze of formulas with the prediction of real phenomena
+to be sought for the in the world of facts.
+
+We shall, therefore, approach the subject from this objective point
+of view. Let us go to the realm of actual physical events and see how
+the ideas of relativity gradually unfolded themselves from the first
+crude wonderings of science to the stately researches that first
+discovered the great ocean of ether and then penetrated in such a
+marvelous manner into some of its most mysterious properties.
+
+
+
+
+THE ELECTROMAGNETIC THEORY OF LIGHT
+
+Suppose that we go out on a summer night and look into the dark depths
+of the sky. A thousand bright specks are flashing there, blue, red,
+yellow against the dark velvet of space. And as we look we must all
+be impressed by the fact that such remote objects as the stars can be
+known to us at all. How is it that light, that curious thing which
+falls upon the optic nerve and transmits its pictures to the brain,
+can ever reach us through the black regions of interstellar space? That
+is the question which has for its answer the electromagnetic theory
+of light.
+
+The first theory to be advanced was Newton's "corpuscular" theory
+which supposed that the stars are sending off into space little pellets
+of matter so infinitesimally small that they can move at the rate of
+186,000 miles a second without injuring even so delicate a thing as
+the eye when they strike against it.
+
+But in 1801, when Thomas Young made the very important discovery of
+interference, this had to give way to the wave theory, first proposed
+by Huyghens in the 17th century. The first great deduction from this,
+of course, was the "luminiferous ether," because a wave without some
+medium for its propagation was quite unthinkable. Certain peculiar
+properties of the ether were at once evident, since we deduce that
+it must fill all space and at the same time be so extremely tenuous
+that it will not retard to any noticeable degree the motion through
+it of material bodies like the planets.
+
+But how light was propagated through the ether still remained a
+perplexing problem and various theories were proposed, most prominent
+among them being the "elastic solid" theory which tried to ascribe to
+ether the properties of an elastic body. This theory, however, laid
+itself open to serious objection on the ground that no longitudinal
+waves had been detected in the ether, so that it began to appear
+that further insight into the nature of light had to be sought for
+in another direction.
+
+This was soon forthcoming for in 1864 a new theory was
+proposed by James Clerk Maxwell which seemed to solve all of the
+difficulties. Maxwell had been working with the facts derived from
+a study of electrical and magnetic phenomena and had shown that
+electromagnetic disturbances were propagated through the ether at a
+velocity identical with that of light. This, of course, might have been
+merely a strange coincidence, but Maxwell went further and demonstrated
+the interesting fact that an oscillating electric charge should give
+rise to a wave that would behave in a manner identical with all of the
+known properties of a light wave. One particularly impressive assertion
+was that these waves, consisting of an alternating electric field
+accompanied by an alternating magnetic field at right angles to it,
+and hence called electromagnetic waves, would advance in a direction
+perpendicular to the alternating fields. This satisfied the first
+essential property of light rays, i.e., that they must be transverse
+waves, and the ease with which it explained all of the fundamental
+phenomena of optics and predicted a most striking interrelation
+between the electrical and optical properties of material bodies,
+gave it at once a prominent place among the various theories.
+
+The electromagnetic theory, however, had to wait until 1888 for
+verification when Heinrich Hertz, in a series of brilliant experiments,
+succeeded in producing electromagnetic waves in the laboratory and
+in showing that they possessed all of the properties predicted by
+Maxwell. These waves moved with the velocity of light: they could be
+reflected, refracted, and polarized: they exhibited the phenomenon
+of interference and, in short, could not be distinguished from light
+waves except for their difference in wave length.
+
+
+
+
+THE MICHELSON-MORLEY EXPERIMENT
+
+With the final establishment of the electromagnetic theory of light as
+a fact of physics, we have at last endowed the ether with an actual
+substantiality. The "empty void" is no longer empty, but a great
+ocean of ether through which the planets and the suns turn without
+ever being aware that it is there.
+
+In 1881 A. A. Michelson undertook an experiment, originally suggested
+by Maxwell, to determine the relative motion of our earth to the
+ether ocean and six years later he repeated it with the assistance
+of E. W. Morley. The experiment is now known as the Michelson-Morley
+experiment and since it is the great physical fact upon which the
+theory of relativity rests, it will be well for us to examine it
+in detail.
+
+Since we can scarcely think that our earth is privileged in the
+universe and that it is at rest with respect to this great ether ocean
+that fills space, we propose to discover how fast we are actually
+moving. But the startling fact is that the experiment devised for this
+purpose failed to detect any motion whatever of the earth relative
+to the ether. [3]
+
+The explanation of this very curious fact was given by both
+H. A. Lorentz and G. F. Fitzgerald in what is now widely known under
+the name of the "contraction hypothesis." It is nothing more nor less
+than this:
+
+Every solid body undergoes a slight change in dimensions, of the order
+of ($v^2/c^2$), when it moves with a velocity $v$ through the ether.
+
+The reason why the experiment failed, then, was not because the earth
+was not moving through the ether, but because the instruments with
+which the experiment was being conducted had shrunk just enough to
+negative the effect that was being looked for. [4]
+
+
+
+
+THE LORENTZ TRANSFORMATION
+
+We can not at this point forebear introducing a little mathematics
+to further emphasize the theory and the very logical nature of this
+contraction hypothesis.
+
+Let us suppose that we were on a world that was absolutely motionless
+with respect to the ether and were looking at a ray of light. The
+magnetic and electric fields which form the ray can be described by
+means of four mathematical expressions which have come to bear the
+name of "Maxwell's field equations." Now suppose that we ask ourselves
+the question: How must these equations be changed so that they will
+apply to a ray of light which is being observed by people on a world
+that is moving with a velocity v through the ether?
+
+The answer is immediate. From the Michelson-Morley experiment we know
+that we can not tell how fast or how slowly we are moving with respect
+to the ether. This means that no matter what world we may be upon,
+the form of the Maxwell field equations will always be the same,
+even though the second set of axes (or frame of reference) may be
+moving with high velocity with respect to the first.
+
+Starting from this hypothesis (called in technical language the
+covariance of the equations with respect to a transformation of
+coordinates), Lorentz found that the transformation which leaves the
+field equations unchanged in form was the following:
+
+    $$x' = k(x - vt), y' = y, z' = z, t' = k(t - vx/c)$$
+
+where $k$ is as on page 92.
+
+And what, now, can be deduced from these very simple looking
+equations? In the first place we see that the space of $x'$, $y'$,
+$z'$, $t'$ is not our ordinary concept of space at all, but a space in
+which time is all tangled up with length. To put it more concretely,
+we may deduce from them the interesting fact that whenever an aviator
+moves with respect to our earth, his shape changes, and if he were to
+compare his watch with one on the earth, he would find that his time
+had changed also. A sphere would flatten into an ellipse, a meter
+stick would shorten up, a watch would slow down and all because, as
+H. Minkowski has shown us from these very equations, we are really
+living in a physical world quite different from the world of Euclid's
+geometry in which we are accustomed to think we live.
+
+A variety of objections has very naturally been made to this rather
+radical hypothesis in an attempt to discredit the entire theory, but
+it is easily seen that any result obtained through the field equations
+must necessarily be in conformity with the theory of contraction, since
+this theory is only the physical interpretation of that transformation
+which leaves the field equations unaltered. Indeed, it is even possible
+to postulate the Lorentz transformation together with the assumption
+that each element of charge is a center of uniformly diverging tubes
+of strain and derive the Maxwell field equations from this, which
+shows from another point of view the truly fundamental nature of
+the transformation.
+
+
+
+
+THE FIRST THEORY OF RELATIVITY
+
+The whole question of the ether had arrived at this very
+interesting point when Professor Einstein in 1905 stated the theory
+of relativity. He had noticed that the equations of dynamics as
+formulated by Newton did not admit the Lorentz transformation, but
+only the simple Galilean transformation:
+
+    $$x' = x - vt, y' = y, z' = z, t' = t\,.$$
+
+Here, indeed, was a curious situation. Two physical principles,
+that of dynamics and that of electromagnetism, were coexistent and
+yet each one admitted a different transformation when the system of
+reference was transferred to axes moving with constant velocity with
+respect to the ether.
+
+Now the electromagnetic equations and their transformation had been
+shown to be in accord with experimental fact, whereas it had long
+been felt that Newton's equations were only a first approximation
+to the truth. For example, the elliptic orbit of a planet had been
+observed by Leverrier to exhibit a disquieting tendency to rotate
+in the direction of motion. This precession, which in the case of
+Mercury was as large as 43'' per century, could not be accounted
+for in any way by the ordinary Newtonian laws and was, consequently,
+a very celebrated case of discordance in gravitational astronomy.
+
+With this example clearly before him, Einstein took the great step
+and said that the laws of dynamics and all other physical laws had to
+be remade so that they, also, admit the Lorentz transformation. That
+is to say,
+
+The laws of physical phenomena, or rather the mathematical expressions
+for these laws, are covariant (unchanged in form) when we apply the
+Lorentz transformation to them.
+
+The deductions from the Michelson-Morley experiment now seem to have
+reached their ultimate conclusion.
+
+One discordant fact in this new theory remained, however. That same
+precession of the perihelion of Mercury which had first lead Einstein
+to his theory remained unsettled. When the new approximations were
+applied to the formula of orbital motion, a precession was, indeed,
+obtained, but the computed value fell considerably below that of the
+observed 43'' per century.
+
+
+
+
+THE INCLUSION OF GRAVITATION
+
+With the idea of investigating the problem from the very bottom,
+Einstein now undertook a broader and more daring point of view. In
+the first place he said that there is no apparent reason in the great
+scheme of world events why any one special system of coordinates should
+be fundamental to the description of phenomena, just as in the special
+theory a ray of light would appear the same whether viewed from a
+fixed system or a system moving with constant velocity with respect
+to the ether. This makes the very broad assumption that no matter
+what system of coordinates we may use, the mathematical expressions
+for the laws of nature must be the same. In Einstein's own words,
+then, the first principle of this more general theory of relativity
+must be the following:
+
+"The general laws of nature are expressed through equations which
+hold for all systems of coordinates, that is, they are covariant with
+respect to arbitrary substitutions." [5]
+
+But this was not enough to include gravitation so Einstein
+next formulated what he was pleased to call his "equivalence
+hypothesis." This is best illustrated by an example. Suppose that
+we are mounting in an elevator and wish to investigate the world
+of events from our moving platform. We mount more and more rapidly,
+that is with constant acceleration, and we appear to be in a strong
+gravitational field due to our own inertia. Suppose, on the other
+hand, that the elevator descends with an acceleration equal to that
+of gravity. We would now feel certain that we were in empty space
+because our own relative acceleration has entirely destroyed that of
+the earth's gravitational field and all objects placed upon scales
+in an elevator would apparently be without weight.
+
+Applying this idea, then, Einstein decided to do away with gravitation
+entirely by referring all events in a gravitational field to a new set
+of axes which should move with constant acceleration with respect to
+the first. In other words we are going to deal with a system moving
+with uniform acceleration with respect to the ether, just as we
+considered a system moving with uniform velocity in the special theory.
+
+The next step in the construction of this complicated theory is to
+reduce these two hypotheses to the language of mathematics and this
+was accomplished by Einstein with the help of M. Grossmann by means
+of the theory of tensors.
+
+On account of the very great intricacy of the details, we must
+content ourselves with the mere statement that this really involved
+the generalization of the famous expressions known as Laplace's
+and Poisson's equations, on the explicit assumption that these
+two equations would still describe the gravitational field when we
+are content to use a first approximation to the truth. The set of
+ten differential equations which Einstein got as a result of his
+generalization he called his field equations of gravitation. [6]
+
+
+
+
+
+
+
+
+

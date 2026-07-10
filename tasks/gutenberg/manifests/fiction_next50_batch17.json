@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1300,
+      "title": "Riders of the Purple Sage",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Utah -- Fiction; Women ranchers -- Fiction; Latter Day Saint women -- Fiction; Polygamy -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1303,
+      "title": "The Scapegoat",
+      "author": "Caine, Hall, Sir, 1853-1931",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sephardim -- Morocco -- Fiction; Jews -- Morocco -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1305,
+      "title": "The Ball at Sceaux",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1306,
+      "title": "Seven Men [Excerpts]",
+      "author": "Beerbohm, Max, Sir, 1872-1956",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Character sketches",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1308,
+      "title": "A Florentine Tragedy; La Sainte Courtisane",
+      "author": "Wilde, Oscar, 1854-1900; Ross, Robert Baldwin, 1869-1918 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1309,
+      "title": "The Spirit of Place, and Other Essays",
+      "author": "Meynell, Alice, 1847-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1310,
+      "title": "The Annals of the Parish\r\nOr, the Chronicle of Dalmailing During the Ministry of the Rev. Micah Balwhidder",
+      "author": "Galt, John, 1779-1839",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Clergy -- Fiction; Scotland -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1311,
+      "title": "If: A Play in Four Acts",
+      "author": "Dunsany, Lord, 1878-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1312,
+      "title": "Selected Stories of Bret Harte",
+      "author": "Harte, Bret, 1836-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Short stories, American; California -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1313,
+      "title": "Over the Sliprails",
+      "author": "Lawson, Henry, 1867-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Australia -- Fiction; Short stories, Australian",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1314,
+      "title": "The Malefactor",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1316,
+      "title": "Some Reminiscences",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conrad, Joseph, 1857-1924; Authors, English -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1317,
+      "title": "Saltbush Bill, J. P.",
+      "author": "Paterson, A. B. (Andrew Barton), 1864-1941",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Frontier and pioneer life -- Australia -- Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1321,
+      "title": "The Waste Land",
+      "author": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry; Prose poems",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1322,
+      "title": "Leaves of Grass",
+      "author": "Whitman, Walt, 1819-1892",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1327,
+      "title": "Elizabeth and Her German Garden",
+      "author": "Von Arnim, Elizabeth, 1866-1941",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Autobiographical fiction; Germany -- Fiction; British -- Germany -- Fiction; Women gardeners -- Fiction; Gardening -- Fiction; Gardens -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1328,
+      "title": "The Tinker's Wedding",
+      "author": "Synge, J. M. (John Millington), 1871-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1330,
+      "title": "The Story of Little Black Sambo, and The Story of Little Black Mingo",
+      "author": "Bannerman, Helen, 1862-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's stories; Boys -- Juvenile fiction; Girls -- Juvenile fiction; India -- Juvenile fiction; Tiger -- Juvenile fiction; Pride and vanity -- Juvenile fiction; Mongooses -- Juvenile fiction; Crocodiles -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1332,
+      "title": "Peter Pan in Kensington Gardens",
+      "author": "Barrie, J. M. (James Matthew), 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy literature; Peter Pan (Fictitious character) -- Fiction; Kensington Gardens (London, England) -- Fiction; Fairies -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1333,
+      "title": "Robert F. Murray (Author of the Scarlet Gown): His Poems; with a Memoir",
+      "author": "Murray, R. F. (Robert Fuller), 1863-1894; Lang, Andrew, 1844-1912 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1334,
+      "title": "Paul Kelver",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Autobiographical fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1336,
+      "title": "Shelley: An Essay",
+      "author": "Thompson, Francis, 1859-1907",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Shelley, Percy Bysshe, 1792-1822; Poets, English -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1337,
+      "title": "Shelley",
+      "author": "Waterlow, Sydney, 1878-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Shelley, Percy Bysshe, 1792-1822; Poets, English -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1338,
+      "title": "Selected Prose of Oscar Wilde",
+      "author": "Wilde, Oscar, 1854-1900; Ross, Robert Baldwin, 1869-1918 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Short stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1343,
+      "title": "Bureaucracy",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English; France -- Politics and government -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1344,
+      "title": "The Secrets of the Princesse de Cadignan",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1345,
+      "title": "The Vicar of Tours",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1348,
+      "title": "A Master's Degree",
+      "author": "McCarter, Margaret Hill, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; College teachers -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1350,
+      "title": "The Country Doctor",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Physicians -- Fiction; Napoleonic Wars, 1800-1815 -- Fiction; French fiction -- Translations into English; France -- History -- Consulate and First Empire, 1799-1815 -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1352,
+      "title": "An Old Maid",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Biographical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1353,
+      "title": "Off on a Comet! a Journey through Planetary Space",
+      "author": "Verne, Jules, 1828-1905",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Interplanetary voyages -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1354,
+      "title": "Chronicles of Avonlea",
+      "author": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Islands -- Fiction; City and town life -- Fiction; Prince Edward Island -- Fiction; Shirley, Anne (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1355,
+      "title": "The Underground City; Or, The Black Indies\r\n(Sometimes Called The Child of the Cavern)",
+      "author": "Verne, Jules, 1828-1905",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Coal mines and mining -- Fiction; Scotland -- Fiction; Adventure stories; Fantasy fiction, French -- Translations into English; Civilization, Subterranean -- Fiction; Imaginary places",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1356,
+      "title": "The Cruise of the \"Cachalot\" Round the World After Sperm Whales",
+      "author": "Bullen, Frank Thomas, 1857-1915",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Whaling -- Fiction; Sea stories; Sperm whale hunting -- Fiction; Whaling ships -- Fiction; Whalers (Persons) -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1357,
+      "title": "Madame Firmiani",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1358,
+      "title": "Enoch Arden, &c.",
+      "author": "Tennyson, Alfred Tennyson, Baron, 1809-1892",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1359,
+      "title": "A Guide to the Best Historical Novels and Tales",
+      "author": "Nield, Jonathan, 1863-",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction -- Bibliography",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1361,
+      "title": "Tom Swift and His Giant Cannon; Or, The Longest Shots on Record",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Ordnance -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1362,
+      "title": "Tom Swift and His Undersea Search; Or, the Treasure on the Floor of the Atlantic",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Treasure troves -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Underwater exploration -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1363,
+      "title": "Tom Swift Among the Fire Fighters; Or, Battling with Flames from the Air",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Fire extinction -- Juvenile fiction; Fire fighters -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1364,
+      "title": "Tom Swift and His Electric Locomotive; Or, Two Miles a Minute on the Rails",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Electric railroads -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1366,
+      "title": "The Cloister and the Hearth",
+      "author": "Reade, Charles, 1814-1884",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Middle Ages -- Fiction; Love stories; Netherlands -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1367,
+      "title": "Findelkind",
+      "author": "Ouida, 1839-1908",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Shepherds -- Juvenile fiction; Children's stories; Domestic fiction; Grandfathers -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1368,
+      "title": "When the World Shook\r\nBeing an Account of the Great Adventure of Bastin, Bickley and Arbuthnot",
+      "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Adventure stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1369,
+      "title": "Paz (La Fausse Maitresse)",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1373,
+      "title": "Study of a Woman",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1374,
+      "title": "Vendetta",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1375,
+      "title": "New Chronicles of Rebecca",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Girls -- Juvenile fiction; Aunts -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1376,
+      "title": "The Little White Bird; Or, Adventures in Kensington Gardens",
+      "author": "Barrie, J. M. (James Matthew), 1860-1937",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Peter Pan (Fictitious character) -- Fiction; Kensington Gardens (London, England) -- Fiction; Kensington (London, England) -- Fiction; Fairies -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1377,
+      "title": "The Talisman",
+      "author": "Scott, Walter, 1771-1832",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Knights and knighthood -- Fiction; Crusades -- Third, 1189-1192 -- Fiction; Jerusalem -- History -- Latin Kingdom, 1099-1244 -- Fiction; Richard I, King of England, 1157-1199 -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 45293,
+      "title": "What Was the Religion of Shakespeare?",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion in literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45315,
+      "title": "The Marriage of Heaven and Hell",
+      "author": "Blake, William, 1757-1827",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Mysticism; Hell; Heaven",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45387,
+      "title": "Morality Without God\nA Lecture Delivered Before the Independent Religious Society",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Ethics; Christian ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45427,
+      "title": "George Buchanan",
+      "author": "Wallace, Robert, 1831-1899; Smith, John Campbell, 1828-1914; Brown, Joseph [Illustrator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Buchanan, George, 1506-1582",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45475,
+      "title": "The Bible Unveiled",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Bible -- Criticism, interpretation, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45481,
+      "title": "What Is Christian Science?",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christian Science",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45483,
+      "title": "The Story of My Mind; Or, How I Became a Rationalist",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch), 1859-1943",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christianity -- Controversial literature; Rationalism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

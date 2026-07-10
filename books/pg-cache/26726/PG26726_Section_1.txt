@@ -1,0 +1,677 @@
+The Project Gutenberg eBook of Pascal
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Pascal
+
+Author: John Tulloch
+
+Editor: Mrs. Oliphant
+
+
+        
+Release date: September 29, 2008 [eBook #26726]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/26726
+
+Credits: This ebook was transcribed by Les Bowler
+
+
+
+
+This ebook was transcribed by Les Bowler.
+
+
+
+
+
+PASCAL
+
+
+                                    BY
+                            PRINCIPAL TULLOCH
+
+                        WILLIAM BLACKWOOD AND SONS
+                           EDINBURGH AND LONDON
+                           1878.—REPRINT, 1882
+
+                          _All Rights reserved_
+
+
+
+
+PREFATORY NOTE.
+
+
+The translations in this volume are chiefly my own; but I have also taken
+expressions and sentences freely from others—and especially from Dr
+M’Crie, in his translation of the ‘Provincial Letters’—when they seemed
+to convey well the sense of the original.  It would be impossible to
+distinguish in all cases between what is my own and what I have borrowed.
+The ‘Provincial Letters’ have been translated at least four times into
+English.  The translation of Dr M’Crie, published in 1846, is the most
+spirited.  The ‘Pensées’ were translated by the Rev. Edward Craig, A.M.
+Oxon., in 1825, following the French edition of 1819, which again
+followed that of Bossut in 1779.  A new translation, both of the
+‘Letters’ and ‘Pensées,’ by George Pearce, Esq.—the latter after the
+restored text of M. Faugère—appeared in 1849 and 1850.
+
+                                                                     J. T.
+
+
+
+
+CONTENTS.
+
+      CHAP.                                                           PAGE
+
+             INTRODUCTION                                                1
+
+         I.  PASCAL’S FAMILY AND YOUTH                                   5
+
+        II.  PASCAL’S SCIENTIFIC DISCOVERIES                            25
+
+       III.  PASCAL IN THE WORLD                                        52
+
+        IV.  PORT ROYAL AND PASCAL’S LATER YEARS                        74
+
+         V.  THE ‘PROVINCIAL LETTERS’                                  103
+
+        VI.  THE ‘PENSÉES’                                             157
+
+INTRODUCTION.
+
+
+There are few names which have become more classical in modern literature
+than that of Blaise Pascal.  There is hardly any name more famous at once
+in literature, science, and religion.  Cut off at the early age of
+thirty-nine—the fatal age of genius—he had long before attained
+pre-eminent distinction as a geometer and discoverer in physical science;
+while the rumour of his genius as the author of the ‘Provincial Letters,’
+and as one of the chiefs of a notable school of religious thought, had
+spread far and wide.  His writings continue to be studied for the
+perfection of their style and the vitality of their substance.  As a
+writer, he belongs to no school, and is admired simply for his greatness
+by Encyclopedist and Romanticist, by Catholic and Protestant alike,—by
+men like Voltaire and Condorcet and Sainte-Beuve, no less than by men
+like Bossuet, Vinet, and Neander.  His ‘Pensées’ have been carefully
+restored, and re-edited with minute and loving faithfulness in our time
+by editors of such opposite tastes and tendencies as M. Prosper Faugère,
+M. Havet, and M. Victor Rochet.  Cousin considered it one of the glories
+of his long intellectual career that he had first led the way to the
+remarkable restoration of Pascal’s remains.  Of all the illustrious names
+which group themselves around Port Royal, it is Pascal alone, and
+Racine—who was more its pupil, but less its representative—whose genius
+can be said to survive, and to invest it with an undying lustre.
+
+Pascal’s early death, the reserve of his friends under the assaults which
+the ‘Provincial Letters’ provoked, and his very fame, as a writer, have
+served in some degree to obscure his personality.  To many a modern
+reader he is little else than a great name.  The man is hidden away
+behind the author of the ‘Pensées,’ or the defender of Port Royal.  Some
+might even say that his writings are now more admired than studied.  They
+have been so long the subject of eulogy that their classical character is
+taken for granted, and the reader of the present day is content to look
+at them from a respectful distance rather than spontaneously study them
+for himself.  There may be some truth in this view.  Pascal is certainly,
+like many other great writers, far more widely known than he is
+understood or appreciated.  The old, which are still the common, editions
+of the ‘Pensées,’ have also given a certain commonplace to his
+reputation.  It were certainly a worthy task to set him more clearly
+before our age both as a man and as a writer.
+
+It is no easy task, however, to do this; and to tell the full story of
+Pascal’s life is no longer possible.  Its records, numerous as they are,
+are incomplete; all fail more or less at an interesting point of his
+career.  They leave much unexplained; and the most familiar confidences
+of his sisters and niece, who have preserved many interesting details
+regarding him, have not entirely removed the veil from certain aspects of
+his character.  The well-known life by Madame Périer, his elder sister,
+is of course the chief authentic source of his biography.  It was written
+shortly after his death, although not published for some time later; and
+nothing can be more lively, graphic, and yet dignified, than its
+portraiture of his youthful precocity, and, again, of the devotions and
+austerities of his later years.  But it leaves many gaps unsupplied.
+Like other memoirs of the kind, it is written from a somewhat
+conventional point of view.  No one, as M. Havet says, was nearer to him
+in all senses of the expression, or could have given a more true and
+complete account of all the incidents in his life; but she was not only
+his sister, but his enthusiastic friend and admirer, in whose eyes he was
+at once a genius and a saint—a man of God, called to a great mission.  It
+was from a consciousness of this mission, and the full glory of his
+religious fame, that she looked back upon all his life; and the lines in
+which she draws it are coloured, in consequence, too gravely and
+monotonously.  Certain particulars she drops out of sight altogether.
+These are to be found scattered here and there, sometimes in his own
+letters, more frequently in the letters of his younger sister,
+Jacqueline, and in a supplementary memoir, written by his niece,
+Marguerite Périer, all of which have been carefully published in our
+time, and made accessible to any reader. {3}  The researches of M.
+Cousin, M. Faugère, and M. Havet, the curious and interesting monograph
+of M. Lélut, {4a} have thrown light on various points; while the copious
+portraiture of Sainte-Beuve {4b} has given to the whole an animation and
+a desultory charm which no English pen need strive to imitate.
+
+My only hope, as my aim, will be in this little volume to set before the
+English reader perhaps a more full and connected account of the life and
+writings of Pascal than has yet appeared in our language, freely availing
+myself of all the sources I have indicated.  And if long and loving
+familiarity with a subject—an intimacy often renewed both with the
+‘Provincial Letters’ and the ‘Pensées’—form any qualification for such a
+task, I may be allowed to possess it.  It is now nearly thirty years
+since the study of Neander first drew me to the study of Pascal; and I
+ventured, with the confidence of youth, to draw from the ‘Pensées,’ which
+had then recently appeared in the new and admirable edition of M.
+Faugère, the outlines of a Christian Philosophy. {4c}  I shall venture on
+no such ambition within the bounds of this volume; but I trust I may be
+able to bring together the story of Pascal’s life, controversy, and
+thought in such a manner as to lead others to the study of a writer truly
+great in the imperishable grandeur and elevation of his ideas, no less
+than in the exquisite finish and graces of his style.
+
+
+
+
+CHAPTER I.
+PASCAL’S FAMILY AND YOUTH.
+
+
+Blaise Pascal was born at Clermont-Ferrand on the 19th June 1623.  He
+belonged to an old Auvergne family, Louis XI. having ennobled one of its
+members for administrative services as early as 1478, although no use was
+made of the title, at least in the seventeenth century.  The family
+cherished with more pride its ancient connection with the legal or
+‘Parliamentary’ institutions of their country. {5}  Pascal’s grandfather,
+Martin Pascal, was treasurer of France; and his father, Étienne, after
+completing his legal studies in Paris, acquired the position of Second
+President of the Court of Aides at Clermont.  In the year 1618 he married
+Antoinette Begon, who became the mother of four children, of whom three
+survived and became distinguished.  Madame Pascal died in 1626 or 1628;
+{6a} and two years afterwards (in 1630) Étienne Pascal abandoned his
+professional duties, and came to Paris, in order that he might devote
+himself to the education of his children.
+
+Soon after the Pascal family settled in Paris, their character and
+endowments seem to have attracted a widespread interest.  If not superior
+to the Arnaulds, they were no less remarkable.  They did not escape the
+penetrating eye of Richelieu, who, as he looked upon the father with his
+son, then fifteen years of age, and his two daughters, was so struck by
+their beauty that he exclaimed, without waiting for their formal
+introduction to him, that he _would like to make something great of
+them_. {6b}  Étienne Pascal was a man not only of official capacity, but
+of keen intellectual instincts and aspirations.  He shared eagerly in the
+scientific enthusiasm of his time.  A letter by him addressed to the
+Jesuit Noël shows that the vein of satire, half pleasant, half severe,
+which reached such perfection in the famous ‘Letters’ of his son, was not
+unknown to the father.  The careful and systematic education which he
+gave to his son would alone have stamped him as a man of remarkable
+intelligence.
+
+Gilberte, Pascal’s elder sister and biographer, exerted an influence upon
+his character only second to that of his father.  She married her cousin,
+M. Périer, also of a Parliamentary family, and Counsellor of the Court of
+Aides at Clermont.  She was alike beautiful and accomplished, a student
+of mathematics, philosophy, and history. {7}  For a time she shared in
+the enjoyments of the world, like other persons of her age and condition;
+but the same impulses of religious enthusiasm which animated the rest of
+her family led to her practical abandonment of the world while still
+young.  The memoirs which she composed, both of her brother and sister,
+and her letters, all indicate a high intelligence and a mingled dignity,
+sweetness, and restraint of character, which made her their best
+counsellor and friend.
+
+The younger sister, Jacqueline, has been made a special study by M.
+Cousin amongst the ‘Illustrious Women of the Seventeenth Century.’  She
+was beautiful as her sister, and a child of genius like her brother.  She
+began to compose verses at the age of eight, and in her eleventh year
+assisted in the composition and the acting of a comedy in five acts,
+which was a subject of universal talk in Paris.  Her powers, both as an
+actor and a verse-maker, made a wonderful reputation at the time, which,
+as we shall see, was highly serviceable to her after.  Her verses, it
+must be confessed, are somewhat artificial and hollow; but her letters,
+and, more remarkable than either her verses or her letters, her
+‘Thoughts’ on the ‘Mystery of the Death of Christ,’ are in some respects
+very fine, and might even claim a place beside some of those of her
+brother.  They are equally elevated in tone, and pervaded by the same
+subtle, penetrating, radiant mysticism, the same rapture of
+self-sacrificing aspiration, though lacking the glow of inward fire and
+exquisite charm of style which marked the author of the ‘Pensées.’
+Noble-minded and full of genius, she was yet without his depth and power
+of feeling, or his skill and finish as an author.  In 1646 she came,
+along with her brother, and greatly through his influence, strongly under
+the power of religion; and in 1652, after her father’s death, she
+renounced the world, and became one of the Sisters of Port Royal.  She
+died amidst the persecution of the Sisters in 1661, a year before her
+brother.
+
+In Paris the elder Pascal became a centre of men of congenial
+intellectual tastes with himself, and his house a sort of rendezvous for
+the mathematicians and the physicists of the time.  Among them were
+Descartes, Gassendi, Mersenne, Roberval, Carcavi, and Le Pailleur; and
+from the frequent reunion of these men is said to have sprung the Academy
+of Sciences founded in 1666.  It is interesting to notice that it was
+into this same society that Hobbes was introduced on his first and second
+visits to France, when he accompanied the future Duke of Devonshire there
+as tutor.  With Father Mersenne and Gassendi especially he formed a warm
+friendship, which sheds an interest over his life.  Possibly in some of
+these reunions the author of the ‘Leviathan’ may have encountered the
+young Pascal, and joined in the half admiration and half incredulity
+which his wonderful powers had begun to excite.
+
+There never certainly was a more singular story of youthful precocity
+than that which Madame Périer has given of her brother, accustomed as we
+have become to such stories in the lives of eminent men.  Detecting the
+remarkable powers of the boy, his father had formed very definite
+resolutions as to his education.  His chief maxim, Madame Périer says,
+was always “to keep the boy above his work.”  And for this reason he did
+not wish him to learn Latin till he was twelve years of age, when he
+might easily acquire it.  In the meantime, he sought to give him a
+general idea of grammar—of its rules, and the exceptions to which these
+rules are liable—and so to fit him to take up the study of any language
+with intelligence and facility.  He endeavoured further to direct his
+son’s attention to the more marked phenomena of nature, and such
+explanations as he could give of them.  But here the son’s perception
+outstripped the father’s power of explanation.  He wished “to know the
+reason of everything;” and when his father’s statements did not appear to
+him to give the reason, he was far from satisfied.
+
+    “For he had always an admirable perspicacity in discerning what was
+    false; and it may be said that in everything and always truth was the
+    sole object of his mind.  From his childhood he could only yield to
+    what seemed to him evidently true; and when others spoke of good
+    reasons, he tried to find them for himself.  He never quitted a
+    subject until he had found some explanation which satisfied him.”
+
+Once, among other occasions, he was so interested in the fact that the
+sound emitted by a plate lying on a table when struck, suddenly ceased on
+the plate being touched by the hand, that he made an inquiry into sound
+in general, and drew so many conclusions that he embodied them in a
+“well-reasoned” treatise.  At this time he was only twelve years of age.
+
+At the same age he gave still more astonishing evidence of his precocious
+scientific capacities.  His father, perceiving his strong scientific
+bent, and desirous that he should first of all acquaint himself with
+languages before the absorption of the severer, but more engrossing,
+study seized him, had withdrawn from his sight all mathematical books,
+and carefully avoided the subject in the presence of his son when his
+friends were present.  This, as might be expected, only quickened the
+curiosity of the boy, who frequently begged his father to teach him
+mathematics, and the father promised to do so as a reward when he knew
+Latin and Greek, which he was then learning.  Piqued by this resistance,
+the boy asked one day, “What mathematical science was, and of what it
+treated?”  He was told that its aim was to make figures correctly, and to
+find their right relations or proportions to one another.  He began, says
+his sister, to meditate during his play-hours on the information thus
+communicated to him.
+
+    “And being alone in a room where he was accustomed to amuse himself,
+    he took a piece of charcoal and drew figures upon the boards, trying,
+    for example, to make a circle perfectly round, a triangle of which
+    the sides and angles were equal, and similar figures.  He succeeded
+    in his task, and then endeavoured to determine the proportion of the
+    figures, although so careful had his father been in hiding from him
+    all knowledge of the kind, that he did not even know the names of the
+    figures.  He made names for himself, then definitions, then axioms,
+    and finally demonstrations; and in this way had pushed his researches
+    as far as the thirty-second proposition of the first book of Euclid.”
+    {10}
+
+At this point a ‘surprise’ visit of his father arrested him in his task,
+although so absorbed was he in it, that he did not at first recognise his
+father’s presence.  The older Pascal, having satisfied himself of the
+astonishing achievement which the youthful mathematician had worked out
+for himself in solitude, ran with tears of joy to communicate the fact to
+his friend M. le Pailleur.  It was agreed betwixt them that such an
+aptitude for science should no longer be balked, and the lad was
+furnished with the means of pursuing his mathematical studies.  Before he
+had completed his sixteenth year he had written the famous treatise on
+Conic Sections which excited the “mingled incredulity and astonishment”
+of Descartes. {11}
+
+The happiness of Pascal’s home was suddenly interrupted by an unforeseen
+calamity.  On coming to Paris, his father had invested his savings in
+bonds upon the Hotel de Ville.  The Government, impoverished by wars and
+extravagance, reduced the value of these revenues, with the result of
+creating discontent and calling forth expostulation from the disappointed
+annuitants.  Some of them met together, and, among others, Étienne
+Pascal, and gave such vent to their feelings as to alarm the Government.
+Richelieu took summary means of asserting his authority and silencing the
+disturbers.  The meeting was denounced as seditious, and a warrant issued
+to arrest the offenders and throw them into the Bastille.  Étienne
+Pascal, having become apprised of the hostile designs of the Cardinal,
+contrived to conceal himself at first in Paris, and afterwards took
+refuge in the solitude of his native district.  His children were left
+without his care, and plunged in the greatest sorrow.  At intervals,
+indeed, he contrived to see them in secret, and is said even to have
+nursed Jacqueline through a severe attack of the smallpox, which impaired
+her hitherto remarkable beauty.  But all the pleasant companionship which
+he had enjoyed as their instructor, and the centre of a group of
+intellectual friends, was at an end.  He could only visit his home by
+stealth.
+
+At this crisis (February 1639) Richelieu took a fancy to have Scudéry’s
+tragi-comedy of “L’Amour Tyrannique” acted before him by young girls.
+The Court lady who undertook the management of the piece appealed to
+Jacqueline Pascal, whose accomplishments as a girl-actor were well known,
+to assist in its performance.  She was then thirteen years of age.  The
+elder sister, who, in the enforced absence of the father, was acting as
+the head of the family, replied, with feeling, that “they did not owe any
+favour to M. le Cardinal, who had not acted kindly towards them.”  The
+request, however, was pressed, in the hope that some good might come out
+of the affair to the family, and Jacqueline was allowed to appear.  The
+result was all that could be anticipated.  The Cardinal, charmed by the
+grace and accomplishment of her acting, received her cordially when she
+ventured to approach him with a petition on behalf of her father, thrown
+into a form of verses similar to many which she had already composed.
+The verses have been preserved with her other pieces, and have been thus
+rendered:—{12}
+
+    “O marvel not, Armand, the great, the wise,
+    If I have failed to please thine ear, thine eyes;
+    My sorrowing spirit, torn by countless fears,
+    Each sound forbiddeth save the voice of tears.
+    With power to please thee wouldst thou me inspire?—
+    Recall from exile now my hapless sire.”
+
+She has herself described, in an interesting letter to her father, {13}
+the whole incident, and the result of her intercession.  Having told how
+the Cardinal had been previously well prepared, and had the true state of
+the case explained in reference to her father, who appears to have been
+in no degree to blame in the agitation which called forth the displeasure
+of the Government, she says that—
+
+    “M. le Cardinal appeared to take great pleasure in the
+    representation, especially when I spoke.  He laughed very much, as
+    did the whole company.  When the comedy was finished, I descended
+    from the theatre with the design of speaking to Madame d’Aiguillon
+    [the same lady who had already interested herself in the business].
+    But as the Cardinal seemed about to leave, I approached him directly,
+    and recited to him the verses I send you.  He received them with
+    extraordinary affection and caresses more than you can imagine; for
+    at first, when I approached, he cried, ‘Voilà la petite Pascal!’
+    Then he embraced me and kissed me, and while I said my verses he
+    continued to hold me in his arms, and kissed me each moment with
+    great satisfaction.  And then when I was done he said, ‘Yes; I grant
+    to you all that you ask; write to your father that he may return with
+    safety.’  Thereupon Madame d’Aiguillon approached, and addressed the
+    Cardinal.  ‘It is truly well, sir, that you do something for this
+    man.  I have heard him spoken of as a thoroughly honest and learned
+    man, and it is a pity he should remain unemployed.  Then he has a son
+    who is very learned in mathematics, although as yet only fifteen
+    years of age.’  The Cardinal assured me once more that I might tell
+    you to return in all safety; and as he seemed in such good humour, I
+    asked him further that you might be allowed yourself to pay your
+    thanks and respects to his Eminence.  He said you would be welcome;
+    and then, with other discourse, repeated, ‘Tell your father, when he
+    returns, to come and see me.’  This he said three or four times.
+    After this, as Madame d’Aiguillon was going away, my sister went
+    forward to salute her.  She received her with many caresses, and
+    inquired for our brother, whom she said she wished to see.  It was
+    this that led to his introduction to the Duchess, who paid him many
+    compliments on his scientific attainments.  We were then conducted to
+    a room, where we had a magnificent collation of dried sweetmeats,
+    fruits, lemonade, and such things.  Here the Duchess renewed her
+    caresses in a manner you will hardly believe.  In short, I cannot
+    tell how much honour I received, for I am obliged to write as
+    succinctly as possible.  I am greatly obliged to M. de Moudroy for
+    all the trouble he has taken, and I beg you will be so good as write
+    to him by the first post to thank him, for he well deserves it.  As
+    for me, I esteem myself extremely happy to have in any way assisted
+    in a result which must give you satisfaction.”
+
+This letter was written from Paris on the 4th April 1639, when Jacqueline
+Pascal was therefore only fourteen years of age.  It is in all respects a
+remarkable and interesting production, both for the glimpse it gives of
+the great Cardinal in his hours of ease, and its revelation of
+Jacqueline’s own character,—her dramatic cleverness, her firmness and
+wisdom in assailing the Cardinal with her prepared verses at the right
+moment, her self-conscious importance as the chief actor of such a scene,
+and all the same, her girlish enjoyment of the sweetmeats provided for
+her.  It is a pleasant enough picture; and it deserves especially to be
+noticed how prominently the scientific reputation of her brother, only
+two years older than herself, is already recognised.
+
+The sequel was all that could have been desired.  The father hastened, at
+the summons of his daughter, to pay his respects to Richelieu, who gave
+him a welcome reception.  “I know all your merit,” he said.  “I restore
+you to your children, and commend them to you.  I desire to do something
+considerable for you.”  Within two years Étienne Pascal was, in
+consequence, appointed Intendant of Rouen, where he settled with his
+family in 1641.  Disturbances had arisen in Normandy at this time in
+connection with the payment of taxes, and the Government, believing that
+the Parliament at Rouen had not acted with sufficient vigour, took the
+matter into their own hands, and sent their officers to collect the
+revenues of the province. {15}  Étienne Pascal’s character and previous
+labours in this capacity, no less than his restoration to the Cardinal’s
+favour, pointed him out as a man specially fitted for this work, which in
+the circumstances was not unattended with danger.  The work in itself was
+also harassing and troublesome; and the youthful Pascal, anxious to
+assist his father, had busied himself in the invention of a machine for
+performing arithmetical calculations, which made a great sensation at the
+time.  Ingenious as the machine was, it came to little, as we shall see
+in the next chapter, which will be devoted to a brief account of Pascal’s
+scientific discoveries.  In the meantime it will be better to confine
+ourselves to the thread of his personal history up to the important epoch
+which is known as his first conversion.
+
+Settled at Rouen, he pursued his studies with unremitting devotion, and
+with only too little regard for his health.  His elder sister, who might
+have won him occasionally to lighter pursuits, was married to her cousin
+M. Périer in 1641, and two years afterwards went with him to Clermont,
+where her husband was appointed a Counsellor in the Court of Aides.
+Jacqueline was absorbed in her own poetical studies, which received a
+special impetus from the friendship of Corneille, who had returned at
+this time to his native town.  The illustrious dramatist speedily sought
+out the Pascal family, and became one of their most intimate associates.
+A prize being given every year for the best copy of verses on the
+“Conception of the Virgin,” it was awarded to certain verses of
+Jacqueline’s for the year 1640.  When the announcement of the result was
+made she was absent, but a friend of the family rose and returned thanks
+in verse in the name of the youthful poetess—_Pour une jeune muse
+absente_.  The friend was Corneille, whose impromptu lines on the
+occasion, along with those of Jacqueline, are still preserved. {16}
+Neither have much poetic merit, but they recall an interesting incident.
+
+A bright atmosphere of intellectual emulation and cheerful prospects
+surrounds the family at this time.  But all the while it is evident, from
+Madame Périer’s account, that her brother was injuring his health greatly
+in his undue assiduity in his scientific pursuits.  The attempts to
+perfect the construction of his arithmetical machine seem especially to
+have worn out his delicate frame, and to have laid the foundation of the
+nervous prostration from which he more or less suffered all his life
+afterwards.  “From the age of eighteen,” she says in a significant
+passage that her brother “hardly ever passed a day without pain.  In the
+intermissions of his sufferings, however, his spirit was such that he was
+constantly bent on some new discovery.” {17}
+
+In the beginning of 1646 an accident happened which had important
+consequences both to Pascal and his sisters.  Étienne Pascal fell upon
+the ice and severely sprained his foot.  During his confinement he was
+attended by two brothers who had acquired repute in the treatment of such
+injuries.  They were gentlemen of family in the neighbourhood, who had
+devoted themselves to medicine and anatomy from benevolent instincts and
+the love of these studies.  Both were disciples of a clergyman at
+Rouville, who was an enthusiastic pietist and friend of St Cyran.  Crowds
+flocked to hear Pastor Guillebert whenever he preached, and many were
+stirred by his eloquence to devote themselves to pious and
+philanthropical labours.  One of the brothers under this inspiring
+guidance built a hospital at the end of his park, and gave his children
+to the service of the Church in various capacities.  The other brother,
+who had no children, provided beds in the hospital and attended the sick
+poor.
+
+The character and conversation of these men made a deep impression upon
+the Pascal family.  Hitherto esteemed pious, they had not yet made
+religion an anxious concern in their lives.  Madame Périer says expressly
+of her brother that he had been “preserved by the special protection of
+God from all youthful vices, and, what was still more remarkable in the
+case of a mind of such strength and pride, he had never yielded to any
+libertinism of thought, but had always limited his curiosity to natural
+inquiries.”  He attributed, according to her statement, this religious
+sobriety of mind to the instructions and example of his father, who had a
+great respect for religion, and who had impressed upon him from his
+infancy the maxim, “that whatever is the object of faith cannot be the
+object of reason, and still less the subject of it.”  He had seen, in his
+father, the combination of scientific attainment with a strong reasoning
+power, and the maxim therefore fell with weight from his lips.  And so,
+when he listened to the discourses of free-thinkers, young as he was—
+
+    “He remained unmoved by them, and simply looked upon them as men who
+    had adopted the false principle that the human reason is above
+    everything, and who know nothing of the real nature of faith; so that
+    this spirit, so great and inquisitive, which searched so carefully
+    for the reason of everything, was at the same time submissive as a
+    child to all the truths of religion, and this submissive simplicity
+    predominated in him through his whole life.” {18}
+
+This is a significant extract in more ways than one.  In the meantime we
+quote it as indicating the religious atmosphere of Pascal’s home, and the
+pious temper which marked him from the first.  But as yet religion had
+not taken hold of him with an absorbing enthusiasm.  It had its place in
+his thoughts, and this a deeply respectful place; but now, about his
+twenty-third year, in communication with the two friends we have
+mentioned, and under the same influence which had moved them so deeply,
+it began to lay hold of him more powerfully.  He and his father and
+sisters read eagerly the books of St Cyran, and of Jansen, the Bishop of
+Ypres, whose name became so conspicuous in connection with Port Royal.  A
+discourse by the latter on “The Reformation of the Inward Man,” and also
+Arnauld’s “Manual on Frequent Communion,” are supposed to have specially
+impressed him.  In the language of his sister—
+
+    “Providence led him to the study of such pious writings while he was
+    not yet twenty-four years of age; and God so enlightened him by this
+    course of reading, that he came to realise that the Christian
+    religion obliges us to live only for God, and to have no other object
+    besides Him.  So clear and necessary appeared this truth to him, that
+    he gave up for a time all his researches, renounced all other
+    knowledge, and applied himself alone to the ‘one thing needful’
+    spoken of by our Lord.”
+
+This event is spoken of by Pascal’s biographers as his “first
+conversion,” and it appears to have been attended not only with a zealous
+consecration of his own powers to the service of religion, but moreover,
+as often happens in the case of youthful enthusiasm, with a warm
+determination against all who seemed to him to be acting at variance with
+the true faith.  “Although,” as his sister says, “he had made no special
+study of scholastic theology, he was not ignorant of the judgments of the
+Church against the heresies invented by human subtlety.  All indications
+of heretical opinion excited his indignation, and God gave him at this
+time an opportunity of testifying his zeal on behalf of religion.”  She
+then adds in illustration the following story:—
+
+    “There was at Rouen at this time a man who taught a new philosophy
+    which attracted the curious.  My brother, pressed by two of his young
+    friends, accompanied them to hear this man; but they were greatly
+    surprised when they found, in conversation with him, that he drew
+    consequences from his philosophy at variance with the decisions of
+    the Church.  He sought to prove by his arguments that the body of
+    Jesus Christ was not formed of the blood of the Holy Virgin, but of
+    some other matter specially created, and several other like subjects.
+    They pointed out to him his error, but he remained firm in his
+    opinions.  Thereupon, taking into consideration how dangerous it was
+    to leave the instruction of youth in the hands of a man with such
+    erroneous opinions, they resolved, after previously informing him of
+    their intention, to denounce him if he continued in his errors.  So
+    it happened; for he despised their advice, and in such a manner, as
+    to leave them no alternative but to denounce him to M. du Bellay,
+    {20} who was then discharging episcopal functions in the diocese of
+    Rouen for the Archbishop.  M. du Bellay sent for the man, and having
+    interrogated him, was deceived by an equivocal confession of faith
+    which he wrote and subscribed.  Otherwise he made little account of
+    the affair as reported by the three young men.  However, when they
+    saw the confession of faith, they at once recognised its defects, and
+    entered into communication with the Archbishop himself, who, having
+    examined into the matter, saw its gravity, and sent in writing a
+    special order to M. du Bellay to make the man retract all the points
+    of which he was accused, and to receive nothing from him except by
+    communication of his accusers.  The order was carried out, and the
+    result was that he appeared in the council of the Archbishop and
+    renounced all his errors—it may be said sincerely, for he never
+    showed any anger towards those who had engaged in the affair, so as
+    to lead one to suppose that he had been himself deceived by the false
+    conclusions which he had drawn from false principles.  It was made
+    plain that his accusers had no design of injuring him, but only of
+    undeceiving him, and so preventing him from seducing the young, who
+    were incapable of distinguishing the true from the false in such
+    subtle questions.”
+
+This story reflects somewhat doubtfully on Pascal’s fairness and good
+sense, even as told by Madame Périer.  But it has not been left in the
+vagueness in which it stands in her narrative.  M. Cousin published for
+the first time full details regarding it in the volume by which he may be
+said to have initiated the new researches into the life and writings of
+Pascal.  These details, which fill more than forty pages of appendix to
+M. Cousin’s volume, {21} are no longer of any interest in themselves; but
+they enable us to understand more clearly the conduct of Pascal and his
+two friends.  Unhappily they deepen rather than lighten the shade which
+the story throws upon Pascal’s intemperate zeal.  The name of the accused
+teacher was Jacques Forton, a Capucin monk, known as the Père St Ange.
+He taught no new philosophy; but he had communicated to Pascal or his
+friends, in private conversation specially desired by them, certain
+theological opinions which he had espoused.  These, as given in the
+statement of the case signed by Pascal and his two friends, mainly
+concern such abstruse subjects as the relation of reason and faith, and
+the possibility of demonstrating the doctrine of the Trinity as the
+source of all other knowledge.  The curious question as to the
+constitution of the body of Jesus occupies only a subordinate place.  The
+monk, as shown in the whole proceedings, was evidently more of a
+speculative dreamer than a heretic—a man fond of disputation about
+matters beyond his comprehension.  It is mentioned by the three youthful
+zealots, in the _récit_ bearing their signature, that as they were about
+to part with him, “after the accustomed civilities,” he was careful to
+let them know that he advanced the points in dispute, not as dogmas, but
+merely as propositions or thoughts for discussion, the fruit of his own
+reasonings.
+
+There is no reason to doubt that Pascal’s conduct on this occasion arose
+entirely from honest zeal.  He thought religion compromised by the
+strange reasonings which he had heard.  There is as little doubt,
+however, that his zeal outran his discretion.  He showed a determination
+to pursue the matter amounting to persecution.  The worthy priest had
+evidently no intention of promulgating heresy; for he is glad, when
+called upon, of an opportunity of proving his orthodoxy.  With this view
+he produced, side by side with the articles of accusation, passages from
+a former volume of his which had been printed with official sanction.
+Pascal still demurred, even with this evidence before him.  A second
+declaration was obtained from the priest, and the bishop refused to go
+further.  The sympathies of the community were evidently against the
+youthful zealots; and finally Pascal’s father, convinced that enough had
+been done to vindicate the truth, successfully interposed as mediator.
+{23a}
+
+Pascal’s health about this period appears to have undergone a change for
+the worse.  He suffered from excessive headache and great internal heat
+and pain.  A singular characteristic of his malady was his inability to
+swallow water unless it was heated, and even then only drop by drop.  He
+was the subject, also, of a remarkable paralytic seizure thus described
+by his niece:—
+
+    “He fell,” she says, “into a very extraordinary state, as the result
+    of his great application to his scientific studies; for the senses
+    (_les esprits_) having mounted strongly to the brain, he became in a
+    manner paralysed from the waist downwards.  His legs and feet grew
+    cold as marble; and they were obliged every day to put on socks
+    soaked in brandy in order to try and restore heat in his feet.  At
+    the same time the physician interdicted him from all study.” {23b}
+
+M. Lélut {23c} explains at length this attack of Pascal’s as a well-known
+form of dynamical paralysis, of a similar nature with hypochondria and
+hysteria, proceeding from a disordered state of the nervous affections,
+the result of overwork acting upon a delicate organisation.  The result
+is temporary, as distinguished from the paralysis arising from organic
+lesion, but indicates a highly susceptible constitution, the ready prey
+of melancholy and imaginative exaggeration, to which, in M. Lélut’s
+opinion, Pascal was more or less liable during the remaining years of his
+life.
+
+
+
+

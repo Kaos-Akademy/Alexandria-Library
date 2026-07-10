@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 995,
+      "title": "Ballads of a Bohemian",
+      "author": "Service, Robert W. (Robert William), 1874-1958",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 996,
+      "title": "Don Quixote",
+      "author": "Cervantes Saavedra, Miguel de, 1547-1616; Ormsby, John, 1829-1895 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Spain -- Social life and customs -- 16th century -- Fiction; Knights and knighthood -- Spain -- Fiction; Picaresque literature; Romances",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1013,
+      "title": "The First Men in the Moon",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Satire; Utopias -- Fiction; Imperialism -- Fiction; Utopian fiction; Space flight to the moon -- Fiction; Moon -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1014,
+      "title": "The Lure of the Dim Trails",
+      "author": "Bower, B. M., 1871-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Cowboys -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1018,
+      "title": "The Water-Babies",
+      "author": "Kingsley, Charles, 1819-1875",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Chimney sweeps -- Juvenile fiction; Fairy tales -- England",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1019,
+      "title": "Poems by Currer, Ellis, and Acton Bell",
+      "author": "Bront\u00eb, Charlotte, 1816-1855; Bront\u00eb, Anne, 1820-1849; Bront\u00eb, Emily, 1818-1848",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1020,
+      "title": "Sword Blades and Poppy Seed",
+      "author": "Lowell, Amy, 1874-1925",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Imagist poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1021,
+      "title": "The Congo, and Other Poems",
+      "author": "Lindsay, Vachel, 1879-1931; Monroe, Harriet, 1860-1936 [Author of introduction, etc.]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Narrative poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1022,
+      "title": "Walking",
+      "author": "Thoreau, Henry David, 1817-1862",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Walking; Nature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1023,
+      "title": "Bleak House",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; Inheritance and succession -- Fiction; Young women -- Fiction; Domestic fiction; Bildungsromans; Guardian and ward -- Fiction; Illegitimate children -- Fiction; Legal stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1024,
+      "title": "The Wrecker",
+      "author": "Stevenson, Robert Louis, 1850-1894; Osbourne, Lloyd, 1868-1947",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Treasure troves -- Fiction; Shipwrecks -- Fiction; Avarice -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1026,
+      "title": "The Diary of a Nobody",
+      "author": "Grossmith, George, 1847-1912; Grossmith, Weedon, 1852-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; England -- Fiction; Men -- England -- Fiction; Diary fiction; Suburban life -- Fiction; Middle class -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1027,
+      "title": "The Lone Star Ranger: A Romance of the Border",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Mexican-American Border Region -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1028,
+      "title": "The Professor",
+      "author": "Bront\u00eb, Charlotte, 1816-1855",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Triangles (Interpersonal relations) -- Fiction; Women teachers -- Fiction; British -- Belgium -- Fiction; Brussels (Belgium) -- Fiction; Belgium -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1029,
+      "title": "The Night-Born",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Adventure and adventurers -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1030,
+      "title": "The Cavalier Songs and Ballads of England from 1642 to 1684",
+      "author": "Mackay, Charles, 1814-1889 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Ballads, English; English poetry -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1031,
+      "title": "Charmides, and Other Poems",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1032,
+      "title": "The Pupil",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1033,
+      "title": "Rose o' the River",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Love stories; Log driving -- Maine -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1035,
+      "title": "The Man Against the Sky: A Book of Poems",
+      "author": "Robinson, Edwin Arlington, 1869-1935",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1036,
+      "title": "Joe Wilson and His Mates",
+      "author": "Lawson, Henry, 1867-1922",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Frontier and pioneer life -- Australia -- Fiction; Australia -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1037,
+      "title": "The Life of John Bunyan",
+      "author": "Venables, Edmund, 1819-1895",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Bunyan, John, 1628-1688; Authors, English -- Early modern, 1500-1700 -- Biography; Puritans -- England -- Clergy -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1040,
+      "title": "The Three Taverns: A Book of Poems",
+      "author": "Robinson, Edwin Arlington, 1869-1935",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Lyric poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1041,
+      "title": "Shakespeare's Sonnets",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Sonnets, English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1042,
+      "title": "A Reading of Life, with Other Poems",
+      "author": "Meredith, George, 1828-1909",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1044,
+      "title": "Extract from Captain Stormfield's Visit to Heaven",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Voyages, Imaginary; Ship captains -- Fiction; Religious fiction; Heaven -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1045,
+      "title": "Venus and Adonis",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Venus (Roman deity) -- Poetry; Adonis (Greek deity) -- Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1048,
+      "title": "The Ruling Passion: Tales of Nature and Human Nature",
+      "author": "Van Dyke, Henry, 1852-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1050,
+      "title": "The Dark Lady of the Sonnets",
+      "author": "Shaw, Bernard, 1856-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Shakespeare, William, 1564-1616 -- Drama; Man-woman relationships -- Drama; Fitton, Mary, 1578?-1641 -- Drama; London (England) -- Drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1053,
+      "title": "Within the Tides: Tales",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English; English fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1054,
+      "title": "A Collection of Ballads",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ballads, Scots -- Scotland -- Texts",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1055,
+      "title": "'Twixt Land & Sea: Tales",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ship captains -- Fiction; Indian Ocean -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1056,
+      "title": "Martin Eden",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Working class -- Fiction; Authors -- Fiction; Autobiographical fiction; Bildungsromans; Young men -- Fiction; San Francisco (Calif.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1057,
+      "title": "Poems, with The Ballad of Reading Gaol",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry; Prisons -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1059,
+      "title": "The World Set Free",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "War stories; Imaginary wars and battles -- Fiction; Nuclear warfare -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1060,
+      "title": "Grass of Parnassus",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1062,
+      "title": "First Project Gutenberg Collection of Edgar Allan Poe",
+      "author": "Poe, Edgar Allan, 1809-1849",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Horror tales, American; Fantasy poetry, American",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1063,
+      "title": "The Cask of Amontillado",
+      "author": "Poe, Edgar Allan, 1809-1849",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Horror tales, American; Revenge -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1064,
+      "title": "The Masque of the Red Death",
+      "author": "Poe, Edgar Allan, 1809-1849",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Horror tales, American",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1065,
+      "title": "The Raven",
+      "author": "Poe, Edgar Allan, 1809-1849",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Ravens -- Poetry; Fantasy poetry, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1074,
+      "title": "The Sea-Wolf",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Ship captains -- Fiction; Arctic regions -- Fiction; Sealers (Persons) -- Fiction; Sealing ships -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1075,
+      "title": "The Strength of the Strong",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Socialism -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1076,
+      "title": "The Wallet of Kai Lung",
+      "author": "Bramah, Ernest, 1868-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Kai Lung (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1077,
+      "title": "The Mirror of Kong Ho",
+      "author": "Bramah, Ernest, 1868-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; England -- Fiction; Epistolary fiction; Chinese -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1078,
+      "title": "The Scouts of the Valley",
+      "author": "Altsheler, Joseph A. (Joseph Alexander), 1862-1919",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Wyoming Valley (Pa.) -- Fiction; Chemung River Valley (N.Y. and Pa.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1080,
+      "title": "A Modest Proposal\r\nFor preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
+      "author": "Swift, Jonathan, 1667-1745",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Political satire, English; Religious satire, English; Ireland -- Politics and government -- 18th century -- Humor",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1081,
+      "title": "Dead Souls",
+      "author": "Gogol, Nikolai Vasilevich, 1809-1852; Hogarth, D. J. [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Humorous stories; Russia -- Social life and customs -- 1533-1917 -- Fiction; Swindlers and swindling -- Russia -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1083,
+      "title": "The Arrow of Gold: A Story Between Two Notes",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Sea stories; Young men -- Fiction; Adventure stories; Illegal arms transfers -- Fiction; Marseille (France) -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1086,
+      "title": "A Horse's Tale",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1087,
+      "title": "Baartock",
+      "author": "Roth, Lewis",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Trolls -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

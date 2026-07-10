@@ -1,0 +1,1071 @@
+CHAPTER XVIII.
+
+
+_THE NATURE AND USE OF AN AVERAGE, AND ON THE DIFFERENT KINDS OF
+AVERAGE._[1]
+
+1. There is much need of some good account, accessible to the ordinary
+  English reader, of the nature and properties of the principal kinds
+  of Mean. The common text-books of Algebra suggest that there are
+  only three such, viz. the arithmetical, the geometrical and the
+  harmonical:--thus including two with which the statistician has
+  little or nothing to do, and excluding two or more with which he
+  should have a great deal to do. The best three references I can give
+  the reader are the following. (1) The article _Moyenne_ in the
+  _Dictionnaire des Sciences Médicales_, by Dr Bertillon. This is
+  written somewhat from the Quetelet point of view. (2) A paper by
+  Fechner in the _Abhandlungen d. Math. phys. Classe
+  d. Kön. Sächs. Gesellschaft d. Wiss_. 1878; pp. 1-76. This contains
+  a very interesting discussion, especially for the statistician, of a
+  number of different kinds of mean. His account of the median is
+  remarkably full and valuable. But little mathematical knowledge is
+  demanded. (3) A paper by Mr F. Y. Edgeworth in the
+  _Camb. Phil. Trans._ for 1885, entitled _Observations and
+  Statistics_. This demands some mathematical knowledge. Instead of
+  dealing, as such investigations generally do, with only one Law of
+  Error and with only one kind of mean, it covers a wide field of
+  investigation.
+
+
+1. We have had such frequent occasion to refer to
+_averages_, and to the kind of uniformity which they are apt
+to display in contrast with individual objects or events, that
+it will now be convenient to discuss somewhat more minutely
+what are the different kinds of available average, and what
+exactly are the functions they perform.
+
+The first vague notion of an average, as we now understand
+it, seems to me to involve little more than that of a
+something _intermediate_ to a number of objects. The objects
+must of course resemble each other in certain respects, otherwise
+we should not think of classing them together; and
+they must also differ in certain respects, otherwise we should
+not distinguish between them. What the average does for
+us, under this primitive form, is to enable us conveniently to
+retain the group together as a whole. That is, it furnishes a
+sort of representative value of the quantitative aspect of the
+things in question, which will serve for certain purposes to
+take the place of any single member of the group.
+
+It would seem then that the first dawn of the conception
+which science reduces to accuracy under the designation of
+an average or mean, and then proceeds to subdivide into
+various distinct species of means, presents itself as performing
+some of the functions of a general name. For what
+is the main use of a general name? It is to reduce a plurality
+of objects to unity; to group a number of things
+together by reference to some qualities which they possess
+in common. The ordinary general name rests upon a considerable
+variety of attributes, mostly of a qualitative
+character, whereas the average, in so far as it serves the
+same sort of purpose, rests rather upon a single quantitative
+attribute. It directs attention to a certain kind and degree
+of magnitude. When the grazier says of his sheep that 'one
+with another they will fetch about 50 shillings,' or the
+farmer buys a lot of poles which 'run to about 10 feet,' it is
+true that they are not strictly using the equivalent of either
+a general or a collective name. But they are coming very
+near to such use, in picking out a sort of type or specimen of
+the magnitude to which attention is to be directed, and in
+classing the whole group by its resemblance to this type.
+The grazier is thinking of his sheep: not in a merely general
+sense, as sheep, and therefore under that name or conception,
+but as sheep of a certain approximate money value.
+Some will be more, some less, but they are all near enough
+to the assigned value to be conveniently classed together as
+if by a name. Many of our rough quantitative designations
+seem to be of this kind, as when we speak of 'eight-day
+clocks' or 'twelve-stone men,' &c.; unless of course we intend
+(as we sometimes do in these cases) to assign a maximum
+or minimum value. It is not indeed easy to see how else we
+could readily convey a merely general notion of the quantitative
+aspect of things, except by selecting a type as above,
+or by assigning certain limits within which the things are
+supposed to lie.
+
+2. So far there is not necessarily any idea introduced
+of comparison,--of comparison, that is, of one group with
+another,--by aid of such an average. As soon as we begin
+to think of this we have to be more precise in saying what
+we mean by an average. We can easily see that the number
+of possible kinds of average, in the sense of intermediate
+values, is very great; is, in fact, indefinitely great. Out of
+the general conception of an intermediate value, obtained by
+some treatment of the original magnitudes, we can elicit as
+many subdivisions as we please, by various modes of treatment.
+There are however only three or four which for our
+purposes need be taken into account.
+
+(1) In the first place there is the arithmetical average
+or mean. The rule for obtaining this is very simple: add
+all the magnitudes together, and divide the sum by their
+number. This is the only kind of average with which the
+unscientific mind is thoroughly familiar. But we must not
+let this simplicity and familiarity blind us to the fact that
+there are definite reasons for the employment of this average,
+and that it is therefore appropriate only in definite circumstances.
+The reason why it affords a safe and accurate
+intermediate value for the actual divergent values, is that
+for many of the ordinary purposes of life, such as purchase
+and sale, we come to exactly the same result, whether we
+take account of those existent divergences, or suppose all
+the objects equated to their average. What the grazier
+must be understood to mean, if he wishes to be accurate, by
+saying that the average price of his sheep is 50 shillings, is,
+that so far as that flock is concerned (and so far as he is
+concerned), it comes to exactly the same thing, whether they
+are each sold at different prices, or are all sold at the 'average'
+price. Accordingly, when he compares his sales of one
+year with those of another; when he says that last year the
+sheep averaged 48 shillings against the 50 of this year; the
+employment of this representative or average value is a great
+simplification, and is perfectly accurate for the purpose in
+question.
+
+3. (2) Now consider this case. A certain population is
+found to have doubled itself in 100 years: can we talk of an
+'average' increase here of 1 per cent. annually? The circumstances
+are not quite the same as in the former case, but
+the analogy is sufficiently close for our purpose. The answer
+is decidedly, No. If 100 articles of any kind are sold for £100,
+we say that the average price is £1. By this we mean that
+the total amount is the same whether the entire lot are sold
+for £100, or whether we split the lot up into individuals
+and sell each of these for £1. The average price here is a
+convenient fictitious substitute, which can be applied for
+each individual without altering the aggregate total. If
+therefore the question be, Will a supposed increase of 1 p. c.
+in each of the 100 years be equivalent to a total increase to
+double the original amount? we are proposing a closely
+analogous question. And the answer, as just remarked, must
+be in the negative. An annual increase of 1 p. c. continued
+for 100 years will more than double the total; it will multiply
+it by about 2.7. The true annual increment required is measured
+by sqrt[100]{2}; that is, the population may be said to have
+increased 'on the average' 0.7 p. c. annually.
+
+We are thus directed to the second kind of average discussed
+in the ordinary text-books of algebra, viz. the geometrical.
+When only two quantities are concerned, with a single
+intermediate value between them, the geometrical mean constituting
+this last is best described as the mean proportional
+between the two former. Thus, since 3 : sqrt{15} :: sqrt{15} : 5,
+sqrt{15} is the geometrical mean between 3 and 5. When a
+number of geometrical means have to be interposed between
+two quantities, they are to be so chosen that every term in
+the entire succession shall bear the same constant ratio to
+its predecessor. Thus, in the example in the last paragraph,
+99 intermediate steps were to be interposed between 1 and 2,
+with the condition that the 100 ratios thus produced were to
+be all equal.
+
+It would seem therefore that wherever accurate quantitative
+results are concerned, the selection of the appropriate
+kind of average must depend upon the answer to the question,
+What particular intermediate value may be safely
+substituted for the actual variety of values, so far as the
+precise object in view is concerned? This is an aspect of
+the subject which will have to be more fully considered in
+the next chapter. But it may safely be laid down that for
+purposes of general comparison, where accurate numerical
+relations are not required, almost any kind of intermediate
+value will answer our purpose, provided we adhere to the
+same throughout. Thus, if we want to compare the statures
+of the inhabitants of different counties or districts in England,
+or of Englishmen generally with those of Frenchmen,
+or to ascertain whether the stature of some particular class
+or district is increasing or diminishing, it really does not
+seem to matter what sort of average we select provided, of
+course, that we adhere to the same throughout our investigations.
+A very large amount of the work performed by
+averages is of this merely comparative or non-quantitative
+description; or, at any rate, nothing more than this is really
+required. This being so, we should naturally resort to the
+arithmetical average; partly because, having been long in
+the field, it is universally understood and appealed to, and
+partly because it happens to be remarkably simple and easy
+to calculate.
+
+4. The arithmetical mean is for most ordinary purposes
+the simplest and best. Indeed, when we are dealing
+with a small number of somewhat artificially selected magnitudes,
+it is the only mean which any one would think of
+employing. We should not, for instance, apply any other
+method to the results of a few dozen measurements of lengths
+or estimates of prices.
+
+When, however, we come to consider the results of a very
+large number of measurements of the kind which can be
+grouped together into some sort of 'probability curve' we
+begin to find that there is more than one alternative before
+us. Begin by recurring to the familiar curve represented
+on p. 29; or, better still, to the initial form of it represented
+in the next chapter (p. 476). We see that there are three
+different ways in which we may describe the vertex of the
+curve. We may call it the position of the _maximum_ ordinate;
+or that of the _centre_ of the curve; or (as will be seen
+hereafter) the point to which the arithmetical average of
+all the different values of the variable magnitude directs us.
+These three are all distinct ways of describing a position;
+but when we are dealing with a symmetrical curve at all
+resembling the binomial or exponential form they all three
+coincide in giving the same result: as they obviously do in
+the case in question.
+
+As soon, however, as we come to consider the case of
+asymmetrical, or lop-sided curves, the indications given by
+these three methods will be as a rule quite distinct; and
+therefore the two former of these deserve brief notice as
+representing different kinds of means from the arithmetical
+or ordinary one. We shall see that there is something about
+each of them which recommends it to common sense as being
+in some way natural and appropriate.
+
+5. (3) The first of these selects from amongst the
+various different magnitudes that particular one which is
+most frequently represented. It has not acquired any technical
+designation,[1] except in so far as it is referred to, by
+its graphical representation, as the "maximum ordinate"
+method. But I suspect that some appeal to such a mean
+or standard is really far from uncommon, and that if we
+could draw out into clearness the conceptions latent in the
+judgments of the comparatively uncultivated, we should find
+that there were various classes of cases in which this mean
+was naturally employed. Suppose, for instance, that there
+was a fishery in which the fish varied very much in size
+but in which the commonest size was somewhat near the
+largest or the smallest. If the men were in the habit of
+selling their fish by _weight_, it is probable that they would
+before long begin to acquire some kind of notion of what
+is meant by the arithmetical mean or average, and would
+perceive that this was the most appropriate test. But if the
+fish were sorted into sizes, and sold by numbers in each of
+these sizes, I suspect that this appeal to a maximum ordinate
+would begin to take the place of the other. That is,
+the most numerous class would come to be selected as a
+sort of type by which to compare the same fishery at one
+time and another, or one fishery with others. There is also,
+as we shall see in the next chapter, some scientific ground
+for the preference of this kind of mean in peculiar cases;
+viz. where the quantities with which we deal are true
+'errors,' in the estimate of some magnitude, and where also
+it is of much more importance to be exactly right, or very
+nearly right, than to have merely a low average of error.
+
+6. (4) The remaining kind of mean is that which is
+now coming to be called the "median." It is one with
+which the writings of Mr Galton have done so much to
+familiarize statisticians, and is best described as follows.
+Conceive all the objects in question to be marshalled in the
+order of their magnitude; or, what comes to the same thing,
+conceive them sorted into a number of equally numerous
+classes; then the middle one of the row, or the middle one
+in the middle class, will be the _median_. I do not think
+that this kind of mean is at all generally recognized at
+present, but if Mr Galton's scheme of natural measurement
+by what he calls "per-centiles" should come to be generally
+adopted, such a test would become an important one.
+There are some conspicuous advantages about this kind of
+mean. For one thing, in most statistical enquiries, it is
+far the simplest to calculate; and, what is more, the process
+of determining it serves also to assign another important
+element to be presently noticed, viz. the 'probable error.'
+Then again, as Fechner notes, whereas in the arithmetical
+mean a few exceptional and extreme values will often cause
+perplexity by their comparative preponderance, in the case
+of the median (where their number only and not their extreme
+magnitude is taken into account) the importance of
+such disturbance is diminished.
+
+7. A simple illustration will serve to indicate how these
+three kinds of mean coalesce into one when we are dealing
+with symmetrical Laws of Error, but become quite distinct
+as soon as we come to consider those which are unsymmetrical.
+
+[Figure: Various definitions of the mean.]
+
+Suppose that, in measuring a magnitude along OBDC,
+where the extreme limits are OB and OC, the law of error
+is represented by the triangle BAC: the length OD will
+be at once the arithmetical mean, the median, and the most
+frequent length: its frequency being represented by the
+maximum ordinate AD. But now suppose, on the other
+hand, that the extreme lengths are OD and OC, and that
+the triangle ADC represents the law of error. The most
+frequent length will be the same as before, OD, marked by
+the maximum ordinate AD. But the mean value will now
+be OX, where DX = 1/3 DC; and the median will be OY,
+where DY = (1 - 1/sqrt{2}) DC.
+
+Another example, taken from natural phenomena, may
+be found in the heights of the barometer as taken at the
+same hour on successive days. So far as 4857 of these may
+be regarded as furnishing a sufficiently stable basis of experience,
+it certainly seems that the resulting curve of frequency
+is asymmetrical. The mean height here was found
+to be 29.98: the median was 30.01: the most frequent
+height was 30.05. The close approximation amongst these
+is an indication that the asymmetry is slight.[2]
+
+8. It must be clearly understood that the average, of
+whatever kind it may be, from the mere fact of its being a
+single substitute for an actual plurality of observed values,
+must let slip a considerable amount of information. In fact
+it is only introduced for economy. It may entail no loss
+when used for some one assigned purpose, as in our example
+about the sheep; but for purposes in general it
+cannot possibly take the place of the original diversity, by
+yielding all the information which they contained. If all
+this is to be retained we must resort to some other method.
+Practically we generally do one of two things: either (1) we
+put all the figures down in statistical tables, or (2) we appeal
+to a diagram. This last plan is convenient when the
+data are very numerous, or when we wish to display or to
+discover the nature of the law of facility under which they
+range.
+
+The mere assignment of an average lets drop nearly all
+of this, confining itself to the indication of an intermediate
+value. It gives a "middle point" of some kind, but says
+nothing whatever as to how the original magnitudes were
+grouped about this point. For instance, whether two magnitudes
+had been respectively 25 and 27, or 15 and 37, they
+would yield the same arithmetical average of 26.
+
+9. To break off at this stage would clearly be to leave
+the problem in a very imperfect condition. We therefore
+naturally seek for some simple test which shall indicate
+how closely the separate results were grouped about their
+average, so as to recover some part of the information which
+had been let slip.
+
+If any one were approaching this problem entirely anew,--that
+is, if he had no knowledge of the mathematical exigencies
+which attend the theory of "Least Squares,"--I apprehend
+that there is but one way in which he would set
+about the business. He would say, The average which we
+have already obtained gave us a rough indication, by assigning
+an intermediate point amongst the original magnitudes.
+If we want to supplement this by a rough indication
+as to how near together these magnitudes lie, the
+best way will be to treat their departures from the mean
+(what are technically called the "errors") in precisely the
+same way, viz. by assigning _their_ average. Suppose there
+are 13 men whose heights vary by equal differences from
+5 feet to 6 feet, we should say that their average height
+was 66 inches, and their average departure from this average
+was 3-3/13 inches.
+
+Looked at from this point of view we should then proceed
+to try how each of the above-named averages would
+answer the purpose. Two of them,--viz. the arithmetical
+mean and the median,--will answer perfectly; and, as we
+shall immediately see, are frequently used for the purpose.
+So too we could, if we pleased, employ the geometrical
+mean, though such employment would be tedious, owing
+to the difficulty of calculation. The 'maximum ordinate'
+clearly would not answer, since it would generally (v. the
+diagram on p. 443) refer us back again to the average
+already obtained, and therefore give no information.
+
+The only point here about which any doubt could arise
+concerns what is called in algebra the _sign_ of the errors.
+Two equal and opposite errors, added algebraically, would
+cancel each other. But when, as here, we are regarding
+the errors as substantive quantities, to be considered on
+their own account, we attend only to their real magnitude,
+and then these equal and opposite errors are to be put upon
+exactly the same footing.
+
+10. Of the various means already discussed, two, as
+just remarked, are in common use. One of these is familiarly
+known, in astronomical and other calculations, as
+the 'Mean Error,' and is so absolutely an application of the
+same principle of the arithmetical mean to the errors, that
+has been already applied to the original magnitudes, that it
+needs no further explanation. Thus in the example in the
+last section the mean of the heights was 66 inches, the
+mean of the errors was 3-3/13 inches.
+
+The other is the Median, though here it is always known
+under another name, i.e. as the 'Probable Error';--a technical
+and decidedly misleading term. It is briefly defined
+as that error which we are as likely to exceed as to fall
+short of: otherwise phrased, if we were to arrange all the
+errors in the order of their magnitude, it corresponds to that
+one of them which just bisects the row. It is therefore the
+'median' error: or, if we arrange all the magnitudes in successive
+order, and divide them into four equally numerous
+classes,--what Mr Galton calls 'quartiles,'--the first and
+third of the consequent divisions will mark the limits of
+the 'probable error' on each side, whilst the middle one will
+mark the 'median.' This median, as was remarked, coincides,
+in symmetrical curves, with the arithmetical mean.
+
+It is best to stand by accepted nomenclature, but the
+reader must understand that such an error is not in any
+strict sense 'probable.' It is indeed highly improbable that
+in any particular instance we should happen to get just this
+error: in fact, if we chose to be precise and to regard it as
+one exact magnitude out of an infinite number, it would be
+infinitely unlikely that we should hit upon it. Nor can it be
+said to be probable that we shall be _within_ this limit of the
+truth, for, by definition, we are just as likely to exceed as to
+fall short. As already remarked (see note on p. 441), the
+'maximum ordinate' would have the best right to be regarded
+as indicating the really most probable value.
+
+11. (5) _The error of mean square._ As previously suggested, the plan
+which would naturally be adopted by any one who had no concern with
+the higher mathematics of the subject, would be to take the 'mean
+error' for the purpose of the indication in view. But a very different
+kind of average is generally adopted in practice to serve as a test of
+the amount of divergence or dispersion. Suppose that we have the
+magnitudes x_{1}, x_{2}, ... x_{n}; their ordinary average is
+1/n (x_{1} + x_{2} + ... + x_{n}), and their 'errors' are the
+differences between this and x_{1}, x_{2}, ... x_{n}. Call these errors
+e_{1}, e_{2}, ... e_{n}, then the arithmetical mean of these errors
+(irrespective of sign) is 1/n (e_{1} + e_{2} + ... + e_{n}). The Error
+of Mean Square,[3] on the other hand, is the square root of
+1/n (e_{1}^{2} + e_{2}^{2} + ... + e_{n}^{2}).
+
+The reasons for employing this latter kind of average in
+preference to any of the others will be indicated in the following
+chapter. At present we are concerned only with the
+general logical nature of an average, and it is therefore
+sufficient to point out that any such intermediate value will
+answer the purpose of giving a rough and summary indication
+of the degree of closeness of approximation which our
+various measures display to each other and to their common
+average. If we were to speak respectively of the 'first' and
+the 'second average,' we might say that the former of these
+assigns a rough single substitute for the plurality of original
+values, whilst the latter gives a similar rough estimate of the
+degree of their departure from the former.
+
+12. So far we have only been considering the general
+nature of an average, and the principal kinds of average
+practically in use. We must now enquire more particularly
+what are the principal purposes for which averages are employed.
+
+In this respect the first thing we have to do is to raise
+doubts in the reader's mind on a subject on which he
+perhaps has not hitherto felt the slightest doubt. Every
+one is more or less familiar with the practice of appealing to
+an average in order to secure accuracy. But distinctly what
+we begin by doing is to sacrifice accuracy; for in place of
+the plurality of actual results we get a single result which
+very possibly does not agree with any one of them. If I find
+the temperature in different parts of a room to be different,
+but say that the average temperature is 61°, there may perhaps
+be but few parts of the room where this exact temperature
+is realized. And if I say that the average stature of
+a certain small group of men is 68 inches, it is probable that
+no one of them will present precisely this height.
+
+The principal way in which accuracy can be thus secured
+is when what we are really aiming at is not the magnitudes
+before us but something else of which they are an indication.
+If they are themselves 'inaccurate,'--we shall see presently
+that this needs some explanation,--then the single average,
+which in itself agrees perhaps with none of them, may be
+much more nearly what we are actually in want of. We shall
+find it convenient to subdivide this view of the subject into
+two parts; by considering first those cases in which quantitative
+considerations enter but slightly, and in which no determination
+of the particular Law of Error involved is demanded,
+and secondly those in which such determination cannot be
+avoided. The latter are only noticed in passing here, as a
+separate chapter is reserved for their fuller consideration.
+
+13. The process, as a practical one, is familiar enough
+to almost everybody who has to work with measures of any
+kind. Suppose, for instance, that I am measuring any object
+with a brass rod which, as we know, expands and contracts
+according to the temperature. The results will vary slightly,
+being sometimes a little too great and sometimes a little too
+small. All these variations are physical facts, and if what
+we were concerned with was the properties of brass they
+would be the one important fact for us. But when we are
+concerned with the length of the object measured, these facts
+become superfluous and misleading. What we want to do is
+to escape their influence, and this we are enabled to effect by
+taking their (arithmetical) average, provided only they are
+as often in excess as in defect.[4] For this purpose all that is
+necessary is that equal excesses and defects should be
+equally prevalent. It is not necessary to know what is the
+law of variation, or even to be assured that it is of one particular
+kind. Provided only that it is in the language of
+the diagram on p. 29, symmetrical, then the arithmetical
+average of a suitable and suitably varied number of measurements
+will be free from this source of disturbance. And
+what holds good of this cause of variation will hold good of
+all others which obey the same general conditions. In fact
+the equal prevalence of equal and opposite errors seems to
+be the sole and sufficient justification of the familiar process
+of taking the average in order to secure accuracy.
+
+14. We must now make the distinction to which attention
+requires so often to be drawn in these subjects
+between the cases in which there respectively is, and is not,
+some objective magnitude aimed at: a distinction which the
+common use of the same word "errors" is so apt to obscure.
+When we talked, in the case of the brass rod, of excesses
+and defects being equal, we meant exactly what we said, viz.
+that for every case in which the 'true' length (i.e. that determined
+by the authorized standard) is exceeded by a given
+fraction of an inch, there will be a corresponding case in
+which there is an equal defect.
+
+On the other hand, when there is no such fixed objective
+standard of reference, it would appear that all that we mean
+by equal excesses and defects is permanent symmetry of
+arrangement. In the case of the measuring rod we were
+able to start with something which existed, so to say, before
+its variations; but in many cases any starting point which
+we can find is solely determined by the average.
+
+Suppose, for instance, we take a great number of observations
+of the height of the barometer at a certain place,
+at all times and seasons and in all weathers, we should
+generally consider that the average of all these showed the
+'true' height for that place. What we really mean is that
+the height at any moment is determined partly (and principally)
+by the height of the column of air above it, but partly
+also by a number of other agencies such as local temperature,
+moisture, wind, &c. These are sometimes more and sometimes
+less effective, but their range being tolerably constant,
+and their distribution through this range being
+tolerably symmetrical, the average of one large batch of
+observations will be almost exactly the same as that of any
+other. This constancy of the average _is_ its truth. I am
+quite aware that we find it difficult not to suppose that
+there must be something more than this constancy, but we
+are probably apt to be misled by the analogy of the other
+class of cases, viz. those in which we are really aiming at
+some sort of mark.
+
+15. As regards the practical methods available for
+determining the various kinds of average there is very little
+to be said; as the arithmetical rules are simple and definite,
+and involve nothing more than the inevitable drudgery
+attendant upon dealing with long rows of figures. Perhaps
+the most important contribution to this part of the subject is
+furnished by Mr Galton's suggestion to substitute the median
+for the mean, and thus to elicit the average with sufficient
+accuracy by the mere act of grouping a number of objects
+together. Thus he has given an ingenious suggestion for
+obtaining the average height of a number of men without
+the trouble and risk of measuring them all. "A barbarian
+chief might often be induced to marshall his men in the
+order of their heights, or in that of the popular estimate of
+their skill in any capacity; but it would require some apparatus
+and a great deal of time to measure each man
+separately, even supposing it possible to overcome the usually
+strong repugnance of uncivilized people to any such proceeding"
+(_Phil. Mag._ Jan. 1875). That is, it being known
+from wide experience that the heights of any tolerably
+homogeneous set of men are apt to group themselves symmetrically,--the
+condition for the coincidence of the three
+principal kinds of mean,--the middle man of a row thus
+arranged in order will represent the mean or average man,
+and him we may subject to measurement. Moreover, since
+the intermediate heights are much more thickly represented
+than the extreme ones, a moderate error in the selection of
+the central man of a long row will only entail a very small
+error in the selection of the corresponding height.
+
+16. We can now conveniently recur to a subject which
+has been already noticed in a former chapter, viz. the attempt
+which is sometimes made to establish a distinction
+between an average and a mean. It has been proposed to
+confine the former term to the cases in which we are dealing
+with a fictitious result of our own construction, that is, with
+a mere arithmetical deduction from the observed magnitudes,
+and to apply the latter to cases in which there is
+supposed to be some objective magnitude peculiarly representative
+of the average.
+
+Recur to the three principal classes, of things appropriate
+to Probability, which were sketched out in Ch. II. §4. The
+first of these comprised the results of games of chance. Toss
+a die ten times: the total number of pips on the upper
+side may vary from ten up to sixty. Suppose it to be
+thirty. We then say that the average of this batch of
+ten is three. Take another set of ten throws, and we may
+get another average, say four. There is clearly nothing
+objective peculiarly corresponding in any way to these
+averages. No doubt if we go on long enough we shall
+find that the averages tend to centre about 3.5: we then
+call this _the_ average, or the 'probable' number of points;
+and this ultimate average might have been pretty constantly
+asserted beforehand from our knowledge of the constitution
+of a die. It has however no other truth or reality
+about it of the nature of a type: it is simply the limit
+towards which the averages tend.
+
+The next class is that occupied by the members of most
+natural groups of objects, especially as regards the characteristics
+of natural species. Somewhat similar remarks may
+be repeated here. There is very frequently a 'limit' towards
+which the averages of increasing numbers of individuals tend
+to approach; and there is certainly some temptation to regard
+this limit as being a sort of type which all had been
+intended to resemble as closely as possible. But when we
+looked closer, we found that this view could scarcely be
+justified; all which could be safely asserted was that this
+type represented, for the time being, the most numerous
+specimens, or those which under existing conditions could
+most easily be produced.
+
+The remaining class stands on a somewhat different
+ground. When we make a succession of more or less successful
+attempts of any kind, we get a corresponding series
+of deviations from the mark at which we aimed. These we
+may treat arithmetically, and obtain their averages, just as
+in the former cases. These averages are fictions, that is to
+say, they are artificial deductions of our own which need
+not necessarily have anything objective corresponding to
+them. In fact, if they be averages of a _few_ only they
+most probably will not have anything thus corresponding
+to them. Anything answering to a type can only be sought
+in the 'limit' towards which they ultimately tend, for this
+limit coincides with the fixed point or object aimed at.
+
+17. Fully admitting the great value and interest of
+Quetelet's work in this direction,--he was certainly the first
+to direct public attention to the fact that so many classes of
+natural objects display the same characteristic property,--it
+nevertheless does not seem desirable to attempt to mark
+such a distinction by any special use of these technical
+terms. The objections are principally the two following.
+
+In the first place, a single antithesis, like this between
+an average and a mean, appears to suggest a very much
+simpler state of things than is actually found to exist in
+nature. A reference to the three classes of things just
+mentioned, and a consideration of the wide range and diversity
+included in each of them, will serve to remind us
+not only of the very gradual and insensible advance from
+what is thus regarded as 'fictitious' to what is claimed as
+'real;' but also of the important fact that whereas the 'real
+type' may be of a fluctuating and evanescent character, the
+'fiction' may (as in games of chance) be apparently fixed
+for ever. Provided only that the conditions of production
+remain stable, averages of large numbers will always practically
+present much the same general characteristics. The
+far more important distinction lies between the average of
+a few, with its fluctuating values and very imperfect and
+occasional attainment of its ultimate goal, and the average
+of many and its gradually close approximation to its ultimate
+value: i.e. to its objective point of aim if there happen
+to be such.
+
+Then, again, the considerations adduced in this chapter
+will show that within the field of the average itself there is
+far more variety than Quetelet seems to have recognized.
+He did not indeed quite ignore this variety, but he practically
+confined himself almost entirely to those symmetrical
+arrangements in which three of the principal means coalesce
+into one. We should find it difficult to carry out his distinction
+in less simple cases. For instance, when there is
+some degree of asymmetry, it is the 'maximum ordinate'
+which would have to be considered as a 'mean' to the
+exclusion of the others; for no appeal to an arithmetical
+average would guide us to this point, which however is to
+be regarded, if any can be so regarded, as marking out the
+position of the ultimate type.
+
+18. We have several times pointed out that it is a
+characteristic of the things with which Probability is concerned
+to present, in the long run, a continually intensifying
+uniformity. And this has been frequently described as what
+happens 'on the average.' Now an objection may very
+possibly be raised against regarding an arrangement of
+things by virtue of which order thus emerges out of disorder
+as deserving any special notice, on the ground that from the
+nature of the arithmetical average it could not possibly be
+otherwise. The process by which an average is obtained, it
+may be urged, insures this tendency to equalization amongst
+the magnitudes with which it deals. For instance, let there
+be a party of ten men, of whom four are tall and four are
+short, and take the average of any five of them. Since this
+number cannot be made up of tall men only, or of short men
+only, it stands to reason that the averages cannot differ so
+much amongst themselves as the single measures can. Is
+not then the equalizing process, it may be asked, which is
+observable on increasing the range of our observations,
+one which can be shown to follow from necessary laws of
+arithmetic, and one therefore which might be asserted _à priori_?
+
+Whatever force there may be in the above objection arises
+principally from the limitations of the example selected, in
+which the number chosen was so large a proportion of the
+total as to exclude the bare possibility of only extreme cases
+being contained within it. As much confusion is often felt
+here between what is necessary and what is matter of experience,
+it will be well to look at an example somewhat
+more closely, in order to determine exactly what are the
+really necessary consequences of the averaging process.
+
+19. Suppose then that we take ten digits at random
+from a table (say) of logarithms. Unless in the highly unlikely
+case of our having happened upon the same digit ten
+times running, the average of the ten _must_ be intermediate
+between the possible extremes. Every conception of an
+average of any sort not merely involves, but actually means,
+the taking of something intermediate between the extremes.
+The average therefore of the ten must lie closer to 4.5 (the
+average of the extremes) than did some of the single digits.
+
+Now suppose we take 1000 such digits instead of 10. We
+can say nothing more about the larger number, with demonstrative
+certainty, than we could before about the smaller.
+If they were unequal to begin with (i.e. if they were not all
+the same) then the average _must_ be intermediate, but more
+than this cannot be proved arithmetically. By comparison with
+such purely arithmetical considerations there is what may be
+called a physical fact underlying our confidence in the growing
+stability of the average of the larger number. It is that
+the constituent elements from which the average is deduced
+will themselves betray a growing uniformity:--that the proportions
+in which the different digits come out will become
+more and more nearly equal as we take larger numbers of
+them. If the proportions in which the 1000 digits were
+distributed were the same as those of the 10 the averages
+would be the same. It is obvious therefore that the arithmetical
+process of obtaining an average goes a very little
+way towards securing the striking kind of uniformity which
+we find to be actually presented.
+
+20. There is another way in which the same thing
+may be put. It is sometimes said that whatever may have
+been the arrangement of the original elements the process of
+continual averaging will necessarily produce the peculiar
+binomial or exponential law of arrangement. This statement
+is perfectly true (with certain safeguards) but it is not
+in any way opposed to what has been said above. Let us
+take for consideration the example above referred to. The
+arrangement of the individual digits in the long run is the
+simplest possible. It would be represented, in a diagram,
+not by a curve but by a finite straight line, for each digit
+occurs about as often as any other, and this exhausts all the
+'arrangement' that can be detected. Now, when we consider
+the results of taking averages of ten such digits, we see
+at once that there is an opening for a more extensive arrangement.
+The totals may range from 0 up to 100, and therefore
+the average will have 100 values from 0 to 9; and what
+we find is that the frequency of these numbers is determined
+according to the Binomial[5] or Exponential Law. The most
+frequent result is the true mean, viz. 4.5, and from this they
+diminish in each direction towards 0 and 10, which will each
+occur but once (on the average) in 10^{10} occasions.
+
+The explanation here is of the same kind as in the former
+case. The resultant arrangement, so far as the averages are
+concerned, is only 'necessary' in the sense that it is a necessary
+result of certain physical assumptions or experiences.
+If all the digits tend to occur with equal frequency, and if
+they are 'independent' (i.e. if each is associated indifferently
+with every other), then it is an arithmetical consequence
+that the averages when arranged in respect of their magnitude
+and prevalence will display the Law of Facility above
+indicated. Experience, so far as it can be appealed to, shows
+that the true randomness of the selection of the digits,--i.e.
+their equally frequent recurrence, and the impartiality of
+their combination,--is very fairly secured in practice. Accordingly
+the theoretic deduction that whatever may have
+been the original Law of Facility of the individual results
+we shall always find the familiar Exponential Law asserting
+itself as the law of the averages, is fairly justified by experience
+in such a case.
+
+The further discussion of certain corrections and refinements
+is reserved to the following chapter.
+
+21. In regard to the three kinds of average employed
+to test the amount of dispersion,--i.e. the mean error, the
+probable error, and the error of mean square,--two important
+considerations must be borne in mind. They will
+both recur for fuller discussion and justification in the course
+of the next chapter, when we come to touch upon the Method
+of Least Squares, but their significance for logical purposes
+is so great that they ought not to be entirely passed by at
+present.
+
+(1) In the first place, then, it must be remarked that in
+order to know what in any case is the real value of an error
+we ought in strictness to know what is the position of the
+limit or ultimate average, for the amount of an error is
+always theoretically measured from this point. But this is
+information which we do not always possess. Recurring
+once more to the three principal classes of events with which
+we are concerned, we can readily see that in the case of
+games of chance we mostly do possess this knowledge. Instead
+of appealing to experience to ascertain the limit, we
+practically deduce it by simple mechanical or arithmetical
+considerations, and then the 'error' in any individual case or
+group of cases is obviously found by comparing the results
+thus obtained with that which theory informs us would ultimately
+be obtained in the long run. In the case of deliberate
+efforts at an aim (the third class) we may or may
+not know accurately the value or position of this aim. In
+astronomical observations we do not know it, and the method
+of Least Squares is a method for helping us to ascertain it as
+well as we can; in such experimental results as firing at a
+mark we do know it, and may thus test the nature and
+amount of our failure by direct experience. In the remaining
+case, namely that of what we have termed natural kinds
+or groups of things, not only do we not know the ultimate
+limit, but its existence is always at least doubtful, and in
+many cases may be confidently denied. Where it does exist,
+that is, where the type seems for all practical purposes permanently
+fixed, we can only ascertain it by a laborious resort
+to statistics. Having done this, we may then test by it the
+results of observations on a small scale. For instance, if we
+find that the ultimate proportion of male to female births is
+about 106 to 100, we may then compare the statistics of
+some particular district or town and speak of the consequent
+'error,' viz. the departure, in that particular and special
+district, from the general average.
+
+What we have therefore to do in the vast majority of
+practical cases is to take the average of a finite number of
+measurements or observations,--of all those, in fact, which
+we have in hand,--and take _this_ as our starting point in
+order to measure the errors. The errors in fact are not
+known for certain but only probably calculated. This however
+is not so much of a theoretic defect as it may seem at
+first sight; for inasmuch as we seldom have to employ these
+methods,--for purposes of calculation, that is, as distinguished
+from mere illustration,--except for the purpose of discovering
+what the ultimate average is, it would be a sort of
+_petitio principii_ to assume that we had already secured it.
+But it is worth while considering whether it is desirable to
+employ one and the same term for 'errors' known to be
+such, and whose amount can be assigned with certainty, and
+for 'errors' which are only probably such and whose amount
+can be only probably assigned. In fact it has been proposed[6]
+to employ the two terms 'error' and 'residual' respectively
+to distinguish between the magnitudes thus determined, that
+is, between the (generally unknown) actual error and the observed
+error.
+
+22. (2) The other point involves the question to what
+extent either of the first two tests (pp. 446,7) of the closeness
+with which the various results have grouped themselves
+about their average is trustworthy or complete. The answer
+is that they are necessarily incomplete. No single estimate
+or magnitude can possibly give us an adequate account of a
+number of various magnitudes. The point is a very important
+one; and is not, I think, sufficiently attended to, the
+consequence being, as we shall see hereafter, that it is far
+too summarily assumed that a method which yields the
+result with the least 'error of mean square' must necessarily
+be the best result for all purposes. It is not however by any
+means clear that a test which answers best for one purpose
+must do so for all.
+
+It must be clearly understood that each of these tests is
+an 'average,' and that every average necessarily rejects a
+mass of varied detail by substituting for it a single result.
+We had, say, a lot of statures: so many of 60 inches, so
+many of 61, &c. We replace these by an 'average' of 68,
+and thereby drop a mass of information. A portion of this
+we then seek to recover by reconsidering the 'errors' or
+departures of these statures from their average. As before,
+however, instead of giving the full details we substitute an
+average of the errors. The only difference is that instead of
+taking the same kind of average (i.e. the arithmetical) we
+often prefer to adopt the one called the 'error of mean
+square.'
+
+23. A question may be raised here which is of sufficient
+importance to deserve a short consideration. When we have
+got a set of measurements before us, why is it generally
+held to be sufficient simply to assign: (1) the mean value;
+and (2) the mean departure from this mean? The answer
+is, of course, partly given by the fact that we are only supposed
+to be in want of a rough approximation: but there is
+more to be said than this. A further justification is to be
+found in the fact that we assume that we need only contemplate
+the possibility of a single Law of Error, or at any
+rate that the departures from the familiar Law will be but
+trifling. In other words, if we recur to the figure on p. 29,
+we assume that there are only two unknown quantities or
+disposable constants to be assigned; viz. first, the position of
+the centre, and, secondly, the degree of eccentricity, if one
+may so term it, of the curve. The determination of the
+mean value directly and at once assigns the former, and the
+determination of the mean error (in either of the ways referred
+to already) indirectly assigns the latter by confining us
+to one alone of the possible curves indicated in the figure.
+
+Except for the assumption of one such Law of Error the
+determination of the mean error would give but a slight
+intimation of the sort of outline of our Curve of Facility.
+We might then have found it convenient to adopt some plan
+of successive approximation, by adding a third or fourth
+'mean.' Just as we assign the mean value of the magnitude,
+and its mean departure from this mean; so we might
+take this mean error (however determined) as a fresh starting
+point, and assign the mean departure from it. If the point
+were worth further discussion we might easily illustrate by
+means of a diagram the sort of successive approximations
+which such indications would yield as to the ultimate form
+of the Curve of Facility or Law of Error.
+
+*        *        *        *        *
+
+As this volume is written mainly for those who take an interest in the
+logical questions involved, rather than as an introduction to the actual
+processes of calculation, mathematical details have been throughout avoided
+as much as possible. For this reason comparatively few references have
+been made to the exponential equation of the Law of Error, or to the
+corresponding 'Probability integral,' tables of which are given in several
+handbooks on the subject. There are two points however in connection
+with these particular topics as to which difficulties are, or should be,
+felt by so many students that some notice may be taken of them here
+
+(1) In regard to the ordinary algebraical expression for the law of
+error, viz. y = (h/sqrt{π}) e^{-h^{2}x^{2}}, it will have been
+observed that I have always spoken of y as being _proportional_ to the
+number of errors of the particular magnitude x. It would hardly be
+correct to say, absolutely, that y _represents_ that number, because
+of course the actual number of errors of any precise magnitude, where
+continuity of possibility is assumed, must be indefinitely small. If
+therefore we want to pass from the continuous to the discrete, by
+ascertaining the actual number of errors between two consecutive
+divisions of our scale, when, as usual in measurements, all within
+certain limits are referred to some one precise point, we must modify
+our formula. In accordance with the usual differential notation, we
+must say that the number of errors falling into one subdivision (dx)
+of our scale _is_ dx (h/sqrt{π}) e^{-h^{2} x^{2}}, where dx is a
+(small) unit of length, in which both h^{-1} and x must be measured.
+
+The difficulty felt by most students is in applying the formula to
+actual statistics, in other words in putting in the correct units. To
+take an actual numerical example, suppose that 1460 men have been
+measured in regard to their height "true to the nearest inch," and let
+it be known that the modulus here is 3.6 inches. Then dx = 1 (inch);
+h^{-1} = 3.6 inches. Now sum (h/sqrt{π}) e^{-h^{2}x^{2}} dx = 1; that
+is, the sum of all the consecutive possible values is equal to
+_unity_. When therefore we want the sum, as here, to be 1460, we must
+express the formula thus;--y = 1460/(sqrt{π} × 3.6) e^{-(x/3.6)^{2}},
+or y = 228 e^{-(x/3.6)^{2}}.
+
+Here x stands for the number of inches measured from the central or
+mean height, and y stands for the number of men referred to that
+height in our statistical table. (The values of e^{-t^{2}} for
+successive values of t are given in the handbooks.)
+
+For illustration I give the calculated numbers by this formula for values
+of x from 0 to 8 inches, with the actual numbers observed in the Cambridge
+measurements recently set on foot by Mr Galton.
+
+inches  calculated observed
+x = 0     y = 228    = 231
+x = 1     y = 212    = 218
+x = 2     y = 166    = 170
+x = 3     y = 111    = 110
+x = 4     y =  82    =  66
+x = 5     y =  32    =  31
+x = 6     y =  11    =  10
+x = 7     y =   4    =   6
+x = 8     y =   1    =   3
+
+Here the average height was 69 inches: dx, as stated, = 1 inch. By
+saying, 'put x = 0,' we mean, calculate the number of men who are assigned
+to 69 inches; i.e. who fall between 68.5 and 69.5. By saying, 'put x = 4,'
+we mean, calculate the number who are assigned to 65 or to 73; i.e. who lie
+between 64.5 and 65.5, or between 72.5 and 73.5. The observed results, it
+will be seen, keep pretty close to the calculated: in the case of the former
+the _means_ of equal and opposite divergences from the mean have been taken,
+the actual results not being always the same in opposite directions.
+
+(2) The other point concerns the interpretation of the familiar
+probability integral, (2/sqrt{π}) integral_{0}^{t} e^{-t^{2}} dt.
+Every one who has calculated the chance of an event, by the help
+of the tables of this integral given in so many handbooks, knows that
+if we assign any numerical value to t, the corresponding value of the
+above expression assigns the chance that an error taken at random
+shall lie within that same limit, viz. t. Thus put t = 1.5, and we
+have the result 0.96; that is, only 4 per cent. of the errors will
+exceed 'one and a half.' But when we ask, 'one and a half' _what?_ the
+answer would not always be very ready. As usual, the main difficulty
+of the beginner is not to manipulate the formulæ, but to be quite
+clear about his units.
+
+It will be seen at once that this case differs from the preceding in that
+we cannot now choose our unit as we please. Where, as here, there is only
+one variable (t), if we were allowed to select our own unit, the inch, foot,
+or whatever it might be, we might get quite different results. Accordingly
+some comparatively natural unit must have been chosen for us in which we
+are bound to reckon, just as in the circular measurement of an angle as
+distinguished from that by degrees.
+
+The answer is that the unit here is the _modulus_, and that to put 't = 1.5'
+is to say, 'suppose the error half as great again as the modulus'; the
+modulus itself being an error of a certain assignable magnitude depending
+upon the nature of the measurements or observations in question. We shall
+see this better if we put the integral in the form
+(2/sqrt{π}) integral_{0}^{hx} e^{-h^{2} x^{2}} d(hx);
+which is precisely equivalent, since the value of a definite integral is
+independent of the particular variable employed. Here hx is the same as
+x : 1/h; i.e. it is the ratio of x to 1/h, or x measured in terms of 1/h.
+But 1/h is the modulus in the equation
+(y = (h/sqrt{π}) e^{-h^{2} x^{2}})
+for the law of error. In other words the numerical value of an error in
+this formula, is the number of times, whole or fractional, which it
+contains the modulus.
+
+
+1. This kind of mean is called by Fechner and others the "_dichteste
+  Werth_." The most appropriate appeal to it that I have seen is by
+  Prof. Lexis (_Massenerscheinungen_, p. 42) where he shows that it
+  indicates clearly a sort of normal length of human life, of about 70
+  years; a result which is almost entirely masked when we appeal to
+  the arithmetical average.
+
+  This mean _ought_ to be called the 'probable' value (a name however
+  in possession of another) on the ground that it indicates the point
+  of likeliest occurrence; i.e. if we compare all the indefinitely
+  small and equal units of variation, the one corresponding to this
+  will tend to be most frequently represented.
+
+2. A diagram illustrative of this number of results was given in
+  _Nature_ (Sept. 1, 1887). In calculating, as above, the different
+  means, I may remark that the original results were given to three
+  decimal places; but, in classing them, only one place was
+  noted. That is, 29.9 includes all values between 29.900 and 29.999.
+  Thus the value most frequently entered in my tables was 30.0, but on
+  the usual principles of interpolation this is reckoned as 30.05.
+
+3. There is some ambiguity in the phraseology in use here. Thus Airy
+  commonly uses the expression 'Error of Mean Square' to represent, as
+  here, sqrt{(sum e^{2})/n}. Galloway commonly speaks of the 'Mean
+  Square of the Errors' to represent (sum e^{2})/n. I shall adhere to
+  the former usage and represent it briefly by E.M.S. Still more
+  unfortunate (to my thinking) is the employment, by Mr Merriman and
+  others, of the expression 'Mean Error,' (widely in use in its more
+  natural signification,) as the equivalent of this E.M.S.
+
+  The technical term 'Fluctuation' is applied by Mr F. Y. Edgeworth to
+  the expression (2 sum e^{2})/n.
+
+4. Practically, of course, we should allow for the expansion or
+  contraction. But for purposes of logical explanation we may
+  conveniently take this variation as a specimen of one of those
+  disturbances which may be neutralised by resort to an average.
+
+5. More strictly _multinomial_: the relative frequency of the
+  different numbers being indicated by the coefficients of the powers
+  of x in the development of
+
+  (1 + x + x^{2} + ... + x^{9})^{10}.
+
+6. By Mr Merriman, in his work on _Least Squares_.
+
+
+
+

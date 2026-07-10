@@ -1,0 +1,225 @@
+﻿The Project Gutenberg EBook of A Philosophical Essay on Probabilities, by 
+Pierre Simon, marquis de Laplace
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Philosophical Essay on Probabilities
+
+Author: Pierre Simon, marquis de Laplace
+
+Translator: F. W. Truscott
+            F. L. Emory
+
+Release Date: February 13, 2019 [EBook #58881]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PHILOSOPHICAL ESSAY ON PROBABILITIES ***
+
+
+
+
+Produced by Turgut Dincer, Chris Pinfield, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+Transcriber's Note:
+
+Apparent typographical errors have been corrected.
+
+Italics are indicated by _underscores_. Small capitals have been
+replaced by full capitals.
+
+The corrections noted in the Errata section have been incorporated in
+the text. Two further corrections have also been made: 9/10 in place of
+1/10, and 9/10 in place of 6/10, on page 110; and "ex voto" in place of
+"ex veto" on page 173.
+
+
+
+
+ A PHILOSOPHICAL ESSAY
+ ON
+ PROBABILITIES.
+
+ BY
+ PIERRE SIMON, MARQUIS DE LAPLACE.
+
+
+ _TRANSLATED FROM THE SIXTH FRENCH EDITION_
+ BY
+
+ FREDERICK WILSON TRUSCOTT, PH.D. (HARV.),
+ _Professor of Germanic Languages in the West Virginia University_,
+
+ AND
+
+ FREDERICK LINCOLN EMORY, M.E. (WOR. POLY. INST.),
+ _Professor of Mechanics and Applied Mathematics in the West Virginia
+ University; Mem. Amer. Soc. Mech. Eng._
+
+
+ _FIRST EDITION._
+ FIRST THOUSAND.
+
+
+ NEW YORK:
+ JOHN WILEY & SONS.
+ LONDON: CHAPMAN & HALL, LIMITED.
+ 1902.
+
+
+ Copyright, 1902,
+ BY
+ F. W. TRUSCOTT
+ AND
+ F. L. EMORY.
+
+
+ ROBERT DRUMMOND PRINTER, NEW YORK
+
+
+
+
+TABLE OF CONTENTS.
+
+
+                                                                    PAGE
+ PART I.
+ _A PHILOSOPHICAL ESSAY ON PROBABILITIES._
+
+ CHAPTER I.
+ Introduction                                                          1
+
+ CHAPTER II.
+ Concerning Probability                                                3
+
+ CHAPTER III.
+ General Principles of the Calculus of Probabilities                  11
+
+ CHAPTER IV.
+ Concerning Hope                                                      20
+
+ CHAPTER V.
+ Analytical Methods of the Calculus of Probabilities                  26
+
+
+ PART II.
+ _APPLICATION OF THE CALCULUS OF PROBABILITIES._
+
+ CHAPTER VI.
+ Games of Chance                                                      53
+
+ CHAPTER VII.
+ Concerning the Unknown Inequalities which may Exist among
+ Chances Supposed to be Equal                                         56
+
+ CHAPTER VIII.
+ Concerning the Laws of Probability which result from the
+ Indefinite Multiplication of Events                                  60
+
+ CHAPTER IX.
+ Application of the Calculus of Probabilities to Natural
+ Philosophy                                                           73
+
+ CHAPTER X.
+ Application of the Calculus of Probabilities to the Moral
+ Sciences                                                            107
+
+ CHAPTER XI.
+ Concerning the Probability of Testimonies                           109
+
+ CHAPTER XII.
+ Concerning the Selections and Decisions of Assemblies               126
+
+ CHAPTER XIII.
+ Concerning the Probability of the Judgments of Tribunals            132
+
+ CHAPTER XIV.
+ Concerning Tables of Mortality, and the Mean Durations
+ of Life, Marriage, and Some Associations                            140
+
+ CHAPTER XV.
+ Concerning the Benefits of Institutions which Depend upon
+ the Probability of Events                                           149
+
+ CHAPTER XVI.
+ Concerning Illusions in the Estimation of Probabilities             160
+
+ CHAPTER XVII.
+ Concerning the Various Means of Approaching Certainty               176
+
+ CHAPTER XVIII.
+ Historical Notice of the Calculus of Probabilities to 1816          185
+
+
+
+
+ERRATA.
+
+
+ Page  89, line 22,      _for_  Pline         _read_  Pliny
+
+   "  102, lines 14, 16,   "    minutes         "     days
+
+   "  143, line 25,        "    sun             "     soil
+
+   "  177, lines 15, 17, 18, 21, 22, 24, _for_ primary _read_ prime
+
+   "  182, line 5,       _for_  conjunctions  _read_  being binary
+
+
+
+
+A PHILOSOPHICAL ESSAY ON PROBABILITIES.
+
+
+
+
+CHAPTER I.
+
+_INTRODUCTION._
+
+
+This philosophical essay is the development of a lecture on
+probabilities which I delivered in 1795 to the normal schools whither I
+had been called, by a decree of the national convention, as professor of
+mathematics with Lagrange. I have recently published upon the same
+subject a work entitled _The Analytical Theory of Probabilities_. I
+present here without the aid of analysis the principles and general
+results of this theory, applying them to the most important questions of
+life, which are indeed for the most part only problems of probability.
+Strictly speaking it may even be said that nearly all our knowledge is
+problematical; and in the small number of things which we are able to
+know with certainty, even in the mathematical sciences themselves, the
+principal means for ascertaining truth—induction and analogy—are based
+on probabilities; so that the entire system of human knowledge is
+connected with the theory set forth in this essay. Doubtless it will be
+seen here with interest that in considering, even in the eternal
+principles of reason, justice, and humanity, only the favorable chances
+which are constantly attached to them, there is a great advantage in
+following these principles and serious inconvenience in departing from
+them: their chances, like those favorable to lotteries, always end by
+prevailing in the midst of the vacillations of hazard. I hope that the
+reflections given in this essay may merit the attention of philosophers
+and direct it to a subject so worthy of engaging their minds.
+
+
+
+

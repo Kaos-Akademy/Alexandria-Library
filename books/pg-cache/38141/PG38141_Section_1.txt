@@ -1,0 +1,711 @@
+The Project Gutenberg eBook of John Dewey's logical theory
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: John Dewey's logical theory
+
+Author: Delton Thomas Howard
+
+
+        
+Release date: November 26, 2011 [eBook #38141]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/38141
+
+Credits: Produced by Adrian Mastronardi, Martin Pettit and the
+        Online Distributed Proofreading Team at http://www.pgdp.net
+        (This file was produced from images generously made
+        available by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+Produced by Adrian Mastronardi, Martin Pettit and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+CORNELL STUDIES IN PHILOSOPHY
+
+No. 11
+
+
+JOHN DEWEY'S LOGICAL THEORY
+
+
+BY
+
+DELTON THOMAS HOWARD, A.M.
+
+FORMERLY FELLOW IN THE SAGE SCHOOL OF PHILOSOPHY
+
+
+A THESIS
+PRESENTED TO THE FACULTY OF THE GRADUATE SCHOOL OF
+CORNELL UNIVERSITY IN PARTIAL FULFILMENT OF THE
+REQUIREMENTS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY
+
+
+NEW YORK
+LONGMANS, GREEN, & CO.
+1919
+
+
+PRESS OF
+THE NEW ERA PRINTING COMPANY
+LANCASTER, PA.
+
+
+
+
+PREFACE
+
+
+It seems unnecessary to offer an apology for an historical treatment of
+Professor Dewey's logical theories, since functionalism glories in the
+genetic method. To be sure, certain more extreme radicals are opposed to
+a genetic interpretation of the history of human thought, but this is
+inconsistent. At any rate, the historical method employed in the
+following study may escape censure by reason of its simple character,
+for it is little more than a critical review of Professor Dewey's
+writings in their historical order, with no discussion of influences and
+connections, and with little insistence upon rigid lines of development.
+It is proposed to "follow the lead of the subject-matter" as far as
+possible; to discover what topics interested Professor Dewey, how he
+dealt with them, and what conclusions he arrived at. This plan has an
+especial advantage when applied to a body of doctrine which, like
+Professor Dewey's, does not possess a systematic form of its own, since
+it avoids the distortion which a more rigid method would be apt to
+produce.
+
+It has not been possible, within the limits of the present study, to
+take note of all of Professor Dewey's writings, and no reference has
+been made to some which are of undoubted interest and importance. Among
+these may be mentioned especially his books and papers on educational
+topics and a number of his ethical writings. Attention has been devoted
+almost exclusively to those writings which have some important bearing
+upon his logical theory. The division into chapters is partly arbitrary,
+although the periods indicated are quite clearly marked by the different
+directions which Professor Dewey's interests took from time to time. It
+will be seen that there is considerable chance for error in
+distinguishing between the important and the unimportant, and in
+selecting the essays which lie in the natural line of the author's
+development. But, _valeat quantum_, as William James would say.
+
+The criticisms and comments which have been made from time to time, as
+seemed appropriate, may be considered pertinent or irrelevant according
+to the views of the reader. It is hoped that they are not entirely
+aside from the mark, and that they do not interfere with a fair
+presentation of the author's views. The last chapter is devoted to a
+direct criticism of Professor Dewey's functionalism, with some comments
+on the general nature of philosophical method.
+
+Since this thesis was written, Professor Dewey has published two or
+three books and numerous articles, which are perhaps more important than
+any of his previous writings. The volume of _Essays in Experimental
+Logic_ (1916) is a distinct advance upon _The Influence of Darwin on
+Philosophy and Other Essays_, published six years earlier. Most of these
+essays, however, are considered here in their original form, and the new
+material, while interesting, presents no vital change of standpoint. It
+might be well to call attention to the excellent introductory essay
+which Professor Dewey has provided for this new volume. Some mention
+might also be made of the volume of essays by eight representative
+pragmatists, which appeared last year (1917) under the title, _Creative
+Intelligence_. My comments on Professor Dewey's contribution to the
+volume have been printed elsewhere.[1] It has not seemed necessary, in
+the absence of significant developments, to extend the thesis beyond its
+original limits, and it goes to press, therefore, substantially as
+written two years ago.
+
+I wish to express my gratitude to the members of the faculty of the Sage
+School of Philosophy for many valuable suggestions and kindly
+encouragement in the course of my work. I am most deeply indebted to
+Professor Ernest Albee for his patient guidance and helpful criticism.
+Many of his suggestions, both as to plan and detail, have been adopted
+and embodied in the thesis, and these have contributed materially to
+such logical coherence and technical accuracy as it may possess. The
+particular views expressed are, of course, my own. I wish also to thank
+Professor J. E. Creighton especially for his friendly interest and for
+many suggestions which assisted the progress of my work, as well as for
+his kindness in looking over the proofs.
+
+D. T. HOWARD.
+
+EVANSTON, ILLINOIS,
+June, 1918.
+
+FOOTNOTE:
+
+[1] "The Pragmatic Method," _Journal of Philosophy, Psychology, and
+Scientific Methods_, 1918, Vol. XV, pp. 149-156.
+
+
+
+
+CONTENTS
+
+
+CHAPTER                                                        PAGE
+
+   I. "Psychology as Philosophic Method"                          1
+
+  II. The Development of the Psychological Standpoint            15
+
+ III. "Moral Theory and Practice"                                33
+
+  IV. Functional Psychology                                      47
+
+   V. The Evolutionary Standpoint                                59
+
+  VI. "Studies in Logical Theory"                                72
+
+ VII. The Polemical Period                                       88
+
+VIII. Later Developments                                        105
+
+  IX. Conclusions                                               119
+
+
+
+
+CHAPTER I
+
+"PSYCHOLOGY AS PHILOSOPHIC METHOD"
+
+
+Dewey's earliest standpoint in philosophy is presented in two articles
+published in _Mind_ in 1886: "The Psychological Standpoint," and
+"Psychology as Philosophic Method."[2] These articles appear to have
+been written in connection with his _Psychology_, which was published in
+the same year, and which represents the same general point of view as
+applied to the study of mental phenomena. For the purposes of the
+present study attention may be confined to the two articles in _Mind_.
+
+Dewey begins his argument, in "The Psychological Standpoint," with a
+reference to Professor Green's remark that the psychological standpoint
+is what marks the difference between transcendentalism and British
+empiricism. Dewey takes exception to this view, and asserts that the two
+schools hold this standpoint in common, and, furthermore, that the
+psychological standpoint has been the strength of British empiricism and
+desertion of that standpoint its weakness. Shadworth Hodgson's comment
+on this proposal testifies to its audacity. In a review of Dewey's
+article, he says: "If for instance we are told by a competent writer,
+that Absolute Idealism is not only a truth of experience but one
+attained directly by the method of experiential psychology, we should
+not allow our astonishment to prevent our examining the arguments, by
+virtue of which English psychology attains the results of German
+transcendentalism without quitting the ground of experience."[3]
+
+Dewey defines his psychological standpoint as follows: "We are not to
+determine the nature of reality or of any object of philosophical
+inquiry by examining it as it is in itself, but only as it is an element
+in our knowledge, in our experience, only as it is related to our mind,
+or is an 'idea'.... Or, in the ordinary way of putting it, the nature
+of all objects of philosophical inquiry is to be fixed by finding out
+what experience says about them."[4] The implications of this definition
+do not appear at first sight, but they become clearer as the discussion
+proceeds.
+
+Locke, Dewey continues, deserted the psychological standpoint because he
+did not, as he proposed, explain the nature of such things as matter and
+mind by reference to experience. On the contrary, he explained
+experience through the assumption of the two unknowable substances,
+matter and mind. Berkeley also deserted the psychological standpoint, in
+effect, by having recourse to a purely transcendent Spirit. Even Hume
+deserted it by assuming as the only reals certain unrelated sensations,
+and by trying to explain the origin of experience and knowledge by their
+combination. These reals were supposed to exist in independence of an
+organized experience, and to constitute it by their association. It
+might be argued that Hume's sensations are found in experience by
+analysis, and this would probably be true. But the sensations are
+nothing apart from the consciousness in which they are found. "Such a
+sensation," Dewey says, "a sensation which exists only within and for
+experience, is not one which can be used to account for experience. It
+is but one element in an organic whole, and can no more account for the
+whole, than a given digestive act can account for the existence of a
+living body."[5]
+
+So far Dewey is merely restating the criticism of English empiricism
+that had been made by Green and his followers. Reality, as experienced,
+is a whole of organically related parts, not a mechanical compound of
+elements. Whatever is to be explained must be taken as a fact of
+experience, and its meaning will be revealed in terms of its position
+and function within the whole. But while Dewey employs the language of
+idealism, it is doubtful whether he has grasped the full significance of
+the "concrete universal" of the Hegelian school. The following passage
+illustrates the difficulty: "The psychological standpoint as it has
+developed itself is this: all that is, is for consciousness or
+knowledge. The business of the psychologist is to give a genetic
+account of the various elements within this consciousness, and thereby
+fix their place, determine their validity, and at the same time show
+definitely what the real and eternal nature of this consciousness
+is."[6]
+
+Consciousness (used here as identical with 'experience') is apparently
+interpreted as a structure made up of elements related in a determinable
+order, and having, consequently, a 'real and eternal nature.' The result
+is a 'structural' view of reality, and the type of idealism for which
+Dewey stands may fittingly be called 'structural' idealism. This type of
+idealism does, in fact, hold a position intermediate between English
+empiricism and German transcendentalism. But it would not commonly be
+considered a synthesis of the best characteristics of the two schools.
+'Structural' idealism is, historically considered, a reversion to Kant
+which retains the mechanical elements of the _Critique_, but fails to
+reckon with the truly organic mode of interpretation in which it
+culminates. As experience, from Kant's undeveloped position, is a
+structure of sensations and forms, so Dewey's 'consciousness' is a
+compound of separate elements or existences related in a 'real and
+eternal' order.
+
+Dewey illustrates his method, in the discussion which follows, by
+employing it, or showing how it should be employed, in the definition of
+certain typical objects of philosophical inquiry. The first to be
+considered are subject and object. In dealing with the relation of
+subject to object, the psychological method will attempt to show how
+consciousness differentiates itself, or 'specifies' itself, into subject
+and object. These terms will be viewed as related terms within the whole
+of 'consciousness,' rather than as elements existing prior to or in
+independence of the whole in which they are found.
+
+There is a type of realism which illustrates the opposite or ontological
+method. It is led, through a study of the dependence of the mind upon
+the organism, to a position in which subject and object fall apart, out
+of relation to each other. The separation of the two leads to the
+positing of a third term, an unknown _x_, which is supposed to unite
+them. The psychological method would hold that the two objects have
+their union, not in an unknown 'real,' but in the 'consciousness' in
+which they appear. The individual consciousness as subject, and the
+objects over against it, are elements at once distinguished and related
+within the whole. All the terms are facts of experience, and none are to
+be assumed as ontological reals.
+
+Subjective idealism, Dewey continues, makes a similar error in failing
+to discriminate between the ego, or individual consciousness, and the
+Absolute Consciousness within which ego and object are differentiated
+elements. It fails to see that subject and object are complements, and
+inexplicable except as related elements in a larger whole. The
+individual consciousness, again, and the universal 'Consciousness,' are
+to be defined by reference to experience. It is not to be assumed at the
+start, as the subjective idealists assume, that the nature of the
+individual consciousness is known. The ego is to be defined, not
+assumed, and this is the essence of the psychological method.
+
+So far, two factors in Dewey's standpoint are clearly discernible. In
+the first place, all noumena and transcendent reals are to be rejected
+as means of explanation, and definition is to be wholly in terms of
+experienced elements, as experienced. In the second place, experience is
+to be regarded as a rational system of related elements, while
+explanation is to consist in tracing out the relations which any element
+bears to the whole. The universal 'Consciousness' is the whole, and the
+individual mind, again, is an element within the whole, to be explained
+by tracing out the relations which it bears to other elements and to the
+whole system. It is not easy to avoid the conclusion that Dewey
+conceives of 'consciousness' as a construct of existentially distinct
+terms.
+
+Dewey does not actually treat subject and object, individual and
+universal consciousness, in the empirical manner for which he contends.
+He merely outlines a method; and, while this has a negative bearing as
+against transcendent modes of explanation, it has little content of its
+own. But in spite of Dewey's lack of explicitness, it is evident that he
+tends to view his 'objects of philosophical inquiry' as so many concrete
+particular existences or things. The idea that they can be empirically
+marked out and investigated seems to imply this. But subject, object,
+individual, and universal are certainly not reducible to particular
+sensations, even though it must be admitted that they have a reference
+to particulars. These abstract concepts had been a source of difficulty
+to the empiricists, because they had not been able to reduce them to
+particular impressions, and Dewey's proposed method appears to involve
+the same difficulty.
+
+In his second article, on "Psychology as Philosophic Method," Dewey
+proposes to show that his standpoint is practically identical with that
+of transcendental idealism. This is made possible, he believes, through
+the fact that, since experience or consciousness is the only reality,
+psychology, as the scientific account of this reality, becomes identical
+with philosophy.
+
+In maintaining his position, Dewey finds it necessary to criticise the
+tendency, found in certain idealists, to treat psychology merely as a
+special science. This view of psychology is attained, Dewey observes, by
+regarding man under two arbitrarily determined aspects. Taken as a
+finite being acting amid finite things, a knowing, willing, feeling
+phenomenon, man is said to be the object of a special science,
+psychology. But in another aspect man is infinite, the universal
+self-consciousness, and as such is the object of philosophy. This
+distinction between the two aspects of man's nature, Dewey believes,
+cannot be maintained. As a distinction, it must arise within
+consciousness, and it must therefore be a psychological distinction.
+Psychology cannot limit itself to anything less than the whole of
+experience, and cannot, therefore, be a special science dependent, like
+others, upon philosophy for its working concepts. On the contrary, the
+method of psychology must be the method of philosophy.
+
+Dewey reaches this result quite easily, because he makes psychology the
+science of reality to begin with. "The universe," he says, "except as
+realized in an individual, has no existence.... Self-consciousness means
+simply an individualized universe; and if this universe has _not_ been
+realized in man, if man be not self-conscious, then no philosophy
+whatever is possible. If it _has_ been realized, it is in and through
+psychological experience that this realization has occurred. Psychology
+is the scientific account of this realization, of this individualized
+universe, of this self-consciousness."[7]
+
+It is difficult to understand exactly what these expressions meant for
+Dewey. Granting that the human mind is both individual and universal,
+what objection could be raised against the study of its individual or
+finite aspects as the special subject-matter of a particular science?
+All the sciences, as Dewey was aware, are abstract in method. Dewey's
+position appears to be that the universal and individual aspects of
+consciousness are nothing apart from each other, and must be studied
+together. But 'consciousness' in Dewey's view is, in fact, two
+consciousnesses. Reality as a whole is a Consciousness, and the
+individual mind is another consciousness. A problem arises, therefore,
+as to their connection. Dewey affirms that, unless they are united,
+unless the universal is given in the individual consciousness, there can
+be no science of the whole, and therefore no philosophy. The
+epistemological problem of the relation of the mind to reality becomes,
+accordingly, the _raison d'etre_ of his method. The problem was an
+inheritance from subjective idealism. It may be pointed out that there
+is some similarity between Dewey's standpoint and Berkeley's. Both
+conceive of consciousness as a construct of elements, and Dewey's
+'Consciousness in general' holds much the same relation to the finite
+consciousness that the Divine Mind holds to the individual consciousness
+in Berkeley's system. The similarity between the two standpoints must
+not be overemphasized, but it is none the less suggestive and
+interesting.
+
+In attempting to determine the proper status of psychology as a science,
+Dewey is led into a more detailed exposition of his standpoint. His
+position in general is well indicated in the following passage: "In
+short, the real _esse_ of things is neither their _percipi_, nor their
+_intelligi_ alone; it is their _experiri_."[8] The science of the
+_intelligi_ is logic, and of the _percipi_, philosophy of nature. But
+these are abstractions from the _experiri_, the science of which is
+psychology. If it be denied that the _experiri_, self-consciousness in
+its wholeness, can be the subject-matter of psychology, then the
+possibility of philosophy is also denied. "If man, as matter of fact,
+does not realise the nature of the eternal and the universal _within_
+himself, as the essence of his own being; if he does not at one stage of
+his experience consciously, and in all stages implicitly, lay hold of
+this universal and eternal, then it is mere matter of words to say that
+he can give no account of things as they universally and eternally are.
+To deny, therefore, that self-consciousness is a matter of psychological
+experience is to deny the possibility of any philosophy."[9] Dewey
+assures us again that his method alone will solve the epistemological
+problem.
+
+Self-consciousness, as that within which things exist _sub specie
+aeternitatis_ and _in ordine ad universum_, must be the object of
+psychology. The refusal to take self-consciousness as an experienced
+fact, Dewey says, results in such failures as are seen in Kant, Hegel,
+and even Green and Caird, to give any adequate account of the nature of
+the Absolute. Kant, for purely logical reasons, denied that
+self-consciousness could be an object of experience, although he
+admitted conceptions and perceptions as matters of experience. As a
+result of his attitude, conception and perception were never brought
+into organic connection; the self-conscious, eternal order of the world
+was referred to something back of experience. Dewey attributes Kant's
+failure to his logical method, which led him away from the psychological
+standpoint in which he would have found self-consciousness as a directly
+presented fact.
+
+This criticism of Kant's 'logical method' fails to take account of the
+transitional nature of Kant's standpoint. Looking backward, it is easy
+enough to ask why Kant did not begin with the organic view of experience
+at which he finally arrived. But the answer must be that the organic
+standpoint did not exist until Kant, by his 'logical method,' had
+brought it to light. The Kantian interpretation of experience, in which,
+as Dewey asserts, conception and perception were never brought into
+organic relation, is a half-way stage between mechanism and organism.
+But how does Dewey propose to improve upon Kant's position? He will
+first of all put Kant's noumenal self back into experience, as a fact in
+consciousness. But how will this help to bring perception and conception
+into closer union? There seems to be no answer. Dewey's view appears to
+be that organic relations are achieved whenever an object is made a part
+of experience and so brought into connection with other experienced
+facts. 'Organic relation' is interpreted as equivalent to 'mental
+relation.' But mental relations are not organic because they are mental.
+It would be as easy to assert that they are mechanical. The test lies in
+the nature of the relations which are actually found in the mental
+sphere and the fitness of the organic categories to express them.
+Dewey's 'consciousness,' as has been said before, appears to be a
+structure, not an organism. Its parts are external to each other,
+however closely they may be related. An organic view of experience would
+begin with a denial of the actuality of bare facts or sensations, and
+would not waver in maintaining that standpoint to the end.
+
+Hegel's advance upon Kant, Dewey continues, "consisted essentially in
+showing that Kant's _logical_ standard was erroneous, and that, as a
+matter of logic, the only true criterion or standard was the organic
+notion, or _Begriff_, which is a systematic totality, and accordingly
+able to explain both itself and also the simpler processes and
+principles."[10] The logical reformation which Hegel accomplished was
+most important, but the work of Kant still needed to be completed by
+"showing self-consciousness as a fact of experience, as well as
+perception through organic forms and thinking through organic
+principles."[11] This element is latent in Hegel, Dewey believes, but
+needs to be brought out.
+
+T. H. Green comes under the same criticism. He followed Kant's logical
+method, and as a consequence arrived at the same negative results. The
+nature of self-consciousness remains unknown to Green; he can affirm its
+existence, but cannot describe its nature. Dewey quotes that passage
+from the _Prolegomena to Ethics_ in which Green says:[12] "As to what
+that consciousness in itself or in its completeness is, we can only
+make negative statements. _That_ there is such a consciousness is
+implied in the existence of the world; but _what_ it is we only know
+through its so far acting in us as to enable us, however partially and
+interruptedly, to have knowledge of a world or an intelligent
+experience." If, Dewey observes, Green had begun with the latter point
+of view, and had taken self-consciousness as at least partially realized
+in finite minds, he would have been able to make some positive
+statements about it. Dewey, however, has not given the most adequate
+interpretation of Green's 'Spiritual Principle in Nature.' This was
+evidently, for Green, a symbol of the intelligibility of the world as
+organically conceived, an order which could not be comprehended by the
+mechanical categories, but which was nevertheless real. As Green tended
+to hypostatize the organic conception, so Dewey would make it a concrete
+reality, with the further specification that it must be something given
+to psychological observation.
+
+The chief point of Dewey's criticism of the idealists is that they fail
+to establish self-consciousness as an experienced fact; and, Dewey
+maintains, it must be so established if it is to be anything real and
+genuine. If it is anything that can be discussed at all, it must be an
+element in experience; and if it is in experience, it must be the
+subject-matter of psychology. It is inevitable, from Dewey's standpoint,
+that transcendentalism should adopt his psychological method.
+
+In the further development of his standpoint, Dewey considers (1) the
+relations of psychology to the special sciences, and (2) the relation of
+psychology to logic. Dewey's conception of the relation of psychology to
+the special sciences is well illustrated in the following passage:
+"Mathematics, physics, biology exist, because conscious experience
+reveals itself to be of such a nature, that one may make virtual
+abstraction from the whole, and consider a part by itself, without
+damage, so long as the treatment is purely scientific, that is, so long
+as the implicit connection with the whole is left undisturbed, and the
+attempt is not made to present this partial science as metaphysic, or as
+an explanation of the whole, as is the usual fashion of our uncritical
+so-called 'scientific philosophies.' Nay more, this abstraction of some
+one sphere is itself a living function of the psychologic experience. It
+is not merely something which it allows: it is something which it
+_does_. It is the analytic aspect of its own activity, whereby it
+deepens and renders explicit, realizes its own nature.... The analytic
+movement constitutes the special sciences; the synthetic constitutes the
+philosophy of nature; the self-developing activity itself, as
+psychology, constitutes philosophy."[13]
+
+The special sciences are regarded as abstractions from the central or
+psychological point of view, but they are legitimate abstractions,
+constituted by a proper analytic movement of the total
+self-consciousness, which specifies itself into the special branches of
+knowledge. If we begin with any special science, and drive it back to
+its fundamentals, it reveals its abstractness, and thought is led
+forward into other sciences, and finally into philosophy, as the science
+of the whole. But philosophy, first appearing as a special science,
+turns out to be science; it is presupposed in all the special sciences,
+and is their basis. But where does psychology stand in this
+classification?
+
+At first sight psychology appears to be a special science, abstract like
+the others. "As to systematic observation, experiment, conclusion and
+verification, it can differ in no essential way from any one of
+them."[14] But psychology, like philosophy, turns out to be a science of
+the whole. Each special science investigates a special sphere of
+conscious experience. "From one science to another we go, asking for
+some explanation of conscious experience, until we come to
+psychology.... But the very process that has made necessary this new
+science reveals also that each of the former sciences existed only in
+abstraction from it. Each dealt with some one phase of conscious
+experience, and for that very reason could not deal with the totality
+which gave it its being, consciousness."[15] Philosophy and psychology
+therefore mainly coincide, and the method of psychology, properly
+developed, becomes the method of philosophy.
+
+If psychology is to be identified with philosophy in this fashion, the
+mere change of name would seem to be superfluous. There would be no
+reason for maintaining psychology as a separate discipline. Perhaps
+Dewey did not intend that it should be maintained separately. In that
+case, the total effect of his argument would be to prescribe certain
+methods for philosophy. It seems necessary to suppose that Dewey
+proposed to merge philosophy in psychology, and make it an exact science
+while retaining its universality. "Science," he argued, "is the
+systematic account, or _reason_ of _fact_; Psychology is the completed
+systematic account of the ultimate fact, which, as fact, reveals itself
+as reason...."[16] Self-consciousness in its ultimate nature is
+conceived of as a special fact, over and above what it includes in the
+way of particulars. Psychology, as the science of this ultimate fact,
+must at the same time be philosophy. The identification of the two
+disciplines depends upon taking the 'wholeness' of reality as a 'fact,'
+which can be brought under observation. This is a natural conclusion
+from Dewey's structural view of reality.
+
+In taking up the subject of the relation of psychology to logic, Dewey
+remarks that in philosophy matter and form cannot be separated.
+"Self-consciousness is the final truth, and in self-consciousness the
+form as organic system and the content as organized system are exactly
+equal to each other."[17] Logic abstracts from the whole, gives us only
+the form, or _intelligi_ of reality, and is therefore only one moment in
+philosophy. Since logic is an abstraction from Nature, we cannot get
+from logic back to Nature, by means of logic. We do, as a matter of
+fact, make the transition in philosophy, because the facts force us back
+to Nature. Just as in Hegel's logic, the category of quality, when
+pressed, reveals itself as inadequate to express the facts, and is
+compelled to pass into the category of quantity, so does logic as a
+whole, when pressed, reveal its inadequacy to express the whole of
+reality. The transition from category to category in the Hegelian logic
+is not an unfolding of the forms as forms, but results from a compulsion
+exerted by the facts, when the categories are used to explain them.
+Logic is, and must remain, abstract in all its processes, and its
+outcome (with Hegel, _Geist_) may assert the abstract necessity of one
+self-conscious whole, but cannot give the reality. "Logic cannot reach,
+however much it may point to, an actual individual. The gathering up of
+the universe into one self-conscious individuality it may assert as
+_necessary_, it cannot give it as _reality_."[18] Taken as an abstract
+method, logic is apt to result in a pantheism, "where the only real is
+the _Idee_, and where all its factors and moments, including spirit and
+nature, are real only at different stages or phases of the _Idee_, but
+vanish as imperfect ways of looking at things ... when we reach the
+_Idee_."[19]
+
+Dewey has in mind logic as a science of the forms of reality taken in
+abstraction from their content. In reality, however, there can be no
+logic of concepts apart from their concrete application. Hegel certainly
+never believed that it was possible to abstract the logical forms from
+reality and study them in their isolation. As against a purely formal
+logic, if such a thing were possible, Dewey's criticism would be valid,
+but the transcendental logic of his time was not formal in this sense.
+The psychological method which Dewey offers as a substitute for the
+logical method escapes, he believes, the difficulties of the latter
+method. At the same time it preserves, in his opinion, the essential
+spirit of the Hegelian method. Dewey's comments show that he conceives
+his method to be a restatement, in improved form, of the doctrine of the
+'concrete universal.' But the 'psychological method' and the method of
+idealism are, if anything, antithetical. An excellent summary of Dewey's
+theory is afforded by the following passage: "Only a living actual Fact
+can preserve within its unity that organic system of differences in
+virtue of which it lives and moves and has its being. It is with this
+fact, conscious experience in its entirety, that psychology as method
+begins. It thus brings to clear light of day the presupposition implicit
+in every philosophy, and thereby affords logic, as well as the
+philosophy of nature, its basis, ideal and surety. If we have determined
+the nature of reality, by a process whose content equals its form, we
+can show the meaning, worth and limits of any one moment of this
+reality."[20]
+
+It would be useless to speculate upon the various possible
+interpretations that might be given of Dewey's psychological method. The
+most critical examination of the text will not dispel its vagueness, nor
+afford an answer to the many questions that arise. It does, however,
+throw an interesting light on certain tendencies in Dewey's own
+thinking.
+
+Dewey's attempt to show that English empiricism and transcendentalism
+have a common psychological basis must be regarded as a failure. That
+the nature of the attempt reveals a misunderstanding, or fatal lack of
+appreciation, on the part of Dewey, of the critical philosophy and the
+later development of idealism by Hegel, has already been suggested. He
+does not appear to have grasped the significance of the movement from
+Kant to Hegel. Kant, of course, believed that the _a priori_ forms of
+experience could be determined by a process of critical analysis, which
+would reveal them in their purity. The constitutive relations of
+experience were supposed by him to be limited to the pure forms of
+sensibility, space and time, and the twelve categories of the
+understanding, which, being imposed upon the manifold of sensations, as
+organized by the productive imagination, determined once and for all the
+order of the phenomenal world. His logic, therefore, as an account of
+the forms of experience, would represent logic of the type which Dewey
+criticized. But with the rejection of Kant's noumenal world, the
+critical method assumed a different import. It was no longer to be
+supposed that reality, as knowable, was organized under the forms of a
+determinate number of categories, which could be separated out and
+classified. Kant's idea that experience was an intelligible system was
+retained, but its intelligibility was not supposed to be wholly
+comprised in man's methods of knowing it. The instrumental character of
+the categories was recognized. Criticism was directed upon the
+categories, with the object of determining their validity, spheres of
+relevance, and proper place in the system of knowledge. Such a
+criticism, in the nature of things, could not deal with the forms of
+thought in abstraction from their application. Direct reference to
+experience, therefore, became a necessary element in idealism. At the
+same time, philosophy became a 'criticism of categories.' The method is
+empirical, but never psychological.
+
+Dewey recognized the need of an empirical method in philosophy, but
+failed to show specifically how psychology could deal with philosophical
+problems. He appears to have conceived that sensation and meaning, facts
+and forms, were present in experience or 'Consciousness,' as if this
+were some total understanding which retained the elements in a fixed
+union and order. While, according to his method, the forms of this
+universal consciousness could not be considered apart from the
+particulars in which they inhered, they might be studied by a survey of
+experience, a direct appeal to consciousness, in which 'form and content
+are equal.' He seems to have held that truth is given in immediate
+experience. A study of reality as immediately given, therefore, to
+psychological observation, would provide an account of the eternal
+nature of things, as they stand in the universal mind. Dewey did not
+attempt a criticism of the categories and methods which psychology must
+employ in such a task. Had he done so, the advantages of a critical
+method might have occurred to him.
+
+FOOTNOTES:
+
+[2] Vol. XI, pp. 1-19; pp. 153-173.
+
+[3] "Illusory Psychology," _Mind_, Vol. XI, 1886, p. 478.
+
+[4] "The Psychological Standpoint," _Mind_, 1886, Vol. XI, p. 2.
+
+[5] _Ibid._, p. 7.
+
+[6] _Op. cit._, p. 8 f.
+
+[7] "Psychology as Philosophic Method," _Mind_, 1886, Vol. XI, p. 157.
+
+[8] _Ibid._, p. 160. (Observe that this is a direct reference to
+Berkeley.)
+
+[9] _Op. cit._
+
+[10] _Op. cit._, p. 161.
+
+[11] _Ibid._
+
+[12] Third Edition, p. 54.
+
+[13] _Mind_, Vol. XI, p. 166 f.
+
+[14] _Ibid._, p. 166.
+
+[15] _Ibid._
+
+[16] _Op. cit._, p. 170.
+
+[17] _Ibid._
+
+[18] _Op. cit._, p. 172.
+
+[19] _Ibid._
+
+[20] _Op. cit._
+
+
+
+

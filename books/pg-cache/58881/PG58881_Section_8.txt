@@ -1,0 +1,862 @@
+CHAPTER IX.
+
+_THE APPLICATION OF THE CALCULUS OF PROBABILITIES TO NATURAL PHILOSOPHY._
+
+
+The phenomena of nature are most often enveloped by so many strange
+circumstances, and so great a number of disturbing causes mix their
+influence, that it is very difficult to recognize them. We may arrive at
+them only by multiplying the observations or the experiences, so that
+the strange effects finally destroy reciprocally each other, the mean
+results putting in evidence those phenomena and their divers elements.
+The more numerous the number of observations and the less they vary
+among themselves the more their results approach the truth. We fulfil
+this last condition by the choice of the methods of observations, by the
+precision of the instruments, and by the care which we take to observe
+closely; then we determine by the theory of probabilities the most
+advantageous mean results or those which give the least value of the
+error. But that is not sufficient; it is further necessary to appreciate
+the probability that the errors of these results are comprised in the
+given limits; and without this we have only an imperfect knowledge of
+the degree of exactitude obtained. Formulæ suitable to these matters are
+then true improvements of the method of sciences, and it is indeed
+important to add them to this method. The analysis which they require is
+the most delicate and the most difficult of the theory of probabilities;
+it is one of the principal objects of the work which I have published
+upon this theory, and in which I have arrived at formulæ of this kind
+which have the remarkable advantage of being independent of the law of
+the probability of errors and of including only the quantities given by
+the observations themselves and their expressions.
+
+Each observation has for an analytic expression a function of the
+elements which we wish to determine; and if these elements are nearly
+known, this function becomes a linear function of their corrections. In
+equating it to the observation itself there is formed _an equation of
+condition._ If we have a great number of similar equations, we combine
+them in such a manner as to obtain as many final equations as there are
+elements whose corrections we determine then by resolving these
+equations. But what is the most advantageous manner of combining
+equations of condition in order to obtain final equations? What is the
+law of the probabilities of errors of which the elements are still
+susceptible that we draw from them? This is made clear to us by the
+theory of probabilities. The formation of a final equation by means of
+the equation of condition amounts to multiplying each one of these by an
+indeterminate factor and by uniting the products; it is necessary to
+choose the system of factors which gives the smallest opportunity for
+error. But it is apparent that if we multiply the possible errors of an
+element by their respective probabilities, the most advantageous system
+will be that in which the sum of these products all, taken, positively
+is a _minimum_; for a positive or a negative error ought to be
+considered as a loss. Forming, then, this sum of products, the condition
+of the _minimum_ will determine the system of factors which it is
+expedient to adopt, or the most advantageous system. We find thus that
+this system is that of the coefficients of the elements in each equation
+of condition; so that we form a first final equation by multiplying
+respectively each equation of condition by its coefficient of the first
+element and by uniting all these equations thus multiplied. We form a
+second final equation by employing in the same manner the coefficients
+of the second element, and so on. In this manner the elements and the
+laws of the phenomena obtained in the collection of a great number of
+observations are developed with the most evidence.
+
+The probability of the errors which each element still leaves to be
+feared is proportional to the number whose hyperbolic logarithm is unity
+raised to a power equal to the square of the error taken as a minus
+quantity and multiplied by a constant coefficient which may be
+considered as the modulus of the probability of the errors; because, the
+error remaining the same, its probability decreases with rapidity when
+the former increases; so that the element obtained weighs, if I may thus
+speak toward the truth, as much more as this modulus is greater. I would
+call for this reason this modulus the _weight_ of the element or of the
+result. This weight is the greatest possible in the system of
+factors—the most advantageous; it is this which gives to this system
+superiority over others. By a remarkable analogy of this weight with
+those of bodies compared at their common centre of gravity it results
+that if the same element is given by divers systems, composed each of a
+great number of observations, the most advantageous, the mean result of
+their totality is the sum of the products of each partial result by its
+weight. Moreover, the total weight of the results of the divers systems
+is the sum of their partial weights; so that the probability of the
+errors of the mean result of their totality is proportional to the
+number which has unity for an hyperbolic logarithm raised to a power
+equal to the square of the error taken as minus and multiplied by the
+sum of the weights. Each weight depends in truth upon the law of the
+probability of error of each system, and almost always this law is
+unknown; but happily I have been able to eliminate the factor which
+contains it by means of the sum of the squares of the variations of the
+observations in this system from their mean result. It would then be
+desirable in order to complete our knowledge of the results obtained by
+the totality of a great number of observations that we write by the side
+of each result the weight which corresponds to it; analysis furnishes
+for this object both general and simple methods. When we have thus
+obtained the exponential which represents the law of the probability of
+errors, we shall have the probability that the error of the result is
+included within given limits by taking within the limits the integral of
+the product of this exponential by the differential of the error and
+multiplying it by the square root of the weight of the result divided by
+the circumference whose diameter is unity. Hence it follows that for the
+same probability the errors of the results are reciprocal to the square
+roots of their weights, which serves to compare their respective
+precision.
+
+In order to apply this method with success it is necessary to vary the
+circumstances of the observations or the experiences in such a manner as
+to avoid the constant causes of error. It is necessary that the
+observations should be numerous, and that they should be so much the
+more so as there are more elements to determine; for the weight of the
+mean result increases as the number of observations divided by the
+number of the elements. It is still necessary that the elements follow
+in these observations a different course; for if the course of the two
+elements were exactly the same, which would render their coefficients
+proportional in equation of conditions, these elements would form only a
+single unknown quantity and it would be impossible to distinguish them
+by these observations. Finally it is necessary that the observations
+should be precise; this condition, the first of all, increases greatly
+the weight of the result the expression of which has for a divisor the
+sum of the squares of the deviations of the observations from this
+result. With these precautions we shall be able to make use of the
+preceding method and measure the degree of confidence which the results
+deduced from a great number of observations merit.
+
+The rule which we have just given to conclude equations of condition,
+final equations, amount to rendering a minimum the sum of the squares of
+the errors of observations; for each equation of condition becomes exact
+by substituting in it the observation plus its error; and if we draw
+from it the expression of this error, it is easy to see that the
+condition of the _minimum_ of the sum of the squares of these
+expressions gives the rule in question. This rule is the more precise as
+the observations are more numerous; but even in the case where their
+number is small it appears natural to employ the same rule which in all
+cases offers a simple means of obtaining without groping the corrections
+which we seek to determine. It serves further to compare the precision
+of the divers astronomical tables of the same star. These tables may
+always be supposed as reduced to the same form, and then they differ
+only by the epochs, the mean movements and the coefficients of the
+arguments; for if one of them contains a coefficient which is not found
+in the others, it is clear that this amounts to supposing zero in them
+as the coefficient of this argument. If now we rectify these tables by
+the totality of the good observations, they would satisfy the condition
+that the sum of the squares of the errors should be a minimum; the
+tables which, compared to a considerable number of observations,
+approach nearest this condition merit then the preference.
+
+It is principally in astronomy that the method explained above may be
+employed with advantage. The astronomical tables owe the truly
+astonishing exactitude which they have attained to the precision of
+observations and of theories, and to the use of equations of conditions
+which cause to concur a great number of excellent observations in the
+correction of the same element. But it remains to determine the
+probability of the errors that this correction leaves still to be
+feared; and the method which I have just explained enables us to
+recognize the probability of these errors. In order to give some
+interesting applications of it I have profited by the immense work which
+M. Bouvard has just finished on the movements of Jupiter and Saturn, of
+which he has formed very precise tables. He has discussed with the
+greatest care the oppositions and quadratures of these two planets
+observed by Bradley and by the astronomers who have followed him down to
+the last years; he has concluded the corrections of the elements of
+their movement and their masses compared to that of the sun taken as
+unity. His calculations give him the mass of Saturn equal to the 3512th
+part of that of the sun. Applying to them my formulæ of probability, I
+find that it is a bet of 11,000 against one that the error of this
+result is not 1/100 of its value, or that which amounts to almost the
+same—that after a century of new observations added to the preceding
+ones, and examined in the same manner, the new result will not differ by
+1/100 from that of M. Bouvard. This wise astronomer finds again the mass
+of Jupiter equal to the 1071th part of the sun; and my method of
+probability gives a bet of 1,000,000 to one that this result is not
+1/100 in error.
+
+This method may be employed again with success in geodetic operations.
+We determine the length of the great arc on the surface of the earth by
+triangulation, which depends upon a base measured with exactitude. But
+whatever precision may be brought to the measure of the angles, the
+inevitable errors can, by accumulating, cause the value of the arc
+concluded from a great number of triangles to deviate appreciably from
+the truth. We recognize this value, then, only imperfectly unless the
+probability that its error is comprised within given limits can be
+assigned. The error of a geodetic result is a function of the errors of
+the angles of each triangle. I have given in the work cited general
+formulæ in order to obtain the probability of the values of one or of
+several linear functions of a great number of partial errors of which we
+know the law of probability; we may then by means of these formulæ
+determine the probability that the error of a geodetic result is
+contained within the assigned limits, whatever may be the law of the
+probability of partial errors. It is moreover more necessary to render
+ourselves independent of the law, since the most simple laws themselves
+are always infinitely less probable, seeing the infinite number of those
+which may exist in nature. But the unknown law of partial errors
+introduces into the formulæ an indeterminant which does not permit of
+reducing them to numbers unless we are able to eliminate it. We have
+seen that in astronomical questions, where each observation furnishes an
+equation of condition for obtaining the elements, we eliminate this
+determinant by means of the sum of the squares of the remainders when
+the most probable values of the elements have been substituted in each
+equation. Geodetic questions not offering similar equations, it is
+necessary to seek another means of elimination. The quantity by which
+the sum of the angles of each observed triangle surpasses two right
+angles plus the spherical excess furnishes this means. Thus we replace
+by the sum of the squares of these quantities the sum of the squares of
+the remainders of the equations of condition; and we may assign in
+numbers the probability that the error of the final result of a series
+of geodetic operations will not exceed a given quantity. But what is the
+most advantageous manner of dividing among the three angles of each
+triangle the observed sum of their errors? The analysis of probabilities
+renders it apparent that each angle ought to be diminished by a third of
+this sum, provided that the weight of a geodetic result be the greatest
+possible, which renders the same error less probable. There is then a
+great advantage in observing the three angles of each triangle and of
+correcting them as we have just said. Simple common sense indicates this
+advantage; but the calculation of probabilities alone is able to
+appreciate it and to render apparent that by this correction it becomes
+the greatest possible.
+
+In order to assure oneself of the exactitude of the value of a great arc
+which rests upon a base measured at one of its extremities one measures
+a second base toward the other extremity; and one concludes from one of
+these bases the length of the other. If this length varies very little
+from the observation, there is all reason to believe that the chain of
+triangles which unites these bases is very nearly exact and likewise the
+value of the large arc which results from it. One corrects, then, this
+value by modifying the angles of the triangles in such a manner that the
+base is calculated according to the bases measured. But this may be done
+in an infinity of ways, among which is preferred that of which the
+geodetic result has the greatest weight, inasmuch as the same error
+becomes less probable. The analysis of probabilities gives formulæ for
+obtaining directly the most advantageous correction which results from
+the measurements of the several bases and the laws of probability which
+the multiplicity of the bases makes—laws which become very rapidly
+decreasing by this multiplicity.
+
+Generally the errors of the results deduced from a great number of
+observations are the linear functions of the partial errors of each
+observation. The coefficients of these functions depend upon the nature
+of the problem and upon the process followed in order to obtain the
+results. The most advantageous process is evidently that in which the
+same error in the results is less probable than according to any other
+process. The application of the calculus of probabilities to natural
+philosophy consists, then, in determining analytically the probability
+of the values of these functions and in choosing their indeterminant
+coefficients in such a manner that the law of this probability should be
+most rapidly descending. Eliminating, then, from the formulæ by the data
+of the question the factor which is introduced by the almost always
+unknown law of the probability of partial errors, we may be able to
+evaluate numerically the probability that the errors of the results do
+not exceed a given quantity. We shall thus have all that may be desired
+touching the results deduced from a great number of observations.
+
+Very approximate results may be obtained by other considerations.
+Suppose, for example, that one has a thousand and one observations of
+the same quantity; the arithmetical mean of all these observations is
+the result given by the most advantageous method. But one would be able
+to choose the result according to the condition that the sum of the
+variations from each partial value all taken positively should be a
+_minimum_. It appears indeed natural to regard as very approximate the
+result which satisfies this condition. It is easy to see that if one
+disposes the values given by the observations according to the order of
+magnitude, the value which will occupy the mean will fulfil the
+preceding condition, and calculus renders it apparent that in the case
+of an infinite number of observations it would coincide with the truth;
+but the result given by the most advantageous method is still preferable.
+
+We see by that which precedes that the theory of probabilities leaves
+nothing arbitrary in the manner of distributing the errors of the
+observations; it gives for this distribution the most advantageous
+formulæ which diminishes as much as possible the errors to be feared in
+the results.
+
+The consideration of probabilities can serve to distinguish the small
+irregularities of the celestial movements enveloped in the errors of
+observations, and to repass to the cause of the anomalies observed in
+these movements.
+
+In comparing all the observations it was Ticho-Brahé who recognized the
+necessity of applying to the moon an equation of time different from
+that which had been applied to the sun and to the planets. It was
+similarly the totality of a great number of observations which made
+Mayer recognize that the coefficient of the inequality of the precession
+ought to be diminished a little for the moon. But since this diminution,
+although confirmed and even augmented by Mason, did not appear to result
+from universal gravitation, the majority of astronomers neglect it in
+their calculations. Having submitted to the calculation of probabilities
+a considerable number of lunar observations chosen for this purpose and
+which M. Bouvard consented to examine at my request, it appeared to me
+to be indicated with so strong a probability that I believed the cause
+of it ought to be investigated. I soon saw that it would be only the
+ellipticity of the terrestrial spheroid, neglected up to that time in
+the theory of the lunar movement as being able to produce only
+imperceptible terms. I concluded that these terms became perceptible by
+the successive integrations of differential equations. I determined then
+those terms by a particular analysis, and I discovered first the
+inequality of the lunar movement in latitude which is proportional to
+the sine of the longitude of the moon, which no astronomer before had
+suspected. I recognized then by means of this inequality that another
+exists in the lunar movement in longitude which produces the diminution
+observed by Mayer in the equation of the precession applicable to the
+moon. The quantity of this diminution and the coefficient of the
+preceding inequality in latitude are very appropriate to fix the
+oblateness of the earth. Having communicated my researches to M. Burg,
+who was occupied at that time in perfecting the tables of the moon by
+the comparison of all the good observations, I requested him to
+determine with a particular care these two quantities. By a very
+remarkable agreement the values which he has found give to the earth the
+same oblateness, 1/305, which differs little from the mean derived from
+the measurements of the degrees of the meridian and the pendulum; but
+those regarded from the point of view of the influence of the errors of
+the observations and of the perturbing causes in these measurements, did
+not appear to me exactly determined by these lunar inequalities.
+
+It was again by the consideration of probabilities that I recognized the
+cause of the secular equation of the moon. The modern observations of
+this star compared to the ancient eclipses had indicated to astronomers
+an acceleration in the lunar movement; but the geometricians, and
+particularly Lagrange, having vainly sought in the perturbations which
+this movement experienced the terms upon which this acceleration
+depends, reject it. An attentive examination of the ancient and modern
+observations and of the intermediary eclipses observed by the Arabians
+convinced me that it was indicated with a great probability. I took up
+again then from this point of view the lunar theory, and I recognized
+that the secular equation of the moon is due to the action of the sun
+upon this satellite, combined with the secular variation of the
+eccentricity of the terrestrial orb; this brought me to the discovery of
+the secular equations of the movements of the nodes and of the perigees
+of the lunar orbit, which equations had not been even suspected by
+astronomers. The very remarkable agreement of this theory with all the
+ancient and modern observations has brought it to a very high degree of
+evidence.
+
+The calculus of probabilities has led me similarly to the cause of the
+great irregularities of Jupiter and Saturn. Comparing modern
+observations with ancient, Halley found an acceleration in the movement
+of Jupiter and a retardation in that of Saturn. In order to conciliate
+the observations he reduced the movements to two secular equations of
+contrary signs and increasing as the squares of the times passed since
+1700. Euler and Lagrange submitted to analysis the alterations which the
+mutual attraction of these two planets ought to produce in these
+movements. They found in doing this the secular equations; but their
+results were so different that one of the two at least ought to be
+erroneous. I determined then to take up again this important problem of
+_celestial mechanics_, and I recognized the invariability of the mean
+planetary movements, which nullified the secular equations introduced by
+Halley in the tables of Jupiter and Saturn. Thus there remain, in order
+to explain the great irregularity of these planets, only the attractions
+of the comets to which many astronomers had effective recourse, or the
+existence of an irregularity over a long period produced in the
+movements of the two planets by their reciprocal action and affected by
+contrary signs for each of them. A theorem which I found in regard to
+the inequalities of this kind rendered this inequality very probable.
+According to this theorem, if the movement of Jupiter is accelerated,
+that of Saturn is retarded, which has already conformed to what Halley
+had noticed; moreover, the acceleration of Jupiter resulting from the
+same theorem is to the retardation of Saturn very nearly in the ratio of
+the secular equations proposed by Halley. Considering the mean movements
+of Jupiter and Saturn I was enabled easily to recognize that two times
+that of Jupiter differed only by a very small quantity from five times
+that of Saturn. The period of an irregularity which would have for an
+argument this difference would be about nine centuries. Indeed its
+coefficient would be of the order of the cubes of the eccentricities of
+the orbits; but I knew that by virtue of successive integrations it
+acquired for divisor the square of the very small multiplier of the time
+in the argument of this inequality which is able to give it a great
+value; the existence of this inequality appeared to me then very
+probable. The following observation increased then its probability.
+Supposing its argument zero toward the epoch of the observations of
+Ticho-Brahé, I saw that Halley ought to have found by the comparison of
+modern with ancient observations the alterations which he had indicated;
+while the comparison of the modern observations among themselves ought
+to offer contrary alterations similar to those which Lambert had
+concluded from this comparison. I did not then hesitate at all to
+undertake this long and tedious calculation necessary to assure myself
+of this inequality. It was entirely confirmed by the result of this
+calculation, which moreover made me recognize a great number of other
+inequalities of which the totality has inclined the tables of Jupiter
+and Saturn to the precision of the same observations.
+
+It was again by means of the calculus of probabilities that I recognized
+the remarkable law of the mean movements of the three first satellites
+of Jupiter, according to which the mean longitude of the first minus
+three times that of the second plus two times that of the third is
+rigorously equal to the half-circumference. The approximation with which
+the mean movements of these stars satisfy this law since their discovery
+indicates its existence with an extreme probability. I sought then the
+cause of it in their mutual action. The searching examination of this
+action convinced me that it was sufficient if in the beginning the
+ratios of their mean movements had approached this law within certain
+limits, because their mutual action had established and maintained it
+rigorously. Thus these three bodies will balance one another eternally
+in space according to the preceding law unless strange causes, such as
+comets, should change suddenly their movements about Jupiter.
+
+Accordingly it is seen how necessary it is to be attentive to the
+indications of nature when they are the result of a great number of
+observations, although in other respects they may be inexplicable by
+known means. The extreme difficulty of problems relative to the system
+of the world has forced geometricians to recur to the approximation
+which always leaves room for the fear that the quantities neglected may
+have an appreciable influence. When they have been warned of this
+influence by the observations, they have recurred to their analysis; in
+rectifying it they have always found the cause of the anomalies
+observed; they have determined the laws and often they have anticipated
+the observations in discovering the inequalities which it had not yet
+indicated. Thus one may say that nature itself has concurred in the
+analytical perfection of the theories based upon the principle of
+universal gravity; and this is to my mind one of the strongest proofs of
+the truth of this admirable principle.
+
+In the cases which I have just considered the analytical solution of the
+question has changed the probability of the causes into certainty. But
+most often this solution is impossible and it remains only to augment
+more and more this probability. In the midst of numerous and
+incalculable modifications which the action of the causes receives then
+from strange circumstances these causes conserve always with the effects
+observed the proper ratios to make them recognizable and to verify their
+existence. Determining these ratios and comparing them with a great
+number of observations if one finds that they constantly satisfy it, the
+probability of the causes may increase to the point of equalling that of
+facts in regard to which there is no doubt. The investigation of these
+ratios of causes to their effects is not less useful in natural
+philosophy than the direct solution of problems whether it be to verify
+the reality of these causes or to determine the laws from their effects;
+since it may be employed in a great number of questions whose direct
+solution is not possible, it replaces it in the most advantageous
+manner. I shall discuss here the application which I have made of it to
+one of the most interesting phenomena of nature, the flow and the ebb of
+the sea.
+
+Pliny has given of this phenomenon a description remarkable for its
+exactitude, and in it one sees that the ancients had observed that the
+tides of each month are greatest toward the syzygies and smallest toward
+the quadratures; that they are higher in the perigees than in the
+apogees of the moon, and higher in the equinoxes than in the solstices.
+They concluded from this that this phenomenon is due to the action of
+the sun and moon upon the sea. In the preface of his work _De Stella
+Martis_ Kepler admits a tendency of the waters of the sea toward the
+moon; but, ignorant of the law of this tendency, he was able to give on
+this subject only a probable idea. Newton converted into certainty the
+probability of this idea by attaching it to his great principle of
+universal gravity. He gave the exact expression of the attractive forces
+which produced the flood and the ebb of the sea; and in order to
+determine the effects he supposed that the sea takes at each instant the
+position of equilibrium which is agreeable to these forces. He explained
+in this manner the principal phenomena of the tides; but it followed
+from this theory that in our ports the two tides of the same day would
+be very unequal if the sun and the moon should have a great declination.
+At Brest, for example, the evening tide would be in the syzygies of the
+solstices about eight times greater than the morning tide, which is
+certainly contrary to the observations which prove that these two tides
+are very nearly equal. This result from the Newtonian theory might hold
+to the supposition that the sea is agreeable at each instant to a
+position of equilibrium, a supposition which is not at all admissible.
+But the investigation of the true figure of the sea presents great
+difficulties. Aided by the discoveries which the geometricians had just
+made in the theory of the movement of fluids and in the calculus of
+partial differences, I undertook this investigation, and I gave the
+differential equations of the movement of the sea by supposing that it
+covers the entire earth. In drawing thus near to nature I had the
+satisfaction of seeing that my results approached the observations,
+especially in regard to the little difference which exists in our ports
+between the two tides of the solstitial syzygies of the same day. I
+found that they would be equal if the sea had everywhere the same depth;
+I found further that in giving to this depth convenient values one was
+able to augment the height of the tides in a port conformably to the
+observations. But these investigations, in spite of their generality,
+did not satisfy at all the great differences which even adjacent ports
+present in this regard and which prove the influence of local
+circumstances. The impossibility of knowing these circumstances and the
+irregularity of the basin of the seas and that of integrating the
+equations of partial differences which are relative has compelled me to
+make up the deficiency by the method I have indicated above. I then
+endeavored to determine the greatest ratios possible among the forces
+which affect all the molecules of the sea, and their effects observable
+in our ports. For this I made use of the following principle, which may
+be applied to many other phenomena.
+
+"The state of the system of a body in which the primitive conditions of
+the movement have disappeared by the resistances which this movement
+meets is periodic as the forces which animate it."
+
+Combining this principle with that of the coexistence of very small
+oscillations, I have found an expression of the height of the tides
+whose arbitraries contain the effect of local circumstances of each port
+and are reduced to the smallest number possible; it is only necessary to
+compare it to a great number of observations.
+
+Upon the invitation of the Academy of Sciences, observations were made
+at the beginning of the last century at Brest upon the tides, which were
+continued during six consecutive years. The situation of this port is
+very favorable to this sort of observations; it communicates with the
+sea by a canal which empties into a vast roadstead at the far end of
+which the port has been constructed. The irregularities of the sea
+extend thus only to a small degree into the port, just as the
+oscillations which the irregular movement of a vessel produces in a
+barometer are diminished by a throttling made in the tube of this
+instrument. Moreover, the tides being considerable at Brest, the
+accidental variations caused by the winds are only feeble; likewise we
+notice in the observations of these tides, however little we multiply
+them, a great regularity which induced me to propose to the government
+to order in this port a new series of observations of the tides,
+continued during a period of the movement of the nodes of the lunar
+orbit. This has been done. The observations began June 1, 1806; and
+since this time they have been made every day without interruption. I am
+indebted to the indefatigable zeal of M. Bouvard, for all that interests
+astronomy, the immense calculations which the comparison of my analysis
+with the observations has demanded. There have been used about six
+thousand observations, made during the year 1807 and the fifteen years
+following. It results from this comparison that my formulæ represent
+with a remarkable precision all the varieties of the tides relative to
+the digression of the moon, from the sun, to the declination of these
+stars, to their distances from the earth, and to the laws of variation
+at the _maximum_ and _minimum_ of each of these elements. There results
+from this accord a probability that the flow and the ebb of the sea is
+due to the attraction of the sun and moon, so approaching certainty that
+it ought to leave room for no reasonable doubt. It changes into
+certainty when we consider that this attraction is derived from the law
+of universal gravity demonstrated by all the celestial phenomena.
+
+The action of the moon upon the sea is more than double that of the sun.
+Newton and his successors in the development of this action have paid
+attention only to the terms divided by the cube of the distance from the
+moon to the earth, judging that the effects due to the following terms
+ought to be inappreciable. But the calculation of probabilities makes it
+clear to us that the smallest effects of regular causes may manifest
+themselves in the results of a great number of observations arranged in
+the order most suitable to indicate them. This calculation again
+determines their probability and up to what point it is necessary to
+multiply the observations to make it very great. Applying it to the
+numerous observations discussed by M. Bouvard I recognized that at Brest
+the action of the moon upon the sea is greater in the full moons than in
+the new moons, and greater when the moon is austral than when it is
+boreal—phenomena which can result only from the terms of the lunar
+action divided by the fourth power of the distance from the moon to the
+earth.
+
+To arrive at the ocean the action of the sun and the moon traverses the
+atmosphere, which ought consequently to feel its influence and to be
+subjected to movements similar to those of the sea.
+
+These movements produce in the barometer periodic oscillations. Analysis
+has made it clear to me that they are inappreciable in our climates. But
+as local circumstances increase considerably the tides in our ports, I
+have inquired again if similar circumstances have made appreciable these
+oscillations of the barometer. For this I have made use of the
+meteorological observations which have been made every day for many
+years at the royal observatory. The heights of the barometer and of the
+thermometer are observed there at nine o'clock in the morning, at noon,
+at three o'clock in the afternoon, and at eleven o'clock in the evening.
+M. Bouvard has indeed wished to take up the consideration of
+observations of the eight years elapsed from October 1, 1815, to October
+1, 1823, on the registers. In disposing the observations in the manner
+most suitable to indicate the lunar atmospheric flood at Paris, I find
+only one eighteenth of a millimeter for the extent of the corresponding
+oscillation of the barometer. It is this especially which has made us
+feel the necessity of a method for determining the probability of a
+result, and without this method one is forced to present as the laws of
+nature the results of irregular causes which has often happened in
+meteorology. This method applied to the preceding result shows the
+uncertainty of it in spite of the great number of observations employed,
+which it would be necessary to increase tenfold in order to obtain a
+result sufficiently probable.
+
+The principle which serves as a basis for my theory of the tides may be
+extended to all the effects of hazard to which variable causes are
+joined according to regular laws. The action of these causes produces in
+the mean results of a great number of effects varieties which follow the
+same laws and which one may recognize by the analysis of probabilities.
+In the measure which these effects are multiplied those varieties are
+manifested with an ever-increasing probability, which would approach
+certainty if the number of the effects of the results should become
+infinite. This theorem is analogous to that which I have already
+developed upon the action of constant causes. Every time, then, that a
+cause whose progress is regular can have influence upon a kind of
+events, we may seek to discover its influence by multiplying the
+observations and arranging them in the most suitable order to indicate
+it. When this influence appears to manifest itself the analysis of
+probabilities determines the probability of its existence and that of
+its intensity; thus the variation of the temperature from day to night
+modifying the pressure of the atmosphere and consequently the height of
+the barometer, it is natural to think that the multiplied observations
+of these heights ought to show the influence of the solar heat. Indeed
+there has long been recognized at the equator, where this influence
+appears to be greatest, a small diurnal variation in the height of the
+barometer of which the _maximum_ occurs about nine o'clock in the
+morning and the _minimum_ about three o'clock in the afternoon. A second
+_maximum_ occurs about eleven o'clock in the evening and a second
+_minimum_ about four o'clock in the morning. The oscillations of the
+night are less than those of the day, the extent of which is about two
+millimeters. The inconstancy of our climate has not taken this variation
+from our observers, although it may be less appreciable than in the
+tropics. M. Ramond has recognized and determined it at Clermont, the
+chief place of the district of Puy-de-Dôme, by a series of precise
+observations made during several years; he has even found that it is
+smaller in the months of winter than in other months. The numerous
+observations which I have discussed in order to estimate the influence
+of attractions of the sun and the moon upon the barometric heights at
+Paris have served me in determining their diurnal variation. Comparing
+the heights at nine o'clock in the morning with those of the same days
+at three o'clock in the afternoon, this variation is manifested with so
+much evidence that its mean value each month has been constantly
+positive for each of the seventy-two months from January 1, 1817, to
+January 1, 1823; its mean value in these seventy-two months has been
+almost .8 of a millimeter, a little less than at Clermont and much less
+than at the equator. I have recognized that the mean result of the
+diurnal variations of the barometer from 9 o'clock A.M. to 3 P.M. has
+been only .5428 millimeter in the three months of November, December,
+January, and that it has risen to 1.0563 millimeters in the three
+following months, which coincides with the observations of M. Ramond.
+The other months offer nothing similar.
+
+In order to apply to these phenomena the calculation of these
+probabilities, I commenced by determining the law of the probability of
+the anomalies of the diurnal variation due to hazard. Applying it then
+to the observations of this phenomenon, I found that it was a bet of
+more than 300,000 against one that a regular cause produced it. I do not
+seek to determine this cause; I content myself with stating its
+existence. The period of the diurnal variation regulated by the solar
+day indicates evidently that this variation is due to the action of the
+sun. The extreme smallness of the attractive action of the sun upon the
+atmosphere is proved by the smallness of the effects due to the united
+attractions of the sun and the moon. It is then by the action of its
+heat that the sun produces the diurnal variation of the barometer; but
+it is impossible to subject to calculus the effects of its action on the
+height of the barometer and upon the winds. The diurnal variation of the
+magnetic needle is certainly a result of the action of the sun. But does
+this star act here as in the diurnal variation of the barometer by its
+heat or by its influence upon electricity and upon magnetism, or finally
+by the union of these influences? A long series of observations made in
+different countries will enable us to apprehend this.
+
+One of the most remarkable phenomena of the system of the world is that
+of all the movements of rotation and of revolution of the planets and
+the satellites in the sense of the rotation of the sun and about in the
+same plane of its equator. A phenomenon so remarkable is not the effect
+of hazard: it indicates a general cause which has determined all its
+movements. In order to obtain the probability with which this cause is
+indicated we shall observe that the planetary system, such as we know it
+to-day, is composed of eleven planets and of eighteen satellites at
+least, if we attribute with Herschel six satellites to the planet
+Uranus. The movements of the rotation of the sun, of six planets, of the
+moon, of the satellites of Jupiter, of the ring of Saturn, and of one of
+its satellites have been recognized. These movements form with those of
+revolution a totality of forty-three movements directed in the same
+sense; but one finds by the analysis of probabilities that it is a bet
+of more than 4000000000000 against one that this disposition is not the
+result of hazard; this forms a probability indeed superior to that of
+historical events in regard to which no doubt exists. We ought then to
+believe at least with equal confidence that a primitive cause has
+directed the planetary movements, especially if we consider that the
+inclination of the greatest number of these movements at the solar
+equator is very small.
+
+Another equally remarkable phenomenon of the solar system is the small
+degree of the eccentricity of the orbs of the planets and the
+satellites, while those of the comets are very elongated, the orbs of
+the system not offering any intermediate shades between a great and a
+small eccentricity. We are again forced to recognize here the effect of
+a regular cause; chance has certainly not given an almost circular form
+to the orbits of all the planets and their satellites; it is then that
+the cause which has determined the movements of these bodies has
+rendered them almost circular. It is necessary, again, that the great
+eccentricities of the orbits of the comets should result from the
+existence of this cause without its having influenced the direction of
+their movements; for it is found that there are almost as many
+retrograde comets as direct comets, and that the mean inclination of all
+their orbits to the ecliptic approaches very nearly half a right angle,
+as it ought to be if the bodies had been thrown at hazard.
+
+Whatever may be the nature of the cause in question, since it has
+produced or directed the movement of the planets, it is necessary that
+it should have embraced all the bodies and considered all the distances
+which separate them, it can have been only a fluid of an immense
+extension. Therefore in order to have given them in the same sense an
+almost circular movement about the sun it is necessary that this fluid
+should have surrounded this star as an atmosphere. The consideration of
+the planetary movements leads us then to think that by virtue of an
+excessive heat the atmosphere of the sun was originally extended beyond
+the orbits of all the planets, and that it has contracted gradually to
+its present limits.
+
+In the primitive state where we imagine the sun it resembled the nebulæ
+that the telescope shows us composed of a nucleus more or less brilliant
+surrounded by a nebula which, condensing at the surface, ought to
+transform it some day into a star. If one conceives by analogy all the
+stars formed in this manner, one can imagine their anterior state of
+nebulosity itself preceded by other stars in which the nebulous matter
+was more and more diffuse, the nucleus being less and less luminous and
+dense. Going back, then, as far as possible, one would arrive at a
+nebulosity so diffuse that one would be able scarcely to suspect its
+existence.
+
+Such is indeed the first state of the nebulæ which Herschel observed
+with particular care by means of his powerful telescopes, and in which
+he has followed the progress of condensation, not in a single one, these
+stages not becoming appreciable to us except after centuries, but in
+their totality, just about as one can in a vast forest follow the
+increase of the trees by the individuals of the divers ages which the
+forest contains. He has observed from the beginning nebulous matter
+spread out in divers masses in the different parts of the heavens, of
+which it occupies a great extent. He has seen in some of these masses
+this matter slightly condensed about one or several faintly luminous
+nebulæ. In the other nebulæ these nuclei shine, moreover, in proportion
+to the nebulosity which surrounds them. The atmospheres of each nucleus
+becoming separated by an ulterior condensation, there result the
+multifold nebulæ formed of brilliant nuclei very adjacent and surrounded
+each by an atmosphere; sometimes the nebulous matter, by condensing in a
+uniform manner, has produced the nebulæ which are called _planetary_.
+Finally a greater degree of condensation transforms all these nebulæ
+into stars. The nebulæ classed according to this philosophic view
+indicate with an extreme probability their future transformation into
+stars and the anterior state of nebulosity of existing stars. The
+following considerations come to the aid of proofs drawn from these
+analogies.
+
+For a long time the particular disposition of certain stars visible to
+the naked eye has struck the attention of philosophical observers.
+Mitchel has already remarked how improbable it is that the stars of the
+Pleiades, for example, should have been confined in the narrow space
+which contain them by the chances of hazard alone, and he has concluded
+from this that this group of stars and the similar groups that the
+heaven presents us are the results of a primitive cause or of a general
+law of nature. These groups are a necessary result of the condensation
+of the nebulæ at several nuclei; it is apparent that the nebulous matter
+being attracted continuously by the divers nuclei, they ought to form in
+time a group of stars equal to that of the Pleiades. The condensation of
+the nebulæ at two nuclei forms similarly very adjacent stars, revolving
+the one about the other, equal to those whose respective movements
+Herschel has already considered. Such are, further, the 61st of the Swan
+and its following one in which Bessel has just recognized particular
+movements so considerable and so little different that the proximity of
+these stars to one another and their movement about the common centre of
+gravity ought to leave no doubt. Thus one descends by degrees from the
+condensation of nebulous matter to the consideration of the sun
+surrounded formerly by a vast atmosphere, a consideration to which one
+repasses, as has been seen, by the examination of the phenomena of the
+solar system. A case so remarkable gives to the existence of this
+anterior state of the sun a probability strongly approaching certainty.
+
+But how has the solar atmosphere determined the movements of rotation
+and revolution of the planets and the satellites? If these bodies had
+penetrated deeply the atmosphere its resistance would have caused them
+to fall upon the sun; one is then led to believe with much probability
+that the planets have been formed at the successive limits of the solar
+atmosphere which, contracting by the cold, ought to have abandoned in
+the plane of its equator zones of vapors which the mutual attraction of
+their molecules has changed into divers spheroids. The satellites have
+been similarly formed by the atmospheres of their respective planets.
+
+I have developed at length in my _Exposition of the System of the World_
+this hypothesis, which appears to me to satisfy all the phenomena which
+this system presents us. I shall content myself here with considering
+that the angular velocity of rotation of the sun and the planets being
+accelerated by the successive condensation of their atmospheres at their
+surfaces, it ought to surpass the angular velocity of revolution of the
+nearest bodies which revolve about them. Observation has indeed
+confirmed this with regard to the planets and satellites, and even in
+ratio to the ring of Saturn, the duration of whose revolution is .438
+days, while the duration of the rotation of Saturn is .427 days.
+
+In this hypothesis the comets are strangers to the planetary system. In
+attaching their formation to that of the nebulæ they may be regarded as
+small nebulæ at the nuclei, wandering from systems to solar systems, and
+formed by the condensation of the nebulous matter spread out in such
+great profusion in the universe. The comets would be thus, in relation
+to our system, as the aerolites are relatively to the Earth, to which
+they would appear strangers. When these stars become visible to us they
+offer so perfect resemblance to the nebulæ that they are often
+confounded with them; and it is only by their movement, or by the
+knowledge of all the nebulæ confined to that part of the heavens where
+they appear, that we succeed in distinguishing them. This supposition
+explains in a happy manner the great extension which the heads and tails
+of comets take in the measure that they approach the sun, and the
+extreme rarity of these tails which, in spite of their immense depth, do
+not weaken at all appreciably the light of the stars which we look
+across.
+
+When the little nebulæ come into that part of space where the attraction
+of the sun is predominant, and which we shall call the _sphere of
+activity_ of this star, it forces them to describe elliptic or
+hyperbolic orbits. But their speed being equally possible in all
+directions they ought to move indifferently in all the senses and under
+all inclinations of the elliptic, which is conformable to that which has
+been observed.
+
+The great eccentricity of the cometary orbits results again from the
+preceding hypothesis. Indeed if these orbits are elliptical they are
+very elongated, since their great axes are at least equal to the radius
+of the sphere of activity of the sun. But these orbits may be
+hyperbolic; and if the axes of these hyperbolæ are not very large in
+proportion to the mean distance from the sun to the earth, the movement
+of the comets which describe them will appear sensibly hyperbolic.
+However, of the hundred comets of which we already have the elements,
+not one has appeared certainly to move in an hyperbola; it is necessary,
+then, that the chances which give an appreciable hyperbola should be
+extremely rare in proportion to the contrary chances.
+
+The comets are so small that, in order to become visible, their
+perihelion distance ought to be inconsiderable. Up to the present this
+distance has surpassed only twice the diameter of the terrestrial orbit,
+and most often it has been below the radius of this orbit. It is
+conceived that, in order to approach so near the sun, their speed at the
+moment of their entrance into its sphere of activity ought to have a
+magnitude and a direction confined within narrow limits. In determining
+by the analysis of probabilities the ratio of the chances which, in
+these limits, give an appreciable hyperbola, to the chances which give
+an orbit which may be confounded with a parabola, I have found that it
+is a bet of at least 6000 against one that a nebula which penetrates
+into the activity of the sun in such a manner as to be observed will
+describe either a very elongated ellipse or an hyperbola. By the
+magnitude of its axis, the latter will be appreciably confounded with a
+parabola in the part which is observed; it is then not surprising that,
+up to this time, hyperbolic movements have not been recognized.
+
+The attraction of the planets, and, perhaps further, the resistance of
+the ethereal centres, ought to have changed many cometary orbits in the
+ellipses whose great axis is less than the radius of the sphere of
+activity of the sun, which augments the chances of the elliptical
+orbits. We may believe that this change has taken place with the comet
+of 1759, and with the comet whose duration is only twelve hundred days,
+and which will reappear without ceasing in this short interval, unless
+the evaporation which it meets at each of its returns to the perihelion
+ends by rendering it invisible.
+
+We are able further, by the analysis of probabilities, to verify the
+existence or the influence of certain causes whose action is believed to
+exist upon organized beings. Of all the instruments that we are able to
+employ in order to recognize the imperceptible agents of nature the most
+sensitive are the nerves, especially when particular causes increase
+their sensibility. It is by their aid that the feeble electricity which
+the contact of two heterogeneous metals develops has been discovered;
+this has opened a vast field to the researches of physicists and
+chemists. The singular phenomena which results from extreme sensibility
+of the nerves in some individuals have given birth to divers opinions
+about the existence of a new agent which has been named _animal
+magnetism_, about the action on ordinary magnetism, and about the
+influence of the sun and moon in some nervous affections, and finally,
+about the impressions which the proximity of metals or of running water
+makes felt. It is natural to think that the action of these causes is
+very feeble, and that it may be easily disturbed by accidental
+circumstances; thus because in some cases it is not manifested at all
+its existence ought not to be denied. We are so far from recognizing all
+the agents of nature and their divers modes of action that it would be
+unphilosophical to deny the phenomena solely because they are
+inexplicable in the present state of our knowledge. But we ought to
+examine them with an attention as much the more scrupulous as it appears
+the more difficult to admit them; and it is here that the calculation of
+probabilities becomes indispensable in determining to just what point it
+is necessary to multiply the observations or the experiences in order to
+obtain in favor of the agents which they indicate, a probability
+superior to the reasons which can be obtained elsewhere for not
+admitting them.
+
+The calculation of probabilities can make appreciable the advantages and
+the inconveniences of the methods employed in the speculative sciences.
+Thus in order to recognize the best of the treatments in use in the
+healing of a malady, it is sufficient to test each of them on an equal
+number of patients, making all the conditions exactly similar; the
+superiority of the most advantageous treatment will manifest itself more
+and more in the measure that the number is increased; and the
+calculation will make apparent the corresponding probability of its
+advantage and the ratio according to which it is superior to the others.
+
+
+
+

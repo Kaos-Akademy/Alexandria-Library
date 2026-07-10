@@ -1,0 +1,525 @@
+CHAPTER II.
+
+OF RATIOCINATION, OR SYLLOGISM.
+
+
+§ 1. The analysis of the Syllogism has been so accurately and fully
+performed in the common manuals of Logic, that in the present work,
+which is not designed as a manual, it is sufficient to recapitulate,
+_memoriæ causâ_, the leading results of that analysis, as a foundation
+for the remarks to be afterwards made on the functions of the syllogism,
+and the place which it holds in science.
+
+To a legitimate syllogism it is essential that there should be three,
+and no more than three, propositions, namely, the conclusion, or
+proposition to be proved, and two other propositions which together
+prove it, and which are called the premises. It is essential that there
+should be three, and no more than three, terms, namely, the subject and
+predicate of the conclusion, and another called the middleterm, which
+must be found in both premises, since it is by means of it that the
+other two terms are to be connected together. The predicate of the
+conclusion is called the major term of the syllogism; the subject of the
+conclusion is called the minor term. As there can be but three terms,
+the major and minor terms must each be found in one, and only one, of
+the premises, together with the middleterm which is in them both. The
+premise which contains the middleterm and the major term is called the
+major premise; that which contains the middleterm and the minor term is
+called the minor premise.
+
+Syllogisms are divided by some logicians into three _figures_, by others
+into four, according to the position of the middleterm, which may either
+be the subject in both premises, the predicate in both, or the subject
+in one and the predicate in the other. The most common case is that in
+which the middleterm is the subject of the major premise and the
+predicate of the minor. This is reckoned as the first figure. When the
+middleterm is the predicate in both premises, the syllogism belongs to
+the second figure; when it is the subject in both, to the third. In the
+fourth figure the middleterm is the subject of the minor premise and the
+predicate of the major. Those writers who reckon no more than three
+figures, include this case in the first.
+
+Each figure is divided into _moods_, according to what are called the
+_quantity_ and _quality_ of the propositions, that is, according as they
+are universal or particular, affirmative or negative. The following are
+examples of all the legitimate moods, that is, all those in which the
+conclusion correctly follows from the premises. A is the minor term, C
+the major, B the middleterm.
+
+FIRST FIGURE.
+
+  All B is C    No B is C     All B is C     No B is C
+  All A is B    All A is B    Some A is B    Some A is B
+    therefore     therefore     therefore      therefore
+  All A is C    No A is C     Some A is C    Some A is not C
+
+SECOND FIGURE.
+
+  No C is B     All C is B    No C is B         All C is B
+  All A is B    No A is B     Some A is B       Some A is not B
+    therefore     therefore     therefore         therefore
+  No A is C     No A is C     Some A is not C   Some A is not C
+
+THIRD FIGURE.
+
+  All B is C   No B is C    Some B is C  All B is C   Some B      No B is C
+                                                        is not C
+  All B is A   All B is A   All B is A   Some B is A  All B is A  Some B is A
+    therefore    therefore    therefore    therefore    therefore   therefore
+  Some A is C  Some A       Some A is C  Some A is C  Some A      Some A
+                 is not C                               is not C    is not C
+
+FOURTH FIGURE.
+
+  All C is B   All C is B       Some C is B  No C is B        No C is B
+  All B is A   No B is A        All B is A   All B is A       Some B is A
+    therefore    therefore        therefore    therefore        therefore
+  Some A is C  Some A is not C  Some A is C  Some A is not C  Some A is not C
+
+In these exemplars, or blank forms for making syllogisms, no place is
+assigned to _singular_ propositions; not, of course, because such
+propositions are not used in ratiocination, but because, their predicate
+being affirmed or denied of the whole of the subject, they are ranked,
+for the purposes of the syllogism, with universal propositions. Thus,
+these two syllogisms--
+
+  All men are mortal,      All men are mortal,
+  All kings are men,       Socrates is a man,
+    therefore                therefore
+  All kings are mortal,    Socrates is mortal,
+
+are arguments precisely similar, and are both ranked in the first mood
+of the first figure.
+
+The reasons why syllogisms in any of the above forms are legitimate,
+that is, why, if the premises are true, the conclusion must inevitably
+be so, and why this is not the case in any other possible mood, (that
+is, in any other combination of universal and particular, affirmative
+and negative propositions,) any person taking interest in these
+inquiries may be presumed to have either learned from the common school
+books of the syllogistic logic, or to be capable of discovering for
+himself. The reader may, however, be referred, for every needful
+explanation, to Archbishop Whately's _Elements of Logic_, where he will
+find stated with philosophical precision, and explained with remarkable
+perspicuity, the whole of the common doctrine of the syllogism.
+
+All valid ratiocination; all reasoning by which, from general
+propositions previously admitted, other propositions equally or less
+general are inferred; may be exhibited in some of the above forms. The
+whole of Euclid, for example, might be thrown without difficulty into a
+series of syllogisms, regular in mood and figure.
+
+Though a syllogism framed according to any of these formulæ is a valid
+argument, all correct ratiocination admits of being stated in syllogisms
+of the first figure alone. The rules for throwing an argument in any of
+the other figures into the first figure, are called rules for the
+_reduction_ of syllogisms. It is done by the _conversion_ of one or
+other, or both, of the premises. Thus an argument in the first mood of
+the second figure, as--
+
+  No C is B
+  All A is B
+    therefore
+  No A is C,
+
+may be reduced as follows. The proposition, No C is B, being an
+universal negative, admits of simple conversion, and may be changed into
+No B is C, which, as we showed, is the very same assertion in other
+words--the same fact differently expressed. This transformation having
+been effected, the argument assumes the following form:--
+
+  No B is C
+  All A is B
+    therefore
+  No A is C,
+
+which is a good syllogism in the second mood of the first figure. Again,
+an argument in the first mood of the third figure must resemble the
+following:--
+
+  All B is C
+  All B is A
+    therefore
+  Some A is C,
+
+where the minor premise, All B is A, conformably to what was laid down
+in the last chapter respecting universal affirmatives, does not admit of
+simple conversion, but may be converted _per accidens_, thus, Some A is
+B; which, though it does not express the whole of what is asserted in
+the proposition All B is A, expresses, as was formerly shown, part of
+it, and must therefore be true if the whole is true. We have, then, as
+the result of the reduction, the following syllogism in the third mood
+of the first figure:--
+
+  All B is C
+  Some A is B,
+
+from which it obviously follows, that
+
+  Some A is C.
+
+In the same manner, or in a manner on which after these examples it is
+not necessary to enlarge, every mood of the second, third, and fourth
+figures may be reduced to some one of the four moods of the first. In
+other words, every conclusion which can be proved in any of the last
+three figures, may be proved in the first figure from the same premises,
+with a slight alteration in the mere manner of expressing them. Every
+valid ratiocination, therefore, may be stated in the first figure, that
+is, in one of the following forms:--
+
+  Every B is C            No B is C
+  All A   }  is B,        All A   } is B,
+  Some A  }               Some A  }
+      therefore               therefore
+  All A   }  is C.        No A is        }  C.
+  Some A  }               Some A is not  }
+
+Or if more significant symbols are preferred:--
+
+To prove an affirmative, the argument must admit of being stated in this
+form:--
+
+  All animals are mortal;
+  All men   }
+  Some men  }  are animals;
+  Socrates  }
+        therefore
+  All men   }
+  Some men  }  are mortal.
+  Socrates  }
+
+To prove a negative, the argument must be capable of being expressed in
+this form:--
+
+  No one who is capable of self-control is necessarily vicious;
+  All negroes   }
+  Some negroes  }  are capable of self-control;
+  Mr. A's negro }
+        therefore
+  No negroes are        }
+  Some negroes are not  }  necessarily vicious.
+  Mr. A's negro is not  }
+
+Though all ratiocination admits of being thrown into one or the other of
+these forms, and sometimes gains considerably by the transformation,
+both in clearness and in the obviousness of its consequence; there are,
+no doubt, cases in which the argument falls more naturally into one of
+the other three figures, and in which its conclusiveness is more
+apparent at the first glance in those figures, than when reduced to the
+first. Thus, if the proposition were that pagans may be virtuous, and
+the evidence to prove it were the example of Aristides; a syllogism in
+the third figure,
+
+  Aristides was virtuous,
+  Aristides was a pagan,
+       therefore
+  Some pagan was virtuous,
+
+would be a more natural mode of stating the argument, and would carry
+conviction more instantly home, than the same ratiocination strained
+into the first figure, thus--
+
+  Aristides was virtuous,
+  Some pagan was Aristides,
+       therefore
+  Some pagan was virtuous.
+
+A German philosopher, Lambert, whose _Neues Organon_ (published in the
+year 1764) contains among other things one of the most elaborate and
+complete expositions which had ever been made of the syllogistic
+doctrine, has expressly examined what sort of arguments fall most
+naturally and suitably into each of the four figures; and his
+investigation is characterized by great ingenuity and clearness of
+thought.[3] The argument, however, is one and the same, in whichever
+figure it is expressed; since, as we have already seen, the premises of
+a syllogism in the second, third, or fourth figure, and those of the
+syllogism in the first figure to which it may be reduced, are the same
+premises in everything except language, or, at least, as much of them as
+contributes to the proof of the conclusion is the same. We are
+therefore at liberty, in conformity with the general opinion of
+logicians, to consider the two elementary forms of the first figure as
+the universal types of all correct ratiocination; the one, when the
+conclusion to be proved is affirmative, the other, when it is negative;
+even though certain arguments may have a tendency to clothe themselves
+in the forms of the second, third, and fourth figures; which, however,
+cannot possibly happen with the only class of arguments which are of
+first-rate scientific importance, those in which the conclusion is an
+universal affirmative, such conclusions being susceptible of proof in
+the first figure alone.[4]
+
+
+§ 2. On examining, then, these two general formulæ, we find that in
+both of them, one premise, the major, is an universal proposition; and
+according as this is affirmative or negative, the conclusion is so too.
+All ratiocination, therefore, starts from a _general_ proposition,
+principle, or assumption: a proposition in which a predicate is
+affirmed or denied of an entire class; that is, in which some attribute,
+or the negation of some attribute, is asserted of an indefinite number
+of objects distinguished by a common characteristic, and designated in
+consequence, by a common name.
+
+The other premise is always affirmative, and asserts that something
+(which may be either an individual, a class, or part of a class)
+belongs to, or is included in, the class respecting which something was
+affirmed or denied in the major premise. It follows that the attribute
+affirmed or denied of the entire class may (if that affirmation or
+denial was correct) be affirmed or denied of the object or objects
+alleged to be included in the class: and this is precisely the assertion
+made in the conclusion.
+
+Whether or not the foregoing is an adequate account of the constituent
+parts of the syllogism, will be presently considered; but as far as it
+goes it is a true account. It has accordingly been generalized, and
+erected into a logical maxim, on which all ratiocination is said to be
+founded, insomuch that to reason, and to apply the maxim, are supposed
+to be one and the same thing. The maxim is, That whatever can be
+affirmed (or denied) of a class, may be affirmed (or denied) of
+everything included in the class. This axiom, supposed to be the basis
+of the syllogistic theory, is termed by logicians the _dictum de omni et
+nullo_.
+
+This maxim, however, when considered as a principle of reasoning,
+appears suited to a system of metaphysics once indeed generally
+received, but which for the last two centuries has been considered as
+finally abandoned, though there have not been wanting in our own day
+attempts at its revival. So long as what are termed Universals were
+regarded as a peculiar kind of substances, having an objective existence
+distinct from the individual objects classed under them, the _dictum de
+omni_ conveyed an important meaning; because it expressed the
+intercommunity of nature, which it was necessary on that theory that we
+should suppose to exist between those general substances and the
+particular substances which were subordinated to them. That everything
+predicable of the universal was predicable of the various individuals
+contained under it, was then no identical proposition, but a statement
+of what was conceived as a fundamental law of the universe. The
+assertion that the entire nature and properties of the _substantia
+secunda_ formed part of the nature and properties of each of the
+individual substances called by the same name; that the properties of
+Man, for example, were properties of all men; was a proposition of real
+significance when man did not _mean_ all men, but something inherent in
+men, and vastly superior to them in dignity. Now, however, when it is
+known that a class, an universal, a genus or species, is not an entity
+_per se_, but neither more nor less than the individual substances
+themselves which are placed in the class, and that there is nothing real
+in the matter except those objects, a common name given to them, and
+common attributes indicated by the name; what, I should be glad to know,
+do we learn by being told, that whatever can be affirmed of a class, may
+be affirmed of every object contained in the class? The class is nothing
+but the objects contained in it: and the _dictum de omni_ merely amounts
+to the identical proposition, that whatever is true of certain objects,
+is true of each of those objects. If all ratiocination were no more than
+the application of this maxim to particular cases, the syllogism would
+indeed be, what it has so often been declared to be, solemn trifling.
+The _dictum de omni_ is on a par with another truth, which in its time
+was also reckoned of great importance, "Whatever is, is." To give any
+real meaning to the _dictum de omni_, we must consider it not as an
+axiom, but as a definition; we must look upon it as intended to explain,
+in a circuitous and paraphrastic manner, the meaning of the word,
+_class_.
+
+An error which seemed finally refuted and dislodged from thought, often
+needs only put on a new suit of phrases, to be welcomed back to its old
+quarters, and allowed to repose unquestioned for another cycle of ages.
+Modern philosophers have not been sparing in their contempt for the
+scholastic dogma that genera and species are a peculiar kind of
+substances, which general substances being the only permanent things,
+while the individual substances comprehended under them are in a
+perpetual flux, knowledge, which necessarily imports stability, can only
+have relation to those general substances or universals, and not to the
+facts or particulars included under them. Yet, though nominally
+rejected, this very doctrine, whether disguised under the Abstract Ideas
+of Locke (whose speculations, however, it has less vitiated than those
+of perhaps any other writer who has been infected with it), under the
+ultra-nominalism of Hobbes and Condillac, or the ontology of the later
+Kantians, has never ceased to poison philosophy. Once accustomed to
+consider scientific investigation as essentially consisting in the study
+of universals, men did not drop this habit of thought when they ceased
+to regard universals as possessing an independent existence: and even
+those who went the length of considering them as mere names, could not
+free themselves from the notion that the investigation of truth
+consisted entirely or partly in some kind of conjuration or juggle with
+those names. When a philosopher adopted fully the Nominalist view of the
+signification of general language, retaining along with it the _dictum
+de omni_ as the foundation of all reasoning, two such premises fairly
+put together were likely, if he was a consistent thinker, to land him in
+rather startling conclusions. Accordingly it has been seriously held, by
+writers of deserved celebrity, that the process of arriving at new
+truths by reasoning consists in the mere substitution of one set of
+arbitrary signs for another; a doctrine which they suppose to derive
+irresistible confirmation from the example of algebra. If there were any
+process in sorcery or necromancy more preternatural than this, I should
+be much surprised. The culminating point of this philosophy is the noted
+aphorism of Condillac, that a science is nothing, or scarcely anything,
+but _une langue bien faite_; in other words, that the one sufficient
+rule for discovering the nature and properties of objects is to name
+them properly: as if the reverse were not the truth, that it is
+impossible to name them properly except in proportion as we are already
+acquainted with their nature and properties. Can it be necessary to say,
+that none, not even the most trivial knowledge with respect to Things,
+ever was or could be originally got at by any conceivable manipulation
+of mere names, as such; and that what can be learned from names, is only
+what somebody who used the names knew before? Philosophical analysis
+confirms the indication of common sense, that the function of names is
+but that of enabling us to _remember_ and to _communicate_ our thoughts.
+That they also strengthen, even to an incalculable extent, the power of
+thought itself, is most true: but they do this by no intrinsic and
+peculiar virtue; they do it by the power inherent in an artificial
+memory, an instrument of which few have adequately considered the
+immense potency. As an artificial memory, language truly is, what it has
+so often been called, an instrument of thought; but it is one thing to
+be the instrument, and another to be the exclusive subject upon which
+the instrument is exercised. We think, indeed, to a considerable extent,
+by means of names, but what we think of, are the things called by those
+names; and there cannot be a greater error than to imagine that thought
+can be carried on with nothing in our mind but names, or that we can
+make the names think for us.
+
+
+§ 3. Those who considered the _dictum de omni_ as the foundation of the
+syllogism, looked upon arguments in a manner corresponding to the
+erroneous view which Hobbes took of propositions. Because there are some
+propositions which are merely verbal, Hobbes, in order apparently that
+his definition might be rigorously universal, defined a proposition as
+if no propositions declared anything except the meaning of words. If
+Hobbes was right; if no further account than this could be given of the
+import of propositions; no theory could be given but the commonly
+received one, of the combination of propositions in a syllogism. If the
+minor premise asserted nothing more than that something belongs to a
+class, and if the major premise asserted nothing of that class except
+that it is included in another class, the conclusion would only be that
+what was included in the lower class is included in the higher, and the
+result, therefore, nothing except that the classification is consistent
+with itself. But we have seen that it is no sufficient account of the
+meaning of a proposition, to say that it refers something to, or
+excludes something from, a class. Every proposition which conveys real
+information asserts a matter of fact, dependent on the laws of nature,
+and not on classification. It asserts that a given object does or does
+not possess a given attribute; or it asserts that two attributes, or
+sets of attributes, do or do not (constantly or occasionally) coexist.
+Since such is the purport of all propositions which convey any real
+knowledge, and since ratiocination is a mode of acquiring real
+knowledge, any theory of ratiocination which does not recognise this
+import of propositions, cannot, we may be sure, be the true one.
+
+Applying this view of propositions to the two premises of a syllogism,
+we obtain the following results. The major premise, which, as already
+remarked, is always universal, asserts, that all things which have a
+certain attribute (or attributes) have or have not along with it, a
+certain other attribute (or attributes). The minor premise asserts that
+the thing or set of things which are the subject of that premise, have
+the first-mentioned attribute; and the conclusion is, that they have (or
+that they have not) the second. Thus in our former example,
+
+  All men are mortal,
+  Socrates is a man,
+        therefore
+  Socrates is mortal,
+
+the subject and predicate of the major premise are connotative terms,
+denoting objects and connoting attributes. The assertion in the major
+premise is, that along with one of the two sets of attributes, we always
+find the other: that the attributes connoted by "man" never exist unless
+conjoined with the attribute called mortality. The assertion in the
+minor premise is that the individual named Socrates possesses the former
+attributes; and it is concluded that he possesses also the attribute
+mortality. Or if both the premises are general propositions, as
+
+  All men are mortal,
+  All kings are men,
+        therefore
+  All kings are mortal,
+
+the minor premise asserts that the attributes denoted by kingship only
+exist in conjunction with those signified by the word man. The major
+asserts as before, that the last-mentioned attributes are never found
+without the attribute of mortality. The conclusion is, that wherever the
+attributes of kingship are found, that of mortality is found also.
+
+If the major premise were negative, as, No men are omnipotent, it would
+assert, not that the attributes connoted by "man" never exist without,
+but that they never exist with, those connoted by "omnipotent:" from
+which, together with the minor premise, it is concluded, that the same
+incompatibility exists between the attribute omnipotence and those
+constituting a king. In a similar manner we might analyse any other
+example of the syllogism.
+
+If we generalize this process, and look out for the principle or law
+involved in every such inference, and presupposed in every syllogism,
+the propositions of which are anything more than merely verbal; we find,
+not the unmeaning _dictum de omni et nullo_, but a fundamental
+principle, or rather two principles, strikingly resembling the axioms of
+mathematics. The first, which is the principle of affirmative
+syllogisms, is, that things which coexist with the same thing, coexist
+with one another. The second is the principle of negative syllogisms,
+and is to this effect: that a thing which coexists with another thing,
+with which other a third thing does not coexist, is not coexistent with
+that third thing. These axioms manifestly relate to facts, and not to
+conventions; and one or other of them is the ground of the legitimacy of
+every argument in which facts and not conventions are the matter treated
+of.[5]
+
+
+§ 4. It remains to translate this exposition of the syllogism from the
+one into the other of the two languages in which we formerly
+remarked[6] that all propositions, and of course therefore all
+combinations of propositions, might be expressed. We observed that a
+proposition might be considered in two different lights; as a portion of
+our knowledge of nature, or as a memorandum for our guidance. Under the
+former, or speculative aspect, an affirmative general proposition is an
+assertion of a speculative truth, viz. that whatever has a certain
+attribute has a certain other attribute. Under the other aspect, it is
+to be regarded not as a part of our knowledge, but as an aid for our
+practical exigencies, by enabling us, when we see or learn that an
+object possesses one of the two attributes, to infer that it possesses
+the other; thus employing the first attribute as a mark or evidence of
+the second. Thus regarded, every syllogism comes within the following
+general formula:--
+
+  Attribute A is a mark of attribute B,
+  The given object has the mark A,
+              therefore
+  The given object has the attribute B.
+
+Referred to this type, the arguments which we have lately cited as
+specimens of the syllogism, will express themselves in the following
+manner:--
+
+  The attributes of man are a mark of the attribute mortality,
+  Socrates has the attributes of man,
+              therefore
+  Socrates has the attribute mortality.
+
+And again,
+
+  The attributes of man are a mark of the attribute mortality,
+  The attributes of a king are a mark of the attributes of man,
+                            therefore
+  The attributes of a king are a mark of the attribute mortality.
+
+And, lastly,
+
+  The attributes of man are a mark of the absence of
+    the attribute omnipotence,
+  The attributes of a king are a mark of the attributes of man,
+                            therefore
+  The attributes of a king are a mark of the absence of
+    the attribute signified by the word omnipotent
+    (or, are evidence of the absence of that attribute).
+
+To correspond with this alteration in the form of the syllogisms, the
+axioms on which the syllogistic process is founded must undergo a
+corresponding transformation. In this altered phraseology, both those
+axioms may be brought under one general expression; namely, that
+whatever has any mark, has that which it is a mark of. Or, when the
+minor premise as well as the major is universal, we may state it thus:
+Whatever is a mark of any mark, is a mark of that which this last is a
+mark of. To trace the identity of these axioms with those previously
+laid down, may be left to the intelligent reader. We shall find, as we
+proceed, the great convenience of the phraseology into which we have
+last thrown them, and which is better adapted than any I am acquainted
+with, to express with precision and force what is aimed at, and actually
+accomplished, in every case of the ascertainment of a truth by
+ratiocination.
+
+
+
+
