@@ -1,10 +1,26 @@
 'use client'
 import Link from 'next/link'
+import { useSearchParams } from 'next/navigation'
 import { getGenresWithBooks, fetchChapterTitles, fetchAuthors, fetchBooksByAuthor } from '../flow/actions'
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import BookCommandPalette from '@/components/BookCommandPalette'
 import ChaptersView from '@/components/ChaptersView'
 import GenrePanels from '@/components/GenrePanels'
+import { bannedTitleToSlug, bannedTitles } from '@/lib/bannedBooksData'
+
+function BannedBadge({ title }: { title: string }) {
+  const slug = bannedTitleToSlug.get(title)
+  if (!slug) return null
+  return (
+    <Link
+      href={`/banned-books/${slug}`}
+      onClick={(e) => e.stopPropagation()}
+      className="ml-2 inline-flex shrink-0 items-center rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-amber-800 hover:bg-amber-200 transition-colors"
+    >
+      Banned
+    </Link>
+  )
+}
 
 function MatchingAuthors({
   authors,
@@ -37,6 +53,10 @@ function MatchingAuthors({
 }
 
 export default function Books() {
+  const searchParams = useSearchParams()
+  const bookParam = searchParams.get('book')
+  const autoSelectedRef = useRef(false)
+
   const [data, setData] = useState<Array<{ genre: string; books: string[] | null }>>([])
   const [selectedBook, setSelectedBook] = useState<string | null>(null)
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
@@ -115,20 +135,37 @@ export default function Books() {
     })()
   }
 
+  useEffect(() => {
+    if (!bookParam || data.length === 0 || autoSelectedRef.current) return
+    const decoded = decodeURIComponent(bookParam)
+    const exists = data.some(
+      (entry) => Array.isArray(entry.books) && entry.books.includes(decoded)
+    )
+    if (exists) {
+      autoSelectedRef.current = true
+      handleSelectBook(decoded)
+    }
+  }, [bookParam, data])
+
   return (
     <div className="min-h-screen bg-white">
-      <div className="max-w-4xl mx-auto px-4 py-4 sm:py-6 md:py-8">
-        <div className="text-center mb-6 sm:mb-8">
-          <Link href="/" className="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold alexandria-title block mb-2 sm:mb-4">
-            Alexandria Library
-          </Link>
-          <p className="text-xs font-mono text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-purple-600">
-            Knowledge belongs to everyone, forever.
+      <div className="max-w-6xl mx-auto px-4 py-4 sm:py-6 md:py-8">
+        <div className="mb-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+          <p className="text-sm text-gray-600">
+            Browse the full on-chain collection by genre, author, or title.
           </p>
+          <Link
+            href="/banned-books"
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-amber-800 hover:text-amber-900 underline shrink-0"
+          >
+            Banned books collection
+            <span aria-hidden>→</span>
+          </Link>
         </div>
 
         <div className="flex flex-col gap-4">
           <BookCommandPalette
+            inline
             data={data}
             authors={authors}
             onSelectBook={handleSelectBook}
@@ -147,7 +184,7 @@ export default function Books() {
                     setSelectedAuthor(null)
                     setAuthorBooks(null)
                   }}
-                  className="text-xs text-gray-500 hover:text-gray-700 underline"
+                  className="inline-flex min-h-[44px] items-center px-2 text-xs text-gray-500 hover:text-gray-700 underline"
                 >
                   Clear author
                 </button>
@@ -155,14 +192,19 @@ export default function Books() {
               {authorBooks && authorBooks.length > 0 ? (
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                   {authorBooks.map((title) => (
-                    <button
+                    <div
                       key={title}
-                      type="button"
-                      onClick={() => handleSelectBook(title)}
-                      className="w-full text-left px-3 py-2 rounded-md border border-gray-200 bg-white text-sm sm:text-base hover:bg-emerald-50 hover:border-emerald-200 hover:text-emerald-800 transition-colors"
+                      className="flex min-h-[44px] w-full items-center gap-2 rounded-md border border-gray-200 bg-white px-3 py-2 text-sm sm:text-base hover:border-emerald-200 hover:bg-emerald-50"
                     >
-                      {title}
-                    </button>
+                      <button
+                        type="button"
+                        onClick={() => handleSelectBook(title)}
+                        className="min-h-[44px] flex-1 text-left text-gray-800 hover:text-emerald-800"
+                      >
+                        {title}
+                      </button>
+                      {bannedTitles.has(title) && <BannedBadge title={title} />}
+                    </div>
                   ))}
                 </div>
               ) : (
@@ -220,7 +262,7 @@ export default function Books() {
             </button>
           ) : (
             <Link href="/" className="text-sm text-emerald-600 hover:text-emerald-700 underline font-medium">
-              ← Back to Library
+              ← Back to Home
             </Link>
           )}
         </div>

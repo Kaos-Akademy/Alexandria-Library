@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import ReaderControls from './ReaderControls'
 import { useReaderSettings } from './useReaderSettings'
 import { paginateParagraphs } from './paginate'
-// ReaderMode type is used in the component logic
+import { useMediaQuery } from '@/lib/useMediaQuery'
 import './styles.css'
 
 type Props = {
@@ -10,9 +10,16 @@ type Props = {
   initialOpenControls?: boolean
   onProgressChange?: (p: number) => void
   ariaLabel?: string
+  variant?: 'embedded' | 'fullscreen'
 }
 
-export default function Reader({ content, initialOpenControls, onProgressChange, ariaLabel = 'Reading view' }: Props) {
+export default function Reader({
+  content,
+  initialOpenControls,
+  onProgressChange,
+  ariaLabel = 'Reading view',
+  variant = 'embedded',
+}: Props) {
   const { settings, setSettings } = useReaderSettings()
   const [controlsOpen, setControlsOpen] = useState(!!initialOpenControls)
   const containerRef = useRef<HTMLDivElement | null>(null)
@@ -109,7 +116,8 @@ export default function Reader({ content, initialOpenControls, onProgressChange,
     ["--safe-bottom" as any]: 'env(safe-area-inset-bottom, 0px)',
   }
 
-  const onTap = () => setControlsOpen((o) => !o)
+  const isCoarsePointer = useMediaQuery('(pointer: coarse)')
+  const onTap = isCoarsePointer ? undefined : () => setControlsOpen((o) => !o)
 
   // Progressive rendering in scroll mode: chunk paragraphs to avoid long initial paint
   const [renderCount, setRenderCount] = useState(20)
@@ -121,7 +129,10 @@ export default function Reader({ content, initialOpenControls, onProgressChange,
   }, [renderCount, paragraphs.length, settings.mode])
 
   return (
-    <div className="reader-root" style={cssVars}>
+    <div
+      className={`reader-root ${variant === 'fullscreen' ? 'reader-root--fullscreen' : 'reader-root--embedded'}`}
+      style={cssVars}
+    >
       <div className="reader-content-wrap">
         <div
           ref={containerRef}
@@ -134,7 +145,11 @@ export default function Reader({ content, initialOpenControls, onProgressChange,
           {settings.mode === 'page' ? (
             <div className="reader-page" dangerouslySetInnerHTML={{ __html: pages?.[pageIdx] ?? '' }} />
           ) : (
-            <div className="mx-auto text-left" style={{maxWidth: '42rem'}} dangerouslySetInnerHTML={{ __html: paragraphs.slice(0, renderCount).join('') }} />
+            <div
+              className="reader-prose mx-auto text-left px-4 sm:px-6"
+              style={{ maxWidth: 'var(--reader-max-width)' }}
+              dangerouslySetInnerHTML={{ __html: paragraphs.slice(0, renderCount).join('') }}
+            />
           )}
         </div>
 

@@ -1,6 +1,8 @@
 'use client'
 import { useState, useEffect, useRef, lazy, Suspense } from 'react'
+import { useRouter } from 'next/navigation'
 import { fetchChapterParagraph, fetchBookChapters } from '@/flow/actions'
+import { useIsMobile } from '@/lib/useMediaQuery'
 
 // Lazy load Reader component - only loads when user opens a chapter
 const Reader = lazy(() => import('@/components/reader/Reader'))
@@ -149,6 +151,8 @@ type Props = {
 }
 
 export default function ChaptersView({ selectedBook, selectedGenre, chapters, loading, error, selectedChapterIdx, onSelectChapter, onChaptersUpdate }: Props) {
+  const router = useRouter()
+  const isMobile = useIsMobile()
   const [loadingChapterContent, setLoadingChapterContent] = useState(false)
   const [chapterContentError, setChapterContentError] = useState<string | null>(null)
   const [loadingProgress, setLoadingProgress] = useState<string>('')
@@ -302,9 +306,22 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedChapterIdx, selectedBook, selectedGenre])
 
+  const openChapter = (originalIdx: number) => {
+    const chapter = chapters[originalIdx]
+    if (isMobile && chapter) {
+      router.push(
+        `/read?book=${encodeURIComponent(selectedBook)}&chapter=${encodeURIComponent(chapter.title)}`
+      )
+      return
+    }
+    onSelectChapter(originalIdx)
+  }
+
   return (
     <div className="w-full">
-      <h2 className="text-lg sm:text-xl font-semibold mb-4 text-center">Chapters for {selectedBook}</h2>
+      <h2 className="mb-4 text-center text-lg font-semibold sm:text-xl">
+        <span className="block truncate px-2 sm:inline">Chapters for {selectedBook}</span>
+      </h2>
       {downloads && selectedChapterIdx === null && (
         <div className="mb-4 flex flex-col items-center gap-2">
           <button
@@ -326,7 +343,7 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
                     href={d.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center px-2.5 py-1.5 rounded-full border border-emerald-100 bg-emerald-50 text-emerald-700 text-xs font-semibold hover:bg-emerald-100 transition-colors"
+                    className="inline-flex min-h-[44px] items-center px-2.5 py-2 rounded-full border border-emerald-100 bg-emerald-50 text-emerald-700 text-xs font-semibold hover:bg-emerald-100 transition-colors"
                   >
                     {d.label}
                   </a>
@@ -345,29 +362,31 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
       ) : (
         <div className="space-y-4">
           {selectedChapterIdx === null ? (
-            <div className="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
+            <ul className="mx-auto flex max-w-4xl flex-col gap-2 sm:flex-row sm:flex-wrap sm:justify-center sm:gap-3">
               {sortChapters(chapters).map((chapter) => {
-                // Find the original index to maintain correct selection
-                const originalIdx = chapters.findIndex(c => c.title === chapter.title)
+                const originalIdx = chapters.findIndex((c) => c.title === chapter.title)
                 return (
-                  <button
-                    key={originalIdx + '-' + chapter.title}
-                    type="button"
-                    className="inline-block px-3 py-2 border rounded-lg hover:bg-gray-50 text-sm font-medium shadow-sm transition-colors whitespace-nowrap"
-                    onClick={() => onSelectChapter(originalIdx)}
-                  >
-                    {chapter.title}
-                  </button>
+                  <li key={originalIdx + '-' + chapter.title} className="w-full sm:w-auto">
+                    <button
+                      type="button"
+                      className="min-h-[44px] w-full rounded-lg border px-3 py-2 text-left text-sm font-medium shadow-sm transition-colors hover:bg-gray-50 sm:w-auto sm:text-center"
+                      onClick={() => openChapter(originalIdx)}
+                    >
+                      {chapter.title}
+                    </button>
+                  </li>
                 )
               })}
-            </div>
+            </ul>
           ) : (
             <div className="space-y-3">
-              <div className="flex items-center justify-between">
-                <h3 className="text-base sm:text-lg font-semibold">{chapters[selectedChapterIdx].title}</h3>
+              <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+                <h3 className="truncate text-base font-semibold sm:text-lg">
+                  {chapters[selectedChapterIdx].title}
+                </h3>
                 <button
                   type="button"
-                  className="text-sm text-blue-600 hover:underline"
+                  className="inline-flex min-h-[44px] items-center text-sm text-blue-600 hover:underline"
                   onClick={() => onSelectChapter(null)}
                 >
                   Back to chapters
@@ -403,7 +422,6 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
                       // Render as images
                       return (
                         <div className="space-y-4">
-                          <h3 className="text-xl font-bold mb-4 text-center">{chapter.title}</h3>
                           <div className="flex flex-col items-center gap-4">
                             {chapter.paragraphs.map((base64Image, idx) => {
                               const format = detectImageFormat(base64Image)
@@ -430,7 +448,7 @@ export default function ChaptersView({ selectedBook, selectedGenre, chapters, lo
                       ].join('')
                       return (
                         <Suspense fallback={<div className="text-gray-600 text-center py-8">Loading reader...</div>}>
-                          <Reader content={html} />
+                          <Reader content={html} variant="embedded" />
                         </Suspense>
                       )
                     }

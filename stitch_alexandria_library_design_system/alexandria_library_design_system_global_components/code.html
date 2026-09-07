@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alexandria Library — Design System & Global Components</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,400;1,600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brandDark: '#0d0d14',
+            brandCard: '#1a1a2e',
+            brandAccent: '#13131f',
+            readOffWhite: '#f8f7f3',
+            readWarmWhite: '#f5f4ef',
+            charcoalMuted: '#a0a0b8',
+            bannedRed: '#c0392b',
+            emeraldAccent: '#2ecc71',
+            purpleAccent: '#9b59b6',
+          },
+          fontFamily: {
+            mono: ['"Share Tech Mono"', 'monospace'],
+            serif: ['"Playfair Display"', 'Georgia', 'serif'],
+            georgia: ['Georgia', 'serif'],
+            sans: ['Inter', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Custom utility gradients & stamps */
+    .brand-gradient-text {
+      background: linear-gradient(135deg, #2ecc71 0%, #9b59b6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .brand-gradient-bg {
+      background: linear-gradient(90deg, #2ecc71 0%, #9b59b6 100%);
+      transition: all 0.3s ease;
+    }
+    .brand-gradient-bg:hover {
+      filter: brightness(1.15);
+      box-shadow: 0 0 20px rgba(46, 204, 113, 0.4);
+    }
+    .btn-secondary {
+      border: 1.5px solid rgba(255, 255, 255, 0.85);
+      transition: all 0.2s ease;
+    }
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: #ffffff;
+    }
+
+    /* Banned Stamp styles */
+    .banned-stamp {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #c0392b;
+      color: #ffffff;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      transform: rotate(-6deg);
+      box-shadow: 0 2px 6px rgba(192, 57, 43, 0.45);
+      border: 1.5px dashed rgba(255, 255, 255, 0.5);
+      user-select: none;
+    }
+    .banned-stamp-large {
+      padding: 10px 24px;
+      font-size: 1.25rem;
+      border-width: 2.5px;
+      box-shadow: 0 4px 14px rgba(192, 57, 43, 0.6);
+    }
+    .banned-stamp-small {
+      padding: 3px 9px;
+      font-size: 0.65rem;
+      border-width: 1.2px;
+    }
+
+    /* Card interactive styling */
+    .book-card-hover {
+      transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.28s ease, border-color 0.28s ease;
+    }
+    .book-card-hover:hover {
+      transform: translateY(-4px);
+      border-color: rgba(46, 204, 113, 0.45) !important;
+      box-shadow: 0 16px 32px -8px rgba(46, 204, 113, 0.15), 0 0 0 1px rgba(46, 204, 113, 0.3);
+    }
+    .book-card-hover:hover .cover-panel {
+      filter: brightness(1.1);
+    }
+  </style>
+</head>
+<body class="bg-[#0a0a0f] text-slate-100 font-sans antialiased min-h-screen selection:bg-emerald-500/30 selection:text-emerald-200 pb-28">
+
+  <!-- TOP HERO BAR -->
+  <header class="border-b border-white/10 bg-[#0d0d14]/90 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <span class="font-mono text-xl tracking-wider font-bold brand-gradient-text">ALEXANDRIA</span>
+        <span class="text-xs uppercase font-mono px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Design System & Core Library</span>
+      </div>
+      <div class="flex items-center gap-4 text-xs font-mono text-charcoalMuted">
+        <span>Blockchain: <span class="text-emerald-400">Flow Testnet/Mainnet</span></span>
+        <span class="text-white/20">|</span>
+        <span>Theme: <span class="text-white">Anti-Censorship & Banned Texts</span></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-6 pt-10 space-y-16">
+
+    <!-- SECTION 0: DESIGN SYSTEM SPECIFICATION -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4">
+        <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Foundations</p>
+        <h1 class="text-3xl font-serif font-bold text-white mt-1">Palette &amp; Typographic Matrix</h1>
+      </div>
+
+      <!-- Color Swatches -->
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-3 text-xs font-mono">
+        <div class="p-3.5 rounded-lg border border-white/10 bg-[#0d0d14] space-y-2">
+          <div class="h-10 rounded bg-[#0d0d14] border border-white/20 shadow-inner"></div>
+          <div>
+            <div class="text-white font-semibold">Dark Background</div>
+            <div class="text-charcoalMuted">#0d0d14 (Landing)</div>
+          </div>
+        </div>
+
+        <div class="p-3.5 rounded-lg border border-white/10 bg-[#1a1a2e] space-y-2">
+          <div class="h-10 rounded bg-[#1a1a2e] border border-white/20"></div>
+          <div>
+            <div class="text-white font-semibold">Dark Secondary</div>
+            <div class="text-charcoalMuted">#1a1a2e (Cards)</div>
+          </div>
+        </div>
+
+        <div class="p-3.5 rounded-lg border border-white/10 bg-[#13131f] space-y-2">
+          <div class="h-10 rounded bg-[#13131f] border border-white/20"></div>
+          <div>
+            <div class="text-white font-semibold">Dark Accent</div>
+            <div class="text-charcoalMuted">#13131f (Sections)</div>
+          </div>
+        </div>
+
+        <div class="p-3.5 rounded-lg border border-white/10 bg-[#1e1e2d] space-y-2">
+          <div class="h-10 rounded bg-[#c0392b]"></div>
+          <div>
+            <div class="text-white font-semibold">Banned Red</div>
+            <div class="text-charcoalMuted">#c0392b (Stamps &amp; Alerts)</div>
+          </div>
+        </div>
+
+        <div class="p-3.5 rounded-lg border border-white/10 bg-[#1e1e2d] space-y-2">
+          <div class="h-10 rounded brand-gradient-bg"></div>
+          <div>
+            <div class="text-white font-semibold">Brand Gradient</div>
+            <div class="text-charcoalMuted">#2ecc71 &rarr; #9b59b6</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Secondary & Reading Colors -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs font-mono">
+        <div class="p-3 rounded-lg border border-white/10 bg-[#12121a] flex items-center gap-3">
+          <div class="w-8 h-8 rounded bg-[#f8f7f3] border border-slate-400"></div>
+          <div>
+            <div class="text-white font-semibold">Off-White #f8f7f3</div>
+            <div class="text-charcoalMuted">Reading View Background</div>
+          </div>
+        </div>
+        <div class="p-3 rounded-lg border border-white/10 bg-[#12121a] flex items-center gap-3">
+          <div class="w-8 h-8 rounded bg-[#f5f4ef] border border-slate-400"></div>
+          <div>
+            <div class="text-white font-semibold">Warm White #f5f4ef</div>
+            <div class="text-charcoalMuted">Reading Excerpts</div>
+          </div>
+        </div>
+        <div class="p-3 rounded-lg border border-white/10 bg-[#12121a] flex items-center gap-3">
+          <div class="w-8 h-8 rounded bg-[#a0a0b8]"></div>
+          <div>
+            <div class="text-white font-semibold">Charcoal Body #a0a0b8</div>
+            <div class="text-charcoalMuted">Body copy on dark</div>
+          </div>
+        </div>
+        <div class="p-3 rounded-lg border border-white/10 bg-[#12121a] flex items-center gap-3">
+          <div class="w-8 h-8 rounded bg-[#2ecc71]"></div>
+          <div>
+            <div class="text-white font-semibold">Emerald Accent #2ecc71</div>
+            <div class="text-charcoalMuted">Flow link &amp; CTA tokens</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Typography Showcase -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
+        <div class="p-4 rounded-lg border border-white/10 bg-[#13131f] space-y-2">
+          <span class="font-mono text-xs text-emerald-400 uppercase">Editorial Display (Playfair Display)</span>
+          <p class="font-serif text-2xl font-bold text-white">"Censorship is the tool of fear against ideas."</p>
+          <p class="text-xs text-charcoalMuted font-mono">Headlines, heroic declarations, book titles</p>
+        </div>
+        <div class="p-4 rounded-lg border border-white/10 bg-[#13131f] space-y-2">
+          <span class="font-mono text-xs text-emerald-400 uppercase">Body Prose (Georgia / Serif, 18px / 1.75)</span>
+          <p class="font-georgia text-base leading-[1.75] text-[#dcdce5]">
+            Knowledge cannot be incinerated when inscribed across decentralized state registers. The Flow consensus preserves human heritage.
+          </p>
+          <p class="text-xs text-charcoalMuted font-mono">Reading mode, essays, historical contexts</p>
+        </div>
+        <div class="p-4 rounded-lg border border-white/10 bg-[#13131f] space-y-2">
+          <span class="font-mono text-xs text-emerald-400 uppercase">Technical &amp; Brand (Share Tech Mono)</span>
+          <p class="font-mono text-lg font-bold text-white tracking-widest uppercase">FLOW://CONTRACT_0x7a89f41b</p>
+          <p class="font-mono text-xs text-charcoalMuted">Timestamps, ban logs, ledger IDs, wordmarks</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPONENT 1: NAVIGATION BAR (DARK & LIGHT VARIANTS + MOBILE DRAWER PREVIEW) -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4 flex items-baseline justify-between">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Component 01</p>
+          <h2 class="text-2xl font-serif font-bold text-white mt-1">Navigation Bar</h2>
+        </div>
+        <span class="font-mono text-xs text-charcoalMuted">Sticky behavior with scroll transitions</span>
+      </div>
+
+      <!-- Dark Nav (Landing & Banned Books) -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between text-xs font-mono text-charcoalMuted">
+          <span class="flex items-center gap-2">
+            <span class="inline-block w-2 h-2 rounded-full bg-emerald-400"></span>
+            Dark Variant (Landing Pages &amp; Banned Archive) — Sticky / Darkened Background
+          </span>
+          <span class="text-white/40">Default view</span>
+        </div>
+
+        <nav class="w-full bg-[#0d0d14] border border-white/10 rounded-xl px-6 py-4 flex items-center justify-between shadow-2xl transition-all">
+          <!-- Left Logo -->
+          <a href="#home" class="flex items-center gap-2 group">
+            <span class="font-mono font-bold text-xl tracking-wider brand-gradient-text transition group-hover:opacity-90">ALEXANDRIA</span>
+          </a>
+
+          <!-- Center Links -->
+          <div class="hidden md:flex items-center gap-8 text-sm font-sans font-medium text-white/80">
+            <a href="#home" class="hover:text-white transition">Home</a>
+            <a href="#banned" class="text-white flex items-center gap-1.5 group">
+              <span>Banned Books</span>
+              <span class="w-1.5 h-1.5 rounded-full bg-[#c0392b] ring-2 ring-[#c0392b]/30"></span>
+            </a>
+            <a href="#library" class="hover:text-white transition">Library</a>
+            <a href="#microlearning" class="hover:text-white transition">Micro-Learning</a>
+            <a href="#contribute" class="hover:text-white transition">Contribute</a>
+          </div>
+
+          <!-- Right Connect Button & Mobile Hamburger -->
+          <div class="flex items-center gap-4">
+            <button class="hidden sm:inline-flex items-center gap-2 px-4 py-2 rounded-md border border-white/30 text-white text-xs font-medium font-sans hover:bg-white/10 hover:border-white transition">
+              <svg class="w-3.5 h-3.5 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"></path></svg>
+              <span>Connect Wallet</span>
+            </button>
+
+            <!-- Mobile Hamburger preview button -->
+            <button onclick="document.getElementById('mobileDrawer').classList.toggle('translate-x-full')" class="md:hidden p-2 text-white/80 hover:text-white rounded border border-white/10 hover:bg-white/5">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+            </button>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Light Nav (Library & Learn Pages) -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between text-xs font-mono text-charcoalMuted">
+          <span class="flex items-center gap-2">
+            <span class="inline-block w-2 h-2 rounded-full bg-slate-300"></span>
+            Light Variant (Reading &amp; Scholarly Pages) — Clean Background &amp; Dark Typography
+          </span>
+          <span class="text-white/40">#f8f7f3 reading atmosphere</span>
+        </div>
+
+        <nav class="w-full bg-[#f8f7f3] border border-stone-300 rounded-xl px-6 py-4 flex items-center justify-between shadow-lg">
+          <!-- Left Logo -->
+          <a href="#home" class="flex items-center gap-2">
+            <span class="font-mono font-bold text-xl tracking-wider brand-gradient-text">ALEXANDRIA</span>
+          </a>
+
+          <!-- Center Links -->
+          <div class="hidden md:flex items-center gap-8 text-sm font-sans font-medium text-stone-700">
+            <a href="#home" class="hover:text-stone-900 transition">Home</a>
+            <a href="#banned" class="text-stone-900 flex items-center gap-1.5 font-semibold">
+              <span>Banned Books</span>
+              <span class="w-1.5 h-1.5 rounded-full bg-[#c0392b]"></span>
+            </a>
+            <a href="#library" class="text-stone-900 font-semibold underline underline-offset-4 decoration-emerald-500">Library</a>
+            <a href="#microlearning" class="hover:text-stone-900 transition">Micro-Learning</a>
+            <a href="#contribute" class="hover:text-stone-900 transition">Contribute</a>
+          </div>
+
+          <!-- Right Connect Button -->
+          <div class="flex items-center gap-4">
+            <button class="px-4 py-2 rounded-md border border-stone-800 text-stone-900 text-xs font-semibold font-sans hover:bg-stone-900 hover:text-white transition">
+              Connect Wallet
+            </button>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Interactive Mobile Slide-In Drawer Demo -->
+      <div class="p-6 rounded-xl border border-white/10 bg-[#13131f] space-y-4">
+        <div class="flex items-center justify-between">
+          <div class="space-y-1">
+            <h4 class="text-sm font-mono font-semibold text-white">Mobile Slide-in Drawer Spec</h4>
+            <p class="text-xs text-charcoalMuted">Right slide-in drawer simulation on mobile breakpoints</p>
+          </div>
+          <button onclick="document.getElementById('mobileDrawer').classList.toggle('translate-x-full')" class="px-3 py-1.5 rounded bg-white/10 hover:bg-white/20 text-xs font-mono text-white transition">
+            Toggle Mobile Drawer
+          </button>
+        </div>
+
+        <div class="relative overflow-hidden h-72 rounded-lg border border-white/10 bg-[#0d0d14] flex items-center justify-center">
+          <p class="text-xs font-mono text-charcoalMuted text-center px-4">
+            Viewport Mockup: Use the toggle button above to reveal or hide the slide-in mobile navigation sheet.
+          </p>
+
+          <!-- Drawer Element -->
+          <div id="mobileDrawer" class="absolute inset-y-0 right-0 w-72 bg-[#13131f] border-l border-white/10 shadow-2xl p-6 flex flex-col justify-between transform translate-x-full transition-transform duration-300 ease-in-out z-20">
+            <div>
+              <div class="flex items-center justify-between pb-6 border-b border-white/10">
+                <span class="font-mono font-bold text-lg brand-gradient-text">ALEXANDRIA</span>
+                <button onclick="document.getElementById('mobileDrawer').classList.add('translate-x-full')" class="text-charcoalMuted hover:text-white">
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+              </div>
+
+              <div class="mt-6 flex flex-col gap-4 font-sans text-sm">
+                <a href="#" class="text-white hover:text-emerald-400 py-1 transition">Home</a>
+                <a href="#" class="text-white hover:text-emerald-400 py-1 flex items-center justify-between transition">
+                  <span>Banned Books</span>
+                  <span class="w-2 h-2 rounded-full bg-[#c0392b]"></span>
+                </a>
+                <a href="#" class="text-white hover:text-emerald-400 py-1 transition">Library</a>
+                <a href="#" class="text-white hover:text-emerald-400 py-1 transition">Micro-Learning</a>
+                <a href="#" class="text-white hover:text-emerald-400 py-1 transition">Contribute</a>
+              </div>
+            </div>
+
+            <div class="pt-6 border-t border-white/10 space-y-3">
+              <button class="w-full py-2.5 rounded-md border border-white/30 text-white text-xs font-mono hover:bg-white/10 transition">
+                Connect Wallet
+              </button>
+              <div class="text-[10px] font-mono text-charcoalMuted text-center">Preserved on Flow Blockchain</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPONENT 2: "BANNED" STAMP BADGE -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4">
+        <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Component 02</p>
+        <h2 class="text-2xl font-serif font-bold text-white mt-1">"BANNED" Stamp Badge</h2>
+        <p class="text-sm text-charcoalMuted font-sans mt-1">
+          Rubber-stamp aesthetic with a −6° rotation, distressed borders, bold condensed lettering, and tactile drop-shadow.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <!-- Large Version for Page Heroes -->
+        <div class="p-8 rounded-xl border border-white/10 bg-[#13131f] flex flex-col items-center justify-center text-center space-y-6">
+          <div class="space-y-1">
+            <span class="text-xs font-mono uppercase text-emerald-400">Hero Section Stamp (120 × 48px standard)</span>
+            <p class="text-xs text-charcoalMuted">Used atop dramatic editorial heroes and censorship archives</p>
+          </div>
+
+          <div class="py-6 flex items-center justify-center">
+            <div class="banned-stamp banned-stamp-large">
+              BANNED
+            </div>
+          </div>
+
+          <div class="text-xs font-mono text-charcoalMuted bg-black/40 px-3 py-1.5 rounded border border-white/5">
+            transform: rotate(-6deg) | #c0392b | dashed border accent
+          </div>
+        </div>
+
+        <!-- Small Version for Book Cards -->
+        <div class="p-8 rounded-xl border border-white/10 bg-[#13131f] flex flex-col items-center justify-center text-center space-y-6">
+          <div class="space-y-1">
+            <span class="text-xs font-mono uppercase text-emerald-400">Card Stamp (~48 × 20px badge)</span>
+            <p class="text-xs text-charcoalMuted">Scaled down for book card thumbnails and table records</p>
+          </div>
+
+          <div class="py-6 flex items-center justify-center gap-6">
+            <div class="banned-stamp banned-stamp-small">
+              BANNED
+            </div>
+            <div class="banned-stamp banned-stamp-small" style="transform: rotate(4deg); opacity: 0.9;">
+              PROHIBITED
+            </div>
+            <div class="banned-stamp banned-stamp-small" style="background-color: #8b0000; transform: rotate(-8deg);">
+              CENSORED
+            </div>
+          </div>
+
+          <div class="text-xs font-mono text-charcoalMuted bg-black/40 px-3 py-1.5 rounded border border-white/5">
+            Compact variant fitted for responsive grid tiles
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPONENT 3: BOOK CARDS (DARK VARIANT) -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4 flex items-baseline justify-between">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Component 03</p>
+          <h2 class="text-2xl font-serif font-bold text-white mt-1">Book Card (Dark Variant)</h2>
+        </div>
+        <span class="text-xs font-mono text-charcoalMuted">Pure typographic covers: Burgundy (19th C), Navy (20th C), Forest Green (Modern)</span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+        <!-- Card 1: 19th Century (Burgundy) -->
+        <div class="book-card-hover rounded-xl border border-white/[0.06] bg-[#1a1a2e] overflow-hidden flex flex-col justify-between shadow-xl">
+          <div>
+            <!-- Top Typographic Cover Panel -->
+            <div class="cover-panel h-52 bg-[#4a121a] p-6 flex flex-col justify-between border-b border-white/10 relative transition-all duration-300">
+              <div class="flex items-start justify-between">
+                <span class="font-mono text-[11px] text-red-200 tracking-wider uppercase">19th Century Archive</span>
+                <div class="banned-stamp banned-stamp-small">
+                  BANNED
+                </div>
+              </div>
+              <div>
+                <h3 class="font-serif text-2xl font-bold text-white leading-tight tracking-normal">Madame Bovary</h3>
+                <p class="font-mono text-xs text-red-200/80 mt-1">Gustave Flaubert</p>
+              </div>
+              <div class="absolute bottom-2 right-3 text-[10px] font-mono text-white/30">#FLOW-ID-1857</div>
+            </div>
+
+            <!-- Card Body Content -->
+            <div class="p-5 space-y-3">
+              <div class="flex items-center justify-between text-xs font-mono text-charcoalMuted">
+                <span>Gustave Flaubert</span>
+                <span>Pub. 1856</span>
+              </div>
+
+              <!-- One-line ban summary in italic -->
+              <p class="text-xs italic text-[#e0a899] font-georgia bg-red-950/30 p-2.5 rounded border border-red-900/30 leading-relaxed">
+                "Prosecuted in France for offense against public morals and religion, 1857."
+              </p>
+            </div>
+          </div>
+
+          <!-- Bottom CTA Row -->
+          <div class="p-5 pt-0 flex items-center justify-between border-t border-white/5 mt-2">
+            <a href="#learn-more" class="text-xs font-sans font-semibold text-emeraldAccent hover:text-emerald-300 flex items-center gap-1 transition">
+              <span>Learn More</span>
+              <span>&rarr;</span>
+            </a>
+            <button class="px-3 py-1.5 rounded border border-white/30 text-white text-xs font-mono hover:bg-white/10 hover:border-white transition">
+              Read On-Chain &rarr;
+            </button>
+          </div>
+        </div>
+
+        <!-- Card 2: 20th Century (Dark Navy) -->
+        <div class="book-card-hover rounded-xl border border-white/[0.06] bg-[#1a1a2e] overflow-hidden flex flex-col justify-between shadow-xl">
+          <div>
+            <!-- Top Typographic Cover Panel -->
+            <div class="cover-panel h-52 bg-[#10223d] p-6 flex flex-col justify-between border-b border-white/10 relative transition-all duration-300">
+              <div class="flex items-start justify-between">
+                <span class="font-mono text-[11px] text-blue-200 tracking-wider uppercase">20th Century Archive</span>
+                <div class="banned-stamp banned-stamp-small">
+                  BANNED
+                </div>
+              </div>
+              <div>
+                <h3 class="font-serif text-2xl font-bold text-white leading-tight">Fahrenheit 451</h3>
+                <p class="font-mono text-xs text-blue-200/80 mt-1">Ray Bradbury</p>
+              </div>
+              <div class="absolute bottom-2 right-3 text-[10px] font-mono text-white/30">#FLOW-ID-1953</div>
+            </div>
+
+            <!-- Card Body Content -->
+            <div class="p-5 space-y-3">
+              <div class="flex items-center justify-between text-xs font-mono text-charcoalMuted">
+                <span>Ray Bradbury</span>
+                <span>Pub. 1953</span>
+              </div>
+
+              <!-- One-line ban summary in italic -->
+              <p class="text-xs italic text-[#a3c2e6] font-georgia bg-blue-950/30 p-2.5 rounded border border-blue-900/30 leading-relaxed">
+                "Expurgated by publishers and removed from school systems across the US, 1967."
+              </p>
+            </div>
+          </div>
+
+          <!-- Bottom CTA Row -->
+          <div class="p-5 pt-0 flex items-center justify-between border-t border-white/5 mt-2">
+            <a href="#learn-more" class="text-xs font-sans font-semibold text-emeraldAccent hover:text-emerald-300 flex items-center gap-1 transition">
+              <span>Learn More</span>
+              <span>&rarr;</span>
+            </a>
+            <button class="px-3 py-1.5 rounded border border-white/30 text-white text-xs font-mono hover:bg-white/10 hover:border-white transition">
+              Read On-Chain &rarr;
+            </button>
+          </div>
+        </div>
+
+        <!-- Card 3: Modern Era (Dark Forest Green) -->
+        <div class="book-card-hover rounded-xl border border-white/[0.06] bg-[#1a1a2e] overflow-hidden flex flex-col justify-between shadow-xl">
+          <div>
+            <!-- Top Typographic Cover Panel -->
+            <div class="cover-panel h-52 bg-[#0e3524] p-6 flex flex-col justify-between border-b border-white/10 relative transition-all duration-300">
+              <div class="flex items-start justify-between">
+                <span class="font-mono text-[11px] text-emerald-200 tracking-wider uppercase">Modern Era Archive</span>
+                <div class="banned-stamp banned-stamp-small">
+                  BANNED
+                </div>
+              </div>
+              <div>
+                <h3 class="font-serif text-2xl font-bold text-white leading-tight">Persepolis</h3>
+                <p class="font-mono text-xs text-emerald-200/80 mt-1">Marjane Satrapi</p>
+              </div>
+              <div class="absolute bottom-2 right-3 text-[10px] font-mono text-white/30">#FLOW-ID-2000</div>
+            </div>
+
+            <!-- Card Body Content -->
+            <div class="p-5 space-y-3">
+              <div class="flex items-center justify-between text-xs font-mono text-charcoalMuted">
+                <span>Marjane Satrapi</span>
+                <span>Pub. 2000</span>
+              </div>
+
+              <!-- One-line ban summary in italic -->
+              <p class="text-xs italic text-[#a4dec1] font-georgia bg-emerald-950/30 p-2.5 rounded border border-emerald-900/30 leading-relaxed">
+                "Restricted in Chicago Public Schools and challenged nationwide, 2013."
+              </p>
+            </div>
+          </div>
+
+          <!-- Bottom CTA Row -->
+          <div class="p-5 pt-0 flex items-center justify-between border-t border-white/5 mt-2">
+            <a href="#learn-more" class="text-xs font-sans font-semibold text-emeraldAccent hover:text-emerald-300 flex items-center gap-1 transition">
+              <span>Learn More</span>
+              <span>&rarr;</span>
+            </a>
+            <button class="px-3 py-1.5 rounded border border-white/30 text-white text-xs font-mono hover:bg-white/10 hover:border-white transition">
+              Read On-Chain &rarr;
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- COMPONENT 4: CTA BUTTON VARIANTS -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4">
+        <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Component 04</p>
+        <h2 class="text-2xl font-serif font-bold text-white mt-1">CTA Button Matrix</h2>
+        <p class="text-sm text-charcoalMuted font-sans mt-1">
+          Interactive states covering gradient primary buttons, hairline white secondary triggers, and inline emerald text hyperlinks.
+        </p>
+      </div>
+
+      <div class="p-8 rounded-xl border border-white/10 bg-[#13131f] grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
+        <!-- Variant 1: Primary Gradient -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between">
+            <span class="font-mono text-xs text-emerald-400 font-bold uppercase">1. Primary Button</span>
+            <span class="text-[11px] font-mono text-charcoalMuted">Emerald &rarr; Purple fill</span>
+          </div>
+          <div>
+            <button class="brand-gradient-bg px-6 py-3.5 rounded-md text-white text-base font-sans font-bold shadow-lg w-full flex items-center justify-center gap-2">
+              <span>Preserve a Banned Book</span>
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </button>
+          </div>
+          <p class="text-xs font-mono text-charcoalMuted">Hover: brightness(1.15) with emerald glow spread</p>
+        </div>
+
+        <!-- Variant 2: Secondary Hairline -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between">
+            <span class="font-mono text-xs text-slate-300 font-bold uppercase">2. Secondary Button</span>
+            <span class="text-[11px] font-mono text-charcoalMuted">1.5px White Border</span>
+          </div>
+          <div>
+            <button class="btn-secondary px-6 py-3.5 rounded-md text-white text-base font-sans font-medium w-full flex items-center justify-center gap-2">
+              <span>View On-Chain Ledger</span>
+            </button>
+          </div>
+          <p class="text-xs font-mono text-charcoalMuted">Hover: 10% white fill backdrop, crisp white border</p>
+        </div>
+
+        <!-- Variant 3: Inline Link CTA -->
+        <div class="space-y-3">
+          <div class="flex items-center justify-between">
+            <span class="font-mono text-xs text-emerald-400 font-bold uppercase">3. Small Link CTA</span>
+            <span class="text-[11px] font-mono text-charcoalMuted">Emerald text link</span>
+          </div>
+          <div class="py-3 flex items-center justify-start">
+            <a href="#manifesto" class="text-emeraldAccent hover:text-emerald-300 text-base font-semibold font-sans inline-flex items-center gap-2 transition group">
+              <span>Explore the Anti-Censorship Charter</span>
+              <span class="transform group-hover:translate-x-1.5 transition-transform duration-200">&rarr;</span>
+            </a>
+          </div>
+          <p class="text-xs font-mono text-charcoalMuted">Hover: text tint shift with animated directional arrow</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPONENT 5: GLOBAL FOOTER (ALWAYS DARK) -->
+    <section class="space-y-6">
+      <div class="border-b border-white/10 pb-4 flex items-baseline justify-between">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-widest text-emerald-400">Component 05</p>
+          <h2 class="text-2xl font-serif font-bold text-white mt-1">Universal Footer</h2>
+        </div>
+        <span class="text-xs font-mono text-charcoalMuted">Persistent dark mode across all reading and landing screens</span>
+      </div>
+
+      <!-- Footer Component Frame -->
+      <footer class="w-full bg-[#0d0d14] rounded-2xl border-t-2 border-t-emerald-500 border-x border-b border-white/10 px-8 py-12 space-y-10 shadow-2xl">
+        
+        <!-- Top Row: Wordmark + Tagline -->
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-8 border-b border-white/10">
+          <div class="flex items-center gap-3">
+            <span class="font-mono text-2xl font-bold tracking-wider brand-gradient-text">ALEXANDRIA</span>
+            <span class="text-xs font-mono text-white/30">|</span>
+            <span class="text-xs font-mono text-emerald-400 uppercase tracking-wider">Flow Ledger Protocol</span>
+          </div>
+          <p class="font-mono text-xs text-charcoalMuted tracking-wide">
+            "Knowledge belongs to everyone, forever."
+          </p>
+        </div>
+
+        <!-- Middle Row: Navigation Links -->
+        <div class="flex flex-wrap items-center justify-between gap-6 text-sm font-sans text-charcoalMuted">
+          <div class="flex flex-wrap items-center gap-x-8 gap-y-3">
+            <a href="#home" class="hover:text-white transition">Home</a>
+            <a href="#banned" class="hover:text-white transition flex items-center gap-1.5">
+              <span>Banned Books</span>
+              <span class="w-1.5 h-1.5 rounded-full bg-[#c0392b]"></span>
+            </a>
+            <a href="#library" class="hover:text-white transition">Library</a>
+            <a href="#microlearning" class="hover:text-white transition">Micro-Learning</a>
+            <a href="#contribute" class="hover:text-white transition">Contribute</a>
+            <a href="#mission" class="hover:text-white transition">Mission</a>
+            <a href="#roadmap" class="hover:text-white transition">Roadmap</a>
+          </div>
+
+          <div class="text-xs font-mono text-white/40">
+            Immutable node count: <span class="text-emerald-400">1,024</span>
+          </div>
+        </div>
+
+        <!-- Bottom Row: Privacy, Terms, and Flow Blockchain Badge -->
+        <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-white/5 text-xs text-charcoalMuted font-mono">
+          <div class="flex items-center gap-6">
+            <span>&copy; 2025 Alexandria Library Foundation</span>
+            <a href="#privacy" class="hover:text-white transition">Privacy Policy</a>
+            <a href="#terms" class="hover:text-white transition">Terms of Service</a>
+          </div>
+
+          <!-- "Built on Flow blockchain" badge -->
+          <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-emerald-500/40 bg-emerald-500/5 text-emerald-400 text-xs">
+            <svg class="w-3.5 h-3.5 text-emerald-400" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span>Built on Flow blockchain</span>
+          </div>
+        </div>
+
+      </footer>
+    </section>
+
+  </main>
+</body>
+</html>

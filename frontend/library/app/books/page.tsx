@@ -1,5 +1,5 @@
-import Books from '@/components/Books'
+import { redirect } from 'next/navigation'
 
 export default function BooksPage() {
-  return <Books />
+  redirect('/library')
 }

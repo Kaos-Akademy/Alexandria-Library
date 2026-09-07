@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,700&family=Share+Tech+Mono&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 @import "tailwindcss";
 @import "tw-animate-css";
 
@@ -110,11 +111,218 @@
   --sidebar-ring: oklch(0.553 0.013 58.071);
 }
 
+/* ── Alexandria design tokens ───────────────────────────────────────────── */
+:root {
+  --alex-canvas: #0d0d14;
+  --alex-surface-1: #13131f;
+  --alex-surface-2: #1a1a2e;
+  --alex-parchment: #f8f7f3;
+  --alex-parchment-dim: #f5f4ef;
+  --alex-ink-dark: #1c1c24;
+  --alex-ink-muted: #a0a0b8;
+  --alex-primary: #2ecc71;
+  --alex-primary-dim: #27ae60;
+  --alex-secondary: #9b59b6;
+  --alex-banned: #c0392b;
+  --alex-border: rgba(255, 255, 255, 0.08);
+  --alex-border-hover: rgba(46, 204, 113, 0.35);
+  --alex-gradient: linear-gradient(135deg, #2ecc71 0%, #9b59b6 100%);
+  --alex-gradient-soft: linear-gradient(
+    135deg,
+    rgba(46, 204, 113, 0.15) 0%,
+    rgba(155, 89, 182, 0.15) 100%
+  );
+  --alex-font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --alex-font-reader: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --alex-font-ui: 'Inter', system-ui, -apple-system, sans-serif;
+  --alex-font-mono: 'Space Mono', 'Share Tech Mono', ui-monospace, monospace;
+  --alex-gutter-mobile: 1rem;
+  --alex-gutter-tablet: 1.5rem;
+  --alex-gutter-desktop: 2rem;
+  --alex-reading-max: 680px;
+  --alex-catalog-max: 1280px;
+  --alex-radius-sm: 0.25rem;
+  --alex-radius-md: 0.5rem;
+  --nav-height: 60px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+html {
+  scroll-padding-top: var(--nav-height);
+  overflow-x: clip;
+}
+
+body {
+  overflow-x: clip;
+}
+
+.alex-container {
+  width: 100%;
+  max-width: var(--alex-catalog-max);
+  margin-inline: auto;
+  padding-inline: var(--alex-gutter-mobile);
+}
+
+@media (min-width: 640px) {
+  .alex-container {
+    padding-inline: var(--alex-gutter-tablet);
+  }
+}
+
+@media (min-width: 1024px) {
+  .alex-container {
+    padding-inline: var(--alex-gutter-desktop);
+  }
+}
+
+.sticky-below-nav {
+  top: var(--nav-height);
+}
+
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.hidden-mobile {
+  display: flex !important;
+}
+
+.show-mobile {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  .hidden-mobile {
+    display: none !important;
+  }
+
+  .show-mobile {
+    display: flex !important;
+  }
+}
+
+/* Brand gradient utilities */
+.alex-gradient-text {
+  background: var(--alex-gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.alex-gradient-bg {
+  background: var(--alex-gradient);
+}
+
+.alex-gradient-bg-soft {
+  background: var(--alex-gradient-soft);
+}
+
+/* Censorship / banned stamp treatments */
+.banned-stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.125rem 0.5rem;
+  border-radius: var(--alex-radius-sm);
+  border: 1px solid rgba(192, 57, 43, 0.45);
+  background: rgba(192, 57, 43, 0.12);
+  color: var(--alex-banned);
+  font-family: var(--alex-font-mono);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.banned-stamp::before {
+  content: '';
+  width: 0.375rem;
+  height: 0.375rem;
+  border-radius: 9999px;
+  background: var(--alex-banned);
+  flex-shrink: 0;
+}
+
+.banned-stamp-lg {
+  padding: 0.375rem 0.75rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+}
+
+.banned-spine {
+  border-left: 3px solid var(--alex-banned);
+}
+
+.banned-stamp-rotated {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border: 2px solid var(--alex-banned);
+  color: var(--alex-banned);
+  font-family: var(--alex-font-mono);
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  transform: rotate(-12deg);
+  opacity: 0.85;
+  pointer-events: none;
+  user-select: none;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
   body {
     @apply bg-background text-foreground;
+    font-family: var(--alex-font-ui);
   }
+}
+
+/* Rubber-stamp variant (cards / hero) */
+.banned-stamp-hero {
+  display: inline-block;
+  background: #c0392b;
+  color: white;
+  font-weight: 800;
+  font-family: 'Share Tech Mono', monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transform: rotate(-6deg);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.65rem;
+}
+
+.banned-stamp-hero-lg {
+  padding: 6px 18px;
+  font-size: 1.1rem;
+  border-radius: 4px;
+}
+
+.reader-root--embedded {
+  min-height: auto;
+}
+
+.reader-root--embedded .reader-content--scroll {
+  max-height: min(70vh, calc(100dvh - var(--nav-height) - 12rem));
+}
+
+.reader-root--fullscreen {
+  min-height: 100dvh;
+}
+
+.reader-root--fullscreen .reader-content--scroll {
+  max-height: calc(100dvh - 6rem - var(--safe-bottom));
+}
+
+.reader-root--fullscreen .reader-content--page {
+  height: calc(100dvh - 8rem - var(--safe-bottom));
+}
+
+.reader-root--fullscreen .reader-content--page {
+  height: calc(100dvh - 8rem - var(--safe-bottom));
 }

@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;family=Playfair+Display:ital,wght@0,600;0,700;1,400&amp;family=Space+Mono:wght@400;700&amp;family=Share+Tech+Mono&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = {
+  darkMode: "class",
+  theme: {
+    extend: {
+      "colors": {
+        "surface-dim": "#13131a",
+        "primary-fixed-dim": "#4ae183",
+        "on-surface": "#e4e1ec",
+        "surface-container-low": "#1b1b22",
+        "on-primary": "#003919",
+        "surface": "#13131a",
+        "on-tertiary-container": "#8b110a",
+        "surface-container-high": "#2a2931",
+        "inverse-primary": "#006d37",
+        "on-secondary-fixed": "#320047",
+        "inverse-surface": "#e4e1ec",
+        "on-error": "#690005",
+        "surface-container": "#1f1f26",
+        "inverse-on-surface": "#303038",
+        "on-secondary": "#500a6c",
+        "surface-tint": "#4ae183",
+        "secondary-fixed": "#f8d8ff",
+        "on-tertiary": "#690001",
+        "error": "#ffb4ab",
+        "on-primary-fixed-variant": "#005228",
+        "tertiary": "#ffbfb5",
+        "surface-container-highest": "#34343c",
+        "primary-fixed": "#6bfe9c",
+        "outline-variant": "#3d4a3e",
+        "error-container": "#93000a",
+        "tertiary-fixed": "#ffdad5",
+        "primary-container": "#2ecc71",
+        "secondary-container": "#6b2c87",
+        "tertiary-fixed-dim": "#ffb4a9",
+        "on-tertiary-fixed": "#410000",
+        "on-background": "#e4e1ec",
+        "on-secondary-container": "#e49eff",
+        "outline": "#869486",
+        "primary": "#54e98a",
+        "surface-variant": "#34343c",
+        "on-surface-variant": "#bbcbbb",
+        "on-primary-container": "#005027",
+        "on-error-container": "#ffdad6",
+        "secondary": "#ebb2ff",
+        "on-tertiary-fixed-variant": "#8e130c",
+        "on-primary-fixed": "#00210c",
+        "tertiary-container": "#ff9687",
+        "on-secondary-fixed-variant": "#692984",
+        "secondary-fixed-dim": "#ebb2ff",
+        "surface-bright": "#393840",
+        "background": "#13131a",
+        "surface-container-lowest": "#0e0e15"
+      },
+      "borderRadius": {
+        "DEFAULT": "0.125rem",
+        "lg": "0.25rem",
+        "xl": "0.5rem",
+        "full": "0.75rem"
+      },
+      "spacing": {
+        "space-md": "1rem",
+        "space-2xl": "3rem",
+        "content-reading-max": "680px",
+        "space-lg": "1.5rem",
+        "space-4xl": "6rem",
+        "space-3xl": "4rem",
+        "gutter-tablet": "1.5rem",
+        "content-catalog-max": "1280px",
+        "gutter-desktop": "2rem",
+        "space-xs": "0.5rem",
+        "space-xl": "2rem",
+        "space-sm": "0.75rem",
+        "space-2xs": "0.25rem",
+        "gutter-mobile": "1rem"
+      },
+      "fontFamily": {
+        "title-editorial": [
+          "Playfair Display"
+        ],
+        "headline-lg-mobile": [
+          "Playfair Display"
+        ],
+        "headline-lg": [
+          "Playfair Display"
+        ],
+        "display-hero-mobile": [
+          "Playfair Display"
+        ],
+        "headline-md": [
+          "Playfair Display"
+        ],
+        "code-badge": [
+          "Space Mono"
+        ],
+        "body-ui-sm": [
+          "Inter"
+        ],
+        "body-ui": [
+          "Inter"
+        ],
+        "body-reader-excerpt": [
+          "Newsreader"
+        ],
+        "code-meta": [
+          "Space Mono"
+        ],
+        "display-hero": [
+          "Playfair Display"
+        ],
+        "label-ui": [
+          "Inter"
+        ],
+        "body-reader": [
+          "Newsreader"
+        ],
+        "headline-sm": [
+          "Playfair Display"
+        ]
+      },
+      "fontSize": {
+        "title-editorial": [
+          "19px",
+          {
+            "lineHeight": "26px",
+            "fontWeight": "600"
+          }
+        ],
+        "headline-lg-mobile": [
+          "28px",
+          {
+            "lineHeight": "36px",
+            "letterSpacing": "0em",
+            "fontWeight": "700"
+          }
+        ],
+        "headline-lg": [
+          "40px",
+          {
+            "lineHeight": "48px",
+            "letterSpacing": "-0.015em",
+            "fontWeight": "700"
+          }
+        ],
+        "display-hero-mobile": [
+          "36px",
+          {
+            "lineHeight": "44px",
+            "letterSpacing": "-0.01em",
+            "fontWeight": "700"
+          }
+        ],
+        "headline-md": [
+          "28px",
+          {
+            "lineHeight": "36px",
+            "fontWeight": "600"
+          }
+        ],
+        "code-badge": [
+          "11px",
+          {
+            "lineHeight": "14px",
+            "letterSpacing": "0.08em",
+            "fontWeight": "700"
+          }
+        ],
+        "body-ui-sm": [
+          "13px",
+          {
+            "lineHeight": "18px",
+            "fontWeight": "400"
+          }
+        ],
+        "body-ui": [
+          "15px",
+          {
+            "lineHeight": "22px",
+            "fontWeight": "400"
+          }
+        ],
+        "body-reader-excerpt": [
+          "16px",
+          {
+            "lineHeight": "28px",
+            "fontWeight": "400"
+          }
+        ],
+        "code-meta": [
+          "12px",
+          {
+            "lineHeight": "16px",
+            "letterSpacing": "0.02em",
+            "fontWeight": "400"
+          }
+        ],
+        "display-hero": [
+          "56px",
+          {
+            "lineHeight": "64px",
+            "letterSpacing": "-0.02em",
+            "fontWeight": "700"
+          }
+        ],
+        "label-ui": [
+          "12px",
+          {
+            "lineHeight": "16px",
+            "letterSpacing": "0.04em",
+            "fontWeight": "600"
+          }
+        ],
+        "body-reader": [
+          "18px",
+          {
+            "lineHeight": "32px",
+            "letterSpacing": "0.005em",
+            "fontWeight": "400"
+          }
+        ],
+        "headline-sm": [
+          "22px",
+          {
+            "lineHeight": "30px",
+            "fontWeight": "600"
+          }
+        ]
+      }
+    }
+  }
+};</script></head><body class="bg-surface-container-lowest font-body-ui text-body-ui text-on-surface antialiased"><header class="fixed top-0 w-full z-50 bg-surface-container-lowest/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-sm"><a class="flex items-center gap-space-xs" data-path="home" href="#"><span class="material-symbols-outlined text-primary text-[28px]">local_library</span><span class="font-['Share_Tech_Mono'] text-[24px] tracking-wider font-bold bg-gradient-to-r from-primary via-secondary to-tertiary-container bg-clip-text text-transparent uppercase">ALEXANDRIA</span></a></div><nav class="hidden lg:flex items-center gap-space-lg" data-active-classes="bg-primary-container text-on-primary-container font-label-ui text-label-ui rounded"><a aria-current="page" class="uppercase tracking-wider transition-colors py-space-2xs px-space-xs bg-primary-container text-on-primary-container font-label-ui text-label-ui rounded" data-path="home" href="#">Home</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs inline-flex items-center gap-space-2xs" data-path="banned-books" href="#"><span class="w-2 h-2 rounded-full bg-error-container ring-2 ring-error/30 animate-pulse"></span>Banned Books</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="library" href="#">Library</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="micro-learning" href="#">Micro-Learning</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="contribute" href="#">Contribute</a></nav><div class="flex items-center gap-space-md"><button class="font-code-badge text-code-badge px-space-md py-space-xs rounded bg-surface-container-low text-primary hover:bg-surface-container-high hover:text-on-surface border border-outline-variant hover:border-primary transition-all duration-200 uppercase tracking-wider hidden sm:flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[16px]">account_balance_wallet</span>Connect Wallet</button><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-surface-container-lowest min-h-screen"><div class="flex flex-col w-full text-on-surface">
+<!-- ================= SECTION 1: HERO ================= -->
+<section class="relative min-h-[90vh] flex flex-col justify-center items-center text-center px-6 py-20 overflow-hidden bg-[#0d0d14]">
+<!-- Redacted archival texture background -->
+<div class="absolute inset-0 pointer-events-none opacity-[0.04] select-none font-['Space_Mono'] text-[11px] leading-relaxed tracking-widest text-on-surface overflow-hidden p-6">
+<p class="whitespace-pre-wrap blur-[0.4px]">
+        CLASSIFIED ARCHIVE // CITATION PROTOCOL 884-FLW // TOP SECRET // ALL PREVIOUS JURISDICTION CHALLENGES RECORDED
+        ████████████████████ PROHIBITION ORDER REF 99042 // REMOVAL OF TEXT SUBMITTED UNDER STATUTE 14-B // REDACTED
+        "THEREFORE ALL CITIZENS SHALL SURRENDER SAID MANUSCRIPTS UNTO THE COURIER OF THE STATE" ████████████████████████
+        SECTION 10-A: UNLAWFUL DISTRIBUTION OF DISSIDENT THOUGHT ██████████████ JURISDICTION ENFORCEMENT PENDING
+        PERMANENCE OVERRIDE: FLOW BLOCKHEIGHT #71,204,912 DEPOSITED INTO IPFS/ARWEAVE COMMONS WITHOUT REVOCATION PRIVILEGES
+        ████████████████████████████████████████████████████████████████████████████████████████████████████████████
+        CENSORSHIP EVENT TIMESTAMP 2025-02-14T09:12:00Z // JURISDICTION DECLARED COMPROMISED // VERIFIED IMMUTABLE SEED
+      </p>
+<p class="whitespace-pre-wrap blur-[0.4px] mt-6">
+        RESTRICTED CIRCULATION UNDER COERCIVE COURT PROCEEDING 1882 // BOSTON DA VS. WHITMAN // INJUNCTION STRUCK DOWN
+        ████████████████████ TITLES NUMBERING 4,235 STRICKEN FROM OPEN CIRCULATION IN SECONDARY SCHOOL REPOSITORIES
+        ALEXANDRIA PROTOCOL ENGAGED // SHARDING MERKLE PROOF 0x88fca9013c72b98e72 // PRESERVING ORIGINAL CODEX WITHOUT MUTATION
+        ████████████████████████████████████████████████████████████████████████████████████████████████████████████
+      </p>
+<p class="whitespace-pre-wrap blur-[0.4px] mt-6">
+        "WHERE THEY BURN BOOKS, THEY WILL ULTIMATELY BURN PEOPLE ALSO" // HEINRICH HEINE // ARCHIVED CITATION PROTOCOL
+        IMMUTABLE CITATION STORAGE DEPLOYED ON CADENCE VM // DECENTRALIZED REPLICATION FACTOR: 1,024 NODES VALIDATED
+      </p>
+</div>
+<!-- Ambient glowing spotlight -->
+<div class="absolute w-[560px] h-[560px] rounded-full bg-gradient-to-tr from-primary/10 via-secondary/10 to-transparent blur-3xl pointer-events-none -top-24"></div>
+<div class="relative z-10 max-w-5xl mx-auto flex flex-col items-center">
+<!-- ALEXANDRIA Brand Wordmark -->
+<span class="font-['Share_Tech_Mono'] text-7xl md:text-8xl font-black tracking-widest uppercase bg-gradient-to-r from-primary via-secondary to-tertiary-container bg-clip-text text-transparent drop-shadow-sm">
+        ALEXANDRIA
+      </span>
+<!-- Large Editorial Serif Headline -->
+<h1 class="font-headline-lg text-headline-lg md:text-[56px] md:leading-[64px] text-white max-w-4xl mt-6 tracking-tight">
+        The books they don't want you to read — preserved forever.
+      </h1>
+<!-- Monospace Subheadline -->
+<p class="font-['Share_Tech_Mono'] text-on-surface-variant text-sm md:text-base tracking-wider mt-4 max-w-2xl">
+        4,235 books challenged in 2025. We put every single one beyond reach.
+      </p>
+<!-- CTA Buttons -->
+<div class="flex flex-wrap items-center justify-center gap-5 mt-8">
+<a class="bg-gradient-to-r from-[#2ecc71] to-[#9b59b6] text-white font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 rounded shadow-xl shadow-emerald-950/50 hover:brightness-110 transition-all duration-200 inline-flex items-center gap-2" href="#featured-books">
+<span class="material-symbols-outlined text-[20px]">auto_stories</span>
+          Browse the Library
+        </a>
+<a class="bg-surface-container/60 hover:bg-surface-container-high text-white font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 rounded shadow-md hover:text-primary transition-all duration-200 inline-flex items-center gap-2" href="#what-is-alexandria">
+<span>Read the Story</span>
+<span class="material-symbols-outlined text-[18px]">arrow_downward</span>
+</a>
+</div>
+</div>
+<!-- Scroll Down Indicator -->
+<div class="absolute bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 text-on-surface-variant animate-bounce pointer-events-none">
+<span class="font-code-badge text-code-badge uppercase tracking-widest text-[10px]">Scroll</span>
+<span class="material-symbols-outlined text-[22px] text-primary">expand_more</span>
+</div>
+</section>
+<!-- ================= SECTION 2: THE CRISIS IN NUMBERS ================= -->
+<section class="bg-[#0d0d14] py-24 px-8 relative">
+<div class="max-w-[1280px] mx-auto">
+<div class="text-center mb-16">
+<span class="font-['Share_Tech_Mono'] text-xs uppercase tracking-[0.3em] text-on-surface-variant block">
+          RIGHT NOW
+        </span>
+<h2 class="font-headline-lg text-headline-lg md:text-[48px] text-white mt-3 font-bold">
+          This is happening right now.
+        </h2>
+</div>
+<!-- 2x2 Grid with high-contrast surfaces -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+<!-- Stat 1 -->
+<div class="bg-surface-container-low p-8 rounded shadow-sm flex flex-col justify-between hover:bg-surface-container transition-colors">
+<div>
+<div class="font-['Space_Mono'] text-6xl md:text-7xl lg:text-8xl font-bold text-white tracking-tight leading-none">
+              4,235
+            </div>
+<div class="font-title-editorial text-title-editorial text-on-surface tracking-wider mt-4 uppercase">
+              Unique titles challenged in 2025 · USA
+            </div>
+</div>
+<div class="font-code-meta text-code-meta text-on-surface-variant/70 mt-6 flex items-center gap-2">
+<span class="w-1.5 h-1.5 rounded-full bg-error-container"></span>
+            Source: ALA Office for Intellectual Freedom
+          </div>
+</div>
+<!-- Stat 2 -->
+<div class="bg-surface-container-low p-8 rounded shadow-sm flex flex-col justify-between hover:bg-surface-container transition-colors">
+<div>
+<div class="font-['Space_Mono'] text-6xl md:text-7xl lg:text-8xl font-bold text-white tracking-tight leading-none">
+              39%
+            </div>
+<div class="font-title-editorial text-title-editorial text-on-surface tracking-wider mt-4 uppercase">
+              Target LGBTQ+ voices or people of color
+            </div>
+</div>
+<div class="font-code-meta text-code-meta text-on-surface-variant/70 mt-6 flex items-center gap-2">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+            Source: ALA Office for Intellectual Freedom
+          </div>
+</div>
+<!-- Stat 3 -->
+<div class="bg-surface-container-low p-8 rounded shadow-sm flex flex-col justify-between hover:bg-surface-container transition-colors">
+<div>
+<div class="font-['Space_Mono'] text-6xl md:text-7xl lg:text-8xl font-bold text-white tracking-tight leading-none">
+              202
+            </div>
+<div class="font-title-editorial text-title-editorial text-on-surface tracking-wider mt-4 uppercase">
+              Books removed in a single day · Alberta, Canada
+            </div>
+</div>
+<div class="font-code-meta text-code-meta text-on-surface-variant/70 mt-6 flex items-center gap-2">
+<span class="w-1.5 h-1.5 rounded-full bg-tertiary"></span>
+            Source: Freedom to Read Coalition / Ministerial Directive
+          </div>
+</div>
+<!-- Stat 4 -->
+<div class="bg-surface-container-low p-8 rounded shadow-sm flex flex-col justify-between hover:bg-surface-container transition-colors">
+<div>
+<div class="font-['Space_Mono'] text-6xl md:text-7xl lg:text-8xl font-bold text-white tracking-tight leading-none">
+              7,884
+            </div>
+<div class="font-title-editorial text-title-editorial text-on-surface tracking-wider mt-4 uppercase">
+              Titles targeted by organized campaigns in 2025
+            </div>
+</div>
+<div class="font-code-meta text-code-meta text-on-surface-variant/70 mt-6 flex items-center gap-2">
+<span class="w-1.5 h-1.5 rounded-full bg-primary"></span>
+            Source: ALA Office for Intellectual Freedom
+          </div>
+</div>
+</div>
+<!-- Telemetry Caption -->
+<div class="mt-12 text-center">
+<span class="font-code-meta text-code-meta text-primary-fixed-dim bg-surface-container px-4 py-2 rounded inline-flex items-center gap-2 shadow-sm">
+<span class="w-2 h-2 rounded-full bg-primary animate-pulse"></span>
+          [Live telemetry from Flow ledger: Preserving real-time challenges as immutable records]
+        </span>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 3: WHAT IS ALEXANDRIA? ================= -->
+<section class="bg-[#13131f] py-24 px-8 relative" id="what-is-alexandria">
+<div class="max-w-6xl mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
+<!-- Left Column -->
+<div class="md:col-span-5 space-y-4">
+<div class="w-12 h-1 bg-primary rounded-full mb-4"></div>
+<h2 class="font-headline-lg text-headline-lg text-white leading-tight font-bold">
+            Books that cannot be erased.
+          </h2>
+<p class="font-code-meta text-code-meta text-on-surface-variant uppercase tracking-widest">
+            A Decentralized Autonomous Sanctuary
+          </p>
+</div>
+<!-- Right Column (Prose) -->
+<div class="md:col-span-7 space-y-6 font-body-reader text-body-reader text-on-surface leading-relaxed">
+<p class="bg-surface-container/40 p-5 rounded">
+            Alexandria is a decentralized library built on the Flow blockchain. Every book is stored immutably on-chain — no server, no company, no government can remove it.
+          </p>
+<p class="text-on-surface-variant">
+            Reading is free. Always. No account required. Just open a book and read.
+          </p>
+<p class="text-on-surface-variant">
+            We started with banned books because they are the most important books to preserve. When an authority decrees a thought dangerous, humanity possesses a moral imperative to preserve it in open daylight.
+          </p>
+</div>
+</div>
+<!-- Prominent Inline Stat -->
+<div class="mt-16 text-center">
+<div class="inline-flex items-center gap-3 bg-[#1a1a2e] text-primary px-8 py-3 rounded-full shadow-lg">
+<span class="material-symbols-outlined text-[24px]">verified</span>
+<span class="font-['Share_Tech_Mono'] text-2xl md:text-3xl font-bold tracking-wide">
+            18,000+ books preserved on-chain
+          </span>
+</div>
+<a class="font-['Space_Mono'] text-primary text-sm tracking-wider mt-5 hover:underline block" href="#blockchain-architecture">
+          How does it work? →
+        </a>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 4: FEATURED BANNED BOOKS ================= -->
+<section class="bg-[#0d0d14] py-24 px-8 relative" id="featured-books">
+<div class="max-w-[1280px] mx-auto">
+<div class="text-center mb-14">
+<span class="font-code-badge text-code-badge text-on-surface-variant uppercase tracking-[0.25em] block">
+          IN OUR LIBRARY. ON-CHAIN. FOREVER.
+        </span>
+<h2 class="font-headline-lg text-headline-lg text-white font-bold mt-2">
+          Books that were silenced. Now permanent.
+        </h2>
+<p class="font-code-meta text-code-meta text-primary mt-2 flex items-center justify-center gap-2">
+<span class="material-symbols-outlined text-[16px]">swipe</span>
+          Scroll horizontally to explore archive →
+        </p>
+</div>
+<!-- Horizontal Scroll Track -->
+<div class="flex gap-6 overflow-x-auto pb-8 pt-2 scrollbar-none snap-x snap-mandatory">
+<!-- 1. Huckleberry Finn (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#4a1525] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1884 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Adventures of Huckleberry Finn
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Mark Twain</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: ALA Hall of Shame, challenged for racial slurs.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 2. Les Misérables (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#5c182a] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1862 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Les Misérables
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Victor Hugo</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: France, Italy, Spain for anti-monarchical sentiments.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 3. Leaves of Grass (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#4a1525] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1855 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Leaves of Grass
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Walt Whitman</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: Boston DA, 1882, prosecuted for obscenity.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 4. The Communist Manifesto (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#5c182a] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1848 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                The Communist Manifesto
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Marx &amp; Engels</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: dozens of countries across Cold War era.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 5. Madame Bovary (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#4a1525] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1857 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Madame Bovary
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Gustave Flaubert</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: France, 1857 obscenity criminal trial.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 6. Candide (Dark Amber) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#4d2c0c] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BURNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1759 · 18th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Candide
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Voltaire</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Burned: Paris, 1759, condemned for religious satire &amp; heresy.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 7. The Awakening (Burgundy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#4a1525] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1899 · 19th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                The Awakening
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Kate Chopin</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Pulled from shelves: USA, 1899, deemed socially immoral.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 8. Gulliver's Travels (Dark Amber) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#5a3410] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1726 · 18th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                Gulliver's Travels
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Jonathan Swift</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: Ireland, targeted for fierce political satire.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+<!-- 9. The Jungle (Dark Navy) -->
+<article class="bg-[#1a1a2e] rounded p-5 flex flex-col justify-between hover:-translate-y-1.5 transition-all duration-200 min-w-[300px] max-w-[340px] flex-shrink-0 shadow-lg snap-start">
+<div>
+<div class="bg-[#101c36] p-5 rounded relative min-h-[160px] flex flex-col justify-between overflow-hidden shadow-inner">
+<span class="absolute top-3 right-3 transform -rotate-6 bg-[#93000a] text-white font-['Space_Mono'] font-bold text-[10px] tracking-widest px-2 py-1 uppercase rounded">
+                BANNED
+              </span>
+<span class="font-code-meta text-code-meta text-white/70">1906 · 20th Century</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-3 leading-snug">
+                The Jungle
+              </h3>
+<p class="font-code-badge text-code-badge text-white/80 uppercase mt-1">Upton Sinclair</p>
+</div>
+<div class="mt-4">
+<span class="font-code-badge text-code-badge text-error block uppercase tracking-wider">Historical Suppression:</span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1 leading-snug">
+                “Banned: Soviet Union &amp; Yugoslavia for anti-authoritarianism.”
+              </p>
+</div>
+</div>
+<div class="flex items-center justify-between mt-6 pt-4 bg-surface-container-lowest/40 -mx-5 -mb-5 p-4 rounded-b">
+<a class="font-label-ui text-label-ui text-primary uppercase tracking-wider hover:underline flex items-center gap-1" href="#">
+              Learn More →
+            </a>
+<button class="font-code-badge text-code-badge bg-surface-container-high hover:bg-primary hover:text-on-primary text-white px-3 py-1.5 rounded transition-colors uppercase">
+              Read On-Chain
+            </button>
+</div>
+</article>
+</div>
+<!-- Centered CTA below cards -->
+<div class="text-center mt-12">
+<a class="font-['Space_Mono'] text-primary text-lg font-medium tracking-wider hover:underline inline-flex items-center gap-2" href="#">
+<span>View All Banned Books</span>
+<span class="material-symbols-outlined text-[20px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 5: WHAT A BANNED BOOK TELLS YOU ================= -->
+<section class="bg-[#1e1e30] py-24 px-8 relative">
+<div class="max-w-6xl mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start mb-20">
+<!-- Left Column -->
+<div class="md:col-span-5 space-y-3">
+<span class="font-['Share_Tech_Mono'] text-xs text-primary-fixed-dim uppercase tracking-[0.25em] block">
+            ANATOMY OF PROHIBITION
+          </span>
+<h2 class="font-headline-lg text-headline-lg text-white font-bold leading-tight">
+            A book is banned when truth makes power uncomfortable.
+          </h2>
+<div class="pt-6">
+<div class="w-16 h-1 bg-gradient-to-r from-primary to-secondary rounded-full"></div>
+</div>
+</div>
+<!-- Right Column: 4 Editorial Blocks with clean SVGs -->
+<div class="md:col-span-7 space-y-6">
+<!-- Block 1 -->
+<div class="bg-surface-container-low p-6 rounded flex items-start gap-5 shadow-sm">
+<div class="w-10 h-10 rounded bg-surface-container flex items-center justify-center flex-shrink-0 text-primary">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.75" viewbox="0 0 24 24">
+<circle cx="12" cy="12" r="9"></circle>
+<path d="M12 7v5l3 3"></path>
+<path d="M9 12h6"></path>
+</svg>
+</div>
+<div>
+<span class="font-label-ui text-label-ui uppercase tracking-wider text-white font-bold block">
+                POLITICAL POWER
+              </span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1.5 leading-relaxed">
+                “When a government bans a book, it reveals its own fragility. The act of banning is a confession.”
+              </p>
+</div>
+</div>
+<!-- Block 2 -->
+<div class="bg-surface-container-low p-6 rounded flex items-start gap-5 shadow-sm">
+<div class="w-10 h-10 rounded bg-surface-container flex items-center justify-center flex-shrink-0 text-secondary">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.75" viewbox="0 0 24 24">
+<path d="M12 2v20M7 8h10"></path>
+<circle cx="12" cy="5" r="1.5"></circle>
+</svg>
+</div>
+<div>
+<span class="font-label-ui text-label-ui uppercase tracking-wider text-white font-bold block">
+                RELIGIOUS AUTHORITY
+              </span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1.5 leading-relaxed">
+                “The Index Librorum Prohibitorum was the Catholic Church's admission of what it feared most.”
+              </p>
+</div>
+</div>
+<!-- Block 3 -->
+<div class="bg-surface-container-low p-6 rounded flex items-start gap-5 shadow-sm">
+<div class="w-10 h-10 rounded bg-surface-container flex items-center justify-center flex-shrink-0 text-primary-fixed">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.75" viewbox="0 0 24 24">
+<circle cx="9" cy="12" r="5"></circle>
+<circle cx="15" cy="12" r="5"></circle>
+</svg>
+</div>
+<div>
+<span class="font-label-ui text-label-ui uppercase tracking-wider text-white font-bold block">
+                SOCIAL CONFORMITY
+              </span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1.5 leading-relaxed">
+                “Books about queer lives were banned not because they were wrong, but because they were true.”
+              </p>
+</div>
+</div>
+<!-- Block 4 -->
+<div class="bg-surface-container-low p-6 rounded flex items-start gap-5 shadow-sm">
+<div class="w-10 h-10 rounded bg-surface-container flex items-center justify-center flex-shrink-0 text-tertiary">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.75" viewbox="0 0 24 24">
+<polygon points="12 2 2 22 22 22"></polygon>
+<line x1="12" x2="12" y1="9" y2="15"></line>
+<line x1="12" x2="12.01" y1="18" y2="18"></line>
+</svg>
+</div>
+<div>
+<span class="font-label-ui text-label-ui uppercase tracking-wider text-white font-bold block">
+                SEXUAL LIBERATION
+              </span>
+<p class="font-body-reader-excerpt text-body-reader-excerpt italic text-on-surface-variant mt-1.5 leading-relaxed">
+                “To ban the body in literature is to deny the humanity of the reader.”
+              </p>
+</div>
+</div>
+</div>
+</div>
+<!-- Pull Quote -->
+<div class="bg-surface-container-lowest/80 p-10 md:p-14 rounded text-center relative max-w-4xl mx-auto shadow-xl">
+<div class="w-24 h-0.5 bg-primary/40 mx-auto mb-6"></div>
+<blockquote class="font-title-editorial text-2xl md:text-4xl text-white italic leading-snug max-w-3xl mx-auto">
+          “Where they burn books, they will ultimately burn people also.”
+        </blockquote>
+<div class="font-['Share_Tech_Mono'] text-primary-fixed-dim text-sm tracking-wider uppercase mt-6">
+          — Heinrich Heine, Almansor (1820)
+        </div>
+<div class="w-24 h-0.5 bg-primary/40 mx-auto mt-6"></div>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 6: TIMELINE OF CENSORSHIP ================= -->
+<section class="bg-[#0d0d14] py-24 px-8 relative">
+<div class="max-w-5xl mx-auto">
+<div class="text-center mb-20">
+<span class="font-['Share_Tech_Mono'] text-xs text-on-surface-variant uppercase tracking-[0.3em] block">
+          FIVE CENTURIES OF RESISTANCE TO SUPPRESSION
+        </span>
+<h2 class="font-headline-lg text-headline-lg text-white font-bold mt-2">
+          Censorship Through the Ages
+        </h2>
+</div>
+<!-- Vertical Timeline -->
+<div class="relative">
+<!-- Center emerald spine -->
+<div class="absolute left-4 md:left-1/2 top-0 bottom-0 w-0.5 bg-primary/40 -translate-x-1/2"></div>
+<div class="space-y-12">
+<!-- Event 1: 1559 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="md:w-1/2 md:pr-12 md:text-right pl-12 md:pl-0">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1559</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">The Index Librorum Prohibitorum</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Catholic Church publishes the first official list of forbidden books, criminalizing possession under threat of excommunication.
+              </p>
+</div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="hidden md:block md:w-1/2"></div>
+</div>
+<!-- Event 2: 1650 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="hidden md:block md:w-1/2"></div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="md:w-1/2 md:pl-12 pl-12">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1650</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Spinoza Suppressed</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Amsterdam Jewish council censures Spinoza's rationalist philosophy, banning his treatises from synagogue study halls.
+              </p>
+</div>
+</div>
+<!-- Event 3: 1759 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="md:w-1/2 md:pr-12 md:text-right pl-12 md:pl-0">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1759</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Candide Burned</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Voltaire's satirical novella burned in Paris; the author lives in Swiss border exile to evade the Bastille.
+              </p>
+</div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="hidden md:block md:w-1/2"></div>
+</div>
+<!-- Event 4: 1857 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="hidden md:block md:w-1/2"></div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="md:w-1/2 md:pl-12 pl-12">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1857</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Flaubert on Trial</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Gustave Flaubert tried for obscenity over Madame Bovary; acquitted after a sensational defense of realism.
+              </p>
+</div>
+</div>
+<!-- Event 5: 1882 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="md:w-1/2 md:pr-12 md:text-right pl-12 md:pl-0">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1882</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Leaves of Grass Banned</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Boston District Attorney threatens prosecution, forcing publisher to cancel printing of Whitman's definitive edition.
+              </p>
+</div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="hidden md:block md:w-1/2"></div>
+</div>
+<!-- Event 6: 1933 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="hidden md:block md:w-1/2"></div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="md:w-1/2 md:pl-12 pl-12">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1933</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">The Nazi Book Burnings</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Tens of thousands of works by Jewish, socialist, and pacifist writers burned publicly across university squares in Germany.
+              </p>
+</div>
+</div>
+<!-- Event 7: 1982 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="md:w-1/2 md:pr-12 md:text-right pl-12 md:pl-0">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">1982</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Island Trees v. Pico</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                US Supreme Court rules local school boards cannot remove books from school libraries simply because they dislike the ideas.
+              </p>
+</div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="hidden md:block md:w-1/2"></div>
+</div>
+<!-- Event 8: 2021 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="hidden md:block md:w-1/2"></div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="md:w-1/2 md:pl-12 pl-12">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">2021</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">The Surge Begins</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Organized ban campaigns in USA explode from ~46 isolated challenges annually to coordinated multi-district challenges.
+              </p>
+</div>
+</div>
+<!-- Event 9: 2023 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="md:w-1/2 md:pr-12 md:text-right pl-12 md:pl-0">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">2023</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">4,240 Titles Challenged</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Highest count of challenged books ever documented in modern records, driven by automated mass list submissions.
+              </p>
+</div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="hidden md:block md:w-1/2"></div>
+</div>
+<!-- Event 10: 2025 -->
+<div class="relative flex flex-col md:flex-row items-start md:items-center">
+<div class="hidden md:block md:w-1/2"></div>
+<div class="absolute left-4 md:left-1/2 -translate-x-1/2 w-4 h-4 rounded-full bg-[#0d0d14] ring-4 ring-primary top-1.5 md:top-auto"></div>
+<div class="md:w-1/2 md:pl-12 pl-12">
+<span class="font-['Space_Mono'] text-2xl font-bold text-primary block">2025</span>
+<h3 class="font-headline-sm text-headline-sm text-white font-bold mt-1">Alberta's Mass Ban</h3>
+<p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant mt-1">
+                Canadian province removes 202 books in a single sweeping Ministerial Order, demonstrating international expansion.
+              </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 7: THE WRITERS' WORLD ================= -->
+<section class="bg-[#13131f] py-24 px-8 relative">
+<div class="max-w-6xl mx-auto">
+<div class="text-center mb-16">
+<span class="font-['Share_Tech_Mono'] text-xs text-on-surface-variant uppercase tracking-[0.3em] block">
+          THE WORLD THEY WROTE IN
+        </span>
+<h2 class="font-headline-lg text-headline-lg text-white font-bold mt-2">
+          They wrote the dangerous thing anyway.
+        </h2>
+</div>
+<!-- 3 Author Feature Cards -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- Voltaire -->
+<div class="bg-[#1a1a2e] p-7 rounded-r-lg shadow-xl relative overflow-hidden flex flex-col justify-between">
+<div class="absolute left-0 top-0 bottom-0 w-1.5 bg-[#2ecc71]"></div>
+<div>
+<span class="font-code-badge text-code-badge text-on-surface-variant uppercase tracking-wider block">
+              18TH CENTURY · ENLIGHTENMENT EXILE
+            </span>
+<h3 class="font-headline-sm text-2xl text-white font-bold italic mt-2">Voltaire</h3>
+<a class="font-title-editorial text-sm text-primary underline block mt-1" href="#">
+              Candide (1759)
+            </a>
+<p class="font-body-reader text-[15px] text-on-surface-variant mt-4 leading-relaxed">
+              Wrote Candide while in exile, amid the Seven Years' War and the Lisbon earthquake. He mocked the Church and blind optimism in 160 pages. It was burned before most people could read it.
+            </p>
+</div>
+<div class="pt-6 mt-6 flex items-center justify-between">
+<span class="font-code-meta text-code-meta text-primary font-mono">FLOW // HASH #9940</span>
+<span class="material-symbols-outlined text-primary text-[20px]">auto_stories</span>
+</div>
+</div>
+<!-- Kate Chopin -->
+<div class="bg-[#1a1a2e] p-7 rounded-r-lg shadow-xl relative overflow-hidden flex flex-col justify-between">
+<div class="absolute left-0 top-0 bottom-0 w-1.5 bg-[#2ecc71]"></div>
+<div>
+<span class="font-code-badge text-code-badge text-on-surface-variant uppercase tracking-wider block">
+              19TH CENTURY · POST-RECONSTRUCTION USA
+            </span>
+<h3 class="font-headline-sm text-2xl text-white font-bold italic mt-2">Kate Chopin</h3>
+<a class="font-title-editorial text-sm text-primary underline block mt-1" href="#">
+              The Awakening (1899)
+            </a>
+<p class="font-body-reader text-[15px] text-on-surface-variant mt-4 leading-relaxed">
+              Wrote her masterpiece in post-Reconstruction America, where married women had almost no legal rights. Her protagonist dared to want — and to choose death over surrender. Chopin's career never recovered.
+            </p>
+</div>
+<div class="pt-6 mt-6 flex items-center justify-between">
+<span class="font-code-meta text-code-meta text-primary font-mono">FLOW // HASH #1402</span>
+<span class="material-symbols-outlined text-primary text-[20px]">auto_stories</span>
+</div>
+</div>
+<!-- Walt Whitman -->
+<div class="bg-[#1a1a2e] p-7 rounded-r-lg shadow-xl relative overflow-hidden flex flex-col justify-between">
+<div class="absolute left-0 top-0 bottom-0 w-1.5 bg-[#2ecc71]"></div>
+<div>
+<span class="font-code-badge text-code-badge text-on-surface-variant uppercase tracking-wider block">
+              19TH CENTURY · AMERICAN TRANSCENDENTALISM
+            </span>
+<h3 class="font-headline-sm text-2xl text-white font-bold italic mt-2">Walt Whitman</h3>
+<a class="font-title-editorial text-sm text-primary underline block mt-1" href="#">
+              Leaves of Grass (1855)
+            </a>
+<p class="font-body-reader text-[15px] text-on-surface-variant mt-4 leading-relaxed">
+              Published at his own expense. Celebrated the body, labor, and same-sex attachment with equal reverence. The Boston District Attorney had it banned in 1882 for “obscene” passages. It is now one of the most important American poems ever written.
+            </p>
+</div>
+<div class="pt-6 mt-6 flex items-center justify-between">
+<span class="font-code-meta text-code-meta text-primary font-mono">FLOW // HASH #7701</span>
+<span class="material-symbols-outlined text-primary text-[20px]">auto_stories</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- ================= SECTION 8: ALEXANDRIA ON THE BLOCKCHAIN ================= -->
+<section class="bg-[#090910] py-24 px-8 text-center relative overflow-hidden" id="blockchain-architecture">
+<div class="max-w-[720px] mx-auto relative z-10">
+<h2 class="font-headline-lg text-headline-lg text-white font-bold leading-tight">
+        No government can delete a blockchain.
+      </h2>
+<p class="font-['Share_Tech_Mono'] text-sm text-on-surface-variant uppercase tracking-widest mt-3 mb-12">
+        THE ARCHITECTURE OF PERMANENCE
+      </p>
+<!-- 3 Feature Points -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-12">
+<!-- Feature 1 -->
+<div class="bg-surface-container-low p-6 rounded shadow-md flex flex-col justify-between">
+<div>
+<div class="w-10 h-10 rounded bg-primary/10 text-primary flex items-center justify-center mb-4">
+<span class="material-symbols-outlined text-[24px]">lock_reset</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-white font-bold">Immutable</h3>
+<p class="font-body-ui-sm text-body-ui-sm text-on-surface-variant mt-2 leading-relaxed">
+              Every book stored on Flow is permanent. No library board can pull it from the chain.
+            </p>
+</div>
+</div>
+<!-- Feature 2 -->
+<div class="bg-surface-container-low p-6 rounded shadow-md flex flex-col justify-between">
+<div>
+<div class="w-10 h-10 rounded bg-secondary/10 text-secondary flex items-center justify-center mb-4">
+<span class="material-symbols-outlined text-[24px]">public</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-white font-bold">Free</h3>
+<p class="font-body-ui-sm text-body-ui-sm text-on-surface-variant mt-2 leading-relaxed">
+              Zero cost to read. Always. No account required to open any book in the global sanctuary.
+            </p>
+</div>
+</div>
+<!-- Feature 3 -->
+<div class="bg-surface-container-low p-6 rounded shadow-md flex flex-col justify-between">
+<div>
+<div class="w-10 h-10 rounded bg-primary-fixed-dim/10 text-primary flex items-center justify-center mb-4">
+<span class="material-symbols-outlined text-[24px]">verified_user</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-white font-bold">Verifiable</h3>
+<p class="font-body-ui-sm text-body-ui-sm text-on-surface-variant mt-2 leading-relaxed">
+              Every paragraph is publicly auditable on-chain. The source cannot be altered or redacted.
+            </p>
+</div>
+</div>
+</div>
+<!-- Action Buttons Row -->
+<div class="flex flex-wrap items-center justify-center gap-5">
+<a class="bg-gradient-to-r from-[#2ecc71] to-[#9b59b6] text-white font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 rounded shadow-xl shadow-emerald-950/40 hover:brightness-110 transition-all duration-200 inline-flex items-center gap-2" href="#featured-books">
+<span class="material-symbols-outlined text-[20px]">menu_book</span>
+          Start Reading
+        </a>
+<a class="bg-surface-container/60 hover:bg-surface-container-high text-white font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 rounded shadow-md hover:text-primary transition-all duration-200 inline-flex items-center gap-2" href="#">
+<span class="material-symbols-outlined text-[20px]">volunteer_activism</span>
+          Support the Library
+        </a>
+</div>
+<!-- Faint Verification Badge -->
+<div class="mt-10 flex items-center justify-center gap-2 font-['Share_Tech_Mono'] text-xs text-on-surface-variant">
+<span class="w-2 h-2 rounded-full bg-primary animate-pulse"></span>
+<span>Built on Flow · Cadence v1.0 · Censorship-Resistant Protocol</span>
+</div>
+</div>
+</section>
+</div>
+<script>
+  // Simple micro-interaction for smooth scrolling on library triggers
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      const href = this.getAttribute('href');
+      if (href.length > 1) {
+        const target = document.querySelector(href);
+        if (target) {
+          e.preventDefault();
+          target.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    });
+  });
+</script></main><footer class="w-full bg-surface-dim mt-space-4xl"><div class="max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop py-space-3xl"><div class="grid grid-cols-1 md:grid-cols-4 gap-space-2xl pb-space-2xl"><div class="md:col-span-2 space-y-space-md"><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[24px]">local_library</span><span class="font-['Share_Tech_Mono'] text-[22px] tracking-wider font-bold bg-gradient-to-r from-primary via-secondary to-tertiary-container bg-clip-text text-transparent uppercase">ALEXANDRIA</span></div><p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant max-w-sm italic">Knowledge belongs to everyone, forever.</p><div class="inline-flex items-center gap-space-xs px-space-sm py-space-2xs rounded bg-surface-container-lowest"><span class="w-2 h-2 rounded-full bg-primary animate-ping"></span><span class="font-code-badge text-code-badge uppercase text-primary tracking-wider">Built on Flow blockchain</span><span class="font-code-meta text-code-meta text-on-surface-variant">• Mainnet Verifiable</span></div></div><div class="space-y-space-sm"><span class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface font-semibold block">Archive Access</span><ul class="space-y-space-2xs font-body-ui-sm text-body-ui-sm"><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Universal Catalog</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Censorship Chronicle</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Jurisdiction Map</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Permanent Node Registry</li></ul></div><div class="space-y-space-sm"><span class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface font-semibold block">Preservation &amp; Protocol</span><ul class="space-y-space-2xs font-body-ui-sm text-body-ui-sm"><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Deposit Manuscript</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">IPFS &amp; Arweave Mirrored</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Cadence Smart Contracts</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Tribunal Filings Log</li></ul></div></div><div class="pt-space-xl flex flex-col sm:flex-row items-center justify-between gap-space-md"><div class="font-code-meta text-code-meta text-on-surface-variant">© 2024 Alexandria Protocol. Immutable Cultural Commons.</div><div class="flex items-center gap-space-lg font-code-meta text-code-meta text-on-surface-variant"><span class="hover:text-on-surface transition-colors cursor-pointer">Zero Censorship</span><span class="hover:text-on-surface transition-colors cursor-pointer">Decentralized Storage</span><span class="hover:text-on-surface transition-colors cursor-pointer">Flow Epoch #842</span></div></div></div></footer></body></html>

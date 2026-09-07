@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;family=Playfair+Display:ital,wght@0,600;0,700;1,400&amp;family=Space+Mono:wght@400;700&amp;family=Share+Tech+Mono&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = {
+  darkMode: "class",
+  theme: {
+    extend: {
+      "colors": {
+        "surface-dim": "#13131a",
+        "primary-fixed-dim": "#4ae183",
+        "on-surface": "#e4e1ec",
+        "surface-container-low": "#1b1b22",
+        "on-primary": "#003919",
+        "surface": "#13131a",
+        "on-tertiary-container": "#8b110a",
+        "surface-container-high": "#2a2931",
+        "inverse-primary": "#006d37",
+        "on-secondary-fixed": "#320047",
+        "inverse-surface": "#e4e1ec",
+        "on-error": "#690005",
+        "surface-container": "#1f1f26",
+        "inverse-on-surface": "#303038",
+        "on-secondary": "#500a6c",
+        "surface-tint": "#4ae183",
+        "secondary-fixed": "#f8d8ff",
+        "on-tertiary": "#690001",
+        "error": "#ffb4ab",
+        "on-primary-fixed-variant": "#005228",
+        "tertiary": "#ffbfb5",
+        "surface-container-highest": "#34343c",
+        "primary-fixed": "#6bfe9c",
+        "outline-variant": "#3d4a3e",
+        "error-container": "#93000a",
+        "tertiary-fixed": "#ffdad5",
+        "primary-container": "#2ecc71",
+        "secondary-container": "#6b2c87",
+        "tertiary-fixed-dim": "#ffb4a9",
+        "on-tertiary-fixed": "#410000",
+        "on-background": "#e4e1ec",
+        "on-secondary-container": "#e49eff",
+        "outline": "#869486",
+        "primary": "#54e98a",
+        "surface-variant": "#34343c",
+        "on-surface-variant": "#bbcbbb",
+        "on-primary-container": "#005027",
+        "on-error-container": "#ffdad6",
+        "secondary": "#ebb2ff",
+        "on-tertiary-fixed-variant": "#8e130c",
+        "on-primary-fixed": "#00210c",
+        "tertiary-container": "#ff9687",
+        "on-secondary-fixed-variant": "#692984",
+        "secondary-fixed-dim": "#ebb2ff",
+        "surface-bright": "#393840",
+        "background": "#13131a",
+        "surface-container-lowest": "#0e0e15"
+      },
+      "borderRadius": {
+        "DEFAULT": "0.125rem",
+        "lg": "0.25rem",
+        "xl": "0.5rem",
+        "full": "0.75rem"
+      },
+      "spacing": {
+        "space-md": "1rem",
+        "space-2xl": "3rem",
+        "content-reading-max": "680px",
+        "space-lg": "1.5rem",
+        "space-4xl": "6rem",
+        "space-3xl": "4rem",
+        "gutter-tablet": "1.5rem",
+        "content-catalog-max": "1280px",
+        "gutter-desktop": "2rem",
+        "space-xs": "0.5rem",
+        "space-xl": "2rem",
+        "space-sm": "0.75rem",
+        "space-2xs": "0.25rem",
+        "gutter-mobile": "1rem"
+      },
+      "fontFamily": {
+        "title-editorial": [
+          "Playfair Display"
+        ],
+        "headline-lg-mobile": [
+          "Playfair Display"
+        ],
+        "headline-lg": [
+          "Playfair Display"
+        ],
+        "display-hero-mobile": [
+          "Playfair Display"
+        ],
+        "headline-md": [
+          "Playfair Display"
+        ],
+        "code-badge": [
+          "Space Mono"
+        ],
+        "body-ui-sm": [
+          "Inter"
+        ],
+        "body-ui": [
+          "Inter"
+        ],
+        "body-reader-excerpt": [
+          "Newsreader"
+        ],
+        "code-meta": [
+          "Space Mono"
+        ],
+        "display-hero": [
+          "Playfair Display"
+        ],
+        "label-ui": [
+          "Inter"
+        ],
+        "body-reader": [
+          "Newsreader"
+        ],
+        "headline-sm": [
+          "Playfair Display"
+        ]
+      },
+      "fontSize": {
+        "title-editorial": [
+          "19px",
+          {
+            "lineHeight": "26px",
+            "fontWeight": "600"
+          }
+        ],
+        "headline-lg-mobile": [
+          "28px",
+          {
+            "lineHeight": "36px",
+            "letterSpacing": "0em",
+            "fontWeight": "700"
+          }
+        ],
+        "headline-lg": [
+          "40px",
+          {
+            "lineHeight": "48px",
+            "letterSpacing": "-0.015em",
+            "fontWeight": "700"
+          }
+        ],
+        "display-hero-mobile": [
+          "36px",
+          {
+            "lineHeight": "44px",
+            "letterSpacing": "-0.01em",
+            "fontWeight": "700"
+          }
+        ],
+        "headline-md": [
+          "28px",
+          {
+            "lineHeight": "36px",
+            "fontWeight": "600"
+          }
+        ],
+        "code-badge": [
+          "11px",
+          {
+            "lineHeight": "14px",
+            "letterSpacing": "0.08em",
+            "fontWeight": "700"
+          }
+        ],
+        "body-ui-sm": [
+          "13px",
+          {
+            "lineHeight": "18px",
+            "fontWeight": "400"
+          }
+        ],
+        "body-ui": [
+          "15px",
+          {
+            "lineHeight": "22px",
+            "fontWeight": "400"
+          }
+        ],
+        "body-reader-excerpt": [
+          "16px",
+          {
+            "lineHeight": "28px",
+            "fontWeight": "400"
+          }
+        ],
+        "code-meta": [
+          "12px",
+          {
+            "lineHeight": "16px",
+            "letterSpacing": "0.02em",
+            "fontWeight": "400"
+          }
+        ],
+        "display-hero": [
+          "56px",
+          {
+            "lineHeight": "64px",
+            "letterSpacing": "-0.02em",
+            "fontWeight": "700"
+          }
+        ],
+        "label-ui": [
+          "12px",
+          {
+            "lineHeight": "16px",
+            "letterSpacing": "0.04em",
+            "fontWeight": "600"
+          }
+        ],
+        "body-reader": [
+          "18px",
+          {
+            "lineHeight": "32px",
+            "letterSpacing": "0.005em",
+            "fontWeight": "400"
+          }
+        ],
+        "headline-sm": [
+          "22px",
+          {
+            "lineHeight": "30px",
+            "fontWeight": "600"
+          }
+        ]
+      }
+    }
+  }
+};</script></head><body class="bg-surface-container-lowest font-body-ui text-body-ui text-on-surface antialiased"><header class="fixed top-0 w-full z-50 bg-surface-container-lowest/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-sm"><a class="flex items-center gap-space-xs" data-path="home" href="#"><span class="material-symbols-outlined text-primary text-[28px]">local_library</span><span class="font-['Share_Tech_Mono'] text-[24px] tracking-wider font-bold bg-gradient-to-r from-primary via-secondary to-tertiary-container bg-clip-text text-transparent uppercase">ALEXANDRIA</span></a></div><nav class="hidden lg:flex items-center gap-space-lg" data-active-classes="bg-primary-container text-on-primary-container font-label-ui text-label-ui rounded"><a aria-current="page" class="uppercase tracking-wider transition-colors py-space-2xs px-space-xs bg-primary-container text-on-primary-container font-label-ui text-label-ui rounded" data-path="home" href="#">Home</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs inline-flex items-center gap-space-2xs" data-path="banned-books" href="#"><span class="w-2 h-2 rounded-full bg-error-container ring-2 ring-error/30 animate-pulse"></span>Banned Books</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="library" href="#">Library</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="micro-learning" href="#">Micro-Learning</a><a class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface-variant hover:text-on-surface transition-colors py-space-2xs px-space-xs" data-path="contribute" href="#">Contribute</a></nav><div class="flex items-center gap-space-md"><button class="font-code-badge text-code-badge px-space-md py-space-xs rounded bg-surface-container-low text-primary hover:bg-surface-container-high hover:text-on-surface border border-outline-variant hover:border-primary transition-all duration-200 uppercase tracking-wider hidden sm:flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[16px]">account_balance_wallet</span>Connect Wallet</button><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-surface-container-lowest min-h-screen"><div class="flex flex-col w-full">
+<!-- PAGE HERO / HEADER -->
+<section class="w-full bg-surface-container-lowest border-b border-surface-container-highest/60 relative overflow-hidden py-space-3xl md:py-space-4xl">
+<!-- Ambient cryptographic back-glow elements -->
+<div class="absolute -top-24 -left-20 w-96 h-96 bg-primary/5 rounded-full blur-3xl pointer-events-none"></div>
+<div class="absolute -bottom-24 right-10 w-[28rem] h-[28rem] bg-error/5 rounded-full blur-3xl pointer-events-none"></div>
+<div class="max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop flex flex-col items-center text-center relative z-10">
+<!-- Monospace Archival Label -->
+<div class="flex items-center gap-space-xs mb-space-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">verified_user</span>
+<span class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-[0.25em] text-on-surface-variant font-semibold">
+          THE ALEXANDRIA LIBRARY · IMMUTABLE DEPOSITORY
+        </span>
+</div>
+<!-- Main Editorial Headline -->
+<h1 class="font-display-hero text-headline-lg-mobile md:text-display-hero text-on-surface tracking-tight max-w-3xl mb-space-md">
+        Books That Were Silenced.
+      </h1>
+<!-- Monospace Subheadline -->
+<p class="font-['Share_Tech_Mono'] text-body-ui md:text-[17px] text-on-surface-variant max-w-2xl mx-auto leading-relaxed mb-space-lg">
+        Every book on this page was removed, burned, or banned. Every one is free to read here.
+      </p>
+<!-- Stat Badge with Glowing Beacon -->
+<div class="inline-flex items-center gap-space-xs px-space-md py-space-xs rounded bg-surface-container-low border border-primary/30 shadow-[0_0_15px_rgba(46,204,113,0.1)]">
+<span class="relative flex h-2.5 w-2.5">
+<span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+<span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-primary"></span>
+</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary font-bold uppercase tracking-wider">
+          28 books · and counting
+        </span>
+<span class="text-on-surface-variant font-code-meta text-code-meta">| Flow Block #74,891,220</span>
+</div>
+</div>
+</section>
+<!-- STICKY FILTER + SEARCH BAR -->
+<section class="sticky top-20 z-40 w-full bg-[#0d0d14]/95 backdrop-blur-xl border-b border-primary/30 shadow-[0_10px_30px_rgba(0,0,0,0.65)] py-space-md">
+<div class="max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop">
+<div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-space-md">
+<!-- Left: Era & Reason Filter Pills -->
+<div class="flex flex-col gap-space-xs w-full lg:w-auto">
+<!-- Row 1: Era Filter Chips -->
+<div class="flex flex-wrap items-center gap-space-2xs" id="era-filters">
+<span class="font-['Share_Tech_Mono'] text-[11px] text-on-surface-variant mr-1 uppercase">Era:</span>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-primary text-on-primary font-bold border border-primary transition-all duration-150" data-filter="all">
+              All Eras
+            </button>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-on-surface hover:text-on-surface transition-all duration-150" data-filter="16-17">
+              16th–17th Century
+            </button>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-on-surface hover:text-on-surface transition-all duration-150" data-filter="18">
+              18th Century
+            </button>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-on-surface hover:text-on-surface transition-all duration-150" data-filter="19">
+              19th Century
+            </button>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-on-surface hover:text-on-surface transition-all duration-150" data-filter="20">
+              20th Century
+            </button>
+<button class="era-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-on-surface hover:text-on-surface transition-all duration-150" data-filter="modern">
+              Modern
+            </button>
+</div>
+<!-- Row 2: Reason Filter Chips -->
+<div class="flex flex-wrap items-center gap-space-2xs" id="reason-filters">
+<span class="font-['Share_Tech_Mono'] text-[11px] text-on-surface-variant mr-1 uppercase">Ban:</span>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-error-container text-on-error-container font-bold border border-error-container transition-all duration-150" data-reason="all">
+              All Reasons
+            </button>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-error-container hover:text-error transition-all duration-150" data-reason="political">
+              Political
+            </button>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-error-container hover:text-error transition-all duration-150" data-reason="religious">
+              Religious
+            </button>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-error-container hover:text-error transition-all duration-150" data-reason="sexual">
+              Sexual / Body
+            </button>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-error-container hover:text-error transition-all duration-150" data-reason="racial">
+              Racial
+            </button>
+<button class="reason-chip px-3 py-1 text-code-badge font-['Share_Tech_Mono'] uppercase rounded-full bg-surface-container-low text-on-surface-variant border border-outline-variant hover:border-error-container hover:text-error transition-all duration-150" data-reason="lgbtq">
+              LGBTQ+
+            </button>
+</div>
+</div>
+<!-- Right: Search & Sort Tools -->
+<div class="flex items-center gap-space-sm w-full lg:w-auto self-end lg:self-center">
+<div class="relative w-full sm:w-64">
+<span class="material-symbols-outlined absolute left-3 top-2.5 text-on-surface-variant text-[18px]">search</span>
+<input class="w-full bg-surface-container-low border border-outline-variant/60 rounded px-3 pl-9 py-2 text-body-ui-sm text-on-surface placeholder:text-on-surface-variant/60 focus:outline-none focus:border-primary transition-colors" id="book-search-input" placeholder="Search by title or author..." type="text"/>
+</div>
+<div class="relative min-w-[180px]">
+<select class="w-full appearance-none bg-surface-container-low border border-outline-variant/60 text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta rounded px-3 py-2 pr-8 focus:outline-none focus:border-primary cursor-pointer transition-colors" id="sort-select">
+<option value="earliest">Sort: Chronological (Earliest)</option>
+<option value="latest">Sort: Chronological (Latest)</option>
+<option value="title">Sort: Title A-Z</option>
+<option value="severity">Sort: Censorship Severity</option>
+</select>
+<span class="material-symbols-outlined absolute right-2.5 top-2.5 text-on-surface-variant pointer-events-none text-[16px]">expand_more</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- CATALOG GRID AREA -->
+<section class="w-full bg-[#111118] py-space-3xl">
+<div class="max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop">
+<!-- Censorship Jurisdiction Alert Bar -->
+<div class="mb-space-xl p-space-md rounded bg-surface-container-low border-l-[3px] border-l-error-container border border-outline-variant/30 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-error-container text-[24px]">gavel</span>
+<div>
+<div class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface font-bold">Historical Suppression Register</div>
+<div class="font-body-ui-sm text-body-ui-sm text-on-surface-variant">Archived works with permanent cryptographic hashes stored across the Flow Node Network.</div>
+</div>
+</div>
+<div class="flex items-center gap-space-xs font-['Share_Tech_Mono'] text-code-badge text-primary bg-surface-container px-space-sm py-space-2xs rounded border border-primary/20">
+<span class="material-symbols-outlined text-[14px]">lock_open</span> ZERO TAKEDOWN COMPLIANCE
+        </div>
+</div>
+<!-- 3-COLUMN BOOK CARD GRID -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-space-xl" id="books-grid">
+<!-- CARD 1: Adventures of Huckleberry Finn -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Mark Twain" data-era="19" data-reason="racial" data-title="Adventures of Huckleberry Finn" data-year="1884">
+<!-- Cover Panel: Burgundy (#4a1521) -->
+<div class="relative bg-gradient-to-br from-[#4a1521] via-[#391019] to-[#24070d] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<!-- Background typographic watermarking -->
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1884</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<!-- Red Banned Stamp Badge -->
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Adventures of Huckleberry Finn
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Mark Twain</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1884</span>
+</div>
+</div>
+<!-- Card Body -->
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: MARK TWAIN</span>
+<span class="text-on-surface font-semibold">1884 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Removed from public libraries across the USA for racial language”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 2: Les Misérables -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Victor Hugo" data-era="19" data-reason="political" data-title="Les Misérables" data-year="1862">
+<!-- Cover Panel: Burgundy (#5c1827) -->
+<div class="relative bg-gradient-to-br from-[#5c1827] via-[#43121d] to-[#25090f] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1862</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Les Misérables
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Victor Hugo</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1862</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: VICTOR HUGO</span>
+<span class="text-on-surface font-semibold">1862 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned in France, Italy, and Spain for glorifying revolution and criminals”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 3: Leaves of Grass -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Walt Whitman" data-era="19" data-reason="sexual" data-title="Leaves of Grass" data-year="1855">
+<!-- Cover Panel: Burgundy (#4a1521) -->
+<div class="relative bg-gradient-to-br from-[#4a1521] via-[#330f17] to-[#1c060c] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1855</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Leaves of Grass
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Walt Whitman</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1855</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: WALT WHITMAN</span>
+<span class="text-on-surface font-semibold">1855 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned by Boston DA in 1882 for obscenity”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 4: The Communist Manifesto -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Karl Marx &amp; Friedrich Engels" data-era="19" data-reason="political" data-title="The Communist Manifesto" data-year="1848">
+<!-- Cover Panel: Burgundy (#5c1827) -->
+<div class="relative bg-gradient-to-br from-[#5c1827] via-[#43121d] to-[#25090f] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1848</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                The Communist Manifesto
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Marx &amp; Engels</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1848</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>K. MARX &amp; F. ENGELS</span>
+<span class="text-on-surface font-semibold">1848 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned across the Western world during the Cold War”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 5: Madame Bovary -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Gustave Flaubert" data-era="19" data-reason="sexual" data-title="Madame Bovary" data-year="1857">
+<!-- Cover Panel: Burgundy (#4a1521) -->
+<div class="relative bg-gradient-to-br from-[#4a1521] via-[#330f17] to-[#1c060c] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1857</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Madame Bovary
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Gustave Flaubert</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1857</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: GUSTAVE FLAUBERT</span>
+<span class="text-on-surface font-semibold">1857 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Author tried for obscenity in France; acquitted”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 6: Candide -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Voltaire" data-era="18" data-reason="religious" data-title="Candide" data-year="1759">
+<!-- Cover Panel: Dark Amber / Ochre (#5c3a10 / #6e4414) -->
+<div class="relative bg-gradient-to-br from-[#6e4414] via-[#5c3a10] to-[#362106] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1759</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                18th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Candide
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Voltaire</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1759</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: VOLTAIRE</span>
+<span class="text-on-surface font-semibold">1759 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Burned in Paris on publication; condemned by the Church”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 7: The Awakening -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Kate Chopin" data-era="19" data-reason="sexual" data-title="The Awakening" data-year="1899">
+<!-- Cover Panel: Burgundy (#4a1521) -->
+<div class="relative bg-gradient-to-br from-[#4a1521] via-[#391019] to-[#24070d] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1899</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                19th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                The Awakening
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Kate Chopin</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1899</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: KATE CHOPIN</span>
+<span class="text-on-surface font-semibold">1899 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Pulled from St. Louis library shelves for being 'vulgar'”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 8: Gulliver's Travels -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Jonathan Swift" data-era="18" data-reason="political" data-title="Gulliver's Travels" data-year="1726">
+<!-- Cover Panel: Dark Amber (#5c3a10 / #6e4414) -->
+<div class="relative bg-gradient-to-br from-[#6e4414] via-[#5c3a10] to-[#362106] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1726</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-tertiary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                18th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Gulliver's Travels
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-tertiary-fixed-dim">Jonathan Swift</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1726</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: JONATHAN SWIFT</span>
+<span class="text-on-surface font-semibold">1726 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned in Ireland for political satire against British rule”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 9: The Jungle -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Upton Sinclair" data-era="20" data-reason="political" data-title="The Jungle" data-year="1906">
+<!-- Cover Panel: Dark Navy (#101c3d / #16244f) -->
+<div class="relative bg-gradient-to-br from-[#16244f] via-[#101c3d] to-[#0a1126] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1906</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-secondary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                20th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                The Jungle
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-secondary-fixed-dim">Upton Sinclair</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1906</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: UPTON SINCLAIR</span>
+<span class="text-on-surface font-semibold">1906 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned in East Germany, Yugoslavia, and Soviet Union”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 10: Sons and Lovers -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="D.H. Lawrence" data-era="20" data-reason="sexual" data-title="Sons and Lovers" data-year="1913">
+<!-- Cover Panel: Dark Navy (#101c3d / #16244f) -->
+<div class="relative bg-gradient-to-br from-[#16244f] via-[#101c3d] to-[#0a1126] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1913</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-secondary-fixed-dim uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                20th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Sons and Lovers
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-secondary-fixed-dim">D.H. Lawrence</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1913</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: D.H. LAWRENCE</span>
+<span class="text-on-surface font-semibold">1913 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned in UK and Australia for sexual content”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 11: The Prince -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Niccolò Machiavelli" data-era="16-17" data-reason="political" data-title="The Prince" data-year="1532">
+<!-- Cover Panel: Deep Forest / Dark Olive Green (#133320 / #184229) -->
+<div class="relative bg-gradient-to-br from-[#184229] via-[#133320] to-[#0c2215] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1532</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-primary uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                16th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                The Prince
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed">N. Machiavelli</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1532</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>AUTHOR: NICCOLÒ MACHIAVELLI</span>
+<span class="text-on-surface font-semibold">1532 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Placed on the Index Librorum Prohibitorum by the Catholic Church”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+<!-- CARD 12: Don Quixote -->
+<article class="book-card bg-[#1a1a2e] border border-white/[0.08] hover:border-primary rounded-lg overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-xl hover:-translate-y-1 relative group" data-author="Miguel de Cervantes" data-era="16-17" data-reason="religious" data-title="Don Quixote" data-year="1605">
+<!-- Cover Panel: Deep Forest / Dark Olive Green (#133320 / #184229) -->
+<div class="relative bg-gradient-to-br from-[#184229] via-[#133320] to-[#0c2215] p-space-lg flex flex-col justify-between min-h-[260px] border-b border-white/[0.06] overflow-hidden">
+<div class="absolute -right-6 -bottom-8 font-title-editorial text-[110px] text-white/[0.03] select-none pointer-events-none font-bold">1605</div>
+<div class="flex items-start justify-between relative z-10">
+<span class="font-['Share_Tech_Mono'] text-code-badge text-primary uppercase tracking-wider bg-black/40 px-2 py-0.5 rounded border border-white/10">
+                17th Century Archive
+              </span>
+<div class="rotate-[-6deg] bg-[#c0392b] text-white font-['Share_Tech_Mono'] font-bold text-code-badge px-2.5 py-1 tracking-widest uppercase border border-dashed border-white/80 shadow-md">
+                BANNED
+              </div>
+</div>
+<div class="my-auto py-space-md relative z-10">
+<h2 class="font-headline-sm text-headline-sm text-white drop-shadow-md leading-tight group-hover:text-primary-fixed transition-colors">
+                Don Quixote
+              </h2>
+</div>
+<div class="flex items-center justify-between text-white/50 relative z-10 pt-space-xs border-t border-white/10">
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed">M. de Cervantes</span>
+<span class="font-['Share_Tech_Mono'] text-code-meta text-primary-fixed font-bold">#FLOW-ID-1605</span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col justify-between flex-grow gap-space-md">
+<div>
+<div class="flex items-center justify-between text-on-surface-variant font-['Share_Tech_Mono'] text-code-meta mb-space-xs">
+<span>MIGUEL DE CERVANTES</span>
+<span class="text-on-surface font-semibold">1605 C.E.</span>
+</div>
+<p class="font-body-reader-excerpt text-body-ui-sm text-on-surface-variant italic border-l-2 border-[#c0392b] pl-3 py-1 my-space-xs bg-surface-container-low/40">
+                “Banned by the Inquisition in parts of Latin America”
+              </p>
+</div>
+<div class="flex items-center justify-between pt-space-sm border-t border-white/[0.06]">
+<a class="font-body-ui-sm text-primary font-semibold hover:underline inline-flex items-center gap-1 group-hover:gap-2 transition-all" href="#">
+                Learn More <span class="text-xs">→</span>
+</a>
+<button class="font-['Share_Tech_Mono'] text-code-badge uppercase tracking-wider text-white border border-white/20 hover:border-primary hover:text-primary px-3 py-1.5 rounded transition-colors flex items-center gap-1">
+                Read On-Chain →
+              </button>
+</div>
+</div>
+</article>
+</div>
+<!-- No search results state (hidden by default) -->
+<div class="hidden text-center py-space-3xl space-y-space-sm bg-surface-container-low rounded-lg border border-white/5 mt-space-lg" id="no-results">
+<span class="material-symbols-outlined text-outline text-[48px]">search_off</span>
+<h3 class="font-headline-sm text-headline-sm text-on-surface">No Silenced Books Match Query</h3>
+<p class="font-['Share_Tech_Mono'] text-code-meta text-on-surface-variant max-w-md mx-auto">Adjust era filters or search term to discover other suppressed works in the Alexandria archives.</p>
+<button class="font-['Share_Tech_Mono'] text-code-badge text-primary uppercase border border-primary/40 px-4 py-2 rounded hover:bg-primary/10 transition-colors" id="reset-filters-btn">Reset All Filters</button>
+</div>
+<!-- PAGINATION / LOAD MORE SECTION -->
+<div class="mt-space-3xl pt-space-2xl border-t border-white/[0.08] flex flex-col items-center text-center">
+<p class="font-['Share_Tech_Mono'] text-code-meta text-on-surface-variant mb-space-md tracking-wider uppercase">
+          Showing <span class="text-primary font-bold" id="visible-count">12</span> of 28 preserved titles
+        </p>
+<button class="font-label-ui text-body-ui uppercase tracking-wider text-white border-2 border-white px-8 py-3 rounded-md hover:bg-white/10 hover:border-primary hover:text-primary transition-all duration-200 font-semibold shadow-lg mb-space-md flex items-center gap-2" id="load-more-btn">
+<span>Load More Silenced Books</span>
+<span class="text-base">↓</span>
+</button>
+<div class="flex items-center gap-space-2xs text-on-surface-variant max-w-md mx-auto">
+<span class="material-symbols-outlined text-primary text-[16px] shrink-0">lock</span>
+<p class="font-['Share_Tech_Mono'] text-code-badge text-on-surface-variant text-[11px] leading-relaxed">
+            All texts decrypted and served peer-to-peer via Flow Cadence smart contracts.
+          </p>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- CLIENT INTERACTIVITY SCRIPT -->
+<script>
+  (function() {
+    let currentEra = 'all';
+    let currentReason = 'all';
+    let currentQuery = '';
+
+    const eraChips = document.querySelectorAll('.era-chip');
+    const reasonChips = document.querySelectorAll('.reason-chip');
+    const searchInput = document.getElementById('book-search-input');
+    const sortSelect = document.getElementById('sort-select');
+    const cardsGrid = document.getElementById('books-grid');
+    const noResults = document.getElementById('no-results');
+    const visibleCount = document.getElementById('visible-count');
+    const resetBtn = document.getElementById('reset-filters-btn');
+    const loadMoreBtn = document.getElementById('load-more-btn');
+
+    function filterAndSortBooks() {
+      const cards = Array.from(cardsGrid.querySelectorAll('.book-card'));
+      let visible = 0;
+
+      cards.forEach(card => {
+        const era = card.getAttribute('data-era');
+        const reason = card.getAttribute('data-reason');
+        const title = (card.getAttribute('data-title') || '').toLowerCase();
+        const author = (card.getAttribute('data-author') || '').toLowerCase();
+
+        const matchEra = (currentEra === 'all') || (era === currentEra);
+        const matchReason = (currentReason === 'all') || (reason === currentReason);
+        const matchQuery = !currentQuery || title.includes(currentQuery) || author.includes(currentQuery);
+
+        if (matchEra && matchReason && matchQuery) {
+          card.classList.remove('hidden');
+          card.classList.add('flex');
+          visible++;
+        } else {
+          card.classList.add('hidden');
+          card.classList.remove('flex');
+        }
+      });
+
+      if (visibleCount) visibleCount.textContent = visible;
+      if (noResults) {
+        if (visible === 0) {
+          noResults.classList.remove('hidden');
+        } else {
+          noResults.classList.add('hidden');
+        }
+      }
+    }
+
+    // Era filter handling
+    eraChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        eraChips.forEach(c => {
+          c.classList.remove('bg-primary', 'text-on-primary', 'font-bold', 'border-primary');
+          c.classList.add('bg-surface-container-low', 'text-on-surface-variant', 'border-outline-variant');
+        });
+        chip.classList.add('bg-primary', 'text-on-primary', 'font-bold', 'border-primary');
+        chip.classList.remove('bg-surface-container-low', 'text-on-surface-variant', 'border-outline-variant');
+        currentEra = chip.getAttribute('data-filter') || 'all';
+        filterAndSortBooks();
+      });
+    });
+
+    // Reason filter handling
+    reasonChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        reasonChips.forEach(c => {
+          c.classList.remove('bg-error-container', 'text-on-error-container', 'font-bold', 'border-error-container');
+          c.classList.add('bg-surface-container-low', 'text-on-surface-variant', 'border-outline-variant');
+        });
+        chip.classList.add('bg-error-container', 'text-on-error-container', 'font-bold', 'border-error-container');
+        chip.classList.remove('bg-surface-container-low', 'text-on-surface-variant', 'border-outline-variant');
+        currentReason = chip.getAttribute('data-reason') || 'all';
+        filterAndSortBooks();
+      });
+    });
+
+    // Search input
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        currentQuery = (e.target.value || '').trim().toLowerCase();
+        filterAndSortBooks();
+      });
+    }
+
+    // Sort order
+    if (sortSelect) {
+      sortSelect.addEventListener('change', (e) => {
+        const val = e.target.value;
+        const cards = Array.from(cardsGrid.querySelectorAll('.book-card'));
+        cards.sort((a, b) => {
+          const yearA = parseInt(a.getAttribute('data-year') || '0', 10);
+          const yearB = parseInt(b.getAttribute('data-year') || '0', 10);
+          const titleA = (a.getAttribute('data-title') || '').toLowerCase();
+          const titleB = (b.getAttribute('data-title') || '').toLowerCase();
+
+          if (val === 'earliest') return yearA - yearB;
+          if (val === 'latest') return yearB - yearA;
+          if (val === 'title') return titleA.localeCompare(titleB);
+          return 0;
+        });
+        cards.forEach(c => cardsGrid.appendChild(c));
+      });
+    }
+
+    // Reset button
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        currentEra = 'all';
+        currentReason = 'all';
+        currentQuery = '';
+        if (searchInput) searchInput.value = '';
+        
+        eraChips[0].click();
+        reasonChips[0].click();
+      });
+    }
+
+    // Mock load more
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', () => {
+        loadMoreBtn.innerHTML = `<span class="material-symbols-outlined animate-spin text-[18px]">sync</span> Fetching Flow Protocol Nodes...`;
+        setTimeout(() => {
+          loadMoreBtn.innerHTML = `Preservation Node Synced (All 28 Available)`;
+          loadMoreBtn.classList.add('opacity-70', 'cursor-not-allowed');
+          if (visibleCount) visibleCount.textContent = '28';
+        }, 800);
+      });
+    }
+  })();
+</script></main><footer class="w-full bg-surface-dim mt-space-4xl"><div class="max-w-[1280px] mx-auto px-gutter-mobile md:px-gutter-tablet lg:px-gutter-desktop py-space-3xl"><div class="grid grid-cols-1 md:grid-cols-4 gap-space-2xl pb-space-2xl"><div class="md:col-span-2 space-y-space-md"><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-primary text-[24px]">local_library</span><span class="font-['Share_Tech_Mono'] text-[22px] tracking-wider font-bold bg-gradient-to-r from-primary via-secondary to-tertiary-container bg-clip-text text-transparent uppercase">ALEXANDRIA</span></div><p class="font-body-reader-excerpt text-body-reader-excerpt text-on-surface-variant max-w-sm italic">Knowledge belongs to everyone, forever.</p><div class="inline-flex items-center gap-space-xs px-space-sm py-space-2xs rounded bg-surface-container-lowest"><span class="w-2 h-2 rounded-full bg-primary animate-ping"></span><span class="font-code-badge text-code-badge uppercase text-primary tracking-wider">Built on Flow blockchain</span><span class="font-code-meta text-code-meta text-on-surface-variant">• Mainnet Verifiable</span></div></div><div class="space-y-space-sm"><span class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface font-semibold block">Archive Access</span><ul class="space-y-space-2xs font-body-ui-sm text-body-ui-sm"><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Universal Catalog</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Censorship Chronicle</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Jurisdiction Map</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Permanent Node Registry</li></ul></div><div class="space-y-space-sm"><span class="font-label-ui text-label-ui uppercase tracking-wider text-on-surface font-semibold block">Preservation &amp; Protocol</span><ul class="space-y-space-2xs font-body-ui-sm text-body-ui-sm"><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Deposit Manuscript</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">IPFS &amp; Arweave Mirrored</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Cadence Smart Contracts</li><li class="text-on-surface-variant hover:text-on-surface transition-colors cursor-pointer">Tribunal Filings Log</li></ul></div></div><div class="pt-space-xl flex flex-col sm:flex-row items-center justify-between gap-space-md"><div class="font-code-meta text-code-meta text-on-surface-variant">© 2024 Alexandria Protocol. Immutable Cultural Commons.</div><div class="flex items-center gap-space-lg font-code-meta text-code-meta text-on-surface-variant"><span class="hover:text-on-surface transition-colors cursor-pointer">Zero Censorship</span><span class="hover:text-on-surface transition-colors cursor-pointer">Decentralized Storage</span><span class="hover:text-on-surface transition-colors cursor-pointer">Flow Epoch #842</span></div></div></div></footer></body></html>

@@ -1,5 +1,7 @@
 'use client'
+import Link from 'next/link'
 import { useMemo } from 'react'
+import { bannedTitleToSlug, bannedTitles } from '@/lib/bannedBooksData'
 
 type GenreWithBooks = { genre: string; books: string[] | null }
 
@@ -10,6 +12,20 @@ type Props = {
   searchQuery: string
   onSearchChange: (query: string) => void
   onSelectBook: (title: string) => void
+}
+
+function BannedBadge({ title }: { title: string }) {
+  const slug = bannedTitleToSlug.get(title)
+  if (!slug) return null
+  return (
+    <Link
+      href={`/banned-books/${slug}`}
+      onClick={(e) => e.stopPropagation()}
+      className="ml-2 inline-flex shrink-0 items-center rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-amber-800 hover:bg-amber-200 transition-colors"
+    >
+      Banned
+    </Link>
+  )
 }
 
 export default function GenrePanels({
@@ -68,7 +84,7 @@ export default function GenrePanels({
             aria-label="Search books by name, genre, or author"
             className="w-full min-h-[44px] rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-base text-gray-800 placeholder:text-gray-400
               focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20
-              sm:min-h-0 sm:flex-1 sm:max-w-[320px] sm:py-2 sm:text-sm"
+              sm:flex-1 sm:max-w-[320px] sm:text-sm"
           />
         </div>
         <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
@@ -81,7 +97,7 @@ export default function GenrePanels({
             onChange={(e) => onGenreFilterChange(e.target.value)}
             className="w-full min-h-[44px] rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-base text-gray-800
               focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20
-              sm:min-h-0 sm:w-auto sm:max-w-[260px] sm:py-2 sm:text-sm"
+              sm:w-auto sm:max-w-[260px] sm:text-sm"
           >
             <option value="">All genres</option>
             {sortedGenres.map((g) => (
@@ -109,17 +125,16 @@ export default function GenrePanels({
               <ul className="space-y-0">
                 {books.map((title) => (
                   <li key={title}>
-                    <button
-                      type="button"
-                      onClick={() => onSelectBook(title)}
-                      className="min-h-[44px] w-full text-left py-2.5 px-3 -mx-3 rounded-md text-[15px] text-gray-800
-                        active:bg-gray-100
-                        sm:min-h-0 sm:py-1.5 sm:px-2 sm:-mx-2 sm:text-sm
-                        hover:bg-emerald-50 hover:text-emerald-800
-                        focus:outline-none focus:ring-2 focus:ring-emerald-500/30 focus:ring-inset"
-                    >
-                      {title}
-                    </button>
+                    <div className="flex min-h-[44px] w-full items-center gap-2 rounded-md px-2 py-1 -mx-2 hover:bg-emerald-50">
+                      <button
+                        type="button"
+                        onClick={() => onSelectBook(title)}
+                        className="min-h-[44px] flex-1 text-left text-[15px] text-gray-800 hover:text-emerald-800 focus:outline-none focus:ring-2 focus:ring-emerald-500/30 sm:text-sm"
+                      >
+                        {title}
+                      </button>
+                      {bannedTitles.has(title) && <BannedBadge title={title} />}
+                    </div>
                   </li>
                 ))}
               </ul>
