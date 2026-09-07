@@ -320,6 +320,24 @@ contract Alexandria {
             return self.paragraphs[paragraphIndex]
         }
     }
+
+    // -----------------------------------------------------------------------
+    // Sharded title indexes (per-author / per-genre storage paths)
+    // -----------------------------------------------------------------------
+    // New book titles are appended here instead of growing the contract-level
+    // authors/genres arrays on every addBook (keeps each write bounded).
+    access(all) resource TitleList {
+        access(all) var titles: [String]
+
+        init() {
+            self.titles = []
+        }
+
+        access(contract) fun appendTitle(_ title: String) {
+            self.titles.append(title)
+        }
+    }
+
     // -----------------------------------------------------------------------
 	// User Preferences Resource
 	// -----------------------------------------------------------------------
@@ -417,24 +435,19 @@ contract Alexandria {
             let identifier = "Alexandria_Library_\(Alexandria.account.address)_\(title)"
             // Add the book's details to the library's catalog
             Alexandria.titles[title] = newBook.Title
-            // Check if this Author already exists
+            // Register author/genre keys once; append titles to sharded indexes
             if Alexandria.authors[author] == nil {
-                // create new list of titles under this author
                 Alexandria.authors[author] = []
-                // add this title to the list
-                Alexandria.authors[author]!.append(title)  
-            } else {
-                // Add title to the list of titles under this author
-                Alexandria.authors[author]!.append(title)    
             }
-            Alexandria.titles[author] = newBook.Author
-            // Check if this Genre already exists
+            Alexandria.borrowOrCreateTitleList(
+                identifier: Alexandria.authorIndexIdentifier(author: author)
+            ).appendTitle(title)
             if Alexandria.genres[genre] == nil {
                 Alexandria.genres[genre] = []
-                Alexandria.genres[genre]!.append(title)    
-            } else {
-                Alexandria.genres[genre]!.append(title)    
             }
+            Alexandria.borrowOrCreateTitleList(
+                identifier: Alexandria.genreIndexIdentifier(genre: genre)
+            ).appendTitle(title)
             // add new book to the library
 		    Alexandria.account.storage.save(<- newBook, to: StoragePath(identifier: identifier)!)
             // Emit book added event
@@ -634,15 +647,80 @@ contract Alexandria {
     fun getAllGenres(): [String] {
         return self.genres.keys
     }
+    access(all) view fun hasBook(title: String): Bool {
+        return self.titles[title] != nil
+    }
+
+    access(all) fun hasBooksBatch(titles: [String]): [Bool] {
+        var out: [Bool] = []
+        for t in titles {
+            out.append(self.titles[t] != nil)
+        }
+        return out
+    }
+
+    access(all) view fun getAllBookTitles(): [String] {
+        return self.titles.keys
+    }
+
+    access(self) fun authorIndexIdentifier(author: String): String {
+        return "Alexandria_Library_\(Alexandria.account.address)_AuthorIdx_\(author)"
+    }
+
+    access(self) fun genreIndexIdentifier(genre: String): String {
+        return "Alexandria_Library_\(Alexandria.account.address)_GenreIdx_\(genre)"
+    }
+
+    access(self) fun authorIndexPath(author: String): StoragePath {
+        return StoragePath(identifier: Alexandria.authorIndexIdentifier(author: author))!
+    }
+
+    access(self) fun genreIndexPath(genre: String): StoragePath {
+        return StoragePath(identifier: Alexandria.genreIndexIdentifier(genre: genre))!
+    }
+
+    access(self) fun borrowOrCreateTitleList(identifier: String): &TitleList {
+        let path = StoragePath(identifier: identifier)!
+        if let existing = Alexandria.account.storage.borrow<&TitleList>(from: path) {
+            return existing
+        }
+        Alexandria.account.storage.save(<- create TitleList(), to: path)
+        return Alexandria.account.storage.borrow<&TitleList>(from: path)!
+    }
+
+    access(self) fun mergeTitleLists(_ historical: [String], shardRef: &TitleList): [String] {
+        var merged = historical
+        for title in shardRef.titles {
+            merged.append(title)
+        }
+        return merged
+    }
+
     // Fetch all titles under a genre
     access(all)
     fun getGenre(genre: String): [String]? {
-        return self.genres[genre]
+        let historical = self.genres[genre]
+        if historical == nil {
+            return nil
+        }
+        let shard = Alexandria.account.storage.borrow<&TitleList>(from: Alexandria.genreIndexPath(genre: genre))
+        if shard == nil {
+            return historical
+        }
+        return Alexandria.mergeTitleLists(historical!, shardRef: shard!)
     }
     // Fetch all titles under an author
     access(all)
     fun getAuthor(author: String): [String]? {
-        return self.authors[author]
+        let historical = self.authors[author]
+        if historical == nil {
+            return nil
+        }
+        let shard = Alexandria.account.storage.borrow<&TitleList>(from: Alexandria.authorIndexPath(author: author))
+        if shard == nil {
+            return historical
+        }
+        return Alexandria.mergeTitleLists(historical!, shardRef: shard!)
     }
     init() {
         let identifier = "Alexandria_Library_\(self.account.address)_"

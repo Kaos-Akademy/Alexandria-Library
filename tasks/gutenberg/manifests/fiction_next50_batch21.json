@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 399,
+      "title": "Cast Upon the Breakers",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Conduct of life -- Juvenile fiction; Friendship -- Juvenile fiction; Poverty -- Juvenile fiction; New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 811,
+      "title": "The Tragical History of Doctor Faustus\r\nFrom the Quarto of 1616",
+      "author": "Marlowe, Christopher, 1564-1593; Dyce, Alexander, 1798-1869 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Germany -- Drama; Tragedies (Drama); Faust, -approximately 1540 -- Drama; Magicians -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 829,
+      "title": "Gulliver's Travels into Several Remote Nations of the World",
+      "author": "Swift, Jonathan, 1667-1745",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Travelers -- Fiction; Gulliver, Lemuel (Fictitious character) -- Fiction; Voyages, Imaginary -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 885,
+      "title": "An Ideal Husband",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; London (England) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 902,
+      "title": "The Happy Prince, and Other Tales",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Children's stories, English; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 914,
+      "title": "The Uncommercial Traveller",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Social conditions -- 19th century; London (England) -- Description and travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 916,
+      "title": "Sketches of Young Couples",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century; Couples -- England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 949,
+      "title": "Tom Swift and His Submarine Boat; Or, Under the Ocean for Sunken Treasure",
+      "author": "Appleton, Victor",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Treasure troves -- Juvenile fiction; Submarines (Ships) -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1533,
+      "title": "Macbeth",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Regicides -- Drama; Macbeth, King of Scotland, active 11th century -- Drama; Scotland -- Kings and rulers -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1537,
+      "title": "Pericles, Prince of Tyre",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragicomedy; Princes -- Lebanon -- Tyre -- Drama; Tyre (Lebanon) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1544,
+      "title": "The Passionate Pilgrim",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1545,
+      "title": "Mucedorus",
+      "author": "Shakespeare, William, 1564-1616 [Dubious author]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1546,
+      "title": "Sonnets on Sundry Notes of Music",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1547,
+      "title": "Sir Thomas More",
+      "author": "Shakespeare, William, 1564-1616 [Dubious author]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "More, Thomas, Saint, 1478-1535 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1548,
+      "title": "Locrine",
+      "author": "Shakespeare, William, 1564-1616 [Dubious author]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Britons -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1550,
+      "title": "A Lady of Quality\r\nBeing a Most Curious, Hitherto Unknown History, as Related by Mr. Isaac Bickerstaff but Not Presented to the World of Fashion Through the Pages of The Tatler, and Now for the First Time Written Down",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Nobility -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1551,
+      "title": "A Cathedral Courtship",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Diary fiction; Americans -- England -- Fiction; England -- Description and travel -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1552,
+      "title": "The Lock and Key Library: The Most Interesting Stories of All Nations: North Europe \u2014 Russian \u2014 Swedish \u2014 Danish \u2014 Hungarian",
+      "author": "Hawthorne, Julian, 1846-1934 [Editor]; B\u00e1rsony, Istv\u00e1n, 1855-1928 [Contributor]; Bergs\u00f8e, Vilhelm, 1835-1911 [Contributor]; Blicher, Steen Steensen, 1782-1848 [Contributor]; Chekhov, Anton Pavlovich, 1860-1904 [Contributor]; Dostoyevsky, Fyodor, 1821-1881 [Contributor]; Elck, Arthur [Contributor]; Ingemann, Bernhard Severin, 1789-1862 [Contributor]; J\u00f3kai, M\u00f3r, 1825-1904 [Contributor]; Krestovskii, Vs. Vl. (Vsevolod Vladimirovich), 1840-1895 [Contributor]; Larssen, Otto, 1864-1910 [Contributor]; Moln\u00e1r, Ferenc, 1878-1952 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor]; Zhelikhovskaia, V. P. (Vera Petrovna), 1835-1896 [Contributor]",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1553,
+      "title": "The Hidden Masterpiece",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Biographical fiction; France -- Fiction; French fiction -- Translations into English; Painters -- Fiction; Poussin, Nicolas, 1594?-1665 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1554,
+      "title": "Adieu",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- Social life and customs -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1555,
+      "title": "A Passion in the Desert",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Dowson, Ernest Christopher, 1867-1900 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Fiction; Deserts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1556,
+      "title": "The Marriage Contract",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Marriage -- Fiction; France -- Social life and customs -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1557,
+      "title": "Men of Iron",
+      "author": "Pyle, Howard, 1853-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Knights and knighthood -- Fiction; Great Britain -- History -- Medieval period, 1066-1485 -- Fiction; Great Britain -- History -- Henry IV, 1399-1413 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1559,
+      "title": "A Distinguished Provincial at Paris",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- Social life and customs -- 19th century -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1562,
+      "title": "Little Rivers: A Book of Essays in Profitable Idleness",
+      "author": "Van Dyke, Henry, 1852-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fishing; Outdoor life; American essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1563,
+      "title": "The Crystal Stopper",
+      "author": "Leblanc, Maurice, 1864-1941",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Burglars -- Fiction; Lupin, Ars\u00e8ne (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1565,
+      "title": "The Last Days of Pompeii",
+      "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Pompeii (Extinct city) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1569,
+      "title": "The Lily of the Valley",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Biographical fiction; Love stories; France -- Fiction; Man-woman relationships -- Fiction; French fiction -- Translations into English; Letters -- Fiction; Romance fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1573,
+      "title": "Frank's Campaign; Or, The Farm and the Camp",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Farm life -- Juvenile fiction; United States -- History -- Civil War, 1861-1865 -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1577,
+      "title": "The Grey Room",
+      "author": "Phillpotts, Eden, 1862-1960",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Mystery fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1583,
+      "title": "Options",
+      "author": "Henry, O., 1862-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1585,
+      "title": "The Wrong Box",
+      "author": "Stevenson, Robert Louis, 1850-1894; Osbourne, Lloyd, 1868-1947",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Inheritance and succession -- Fiction; Cousins -- Fiction; Uncles -- Fiction; Brothers -- Fiction; Mystery fiction; Avarice -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1587,
+      "title": "The Black Robe",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Murder -- Fiction; Priesthood -- Fiction; Chastity, Vow of -- Fiction; Dueling -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1588,
+      "title": "A Rogue's Life",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Rogues and vagabonds -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1589,
+      "title": "Tamburlaine the Great \u2014 Part 2",
+      "author": "Marlowe, Christopher, 1564-1593; Dyce, Alexander, 1798-1869 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Timur, 1336-1405 -- Drama; English drama; Tragedies (Drama); Historical drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1590,
+      "title": "The Amazing Interlude",
+      "author": "Rinehart, Mary Roberts, 1876-1958",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1595,
+      "title": "Whirligigs",
+      "author": "Henry, O., 1862-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1596,
+      "title": "Smoke Bellew",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Klondike River Valley (Yukon) -- Gold discoveries -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1597,
+      "title": "Andersen's Fairy Tales",
+      "author": "Andersen, H. C. (Hans Christian), 1805-1875",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Fairy tales -- Denmark; Children's stories, Danish -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1599,
+      "title": "Cinderella; Or, The Little Glass Slipper, and Other Stories",
+      "author": "Anonymous",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Children's stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1602,
+      "title": "Dawn O'Hara: The Girl Who Laughed",
+      "author": "Ferber, Edna, 1885-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Women authors -- Fiction; Reporters and reporting -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1603,
+      "title": "The Blue Flower",
+      "author": "Van Dyke, Henry, 1852-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1604,
+      "title": "The Ebb-Tide: A Trio And Quartette",
+      "author": "Stevenson, Robert Louis, 1850-1894; Osbourne, Lloyd, 1868-1947",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Sea stories; Adventure stories; Oceania -- Fiction; Schooners -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1605,
+      "title": "The Crock of Gold",
+      "author": "Stephens, James, 1882-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Fiction; Fairies -- Fiction; Pan (Greek deity) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1606,
+      "title": "Kenilworth",
+      "author": "Scott, Walter, 1771-1832",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction; Leicester, Robert Dudley, Earl of, 1532?-1588 -- Fiction; Dudley, Amy Robsart, Lady, 1532?-1560 -- Fiction; Kenilworth Castle (Kenilworth, England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1608,
+      "title": "Camille (La Dame aux Camilias)",
+      "author": "Dumas, Alexandre, 1824-1895",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fathers and sons -- Fiction; Love stories; Paris (France) -- Fiction; Courtesans -- Fiction; Tuberculosis -- Patients -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1611,
+      "title": "Seventeen\r\nA Tale of Youth and Summer Time and the Baxter Family, Especially William",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "First loves -- Fiction; Teenage boys -- Fiction; Families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1612,
+      "title": "Poems By a Little Girl",
+      "author": "Conkling, Hilda, 1910-1986; Lowell, Amy, 1874-1925 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's poetry, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1613,
+      "title": "Count Bunker\r\nBeing a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled \"The Lunatic at Large\"",
+      "author": "Clouston, J. Storer (Joseph Storer), 1870-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Nobility -- Germany -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1614,
+      "title": "The Golden Fleece: A Romance",
+      "author": "Hawthorne, Julian, 1846-1934",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

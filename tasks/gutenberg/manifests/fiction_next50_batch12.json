@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 911,
+      "title": "Tales of the Fish Patrol",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Immigrants -- Fiction; Fishers -- Fiction; Fishing villages -- Fiction; San Francisco Bay Area (Calif.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 912,
+      "title": "Mudfog and Other Sketches",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 913,
+      "title": "A Hero of Our Time",
+      "author": "Lermontov, Mikhail Iurevich, 1814-1841; Murray, Marr [Translator]; Wisdom, J. H. [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Caucasus -- Fiction; Russia -- Social life and customs -- 1533-1917 -- Fiction; Russia -- History, Military -- 1801-1917 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 917,
+      "title": "Barnaby Rudge: A Tale of the Riots of 'Eighty",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Historical fiction; Gordon Riots, 1780 -- Fiction; London (England) -- History -- 18th century -- Fiction; Apprentices -- Fiction; Political fiction; Mystery fiction; Locksmiths -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 918,
+      "title": "Sketches of Young Gentlemen",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century; Young men -- England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 921,
+      "title": "De Profundis",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Wilde, Oscar, 1854-1900; Suffering; Grief; Imprisonment",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 924,
+      "title": "To Be Read at Dusk",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Ghost stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 927,
+      "title": "The Lamplighter",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Humorous stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 928,
+      "title": "Alice's Adventures in Wonderland\nHTML Edition",
+      "author": "Carroll, Lewis, 1832-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Children's stories; Imaginary places -- Juvenile fiction; Alice (Fictitious character from Carroll) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 931,
+      "title": "The Bab Ballads",
+      "author": "Gilbert, W. S. (William Schwenck), 1836-1911",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English wit and humor; Humorous poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 932,
+      "title": "The Fall of the House of Usher",
+      "author": "Poe, Edgar Allan, 1809-1849",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Horror tales; Gothic fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 933,
+      "title": "More Bab Ballads",
+      "author": "Gilbert, W. S. (William Schwenck), 1836-1911",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English wit and humor; Humorous poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 934,
+      "title": "Songs of a Savoyard",
+      "author": "Gilbert, W. S. (William Schwenck), 1836-1911",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English wit and humor; Humorous poetry, English; Songs, English -- Texts",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 936,
+      "title": "The Village Watch-Tower",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 937,
+      "title": "Poems: Patriotic, Religious, Miscellaneous",
+      "author": "Ryan, Abram Joseph, 1839-1886",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "United States -- History -- Civil War, 1861-1865 -- Poetry; American poetry -- 19th century; Patriotism -- Poetry; Religion -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 938,
+      "title": "Good Indian",
+      "author": "Bower, B. M., 1871-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Ranch life -- Fiction; Idaho -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 940,
+      "title": "The Last of the Mohicans; A narrative of 1757",
+      "author": "Cooper, James Fenimore, 1789-1851",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; War stories; United States -- History -- French and Indian War, 1754-1763 -- Fiction; Adventure stories; Frontier and pioneer life -- Fiction; Bumppo, Natty (Fictitious character) -- Fiction; Mohegan Indians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 941,
+      "title": "Just Folks",
+      "author": "Guest, Edgar A. (Edgar Albert), 1881-1959",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 942,
+      "title": "Green Mansions: A Romance of the Tropical Forest",
+      "author": "Hudson, W. H. (William Henry), 1841-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; South America -- Fiction; Rain forests -- Fiction; Wild women -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 943,
+      "title": "Misalliance",
+      "author": "Shaw, Bernard, 1856-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama -- 20th century; England -- Social life and customs -- 20th century -- Drama; Mate selection -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 945,
+      "title": "Dust",
+      "author": "Haldeman-Julius, E. (Emanuel), 1888-1951; Haldeman-Julius, Marcet, 1887-1941",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Country life -- Fiction; Marriage -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 946,
+      "title": "Lady Susan",
+      "author": "Austen, Jane, 1775-1817",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Widows -- Fiction; Mate selection -- Fiction; Mothers and daughters -- Fiction; Epistolary fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 950,
+      "title": "Tom Swift and His Electric Runabout; Or, The Speediest Car on the Road",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Swift, Tom (Fictitious character) -- Juvenile fiction; Electric automobiles -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 951,
+      "title": "Tom Swift and His Sky Racer; Or, The Quickest Flight on Record",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Aeronautics -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 952,
+      "title": "Tom Swift and His Air Glider; Or, Seeking the Platinum Treasure",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Swift, Tom (Fictitious character) -- Juvenile fiction; Russia -- Juvenile fiction; Gliders (Aeronautics) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 953,
+      "title": "Tom Swift and His Big Tunnel; Or, The Hidden City of the Andes",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Tunnels -- Juvenile fiction; Andes Region -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 954,
+      "title": "Tom Swift and His War Tank; Or, Doing His Bit for Uncle Sam",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Swift, Tom (Fictitious character) -- Juvenile fiction; Tanks (Military science) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 955,
+      "title": "The Patchwork Girl of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Adventure and adventurers -- Juvenile fiction; Magic -- Juvenile fiction; Cats -- Juvenile fiction; Dolls -- Juvenile fiction; Fortune -- Juvenile fiction; Magicians -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 956,
+      "title": "Tik-Tok of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Brothers -- Juvenile fiction; Dragons -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Girls -- Juvenile fiction; Magic -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Mules -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 957,
+      "title": "The Scarecrow of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Islands -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Caves -- Juvenile fiction; Girls -- Juvenile fiction; Sailors -- Juvenile fiction; Magic -- Juvenile fiction; Deserts -- Juvenile fiction; Storms -- Juvenile fiction; Mermaids -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Scarecrow (Fictitious character from Baum) -- Juvenile fiction; Witches -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 958,
+      "title": "Rinkitink in Oz\r\nWherein Is Recorded the Perilous Quest of Prince Inga of Pingaree and King Rinkitink in the Magical Isles That Lie Beyond the Borderland of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Islands -- Juvenile fiction; Friendship -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Goats -- Juvenile fiction; Magic -- Juvenile fiction; Escapes -- Juvenile fiction; Enslaved persons -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Good and evil -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Wizard of Oz (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 959,
+      "title": "The Lost Princess of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Friendship -- Juvenile fiction; Magic -- Juvenile fiction; Household employees -- Juvenile fiction; Princesses -- Juvenile fiction; Theft -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction; Wizard of Oz (Fictitious character) -- Juvenile fiction; Magicians -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 960,
+      "title": "The Tin Woodman of Oz\r\nA Faithful Story of the Astonishing Adventure Undertaken by the Tin Woodman, Assisted by Woot the Wanderer, the Scarecrow of Oz, and Polychrome, the Rainbow's Daughter",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Boys -- Juvenile fiction; Magic -- Juvenile fiction; Love -- Juvenile fiction; Soldiers -- Juvenile fiction; Good and evil -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction; Scarecrow (Fictitious character from Baum) -- Juvenile fiction; Witches -- Juvenile fiction; Tin Woodman (Fictitious character) -- Juvenile fiction; Wizards -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 961,
+      "title": "Glinda of Oz\r\nIn Which Are Related the Exciting Experiences of Princess Ozma of Oz, and Dorothy, in Their Hazardous Journey to the Home of the Flatheads, and to the Magic Isle of the Skeezers, and How They Were Rescued from Dire Peril by the Sorcery of Glinda the Good",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; War stories; Adventure and adventurers -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Magic -- Juvenile fiction; Courage -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Witches -- Juvenile fiction; Tribes -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 965,
+      "title": "The black tulip",
+      "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tulip Mania, 1634-1637 -- Fiction; Witt, Johan de, 1625-1672 -- Fiction; Netherlands -- History -- 1648-1714 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 966,
+      "title": "Maid Marian",
+      "author": "Peacock, Thomas Love, 1785-1866",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Love stories; Adventure stories; Maid Marian (Legendary character) -- Fiction; Great Britain -- History -- Richard I, 1189-1199 -- Fiction; Women outlaws -- Fiction; Sherwood Forest (England) -- Fiction; Robin Hood (Legendary character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 967,
+      "title": "Nicholas Nickleby",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boarding schools -- Fiction; England -- Social life and customs -- 19th century -- Fiction; England -- Fiction; Bildungsromans; Young men -- Fiction; Theatrical companies -- Fiction; Poor families -- Fiction; Picaresque literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 970,
+      "title": "Uncle Josh's Punkin Centre Stories",
+      "author": "Stewart, Cal, 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 972,
+      "title": "The Devil's Dictionary",
+      "author": "Bierce, Ambrose, 1842-1914?",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English language -- Dictionaries -- Humor; English language -- Semantics -- Humor; Vocabulary -- Humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 973,
+      "title": "Howard Pyle's Book of Pirates\r\nFiction, Fact & Fancy Concerning the Buccaneers & Marooners of the Spanish Main",
+      "author": "Pyle, Howard, 1853-1911",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Spanish Main -- Fiction; Pirates -- Fiction; Sea stories, American; Buccaneers -- Fiction; Historical fiction, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 974,
+      "title": "The Secret Agent: A Simple Tale",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; Political fiction; Conspiracies -- Fiction; Anarchists -- Fiction; Bombings -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 976,
+      "title": "Tanglewood Tales",
+      "author": "Hawthorne, Nathaniel, 1804-1864",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mythology, Classical -- Juvenile literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 978,
+      "title": "The Yates Pride: A Romance",
+      "author": "Freeman, Mary Eleanor Wilkins, 1852-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Love stories; Villages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 980,
+      "title": "Alice Adams",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Domestic fiction; Bildungsromans; Social classes -- Fiction; Middle West -- Fiction; Middle class families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 981,
+      "title": "Beowulf",
+      "author": "Gummere, Francis Barton, 1855-1919 [Translator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Epic poetry, English (Old); Monsters -- Poetry; Dragons -- Poetry; Scandinavia -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 982,
+      "title": "The Book of Nonsense",
+      "author": "Lear, Edward, 1812-1888",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Limericks, Juvenile; Children's poetry, English; Nonsense verses, English; Humorous poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 985,
+      "title": "Father Sergius",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Maude, Aylmer, 1858-1938 [Translator]; Maude, Louise, 1855-1939 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adultery -- Fiction; Monks -- Fiction; Russia -- Fiction; Betrothal -- Fiction; Russian fiction -- Translations into English; Russia. Armiia -- Officers -- 19th century -- Fiction; Monasteries -- Russia -- Fiction; Miracle workers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 986,
+      "title": "Master and Man",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Maude, Aylmer, 1858-1938 [Translator]; Maude, Louise, 1855-1939 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Merchants -- Fiction; Russian fiction -- Translations into English; Sacrifice -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 993,
+      "title": "Malbone: An Oldport Romance",
+      "author": "Higginson, Thomas Wentworth, 1823-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Newport (R.I.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 994,
+      "title": "Riders to the Sea",
+      "author": "Synge, J. M. (John Millington), 1871-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Drama; Mothers and sons -- Drama; Drowning victims -- Drama; Seafaring life -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

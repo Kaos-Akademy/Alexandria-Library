@@ -1,0 +1,1005 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 7165,
+      "title": "The Legends of Saint Patrick",
+      "author": "De Vere, Aubrey, 1814-1902; Morley, Henry, 1822-1894 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Patrick, Saint, 373?-463?",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7166,
+      "title": "The Home and the World",
+      "author": "Tagore, Rabindranath, 1861-1941; Tagore, Surendranath, 1872-1940 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "India -- History -- Autonomy and independence movements -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7170,
+      "title": "The Life and Genius of Nathaniel Hawthorne",
+      "author": "Stearns, Frank Preston, 1846-1917",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Hawthorne, Nathaniel, 1804-1864; Novelists, American -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7171,
+      "title": "Linda Condon",
+      "author": "Hergesheimer, Joseph, 1880-1954",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7174,
+      "title": "The Marquis of Lossie",
+      "author": "MacDonald, George, 1824-1905",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Scotland -- Fiction; Christian fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7179,
+      "title": "Beside the Bonnie Brier Bush",
+      "author": "Maclaren, Ian, 1850-1907",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Scotland -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7180,
+      "title": "Handy Andy: A Tale of Irish Life. Volume 2",
+      "author": "Lover, Samuel, 1797-1868",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7183,
+      "title": "Doctor Grimshawe's Secret \u2014 a Romance",
+      "author": "Hawthorne, Nathaniel, 1804-1864; Hawthorne, Julian, 1846-1934 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7184,
+      "title": "A Heart-Song of To-day (Disturbed by Fire from the 'Unruly Member'): A Novel",
+      "author": "Savigny, Annie G. (Annie Gregg), -1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canadian fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7193,
+      "title": "The Adventures of Tom Sawyer, Part 1.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7194,
+      "title": "The Adventures of Tom Sawyer, Part 2.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7195,
+      "title": "The Adventures of Tom Sawyer, Part 3.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7196,
+      "title": "The Adventures of Tom Sawyer, Part 4.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7197,
+      "title": "The Adventures of Tom Sawyer, Part 5.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7198,
+      "title": "The Adventures of Tom Sawyer, Part 6.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7199,
+      "title": "The Adventures of Tom Sawyer, Part 7.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7200,
+      "title": "The Adventures of Tom Sawyer, Part 8.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Humorous stories; Bildungsromans; Boys -- Fiction; Male friendship -- Fiction; Adventure stories; Missouri -- Fiction; Sawyer, Tom (Fictitious character) -- Fiction; Child witnesses -- Fiction; Runaway children -- Fiction; Mississippi River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7201,
+      "title": "A History of English Literature",
+      "author": "Fletcher, Robert Huntington, 1875-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English literature -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7208,
+      "title": "Kathleen",
+      "author": "Morley, Christopher, 1890-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; Young women -- Fiction; Authorship -- Fiction; College students -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7210,
+      "title": "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar",
+      "author": "Penrose, Margaret",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Girls -- Societies and clubs -- Juvenile fiction; Motorboats -- Juvenile fiction; Caribbean Area -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7212,
+      "title": "Memories of Canada and Scotland \u2014 Speeches and Verses",
+      "author": "Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Speeches, addresses, etc.; Scotland -- Poetry; Canada -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7214,
+      "title": "Pan",
+      "author": "Hamsun, Knut, 1859-1952; Bj\u00f6rkman, Edwin, 1866-1951 [Author of introduction, etc.]; Worster, W. J. Alexander (William John Alexander), 1882-1929 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Norway -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7228,
+      "title": "Laura Secord, the heroine of 1812: A Drama; and Other Poems",
+      "author": "Curzon, Sarah Anne, 1833-1898",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Canadian poetry; Secord, Laura Ingersoll, 1775-1868 -- Drama; Beaver Dams, Battle of, Beaver Dams, Ont., 1813 -- Drama; United States -- History -- War of 1812 -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7229,
+      "title": "Rujub, the Juggler",
+      "author": "Henty, G. A. (George Alfred), 1832-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7231,
+      "title": "Light O' the Morning: The Story of an Irish Girl",
+      "author": "Meade, L. T., 1854-1914",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Juvenile fiction; Girls -- Ireland -- Juvenile fiction; Aristocracy (Social class) -- Ireland -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7235,
+      "title": "The Bride of Fort Edward: Founded on an Incident of the Revolution",
+      "author": "Bacon, Delia Salter, 1811-1859",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fort Edward (N.Y.) -- History -- Drama; New York (State) -- History -- Revolution, 1775-1783 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7239,
+      "title": "Men, Women, and Boats",
+      "author": "Crane, Stephen, 1871-1900; Starrett, Vincent, 1886-1974 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7242,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 1.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7243,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 2.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7244,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 3.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7245,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 4.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7246,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 5.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7247,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 6.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7248,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 7.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7249,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 8.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7250,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 9.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Satire; Knights and knighthood -- Fiction; Arthurian romances -- Adaptations; Time travel -- Fiction; Americans -- Great Britain -- Fiction; Kings and rulers -- Fiction; Britons -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7251,
+      "title": "Sweet Cicely \u2014 or Josiah Allen as a Politician",
+      "author": "Holley, Marietta, 1836-1926",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Women -- Suffrage -- Fiction; Temperance and religion -- Fiction; Methodist Church (U.S.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7256,
+      "title": "The Gift of the Magi",
+      "author": "Henry, O., 1862-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Christmas stories; Gifts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7258,
+      "title": "Dreams, Waking Thoughts, and Incidents",
+      "author": "Beckford, William, 1760-1844",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Beckford, William, 1760-1844",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7265,
+      "title": "The History of Pendennis",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Autobiographical fiction; Bildungsromans; Young men -- Fiction; Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7274,
+      "title": "Poets of the South\r\nA Series of Biographical and Critical Studies with Typical Poems, Annotated",
+      "author": "Painter, F. V. N. (Franklin Verzelius Newton), 1852-1931",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Southern States -- Intellectual life; Southern States -- In literature; American poetry -- Southern States; Southern States -- Poetry; American poetry -- Southern States -- History and criticism; American poetry -- 19th century -- History and criticism; Poets, American -- Homes and haunts -- Southern States",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7275,
+      "title": "Ezra Pound: His Metric and Poetry",
+      "author": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Pound, Ezra, 1885-1972 -- Technique",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7281,
+      "title": "Tom Cringle's Log",
+      "author": "Scott, Michael, 1789-1835",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Napoleonic Wars, 1800-1815 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7283,
+      "title": "Short stories and selections for use in the secondary schools",
+      "author": "Baker, Emilie K. (Emilie Kip), 1873-1951 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Readers; English prose literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7296,
+      "title": "John M. Synge: a Few Personal Recollections, with Biographical Notes",
+      "author": "Masefield, John, 1878-1967",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Synge, J. M. (John Millington), 1871-1909; Dramatists, Irish -- 20th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7298,
+      "title": "William Tell Told Again",
+      "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English wit and humor; Tell, Wilhelm -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7299,
+      "title": "Obiter Dicta",
+      "author": "Birrell, Augustine, 1850-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Literature; English literature -- History and criticism; Historiography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7301,
+      "title": "Nathaniel Hawthorne",
+      "author": "Woodberry, George Edward, 1855-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Hawthorne, Nathaniel, 1804-1864; Novelists, American -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7306,
+      "title": "Autobiographic Sketches",
+      "author": "De Quincey, Thomas, 1785-1859",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authors, English -- 19th century -- Biography; De Quincey, Thomas, 1785-1859",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7307,
+      "title": "The Precipice",
+      "author": "Goncharov, Ivan Aleksandrovich, 1812-1891",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Russia -- Social life and customs -- 1533-1917 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7308,
+      "title": "The History of Mr. Polly",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Life change events -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7310,
+      "title": "Mr. Pim Passes By: A Comedy in Three Acts",
+      "author": "Milne, A. A. (Alan Alexander), 1882-1956",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7311,
+      "title": "The Leatherwood God",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Impostors and imposture -- Fiction; Frontier and pioneer life -- Ohio -- Fiction; Dylks, Joseph C. -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7318,
+      "title": "The Bravest of the Brave \u2014 or, with Peterborough in Spain",
+      "author": "Henty, G. A. (George Alfred), 1832-1902",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Peterborough, Charles Mordaunt, Earl of, 1658-1735 -- Juvenile fiction; Spanish Succession, War of, 1701-1714 -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7325,
+      "title": "Dreams and Days: Poems",
+      "author": "Lathrop, George Parsons, 1851-1898",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7326,
+      "title": "The Yeoman Adventurer",
+      "author": "Gough, George W.",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Jacobite Rebellion, 1745-1746 -- Fiction; Adventure stories; Farmers -- Fiction; Staffordshire (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7334,
+      "title": "With Buller in Natal, Or, a Born Leader",
+      "author": "Henty, G. A. (George Alfred), 1832-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "South African War, 1899-1902 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7335,
+      "title": "Jack Harkaway and His Son's Escape from the Brigands of Greece",
+      "author": "Hemyng, Bracebridge, 1841-1901",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Brigands and robbers -- Juvenile fiction; Greece -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7336,
+      "title": "Home Lyrics: A Book of Poems",
+      "author": "Battersby, H. S. (Hannah S.), -1887?",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Canadian poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7344,
+      "title": "Archibald Malmaison",
+      "author": "Hawthorne, Julian, 1846-1934",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Science fiction, American; Aristocracy (Social class) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7346,
+      "title": "Among Malay Pirates : a Tale of Adventure and Peril",
+      "author": "Henty, G. A. (George Alfred), 1832-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Pirates -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7352,
+      "title": "First and Last",
+      "author": "Belloc, Hilaire, 1870-1953",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7353,
+      "title": "Birds in Town & Village",
+      "author": "Hudson, W. H. (William Henry), 1841-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Birds -- England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7354,
+      "title": "On Something",
+      "author": "Belloc, Hilaire, 1870-1953",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7356,
+      "title": "The Boy Scout Camera Club; Or, the Confession of a Photograph",
+      "author": "Ralphson, G. Harvey (George Harvey), 1879-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boy Scouts of America -- Juvenile fiction; United States. Secret Service -- Juvenile fiction; Photography -- Juvenile fiction; Appalachian Mountains -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7357,
+      "title": "J. Cole",
+      "author": "Gellibrand, Emma",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children -- Conduct of life -- Fiction; Household employees -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7358,
+      "title": "Brought Home",
+      "author": "Stretton, Hesba, 1832-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Temperance -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7362,
+      "title": "Life at High Tide",
+      "author": "Howells, William Dean, 1837-1920 [Editor]; Alden, Henry Mills, 1836-1919 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7364,
+      "title": "The Albany Depot : a Farce",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7365,
+      "title": "If I May",
+      "author": "Milne, A. A. (Alan Alexander), 1882-1956",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7368,
+      "title": "Lifted Masks; stories",
+      "author": "Glaspell, Susan, 1882?-1948",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- Social life and customs -- 20th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7369,
+      "title": "Jim Davis",
+      "author": "Masefield, John, 1878-1967",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Pirates -- Juvenile fiction; Sailing ships -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7371,
+      "title": "A Sicilian Romance",
+      "author": "Radcliffe, Ann Ward, 1764-1823",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sicily (Italy) -- Fiction; Gothic fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7372,
+      "title": "Septimius Felton, or, the Elixir of Life",
+      "author": "Hawthorne, Nathaniel, 1804-1864",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7374,
+      "title": "An American Politician: A Novel",
+      "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Political fiction; Politicians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7378,
+      "title": "Chantry House",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Domestic fiction; Family -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7379,
+      "title": "The Early Life of Mark Rutherford (W. Hale White)",
+      "author": "White, William Hale, 1831-1913",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "White, William Hale, 1831-1913 -- Childhood and youth",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7381,
+      "title": "The Eustace Diamonds",
+      "author": "Trollope, Anthony, 1815-1882",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; London (England) -- Fiction; Courtship -- Fiction; Political fiction; Jewelry theft -- Fiction; Palliser, Plantagenet (Fictitious character) -- Fiction; Poor women -- Fiction; Socialites -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7387,
+      "title": "Grisly Grisell; Or, The Laidly Lady of Whitburn: A Tale of the Wars of the Roses",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7388,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 01: Earlier Poems (1830-1836)",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7389,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 02\r\nAdditional Poems (1837-1848)",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7390,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 03: Medical Poems",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7391,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 04: Songs in Many Keys",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7392,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 05\r\nPoems of the Class of '29 (1851-1889)",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7393,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 06\r\nPoems from the Breakfast Table Series",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7394,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 07: Songs of Many Seasons",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7395,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 08\r\nBunker Hill and Other Poems",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7396,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 09\r\nThe Iron Gate and Other Poems",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7397,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 10: Before the Curfew",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7398,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 11\r\nPoems from the Teacups Series",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7399,
+      "title": "The Poetical Works of Oliver Wendell Holmes \u2014 Volume 12\r\nVerses from the Oldest Portfolio",
+      "author": "Holmes, Oliver Wendell, 1809-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7401,
+      "title": "A Crystal Age",
+      "author": "Hudson, W. H. (William Henry), 1841-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Utopias -- Fiction; Utopian fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7409,
+      "title": "An Essay on Criticism",
+      "author": "Pope, Alexander, 1688-1744",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Criticism; Poetry -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7412,
+      "title": "Coningsby; Or, The New Generation",
+      "author": "Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Political fiction; Politicians -- Fiction; Great Britain -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7414,
+      "title": "Poor White: A Novel",
+      "author": "Anderson, Sherwood, 1876-1941",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Inventors -- Fiction; Middle West -- Fiction; Industrial revolution -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7421,
+      "title": "Poems of Optimism",
+      "author": "Wilcox, Ella Wheeler, 1850-1919",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7423,
+      "title": "Mike",
+      "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boarding schools -- Fiction; Schools -- Fiction; Humorous stories; England -- Fiction; Cricket -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7424,
+      "title": "The Wishing-Ring Man",
+      "author": "Widdemer, Margaret, 1884-1978",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7425,
+      "title": "The Louisa Alcott Reader: a Supplementary Reader for the Fourth Year of School",
+      "author": "Alcott, Louisa May, 1832-1888",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's stories; Readers (Elementary)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 7426,
+      "title": "Chicot the Jester",
+      "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Henry III, 1574-1589 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 111,
+      "title": "Freckles",
+      "author": "Stratton-Porter, Gene, 1863-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; People with disabilities -- Fiction; Indiana -- Fiction; Swamps -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 112,
+      "title": "Violists",
+      "author": "McGowan, Richard, 1958-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Love stories; Fathers and daughters -- Fiction; Violists -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 113,
+      "title": "The Secret Garden",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; People with disabilities -- Juvenile fiction; Gardens -- Juvenile fiction; Yorkshire (England) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 119,
+      "title": "A Tramp Abroad",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Europe -- Fiction; Americans -- Europe -- Fiction; Walking -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 120,
+      "title": "Treasure Island",
+      "author": "Stevenson, Robert Louis, 1850-1894; Rhead, Louis, 1857-1926 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Pirates -- Fiction; Treasure troves -- Fiction; Treasure Island (Imaginary place) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 121,
+      "title": "Northanger Abbey",
+      "author": "Austen, Jane, 1775-1817",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Satire; England -- Fiction; Young women -- Fiction; Love stories; Gothic fiction; Horror tales -- Appreciation -- Fiction; Books and reading -- Fiction; Gentry -- England -- Fiction; Marriage -- Economic aspects -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 123,
+      "title": "At the Earth's Core",
+      "author": "Burroughs, Edgar Rice, 1875-1950",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Fantasy fiction; Adventure stories; Earth (Planet) -- Core -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 125,
+      "title": "A Girl of the Limberlost",
+      "author": "Stratton-Porter, Gene, 1863-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Indiana -- Fiction; Domestic fiction; Bildungsromans; Mothers and daughters -- Fiction; Girls -- Fiction; Conflict of generations -- Fiction; Swamps -- Fiction; Moths -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 126,
+      "title": "The Poison Belt",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Challenger, Professor (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 131,
+      "title": "The Pilgrim's Progress from this world to that which is to come\r\nDelivered under the similitude of a dream, by John Bunyan",
+      "author": "Bunyan, John, 1628-1688",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christian fiction; Christian pilgrims and pilgrimages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 133,
+      "title": "The Damnation of Theron Ware",
+      "author": "Frederic, Harold, 1856-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Clergy -- Fiction; New York (State) -- Fiction; Belief and doubt -- Fiction; Methodists -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 134,
+      "title": "Maria; Or, The Wrongs of Woman",
+      "author": "Wollstonecraft, Mary, 1759-1797",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Autobiographical fiction; Feminist fiction; Women -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 135,
+      "title": "Les Mis\u00e9rables",
+      "author": "Hugo, Victor, 1802-1885; Hapgood, Isabel Florence, 1850-1928 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Orphans -- Fiction; Paris (France) -- Fiction; Epic literature; Ex-convicts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 136,
+      "title": "A Child's Garden of Verses",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Children's poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 137,
+      "title": "Sara Crewe; Or, What Happened at Miss Minchin's Boarding School",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Schools -- Juvenile fiction; Boarding schools -- Juvenile fiction; Girls -- Juvenile fiction; London (England) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 139,
+      "title": "The Lost World",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Challenger, Professor (Fictitious character) -- Fiction; Fantasy fiction; South America -- Fiction; Prehistoric peoples -- Fiction; Dinosaurs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 140,
+      "title": "The Jungle",
+      "author": "Sinclair, Upton, 1878-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Meat industry and trade -- Fiction; Working class -- Fiction; Political fiction; Lithuanian Americans -- Fiction; Stockyards -- Fiction; Immigrants -- Fiction; Chicago (Ill.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 141,
+      "title": "Mansfield Park",
+      "author": "Austen, Jane, 1775-1817",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Young women -- Fiction; Love stories; Domestic fiction; Country homes -- Fiction; Adoptees -- Fiction; Children of the rich -- Fiction; Cousins -- Fiction; Uncles -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 142,
+      "title": "The $30,000 Bequest, and Other Stories",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories, American; United States -- Social life and customs -- Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 144,
+      "title": "The Voyage Out",
+      "author": "Woolf, Virginia, 1882-1941",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Love stories; Bildungsromans; Ocean travel -- Fiction; Women travelers -- Fiction; British -- South America -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 145,
+      "title": "Middlemarch",
+      "author": "Eliot, George, 1819-1880",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; City and town life -- Fiction; England -- Fiction; Young women -- Fiction; Love stories; Domestic fiction; Married people -- Fiction; Bildungsromans",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 146,
+      "title": "A Little Princess\r\nBeing the whole story of Sara Crewe now told for the first time",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Schools -- Juvenile fiction; Boarding schools -- Juvenile fiction; Girls -- Juvenile fiction; London (England) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 149,
+      "title": "The Lost Continent",
+      "author": "Burroughs, Edgar Rice, 1875-1950",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Fantasy fiction; England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 151,
+      "title": "The Rime of the Ancient Mariner",
+      "author": "Coleridge, Samuel Taylor, 1772-1834",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 152,
+      "title": "Wild Justice",
+      "author": "Sprague, Ruth M.",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sex discrimination -- Fiction; Universities and colleges -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 155,
+      "title": "The Moonstone",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "England -- Fiction; Country homes -- Fiction; Police -- England -- Fiction; Jewelry theft -- Fiction; East Indians -- England -- Fiction; Mystery fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 157,
+      "title": "Daddy-Long-Legs",
+      "author": "Webster, Jean, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Boarding schools -- Fiction; Schools -- Fiction; Young women -- Fiction; Love stories; Bildungsromans; Epistolary fiction; Women authors -- Fiction; Philanthropists -- Fiction; Women college students -- Fiction; Universities and colleges -- Fiction; Letters -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 158,
+      "title": "Emma",
+      "author": "Austen, Jane, 1775-1817",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; England -- Fiction; Young women -- Fiction; Love stories; Fathers and daughters -- Fiction; Bildungsromans; Mate selection -- Fiction; Female friendship -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 159,
+      "title": "The island of Doctor Moreau",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Shipwreck survival -- Fiction; Animal experimentation -- Fiction; Islands -- Fiction; Science -- Ethics -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 160,
+      "title": "The Awakening, and Selected Short Stories",
+      "author": "Chopin, Kate, 1850-1904",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adultery -- Fiction; Women -- Louisiana -- New Orleans -- Social conditions -- Fiction; Self-actualization (Psychology) -- Fiction; New Orleans (La.) -- Fiction; Louisiana -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 161,
+      "title": "Sense and Sensibility",
+      "author": "Austen, Jane, 1775-1817",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Inheritance and succession -- Fiction; England -- Fiction; Young women -- Fiction; Love stories; Sisters -- Fiction; Domestic fiction; Mate selection -- Fiction; Social classes -- Fiction; Gentry -- England -- Fiction; Regency fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 163,
+      "title": "Flower Fables",
+      "author": "Alcott, Louisa May, 1832-1888",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Children's stories, American; Fairy tales -- United States; Flowers -- Juvenile fiction; Flowers -- Juvenile poetry; Fairies -- Juvenile poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 164,
+      "title": "Twenty Thousand Leagues under the Sea",
+      "author": "Verne, Jules, 1828-1905",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Submarines (Ships) -- Fiction; Sea stories; Adventure stories; Underwater exploration -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 165,
+      "title": "McTeague: A Story of San Francisco",
+      "author": "Norris, Frank, 1870-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Psychological fiction; Married people -- Fiction; Murderers -- Fiction; San Francisco (Calif.) -- Fiction; Avarice -- Fiction; Dentists -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 166,
+      "title": "Summer",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Love stories; Guardian and ward -- Fiction; Man-woman relationships -- Fiction; Berkshire Hills (Mass.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 169,
+      "title": "The Well at the World's End: A Tale",
+      "author": "Morris, William, 1834-1896",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Quests (Expeditions) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 170,
+      "title": "The Haunted Hotel: A Mystery of Modern Venice",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Venice (Italy) -- Fiction; Detective and mystery stories; Hotels -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 171,
+      "title": "Charlotte Temple",
+      "author": "Rowson, Mrs., 1762-1824",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "British -- New York (State) -- New York -- Fiction; Runaway teenagers -- Fiction; New York (N.Y.) -- Fiction; Didactic fiction; Psychological fiction; Illegitimate children -- Fiction; Soldiers -- Fiction; Elopement -- Fiction; Teenage girls -- Fiction; Betrayal -- Fiction; Seduction -- Fiction; Teenage pregnancy -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 172,
+      "title": "The Haunted Bookshop",
+      "author": "Morley, Christopher, 1890-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Booksellers and bookselling -- Fiction; Brooklyn (New York, N.Y.) -- Fiction; Mystery and detective stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 173,
+      "title": "The Insidious Dr. Fu Manchu",
+      "author": "Rohmer, Sax, 1883-1959",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Fu Manchu, Doctor (Fictitious character) -- Fiction; Criminals -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 175,
+      "title": "The Phantom of the Opera",
+      "author": "Leroux, Gaston, 1868-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Horror tales; Musical fiction; Opera -- Fiction; Paris (France) -- Fiction; Composers -- Fiction; Phantom of the Opera (Fictitious character) -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 176,
+      "title": "Roderick Hudson",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Rome (Italy) -- Fiction; Americans -- Italy -- Fiction; Sculptors -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 177,
+      "title": "The American",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Love stories; Widows -- Fiction; Courtship -- Fiction; Paris (France) -- Fiction; Aristocracy (Social class) -- Fiction; Culture conflict -- Fiction; Separation (Psychology) -- Fiction; Americans -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 178,
+      "title": "Confidence",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Male friendship -- Fiction; Man-woman relationships -- Fiction; British -- Europe -- Fiction; Americans -- Europe -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 179,
+      "title": "The Europeans",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Domestic fiction; Siblings -- Fiction; Boston (Mass.) -- Fiction; Upper class -- Fiction; Europeans -- United States -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 204,
+      "title": "The innocence of Father Brown",
+      "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "England -- Fiction; Clergy -- Fiction; Detective and mystery stories, English; Catholics -- Fiction; Brown, Father (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 207,
+      "title": "The Spell of the Yukon and Other Verses",
+      "author": "Service, Robert W. (Robert William), 1874-1958",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Yukon River Valley (Yukon and Alaska) -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 208,
+      "title": "Daisy Miller: A Study",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Young women -- Fiction; Europe -- Fiction; Americans -- Europe -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 209,
+      "title": "The Turn of the Screw",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Psychological fiction; Governesses -- Fiction; Ghost stories; Children -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 210,
+      "title": "An International Episode",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Americans -- England -- Fiction; Manners and customs -- Fiction; British -- United States -- Fiction; New York (State) -- Social life and customs -- Fiction; London (England) -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

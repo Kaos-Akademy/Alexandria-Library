@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 75254,
+      "title": "Physico-theology",
+      "author": "Derham, W. (William), 1657-1735",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Natural theology -- Early works to 1800; Sermons, English -- 18th century; God -- Attributes -- Early works to 1800; Natural history -- Pre-Linnean works",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75294,
+      "title": "History as literature, and other essays",
+      "author": "Roosevelt, Theodore, 1858-1919",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "History -- Philosophy; Speeches, addresses, etc., American; American essays -- 20th century; Roosevelt, Theodore, 1858-1919 -- Views on history; Presidents -- United States -- Views on history; Presidents -- United States -- Intellectual life; Literature and history",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75348,
+      "title": "Address, delivered in Craigie Hall, Edinburgh, February 24th, 1871",
+      "author": "Butler, Josephine Elizabeth Grey, 1828-1906",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Speeches, addresses, etc., English; Prostitution -- Great Britain; Communicable diseases -- Control -- Law and legislation; Great Britain. Contagious Diseases Act",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75391,
+      "title": "Ocellus Lucanus on the nature of the universe",
+      "author": "Taylor, Thomas, 1758-1835 [Translator]; Firmicus Maternus, Julius; Proclus, 412-485; Tauros, 105?-; Okellos, ho Leukanos, active 6th century B.C. [Dubious author]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Science -- Early works to 1800; Astrology -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75399,
+      "title": "The science of beauty, as developed in nature and applied in art",
+      "author": "Hay, D. R. (David Ramsay), 1798-1866",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics; Nature (Aesthetics); Proportion (Art)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75418,
+      "title": "Ouroboros; or, the mechanical extension of mankind",
+      "author": "Garrett, Garet, 1878-1954",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Machinery; Machinery in the workplace",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75420,
+      "title": "Behind the prison bars",
+      "author": "Byrum, E. E. (Enoch Edwin), 1861-1942",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Prisons; Prisons -- West Virginia",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75452,
+      "title": "Archimedes; or, the future of physics",
+      "author": "Whyte, Lancelot Law, 1896-1972",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Physics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75631,
+      "title": "Whither?",
+      "author": "Anonymous",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Essays; Conduct of life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75654,
+      "title": "The story of utopias",
+      "author": "Mumford, Lewis, 1895-1990; Van Loon, Hendrik Willem, 1882-1944 [Author of introduction, etc.]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Utopias",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75664,
+      "title": "Address delivered before the British Association assembled at Belfast",
+      "author": "Tyndall, John, 1820-1893",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion and science; Science -- History; Evolution",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75711,
+      "title": "The meaning of a liberal education",
+      "author": "Martin, Everett Dean, 1880-1941",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Education",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75737,
+      "title": "Desultory thoughts and reflections",
+      "author": "Blessington, Marguerite, Countess of, 1789-1849",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Maxims",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75778,
+      "title": "The Book of Job",
+      "author": "Anonymous; Chesterton, G. K. (Gilbert Keith), 1874-1936 [Author of introduction, etc.]; Tongue, C. Mary [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Bible. Job -- Illustrations; Bible. Job; Bible. Job -- Criticism, interpretation, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75786,
+      "title": "The open conspiracy",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Sociology; Utopias; Social problems",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75874,
+      "title": "Personal rights",
+      "author": "Caird, Mona, 1854-1932",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Civil rights -- Great Britain",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75878,
+      "title": "The book of filial duty",
+      "author": "Confucius, 552 BCE-480 BCE; Zengzi, 506 BCE-437? BCE; Cranmer-Byng, L. (Launcelot), 1872-1945 [Editor]; Kapadia, S. A. (Shaporji Aspaniarji), 1857-1941 [Editor]; Ch\u00ean, Ivan [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Filial piety -- China",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75928,
+      "title": "Self and self-management",
+      "author": "Bennett, Arnold, 1867-1931",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Conduct of life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75958,
+      "title": "The decay and the restoration of civilization",
+      "author": "Schweitzer, Albert, 1875-1965; Campion, C. T. (Charles Thomas), 1861-1938 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Civilization -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75962,
+      "title": "The freedom of the seas",
+      "author": "Grotius, Hugo, 1583-1645; Scott, James Brown, 1866-1943 [Editor]; Magoffin, Ralph Van Deman, 1874-1942 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Freedom of the seas; Law of the sea",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 75994,
+      "title": "Mystics of the Renaissance and their relation to modern thought, including Meister Eckhart, Tauler, Paracelsus, Jacob Boehme, Giordano Bruno, and others",
+      "author": "Steiner, Rudolf, 1861-1925; Gysi, Max, 1874-1946 [Editor]; Keightley, Bertram, 1860-1944 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Mysticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 76031,
+      "title": "Beyond the pleasure principle",
+      "author": "Freud, Sigmund, 1856-1939; Hubback, C. J. M. (Caroline Jane Mary), 1871-1959 [Translator]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Psychoanalysis; Pleasure principle (Psychology)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 76061,
+      "title": "Civilization and ethics",
+      "author": "Schweitzer, Albert, 1875-1965; Campion, C. T. (Charles Thomas), 1861-1938 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics; Civilization -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 76076,
+      "title": "Affirmations",
+      "author": "Ellis, Havelock, 1859-1939",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Literature and morals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 76229,
+      "title": "Essays, or discourses, vol. 4 (of 4)",
+      "author": "Feijoo, Benito Jer\u00f3nimo, 1676-1764; Brett, John, -1785 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Spanish essays -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

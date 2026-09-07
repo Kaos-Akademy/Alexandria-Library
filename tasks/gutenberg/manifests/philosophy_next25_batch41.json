@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 33131,
+      "title": "The Spirit of Japan",
+      "author": "Tagore, Rabindranath, 1861-1941",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Japan -- Civilization",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 38093,
+      "title": "The Christian Religion: An Enquiry",
+      "author": "Ingersoll, Robert Green, 1833-1899",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christianity -- Controversial literature; Agnosticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 40552,
+      "title": "Aristotle and Ancient Educational Ideals",
+      "author": "Davidson, Thomas, 1840-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aristotle, 384 BC-322 BC; Education, Greek",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 40981,
+      "title": "The Doubts of Infidels\nOr, Queries Relative to Scriptural Inconsistencies & Contradictions",
+      "author": "Nicholson, William, 1753-1815",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christianity -- Controversial literature; Bible -- Criticism, interpretation, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 41063,
+      "title": "The Storm. An Essay.",
+      "author": "Defoe, Daniel, 1661?-1731",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Great Britain; Storms -- Great Britain -- Early works to 1800; Hurricanes -- Great Britain -- Early works to 1800; Cyclones -- Great Britain -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 41319,
+      "title": "The Inner Consciousness: How to Awaken and Direct It",
+      "author": "Prakashananda, Swami, 1874-1927",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Vedanta; Consciousness -- Religious aspects -- Hinduism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 41421,
+      "title": "The Protestants Plea for a Socinian\nJustifying His Doctrine from Being Opposite to Scripture or Church Authority; and Him from Being Guilty of Heresie, or Schism",
+      "author": "R. H., 1609-1678",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Socinianism -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45540,
+      "title": "The Christ Myth",
+      "author": "Drews, Arthur, 1865-1935; Burns, C. Delisle, 1879-1942 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Jesus Christ -- Historicity; Bible. New Testament -- Criticism, interpretation, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45592,
+      "title": "Reflections on the Rise and Fall of the Ancient Republicks\nAdapted to the Present State of Great Britain",
+      "author": "Montagu, Edward Wortley, 1713-1776",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Republics; History, Ancient -- Philosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45724,
+      "title": "Social Origins and Primal Law",
+      "author": "Lang, Andrew, 1844-1912; Atkinson, J. J. (James Jasper), -1899",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Marriage -- History; Totemism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45811,
+      "title": "A Chesterton Calendar\nCompiled from the writings of 'G.K.C.' both in verse and in prose. With a section apart for the moveable feasts.",
+      "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Calendars",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45823,
+      "title": "Essays in Rationalism",
+      "author": "Newman, Charles Robert",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Rationalism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45827,
+      "title": "The Impossibilities of Anarchism",
+      "author": "Shaw, Bernard, 1856-1950",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Socialism; Anarchism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45851,
+      "title": "Aristotle",
+      "author": "Grote, George, 1794-1871; Bain, Alexander, 1818-1903 [Editor]; Robertson, George Croom, 1842-1892 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aristotle, 384 BC-322 BC",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45883,
+      "title": "Time and Time-Tellers",
+      "author": "Benson, James W., active 1857-1887",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Clocks and watches",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45913,
+      "title": "Of Vulgarity",
+      "author": "Ruskin, John, 1819-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics; Criticism; Liberty; Social ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45959,
+      "title": "Open That Door!",
+      "author": "Ingersoll, R. Sturgis (Robert Sturgis), 1891-",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Books and reading",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 45971,
+      "title": "Parallel Paths: A Study in Biology, Ethics, and Art",
+      "author": "Rolleston, T. W. (Thomas William), 1857-1920",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics; Art; Science -- Philosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46030,
+      "title": "Of Walks and Walking Tours: An Attempt to find a Philosophy and a Creed",
+      "author": "Haultain, Arnold, 1857-1941",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Walking; Outdoor life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46060,
+      "title": "Of the Injustice of Counterfeiting Books\nFrom: Essays and Treaties on Moral, Political and various Philosophical Subjects",
+      "author": "Kant, Immanuel, 1724-1804",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Copyright",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46078,
+      "title": "The Senses and the Mind",
+      "author": "Anonymous",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Knowledge, Theory of; Mind and body; Senses and sensation; Perception",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46084,
+      "title": "The Secret Life: Being the Book of a Heretic",
+      "author": "Bisland, Elizabeth, 1861-1929",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Diaries",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46099,
+      "title": "The Vitality of \"Mormonism\": An Address",
+      "author": "Talmage, James E. (James Edward), 1862-1933",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Latter Day Saints; Latter Day Saint churches",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46129,
+      "title": "The Data of Ethics",
+      "author": "Spencer, Herbert, 1820-1903",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics, Evolutionary",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46130,
+      "title": "Locke",
+      "author": "Fowler, Thomas, 1832-1904",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Locke, John, 1632-1704",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

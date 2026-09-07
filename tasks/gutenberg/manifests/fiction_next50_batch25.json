@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1874,
+      "title": "The Railway Children",
+      "author": "Nesbit, E. (Edith), 1858-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Railroads -- Fiction; Country life -- England -- Fiction; England -- Fiction; Family life -- Fiction; Siblings -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1875,
+      "title": "Painted Windows",
+      "author": "Peattie, Elia Wilkinson, 1862-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1876,
+      "title": "The Shape of Fear",
+      "author": "Peattie, Elia Wilkinson, 1862-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Ghost stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1877,
+      "title": "A Mountain Woman",
+      "author": "Peattie, Elia Wilkinson, 1862-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1878,
+      "title": "A Millionaire of Yesterday",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1880,
+      "title": "The Pathfinder; Or, The Inland Sea",
+      "author": "Cooper, James Fenimore, 1789-1851",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Indians of North America -- Fiction; War stories; United States -- History -- French and Indian War, 1754-1763 -- Fiction; Love stories; Frontier and pioneer life -- Fiction; Bumppo, Natty (Fictitious character) -- Fiction; Ontario, Lake (N.Y. and Ont.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1881,
+      "title": "The Call of the Canyon",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Frontier and pioneer life -- West (U.S.) -- Fiction; Arizona -- Fiction; World War, 1914-1918 -- Veterans -- Fiction; Fianc\u00e9s -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1882,
+      "title": "The Young Forester",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Bildungsromans; Arizona -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1883,
+      "title": "The Wife, and Other Stories",
+      "author": "Chekhov, Anton Pavlovich, 1860-1904; Garnett, Constance, 1861-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Russia -- Social life and customs -- Fiction; Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1884,
+      "title": "The Exiles",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Waring, James [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1886,
+      "title": "Bunyan Characters (2nd Series)",
+      "author": "Whyte, Alexander, 1836-1921",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Bunyan, John, 1628-1688. Pilgrim's progress; Bunyan, John, 1628-1688 -- Criticism and interpretation",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1888,
+      "title": "The Bittermeads Mystery",
+      "author": "Punshon, E. R. (Ernest Robertson), 1872-1956",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1890,
+      "title": "\"Speaking of Operations--\"",
+      "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Medicine -- Anecdotes; Operations, Surgical; Medicine -- Humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1891,
+      "title": "A Plea for Old Cap Collier",
+      "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor; Children's literature -- History and criticism; Dime novels -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1892,
+      "title": "Extracts from Adam's Diary, translated from the original ms.",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Diary fiction; Adam (Biblical figure) -- Fiction; Bible. Genesis -- History of Biblical events -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1896,
+      "title": "Under the red robe",
+      "author": "Weyman, Stanley John, 1855-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Louis XIII, 1610-1643 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1897,
+      "title": "The Seventh Man",
+      "author": "Brand, Max, 1892-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Western stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1898,
+      "title": "Albert Savarus",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- Social life and customs -- 19th century -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1902,
+      "title": "The Old Peabody Pew: A Christmas Romance of a Country Church",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; Country life -- Fiction; Christian fiction; Church buildings -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1904,
+      "title": "The Life and Perambulations of a Mouse",
+      "author": "Kilner, Dorothy, 1755-1836",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Natural history -- Juvenile fiction; Mice -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1905,
+      "title": "The Governess; Or, The Little Female Academy",
+      "author": "Fielding, Sarah, 1710-1768",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Schools -- Fiction; Didactic fiction; Governesses -- Fiction; Girls' schools -- Fiction; School children -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1906,
+      "title": "Erewhon; Or, Over the Range",
+      "author": "Butler, Samuel, 1835-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Utopias -- Fiction; Utopian fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1907,
+      "title": "Rowdy of the Cross L",
+      "author": "Bower, B. M., 1871-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Cowboys -- Fiction; Ranchers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1908,
+      "title": "Her Prairie Knight",
+      "author": "Bower, B. M., 1871-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Montana -- Fiction; Cowboys -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1912,
+      "title": "The Muse of the Department",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Waring, James [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1913,
+      "title": "The Drums of Jeopardy",
+      "author": "MacGrath, Harold, 1871-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; Anarchists -- Fiction; Suspense fiction; Precious stones -- Fiction; Jewel thieves -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1915,
+      "title": "The Second Thoughts of an Idle Fellow",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays; English wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1916,
+      "title": "The Great Stone Face, and Other Tales of the White Mountains",
+      "author": "Hawthorne, Nathaniel, 1804-1864",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Short stories; Historical fiction, American; White Mountains (N.H. and Me.) -- Fiction; Old Man of the Mountain (N.H.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1917,
+      "title": "The Queen of Hearts",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Detective and mystery stories; Courtship -- Fiction; Guardian and ward -- Fiction; Brothers -- Fiction; Wales, South -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1918,
+      "title": "Long Odds",
+      "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Africa -- Fiction; Adventure stories; Hunting guides -- Fiction; Quatermain, Allan (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1919,
+      "title": "Grand'ther Baldwin's Thanksgiving, with Other Ballads and Poems",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1920,
+      "title": "Billy Baxter's Letters",
+      "author": "Kountz, William J., 1867?-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories, American; Epistolary fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1922,
+      "title": "Deirdre of the Sorrows",
+      "author": "Synge, J. M. (John Millington), 1871-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Deirdre (Legendary character) -- Drama; Epic literature, Irish -- Adaptations; Tales -- Ireland -- Adaptations; Queens -- Drama; Ireland -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1923,
+      "title": "The Poisoned Pen",
+      "author": "Reeve, Arthur B. (Arthur Benjamin), 1880-1936",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Short stories; New York (N.Y.) -- Fiction; Detective and mystery stories; United States -- Social life and customs -- 20th century -- Fiction; Chemistry teachers -- Fiction; Kennedy, Craig (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1924,
+      "title": "Many Voices: Poems",
+      "author": "Nesbit, E. (Edith), 1858-1924",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1925,
+      "title": "Droll Stories \u2014 Volume 1",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; French literature -- 19th century; France -- Social life and customs -- Fiction; Short stories, French -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1927,
+      "title": "Elinor Wyllys; Or, The Young Folk of Longbridge: A Tale. Volume 1",
+      "author": "Cooper, Susan Fenimore, 1813-1894; Cooper, James Fenimore, 1789-1851 [Editor]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Frontier and pioneer life -- United States -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1928,
+      "title": "Elinor Wyllys; Or, The Young Folk of Longbridge: A Tale. Volume 2",
+      "author": "Cooper, Susan Fenimore, 1813-1894; Cooper, James Fenimore, 1789-1851 [Editor]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Frontier and pioneer life -- United States -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1929,
+      "title": "The School for Scandal",
+      "author": "Sheridan, Richard Brinsley, 1751-1816",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; English drama -- 18th century; England -- Social life and customs -- 18th century -- Drama; Nobility -- England -- History -- 18th century -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1930,
+      "title": "Penguin Island",
+      "author": "France, Anatole, 1844-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Penguins -- Fiction; Civilization, Western -- Fiction; France -- Civilization -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1931,
+      "title": "The Zeppelin's Passenger",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; World War, 1914-1918 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1933,
+      "title": "The History of Samuel Titmarsh and the Great Hoggarty Diamond",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century; Great Britain -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1934,
+      "title": "Songs of Innocence and of Experience",
+      "author": "Blake, William, 1757-1827",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Pastoral poetry; English poetry -- 18th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1935,
+      "title": "The Tremendous Adventures of Major Gahagan",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "India -- History -- British occupation, 1765-1947 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1937,
+      "title": "The Second Jungle Book",
+      "author": "Kipling, Rudyard, 1865-1936",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "India -- Fiction; Jungle animals -- Fiction; Mowgli (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1938,
+      "title": "Resurrection",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Maude, Louise, 1855-1939 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Atonement -- Fiction; Russia -- Social conditions -- 1801-1917 -- Fiction; Aristocracy (Social class) -- Russia -- Fiction; Prostitutes -- Russia -- Fiction; Trials (Murder) -- Russia -- Fiction; Change -- Religious aspects -- Fiction; Social justice -- Russia -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1939,
+      "title": "A Gentleman of France: Being the Memoirs of Gaston de Bonne Sieur de Marsac",
+      "author": "Weyman, Stanley John, 1855-1928",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; France -- History -- Henry III, 1574-1589 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1940,
+      "title": "Christ in Flanders",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1941,
+      "title": "Letters of Two Brides",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Scott, R. S. [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Married women -- Fiction; Epistolary fiction; Man-woman relationships -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1942,
+      "title": "Rise and Fall of Cesar Birotteau",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Revenge -- Fiction; French fiction -- Translations into English; Paris (France) -- Social life and customs -- 19th century -- Fiction; Bankruptcy -- Fiction; Business enterprises -- Fiction; Middle class -- France -- Fiction; Cosmetics industry -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

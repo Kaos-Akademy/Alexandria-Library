@@ -1,0 +1,1775 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 42284,
+      "title": "Love Among the Ruins",
+      "author": "Deeping, Warwick, 1877-1950; Benda, Wladyslaw T. (Wladyslaw Theodore), 1873-1948 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- History -- Medieval period, 1066-1485 -- Fiction; Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42287,
+      "title": "The Girl from the Big Horn Country",
+      "author": "Chase, Mary Ellen, 1887-1973; Elwell, Robert Farrington, 1874-1962 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boarding schools -- Juvenile fiction; Girls -- Juvenile fiction; Vermont -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42296,
+      "title": "The Duchess of Trajetto",
+      "author": "Manning, Anne, 1807-1879",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Aristocracy (Social class) -- Fiction; Italy -- History -- 1492-1559 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42299,
+      "title": "The History of Johnny Qu\u00e6 Genus, the Little Foundling of the Late Doctor Syntax.\r\nA Poem by the Author of the Three Tours.",
+      "author": "Combe, William, 1742-1823; Rowlandson, Thomas, 1756-1827 [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English wit and humor, Pictorial; Great Britain -- Social life and customs -- 19th century -- Caricatures and cartoons; Great Britain -- Social life and customs -- 19th century -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42306,
+      "title": "The Calendar, and Other Verses",
+      "author": "Dix, Irving Sidney, 1880-1948",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42307,
+      "title": "Frank in the Woods",
+      "author": "Castlemon, Harry, 1842-1915",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Adventure stories; Boys -- Juvenile fiction; Indians of North America -- Juvenile fiction; Mexican War, 1846-1848 -- Juvenile fiction; West (U.S.) -- Juvenile fiction; Hunters -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42320,
+      "title": "The Shadow of a Sin",
+      "author": "Brame, Charlotte M., 1836-1884",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42324,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft, 1797-1851",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Horror tales; Gothic fiction; Scientists -- Fiction; Monsters -- Fiction; Frankenstein, Victor (Fictitious character) -- Fiction; Frankenstein's monster (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42327,
+      "title": "Peter of New Amsterdam: A Story of Old New York",
+      "author": "Otis, James, 1848-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42328,
+      "title": "An Unofficial Patriot",
+      "author": "Gardener, Helen H. (Helen Hamilton), 1853-1925",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- History -- Civil War, 1861-1865 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42330,
+      "title": "Some Verses",
+      "author": "Whitney, Helen Hay, 1875-1944",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42333,
+      "title": "The Cleverdale Mystery; or, The Machine and Its Wheels: A Story of American Life",
+      "author": "Wilkins, W. A.",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; New York (State) -- Fiction; Political corruption -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42353,
+      "title": "Deaf and Dumb!\nThird Edition",
+      "author": "Sandham, Elizabeth",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Friendship -- Juvenile fiction; Siblings -- Juvenile fiction; Families -- Juvenile fiction; Deaf people -- Education -- Juvenile fiction; Deaf children -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42357,
+      "title": "The Adventure of Princess Sylvia",
+      "author": "Williamson, A. M. (Alice Muriel), 1869-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mate selection -- Fiction; Princesses -- Fiction; Kings and rulers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42358,
+      "title": "Frank at Don Carlos' Rancho",
+      "author": "Castlemon, Harry, 1842-1915",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Animals -- Juvenile fiction; Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Adventure stories; Country life -- Juvenile fiction; Rocky Mountains -- Juvenile fiction; Ranches -- Juvenile fiction; West (U.S.) -- Description and travel -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42362,
+      "title": "Caleb West, Master Diver",
+      "author": "Smith, Francis Hopkinson, 1838-1915; Fraser, Malcolm, 1868-1949 [Illustrator]; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Divers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42366,
+      "title": "The Cozy Lion: As Told by Queen Crosspatch",
+      "author": "Burnett, Frances Hodgson, 1849-1924; Cady, Harrison, 1877-1970 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy literature; Fairy tales; Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Fairies -- Juvenile fiction; Selfishness -- Juvenile fiction; Temper -- Juvenile fiction; Lion -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42370,
+      "title": "Round the Corner in Gay Street",
+      "author": "Richmond, Grace S. (Grace Smith), 1866-1959; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]; Thurston, Maud [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Families -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42382,
+      "title": "The Wilderness Castaways",
+      "author": "Wallace, Dillon, 1863-1939; Watson, Hy S. (Henry Summer), 1868-1933 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada, Eastern -- Description and travel -- Fiction; Outdoor life -- Canada, Eastern -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42383,
+      "title": "Hugh Walpole: An Appreciation",
+      "author": "Hergesheimer, Joseph, 1880-1954",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Walpole, Hugh, 1884-1941",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42389,
+      "title": "The Pirate\nAndrew Lang Edition",
+      "author": "Scott, Walter, 1771-1832; Lang, Andrew, 1844-1912 [Editor]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Shipwreck survival -- Fiction; Love stories; Domestic fiction; Landlord and tenant -- Fiction; Pirates -- Fiction; Kidnapping -- Fiction; Orkney (Scotland) -- Fiction; Shetland (Scotland) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42392,
+      "title": "The Jumble Book of Rhymes\nRecited by the Jumbler",
+      "author": "Heine, Frank R.; Cobb, G. C. [Illustrator]; Cooley, Jack [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42393,
+      "title": "Sarchedon: A Legend of the Great Queen",
+      "author": "Whyte-Melville, G. J. (George John), 1821-1878; Waller, S. E. (Samuel Edmund), 1850-1903 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Semiramis, Queen, consort of Shamshi-Adad V, King of Assyria, active 9th century B.C. -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 42395,
+      "title": "The Circle: A Comedy in Three Acts",
+      "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adultery -- Drama; Intergenerational relations -- Drama; England -- Social life and customs -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42396,
+      "title": "Grit A-Plenty: A Tale of the Labrador Wild",
+      "author": "Wallace, Dillon, 1863-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Teenage boys -- Juvenile fiction; Brothers -- Juvenile fiction; Fathers and sons -- Juvenile fiction; Fur trade -- Juvenile fiction; Physicians -- Juvenile fiction; Newfoundland and Labrador -- Juvenile fiction; Trappers -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42401,
+      "title": "Vathek; An Arabian Tale",
+      "author": "Beckford, William, 1760-1844; North, William, -1854 [Contributor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Gothic fiction; Arab countries -- Fiction; Middle East -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42403,
+      "title": "The Eight-Oared Victors: A Story of College Water Sports",
+      "author": "Chadwick, Lester, 1873-1962",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Rowing -- Juvenile fiction; College sports -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42407,
+      "title": "Misrepresentative Women",
+      "author": "Graham, Harry, 1874-1936; Groesbeck, Dan Sayre, 1878-1950 [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Nonsense verses; Humorous poetry; Biographical poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42408,
+      "title": "Growing Up: A Story of the Girlhood of Judith Mackenzie",
+      "author": "Conklin, Nathaniel, Mrs., 1841-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christian life -- Fiction; Young women -- Fiction; Conduct of life -- Fiction; Girls -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42422,
+      "title": "The Passing of the Storm, and Other Poems",
+      "author": "King, Alfred Castner, 1873-1941",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42423,
+      "title": "Justin Wingate, Ranchman",
+      "author": "Whitson, John Harvey, 1854-1936; Becher, Arthur E., 1877-1960 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Western stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42428,
+      "title": "Adrienne Toner: A Novel",
+      "author": "Sedgwick, Anne Douglas, 1873-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Triangles (Interpersonal relations) -- Fiction; Americans -- England -- Fiction; Man-woman relationships -- Fiction; Marriage -- Fiction; World War, 1914-1918 -- England -- Fiction; England -- Social life and customs -- 20th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42437,
+      "title": "Aunt Jimmy's Will",
+      "author": "Wright, Mabel Osgood, 1859-1934; Shinn, Florence Scovel, 1871-1940 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; New York (N.Y.) -- Fiction; Inheritance and succession -- Fiction; Girls -- Fiction; Country life -- Fiction; New England -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42439,
+      "title": "\"The Santa Fe Trail,\" and Other Poems",
+      "author": "Wilson, Joseph Robert, 1886-",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42441,
+      "title": "The Coming of Cassidy\u2014And the Others",
+      "author": "Mulford, Clarence Edward, 1883-1956; Dixon, Maynard, 1875-1946 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Cassidy, Hopalong (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42442,
+      "title": "The Wonderful Story of Ravalette",
+      "author": "Randolph, Paschal Beverly, 1825-1874",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Spiritualism -- Fiction; Rosicrucians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42455,
+      "title": "The Mystery of the Sea",
+      "author": "Stoker, Bram, 1847-1912",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Scotland -- Fiction; Adventure stories; Visions -- Fiction; Prophecies -- Fiction; Omens -- Fiction; Code and cipher stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42461,
+      "title": "The Motor Boys; or, Chums Through Thick and Thin",
+      "author": "Young, Clarence; Nuttall, Charles, 1872-1934 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Motorcycles -- Juvenile fiction; Sports stories; Racing -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42476,
+      "title": "Literary Celebrities of the English Lake-District",
+      "author": "Sessions, Frederick",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English literature -- History and criticism; Authors, English -- 19th century -- Biography; Lake poets; Lake District (England) -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42486,
+      "title": "The Two Magics: The Turn of the Screw, Covering End",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Governesses -- Fiction; Country homes -- Fiction; Courtship -- Fiction; Children -- Fiction; Mortgages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42491,
+      "title": "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 1",
+      "author": "Williams, Robert Folkestone, 1805?-1872",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42492,
+      "title": "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 2",
+      "author": "Williams, Robert Folkestone, 1805?-1872",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42493,
+      "title": "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 3",
+      "author": "Williams, Robert Folkestone, 1805?-1872",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42496,
+      "title": "Miracle Gold: A Novel (Vol. 2 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42498,
+      "title": "Miracle Gold: A Novel (Vol. 1 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42499,
+      "title": "Miracle Gold: A Novel (Vol. 3 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42504,
+      "title": "The Campers Out; Or, The Right Path and the Wrong",
+      "author": "Ellis, Edward Sylvester, 1840-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Friendship -- Juvenile fiction; Runaway children -- Juvenile fiction; Outdoor life -- Juvenile fiction; Theft -- Juvenile fiction; Good and evil -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42519,
+      "title": "Blackthorn Farm",
+      "author": "Applin, Arthur, 1873-1949",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42523,
+      "title": "Box and Cox: A Romance of Real Life in One Act.",
+      "author": "Morton, John Maddison, 1811-1891",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; English drama -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42529,
+      "title": "Dariel: A Romance of Surrey",
+      "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900; Hammond, Christine M. Demain, active 1886-1910 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Surrey (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42531,
+      "title": "The Honey-Pot",
+      "author": "Barcynska, Countess (H\u00e9l\u00e8ne), 1894-1964",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; Young women -- Fiction; Theater -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42532,
+      "title": "The Gold-Seekers: A Tale of California",
+      "author": "Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Gold mines and mining -- Fiction; California -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42533,
+      "title": "Narcissus",
+      "author": "Scott, Evelyn, 1893-1963",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42534,
+      "title": "The Narrow House",
+      "author": "Scott, Evelyn, 1893-1963",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42535,
+      "title": "The Tiger-Slayer: A Tale of the Indian Desert",
+      "author": "Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Indians of North America -- Fiction; Adventure stories; Frontier and pioneer life -- Fiction; Mexico -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42536,
+      "title": "Yonder",
+      "author": "Young, E. H. (Emily Hilda), 1880-1949",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42542,
+      "title": "Lost Diaries",
+      "author": "Baring, Maurice, 1874-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42545,
+      "title": "The Radio Detectives in the Jungle",
+      "author": "Verrill, A. Hyatt (Alpheus Hyatt), 1871-1954",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Adventure stories; Radio -- Juvenile fiction; West Indies -- Juvenile fiction; Guyana -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42548,
+      "title": "The Camp Fire Girls on a Yacht",
+      "author": "Sanderson, Margaret Love; Evers, Maude Martin [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Islands -- Juvenile fiction; Camp Fire Girls -- Juvenile fiction; Yachts -- Juvenile fiction; Girls -- Societies and clubs -- Juvenile fiction; Atlantic Coast (Mass.) -- Description and travel -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42555,
+      "title": "By the Barrow River, and Other Stories",
+      "author": "Leamy, Edmund, 1848-1904; Tynan, Katharine, 1861-1931 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Ireland -- Fiction; Irish -- Foreign countries -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42556,
+      "title": "Girls of the True Blue",
+      "author": "Meade, L. T., 1854-1914; Tarrant, Percy, 1855-1934 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Girls -- Conduct of life -- Juvenile fiction; Girls -- Juvenile fiction; Pets -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42562,
+      "title": "Mason of Bar X Ranch",
+      "author": "Bennett, Henry Holcomb, 1863-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Love stories; Children of the rich -- Fiction; Nevada -- Fiction; Ranch life -- West (U.S.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42566,
+      "title": "The Spook Ballads",
+      "author": "Parkes, William Theodore, -1908",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Ghosts -- Poetry; Supernatural -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42568,
+      "title": "The Cornish Fishermen's Watch-Night, and Other Stories",
+      "author": "Anonymous",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christian life -- Fiction; Conduct of life -- Fiction; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42569,
+      "title": "The Radio Detectives Under the Sea",
+      "author": "Verrill, A. Hyatt (Alpheus Hyatt), 1871-1954",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Adventure stories; Submarines (Ships) -- Juvenile fiction; Radio -- Juvenile fiction; Diving suits -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42572,
+      "title": "The Adopted Daughter: A Tale for Young Persons",
+      "author": "Sandham, Elizabeth",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children -- Conduct of life -- Juvenile fiction; Family -- Juvenile fiction; Social classes -- Juvenile fiction; Adopted children -- Juvenile fiction; Inheritance and succession -- Juvenile fiction; Fathers and daughters -- Juvenile fiction; Motherless families -- Juvenile fiction; Charity -- Juvenile fiction; Wealth -- Juvenile fiction; Nannies -- Juvenile fiction; Widows -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42574,
+      "title": "Uncle Wiggily in Wonderland",
+      "author": "Garis, Howard Roger, 1873-1962; Bloomfield, Edward [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy literature; Rabbits -- Juvenile fiction; Uncle Wiggily (Fictitious character) -- Juvenile fiction; Carroll, Lewis, 1832-1898 -- Parodies, imitations, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42575,
+      "title": "Washer the Raccoon",
+      "author": "Walsh, George Ethelbert, 1865-1941; Prittie, Edwin John, 1879-1963 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Animals -- Juvenile fiction; Raccoon -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42581,
+      "title": "The Deacon: An Original Comedy Drama in Five Acts",
+      "author": "Dale, Horace C., 1854-1907",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42582,
+      "title": "A Little Girl in Old San Francisco",
+      "author": "Douglas, Amanda M., 1831-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Schools -- Juvenile fiction; Bildungsromans; San Francisco (Calif.) -- Social life and customs -- Juvenile fiction; Spanish Americans -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42585,
+      "title": "The Ballads & Songs of Derbyshire\nWith Illustrative Notes, and Examples of the Original Music, etc.",
+      "author": "Jewitt, Llewellynn Frederick William, 1816-1886 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Ballads, English -- England -- Derbyshire -- Texts; Songs, English -- England -- Derbyshire -- Texts; Derbyshire (England) -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42593,
+      "title": "A History of American Literature Since 1870",
+      "author": "Pattee, Fred Lewis, 1863-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American literature -- 19th century -- History and criticism; American literature -- 20th century -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42595,
+      "title": "The Last Call: A Romance (Vol. 1 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Mistaken identity -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42596,
+      "title": "The Last Call: A Romance (Vol. 2 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Mistaken identity -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42597,
+      "title": "The Last Call: A Romance (Vol. 3 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Mistaken identity -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42607,
+      "title": "The Shepheard's Calender: Twelve Aeglogues Proportionable to the Twelve Monethes",
+      "author": "Spenser, Edmund, 1552?-1599; Crane, Walter, 1845-1915 [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42612,
+      "title": "The Mother's Nursery Songs",
+      "author": "Hastings, Thomas, 1784-1872",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's songs",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42618,
+      "title": "The Lady of Lynn",
+      "author": "Besant, Walter, 1836-1901",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Conspiracies -- Fiction; Health resorts -- Fiction; Sailors -- Fiction; Heiresses -- Fiction; Norfolk (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42619,
+      "title": "Buckskin Mose\r\nOr, Life From the Lakes to the Pacific, as Actor, Circus-Rider, Detective, Ranger, Gold-Digger, Indian Scout, and Guide.",
+      "author": "Perrie, George W.; Rosenberg, C. G. (Charles G.) [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Frontier and pioneer life -- West (U.S.) -- Fiction; Latter Day Saints -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42620,
+      "title": "Prefaces to Four Seventeenth-Century Romances\r\nRoger Boyle, Lord Broghill, preface to Parthenissa (1655) Sir George Mackenzie, \"Apologie for romances,\" prefixed to Aretina, the serious romance (1660) Nathaniel Ingelo, preface to Bentivolio and Urania (1660) Robert Boyle, preface to Theodora and Didymus (1687)",
+      "author": "Boyle, Roger, Earl of Orrery, 1621-1679; Ingelo, Nathaniel, 1621?-1683; Mackenzie, George, 1636-1691; Davies, Charles Maurice, 1828-1910 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Prefaces; English fiction -- Early modern, 1500-1700",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42621,
+      "title": "Poems: Containing The Restropect, Odes, Elegies, Sonnets, &c.",
+      "author": "Lovell, Robert, 1770?-1796; Southey, Robert, 1774-1843",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Sonnets, English; English poetry -- 18th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42623,
+      "title": "Camping on the St. Lawrence; Or, On the Trail of the Early Discoverers",
+      "author": "Tomlinson, Everett T. (Everett Titsworth), 1859-1931; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Fishing -- Juvenile fiction; Canoes and canoeing -- Juvenile fiction; Friendship -- Juvenile fiction; Camping -- Juvenile fiction; Kindness -- Juvenile fiction; Youth -- Conduct of life -- Juvenile fiction; Outdoor life -- Juvenile fiction; Explorers -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42630,
+      "title": "The Outdoor Chums in the Big Woods; Or, Rival Hunters of Lumber Run",
+      "author": "Allen, Quincy",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Hunting stories; Maine -- Juvenile fiction; Lumber camps -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42633,
+      "title": "The Strand Magazine, Vol. 01, Issue 02, February 1891\r\nAn Illustrated Monthly",
+      "author": "Various; Newnes, George, 1851-1910 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English -- Periodicals; English literature -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42641,
+      "title": "Friends",
+      "author": "Gibson, Wilfrid Wilson, 1878-1962",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42644,
+      "title": "A Jar of Honey from Mount Hybla",
+      "author": "Hunt, Leigh, 1784-1859; Doyle, Richard, 1824-1883 [Illustrator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Pastoral poetry; Theocritus; Sicily (Italy)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42653,
+      "title": "Full-Back Foster",
+      "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Schools -- Juvenile fiction; Football -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42664,
+      "title": "Gods of the North",
+      "author": "Howard, Robert E. (Robert Ervin), 1906-1936",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Fantasy fiction, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42665,
+      "title": "Satan's Diary",
+      "author": "Andreyev, Leonid, 1871-1919; Bernstein, Herman, 1876-1935 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Diary fiction; Devil -- Fiction; Russian fiction -- Translations into English; Andreyev, Leonid, 1871-1919 -- Translations into English; Good and evil -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42667,
+      "title": "The Deserted City",
+      "author": "Sherman, Francis, 1871-1926",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Canadian poetry; Sonnets",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42668,
+      "title": "Matins",
+      "author": "Sherman, Francis, 1871-1926",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Canadian poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42672,
+      "title": "The wanderings and fortunes of some German emigrants",
+      "author": "Gerst\u00e4cker, Friedrich, 1816-1872; Black, David [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Immigrants -- Fiction; Germany -- Emigration and immigration -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42677,
+      "title": "Fires - Book 1: The Stone, and Other Tales",
+      "author": "Gibson, Wilfrid Wilson, 1878-1962",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Stories in rhyme",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42678,
+      "title": "Fires - Book 2: The Ovens, and Other Tales",
+      "author": "Gibson, Wilfrid Wilson, 1878-1962",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Stories in rhyme",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42679,
+      "title": "Fires - Book 3: The Hare, and Other Tales",
+      "author": "Gibson, Wilfrid Wilson, 1878-1962",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Stories in rhyme",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42681,
+      "title": "The Hero of the People: A Historical Romance of Love, Liberty and Loyalty",
+      "author": "Dumas, Alexandre, 1802-1870; Williams, Henry Llewellyn, 1842- [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; France -- History -- Revolution, 1789-1799 -- Fiction; Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42687,
+      "title": "The Seven Sleuths' Club",
+      "author": "Norton, Carol, 1876-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mystery and detective stories; Young women -- Social life and customs -- Juvenile fiction; Young women -- Societies and clubs -- Juvenile fiction; Women detectives -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42688,
+      "title": "The Red Lure",
+      "author": "Snell, Roy J. (Roy Judson), 1878-1959",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Americans -- Belize -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42689,
+      "title": "The Young Cavalier: A Story of the Civil Wars",
+      "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Browne, Gordon, 1858-1932 [Illustrator]",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Great Britain -- History -- Civil War, 1642-1649 -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42690,
+      "title": "The Mesmerist's Victim",
+      "author": "Dumas, Alexandre, 1802-1870; Williams, Henry Llewellyn, 1842- [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction; Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction; Du Barry, Jeanne B\u00e9cu, comtesse, 1743-1793 -- Fiction; France -- History -- Louis XV, 1715-1774 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42691,
+      "title": "The Joys of Being a Woman, and Other Papers",
+      "author": "Kirkland, Winifred Margaretta, 1872-1943",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Women; American essays -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42692,
+      "title": "An Idyll of All Fools' Day",
+      "author": "Bacon, Josephine Daskam, 1876-1961; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Love stories; April Fools' Day -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42699,
+      "title": "The Gilded Man: A Romance of the Andes",
+      "author": "Smyth, Clifford, 1866-1943; Le Gallienne, Richard, 1866-1947 [Author of introduction, etc.]; Russom, R. G. [Illustrator]",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Andes Region -- Fiction; El Dorado -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42702,
+      "title": "Passing By",
+      "author": "Baring, Maurice, 1874-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Married people -- Fiction; Epistolary fiction; Diary fiction; Man-woman relationships -- Fiction; England -- Social life and customs -- 20th century -- Fiction; Catholics -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42703,
+      "title": "Overlooked",
+      "author": "Baring, Maurice, 1874-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mate selection -- Fiction; Manners and customs -- Fiction; Man-woman relationships -- Fiction; Health resorts -- Fiction; Blind -- Fiction; Novelists -- Fiction; Community life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42704,
+      "title": "Salom\u00e9: A Tragedy in One Act",
+      "author": "Wilde, Oscar, 1854-1900; Ross, Robert Baldwin, 1869-1918 [Author of introduction, etc.]; Beardsley, Aubrey, 1872-1898 [Illustrator]; Douglas, Alfred Bruce, 1870-1945 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Salome (Biblical figure) -- Drama; Tragedies (Drama)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42710,
+      "title": "Bizarre",
+      "author": "Mackall, Lawton, 1888-1968; Stout, Lauren [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor; American essays -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42714,
+      "title": "The Luminous Face",
+      "author": "Wells, Carolyn, 1862-1942",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Wise, Pennington (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42724,
+      "title": "The Works of Christopher Marlowe, Vol. 2 (of 3)",
+      "author": "Marlowe, Christopher, 1564-1593; Bullen, A. H. (Arthur Henry), 1857-1920 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama -- Early modern and Elizabethan, 1500-1600",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42725,
+      "title": "The Meadow-Brook Girls on the Tennis Courts; Or, Winning Out in the Big Tournament",
+      "author": "Aldridge, Janet",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Teenage girls -- Juvenile fiction; Tennis -- Tournaments -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42728,
+      "title": "Forbidden Cargoes",
+      "author": "Snell, Roy J. (Roy Judson), 1878-1959",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Belize -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42729,
+      "title": "Stand Fast, Craig-Royston! (Volume I)",
+      "author": "Black, William, 1841-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Grandfathers -- Fiction; Scotland -- Social life and customs -- 19th century -- Fiction; Families -- Fiction; Older people -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42730,
+      "title": "Stand Fast, Craig-Royston! (Volume II)",
+      "author": "Black, William, 1841-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Grandfathers -- Fiction; Scotland -- Social life and customs -- 19th century -- Fiction; Families -- Fiction; Older people -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42731,
+      "title": "Stand Fast, Craig-Royston! (Volume III)",
+      "author": "Black, William, 1841-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Grandfathers -- Fiction; Scotland -- Social life and customs -- 19th century -- Fiction; Families -- Fiction; Older people -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42733,
+      "title": "The Brighton Boys in the Trenches",
+      "author": "Driscoll, James R.",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Trench warfare -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42735,
+      "title": "Exotics and Retrospectives",
+      "author": "Hearn, Lafcadio, 1850-1904",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Japan",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42740,
+      "title": "Find the Woman",
+      "author": "Roche, Arthur Somers, 1883-1935; Cornwell, Dean, 1892-1960 [Illustrator]",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Young women -- Fiction; Love stories; Motion picture industry -- Fiction; New York (N.Y.) -- Social life and customs -- 20th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42742,
+      "title": "The Indian Chief: The Story of a Revolution",
+      "author": "Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Jesuits -- Fiction; Adventure stories; Pioneers -- Fiction; Indians -- Warfare -- Fiction; Missions -- Mexico -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42748,
+      "title": "The Motor Boys Overland; Or, A Long Trip for Fun and Fortune",
+      "author": "Young, Clarence; Nuttall, Charles, 1872-1934 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Gold mines and mining -- Juvenile fiction; Automobiles -- Juvenile fiction; Automobile travel -- Juvenile fiction; Automobile racing -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42750,
+      "title": "Tempest-Driven: A Romance (Vol. 1 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42751,
+      "title": "Tempest-Driven: A Romance (Vol. 2 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42752,
+      "title": "Tempest-Driven: A Romance (Vol. 3 of 3)",
+      "author": "Dowling, Richard, 1846-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42754,
+      "title": "Good References",
+      "author": "Rath, E. J.; Stahr, Paul, 1883-1953 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Love stories; Impostors and imposture -- Fiction; Household employees -- Fiction; New York (N.Y.) -- Social life and customs -- 20th century -- Fiction; Secretaries -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42755,
+      "title": "The Firebug",
+      "author": "Snell, Roy J. (Roy Judson), 1878-1959",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Arson -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42757,
+      "title": "The Countess of Charny; or, The Execution of King Louis XVI",
+      "author": "Dumas, Alexandre, 1802-1870; Williams, Henry Llewellyn, 1842- [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Revolution, 1789-1799 -- Fiction; Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42763,
+      "title": "Swords Reluctant",
+      "author": "Pemberton, Max, 1863-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42768,
+      "title": "Much Ado About Peter",
+      "author": "Webster, Jean, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Household employees -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42769,
+      "title": "The New-York Book of Poetry",
+      "author": "Hoffman, Charles Fenno, 1806-1884 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry -- New York (State)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42771,
+      "title": "Happy House",
+      "author": "Hutten zum Stolzenberg, Betsey Riddle, Freifrau von, 1874-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Married people -- Fiction; England -- Social life and customs -- 20th century -- Fiction; Husband and wife -- Fiction; Women novelists -- Fiction; Families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42772,
+      "title": "It Pays to Smile",
+      "author": "Putnam, Nina Wilcox, 1888-1962",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42796,
+      "title": "The Box-Car Children",
+      "author": "Warner, Gertrude Chandler, 1890-1979; Gregory, Dorothy Lake [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Siblings -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Families -- Juvenile fiction; Boxcar children (Fictitious characters) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42797,
+      "title": "The Worn Doorstep",
+      "author": "Sherwood, Margaret Pollock, 1864-1955",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Diary fiction; Americans -- England -- Fiction; World War, 1914-1918 -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42799,
+      "title": "The Gay Gnani of Gingalee; or, Discords of Devolution\r\nA Tragical Entanglement of Modern Mysticism and Modern Science",
+      "author": "Huntley, Florence, -1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Religion and science -- Fiction; Mysticism -- Humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42802,
+      "title": "The Riddle of the Mysterious Light",
+      "author": "Hanshew, Mary E.; Hanshew, Thomas W., 1857-1914",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Cleek, Hamilton (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42804,
+      "title": "Buff: A Collie, and Other Dog-Stories",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42805,
+      "title": "The History of Little Jack, a Foundling",
+      "author": "Day, Thomas, 1748-1789",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Foundlings -- Juvenile fiction; Youth -- Conduct of life -- Juvenile fiction; Soldiers -- Juvenile fiction; Child soldiers -- Juvenile fiction; Tatars -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42807,
+      "title": "The Mystery of the Clasped Hands: A Novel",
+      "author": "Boothby, Guy, 1867-1905",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42812,
+      "title": "Katharine Frensham: A Novel",
+      "author": "Harraden, Beatrice, 1864-1936",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Courtship -- Fiction; Widowers -- Fiction; England -- Social life and customs -- Fiction; Middle-aged women -- Fiction; British -- Norway -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42813,
+      "title": "Mrs. Vanderstein's jewels",
+      "author": "Bryce, Marion",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Murder -- Fiction; Jewel thieves -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42816,
+      "title": "Unveiling a Parallel: A Romance",
+      "author": "Jones, Alice Ilgenfritz, 1846-1905; Merchant, Ella",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Feminist fiction; Utopian fiction; Mars (Planet) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42823,
+      "title": "The Stories of El Dorado",
+      "author": "Wait, Frona Eunice, 1859-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Indians of North America -- Folklore; Indians of Central America -- Folklore; El Dorado -- Legends",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42827,
+      "title": "Bannertail: The Story of a Graysquirrel",
+      "author": "Seton, Ernest Thompson, 1860-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Squirrels -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42829,
+      "title": "In Quest of Gold; Or, Under the Whanga Falls",
+      "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Australia -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42831,
+      "title": "Love in a Cloud: A Comedy in Filigree",
+      "author": "Bates, Arlo, 1850-1918",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authorship -- Fiction; Boston (Mass.) -- Social life and customs -- Fiction; Anonyms and pseudonyms -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42834,
+      "title": "The Red Track: A Story of Social Life in Mexico",
+      "author": "Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Mexico -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42835,
+      "title": "Tommy Tregennis",
+      "author": "Phillips, Mary Elizabeth, 1857-1945; Wheelhouse, M. V. (Mary V.) [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boys -- Fiction; Cornwall (England : County) -- Fiction; Families -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42837,
+      "title": "Aunt Kitty's Tales",
+      "author": "McIntosh, Maria J. (Maria Jane), 1803-1878",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children's stories; Girls -- Conduct of life -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42839,
+      "title": "Popular Tales",
+      "author": "Guizot, Madame (Elisabeth Charlotte Pauline), 1773-1827; Burke, L., Mrs. [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children's stories; Children -- Conduct of life -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42850,
+      "title": "The Pied Piper of Hamelin, and Other Poems\r\nEvery Boy's Library",
+      "author": "Browning, Robert, 1812-1889",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Children's poetry; Children's poetry, English; Conduct of life -- Juvenile poetry; Pied Piper of Hamelin (Legendary character) -- Juvenile poetry; Avarice -- Juvenile poetry; Courage -- Juvenile poetry; Missing children -- Juvenile poetry; Promises -- Juvenile poetry; Soldiers -- Juvenile poetry; War -- Juvenile poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42856,
+      "title": "Journals of Dorothy Wordsworth, Vol. 1 (of 2)",
+      "author": "Wordsworth, Dorothy, 1771-1855; Knight, William Angus, 1836-1916 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Wordsworth, William, 1770-1850 -- Family; Wordsworth, Dorothy, 1771-1855 -- Diaries; Authors, English -- 19th century -- Diaries",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42859,
+      "title": "Lachmi Bai, Rani of Jhansi: The Jeanne D'Arc of India",
+      "author": "White, Michael",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42862,
+      "title": "King of Ranleigh: A School Story",
+      "author": "Brereton, F. S. (Frederick Sadleir), 1872-1957; Prater, Ernest [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boys -- Juvenile fiction; Schools -- England -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42870,
+      "title": "Mildred Keith",
+      "author": "Finley, Martha, 1828-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Siblings -- Juvenile fiction; Families -- Juvenile fiction; Keith, Mildred (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42874,
+      "title": "In the grip of the Mullah: A tale of adventure in Somaliland",
+      "author": "Brereton, F. S. (Frederick Sadleir), 1872-1957; Sheldon, Charles Mills, 1866-1928 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Maxamad Cabdulle Xasan, 1864-1920 -- Juvenile fiction; Somalia -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42886,
+      "title": "The Blue Dragon: A Tale of Recent Adventure in China",
+      "author": "Munroe, Kirk, 1850-1930",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Adventure stories; Friendship -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Youth -- Conduct of life -- Juvenile fiction; Prejudices -- Juvenile fiction; China -- History -- Boxer Rebellion, 1899-1901 -- Juvenile fiction; China -- Description and travel -- Juvenile fiction; Chinese Americans -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42894,
+      "title": "The Shadow of Victory: A Romance of Fort Dearborn",
+      "author": "Reed, Myrtle, 1874-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Chicago (Ill.) -- Fiction; Fort Dearborn Massacre, Chicago, Ill., 1812 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42897,
+      "title": "Feline Philosophy",
+      "author": "Hess, Walter L\u00e9on",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Cats -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42901,
+      "title": "Creatures of the Abyss",
+      "author": "Leinster, Murray, 1896-1975",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Pacific Ocean -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42902,
+      "title": "Young Blood",
+      "author": "Hornung, E. W. (Ernest William), 1866-1921",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; England -- Fiction; Love stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42905,
+      "title": "Great Porter Square: A Mystery. v. 1",
+      "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42906,
+      "title": "Great Porter Square: A Mystery. v. 2",
+      "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42907,
+      "title": "Great Porter Square: A Mystery. v. 3",
+      "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42908,
+      "title": "Dickensian Inns & Taverns",
+      "author": "Matz, B. W. (Bertram Waldrom), 1865-1925",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Taverns (Inns) -- England; Dickens, Charles, 1812-1870 -- Settings",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42914,
+      "title": "Gladiator",
+      "author": "Wylie, Philip, 1902-1971",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Fathers and sons -- Fiction; Psychological fiction; Alienation (Social psychology) -- Fiction; Human experimentation in medicine -- Fiction; Loneliness -- Fiction; Muscle strength -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42915,
+      "title": "The Lazy Minstrel",
+      "author": "Ashby-Sterry, J. (Joseph), -1917",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42919,
+      "title": "Angel Unawares: A Story of Christmas Eve",
+      "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; World War, 1914-1918 -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42920,
+      "title": "The Good Wolf",
+      "author": "Burnett, Frances Hodgson, 1849-1924; Sichel, Harold, 1881-1948 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Animals -- Juvenile fiction; Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Friendship -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Storytelling -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42923,
+      "title": "The Doctor's Christmas Eve",
+      "author": "Allen, James Lane, 1849-1925",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; Physicians -- Fiction; Kentucky -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42925,
+      "title": "The Conquest: The True Story of Lewis and Clark",
+      "author": "Dye, Eva Emery, 1855-1947",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Biographical fiction; Discoveries in geography -- Fiction; Explorers -- Fiction; West (U.S.) -- History -- To 1848 -- Fiction; Lewis, Meriwether, 1774-1809 -- Fiction; Lewis and Clark Expedition (1804-1806) -- Fiction; Clark, William, 1770-1838 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42934,
+      "title": "Polly's Southern Cruise",
+      "author": "Roy, Lillian Elizabeth, 1868-1932; Barbour, Harold S., 1889-1961 [Illustrator]",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Sea stories; Adventure stories; Ocean travel -- Juvenile fiction; Young women -- Social life and customs -- Juvenile fiction; Caribbean Area -- Description and travel -- Juvenile fiction; Florida -- Description and travel -- Juvenile fiction; Cuba -- Description and travel -- Juvenile fiction; Panama -- Description and travel -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42940,
+      "title": "The Battleship Boys in Foreign Service; or, Earning New Ratings in European Seas",
+      "author": "Patchin, Frank Gee, 1861-1925",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States. Navy -- Juvenile fiction; Battleships -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42943,
+      "title": "Frank Forester: A Story of the Dardanelles",
+      "author": "Strang, Herbert; Cuneo, Cyrus, 1879-1916 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42944,
+      "title": "A Rainy June, and Other Stories",
+      "author": "Ouida, 1839-1908",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42946,
+      "title": "Live toys",
+      "author": "Davenport, Emma, 1821?-1910; Weir, Harrison, 1824-1906 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's stories; Pets -- Juvenile fiction; Human-animal relationships -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42947,
+      "title": "Little Ann, and Other Poems",
+      "author": "Taylor, Jane, 1783-1824; Taylor, Ann, 1782-1866; Greenaway, Kate, 1846-1901 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42948,
+      "title": "Coaches and Coaching",
+      "author": "Hunt, Leigh, 1784-1859; Hardy, Paul, 1862-1942 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Coaching (Transportation); Carriages and carts; Coach horses",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 42953,
+      "title": "The Motor Scout: A Story of Adventure in South America",
+      "author": "Strang, Herbert; Cuneo, Cyrus, 1879-1916 [Illustrator]",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Motorcycles -- Juvenile fiction; South America -- Juvenile fiction; Revolutions -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 17699,
+      "title": "The Evolution of Love",
+      "author": "Lucka, Emil, 1877-1941; Schleussner, Ellie [Translator]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Love; Sex",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 17749,
+      "title": "The Mystic Will\nA Method of Developing and Strengthening the Faculties of the Mind, through the Awakened Will, by a Simple, Scientific Process Possible to Any Person of Ordinary Intelligence",
+      "author": "Leland, Charles Godfrey, 1824-1903",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Mental suggestion",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 17771,
+      "title": "Winds Of Doctrine: Studies in Contemporary Opinion",
+      "author": "Santayana, George, 1863-1952",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy, Modern",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 17774,
+      "title": "The Poetry of Architecture\nOr, the Architecture of the Nations of Europe Considered in its Association with Natural Scenery and National Character",
+      "author": "Ruskin, John, 1819-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Architecture",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 17802,
+      "title": "Myth and Science\nAn Essay",
+      "author": "Vignoli, Tito, 1828-1914",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychology, Religious; Myth; Religion -- Philosophy",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

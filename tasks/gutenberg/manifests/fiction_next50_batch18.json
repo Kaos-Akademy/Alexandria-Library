@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1380,
+      "title": "The Two Brothers",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1381,
+      "title": "Poems \u2014 Volume 1",
+      "author": "Meredith, George, 1828-1909",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Pastoral poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1382,
+      "title": "Poems \u2014 Volume 2",
+      "author": "Meredith, George, 1828-1909",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Didactic poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1383,
+      "title": "Poems \u2014 Volume 3",
+      "author": "Meredith, George, 1828-1909",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Didactic poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1384,
+      "title": "The Ayrshire Legatees; Or, The Pringle Family",
+      "author": "Galt, John, 1779-1839",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Scotland -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1385,
+      "title": "Lin McLean",
+      "author": "Wister, Owen, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Wyoming -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1387,
+      "title": "Mother",
+      "author": "Wister, Owen, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Storytelling -- Fiction; Investments -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1388,
+      "title": "Padre Ignacio; Or, The Song of Temptation",
+      "author": "Wister, Owen, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Priests -- Fiction; Missions -- California -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1389,
+      "title": "Gobseck",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1390,
+      "title": "The Jimmyjohn Boss, and Other Stories",
+      "author": "Wister, Owen, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Frontier and pioneer life -- West (U.S.) -- Fiction; West (U.S.) -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1391,
+      "title": "Penelope's Irish Experiences",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1392,
+      "title": "The Seven Poor Travellers",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Christmas stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1393,
+      "title": "Amours De Voyage",
+      "author": "Clough, Arthur Hugh, 1819-1861",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Voyages and travels -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1394,
+      "title": "The Holly-Tree",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; English fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1399,
+      "title": "Anna Karenina",
+      "author": "Tolstoy, Leo, graf, 1828-1910; Garnett, Constance, 1861-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adultery -- Fiction; Didactic fiction; Love stories; Married women -- Fiction; Russia -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1400,
+      "title": "Great Expectations",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; England -- Fiction; Revenge -- Fiction; Bildungsromans; Young men -- Fiction; Man-woman relationships -- Fiction; Ex-convicts -- Fiction; Benefactors -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1401,
+      "title": "Tarzan the Untamed",
+      "author": "Burroughs, Edgar Rice, 1875-1950",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Tarzan (Fictitious character) -- Fiction; Fantasy fiction; Adventure stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1402,
+      "title": "Where the Blue Begins",
+      "author": "Morley, Christopher, 1890-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Dogs -- Fiction; Didactic fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1403,
+      "title": "A Start in Life",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1405,
+      "title": "The Collection of Antiquities",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1406,
+      "title": "The Perils of Certain English Prisoners",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1407,
+      "title": "A Message from the Sea",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1410,
+      "title": "The Commission in Lunacy",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Biographical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1411,
+      "title": "Domestic Peace",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1412,
+      "title": "Masterman Ready",
+      "author": "Marryat, Frederick, 1792-1848",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Islands -- Fiction; Sea stories; Survival -- Fiction; Adventure stories; Shipwrecks -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1413,
+      "title": "Tom Tiddler's Ground",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1414,
+      "title": "Somebody's Luggage",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1415,
+      "title": "Doctor Marigold",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christmas stories; Short stories, English; Adoptive parents -- Fiction; Deaf children -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1416,
+      "title": "Mrs. Lirriper's Lodgings",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Widows -- Fiction; Great Britain -- History -- Victoria, 1837-1901 -- Fiction; Boardinghouses -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1417,
+      "title": "Sons of the Soil",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1418,
+      "title": "Country Sentiment",
+      "author": "Graves, Robert, 1895-1985",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Pastoral poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1419,
+      "title": "Mugby Junction",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Railroad stations -- England -- London -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1421,
+      "title": "Mrs. Lirriper's Legacy",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Widows -- Fiction; Great Britain -- History -- Victoria, 1837-1901 -- Fiction; Boardinghouses -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1422,
+      "title": "Going into Society",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1423,
+      "title": "No Thoroughfare",
+      "author": "Dickens, Charles, 1812-1870; Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1424,
+      "title": "Castle Rackrent",
+      "author": "Edgeworth, Maria, 1768-1849; Ritchie, Anne Thackeray, 1837-1919 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Landlord and tenant -- Fiction; Poor families -- Fiction; Pastoral fiction; Ireland -- Social life and customs -- Fiction; Ireland -- Fiction; Landowners -- Fiction; Rich people -- Fiction; Rural conditions -- Fiction; Administration of estates -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1425,
+      "title": "El Verdugo",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1426,
+      "title": "The Recruit",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1427,
+      "title": "A Drama on the Seashore",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1428,
+      "title": "La Grenadiere",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1429,
+      "title": "The Garden Party, and Other Stories",
+      "author": "Mansfield, Katherine, 1888-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, New Zealand; New Zealand -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1430,
+      "title": "Beautiful Stories from Shakespeare",
+      "author": "Nesbit, E. (Edith), 1858-1924; Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's literature; Shakespeare, William, 1564-1616 -- Stories, plots, etc. -- Juvenile literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1431,
+      "title": "Trooper Peter Halket of Mashonaland",
+      "author": "Schreiner, Olive, 1855-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Zimbabwe -- History -- Shona Revolt, 1896-1897 -- Fiction; Africa, Southern -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1433,
+      "title": "The Red Inn",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1435,
+      "title": "Miscellaneous Papers",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1437,
+      "title": "Juana",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1438,
+      "title": "No Name",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; England -- Fiction; Psychological fiction; Young women -- Fiction; Sisters -- Fiction; Disinheritance -- Fiction; Illegitimacy -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1441,
+      "title": "The Story of an African Farm",
+      "author": "Schreiner, Olive, 1855-1920",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Young women -- Fiction; Bildungsromans; Farm life -- Fiction; Feminists -- Fiction; Africa, Southern -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1442,
+      "title": "The Kingdom of the Blind",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Spy stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1443,
+      "title": "Two Poets",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

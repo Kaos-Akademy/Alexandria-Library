@@ -1,0 +1,259 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 16986,
+      "title": "The Seven Valleys and the Four Valleys",
+      "author": "Bah\u00e1'u'll\u00e1h, 1817-1892",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Bahai Faith -- Doctrines",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 16996,
+      "title": "Two old faiths",
+      "author": "Mitchell, J. Murray (John Murray), 1815-1904; Muir, William, Sir, 1819-1905",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Islam; Christianity and other religions -- Hinduism; Hinduism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17075,
+      "title": "Dialogue of Comfort Against Tribulation\nWith Modifications To Obsolete Language By Monica Stevens",
+      "author": "More, Thomas, Saint, 1478-1535; Stevens, Monica [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Consolation",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    },
+    {
+      "gutenberg_id": 17087,
+      "title": "Ancient Art and Ritual",
+      "author": "Harrison, Jane Ellen, 1850-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Art, Primitive; Aesthetics; Ritual",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17111,
+      "title": "The Meaning of the War: Life & Matter in Conflict",
+      "author": "Bergson, Henri, 1859-1941; Carr, Herbert Wildon, 1857-1931 [Commentator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "World War, 1914-1918; National characteristics, German",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17120,
+      "title": "Fashionable Philosophy, and Other Sketches",
+      "author": "Oliphant, Laurence, 1829-1888",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "English literature -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17122,
+      "title": "Twenty-Four Short Sermons On The Doctrine Of Universal Salvation",
+      "author": "Dods, John Bovee, 1795-1872",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Sermons, American; Universalist churches -- Sermons",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17147,
+      "title": "Theodicy\nEssays on the Goodness of God, the Freedom of Man and the Origin of Evil",
+      "author": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716; Farrer, Austin, 1904-1968 [Commentator]; Huggard, E. M. [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Theism; Theodicy; Free will and determinism",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    },
+    {
+      "gutenberg_id": 17158,
+      "title": "Armageddon\u2014And After",
+      "author": "Courtney, W. L. (William Leonard), 1850-1928",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Causes; Europe -- Politics and government",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17194,
+      "title": "The Relations Between Religion and Science\nEight Lectures Preached Before the University of Oxford in the Year 1884",
+      "author": "Temple, Frederick, 1821-1902",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion and science",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17201,
+      "title": "Is Life Worth Living?",
+      "author": "Mallock, W. H. (William Hurrell), 1849-1923",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics; Life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17220,
+      "title": "Bohemian Society",
+      "author": "Leavitt, Lydia",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canadian literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17239,
+      "title": "The Destiny of Man, Viewed in the Light of His Origin",
+      "author": "Fiske, John, 1842-1901",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Human beings; Immortality",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17246,
+      "title": "The Quest of the Simple Life",
+      "author": "Dawson, W. J. (William James), 1854-1928",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Country life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17273,
+      "title": "An Exposition of the Last Psalme",
+      "author": "Boys, John, 1571-1625",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Church of England -- Sermons; Sermons, English -- 17th century; Bible. Psalms CL -- Commentaries -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17274,
+      "title": "The Investment of Influence: A Study of Social Sympathy and Service",
+      "author": "Hillis, Newell Dwight, 1858-1929",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Conduct of life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17350,
+      "title": "The Practice and Theory of Bolshevism",
+      "author": "Russell, Bertrand, 1872-1970",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Soviet Union -- Social conditions; Communism -- Soviet Union -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17368,
+      "title": "Heaven and its Wonders and Hell",
+      "author": "Swedenborg, Emanuel, 1688-1772; Ager, John C. (John Curtis), 1835-1913 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Heaven -- Christianity; Hell -- Christianity; Future life -- Christianity -- Early work to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17416,
+      "title": "A Critical Examination of Socialism",
+      "author": "Mallock, W. H. (William Hurrell), 1849-1923",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Socialism; Communism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17490,
+      "title": "The Memorable Thoughts of Socrates",
+      "author": "Xenophon, 432 BCE-351? BCE; Morley, Henry, 1822-1894 [Editor]; Bysshe, Edward, active 1702-1712 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Socrates, 470 BC-399 BC",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17522,
+      "title": "Practical Essays",
+      "author": "Bain, Alexander, 1818-1903",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    },
+    {
+      "gutenberg_id": 17556,
+      "title": "Sextus Empiricus and Greek Scepticism",
+      "author": "Patrick, Mary Mills, 1850-1940",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Skepticism; Sextus Empiricus",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17607,
+      "title": "Superstition in all ages",
+      "author": "Holbach, Paul Henri Thiry, baron d', 1723-1789; Voltaire, 1694-1778 [Commentator]; Knoop, Anna, -1889 [Translator]; Meslier, Jean, 1664-1729 [Unknown role]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Atheism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 17611,
+      "title": "Summa Theologica, Part I (Prima Pars)\nFrom the Complete American Edition",
+      "author": "Thomas, Aquinas, Saint, 1225?-1274",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Theology, Doctrinal -- Early works to 1800; Catholic Church -- Doctrines -- Early works to 1800; God -- Omnipresence -- Early works to 1800; God -- Attributes -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    },
+    {
+      "gutenberg_id": 17667,
+      "title": "Dialogues of the Dead",
+      "author": "Lyttelton, George Lyttelton, Baron, 1709-1773; Montagu, Mrs. (Elizabeth), 1718-1800; Morley, Henry, 1822-1894 [Editor]",
+      "genre": "Drama",
+      "language": "en",
+      "subjects": "Imaginary conversations; Dialogues, English -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

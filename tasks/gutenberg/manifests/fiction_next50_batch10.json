@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 794,
+      "title": "The Wouldbegoods: Being the Further Adventures of the Treasure Seekers",
+      "author": "Nesbit, E. (Edith), 1858-1924",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Siblings -- Juvenile fiction; England -- Juvenile fiction; Country life -- Juvenile fiction; Children -- Juvenile fiction; Families -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 795,
+      "title": "Ballads and Lyrics of Old France, with Other Poems",
+      "author": "Lang, Andrew, 1844-1912 [Translator]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Ballads, French; French poetry -- Translations into English; Folk songs, French",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 804,
+      "title": "A Sentimental Journey Through France and Italy",
+      "author": "Sterne, Laurence, 1713-1768",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Psychological fiction; Clergy -- Fiction; Italy -- Fiction; France -- Fiction; Travelers -- Fiction; British -- Italy -- Fiction; British -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 805,
+      "title": "This Side of Paradise",
+      "author": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Bildungsromans; Young men -- Fiction; Children of the rich -- Fiction; Advertising -- Fiction; College students -- Fiction; World War, 1914-1918 -- Veterans -- Fiction",
+      "source": "catalog:csv",
+      "status": "deferred_repair",
+      "error": "section overflow; requires contract bulk-append"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 16833,
+      "title": "Auguste Comte and Positivism",
+      "author": "Mill, John Stuart, 1806-1873",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Positivism; Comte, Auguste, 1798-1857",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.7
+    },
+    {
+      "gutenberg_id": 16835,
+      "title": "An Interpretation of Rudolf Eucken's Philosophy",
+      "author": "Jones, W. Tudor (William Tudor), 1865-1946",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Eucken, Rudolf, 1846-1926",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.85
+    },
+    {
+      "gutenberg_id": 16942,
+      "title": "Thoughts on Religion",
+      "author": "Romanes, George John, 1848-1894; Gore, Charles, 1853-1932 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion and science",
+      "source": "catalog:csv",
+      "status": "uploaded",
+      "split_profile": "heuristic",
+      "split_confidence": 0.7
+    }
+  ]
+}

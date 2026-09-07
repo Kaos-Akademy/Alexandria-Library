@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1224,
+      "title": "Sidney Lanier",
+      "author": "Mims, Edwin, 1872-1959",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Lanier, Sidney, 1842-1881; Poets, American -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1229,
+      "title": "Select Poems of Sidney Lanier",
+      "author": "Lanier, Sidney, 1842-1881; Callaway, Morgan, 1862-1936 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1230,
+      "title": "Pierre Grassou",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1231,
+      "title": "On the Track",
+      "author": "Lawson, Henry, 1867-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Australia -- Fiction; Short stories, Australian",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1235,
+      "title": "Captain Fracasse",
+      "author": "Gautier, Th\u00e9ophile, 1811-1872",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Louis XIII, 1610-1643 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1238,
+      "title": "The City of Dreadful Night",
+      "author": "Thomson, James, 1834-1882",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1239,
+      "title": "The Spirit of the Border: A Romance of the Early Settlers in the Ohio Valley",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Biographical fiction; Women pioneers -- Fiction; Frontier and pioneer life -- Fiction; Zane, Betty -- Fiction; Wetzel, Lewis, 1763-1808 -- Fiction; Indians of North America -- Wars -- 1750-1815 -- Fiction; Scouting (Reconnaissance) -- Fiction; Fort Henry (W. Va.) -- Fiction; Ohio River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1240,
+      "title": "The Playboy of the Western World: A Comedy in Three Acts",
+      "author": "Synge, J. M. (John Millington), 1871-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1241,
+      "title": "The Well of the Saints: A Comedy in Three Acts",
+      "author": "Synge, J. M. (John Millington), 1871-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ireland -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1242,
+      "title": "Unconscious Comedians",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1243,
+      "title": "Hearts of Controversy",
+      "author": "Meynell, Alice, 1847-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dickens, Charles, 1812-1870; English literature -- 19th century -- History and criticism; Tennyson, Alfred Tennyson, Baron, 1809-1892; Swinburne, Algernon Charles, 1837-1909; Bront\u00eb, Charlotte, 1816-1855; Bront\u00eb, Emily, 1818-1848",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1244,
+      "title": "Love for Love: A Comedy",
+      "author": "Congreve, William, 1670-1729",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama (Comedy); Comedy plays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1245,
+      "title": "Night and Day",
+      "author": "Woolf, Virginia, 1882-1941",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; Young women -- Fiction; Love stories; Domestic fiction; Mothers and daughters -- Fiction; Triangles (Interpersonal relations) -- Fiction; Biographers -- Fiction; Poets -- Family relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1246,
+      "title": "The House of Dust: A Symphony",
+      "author": "Aiken, Conrad, 1889-1973",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Pastoral poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1247,
+      "title": "Second April",
+      "author": "Millay, Edna St. Vincent, 1892-1950",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1249,
+      "title": "Anthem",
+      "author": "Rand, Ayn, 1905-1982",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Psychological fiction; Love stories; Time travel -- Fiction; Men -- Psychology -- Fiction; Individuality -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1250,
+      "title": "Anthem",
+      "author": "Rand, Ayn, 1905-1982",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Psychological fiction; Love stories; Time travel -- Fiction; Men -- Psychology -- Fiction; Individuality -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1251,
+      "title": "Le Morte d'Arthur: Volume 1",
+      "author": "Malory, Thomas, Sir, -1471",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Arthurian romances; Arthur, King -- Legends",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1252,
+      "title": "Le Morte d'Arthur: Volume 2",
+      "author": "Malory, Thomas, Sir, -1471",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Arthurian romances; Arthur, King -- Legends",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1253,
+      "title": "A Simple Soul",
+      "author": "Flaubert, Gustave, 1821-1880",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1257,
+      "title": "The three musketeers",
+      "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; France -- History -- Louis XIII, 1610-1643 -- Fiction; Adventure and adventurers -- Fiction; Swordsmen -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1258,
+      "title": "Ten Years Later",
+      "author": "Dumas, Alexandre, 1802-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Louis XIV, 1643-1715 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1259,
+      "title": "Twenty years after",
+      "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Louis XIV, 1643-1715 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1260,
+      "title": "Jane Eyre: An Autobiography",
+      "author": "Bront\u00eb, Charlotte, 1816-1855; Townsend, F. H. (Frederick Henry), 1868-1920 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; England -- Fiction; Young women -- Fiction; Love stories; Governesses -- Fiction; Fathers and daughters -- Fiction; Mentally ill women -- Fiction; Charity-schools -- Fiction; Married people -- Fiction; Country homes -- Fiction; Bildungsromans",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1261,
+      "title": "Betty Zane",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Biographical fiction; Women pioneers -- Fiction; Frontier and pioneer life -- Fiction; Zane, Betty -- Fiction; Wetzel, Lewis, 1763-1808 -- Fiction; Indians of North America -- Wars -- 1750-1815 -- Fiction; Fort Henry (W. Va.) -- Fiction; Ohio River Valley -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1262,
+      "title": "The Heritage of the Desert: A Novel",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Utah -- Fiction; Deserts -- Fiction; Latter Day Saints -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1263,
+      "title": "The Glimpses of the Moon",
+      "author": "Wharton, Edith, 1862-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Married people -- Fiction; Socialites -- Fiction; Europe -- Fiction; Marriage -- Fiction; Americans -- Europe -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1264,
+      "title": "The Wheels of Chance: A Bicycling Idyll",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social conditions -- 19th century -- Fiction; Cycling -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1266,
+      "title": "Lavender and Old Lace",
+      "author": "Reed, Myrtle, 1874-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; American fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1267,
+      "title": "Kai Lung's Golden Hours",
+      "author": "Bramah, Ernest, 1868-1942; Belloc, Hilaire, 1870-1953 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Kai Lung (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1268,
+      "title": "The Mysterious Island",
+      "author": "Verne, Jules, 1828-1905; Kingston, Agnes Kinloch, 1823-1913 [Translator]",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Adventure stories; Castaways -- Fiction; Islands of the Pacific -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1269,
+      "title": "The soul of a bishop",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Religion -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1273,
+      "title": "The Autobiography of a Slander",
+      "author": "Lyall, Edna, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1274,
+      "title": "Martin Hyde, the Duke's Messenger",
+      "author": "Masefield, John, 1878-1967",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Monmouth, James Scott, Duke of, 1649-1685 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1276,
+      "title": "The Rhythm of Life, and Other Essays",
+      "author": "Meynell, Alice, 1847-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1277,
+      "title": "Melmoth Reconciled",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1278,
+      "title": "Penelope's English Experiences\r\nBeing Extracts from the Commonplace Book of Penelope Hamilton",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; Americans -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1280,
+      "title": "Spoon River Anthology",
+      "author": "Masters, Edgar Lee, 1868-1950",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1281,
+      "title": "Tom Swift and His Aerial Warship; Or, The Naval Terror of the Seas",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Swift, Tom (Fictitious character) -- Juvenile fiction; Airships -- Juvenile fiction; Aeronautics -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1282,
+      "title": "Tom Swift Among the Diamond Makers; Or, The Secret of Phantom Mountain",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Aeronautics -- Juvenile fiction; Diamond mines and mining -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1283,
+      "title": "Tom Swift and His Wizard Camera; Or, Thrilling Adventures While Taking Moving Pictures",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Motion pictures -- Juvenile fiction; Cinematography -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1284,
+      "title": "Tom Swift and His Air Scout; Or, Uncle Sam's Mastery of the Sky",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Airships -- Juvenile fiction; Aeronautics -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1285,
+      "title": "The Water Goats, and Other Troubles",
+      "author": "Butler, Ellis Parker, 1869-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Humorous stories; Short stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1289,
+      "title": "Three Ghost Stories",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction; Ghost stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1291,
+      "title": "Herodias",
+      "author": "Flaubert, Gustave, 1821-1880",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Salome (Biblical figure) -- Fiction; Herodias -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1292,
+      "title": "The Way of the World",
+      "author": "Congreve, William, 1670-1729",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English drama (Comedy)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1294,
+      "title": "The Firm of Nucingen",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Waring, James [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1295,
+      "title": "Ceres' Runaway, and Other Essays",
+      "author": "Meynell, Alice, 1847-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1296,
+      "title": "The Provost",
+      "author": "Galt, John, 1779-1839",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Political fiction; Scotland -- Social life and customs -- Fiction; Politicians -- Fiction; Merchants -- Fiction; Municipal government -- Fiction; Irvine (Scotland) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1299,
+      "title": "The Heritage of the Sioux",
+      "author": "Bower, B. M., 1871-1940",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Dakota Indians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

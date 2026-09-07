@@ -1,3 +1,6 @@
+# Book caches (local Gutenberg / pg-cache content)
+books/
+
 # Dependencies
 node_modules/
 
@@ -18,6 +21,7 @@ build/
 emulator-account.pkey
 imports
 Prime-librarian.pkey
+Alexandria-II.pkey
 
 # Vercel
 .vercel
@@ -44,3 +48,5 @@ Thumbs.db
 *.swo
 
 AI-Librarian.pkey
+node_modules
+node_modules

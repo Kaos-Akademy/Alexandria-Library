@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 2375,
+      "title": "Tartarin de Tarascon",
+      "author": "Daudet, Alphonse, 1840-1897; Colt, Oliver C. [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Algeria -- Fiction; Lion hunting -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2377,
+      "title": "The Son of the Wolf",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Gold mines and mining -- Fiction; Klondike River Valley (Yukon) -- Fiction; Yukon River Valley (Yukon and Alaska) -- Fiction; Adventure stories, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2379,
+      "title": "Chastelard, a Tragedy",
+      "author": "Swinburne, Algernon Charles, 1837-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Mary, Queen of Scots, 1542-1587 -- Drama; Chastelard, Pierre de Bocosel de, 1540-1562 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2381,
+      "title": "Actions and reactions",
+      "author": "Kipling, Rudyard, 1865-1936",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Short stories, English; English fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2384,
+      "title": "The Deliverance: A Romance of the Virginia Tobacco Fields",
+      "author": "Glasgow, Ellen Anderson Gholson, 1873-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Virginia -- Fiction; Tobacco farmers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2385,
+      "title": "Gala-Days",
+      "author": "Hamilton, Gail, 1833-1896",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Travel; American essays -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2387,
+      "title": "The Voice",
+      "author": "Deland, Margaret Wade Campbell, 1857-1945",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Clergy -- United States -- Fiction; Word of God (Christian theology) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2389,
+      "title": "Bardelys the Magnificent\r\nBeing an account of the strange wooing pursued by the Sieur Marcel de Saint-Pol, marquis of Bardelys...",
+      "author": "Sabatini, Rafael, 1875-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- Louis XIII, 1610-1643 -- Fiction; Revenge -- Fiction; False imprisonment -- Fiction; Man-woman relationships -- Fiction; Treasure troves -- Fiction; Escapes -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

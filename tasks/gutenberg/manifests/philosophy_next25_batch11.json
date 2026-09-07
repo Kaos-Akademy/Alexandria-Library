@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 22199,
+      "title": "Chambers's Edinburgh Journal, No. 453\nVolume 18, New Series, September 4, 1852",
+      "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22283,
+      "title": "Mind and Motion and Monism",
+      "author": "Romanes, George John, 1848-1894",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Monism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22303,
+      "title": "Personality in Literature",
+      "author": "Scott-James, R. A. (Rolfe Arnold), 1878-",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Literature; English literature -- 20th century -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22306,
+      "title": "Human Traits and their Social Significance",
+      "author": "Edman, Irwin, 1896-1954",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Social psychology",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22314,
+      "title": "Mysticism and its results",
+      "author": "Delafield, John, 1812-1866",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Secret societies",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22336,
+      "title": "Buchanan's Journal of Man, February 1887\nVolume 1, Number 1",
+      "author": "Buchanan, Joseph R. (Joseph Rodes), 1814-1899 [Editor]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Science -- Periodicals; Phrenology -- Periodicals; Medicine -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22359,
+      "title": "An Essay on Professional Ethics\nSecond Edition",
+      "author": "Sharswood, George, 1810-1883",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Legal ethics -- United States",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22364,
+      "title": "The Philosophy of the Moral Feelings",
+      "author": "Abercrombie, John, 1780-1844",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22371,
+      "title": "The Chief End of Man",
+      "author": "Merriam, George Spring, 1843-1914",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christianity; Church history -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22419,
+      "title": "The Arena, Volume 4, No. 22, September, 1891",
+      "author": "Various; Flower, B. O. (Benjamin Orange), 1858-1918 [Editor]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "American literature -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22482,
+      "title": "Men in the Making",
+      "author": "Shepherd, Ambrose",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Christian life; Sermons, English; Young men; Free Church of England -- Sermons",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22619,
+      "title": "International copyright",
+      "author": "Putnam, George Haven, 1844-1930",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Copyright, International",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22708,
+      "title": "A Positive Romance\n1898",
+      "author": "Bellamy, Edward, 1850-1898",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22728,
+      "title": "The Foundations of the Origin of Species\nTwo Essays written in 1842 and 1844",
+      "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Evolution (Biology); Natural selection",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22739,
+      "title": "The Human Aura: Astral Colors and Thought Forms",
+      "author": "Atkinson, William Walker, 1862-1932",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Occultism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22797,
+      "title": "Diderot and the Encyclop\u00e6dists (Vol. 2 of 2)",
+      "author": "Morley, John, 1838-1923",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Diderot, Denis, 1713-1784; Encyclopedists",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22865,
+      "title": "Critical Miscellanies (Vol. 2 of 3), Essay 2: Turgot",
+      "author": "Morley, John, 1838-1923",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Turgot, Anne-Robert-Jacques, baron de l'Aulne, 1727-1781",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 22955,
+      "title": "The Mistakes of Jesus",
+      "author": "Floyd, William",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Free thought; Jesus Christ -- Teachings",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23092,
+      "title": "The Simple Life",
+      "author": "Wagner, Charles, 1852-1918; Hendee, Mary Louise, 1859- [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Conduct of life; Simplicity",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23136,
+      "title": "Creative Unity",
+      "author": "Tagore, Rabindranath, 1861-1941",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Philosophy, Hindu",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23219,
+      "title": "Putois\n1907",
+      "author": "France, Anatole, 1844-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23334,
+      "title": "Natural Law in the Spiritual World",
+      "author": "Drummond, Henry, 1851-1897",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion and science; Natural theology",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23422,
+      "title": "Essays Towards a Theory of Knowledge",
+      "author": "Philip, Alexander",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Knowledge, Theory of; Force and energy; Cycles",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23427,
+      "title": "Evolution, Old & New\nOr, the Theories of Buffon, Dr. Erasmus Darwin and Lamarck,\nas compared with that of Charles Darwin",
+      "author": "Butler, Samuel, 1835-1902",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Evolution (Biology) -- History",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 23428,
+      "title": "The Conquest of Bread",
+      "author": "Kropotkin, Petr Alekseevich, kniaz, 1842-1921",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Communism; Anarchism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

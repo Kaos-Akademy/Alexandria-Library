@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 2291,
+      "title": "David Elginbrod",
+      "author": "MacDonald, George, 1824-1905",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Scotland -- Fiction; Christian fiction",
+      "source": "catalog:csv",
+      "status": "failed",
+      "error": "[1/5] PG 2291 \u2014 David Elginbrod\n  fetching /Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/books/pg-cache/2291/pg2291-source.txt \u2026\n  download failed: PG 2291: tried all URLs: https://www.gutenberg.org/files/2291/2291.txt: 404 Not Found"
+    },
+    {
+      "gutenberg_id": 2391,
+      "title": "Bruce",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 2392,
+      "title": "Further Adventures of Lad",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Folklore; Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 2393,
+      "title": "His Dog",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 2399,
+      "title": "Imaginary Portraits",
+      "author": "Pater, Walter, 1839-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English; Courts and courtiers -- Fiction; Europe -- History -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    }
+  ]
+}

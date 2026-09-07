@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 2391,
+      "title": "Bruce",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2392,
+      "title": "Further Adventures of Lad",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Folklore; Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2393,
+      "title": "His Dog",
+      "author": "Terhune, Albert Payson, 1872-1942",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Dogs -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2399,
+      "title": "Imaginary Portraits",
+      "author": "Pater, Walter, 1839-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English; Courts and courtiers -- Fiction; Europe -- History -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

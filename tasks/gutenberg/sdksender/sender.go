@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"math/rand"
 	"os"
 	"path/filepath"
 	"strings"
@@ -36,6 +37,7 @@ type Sender struct {
 	// key at a time (Flow scaling: one worker per key + fresh seq; this guards same key).
 	proposalLocksMu sync.Mutex
 	proposalLocks   map[uint32]*sync.Mutex
+	payerSignMu     sync.Mutex // InMemorySigner is not safe for concurrent SignEnvelope calls
 	jobs            chan txJob
 	closeOnce       sync.Once
 	scriptsMu       sync.Mutex
@@ -47,8 +49,6 @@ type txJob struct {
 	req  TxRequest
 	resp chan TxResult
 }
-
-const debugLogPath = "/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/.cursor/debug-e7c465.log"
 
 func NewSender(repoRoot, network, signer string, proposerAliases []string) (*Sender, error) {
 	cfg, err := loadFlowConfig(repoRoot)
@@ -92,12 +92,28 @@ func NewSender(repoRoot, network, signer string, proposerAliases []string) (*Sen
 		proposalLocks:   map[uint32]*sync.Mutex{},
 		jobs:            make(chan txJob, 1024),
 		scriptsCache:    map[string][]byte{},
-		contractAliases: extractContractAliases(cfg, network),
+		contractAliases: contractAliasesForSigner(extractContractAliases(cfg, network), payer.Address),
 	}
 	for _, proposer := range s.proposerWorkers {
 		worker := proposer
 		go s.workerLoop(worker)
 	}
+	// #region agent log
+	{
+		ctx, cancel := context.WithTimeout(context.Background(), 15*time.Second)
+		acct, acctErr := client.GetAccount(ctx, payer.Address)
+		cancel()
+		data := map[string]interface{}{
+			"address": payer.Address.Hex(), "proposerCount": len(proposers), "network": network,
+		}
+		if acctErr != nil {
+			data["accountFetchErr"] = acctErr.Error()
+		} else {
+			data["onChainKeyCount"] = len(acct.Keys)
+		}
+		agentDebugLog("H4", "sender.go:NewSender", "account snapshot at sender init", data)
+	}
+	// #endregion
 	return s, nil
 }
 
@@ -108,14 +124,97 @@ func (s *Sender) Close() {
 	})
 }
 
+func (s *Sender) PayerAddress() flow.Address {
+	return s.payer.Address
+}
+
+func (s *Sender) Client() *grpcclient.Client {
+	return s.client
+}
+
+// SendPreparedTransaction signs a template tx as payer/proposer key 0 and waits for seal.
+func (s *Sender) SendPreparedTransaction(ctx context.Context, tx *flow.Transaction) TxResult {
+	proposer := s.payer
+	if len(s.proposerWorkers) > 0 {
+		proposer = s.proposerWorkers[0]
+	}
+	var cachedSeq uint64
+	hasSeq := false
+	txID, err := s.sendPreparedOnce(ctx, tx, proposer, &cachedSeq, &hasSeq)
+	if err != nil {
+		return TxResult{TxID: txID, Err: err}
+	}
+	return TxResult{TxID: txID}
+}
+
+func (s *Sender) sendPreparedOnce(ctx context.Context, tx *flow.Transaction, proposer accountIdentity, cachedSeq *uint64, hasSeq *bool) (flow.Identifier, error) {
+	unlockProp := s.lockProposalKey(proposer.KeyIndex)
+	defer unlockProp()
+
+	if !*hasSeq {
+		seq, err := s.fetchKeySequence(ctx, proposer.KeyIndex)
+		if err != nil {
+			return flow.Identifier{}, err
+		}
+		*cachedSeq = seq
+		*hasSeq = true
+	}
+	seq := *cachedSeq
+
+	latestBlock, err := s.client.GetLatestBlockHeader(ctx, true)
+	if err != nil {
+		return flow.Identifier{}, err
+	}
+
+	tx.SetComputeLimit(9999).
+		SetReferenceBlockID(latestBlock.ID).
+		SetProposalKey(s.payer.Address, proposer.KeyIndex, seq).
+		SetPayer(s.payer.Address)
+
+	if proposer.KeyIndex != s.payer.KeyIndex || proposer.Address != s.payer.Address {
+		if err := tx.SignPayload(s.payer.Address, proposer.KeyIndex, proposer.Signer); err != nil {
+			return flow.Identifier{}, err
+		}
+	}
+	s.payerSignMu.Lock()
+	err = tx.SignEnvelope(s.payer.Address, s.payer.KeyIndex, s.payer.Signer)
+	s.payerSignMu.Unlock()
+	if err != nil {
+		return flow.Identifier{}, err
+	}
+
+	if err := s.client.SendTransaction(ctx, *tx); err != nil {
+		if isProposalError(err) {
+			*hasSeq = false
+		}
+		return flow.Identifier{}, err
+	}
+	*cachedSeq++
+	txID := tx.ID()
+
+	if err := waitForSeal(ctx, s.client, txID); err != nil {
+		return txID, err
+	}
+	return txID, nil
+}
+
+// GetAccountCreatedAddress parses flow.AccountCreated from a sealed transaction.
+func (s *Sender) GetAccountCreatedAddress(ctx context.Context, txID flow.Identifier) (flow.Address, error) {
+	result, err := s.client.GetTransactionResult(ctx, txID)
+	if err != nil {
+		return flow.EmptyAddress, err
+	}
+	for _, ev := range result.Events {
+		if ev.Type != flow.EventAccountCreated {
+			continue
+		}
+		return flow.AccountCreatedEvent(ev).Address(), nil
+	}
+	return flow.EmptyAddress, fmt.Errorf("flow.AccountCreated not found in tx %s", txID)
+}
+
 func (s *Sender) Submit(ctx context.Context, req TxRequest) TxResult {
 	resp := make(chan TxResult, 1)
-	// #region agent log
-	debugLogSDK("queue", "H1", "tasks/gutenberg/sdksender/sender.go:Submit", "submit queued", map[string]interface{}{
-		"txName":     req.Name,
-		"queueDepth": len(s.jobs),
-	})
-	// #endregion
 	select {
 	case s.jobs <- txJob{req: req, resp: resp}:
 	case <-ctx.Done():
@@ -140,41 +239,15 @@ func (s *Sender) HasBook(ctx context.Context, title string) (bool, error) {
 		return false, ctx.Err()
 	}
 	defer func() { <-s.hasBookLimiter }()
-	// #region agent log
-	debugLogSDK("has-book", "H4", "tasks/gutenberg/sdksender/sender.go:HasBook", "acquired hasBook limiter", map[string]interface{}{
-		"title":          title,
-		"inflightChecks": len(s.hasBookLimiter),
-	})
-	// #endregion
 
 	const maxAttempts = 5
 	for attempt := 1; attempt <= maxAttempts; attempt++ {
-		// #region agent log
-		debugLogSDK("has-book", "H1", "tasks/gutenberg/sdksender/sender.go:HasBook", "execute get_book script", map[string]interface{}{
-			"title":   title,
-			"attempt": attempt,
-		})
-		// #endregion
 		val, execErr := s.client.ExecuteScriptAtLatestBlock(ctx, script, []cadence.Value{cadence.String(title)})
 		if execErr != nil {
 			if isBookMissingError(execErr) {
-				// #region agent log
-				debugLogSDK("has-book", "H3", "tasks/gutenberg/sdksender/sender.go:HasBook", "book missing precondition treated as false", map[string]interface{}{
-					"title": title,
-					"error": execErr.Error(),
-				})
-				// #endregion
 				return false, nil
 			}
 			retry := isRateLimitedError(execErr) || isTransientError(execErr)
-			// #region agent log
-			debugLogSDK("has-book", "H3", "tasks/gutenberg/sdksender/sender.go:HasBook", "get_book script errored", map[string]interface{}{
-				"title":     title,
-				"attempt":   attempt,
-				"retryable": retry,
-				"error":     execErr.Error(),
-			})
-			// #endregion
 			if retry && attempt < maxAttempts {
 				select {
 				case <-ctx.Done():
@@ -283,57 +356,117 @@ func (s *Sender) lockProposalKey(idx uint32) func() {
 }
 
 func (s *Sender) workerLoop(proposer accountIdentity) {
+	var cachedSeq uint64
+	hasSeq := false
 	for job := range s.jobs {
 		ctx, cancel := context.WithTimeout(context.Background(), 3*time.Minute)
-		res := s.sendWithRetry(ctx, job.req, proposer)
+		res := s.sendWithRetry(ctx, job.req, proposer, &cachedSeq, &hasSeq)
 		cancel()
 		job.resp <- res
 	}
 }
 
-func (s *Sender) sendWithRetry(ctx context.Context, req TxRequest, proposer accountIdentity) TxResult {
+func (s *Sender) sendWithRetry(ctx context.Context, req TxRequest, proposer accountIdentity, cachedSeq *uint64, hasSeq *bool) TxResult {
 	var lastErr error
-	const maxAttempts = 4
+	maxAttempts := 4
 	for attempt := 1; attempt <= maxAttempts; attempt++ {
-		// #region agent log
-		debugLogSDK("send", "H2", "tasks/gutenberg/sdksender/sender.go:sendWithRetry", "send attempt", map[string]interface{}{
-			"txName":   req.Name,
-			"attempt":  attempt,
-			"proposer": proposer.Name,
-			"keyIndex": proposer.KeyIndex,
-		})
-		// #endregion
-		txID, err := s.sendOnce(ctx, req, proposer)
+		txID, err := s.sendOnce(ctx, req, proposer, cachedSeq, hasSeq)
 		if err == nil {
 			return TxResult{TxID: txID}
 		}
 		lastErr = err
-		// #region agent log
-		debugLogSDK("send", "H2", "tasks/gutenberg/sdksender/sender.go:sendWithRetry", "send attempt failed", map[string]interface{}{
-			"txName":    req.Name,
-			"attempt":   attempt,
-			"retryable": retryable(err),
-			"error":     err.Error(),
-			"proposer":  proposer.Name,
-			"keyIndex":  proposer.KeyIndex,
-		})
-		// #endregion
-		if !retryable(err) || attempt == maxAttempts {
+		if isRateLimitedError(err) {
+			maxAttempts = 6
+		}
+		if isProposalError(err) {
+			*hasSeq = false
+		}
+		if !retryable(err) || attempt >= maxAttempts {
 			break
 		}
-		wait := time.Duration(attempt*250) * time.Millisecond
+		wait := retryBackoff(attempt)
 		select {
 		case <-ctx.Done():
 			return TxResult{Err: ctx.Err()}
 		case <-time.After(wait):
 		}
 	}
+	// #region agent log
+	if lastErr != nil {
+		agentDebugLog("H1-H3", "sender.go:sendWithRetry", "tx failed after retries", map[string]interface{}{
+			"txName": req.Name, "keyIndex": proposer.KeyIndex, "attempts": maxAttempts,
+			"errorClass": ClassifyError(lastErr), "errSnippet": truncateErr(lastErr.Error(), 280),
+		})
+	}
+	// #endregion
 	return TxResult{Err: lastErr}
 }
 
-func (s *Sender) sendOnce(ctx context.Context, req TxRequest, proposer accountIdentity) (flow.Identifier, error) {
+// #region agent log
+const debugLogPath = "/Users/noahnaizir/Documents/GitHub/Kaos/Alexandria-Library/.cursor/debug-d1f762.log"
+
+func agentDebugLog(hypothesisID, location, message string, data map[string]interface{}) {
+	f, err := os.OpenFile(debugLogPath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		return
+	}
+	defer f.Close()
+	payload := map[string]interface{}{
+		"sessionId": "d1f762", "runId": "debug-run", "hypothesisId": hypothesisID,
+		"location": location, "message": message, "data": data, "timestamp": time.Now().UnixMilli(),
+	}
+	b, _ := json.Marshal(payload)
+	_, _ = f.Write(append(b, '\n'))
+}
+
+func DebugLog(hypothesisID, location, message string, data map[string]interface{}) {
+	agentDebugLog(hypothesisID, location, message, data)
+}
+
+func truncateErr(s string, max int) string {
+	if len(s) <= max {
+		return s
+	}
+	return s[:max] + "..."
+}
+
+// #endregion
+
+func retryBackoff(attempt int) time.Duration {
+	if attempt < 1 {
+		attempt = 1
+	}
+	base := time.Duration(250<<(attempt-1)) * time.Millisecond
+	jitter := time.Duration(float64(base) * (0.5 + rand.Float64()*0.5))
+	return base/2 + jitter
+}
+
+// RetryBackoff returns exponential backoff with jitter for retryable failures.
+func RetryBackoff(attempt int) time.Duration {
+	return retryBackoff(attempt)
+}
+
+func (s *Sender) fetchKeySequence(ctx context.Context, keyIndex uint32) (uint64, error) {
+	account, err := s.client.GetAccount(ctx, s.payer.Address)
+	if err != nil {
+		return 0, err
+	}
+	return keySequenceByIndex(account, keyIndex)
+}
+
+func (s *Sender) sendOnce(ctx context.Context, req TxRequest, proposer accountIdentity, cachedSeq *uint64, hasSeq *bool) (flow.Identifier, error) {
 	unlockProp := s.lockProposalKey(proposer.KeyIndex)
 	defer unlockProp()
+
+	if !*hasSeq {
+		seq, err := s.fetchKeySequence(ctx, proposer.KeyIndex)
+		if err != nil {
+			return flow.Identifier{}, err
+		}
+		*cachedSeq = seq
+		*hasSeq = true
+	}
+	seq := *cachedSeq
 
 	scriptPath := filepath.Join("transactions", req.Name+".cdc")
 	script, err := s.loadScript(scriptPath)
@@ -341,14 +474,6 @@ func (s *Sender) sendOnce(ctx context.Context, req TxRequest, proposer accountId
 		return flow.Identifier{}, err
 	}
 	latestBlock, err := s.client.GetLatestBlockHeader(ctx, true)
-	if err != nil {
-		return flow.Identifier{}, err
-	}
-	account, err := s.client.GetAccount(ctx, s.payer.Address)
-	if err != nil {
-		return flow.Identifier{}, err
-	}
-	seq, err := keySequenceByIndex(account, proposer.KeyIndex)
 	if err != nil {
 		return flow.Identifier{}, err
 	}
@@ -371,22 +496,22 @@ func (s *Sender) sendOnce(ctx context.Context, req TxRequest, proposer accountId
 		if err := tx.SignPayload(s.payer.Address, proposer.KeyIndex, proposer.Signer); err != nil {
 			return flow.Identifier{}, err
 		}
-	} else {
-		// #region agent log
-		debugLogSDK("send", "H6", "tasks/gutenberg/sdksender/sender.go:sendOnce", "skip duplicate payload signature for payer/proposer same key", map[string]interface{}{
-			"proposer": proposer.Name,
-			"keyIndex": proposer.KeyIndex,
-			"txName":   req.Name,
-		})
-		// #endregion
 	}
-	if err := tx.SignEnvelope(s.payer.Address, s.payer.KeyIndex, s.payer.Signer); err != nil {
+	s.payerSignMu.Lock()
+	err = tx.SignEnvelope(s.payer.Address, s.payer.KeyIndex, s.payer.Signer)
+	s.payerSignMu.Unlock()
+	if err != nil {
 		return flow.Identifier{}, err
 	}
 
 	if err := s.client.SendTransaction(ctx, *tx); err != nil {
+		if isProposalError(err) {
+			*hasSeq = false
+		}
 		return flow.Identifier{}, err
 	}
+	*cachedSeq++
+
 	if err := waitForSeal(ctx, s.client, tx.ID()); err != nil {
 		return tx.ID(), err
 	}
@@ -441,6 +566,10 @@ func waitForSeal(ctx context.Context, client *grpcclient.Client, txID flow.Ident
 	}
 }
 
+func RetryableError(err error) bool {
+	return retryable(err)
+}
+
 func retryable(err error) bool {
 	if err == nil {
 		return false
@@ -451,6 +580,7 @@ func retryable(err error) bool {
 func isProposalError(err error) bool {
 	s := strings.ToLower(err.Error())
 	return strings.Contains(s, "invalid proposal key") ||
+		strings.Contains(s, "1007") ||
 		strings.Contains(s, "transaction expired")
 }
 
@@ -466,30 +596,34 @@ func isRateLimitedError(err error) bool {
 	return strings.Contains(s, "resourceexhausted") || strings.Contains(s, "rate limited")
 }
 
+func isStorageLimitError(err error) bool {
+	s := strings.ToLower(err.Error())
+	return strings.Contains(s, "storage limit") ||
+		strings.Contains(s, "flowstoragefees") ||
+		(strings.Contains(s, "computation exceeds limit") && strings.Contains(s, "1110"))
+}
+
+// ClassifyError buckets tx failures for debug analysis.
+func ClassifyError(err error) string {
+	if err == nil {
+		return "none"
+	}
+	switch {
+	case isStorageLimitError(err):
+		return "storage_computation"
+	case isRateLimitedError(err):
+		return "rate_limit"
+	case isProposalError(err):
+		return "proposal_sequence"
+	case isTransientError(err):
+		return "transient"
+	default:
+		return "other"
+	}
+}
+
 func isBookMissingError(err error) bool {
 	s := strings.ToLower(err.Error())
 	return strings.Contains(s, "book doesn't exist in the library") ||
 		strings.Contains(s, "book does not exist in the library")
-}
-
-func debugLogSDK(runID, hypothesisID, location, message string, data map[string]interface{}) {
-	f, err := os.OpenFile(debugLogPath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	if err != nil {
-		return
-	}
-	defer f.Close()
-	payload := map[string]interface{}{
-		"sessionId":    "e7c465",
-		"runId":        runID,
-		"hypothesisId": hypothesisID,
-		"location":     location,
-		"message":      message,
-		"data":         data,
-		"timestamp":    time.Now().UnixMilli(),
-	}
-	b, err := json.Marshal(payload)
-	if err != nil {
-		return
-	}
-	_, _ = f.Write(append(b, '\n'))
 }

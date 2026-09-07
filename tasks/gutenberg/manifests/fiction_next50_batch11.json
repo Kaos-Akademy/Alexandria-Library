@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 114,
+      "title": "The Tenniel Illustrations for Carroll's Alice in Wonderland",
+      "author": "Tenniel, John, 1820-1914",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Children's stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 589,
+      "title": "Catriona",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Scotland -- History -- 18th century -- Fiction; Adventure stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 807,
+      "title": "Hunted Down: The Detective Stories of Charles Dickens",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 809,
+      "title": "Holiday Romance",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Children and adults -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 810,
+      "title": "George Silverman's Explanation",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Clergy -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 814,
+      "title": "Hunting Sketches",
+      "author": "Trollope, Anthony, 1815-1882",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Fox hunting",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 821,
+      "title": "Dombey and Son",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Dysfunctional families -- Fiction; Domestic fiction; Fathers and daughters -- Fiction; Businesspeople -- Fiction; Family-owned business enterprises -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 822,
+      "title": "The Tarn of Eternity",
+      "author": "Tymon, Frank",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 832,
+      "title": "Robin Hood",
+      "author": "McSpadden, J. Walker (Joseph Walker), 1874-1960",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Folklore -- England; Robin Hood (Legendary character) -- Legends",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 835,
+      "title": "The Grey Brethren, and Other Fragments in Prose and Verse",
+      "author": "Fairless, Michael, 1869-1901",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 836,
+      "title": "The Phoenix and the Carpet",
+      "author": "Nesbit, E. (Edith), 1858-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Siblings -- Juvenile fiction; Magic -- Juvenile fiction; Great Britain -- History -- Edward VII, 1901-1910 -- Juvenile fiction; Phoenix (Mythical bird) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 837,
+      "title": "The Story of the Amulet",
+      "author": "Nesbit, E. (Edith), 1858-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy literature; Siblings -- Juvenile fiction; England -- Juvenile fiction; Wishes -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 839,
+      "title": "New Arabian Nights",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Fiction; Short stories; Adventure stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 840,
+      "title": "Lorna Doone: A Romance of Exmoor",
+      "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Monmouth's Rebellion, 1685 -- Fiction; Love stories; Exmoor (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 841,
+      "title": "Men, Women and Ghosts",
+      "author": "Lowell, Amy, 1874-1925",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 842,
+      "title": "Memoirs of Carwin the Biloquist (A Fragment)",
+      "author": "Brown, Charles Brockden, 1771-1810",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ventriloquists -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 844,
+      "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; England -- Drama; Identity (Psychology) -- Drama; Foundlings -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 845,
+      "title": "Poems of Henry Timrod; with Memoir",
+      "author": "Timrod, Henry, 1828-1867",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Timrod, Henry, 1828-1867; American poetry -- 19th century; United States -- History -- Civil War, 1861-1865 -- Poetry -- Confederate",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 847,
+      "title": "Lays of Ancient Rome",
+      "author": "Macaulay, Thomas Babington Macaulay, Baron, 1800-1859",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Rome -- History -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 848,
+      "title": "The Black Arrow: A Tale of the Two Roses",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Knights and knighthood -- Fiction; War stories; Bildungsromans; Young men -- Fiction; Guardian and ward -- Fiction; Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction; Outlaws -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 849,
+      "title": "The Idle Thoughts of an Idle Fellow",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays; English wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 850,
+      "title": "Tom Grogan",
+      "author": "Smith, Francis Hopkinson, 1838-1915",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; Widows -- Fiction; Stevedores -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 854,
+      "title": "A Woman of No Importance",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Drama; English drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 855,
+      "title": "Clocks",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Clocks and watches",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 859,
+      "title": "Polly of the Circus",
+      "author": "Mayo, Margaret, 1882-1951",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Circus -- Fiction; Circus performers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 860,
+      "title": "Baby Mine",
+      "author": "Mayo, Margaret, 1882-1951",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Married people -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 862,
+      "title": "Philosophy 4: A Story of Harvard University",
+      "author": "Wister, Owen, 1860-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Harvard University -- Fiction; College stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 863,
+      "title": "The Mysterious Affair at Styles",
+      "author": "Christie, Agatha, 1890-1976",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Private investigators -- England -- Fiction; Detective and mystery stories; Belgians -- England -- Fiction; Poirot, Hercule (Fictitious character) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 864,
+      "title": "The Master of Ballantrae: A Winter's Tale",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Scotland -- History -- 18th century -- Fiction; Inheritance and succession -- Fiction; Revenge -- Fiction; Psychological fiction; Brothers -- Fiction; Absence and presumption of death -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 865,
+      "title": "Passing of the Third Floor Back",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 866,
+      "title": "The Cost of Kindness",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 867,
+      "title": "Mrs. Korner Sins Her Mercies",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Domestic fiction; Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 869,
+      "title": "The Soul of Nicholas Snyders; Or, The Miser of Zandam",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 870,
+      "title": "The Love of Ulrich Nebendahl",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Pastoral fiction; Villages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 873,
+      "title": "A House of Pomegranates",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Children's stories, English; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 875,
+      "title": "The Duchess of Padua",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Revenge -- Drama; Padua (Italy) -- Drama; English drama -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 876,
+      "title": "Life in the Iron-Mills; Or, The Korl Woman",
+      "author": "Davis, Rebecca Harding, 1831-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Women iron and steel workers -- Fiction; Feminism -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 877,
+      "title": "Little Britain",
+      "author": "Irving, Washington, 1783-1859",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; London (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 878,
+      "title": "Yankee Gypsies",
+      "author": "Whittier, John Greenleaf, 1807-1892",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tramps -- New England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 881,
+      "title": "Lemorne Versus Huell",
+      "author": "Stoddard, Elizabeth, 1823-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Young women -- Fiction; United States -- Social life and customs -- 19th century -- Fiction; Lawsuits -- Fiction; Aunts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 882,
+      "title": "Sketches by Boz, Illustrative of Every-Day Life and Every-Day People",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Social life and customs -- 19th century -- Fiction; London (England) -- Social life and customs -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 883,
+      "title": "Our Mutual Friend",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; London (England) -- Fiction; Inheritance and succession -- Fiction; Love stories; Poor families -- Fiction; Social classes -- Fiction; Deception -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 887,
+      "title": "Intentions",
+      "author": "Wilde, Oscar, 1854-1900",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authors, English -- 19th century -- Biography; Authorship; English drama; Authors, English -- 19th century -- Drama; Art critics -- Great Britain -- Biography; Wainewright, Thomas Griffiths, 1794-1847; Poisoners -- Great Britain -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 888,
+      "title": "The Lazy Tour of Two Idle Apprentices",
+      "author": "Dickens, Charles, 1812-1870; Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Apprentices -- Fiction; Walking -- England -- Cumbria -- Fiction; Cumbria (England) -- Description and travel -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 897,
+      "title": "The Rose and the Ring",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Children's stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 898,
+      "title": "The Lesson of the Master",
+      "author": "James, Henry, 1843-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authors -- Fiction; Psychological fiction; Young men -- Fiction; Mentoring of authors -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 901,
+      "title": "The Jew of Malta",
+      "author": "Marlowe, Christopher, 1564-1593",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Jews -- Malta -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 903,
+      "title": "The White Company",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Hundred Years' War, 1339-1453 -- Fiction; Knights and knighthood -- Fiction; Middle Ages -- Fiction; Archers -- Fiction; War stories; British -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 905,
+      "title": "Within the Law: From the Play of Bayard Veiller",
+      "author": "Dana, Marvin, 1867-1926; Veiller, Bayard, 1869-1943",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Revenge -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 910,
+      "title": "White Fang",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Wolfdogs -- Fiction; Adventure stories; Canada, Northern -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

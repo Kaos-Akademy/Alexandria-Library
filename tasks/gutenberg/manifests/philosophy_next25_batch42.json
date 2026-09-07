@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 46209,
+      "title": "Concord Days",
+      "author": "Alcott, Amos Bronson, 1799-1888",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Concord (Mass.) -- Social life and customs",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46330,
+      "title": "The Introduction to Hegel's Philosophy of Fine Arts\nTranslated from the German with Notes and Prefatory Essay",
+      "author": "Hegel, Georg Wilhelm Friedrich, 1770-1831; Bosanquet, Bernard, 1848-1923 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Aesthetics; Art -- Philosophy",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46333,
+      "title": "The social contract & discourses",
+      "author": "Rousseau, Jean-Jacques, 1712-1778; Cole, G. D. H. (George Douglas Howard), 1889-1959 [Translator]",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Economics; Political science -- Early works to 1800; Social contract",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46380,
+      "title": "Vanishing Landmarks: The Trend Toward Bolshevism",
+      "author": "Shaw, Leslie M. (Leslie Mortier), 1848-1932",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "United States -- Politics and government; United States -- Social conditions",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46389,
+      "title": "The Sayings of Confucius\nA New Translation of the Greater Part of the Confucian Analects",
+      "author": "Confucius, 552 BCE-480 BCE; Giles, Lionel, 1875-1958 [Translator]",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Ethics -- China; Philosophy, Chinese",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46423,
+      "title": "A Contribution to the Critique of Political Economy",
+      "author": "Marx, Karl, 1818-1883; Stone, N. I. (Nahum Isaac), 1873-1966 [Translator]",
+      "genre": "Economics",
+      "language": "en",
+      "subjects": "Economics; Marxian economics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46428,
+      "title": "The Natural Philosophy of Love",
+      "author": "Gourmont, Remy de, 1858-1915; Pound, Ezra, 1885-1972 [Translator]",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Reproduction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46476,
+      "title": "The Idea of God as Affected by Modern Knowledge",
+      "author": "Fiske, John, 1842-1901",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "God (Christianity)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46480,
+      "title": "Magic and Religion",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Religion; Mythology",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46531,
+      "title": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 2 (of 2)",
+      "author": "Valmiki; Mitra, Viharilala [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Religious life -- Hinduism -- Early works to 1800; Hinduism -- Doctrines -- Early works to 1800",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46544,
+      "title": "The Theistic Conception of the World\nAn Essay in Opposition to Certain Tendencies of Modern Thought",
+      "author": "Cocker, B. F. (Benjamin Franklin), 1821-1883",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Theism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46564,
+      "title": "The Rights of War and Peace",
+      "author": "Grotius, Hugo, 1583-1645; Hill, David Jayne, 1850-1932 [Author of introduction, etc.]; Campbell, A. C. (Archibald Colin) [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "War (International law); International law; Natural law",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46630,
+      "title": "The Supernatural in the New Testament, Possible, Credible, and Historical\nOr, An Examination of the Validity of Some Recent Objections Against Christianity as a Divine Revelation",
+      "author": "Row, C. A. (Charles Adolphus), 1816-1896",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Revelation; Miracles; Bible. New Testament -- Evidences, authority, etc.; Supernatural in the Bible",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46635,
+      "title": "Gospel Philosophy\nShowing the Absurdities of Infidelity, and the Harmony of the Gospel with Science and History",
+      "author": "Ward, J. H. (Joseph Harvey)",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Church of Jesus Christ of Latter-day Saints -- Doctrines",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46652,
+      "title": "The Wonders of Life: A Popular Study of Biological Philosophy",
+      "author": "Haeckel, Ernst, 1834-1919; McCabe, Joseph, 1867-1955 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Biology; Evolution (Biology); Life -- Origin",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46701,
+      "title": "Discourses of Keidansky",
+      "author": "Richards, Bernard G.",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Jewish literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46710,
+      "title": "Appletons' Popular Science Monthly, October 1899\nVol. LV, May to October, 1899",
+      "author": "Various; Youmans, William Jay, 1838-1901 [Editor]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Science -- Periodicals; Technology -- Periodicals",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46728,
+      "title": "Decadence, and Other Essays on the Culture of Ideas",
+      "author": "Gourmont, Remy de, 1858-1915; Bradley, William Aspenwall, 1878-1939 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy; French essays -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46737,
+      "title": "The Bible: I. Authenticity II. Credibility III. Morality",
+      "author": "Remsburg, John E. (John Eleazer), 1848-1919",
+      "genre": "Religion",
+      "language": "en",
+      "subjects": "Free thought; Bible -- Criticism, interpretation, etc.; Bible -- Evidences, authority, etc.",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46743,
+      "title": "The Methods of Ethics",
+      "author": "Sidgwick, Henry, 1838-1900",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Ethics",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46759,
+      "title": "Philosophic Nights in Paris\nBeing selections from Promenades Philosophiques",
+      "author": "Gourmont, Remy de, 1858-1915; Goldberg, Isaac, 1887-1938 [Translator]",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Philosophy; French essays -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46766,
+      "title": "A Night in the Luxembourg",
+      "author": "Gourmont, Remy de, 1858-1915; Ransome, Arthur, 1884-1967 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46777,
+      "title": "Happiness as Found in Forethought Minus Fearthought",
+      "author": "Fletcher, Horace, 1849-1919",
+      "genre": "Psychology",
+      "language": "en",
+      "subjects": "Happiness; Fear",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46786,
+      "title": "Why I Believe in Poverty as the Richest Experience That Can Come to a Boy",
+      "author": "Bok, Edward William, 1863-1930",
+      "genre": "Philosophy",
+      "language": "en",
+      "subjects": "Success; Poverty",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 46809,
+      "title": "Six Major Prophets",
+      "author": "Slosson, Edwin E. (Edwin Emery), 1865-1929",
+      "genre": "Drama",
+      "language": "en",
+      "subjects": "Chesterton, G. K. (Gilbert Keith), 1874-1936; Wells, H. G. (Herbert George), 1866-1946; Eucken, Rudolf, 1846-1926; Dewey, John, 1859-1952; Shaw, Bernard, 1856-1950; Schiller, F. C. S. (Ferdinand Canning Scott), 1864-1937",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

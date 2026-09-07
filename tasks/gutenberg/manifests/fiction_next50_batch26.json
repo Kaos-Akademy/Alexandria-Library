@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1943,
+      "title": "Louis Lambert",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Waring, James [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1944,
+      "title": "The Witch, and Other Stories",
+      "author": "Chekhov, Anton Pavlovich, 1860-1904",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Russia -- Social life and customs -- Fiction; Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1947,
+      "title": "Scaramouche: A Romance of the French Revolution",
+      "author": "Sabatini, Rafael, 1875-1950",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "France -- History -- Revolution, 1789-1799 -- Fiction; War stories; Love stories; Adventure stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1948,
+      "title": "The Story of a Bad Boy",
+      "author": "Aldrich, Thomas Bailey, 1836-1907",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Boys -- Juvenile fiction; New England -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1950,
+      "title": "A Woman of Thirty",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- History -- 19th century -- Fiction; Marriage -- Fiction; France -- Social life and customs -- 19th century -- Fiction; French fiction -- Translations into English; Women -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1951,
+      "title": "The Coming Race",
+      "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; Utopias -- Fiction; Utopian fiction; Civilization, Subterranean -- Fiction; Underground areas -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1952,
+      "title": "The Yellow Wallpaper",
+      "author": "Gilman, Charlotte Perkins, 1860-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Mentally ill women -- Fiction; Feminist fiction; Married women -- Psychology -- Fiction; Sex role -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1953,
+      "title": "A Book of Strife in the Form of The Diary of an Old Soul",
+      "author": "MacDonald, George, 1824-1905",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; Devotional literature; Christian poetry, English; Devotional calendars",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1954,
+      "title": "Colonel Chabert",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; France -- Fiction; Legal stories; French fiction -- Translations into English; Napoleonic Wars, 1800-1815 -- Veterans -- Fiction; Justice, Administration of -- Political aspects -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1955,
+      "title": "The Darrow Enigma",
+      "author": "Severy, Melvin L. (Melvin Linwood), 1863-",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1956,
+      "title": "And Even Now",
+      "author": "Beerbohm, Max, Sir, 1872-1956",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1960,
+      "title": "Sight Unseen",
+      "author": "Rinehart, Mary Roberts, 1876-1958",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1963,
+      "title": "The Confession",
+      "author": "Rinehart, Mary Roberts, 1876-1958",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1965,
+      "title": "Captain Blood",
+      "author": "Sabatini, Rafael, 1875-1950",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Sea stories; Physicians -- Fiction; Adventure stories; Pirates -- Fiction; Caribbean Area -- Fiction; British -- Caribbean Area -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1966,
+      "title": "The Path of the King",
+      "author": "Buchan, John, 1875-1940",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; War stories; Kings and rulers -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1967,
+      "title": "The Brotherhood of Consolation",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1968,
+      "title": "The Human Comedy: Introductions and Appendix",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Saintsbury, George, 1845-1933 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1969,
+      "title": "Catherine: A Story",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Biographical fiction; Executions and executioners -- Fiction; Women murderers -- Fiction; Hayes, Catharine Hall, 1690-1726 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1970,
+      "title": "A Poor Wise Man",
+      "author": "Rinehart, Mary Roberts, 1876-1958",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Mystery fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1973,
+      "title": "Tales of Troy: Ulysses, the Sacker of Cities",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Mythology, Greek -- Juvenile literature; Trojan War -- Juvenile literature",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1975,
+      "title": "The Legacy of Cain",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Fathers and daughters -- Fiction; Children of women prisoners -- Fiction; Adopted children -- Fiction; Clergy -- Fiction; Romantic suspense fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1976,
+      "title": "Peter Ruff and the Double Four",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Adventure stories; Secret societies -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1978,
+      "title": "Buttercup Gold, and Other Stories",
+      "author": "Field, Ellen Robena",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's poetry; Children's stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1980,
+      "title": "Stories by English Authors: Africa (Selected by Scribners)",
+      "author": "Doyle, Arthur Conan, 1859-1930 [Contributor]; Addleshaw, Percy, 1866-1916 [Contributor]; Haggard, H. Rider (Henry Rider), 1856-1925 [Contributor]; Landers, J. [Contributor]; Scully, W. C. (William Charles), 1855-1943 [Contributor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Africa -- Fiction; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1983,
+      "title": "Monsieur Beaucaire",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 18th century -- Fiction; Gambling -- Fiction; French -- England -- Fiction; Bath (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1985,
+      "title": "Men's Wives",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1987,
+      "title": "The Outlet",
+      "author": "Adams, Andy, 1859-1935",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Western stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1988,
+      "title": "The History of Tom Thumb\r\nTo Which Are Added the Stories of the Cat and the Mouse and Fire! Fire! Burn Stick!",
+      "author": "Altemus, Henry [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's stories; Fairy tales -- England",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1989,
+      "title": "The Foolish Dictionary\r\nAn exhausting work of reference to un-certain English words, their origin, meaning, legitimate and illegitimate use, confused by a few pictures [not included]",
+      "author": "Wurdz, Gideon, 1875-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor; English language -- Dictionaries -- Humor; English language -- Semantics -- Humor; Vocabulary -- Humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1990,
+      "title": "The Bedford-Row Conspiracy",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1991,
+      "title": "Old Friends: Essays in Epistolary Parody",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Wit and humor; Parodies; Imaginary letters",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1993,
+      "title": "Told After Supper",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Ghost stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1994,
+      "title": "Adventures Among Books",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English literature -- History and criticism",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1999,
+      "title": "Crome Yellow",
+      "author": "Huxley, Aldous, 1894-1963",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Humorous stories; Intellectuals -- Fiction; England -- Fiction; Country homes -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2002,
+      "title": "Sonnets from the Portuguese",
+      "author": "Browning, Elizabeth Barrett, 1806-1861",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Sonnets, English; Love poetry, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2003,
+      "title": "Spirits in Bondage: A Cycle of Lyrics",
+      "author": "Lewis, C. S. (Clive Staples), 1898-1963",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry; God -- Poetry; Good and evil -- Poetry; Cynicism -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2004,
+      "title": "Pigs is Pigs",
+      "author": "Butler, Ellis Parker, 1869-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Humorous stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2005,
+      "title": "Piccadilly Jim",
+      "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Piccadilly (London, England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2006,
+      "title": "A Fair Penitent",
+      "author": "Collins, Wilkie, 1824-1889",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conversion -- Fiction; English fiction; Nuns -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2007,
+      "title": "We Two: A Novel",
+      "author": "Lyall, Edna, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Religious fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2008,
+      "title": "Mazelli, and Other Poems",
+      "author": "Sands, George W., 1824?-1874",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Catoctin Mountain Region (Md.) -- Poetry; Indians of North America -- Maryland -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2011,
+      "title": "Rudder Grange",
+      "author": "Stockton, Frank R., 1834-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Housekeeping -- Fiction; Husband and wife -- Fiction; Household employees -- Fiction; Canal-boats -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2013,
+      "title": "The Pit-Prop Syndicate",
+      "author": "Crofts, Freeman Wills, 1879-1957",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Police -- England -- Fiction; Murder -- Investigation -- Fiction; British -- France -- Fiction; Organized crime -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2014,
+      "title": "The Lodger",
+      "author": "Lowndes, Marie Belloc, 1868-1947",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Serial murders -- Fiction; Whitechapel (London, England) -- Fiction; Jack, the Ripper -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2015,
+      "title": "A Miscellany of Men",
+      "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2019,
+      "title": "The Bat",
+      "author": "Ben\u00e9t, Stephen Vincent, 1898-1943; Hopwood, Avery, 1882-1928; Rinehart, Mary Roberts, 1876-1958",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2023,
+      "title": "Malvina of Brittany",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English; Brittany (France) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2024,
+      "title": "Diary of a Pilgrimage",
+      "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Germany -- Description and travel; Europe -- Description and travel; Jerome, Jerome K. (Jerome Klapka), 1859-1927 -- Travel -- Europe; Humorists, English -- 19th century -- Biography; British -- Europe -- History -- 19th century; Oberammergauer Passionsspiel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2025,
+      "title": "My Lady Caprice",
+      "author": "Farnol, Jeffery, 1878-1952",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories; Young women -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 2026,
+      "title": "The Coming Conquest of England",
+      "author": "Niemann, August, 1839-1919; Freese, John Henry [Translator]",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Science fiction; War stories; Imaginary wars and battles -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

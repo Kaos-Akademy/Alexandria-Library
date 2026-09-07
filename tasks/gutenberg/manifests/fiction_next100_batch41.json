@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 4246,
+      "title": "Beulah",
+      "author": "Evans, Augusta J. (Augusta Jane), 1835-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Love stories; Women -- Fiction; Southern States -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4249,
+      "title": "In the Sweet Dry and Dry",
+      "author": "Morley, Christopher, 1890-1957; Haley, Bart, 1876-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Humorous stories; Prohibition -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4251,
+      "title": "The Life Everlasting: A Reality of Romance",
+      "author": "Corelli, Marie, 1855-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Paranormal fiction; Spiritualism -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4255,
+      "title": "A Yorkshire Tragedy",
+      "author": "Shakespeare, William, 1564-1616 [Dubious author]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Shakespeare, William, 1564-1616 -- Spurious and doubtful works; Yorkshire (England) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4265,
+      "title": "Heroes Every Child Should Know",
+      "author": "Mabie, Hamilton Wright, 1846-1916; Stephens, Kate, 1853-1938 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Heroes",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4267,
+      "title": "Abbeychurch; Or, Self-Control and Self-Conceit",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century; Religious fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4268,
+      "title": "Cousin Phillis",
+      "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4271,
+      "title": "A Modern Telemachus",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901; Hennessy, William John, 1839-1917 [Illustrator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Shipwrecks -- Fiction; Algeria -- Fiction; Kidnapping victims -- Fiction; Historical fiction, English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4272,
+      "title": "The Christian Year",
+      "author": "Keble, John, 1792-1866; Morley, Henry, 1822-1894 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Church year -- Poetry; Hymns, English; Christian poetry, English -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4274,
+      "title": "Wives and Daughters",
+      "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Young women -- Fiction; Love stories; Domestic fiction; Fathers and daughters -- Fiction; Bildungsromans; Social classes -- Fiction; Children of physicians -- Fiction; Stepfamilies -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4275,
+      "title": "Ruth",
+      "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Domestic fiction; Mothers and sons -- Fiction; Unmarried mothers -- Fiction; Religious fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4276,
+      "title": "North and South",
+      "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Young women -- Fiction; Bildungsromans; Mothers and daughters -- Fiction; Children of clergy -- Fiction; Social classes -- Fiction; England, Northern -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4281,
+      "title": "Helen's Babies",
+      "author": "Habberton, John, 1842-1921",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Uncles -- Fiction; Boys -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4282,
+      "title": "Don Rodriguez; Chronicles of Shadow Valley",
+      "author": "Dunsany, Lord, 1878-1957",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction, English; Spain -- Fiction; Magicians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4284,
+      "title": "The Window-Gazer",
+      "author": "Mackay, Isabel Ecclestone, 1875-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4287,
+      "title": "The Red Planet",
+      "author": "Locke, William John, 1863-1930",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "People with disabilities -- Fiction; World War, 1914-1918 -- England -- Fiction; Disabled veterans -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4288,
+      "title": "The Rich Mrs. Burgoyne",
+      "author": "Norris, Kathleen Thompson, 1880-1966",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; California -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4293,
+      "title": "Neal, the Miller: A Son of Liberty",
+      "author": "Otis, James, 1848-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Indians of North America -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Horses -- Juvenile fiction; United States -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction; Millers -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4294,
+      "title": "Tales of Aztlan; The Romance of a Hero of Our Late Spanish-American War, Incidents of Interest from the Life of a Western Pioneer and Other Tales",
+      "author": "Hartmann, George, 1852-1934",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Short stories, American; Spanish-American War, 1898 -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4295,
+      "title": "Songs of Action",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4296,
+      "title": "Friarswood Post Office",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Christian life -- Fiction; Child labor -- Fiction; Siblings -- Fiction; Children -- Death -- Fiction; Children with disabilities -- Fiction; Postal service -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4297,
+      "title": "Eve's Ransom",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4298,
+      "title": "The Paying Guest",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4299,
+      "title": "The Whirlpool",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4301,
+      "title": "The Nether World",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "London (England) -- Fiction; English fiction -- 19th century; Poor -- Fiction; Poverty -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4302,
+      "title": "Thyrza",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4303,
+      "title": "Denzil Quarrier",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4304,
+      "title": "Our Friend the Charlatan",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4305,
+      "title": "The Unclassed",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4306,
+      "title": "Veranilda",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; English fiction -- 19th century; Italy -- History -- 476-774 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 4307,
+      "title": "In the Year of Jubilee",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century; Victoria, Queen of Great Britain, 1819-1901 -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 4308,
+      "title": "The Town Traveller",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Social life and customs -- 19th century -- Fiction; English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

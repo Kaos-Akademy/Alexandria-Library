@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 453,
+      "title": "Emma McChesney and Co.",
+      "author": "Ferber, Edna, 1885-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; McChesney, Emma (Fictitious character) -- Fiction; Traveling sales personnel -- Fiction; Women sales personnel -- Fiction; Businesswomen -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 454,
+      "title": "The Breitmann Ballads",
+      "author": "Leland, Charles Godfrey, 1824-1903",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Wit and humor; Humorous poetry, American; German Americans -- Poetry; Dialect literature, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 456,
+      "title": "The Door in the Wall, and Other Stories",
+      "author": "Wells, H. G. (Herbert George), 1866-1946",
+      "genre": "Science Fiction",
+      "language": "en",
+      "subjects": "Short stories; Science fiction, English; Fantasy fiction, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 458,
+      "title": "Dreams and Dust",
+      "author": "Marquis, Don, 1878-1937",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 459,
+      "title": "The White People",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Castles -- Fiction; Country life -- Fiction; Scotland -- Fiction; Ghost stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 460,
+      "title": "The Dawn of a To-morrow",
+      "author": "Burnett, Frances Hodgson, 1849-1924; Yohn, F. C. (Frederick Coffay), 1875-1933 [Illustrator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Poor -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 461,
+      "title": "The Quest of the Golden Girl: A Romance",
+      "author": "Le Gallienne, Richard, 1866-1947",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 462,
+      "title": "The Errand Boy; Or, How Phil Brent Won Success",
+      "author": "Alger, Horatio, Jr., 1832-1899",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Conduct of life -- Juvenile fiction; Fathers and sons -- Juvenile fiction; Inheritance and succession -- Juvenile fiction; Youth -- Conduct of life -- Juvenile fiction; Diligence -- Juvenile fiction; Success -- Juvenile fiction; Self-reliance -- Juvenile fiction; Stepmothers -- Juvenile fiction; New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction; Street life -- Juvenile fiction; Impostors and imposture -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 463,
+      "title": "The Red Badge of Courage: An Episode of the American Civil War",
+      "author": "Crane, Stephen, 1871-1900",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; War stories; United States -- History -- Civil War, 1861-1865 -- Fiction; Virginia -- History -- Civil War, 1861-1865 -- Fiction; Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 464,
+      "title": "In the South Seas\r\nBeing an Account of Experiences and Observations in the Marquesas, Paumotus and Gilbert Islands in the Course of Two Cruises on the Yacht \"Casco\" (1888) and the Schooner \"Equator\" (1889)",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oceania -- Description and travel; Polynesia -- Description and travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 465,
+      "title": "The Mountains",
+      "author": "White, Stewart Edward, 1873-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "California -- Description and travel; Outdoor life",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 467,
+      "title": "The Princess of Cleves",
+      "author": "La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne), 1634-1693",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Psychological fiction; Love stories; Married women -- Fiction; Nobility -- Fiction; France -- History -- 16th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 468,
+      "title": "Manon Lescaut",
+      "author": "Pr\u00e9vost, abb\u00e9, 1697-1763",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Man-woman relationships -- Fiction; Lescaut, Manon, 1689-1721 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 469,
+      "title": "The Duchesse of Langeais",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- Social life and customs -- 19th century -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 471,
+      "title": "The Bride of Lammermoor",
+      "author": "Scott, Walter, 1771-1832",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Psychological fiction; Love stories; Scotland -- Fiction; Women murderers -- Fiction; Arranged marriage -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 472,
+      "title": "The House Behind the Cedars",
+      "author": "Chesnutt, Charles W. (Charles Waddell), 1858-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Psychological fiction; Domestic fiction; African Americans -- Fiction; Southern States -- Fiction; Passing (Identity) -- Fiction; African American women -- Fiction; Racism -- Fiction; Racially mixed people -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 478,
+      "title": "The Cost",
+      "author": "Phillips, David Graham, 1867-1911",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Domestic fiction; Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 479,
+      "title": "Little Lord Fauntleroy",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conduct of life -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; Family -- Juvenile fiction; England -- Juvenile fiction; Grandparent and child -- Juvenile fiction; Inheritance and succession -- Juvenile fiction; Grandfathers -- Juvenile fiction; Wealth -- Juvenile fiction; Altruism -- Juvenile fiction; Mother and child -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 480,
+      "title": "\"Undo\": A Novel",
+      "author": "Hutsko, Joe, 1963-",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; Computer industry -- California -- Santa Clara County -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 481,
+      "title": "In the Bishop's Carriage",
+      "author": "Michelson, Miriam, 1870-1942",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Adventure stories; Crime -- Fiction; Theft -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 482,
+      "title": "The Woodlanders",
+      "author": "Hardy, Thomas, 1840-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Love stories; Triangles (Interpersonal relations) -- Fiction; Pastoral fiction; Social classes -- Fiction; Forests and forestry -- Fiction; Arranged marriage -- Fiction; Dorset (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 483,
+      "title": "The Conquest of Canaan",
+      "author": "Tarkington, Booth, 1869-1946",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "City and town life -- Fiction; Indiana -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 484,
+      "title": "Poor and Proud; Or, The Fortunes of Katy Redburn: A Story for Young Folks",
+      "author": "Optic, Oliver, 1822-1897",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Poor -- Juvenile fiction; Conduct of life -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 485,
+      "title": "The Road to Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Voyages and travels -- Juvenile fiction; Uncles -- Juvenile fiction; Magic -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Farms -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 486,
+      "title": "Ozma of Oz\r\nA Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion, and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Recorded Herein",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Vacations -- Juvenile fiction; Voyages and travels -- Juvenile fiction; Uncles -- Juvenile fiction; Magic -- Juvenile fiction; Physicians -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Steamboats -- Juvenile fiction; Hens -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction; Cowardly Lion (Fictitious character) -- Juvenile fiction; Scarecrow (Fictitious character from Baum) -- Juvenile fiction; Tin Woodman (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 487,
+      "title": "Songs of Travel, and Other Verses",
+      "author": "Stevenson, Robert Louis, 1850-1894; Colvin, Sidney, 1845-1927 [Editor]",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry; Voyages and travels -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 489,
+      "title": "One Basket",
+      "author": "Ferber, Edna, 1885-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; United States -- Social life and customs -- 20th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 491,
+      "title": "Rezanov",
+      "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Rezanov, Nikolai Petrovich, 1764-1807 -- Fiction; California -- History -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 492,
+      "title": "Essays in the Art of Writing",
+      "author": "Stevenson, Robert Louis, 1850-1894",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Literature -- History and criticism; Authorship; Stevenson, Robert Louis, 1850-1894 -- Authorship",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 493,
+      "title": "Falk: A Reminiscence",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Seafaring life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 494,
+      "title": "To-morrow",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ship captains -- Fiction; Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 495,
+      "title": "Amy Foster",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 496,
+      "title": "The Little Lame Prince",
+      "author": "Craik, Dinah Maria Mulock, 1826-1887",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's literature; Fairy tales; Princes -- Juvenile fiction; People with disabilities -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 497,
+      "title": "Tracks of a Rolling Stone",
+      "author": "Coke, Henry J. (Henry John), 1827-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Coke, Henry J. (Henry John), 1827-1916; West (U.S.) -- Description and travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 498,
+      "title": "Rebecca of Sunnybrook Farm",
+      "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Girls -- Juvenile fiction; Aunts -- Juvenile fiction; New England -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 499,
+      "title": "Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold",
+      "author": "Appleton, Victor",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Adventure and adventurers -- Juvenile fiction; Swift, Tom (Fictitious character) -- Juvenile fiction; Extinct cities -- Juvenile fiction; Honduras -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 500,
+      "title": "The Adventures of Pinocchio",
+      "author": "Collodi, Carlo, 1826-1890; Della Chiesa, Carol, 1887-1972 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales; Puppets -- Juvenile fiction; Pinocchio (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 501,
+      "title": "The Story of Doctor Dolittle",
+      "author": "Lofting, Hugh, 1886-1947; Walpole, Hugh, 1884-1941 [Author of introduction, etc.]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy literature; Animals -- Juvenile fiction; Human-animal communication -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 502,
+      "title": "Desert Gold",
+      "author": "Grey, Zane, 1872-1939",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; American fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 504,
+      "title": "The Fifth String",
+      "author": "Sousa, John Philip, 1854-1932",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Violinists -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 506,
+      "title": "The Shuttle",
+      "author": "Burnett, Frances Hodgson, 1849-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sisters -- Fiction; Children of the rich -- Fiction; Americans -- England -- Fiction; Marriage -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 507,
+      "title": "Adam Bede",
+      "author": "Eliot, George, 1819-1880",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Didactic fiction; England -- Fiction; Love stories; Triangles (Interpersonal relations) -- Fiction; Illegitimate children -- Fiction; Women clergy -- Fiction; Infanticide -- Fiction; Carpenters -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 508,
+      "title": "Twice-Told Tales",
+      "author": "Hawthorne, Nathaniel, 1804-1864",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Short stories; New England -- Social life and customs -- Fiction; Historical fiction, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 509,
+      "title": "The Purcell Papers \u2014 Volume 1",
+      "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction, English; Ireland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 510,
+      "title": "The Purcell Papers \u2014 Volume 2",
+      "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction, English; Ireland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 511,
+      "title": "The Purcell Papers \u2014 Volume 3",
+      "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction, English; Ireland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 513,
+      "title": "The snow-image, and other twice-told tales",
+      "author": "Hawthorne, Nathaniel, 1804-1864",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Short stories, American; New England -- Social life and customs -- Fiction; Historical fiction, American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 515,
+      "title": "Margret Howth: A Story of To-day",
+      "author": "Davis, Rebecca Harding, 1831-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 517,
+      "title": "The Emerald City of Oz",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Oz (Imaginary place) -- Juvenile fiction; Fantasy literature; Voyages and travels -- Juvenile fiction; Uncles -- Juvenile fiction; Magic -- Juvenile fiction; Aunts -- Juvenile fiction; Kings and rulers -- Juvenile fiction; Battles -- Juvenile fiction; Good and evil -- Juvenile fiction; Animals, Mythical -- Juvenile fiction; Gale, Dorothy (Fictitious character) -- Juvenile fiction; Princess Ozma (Fictitious character) -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 518,
+      "title": "The Enchanted Island of Yew\r\nWhereon Prince Marvel Encountered the High Ki of Twi and Other Surprising People",
+      "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fantasy fiction; Twins -- Juvenile fiction; Friendship -- Juvenile fiction; Fairies -- Juvenile fiction; Dragons -- Juvenile fiction; Adventure and adventurers -- Juvenile fiction; Princes -- Juvenile fiction; Brigands and robbers -- Juvenile fiction; Knights and knighthood -- Juvenile fiction; Good and evil -- Juvenile fiction; Magicians -- Juvenile fiction; Boredom -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

@@ -482,6 +482,8 @@ func uploadCmd(args []string) {
 	proposerAliases := fs.String("proposer-aliases", "", "sdk mode proposer aliases from flow.json (comma-separated)")
 	proposerKeyCount := fs.Int("proposer-key-count", 0, "sdk mode proposer count using <signer>,<signer>-p1.. pattern")
 	spikeSections := fs.Int("spike-sections", 0, "optional limit for first N sections per book (for throughput spike testing)")
+	launchStaggerMs := fs.Int("launch-stagger-ms", 10, "delay between starting each book upload goroutine (sdk mode)")
+	maxBookRetries := fs.Int("max-book-retries", 3, "inline retries per book on retryable tx failures before marking split (sdk mode)")
 	fs.Parse(args)
 
 	if strings.TrimSpace(*manifestPath) == "" {
@@ -514,6 +516,8 @@ func uploadCmd(args []string) {
 	}
 	if strings.EqualFold(strings.TrimSpace(*uploader), "sdk") {
 		color.Cyan("Book concurrency: %d", *bookConcurrency)
+		color.Cyan("Launch stagger: %dms", *launchStaggerMs)
+		color.Cyan("Max book retries: %d", *maxBookRetries)
 	}
 	if *spikeSections > 0 {
 		color.Cyan("Spike sections: %d", *spikeSections)
@@ -537,8 +541,8 @@ func uploadCmd(args []string) {
 	}
 
 	if strings.EqualFold(strings.TrimSpace(*uploader), "sdk") {
-		if *repair || *removeFirst {
-			color.Red("sdk uploader does not support -repair/-remove-first yet")
+		if *removeFirst {
+			color.Red("sdk uploader does not support -remove-first yet")
 			os.Exit(1)
 		}
 		if *bookConcurrency <= 0 {
@@ -556,6 +560,12 @@ func uploadCmd(args []string) {
 			os.Exit(1)
 		}
 		defer sender.Close()
+		// #region agent log
+		sdksender.DebugLog("H2", "main.go:upload", "sdk upload session start", map[string]interface{}{
+			"bookConcurrency": *bookConcurrency, "proposerKeyCount": len(proposerList),
+			"launchStaggerMs": *launchStaggerMs, "manifest": *manifestPath,
+		})
+		// #endregion
 
 		type job struct {
 			Entry gutenberg.ManifestEntry
@@ -596,8 +606,20 @@ func uploadCmd(args []string) {
 			titlesInOrder = append(titlesInOrder, cfg.BookTitle)
 		}
 		batchCtx, batchCancel := context.WithTimeout(context.Background(), 10*time.Minute)
+		// #region agent log
+		preflightStart := time.Now()
+		sdksender.DebugLog("H5", "main.go:upload", "preflight BooksExistBatch start", map[string]interface{}{
+			"titleCount": len(titlesInOrder),
+		})
+		// #endregion
 		flags, err := sender.BooksExistBatch(batchCtx, titlesInOrder)
 		batchCancel()
+		// #region agent log
+		sdksender.DebugLog("H5", "main.go:upload", "preflight BooksExistBatch done", map[string]interface{}{
+			"titleCount": len(titlesInOrder), "durationMs": time.Since(preflightStart).Milliseconds(),
+			"preflightErr": errString(err),
+		})
+		// #endregion
 		if err != nil {
 			color.Red("sdk batch book existence preflight: %v", err)
 			os.Exit(1)
@@ -607,6 +629,52 @@ func uploadCmd(args []string) {
 			existByTitle[t] = flags[i]
 		}
 		color.Cyan("SDK preflight: on-chain book storage checked for %d title(s) (batched scripts).\n", len(titlesInOrder))
+
+		// Storage write probe: one synchronous upload before launching the pool.
+		// Runtime evidence: Prime-librarian fails FlowStorageFees checks even at concurrency 1.
+		if len(jobs) > 0 {
+			probe := jobs[0]
+			probeCfg := gutenberg.UploadConfigFromManifest(probe.Entry, absCache, *signer)
+			probeCfg.MaxSections = *spikeSections
+			if *repair {
+				probeCfg.SkipChapterUploadIfBookExists = false
+				probeCfg.RepairUpload = true
+			}
+			probeOnChain := existByTitle[probeCfg.BookTitle]
+			color.Cyan("Storage write probe: testing Admin/add_book on PG %d before batch...", probe.Entry.GutenbergID)
+			probeRes := gutenberg.UploadBookWithSDK(context.Background(), sender, probeCfg, probe.Entry.GutenbergID, probeOnChain)
+			probeClass := sdksender.ClassifyError(fmt.Errorf("%s", probeRes.FailureMessage))
+			// #region agent log
+			sdksender.DebugLog("H1", "main.go:upload", "storage write probe result", map[string]interface{}{
+				"gutenbergId": probe.Entry.GutenbergID, "uploaded": probeRes.Uploaded,
+				"errorClass": probeClass, "tx": probeRes.FailedTxName,
+				"errSnippet": truncateDebugErr(probeRes.FailureMessage, 200),
+			})
+			// #endregion
+			if probeRes.Uploaded {
+				color.Green("Uploaded [probe] %s (PG %d) lastTx=%s", probe.Entry.Title, probe.Entry.GutenbergID, probeRes.LastTxID)
+				m.Entries[probe.Index].Status = "uploaded"
+				if err := gutenberg.SaveManifest(*manifestPath, m); err != nil {
+					color.Yellow("  warning: could not persist probe upload PG %d: %v", probe.Entry.GutenbergID, err)
+				}
+				jobs = jobs[1:]
+			} else if probeClass == "storage_computation" && probeRes.FailedTxName == "Admin/add_book" {
+				color.Red("\nUPLOAD BLOCKED: Prime-librarian (0xfed1adffd14ea9d0) cannot pass Flow storage fee checks.")
+				color.Red("  FlowStorageFees computation exceeds limit during Admin/add_book.")
+				color.Red("  Account has ~14.5k FLOW / ~3 GB used — not a balance issue; the account is too large for tx validation.")
+				color.Red("  Fix: contact Flow support OR deploy a new librarian account. Lowering concurrency will not help.")
+				// #region agent log
+				sdksender.DebugLog("H1", "main.go:upload", "batch aborted at storage wall", map[string]interface{}{
+					"remainingJobs": len(jobs), "exitCode": 2,
+				})
+				// #endregion
+				os.Exit(2)
+			}
+		}
+		if len(jobs) == 0 {
+			color.Green("\nDone: probe uploaded all selected split entries.")
+			return
+		}
 
 		// Spawn uploads in a background goroutine so the main goroutine can consume
 		// results immediately. Otherwise the launch loop blocks on sem after
@@ -619,14 +687,21 @@ func uploadCmd(args []string) {
 			for _, j := range jobs {
 				wg.Add(1)
 				sem <- struct{}{}
+				if *launchStaggerMs > 0 {
+					time.Sleep(time.Duration(*launchStaggerMs) * time.Millisecond)
+				}
 				item := j
 				go func() {
 					defer wg.Done()
 					defer func() { <-sem }()
 					cfg := gutenberg.UploadConfigFromManifest(item.Entry, absCache, *signer)
 					cfg.MaxSections = *spikeSections
+					if *repair {
+						cfg.SkipChapterUploadIfBookExists = false
+						cfg.RepairUpload = true
+					}
 					onChain := existByTitle[cfg.BookTitle]
-					up := gutenberg.UploadBookWithSDK(context.Background(), sender, cfg, item.Entry.GutenbergID, onChain)
+					up := uploadBookWithSDKRetries(context.Background(), sender, cfg, item.Entry.GutenbergID, onChain, *maxBookRetries)
 					results <- result{Entry: item.Entry, Index: item.Index, Upload: up}
 				}()
 			}
@@ -636,16 +711,35 @@ func uploadCmd(args []string) {
 
 		color.Cyan("SDK upload: %d book(s), concurrency=%d — streaming results as each book finishes.\n", len(jobs), *bookConcurrency)
 		failures := 0
+		failByClass := map[string]int{}
 		for r := range results {
 			if r.Upload.Uploaded {
 				color.Green("Uploaded [%d/%d] %s (PG %d) lastTx=%s", r.Index+1, len(m.Entries), r.Entry.Title, r.Entry.GutenbergID, r.Upload.LastTxID)
+				m.Entries[r.Index].Status = "uploaded"
+				if err := gutenberg.SaveManifest(*manifestPath, m); err != nil {
+					color.Yellow("  warning: could not persist status=uploaded for PG %d: %v", r.Entry.GutenbergID, err)
+				}
 				continue
 			}
 			failures++
+			errClass := sdksender.ClassifyError(fmt.Errorf("%s", r.Upload.FailureMessage))
+			failByClass[errClass]++
+			// #region agent log
+			sdksender.DebugLog("H1-H3", "main.go:upload", "book upload failed", map[string]interface{}{
+				"gutenbergId": r.Entry.GutenbergID, "tx": r.Upload.FailedTxName,
+				"section": r.Upload.FailedSection, "errorClass": errClass,
+				"errSnippet": truncateDebugErr(r.Upload.FailureMessage, 200),
+			})
+			// #endregion
 			color.Red("Failed [%d/%d] %s (PG %d) section=%d tx=%s err=%s",
 				r.Index+1, len(m.Entries), r.Entry.Title, r.Entry.GutenbergID,
 				r.Upload.FailedSection, r.Upload.FailedTxName, r.Upload.FailureMessage)
 		}
+		// #region agent log
+		sdksender.DebugLog("H1-H5", "main.go:upload", "sdk upload session summary", map[string]interface{}{
+			"totalJobs": len(jobs), "failures": failures, "failByClass": failByClass,
+		})
+		// #endregion
 		if failures > 0 {
 			color.Red("\nSDK upload completed with %d failed book(s).", failures)
 			os.Exit(1)
@@ -707,6 +801,40 @@ func uploadCmd(args []string) {
 	color.Green("\nDone: processed all split entries.")
 }
 
+func uploadBookWithSDKRetries(ctx context.Context, sender *sdksender.Sender, cfg gutenberg.UploadConfig, gutenbergID int, onChain bool, maxRetries int) gutenberg.SDKBookUploadResult {
+	if maxRetries < 0 {
+		maxRetries = 0
+	}
+	attempts := maxRetries + 1
+	var last gutenberg.SDKBookUploadResult
+	for attempt := 1; attempt <= attempts; attempt++ {
+		last = gutenberg.UploadBookWithSDK(ctx, sender, cfg, gutenbergID, onChain)
+		if last.Uploaded {
+			return last
+		}
+		if attempt == attempts {
+			break
+		}
+		if last.FailedTxName == "Admin/add_book" ||
+			strings.Contains(strings.ToLower(last.FailureMessage), "overflow paragraphs") {
+			break
+		}
+		if !sdksender.RetryableError(fmt.Errorf("%s", last.FailureMessage)) {
+			break
+		}
+		if last.FailedTxName != "" && last.FailedTxName != "Admin/add_book" {
+			onChain = true
+		}
+		select {
+		case <-ctx.Done():
+			last.FailureMessage = ctx.Err().Error()
+			return last
+		case <-time.After(sdksender.RetryBackoff(attempt)):
+		}
+	}
+	return last
+}
+
 func parseCSV(value string) []string {
 	if strings.TrimSpace(value) == "" {
 		return nil
@@ -720,6 +848,20 @@ func parseCSV(value string) []string {
 		}
 	}
 	return out
+}
+
+func errString(err error) string {
+	if err == nil {
+		return ""
+	}
+	return err.Error()
+}
+
+func truncateDebugErr(s string, max int) string {
+	if len(s) <= max {
+		return s
+	}
+	return s[:max] + "..."
 }
 
 func buildSignerProposerAliases(signer string, count int) []string {

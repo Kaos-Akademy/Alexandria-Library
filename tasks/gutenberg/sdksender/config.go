@@ -195,6 +195,15 @@ func withHexPrefix(addr string) string {
 	return "0x" + addr
 }
 
+// contractAliasesForSigner points Alexandria imports at the signer account where the contract is deployed.
+func contractAliasesForSigner(aliases contractAliases, signerAddress flow.Address) contractAliases {
+	if aliases == nil {
+		aliases = contractAliases{}
+	}
+	aliases["Alexandria"] = withHexPrefix(signerAddress.Hex())
+	return aliases
+}
+
 var (
 	importQuotedPattern   = regexp.MustCompile(`(?m)^\s*import\s+"([A-Za-z0-9_]+)"\s*$`)
 	importPathNamePattern = regexp.MustCompile(`(?m)^\s*import\s+([A-Za-z0-9_]+)\s+from\s+"[^"]+"\s*$`)

@@ -6,20 +6,31 @@ whose titles are not yet on-chain.
 Requires: flow CLI configured in repo root (flow.json), network access for mainnet.
 
 Examples:
-  # First 100 status=split rows (no Flow; use when CLI is not configured):
-  python3 tasks/gutenberg/scripts/build_next_manifest.py --local-only --limit 100 \\
+  # First 25 status=split rows (no Flow; use when CLI is not configured):
+  python3 tasks/gutenberg/scripts/build_next_manifest.py --local-only --limit 25 \\
     --source-manifest tasks/gutenberg/manifests/philosophy.json \\
-    --out tasks/gutenberg/manifests/philosophy_next100.json
+    --out tasks/gutenberg/manifests/philosophy_next25_batch1.json
 
   # Exclude titles already on mainnet (requires `flow` + flow.json):
-  python3 tasks/gutenberg/scripts/build_next_manifest.py --limit 100 \\
+  python3 tasks/gutenberg/scripts/build_next_manifest.py --limit 25 --require-cache \\
     --source-manifest tasks/gutenberg/manifests/philosophy.json \\
-    --out tasks/gutenberg/manifests/philosophy_next100.json
+    --out tasks/gutenberg/manifests/philosophy_next25_batch1.json
+
+  # Skip specific IDs (e.g. known oversized books):
+  python3 tasks/gutenberg/scripts/build_next_manifest.py --limit 25 --require-cache \\
+    --exclude-ids 11248,11275 \\
+    --out tasks/gutenberg/manifests/philosophy_next25_batch1.json
+
+  # Skip IDs already present in other batch manifests:
+  python3 tasks/gutenberg/scripts/build_next_manifest.py --limit 25 --require-cache \\
+    --exclude-manifests tasks/gutenberg/manifests/philosophy_next25_batch1.json \\
+    --out tasks/gutenberg/manifests/philosophy_next25_batch2.json
 """
 
 from __future__ import annotations
 
 import argparse
+import glob
 import json
 import os
 import subprocess
@@ -30,6 +41,14 @@ from typing import Any
 def repo_root() -> str:
     # This file lives at tasks/gutenberg/scripts/ — three levels up is the repo root.
     return os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
+
+
+def has_split_cache(gutenberg_id: int, cache_root: str) -> bool:
+    """True when books/pg-cache/<id>/ has at least one section file."""
+    cache_dir = os.path.join(cache_root, str(gutenberg_id))
+    if not os.path.isdir(cache_dir):
+        return False
+    return bool(glob.glob(os.path.join(cache_dir, "PG*_Section_*.txt")))
 
 
 def extract_string_titles(obj: Any) -> list[str] | None:
@@ -68,12 +87,14 @@ def flow_on_chain_titles(network: str) -> set[str]:
     root = repo_root()
     cmd = [
         "flow",
+        "--config-path",
+        os.path.join(root, "flow.json"),
         "scripts",
         "execute",
         "tasks/gutenberg/scripts/list_all_book_titles.cdc",
         "--network",
         network,
-        "-f",
+        "--format",
         "json",
     ]
     proc = subprocess.run(cmd, cwd=root, capture_output=True, text=True)
@@ -91,7 +112,7 @@ def flow_on_chain_titles(network: str) -> set[str]:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Build next-N manifest not yet on-chain.")
-    ap.add_argument("--limit", type=int, default=100, help="Max entries (default 100)")
+    ap.add_argument("--limit", type=int, default=25, help="Max entries (default 25)")
     ap.add_argument(
         "--source-manifest",
         default="tasks/gutenberg/manifests/philosophy.json",
@@ -109,7 +130,61 @@ def main() -> None:
         action="store_true",
         help="Do not call flow: take the first --limit manifest rows with status=split (manifest order).",
     )
+    ap.add_argument(
+        "--exclude-ids",
+        default="",
+        help="Comma-separated gutenberg_id values to skip (e.g. --exclude-ids 11248,11275).",
+    )
+    ap.add_argument(
+        "--exclude-manifests",
+        default="",
+        help="Comma-separated manifest file paths whose IDs to exclude (e.g. already-batched manifests).",
+    )
+    ap.add_argument(
+        "--require-cache",
+        action="store_true",
+        help="Only include entries with split section files under books/pg-cache/<id>/.",
+    )
+    ap.add_argument(
+        "--cache-root",
+        default="books/pg-cache",
+        help="Cache root for --require-cache (default books/pg-cache).",
+    )
+    ap.add_argument(
+        "--status",
+        default="split",
+        help="Manifest status to select (default split). Use pending for the next fetch/split queue.",
+    )
+    ap.add_argument(
+        "--mark-split",
+        action="store_true",
+        help="Set status=split on output entries (use with --status pending before pipeline-manifest).",
+    )
     args = ap.parse_args()
+
+    # Build excluded ID set from --exclude-ids and --exclude-manifests
+    exclude_ids: set[int] = set()
+    for part in args.exclude_ids.split(","):
+        part = part.strip()
+        if part:
+            try:
+                exclude_ids.add(int(part))
+            except ValueError:
+                sys.stderr.write(f"Warning: --exclude-ids value {part!r} is not an integer; ignored.\n")
+    for mpath in args.exclude_manifests.split(","):
+        mpath = mpath.strip()
+        if not mpath:
+            continue
+        full = mpath if os.path.isabs(mpath) else os.path.join(repo_root(), mpath)
+        if not os.path.exists(full):
+            sys.stderr.write(f"Warning: --exclude-manifests file {full!r} not found; ignored.\n")
+            continue
+        with open(full, encoding="utf-8") as f:
+            em = json.load(f)
+        for e in em.get("entries") or []:
+            gid = e.get("gutenberg_id")
+            if isinstance(gid, int):
+                exclude_ids.add(gid)
 
     if args.local_only:
         on_chain: set[str] | None = None
@@ -129,20 +204,32 @@ def main() -> None:
     with open(src, encoding="utf-8") as f:
         manifest = json.load(f)
 
+    cache_root = args.cache_root if os.path.isabs(args.cache_root) else os.path.join(root, args.cache_root)
+
+    want_status = (args.status or "split").strip().lower()
     entries = manifest.get("entries") or []
     picked: list[dict] = []
     for e in entries:
         if len(picked) >= args.limit:
             break
         status = (e.get("status") or "").strip().lower()
-        if status != "split":
+        if status != want_status:
             continue
         title = (e.get("title") or "").strip()
         if not title:
             continue
+        gid = e.get("gutenberg_id")
+        if isinstance(gid, int) and gid in exclude_ids:
+            continue
+        if args.require_cache:
+            if not isinstance(gid, int) or not has_split_cache(gid, cache_root):
+                continue
         if on_chain is not None and title in on_chain:
             continue
-        picked.append(e)
+        row = dict(e)
+        if args.mark_split:
+            row["status"] = "split"
+        picked.append(row)
 
     out_path = args.out if os.path.isabs(args.out) else os.path.join(root, args.out)
     os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
@@ -155,6 +242,8 @@ def main() -> None:
         print(f"Wrote {len(picked)} entries to {out_path} (--local-only, first split rows)")
     else:
         print(f"Wrote {len(picked)} entries to {out_path} (on-chain titles excluded: {len(on_chain)})")
+    if exclude_ids:
+        print(f"Excluded IDs: {sorted(exclude_ids)}")
     if len(picked) < args.limit:
         print(f"Warning: only {len(picked)} books matched (limit was {args.limit}).", file=sys.stderr)
 

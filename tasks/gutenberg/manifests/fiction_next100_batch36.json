@@ -1,0 +1,1005 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 3185,
+      "title": "Those Extraordinary Twins",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Conjoined twins -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3186,
+      "title": "The Mysterious Stranger, and Other Stories",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Humorous stories, American; United States -- Social life and customs -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3188,
+      "title": "Mark Twain's Speeches",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Speeches, addresses, etc., American",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3189,
+      "title": "Sketches New and Old",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Humorous stories, American; United States -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3190,
+      "title": "1601: Conversation as it was by the Social Fireside in the Time of the Tudors",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction; Raleigh, Walter, Sir, 1552?-1618 -- Fiction; Imaginary conversations",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3191,
+      "title": "Goldsmith's Friend Abroad Again",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Imaginary letters; United States -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3192,
+      "title": "The Curious Republic of Gondour, and Other Whimsical Sketches",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Short stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3193,
+      "title": "Mark Twain's Letters \u2014 Volume 1 (1853-1866)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3194,
+      "title": "Mark Twain's Letters \u2014 Volume 2 (1867-1875)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3195,
+      "title": "Mark Twain's Letters \u2014 Volume 3 (1876-1885)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3196,
+      "title": "Mark Twain's Letters \u2014 Volume 4 (1886-1900)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3197,
+      "title": "Mark Twain's Letters \u2014 Volume 5 (1901-1906)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3198,
+      "title": "Mark Twain's Letters \u2014 Volume 6 (1907-1910)",
+      "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Twain, Mark, 1835-1910 -- Correspondence; Authors, American -- 19th century -- Correspondence",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3228,
+      "title": "Poems of Progress and New Thought Pastels",
+      "author": "Wilcox, Ella Wheeler, 1850-1919",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3229,
+      "title": "Helen of Troy",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Helen, of Troy, Queen of Sparta -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3230,
+      "title": "The Counterpane Fairy",
+      "author": "Pyle, Katharine, 1863-1938",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Children's stories; Fairies -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3232,
+      "title": "Songs of the Ridings",
+      "author": "Moorman, F. W. (Frederic William), 1872-1919",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry -- England -- Yorkshire; Dialect poetry, English -- England -- Yorkshire; English language -- Dialects -- England -- Yorkshire -- Texts; Yorkshire (England) -- Poetry; Yorkshire (England) -- Languages -- History -- Sources",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3235,
+      "title": "A First Year in Canterbury Settlement",
+      "author": "Butler, Samuel, 1835-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canterbury (N.Z.) -- Description and travel",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3236,
+      "title": "Mr. Bonaparte of Corsica",
+      "author": "Bangs, John Kendrick, 1862-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Napoleon I, Emperor of the French, 1769-1821 -- Humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3237,
+      "title": "The Garotters",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 19th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3238,
+      "title": "Poems of Cheer",
+      "author": "Wilcox, Ella Wheeler, 1850-1919",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3239,
+      "title": "The Puppet Crown",
+      "author": "MacGrath, Harold, 1871-1932",
+      "genre": "Adventure",
+      "language": "en",
+      "subjects": "Adventure stories; Europe -- Fiction; Kings and rulers -- Fiction; Americans -- Europe -- Fiction; Imaginary places -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3240,
+      "title": "Cap'n Eri",
+      "author": "Lincoln, Joseph Crosby, 1870-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Ship captains -- Fiction; Massachusetts -- Fiction; Cape Cod (Mass.) -- Fiction; Housekeepers -- Fiction; Wives -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3241,
+      "title": "Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; North West Mounted Police (Canada) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3242,
+      "title": "The Doctor : A Tale of the Rockies",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Physicians -- Fiction; Canada -- Fiction; Mountain life -- Fiction; Rocky Mountains -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3243,
+      "title": "Glengarry School Days: A Story of Early Days in Glengarry",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Canada -- Fiction; Glengarry (Ont.) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3244,
+      "title": "To Him That Hath: A Tale of the West of Today",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; Social problems -- Fiction; Northwest, Canadian -- Fiction; Industrial relations -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3245,
+      "title": "Black Rock: A Tale of the Selkirks",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; Selkirk Range -- Fiction; Lumber camps -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3247,
+      "title": "The Patrol of the Sun Dance Trail",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; North West Mounted Police (Canada) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3248,
+      "title": "The Sky Pilot: A Tale of the Foothills",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Western stories; Canada -- Fiction; Clergy -- Fiction; Social problems -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3249,
+      "title": "The Major",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; World War, 1914-1918 -- Canada -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3250,
+      "title": "How to Tell a Story, and Other Essays",
+      "author": "Twain, Mark, 1835-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays; Short stories; Storytelling",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3255,
+      "title": "Moments of Vision and Miscellaneous Verses",
+      "author": "Hardy, Thomas, 1840-1928",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Poetry; English poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3258,
+      "title": "A Laodicean : A Story of To-day",
+      "author": "Hardy, Thomas, 1840-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Castles -- Conservation and restoration -- Fiction; Love stories; Wessex (England) -- Fiction; Architects -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3259,
+      "title": "Countess Kate",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Children -- Conduct of life -- Juvenile fiction; London (England) -- Juvenile fiction; Inheritance and succession -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3262,
+      "title": "The Pilgrims of Hope and Chants for Socialists",
+      "author": "Morris, William, 1834-1896",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Socialism -- Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3263,
+      "title": "The Portygee",
+      "author": "Lincoln, Joseph Crosby, 1870-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Grandparent and child -- Fiction; Spanish Americans -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3264,
+      "title": "Dennison Grant: A Novel of To-day",
+      "author": "Stead, Robert J. C., 1880-1959",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canada -- Fiction; Farmers -- Fiction; Prairie Provinces -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3265,
+      "title": "The Re-Creation of Brian Kent",
+      "author": "Wright, Harold Bell, 1872-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- Social life and customs -- Fiction; Christian life -- Fiction; Ozark Mountains -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3266,
+      "title": "Miss Billy",
+      "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Young women -- Conduct of life -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3267,
+      "title": "Old Love Stories Retold",
+      "author": "Le Gallienne, Richard, 1866-1947",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Biography; Love stories; Heine, Heinrich, 1797-1856; Authors, German -- 19th century -- Biography",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3269,
+      "title": "The Autobiography of Mark Rutherford, Edited by his friend Reuben Shapcott",
+      "author": "White, William Hale, 1831-1913",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Religious fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3271,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 1: Essays, Sketches, and Letters",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3272,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 2: War",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3273,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 3: Stories and Romances",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3274,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 4: To California and Return",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3275,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 5: The London Punch Letters",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3276,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 6: Artemus Ward's Panorama",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3277,
+      "title": "The Complete Works of Artemus Ward \u2014 Part 7: Miscellaneous",
+      "author": "Ward, Artemus, 1834-1867",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American wit and humor",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3278,
+      "title": "Cambridge Pieces",
+      "author": "Butler, Samuel, 1835-1902",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays; Short stories, English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3280,
+      "title": "Cap'n Warren's Wards",
+      "author": "Lincoln, Joseph Crosby, 1870-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; Guardian and ward -- Fiction; Massachusetts -- Fiction; Wealth -- Fiction; Child rearing -- Fiction; Responsibility -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3281,
+      "title": "Cy Whittaker's Place",
+      "author": "Lincoln, Joseph Crosby, 1870-1944",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Man-woman relationships -- Fiction; Massachusetts -- Fiction; Cape Cod (Mass.) -- Fiction; Adoption -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3282,
+      "title": "The Brown Fairy Book",
+      "author": "Lang, Andrew, 1844-1912",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fairy tales",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3285,
+      "title": "The Deerslayer",
+      "author": "Cooper, James Fenimore, 1789-1851",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; War stories; Delaware Indians -- Fiction; New York (State) -- History -- French and Indian War, 1754-1763 -- Fiction; Bildungsromans; Male friendship -- Fiction; Frontier and pioneer life -- Fiction; Bumppo, Natty (Fictitious character) -- Fiction; Hunters -- Fiction; Scouting (Reconnaissance) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3287,
+      "title": "The Man from Glengarry: A Tale of the Ottawa",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Glengarry (Ont.) -- Fiction; Christian fiction; Canada -- History -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3288,
+      "title": "The Sky Pilot in No Man's Land",
+      "author": "Connor, Ralph, 1860-1937",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3289,
+      "title": "The Valley of Fear",
+      "author": "Doyle, Arthur Conan, 1859-1930",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Holmes, Sherlock (Fictitious character) -- Fiction; Private investigators -- England -- Fiction; Detective and mystery stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3292,
+      "title": "The Clever Woman of the Family",
+      "author": "Yonge, Charlotte M. (Charlotte Mary), 1823-1901",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Young women -- Fiction; Single women -- Fiction; Domestic fiction; Sex role -- Fiction; Women -- England -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3294,
+      "title": "The sea-hawk",
+      "author": "Sabatini, Rafael, 1875-1950",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Sea stories; Adventure stories; Pirates -- Fiction; Muslims -- Fiction; British -- Africa, North -- Fiction; Africa, North -- Fiction; Cornwall (England : County) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3295,
+      "title": "The Poems of Emma Lazarus, Volume 1",
+      "author": "Lazarus, Emma, 1849-1887",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry; Literature -- Collections",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3301,
+      "title": "The Naturewoman",
+      "author": "Sinclair, Upton, 1878-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3302,
+      "title": "The Second-Story Man",
+      "author": "Sinclair, Upton, 1878-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3303,
+      "title": "Prince Hagen",
+      "author": "Sinclair, Upton, 1878-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 20th century",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3304,
+      "title": "The Machine",
+      "author": "Sinclair, Upton, 1878-1968",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "American drama -- 20th century; New York (N.Y.) -- Drama; Socialists -- Drama; Political corruption -- Drama; Tammany Hall -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3305,
+      "title": "Ballads of Peace in War",
+      "author": "Earls, Michael, 1873-1937",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "American poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3315,
+      "title": "Down the Mother Lode",
+      "author": "Hemphill, Vivia, 1889-1934",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, American; California -- Gold discoveries -- Fiction; Frontier and pioneer life -- California -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3318,
+      "title": "Days with Sir Roger De Coverley",
+      "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English essays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3320,
+      "title": "Mohammed Ali and His House",
+      "author": "M\u00fchlbach, L. (Luise), 1814-1873; Coleman, Chapman, Mrs., 1813-1891 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Muhammad Ali Basha, Governor of Egypt, 1769-1849 -- Fiction; Egypt -- History -- Mohammed Ali, 1805-1849 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3321,
+      "title": "Children of the Whirlwind",
+      "author": "Scott, Leroy, 1875-1929",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Love stories; Criminals -- Fiction; Ex-convicts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3322,
+      "title": "East Lynne",
+      "author": "Wood, Henry, Mrs., 1814-1887",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "England -- Fiction; Psychological fiction; Domestic fiction; Governesses -- Fiction; Illegitimate children -- Fiction; France -- Fiction; Accident victims -- Fiction; Seduction -- Fiction; Runaway wives -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3323,
+      "title": "The Ward of King Canute: A Romance of the Danish Conquest",
+      "author": "Liljencrantz, Ottilie A. (Ottilia Adelina), 1876-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Canute I, King of England, 995?-1035 -- Fiction; Great Britain -- History -- Canute, 1017-1035 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3324,
+      "title": "A Rebellious Heroine",
+      "author": "Bangs, John Kendrick, 1862-1922",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Authors -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3325,
+      "title": "Locrine: A Tragedy",
+      "author": "Swinburne, Algernon Charles, 1837-1909",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Britons -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3326,
+      "title": "The Well-Beloved: A Sketch of a Temperament",
+      "author": "Hardy, Thomas, 1840-1928",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Psychological fiction; Mothers and daughters -- Fiction; Man-woman relationships -- Fiction; Sculptors -- Fiction; Portland (England) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3329,
+      "title": "Caesar and Cleopatra",
+      "author": "Shaw, Bernard, 1856-1950",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Caesar, Julius -- Drama; Antonius, Marcus, 83 B.C.?-30 B.C. -- Drama; Cleopatra, Queen of Egypt, -30 B.C. -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3339,
+      "title": "The Wandering Jew \u2014 Volume 01",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3340,
+      "title": "The Wandering Jew \u2014 Volume 02",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3341,
+      "title": "The Wandering Jew \u2014 Volume 03",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3342,
+      "title": "The Wandering Jew \u2014 Volume 04",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3343,
+      "title": "The Wandering Jew \u2014 Volume 05",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3344,
+      "title": "The Wandering Jew \u2014 Volume 06",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3345,
+      "title": "The Wandering Jew \u2014 Volume 07",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3346,
+      "title": "The Wandering Jew \u2014 Volume 08",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3347,
+      "title": "The Wandering Jew \u2014 Volume 09",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3348,
+      "title": "The Wandering Jew \u2014 Volume 10",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3349,
+      "title": "The Wandering Jew \u2014 Volume 11",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3350,
+      "title": "The Wandering Jew \u2014 Complete",
+      "author": "Sue, Eug\u00e8ne, 1804-1857",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Jesuits -- Fiction; Inheritance and succession -- Fiction; Wandering Jew -- Fiction; France -- History -- Louis Philippe, 1830-1848 -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3362,
+      "title": "The Kentons",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "United States -- Social life and customs -- Fiction; Ohio -- Social life and customs -- Fiction; Europe -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3363,
+      "title": "Fennel and Rue",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Editors -- Fiction; Novelists -- Fiction; Fan mail -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3364,
+      "title": "Dr. Breen's Practice",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Women physicians -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3365,
+      "title": "Their Wedding Journey",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Honeymoons -- Fiction; Canada -- Description and travel -- Fiction; New York (State) -- Description and travel -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3366,
+      "title": "A Hazard of New Fortunes \u2014 Volume 1",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; City and town life -- Fiction; Domestic fiction; Married people -- Fiction; Social classes -- Fiction; Middle-aged persons -- Fiction; Moving, Household -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3367,
+      "title": "A Hazard of New Fortunes \u2014 Volume 2",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; City and town life -- Fiction; Domestic fiction; Married people -- Fiction; Social classes -- Fiction; Middle-aged persons -- Fiction; Moving, Household -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3368,
+      "title": "A Hazard of New Fortunes \u2014 Volume 3",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; City and town life -- Fiction; Domestic fiction; Married people -- Fiction; Social classes -- Fiction; Middle-aged persons -- Fiction; Moving, Household -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3369,
+      "title": "A Hazard of New Fortunes \u2014 Volume 4",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; City and town life -- Fiction; Domestic fiction; Married people -- Fiction; Social classes -- Fiction; Middle-aged persons -- Fiction; Moving, Household -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3370,
+      "title": "A Hazard of New Fortunes \u2014 Volume 5",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "New York (N.Y.) -- Fiction; City and town life -- Fiction; Domestic fiction; Married people -- Fiction; Social classes -- Fiction; Middle-aged persons -- Fiction; Moving, Household -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3371,
+      "title": "Their Silver Wedding Journey \u2014 Volume 1",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Americans -- Europe -- Fiction; Transatlantic voyages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3372,
+      "title": "Their Silver Wedding Journey \u2014 Volume 2",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Americans -- Europe -- Fiction; Transatlantic voyages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3373,
+      "title": "Their Silver Wedding Journey \u2014 Volume 3",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Americans -- Europe -- Fiction; Transatlantic voyages -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 3375,
+      "title": "The Landlord at Lion's Head \u2014 Volume 1",
+      "author": "Howells, William Dean, 1837-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Artists -- Fiction; Massachusetts -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}

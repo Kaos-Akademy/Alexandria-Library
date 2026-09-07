@@ -76,6 +76,43 @@ Pass criteria:
 - upload completes with acceptable failure rate for retries
 - no global halt from one bad book
 
+### Stage 5: 250 books, 250 proposers (fiction)
+
+```bash
+go run ./cmd/gutenberg upload \
+  -manifest tasks/gutenberg/manifests/fiction_next250_batchN.json \
+  -network mainnet \
+  -signer Prime-librarian \
+  -uploader sdk \
+  -book-concurrency 250 \
+  -proposer-key-count 250
+```
+
+Pass criteria:
+- all 250 proposer aliases load from `flow.json`
+- stable completion with no repeated invalid proposal key storms
+- if failures spike from sequence issues, reduce `-book-concurrency` first
+
+### Stage 6: 500 books, 500 proposers (fiction)
+
+Use **500 proposer keys** but **150 book concurrency** to avoid Flow access-node rate limits:
+
+```bash
+go run ./cmd/gutenberg upload \
+  -manifest tasks/gutenberg/manifests/fiction_next500_batchN.json \
+  -network mainnet \
+  -signer Prime-librarian \
+  -uploader sdk \
+  -book-concurrency 150 \
+  -proposer-key-count 500 \
+  -launch-stagger-ms 25
+```
+
+Pass criteria:
+- all 500 proposer aliases load from `flow.json`
+- stable completion with no `ResourceExhausted` / rate limit storms
+- if failures spike from rate limits, reduce `-book-concurrency` further (keys can stay at 500)
+
 ## Metrics to Record
 
 - total books selected

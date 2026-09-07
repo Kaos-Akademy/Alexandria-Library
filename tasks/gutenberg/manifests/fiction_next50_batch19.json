@@ -1,0 +1,505 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "gutenberg_id": 1444,
+      "title": "The Voice of the City: Further Stories of the Four Million",
+      "author": "Henry, O., 1862-1910",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; New York (N.Y.) -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1447,
+      "title": "The Illustrious Prince",
+      "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Princes -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1448,
+      "title": "Heidi",
+      "author": "Spyri, Johanna, 1827-1901; Edwards, Marion [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Fiction; Grandfathers -- Fiction; Mountain life -- Switzerland -- Fiction; Switzerland -- History -- 19th century -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1449,
+      "title": "The Valley of the Moon",
+      "author": "London, Jack, 1876-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Working class -- Fiction; Domestic fiction; Farm life -- Fiction; Strikes and lockouts -- Fiction; California -- Fiction; Marriage -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1450,
+      "title": "Pollyanna",
+      "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Orphans -- Juvenile fiction; Conduct of life -- Juvenile fiction; Aunts -- Juvenile fiction; Cheerfulness -- Juvenile fiction; Interpersonal relations -- Juvenile fiction; Vermont -- History -- 20th century -- Juvenile fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1453,
+      "title": "The Alkahest",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Philosophical anthropology -- Fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1454,
+      "title": "Maitre Cornelius",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1455,
+      "title": "The Hated Son",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "France -- Fiction; Man-woman relationships -- Fiction; French fiction -- Translations into English; Nobility -- France -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1456,
+      "title": "An Episode under the Terror",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1457,
+      "title": "Mistress Wilding",
+      "author": "Sabatini, Rafael, 1875-1950",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; War stories; Love stories; Adventure stories",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1458,
+      "title": "Dream Life and Real Life: A Little African Story",
+      "author": "Schreiner, Olive, 1855-1920",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Fiction; Short stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1459,
+      "title": "Prufrock and Other Observations",
+      "author": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1460,
+      "title": "The Black Dwarf",
+      "author": "Scott, Walter, 1771-1832",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Scotland -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1461,
+      "title": "A Legend of Montrose",
+      "author": "Scott, Walter, 1771-1832",
+      "genre": "Historical Fiction",
+      "language": "en",
+      "subjects": "Historical fiction; Montrose, James Graham, Marquis of, 1612-1650 -- Fiction; Scotland -- History -- Charles I, 1625-1649 -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1462,
+      "title": "Some Roundabout Papers",
+      "author": "Thackeray, William Makepeace, 1811-1863",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1463,
+      "title": "The Private Papers of Henry Ryecroft",
+      "author": "Gissing, George, 1857-1903",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "English fiction -- 19th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1464,
+      "title": "Contributions to All The Year Round",
+      "author": "Dickens, Charles, 1812-1870 [Editor]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Essays",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1465,
+      "title": "The Wreck of the Golden Mary",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Gold mines and mining -- Fiction; Shipwrecks -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1467,
+      "title": "Some Christmas Stories",
+      "author": "Dickens, Charles, 1812-1870",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories; Christmas stories, English; Holidays -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1471,
+      "title": "New Poems",
+      "author": "Thompson, Francis, 1859-1907",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "English poetry",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1472,
+      "title": "In a German Pension",
+      "author": "Mansfield, Katherine, 1888-1923",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Germany -- Social life and customs -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1473,
+      "title": "The Absentee",
+      "author": "Edgeworth, Maria, 1768-1849",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Satire; Domestic fiction; Ireland -- Fiction; Landowners -- Fiction; Administration of estates -- Fiction; Socialites -- Fiction; British -- Ireland -- Fiction; Absentee landlordism -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1474,
+      "title": "The Illustrious Gaudissart",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1475,
+      "title": "Gaudissart II",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Bell, Clara, 1834-1927 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1476,
+      "title": "Chance: A Tale in Two Parts",
+      "author": "Conrad, Joseph, 1857-1924",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Sea stories; Psychological fiction; Young women -- Fiction; Love stories; Fathers and daughters -- Fiction; Children of prisoners -- Fiction; Ship captains' spouses -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1477,
+      "title": "The Toys of Peace, and Other Papers",
+      "author": "Saki, 1870-1916",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Short stories, English; English fiction -- 20th century",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1480,
+      "title": "Tom Brown's School Days",
+      "author": "Hughes, Thomas, 1822-1896",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Schools -- Fiction; England -- Fiction; Bildungsromans; Boys -- Fiction; Rugby School -- Fiction; Endowed public schools (Great Britain) -- Fiction",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1481,
+      "title": "A Daughter of Eve",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1482,
+      "title": "Modeste Mignon",
+      "author": "Balzac, Honor\u00e9 de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "French fiction -- Translations into English",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1484,
+      "title": "The Four Horsemen of the Apocalypse",
+      "author": "Blasco Ib\u00e1\u00f1ez, Vicente, 1867-1928; Jordan, Charlotte Brewster [Translator]",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "World War, 1914-1918 -- Fiction; War stories",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1495,
+      "title": "The Golf Course Mystery",
+      "author": "Steele, Chester K.",
+      "genre": "Mystery",
+      "language": "en",
+      "subjects": "Detective and mystery stories; Golf stories; Golf courses -- Fiction",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1496,
+      "title": "Massacre at Paris",
+      "author": "Marlowe, Christopher, 1564-1593",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Guise, Henri, duc de, 1550-1588 -- Drama; Saint Bartholomew's Day, Massacre of, France, 1572 -- Drama; Tragedies (Drama); Historical drama",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1500,
+      "title": "King Henry VI, Part 1",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1501,
+      "title": "King Henry VI, Part 2",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1502,
+      "title": "King Henry VI, Part 3",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry VI, King of England, 1421-1471 -- Drama; Great Britain -- Kings and rulers -- Drama; Historical drama; Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1503,
+      "title": "King Richard III",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Great Britain -- Kings and rulers -- Drama; Richard III, King of England, 1452-1485 -- Drama; Tragedies (Drama); Historical drama; Great Britain -- History -- Richard III, 1483-1485 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1504,
+      "title": "The Comedy of Errors",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Shipwreck victims -- Drama; Mistaken identity -- Drama; Brothers -- Drama; Greece -- Drama; Twins -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1505,
+      "title": "The Rape of Lucrece",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Poetry",
+      "language": "en",
+      "subjects": "Poetry",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1506,
+      "title": "The Two Noble Kinsmen",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Knights and knighthood -- Drama; Athens (Greece); Tragicomedy",
+      "source": "catalog:csv",
+      "status": "split"
+    },
+    {
+      "gutenberg_id": 1507,
+      "title": "Titus Andronicus",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Tragedies (Drama); Andronicus, Titus (Legendary character) -- Drama; Goths -- Drama; Generals -- Drama; Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama; Historical drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1508,
+      "title": "The Taming of the Shrew",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Man-woman relationships -- Drama; Married people -- Drama; Sex role -- Drama; Padua (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1509,
+      "title": "The Two Gentlemen of Verona",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Verona (Italy) -- Drama; Triangles (Interpersonal relations) -- Drama; Exiles -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1510,
+      "title": "Love's Labour's Lost",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Courts and courtiers -- Drama; Princesses -- Drama; Navarre (Kingdom) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1511,
+      "title": "King John",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "John, King of England, 1167-1216 -- Drama; Great Britain -- History -- John, 1199-1216 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1512,
+      "title": "King Richard II",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Richard II, King of England, 1367-1400 -- Drama; Tragedies (Drama); Historical drama; Great Britain -- History -- Richard II, 1377-1399 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1513,
+      "title": "Romeo and Juliet",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Vendetta -- Drama; Youth -- Drama; Verona (Italy) -- Drama; Juliet (Fictitious character) -- Drama; Romeo (Fictitious character) -- Drama; Conflict of generations -- Drama; Tragedies (Drama)",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1514,
+      "title": "A Midsummer Night's Dream",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Courtship -- Drama; Athens (Greece) -- Drama; Fairy plays",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1515,
+      "title": "The Merchant of Venice",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Jews -- Italy -- Drama; Moneylenders -- Drama; Venice (Italy) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1516,
+      "title": "King Henry IV, Part 1",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Henry IV, King of England, 1367-1413 -- Drama; Historical drama; Great Britain -- History -- Henry IV, 1399-1413 -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    },
+    {
+      "gutenberg_id": 1517,
+      "title": "The Merry Wives of Windsor",
+      "author": "Shakespeare, William, 1564-1616",
+      "genre": "Fiction",
+      "language": "en",
+      "subjects": "Comedy plays; Falstaff, John, Sir (Fictitious character) -- Drama; Married women -- Drama; Windsor (Windsor and Maidenhead, England) -- Drama",
+      "source": "catalog:csv",
+      "status": "uploaded"
+    }
+  ]
+}
